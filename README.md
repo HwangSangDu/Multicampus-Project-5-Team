@@ -55,5 +55,12 @@
 - [배우  지나  데이비스, 할리우드  성차별 'GD 지수' 공개](http://www.koreaherald.com/view.php?ud=20160925000039&kr=1)
 
   
+구글 docs : 
+https://docs.google.com/document/d/10GKN1RD5j6CajKsMrkqt-kxfzkio2OzatDNEHnY9d3Q/edit?usp=sharing
 
+구글 드라이브 : 
+https://drive.google.com/drive/folders/0B8eYTvnXKa23flR5VEpvTlN6V1ZQQTRkNnNMOGd4OUV4MzEyekF5T21oRkV5QldYOWRNc2M?usp=sharing
+
+구글 클래스 : 
+https://classroom.google.com/u/0/o/MTQ4ODg1NjI1Mzla
   
