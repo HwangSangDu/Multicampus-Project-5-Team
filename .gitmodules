@@ -1,0 +1,3 @@
+[submodule "voice-gender"]
+	path = voice-gender
+	url = https://github.com/primaryobjects/voice-gender
