@@ -1,3 +1,6 @@
 [submodule "voice-gender"]
 	path = voice-gender
 	url = https://github.com/primaryobjects/voice-gender
+[submodule "selenium"]
+	path = selenium
+	url = https://github.com/SeleniumHQ/selenium.git
