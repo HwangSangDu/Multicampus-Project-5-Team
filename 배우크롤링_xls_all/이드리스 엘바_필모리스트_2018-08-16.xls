@@ -1,0 +1,294 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '이드리스 엘바'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>몰리스 게임 </td>
+					<td>Molly’s game</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>토르: 라그나로크</td>
+					<td>THOR: RAGNAROK</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지,SF</td>
+					<td>주연</td>
+					<td>39,248,432,595</td>
+					<td>4,857,152</td>
+					<td>39,251,492,595</td>
+					<td>4,857,458</td>
+				</tr>
+			
+				<tr>
+					<td>다크타워: 희망의 탑</td>
+					<td>The Dark Tower</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지</td>
+					<td>주연</td>
+					<td>761,759,275</td>
+					<td>97,017</td>
+					<td>761,759,275</td>
+					<td>97,017</td>
+				</tr>
+			
+				<tr>
+					<td>우리 사이의 거대한 산</td>
+					<td>The Mountain Between Us</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>액션,어드벤처,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>바스티유 데이</td>
+					<td>Bastille Day</td>
+					<td>2016</td>
+					<td>미국,프랑스</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>766,892,600</td>
+					<td>96,579</td>
+					<td>766,892,600</td>
+					<td>96,579</td>
+				</tr>
+			
+				<tr>
+					<td>스타트렉 비욘드</td>
+					<td>Star Trek Beyond</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,SF</td>
+					<td>주연</td>
+					<td>10,193,232,820</td>
+					<td>1,157,472</td>
+					<td>10,193,232,820</td>
+					<td>1,157,472</td>
+				</tr>
+			
+				<tr>
+					<td>더 건맨 : 테이큰 감독 뉴프로젝트</td>
+					<td>The Gunman</td>
+					<td>2015</td>
+					<td>프랑스,스페인,영국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>92,000</td>
+					<td>34</td>
+					<td>92,000</td>
+					<td>34</td>
+				</tr>
+			
+				<tr>
+					<td>정글북</td>
+					<td>The Jungle Book</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>어드벤처,드라마</td>
+					<td>주연</td>
+					<td>21,517,513,134</td>
+					<td>2,537,419</td>
+					<td>21,517,647,134</td>
+					<td>2,537,438</td>
+				</tr>
+			
+				<tr>
+					<td>더 건맨</td>
+					<td>The Gunman</td>
+					<td>2015</td>
+					<td>프랑스,스페인,영국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>833,925,965</td>
+					<td>107,444</td>
+					<td>833,925,965</td>
+					<td>107,444</td>
+				</tr>
+			
+				<tr>
+					<td>노 굿 디드</td>
+					<td>No Good Deed</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>토르: 다크 월드</td>
+					<td>Thor: The Dark World </td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지</td>
+					<td>주연-헤임달역</td>
+					<td>22,525,808,500</td>
+					<td>3,039,889</td>
+					<td>22,525,808,500</td>
+					<td>3,039,889</td>
+				</tr>
+			
+				<tr>
+					<td>퍼시픽 림</td>
+					<td>Pacific Rim</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>액션,SF,어드벤처</td>
+					<td>주연-스탁커 펜테코스트 역</td>
+					<td>20,477,392,512</td>
+					<td>2,539,114</td>
+					<td>20,477,374,512</td>
+					<td>2,539,113</td>
+				</tr>
+			
+				<tr>
+					<td>만델라: 자유를 향한 머나먼 여정</td>
+					<td>Mandela: Long Walk to Freedom</td>
+					<td>2013</td>
+					<td>영국,남아프리카공화국</td>
+					<td>드라마,사극</td>
+					<td>주연-넬슨 만델라 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>프로메테우스</td>
+					<td>Prometheus</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>SF,스릴러</td>
+					<td>주연</td>
+					<td>8,600,146,099</td>
+					<td>971,482</td>
+					<td>8,600,146,099</td>
+					<td>971,482</td>
+				</tr>
+			
+				<tr>
+					<td>고스트 라이더 : 복수의 화신</td>
+					<td>Ghost Rider: Spirit Of Vengeance</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션,판타지,스릴러</td>
+					<td>주연-모로 역</td>
+					<td>902,982,500</td>
+					<td>117,263</td>
+					<td>902,998,500</td>
+					<td>117,265</td>
+				</tr>
+			
+				<tr>
+					<td>옵세스드</td>
+					<td>Obsessed</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>디스 크리스마스</td>
+					<td>This Christmas</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아버지의 작은 소녀들</td>
+					<td>Daddy&#039;s Little Girls</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>4월의 어느 날</td>
+					<td>Sometimes In April</td>
+					<td>2005</td>
+					<td>프랑스,미국</td>
+					<td>전쟁,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

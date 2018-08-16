@@ -1,0 +1,281 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '오드리 토투'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>파리의 밤이 열리면</td>
+					<td>Open at Night</td>
+					<td>2016</td>
+					<td>프랑스</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>43,120,600</td>
+					<td>5,877</td>
+					<td>43,120,600</td>
+					<td>5,877</td>
+				</tr>
+			
+				<tr>
+					<td>이터너티</td>
+					<td>Eternite</td>
+					<td>2016</td>
+					<td>프랑스</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>34,559,100</td>
+					<td>4,647</td>
+					<td>34,559,100</td>
+					<td>4,647</td>
+				</tr>
+			
+				<tr>
+					<td>마이크롭 앤 가솔린</td>
+					<td>Microbe and Gasoline</td>
+					<td>2015</td>
+					<td>프랑스</td>
+					<td>코미디,드라마</td>
+					<td>주연-마리-테레스역</td>
+					<td>33,781,400</td>
+					<td>4,339</td>
+					<td>34,081,400</td>
+					<td>4,399</td>
+				</tr>
+			
+				<tr>
+					<td>무드 인디고</td>
+					<td>Mood Indigo</td>
+					<td>2013</td>
+					<td>프랑스,벨기에</td>
+					<td>드라마,판타지</td>
+					<td>주연</td>
+					<td>375,764,100</td>
+					<td>46,666</td>
+					<td>378,103,230</td>
+					<td>46,998</td>
+				</tr>
+			
+				<tr>
+					<td>테레즈 데케루</td>
+					<td>Therese Desqueyroux</td>
+					<td>2012</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>9,716,500</td>
+					<td>1,334</td>
+					<td>9,716,500</td>
+					<td>1,334</td>
+				</tr>
+			
+				<tr>
+					<td>시작은 키스!</td>
+					<td>Delicacy</td>
+					<td>2011</td>
+					<td>프랑스</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연-나탈리 켈역</td>
+					<td>250,232,000</td>
+					<td>32,626</td>
+					<td>252,250,900</td>
+					<td>32,880</td>
+				</tr>
+			
+				<tr>
+					<td>뷰티풀 라이즈</td>
+					<td>Beautiful Lies</td>
+					<td>2010</td>
+					<td>프랑스</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>6,445,500</td>
+					<td>903</td>
+					<td>6,445,500</td>
+					<td>903</td>
+				</tr>
+			
+				<tr>
+					<td>코코 샤넬</td>
+					<td>Coco Before Chanel</td>
+					<td>2009</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연-가브리엘 샤넬 역</td>
+					<td>1,559,386,698</td>
+					<td>210,018</td>
+					<td>1,534,300,000</td>
+					<td>206,769</td>
+				</tr>
+			
+				<tr>
+					<td>함께 있을 수 있다면</td>
+					<td>Hunting and Gathering / Ensemble, C&#039;Est Tout</td>
+					<td>2007</td>
+					<td>프랑스</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>프라이스리스</td>
+					<td>Priceless</td>
+					<td>2006</td>
+					<td>프랑스</td>
+					<td>코미디,드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>850,396,500</td>
+					<td>129,645</td>
+					<td>850,445,500</td>
+					<td>127,098</td>
+				</tr>
+			
+				<tr>
+					<td>다빈치 코드</td>
+					<td>The Da Vinci Code</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>미스터리,스릴러</td>
+					<td>주연-소피 느부역</td>
+					<td>0</td>
+					<td>3,339,082</td>
+					<td>18,873,057,800</td>
+					<td>3,022,936</td>
+				</tr>
+			
+				<tr>
+					<td>사랑은 타이밍</td>
+					<td>The Russian Dolls</td>
+					<td>2005</td>
+					<td>프랑스</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,532</td>
+					<td>9,012,000</td>
+					<td>1,488</td>
+				</tr>
+			
+				<tr>
+					<td>인게이지먼트</td>
+					<td>A Very Long Engagement</td>
+					<td>2004</td>
+					<td>프랑스</td>
+					<td>드라마,전쟁,미스터리</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>35,400</td>
+					<td>203,299,500</td>
+					<td>31,214</td>
+				</tr>
+			
+				<tr>
+					<td>샤이닝 스타</td>
+					<td>Nowhere To Go But Up</td>
+					<td>2003</td>
+					<td>프랑스</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>더티 프리티 씽</td>
+					<td>Dirty Pretty Things</td>
+					<td>2002</td>
+					<td>영국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>좋은걸 어떡해</td>
+					<td>God Is Great, I&#039;m Not</td>
+					<td>2001</td>
+					<td>프랑스</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>41</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아멜리에</td>
+					<td>Amelie Of Montmartre</td>
+					<td>2001</td>
+					<td>프랑스</td>
+					<td>코미디,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>157,562</td>
+					<td>16,932,000</td>
+					<td>2,226</td>
+				</tr>
+			
+				<tr>
+					<td>아멜리에 2</td>
+					<td>The Beating Of The Butterfly&#039;s Wings</td>
+					<td>2000</td>
+					<td>프랑스</td>
+					<td>코미디,드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

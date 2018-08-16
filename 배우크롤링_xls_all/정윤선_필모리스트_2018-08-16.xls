@@ -1,0 +1,112 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '정윤선'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>그리울 련</td>
+					<td>Amor</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>판타지,멜로/로맨스</td>
+					<td>주연</td>
+					<td>2,210,000</td>
+					<td>429</td>
+					<td>2,210,000</td>
+					<td>429</td>
+				</tr>
+			
+				<tr>
+					<td>신의 한 수</td>
+					<td>The Divine Move</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>범죄,액션</td>
+					<td>단역-여계시원역</td>
+					<td>28,810,921,456</td>
+					<td>3,566,336</td>
+					<td>28,812,027,456</td>
+					<td>3,566,852</td>
+				</tr>
+			
+				<tr>
+					<td>사이코메트리</td>
+					<td>The Gifted Hands</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>미스터리</td>
+					<td>단역-어린이집 교사역</td>
+					<td>3,978,107,129</td>
+					<td>534,176</td>
+					<td>3,978,495,129</td>
+					<td>534,273</td>
+				</tr>
+			
+				<tr>
+					<td>박수건달</td>
+					<td>Man on the Edge</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>단역-인도귀신역</td>
+					<td>28,379,548,569</td>
+					<td>3,897,969</td>
+					<td>28,379,548,569</td>
+					<td>3,897,969</td>
+				</tr>
+			
+				<tr>
+					<td>무법자</td>
+					<td>The Outlaw</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>드라마,범죄,스릴러</td>
+					<td>단역-성주옥역</td>
+					<td>1,241,201,107</td>
+					<td>163,334</td>
+					<td>1,221,713,500</td>
+					<td>160,734</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

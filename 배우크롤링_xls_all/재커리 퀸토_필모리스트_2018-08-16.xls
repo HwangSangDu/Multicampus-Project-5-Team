@@ -1,0 +1,164 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '재커리 퀸토'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>호텔 아르테미스</td>
+					<td>Hotel Artemis </td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>액션,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>646,109,500</td>
+					<td>77,792</td>
+				</tr>
+			
+				<tr>
+					<td>스노든</td>
+					<td>SNOWDEN</td>
+					<td>2016</td>
+					<td>프랑스,독일,미국</td>
+					<td>스릴러,드라마</td>
+					<td>주연</td>
+					<td>325,020,562</td>
+					<td>40,040</td>
+					<td>325,035,562</td>
+					<td>40,043</td>
+				</tr>
+			
+				<tr>
+					<td>마스: 화성으로 가는 길</td>
+					<td>Passage to Mars</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>다큐멘터리</td>
+					<td>주연</td>
+					<td>2,124,000</td>
+					<td>425</td>
+					<td>2,124,000</td>
+					<td>425</td>
+				</tr>
+			
+				<tr>
+					<td>스타트렉 비욘드</td>
+					<td>Star Trek Beyond</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,SF</td>
+					<td>주연</td>
+					<td>10,193,232,820</td>
+					<td>1,157,472</td>
+					<td>10,193,232,820</td>
+					<td>1,157,472</td>
+				</tr>
+			
+				<tr>
+					<td>히트맨: 에이전트 47</td>
+					<td>Hitman: Agent 47</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션,범죄,스릴러</td>
+					<td>주연</td>
+					<td>502,308,500</td>
+					<td>64,157</td>
+					<td>502,308,500</td>
+					<td>64,157</td>
+				</tr>
+			
+				<tr>
+					<td>스타트렉 다크니스</td>
+					<td>Star Trek Into Darkness</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>액션,SF,어드벤처</td>
+					<td>주연</td>
+					<td>12,964,828,000</td>
+					<td>1,605,271</td>
+					<td>12,986,689,500</td>
+					<td>1,607,555</td>
+				</tr>
+			
+				<tr>
+					<td>마진 콜: 24시간, 조작된 진실</td>
+					<td>Margin Call </td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>스릴러,드라마</td>
+					<td>주연-피터 설리번역</td>
+					<td>50,342,500</td>
+					<td>7,019</td>
+					<td>50,779,500</td>
+					<td>7,086</td>
+				</tr>
+			
+				<tr>
+					<td>왓츠 유어 넘버</td>
+					<td>What&#039;s Your Number?</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>조연-남자친구 릭역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스타 트렉: 더 비기닝</td>
+					<td>Star Trek</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>SF,액션,어드벤처</td>
+					<td>주연-스팍역</td>
+					<td>7,425,754,645</td>
+					<td>1,111,865</td>
+					<td>7,249,558,500</td>
+					<td>1,085,447</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,203 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '숀 패트릭 프레너리'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>강력 범죄</td>
+					<td>Dark Power</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>1,114,000</td>
+					<td>130</td>
+					<td>1,114,000</td>
+					<td>130</td>
+				</tr>
+			
+				<tr>
+					<td>분닥 세인트 2</td>
+					<td>The Boondock Saints II: All Saints Day</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>범죄,액션</td>
+					<td>주연-코너역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>마스터즈 오브 호러 시즌 2</td>
+					<td>Masters of Horror</td>
+					<td>2007</td>
+					<td>캐나다,미국,일본</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>보더라인</td>
+					<td>Borderline</td>
+					<td>2002</td>
+					<td>미국,독일</td>
+					<td>범죄,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스톤 콜드 3</td>
+					<td>Stone Cold 3</td>
+					<td>2002</td>
+					<td>캐나다,미국</td>
+					<td>액션,어드벤처</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>콘 익스프레스</td>
+					<td>Con Express</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>키스 더 브라이드</td>
+					<td>Kiss The Bride</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>코미디,드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>바디 샷</td>
+					<td>Body Shots</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-릭 해밀턴역</td>
+					<td>0</td>
+					<td>209</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>분닥세인트</td>
+					<td>The boondock saints</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>액션,범죄</td>
+					<td>주연-코너 맥마너스역</td>
+					<td>0</td>
+					<td>19,392</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>러브 이즈 매직</td>
+					<td>Simply Irresistible</td>
+					<td>1999</td>
+					<td>미국,독일</td>
+					<td>코미디,드라마,판타지</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>걸</td>
+					<td>Girl</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>수어싸이드킹</td>
+					<td>Suicide Kings</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>코미디,드라마,스릴러,미스터리,범죄</td>
+					<td>조연</td>
+					<td>0</td>
+					<td>5,023</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

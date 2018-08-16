@@ -1,0 +1,255 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '윌리엄 볼드윈'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>악몽의 미드나잇</td>
+					<td>Minutes to Midnight</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>액션,공포(호러)</td>
+					<td>주연-월터스역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>다이노 타임</td>
+					<td>Dino Time</td>
+					<td>2012</td>
+					<td>한국,미국</td>
+					<td>애니메이션,어드벤처,코미디</td>
+					<td>주연(목소리)</td>
+					<td>2,099,683,100</td>
+					<td>283,300</td>
+					<td>2,109,592,900</td>
+					<td>285,084</td>
+				</tr>
+			
+				<tr>
+					<td>스트레인저 인사이드</td>
+					<td>The Stranger Within</td>
+					<td>2012</td>
+					<td>덴마크</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>8,705,000</td>
+					<td>1,612</td>
+					<td>8,705,000</td>
+					<td>1,612</td>
+				</tr>
+			
+				<tr>
+					<td>애드리프트 인 맨하탄</td>
+					<td>Adrift in Manhattan</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>플럼 썸머</td>
+					<td>A Plumm Summer</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>어드벤처,가족</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아트 하이스트</td>
+					<td>Art Heist</td>
+					<td>2004</td>
+					<td>스페인,미국</td>
+					<td>액션,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>더블 캅스</td>
+					<td>Double Bang</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>액션,범죄,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>써스펙트</td>
+					<td>Primary Suspect</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>액션,스릴러,미스터리</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>9,616</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>바이러스</td>
+					<td>Virus</td>
+					<td>1999</td>
+					<td>미국,영국,독일,일본,프랑스</td>
+					<td>액션,공포(호러),스릴러,SF</td>
+					<td>주연-스티브 베이커역</td>
+					<td>0</td>
+					<td>42,233</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>브라더후드</td>
+					<td>Brotherhood Of Murder</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>섀터드 이미지</td>
+					<td>Shattered Image</td>
+					<td>1998</td>
+					<td>미국,영국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>351</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>커들드</td>
+					<td>Curdled</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>코미디,범죄,스릴러</td>
+					<td>주연-폴 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>페어 게임 </td>
+					<td>Fair Game</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>113,280</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>쓰리 오브 하트</td>
+					<td>Three Of Hearts</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>10,535</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>슬리버</td>
+					<td>Sliver</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>169,652</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>분노의 역류</td>
+					<td>BACKDRAFT</td>
+					<td>1991</td>
+					<td>미국</td>
+					<td>드라마,액션,미스터리,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>162,102</td>
+					<td>54,000</td>
+					<td>18</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

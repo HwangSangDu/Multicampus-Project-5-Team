@@ -1,0 +1,268 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '제시카 차스테인'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>몰리스 게임 </td>
+					<td>Molly’s game</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>주키퍼스 와이프</td>
+					<td>The Zookeeper&#039;s wife</td>
+					<td>2017</td>
+					<td>미국,영국</td>
+					<td>드라마,전쟁</td>
+					<td>주연-안토니나역</td>
+					<td>90,190,446</td>
+					<td>11,795</td>
+					<td>90,748,446</td>
+					<td>11,888</td>
+				</tr>
+			
+				<tr>
+					<td>미스 슬로운</td>
+					<td>Miss Sloane</td>
+					<td>2016</td>
+					<td>미국,프랑스</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td>381,394,300</td>
+					<td>48,051</td>
+					<td>381,394,300</td>
+					<td>48,051</td>
+				</tr>
+			
+				<tr>
+					<td>헌츠맨: 윈터스 워</td>
+					<td>The Huntsman: Winter&#039;s War</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,어드벤처</td>
+					<td>주연</td>
+					<td>3,544,262,706</td>
+					<td>445,009</td>
+					<td>3,544,262,706</td>
+					<td>445,009</td>
+				</tr>
+			
+				<tr>
+					<td>크림슨 피크</td>
+					<td>Crimson Peak</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>판타지,스릴러</td>
+					<td>주연</td>
+					<td>379,765,400</td>
+					<td>46,735</td>
+					<td>380,106,400</td>
+					<td>46,783</td>
+				</tr>
+			
+				<tr>
+					<td>마션</td>
+					<td>The Martian </td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션,어드벤처,SF</td>
+					<td>주연</td>
+					<td>39,663,145,295</td>
+					<td>4,880,800</td>
+					<td>39,672,140,595</td>
+					<td>4,881,865</td>
+				</tr>
+			
+				<tr>
+					<td>미스 줄리</td>
+					<td>Miss Julie</td>
+					<td>2014</td>
+					<td>노르웨이,영국,캐나다,미국,프랑스,아일랜드</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>32,663,500</td>
+					<td>4,421</td>
+					<td>32,778,500</td>
+					<td>4,438</td>
+				</tr>
+			
+				<tr>
+					<td>엘리노어 릭비: 그 남자</td>
+					<td>The Disappearance of Eleanor Rigby: Him</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>80,908,700</td>
+					<td>9,593</td>
+					<td>80,908,700</td>
+					<td>9,593</td>
+				</tr>
+			
+				<tr>
+					<td>엘리노어 릭비: 그 남자 그 여자</td>
+					<td>The Disappearance of Eleanor Rigby: Them</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>385,681,400</td>
+					<td>47,813</td>
+					<td>385,681,400</td>
+					<td>47,813</td>
+				</tr>
+			
+				<tr>
+					<td>엘리노어 릭비: 그 여자</td>
+					<td>The Disappearance of Eleanor Rigby: Her</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>77,773,300</td>
+					<td>9,233</td>
+					<td>77,773,300</td>
+					<td>9,233</td>
+				</tr>
+			
+				<tr>
+					<td>모스트 바이어런트</td>
+					<td>A Most Violent Year</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>범죄</td>
+					<td>주연</td>
+					<td>78,857,425</td>
+					<td>10,048</td>
+					<td>79,886,925</td>
+					<td>10,175</td>
+				</tr>
+			
+				<tr>
+					<td>인터스텔라</td>
+					<td>Interstellar</td>
+					<td>2014</td>
+					<td>미국,영국</td>
+					<td>SF</td>
+					<td>주연</td>
+					<td>82,291,089,200</td>
+					<td>10,275,484</td>
+					<td>82,669,061,000</td>
+					<td>10,309,432</td>
+				</tr>
+			
+				<tr>
+					<td>제로 다크 서티</td>
+					<td>Zero Dark Thirty</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>전쟁,액션,스릴러</td>
+					<td>주연</td>
+					<td>780,080,000</td>
+					<td>108,991</td>
+					<td>780,267,000</td>
+					<td>109,012</td>
+				</tr>
+			
+				<tr>
+					<td>마마</td>
+					<td>MAMA</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td>662,161,500</td>
+					<td>91,143</td>
+					<td>662,161,500</td>
+					<td>91,143</td>
+				</tr>
+			
+				<tr>
+					<td>로우리스: 나쁜 영웅들</td>
+					<td>Lawless</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션,범죄</td>
+					<td>주연</td>
+					<td>468,141,666</td>
+					<td>66,468</td>
+					<td>468,390,166</td>
+					<td>66,504</td>
+				</tr>
+			
+				<tr>
+					<td>테이크 쉘터 </td>
+					<td>Take shelter</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연-사만다역</td>
+					<td>39,916,900</td>
+					<td>5,324</td>
+					<td>42,076,400</td>
+					<td>5,620</td>
+				</tr>
+			
+				<tr>
+					<td>텍사스 킬링 필드 </td>
+					<td>Texas Killing Fields</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

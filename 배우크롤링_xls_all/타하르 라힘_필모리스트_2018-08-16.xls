@@ -1,0 +1,151 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '타하르 라힘'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>은판 위의 여인</td>
+					<td>The Woman In The Silver Plate</td>
+					<td>2016</td>
+					<td>프랑스</td>
+					<td>미스터리,멜로/로맨스,공포(호러)</td>
+					<td>주연</td>
+					<td>2,670,500</td>
+					<td>396</td>
+					<td>4,172,500</td>
+					<td>591</td>
+				</tr>
+			
+				<tr>
+					<td>스파이 : 디 오리지날</td>
+					<td>The Anarchists</td>
+					<td>2015</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>웰컴, 삼바</td>
+					<td>Samba</td>
+					<td>2014</td>
+					<td>프랑스</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>325,078,800</td>
+					<td>40,321</td>
+					<td>325,078,800</td>
+					<td>40,321</td>
+				</tr>
+			
+				<tr>
+					<td>노엘의 선물</td>
+					<td>Le pere Noel</td>
+					<td>2014</td>
+					<td>프랑스</td>
+					<td>코미디,드라마,가족</td>
+					<td>주연</td>
+					<td>31,279,900</td>
+					<td>4,253</td>
+					<td>31,279,900</td>
+					<td>4,253</td>
+				</tr>
+			
+				<tr>
+					<td>그랜드 센트럴</td>
+					<td>Grand Central</td>
+					<td>2013</td>
+					<td>프랑스,오스트리아 </td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>13,530,500</td>
+					<td>1,917</td>
+					<td>13,558,500</td>
+					<td>1,921</td>
+				</tr>
+			
+				<tr>
+					<td>아무도 머물지 않았다</td>
+					<td>The Past</td>
+					<td>2013</td>
+					<td>프랑스,이탈리아</td>
+					<td>드라마,미스터리</td>
+					<td>주연-사미르역</td>
+					<td>117,038,500</td>
+					<td>15,519</td>
+					<td>118,103,500</td>
+					<td>15,753</td>
+				</tr>
+			
+				<tr>
+					<td>더 인포먼트</td>
+					<td>The Informant</td>
+					<td>2013</td>
+					<td>프랑스,캐나다</td>
+					<td>범죄,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>예언자</td>
+					<td>A Prophet</td>
+					<td>2009</td>
+					<td>프랑스</td>
+					<td>드라마,범죄</td>
+					<td>주연</td>
+					<td>196,085,624</td>
+					<td>25,309</td>
+					<td>194,437,800</td>
+					<td>25,097</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

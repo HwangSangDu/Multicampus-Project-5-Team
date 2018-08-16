@@ -1,0 +1,502 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '김혜수'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>국가부도의 날</td>
+					<td></td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>미옥</td>
+					<td>A Special Lady</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>범죄,액션</td>
+					<td>주연</td>
+					<td>1,897,705,564</td>
+					<td>238,587</td>
+					<td>1,930,905,564</td>
+					<td>242,737</td>
+				</tr>
+			
+				<tr>
+					<td>굿바이 싱글</td>
+					<td>Familyhood</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>주연-주연역</td>
+					<td>16,912,706,195</td>
+					<td>2,108,273</td>
+					<td>16,913,282,195</td>
+					<td>2,108,561</td>
+				</tr>
+			
+				<tr>
+					<td>차이나타운</td>
+					<td>Coin Locker Girl</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>범죄,드라마</td>
+					<td>주연-엄마역</td>
+					<td>11,989,400,678</td>
+					<td>1,472,006</td>
+					<td>11,990,707,878</td>
+					<td>1,472,147</td>
+				</tr>
+			
+				<tr>
+					<td>관상</td>
+					<td>The Face Reader</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>사극,드라마</td>
+					<td>주연-연홍역</td>
+					<td>66,005,451,500</td>
+					<td>9,134,586</td>
+					<td>66,009,826,500</td>
+					<td>9,135,806</td>
+				</tr>
+			
+				<tr>
+					<td>도둑들</td>
+					<td>The Thieves</td>
+					<td>2012</td>
+					<td>한국,홍콩</td>
+					<td>액션,범죄</td>
+					<td>주연-팹시역</td>
+					<td>93,665,568,500</td>
+					<td>12,983,330</td>
+					<td>93,667,250,500</td>
+					<td>12,983,841</td>
+				</tr>
+			
+				<tr>
+					<td>도둑들 영화를 만들다</td>
+					<td></td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마,다큐멘터리</td>
+					<td>주연-팹시역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>이층의 악당</td>
+					<td>Villain &amp; Widow</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>코미디,미스터리</td>
+					<td>주연</td>
+					<td>4,332,815,318</td>
+					<td>605,224</td>
+					<td>4,271,851,500</td>
+					<td>596,864</td>
+				</tr>
+			
+				<tr>
+					<td>즐거운 나의 집</td>
+					<td></td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>모던보이</td>
+					<td>Modern Boy</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스,미스터리</td>
+					<td>주연</td>
+					<td>4,971,421,000</td>
+					<td>758,473</td>
+					<td>4,992,409,000</td>
+					<td>762,370</td>
+				</tr>
+			
+				<tr>
+					<td>열한번째 엄마</td>
+					<td>My 11th Mother</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>350,204</td>
+					<td>2,069,922,500</td>
+					<td>337,700</td>
+				</tr>
+			
+				<tr>
+					<td>좋지 아니한가</td>
+					<td>Skeletons In The Closet</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>주연-이모 오미경역</td>
+					<td>0</td>
+					<td>321,654</td>
+					<td>1,849,140,000</td>
+					<td>306,470</td>
+				</tr>
+			
+				<tr>
+					<td>바람피기 좋은 날</td>
+					<td>A Day For An Affair</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스,코미디</td>
+					<td>주연-주부 - 이슬 역역</td>
+					<td>0</td>
+					<td>1,847,875</td>
+					<td>10,738,218,900</td>
+					<td>1,708,979</td>
+				</tr>
+			
+				<tr>
+					<td>타짜</td>
+					<td>Tazza: The High Rollers</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-정 마담역</td>
+					<td>0</td>
+					<td>6,847,777</td>
+					<td>36,182,617,500</td>
+					<td>5,685,715</td>
+				</tr>
+			
+				<tr>
+					<td>분홍신</td>
+					<td>The Red Shoes</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,371,122</td>
+					<td>6,768,633,000</td>
+					<td>1,073,189</td>
+				</tr>
+			
+				<tr>
+					<td>얼굴 없는 미녀</td>
+					<td>Hypnotized</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>주연-지수역</td>
+					<td>0</td>
+					<td>520,753</td>
+					<td>2,228,765,000</td>
+					<td>346,015</td>
+				</tr>
+			
+				<tr>
+					<td>YMCA야구단</td>
+					<td>YMCA Baseball Team</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td>560,000</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>쓰리</td>
+					<td>Three</td>
+					<td>2002</td>
+					<td>한국,홍콩,태국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td>69,778</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>쓰리 메모리즈</td>
+					<td>Three Memories</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>신라의 달밤</td>
+					<td>Kick The Moon</td>
+					<td>2001</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,608,211</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>닥터 K</td>
+					<td>Dr.K</td>
+					<td>1998</td>
+					<td>한국</td>
+					<td>드라마,미스터리</td>
+					<td>주연-표지수역</td>
+					<td>0</td>
+					<td>30,843</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>투 타이어드 투 다이</td>
+					<td>Too Tired To Die</td>
+					<td>1998</td>
+					<td>한국</td>
+					<td>드라마,미스터리</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,008</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>찜</td>
+					<td>Tie A Yellow Ribbon</td>
+					<td>1998</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>168,813</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>미스터 콘돔</td>
+					<td>Mister Condom</td>
+					<td>1997</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>157,032</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>닥터 봉</td>
+					<td>Doctor Bong</td>
+					<td>1995</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>376,443</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>남자는 괴로워</td>
+					<td>Affliction Of Man</td>
+					<td>1995</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연-김혜수역</td>
+					<td>0</td>
+					<td>53,618</td>
+					<td>403,000</td>
+					<td>58</td>
+				</tr>
+			
+				<tr>
+					<td>영원한 제국</td>
+					<td>Eternal Empire</td>
+					<td>1995</td>
+					<td>한국</td>
+					<td>미스터리,사극</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>46,767</td>
+					<td>1,768,000</td>
+					<td>884</td>
+				</tr>
+			
+				<tr>
+					<td>블루 시걸</td>
+					<td>The Blueseagull</td>
+					<td>1994</td>
+					<td>한국</td>
+					<td>범죄,애니메이션,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>202,751</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>첫사랑</td>
+					<td>First Lover</td>
+					<td>1993</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>5,856</td>
+					<td>920,000</td>
+					<td>148</td>
+				</tr>
+			
+				<tr>
+					<td>잃어버린 너</td>
+					<td>Lost Love</td>
+					<td>1991</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>179,859</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>오세암(극영화)</td>
+					<td>Ose-Am Temple</td>
+					<td>1990</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>12,433</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>어른들은 몰라요</td>
+					<td>Grown-Ups Just Don&#039;T Understand</td>
+					<td>1988</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>220,591</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>그 마지막 겨울</td>
+					<td>That Last Winter</td>
+					<td>1988</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>39,401</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>수렁에서 건진 내 딸 2</td>
+					<td>My Daughter Saved From Den Of Evil 2</td>
+					<td>1986</td>
+					<td>한국</td>
+					<td>가족,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>18,650</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>깜보</td>
+					<td>Kam-Bo</td>
+					<td>1986</td>
+					<td>한국</td>
+					<td>액션,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>16,244</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

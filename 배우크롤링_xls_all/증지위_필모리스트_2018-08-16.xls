@@ -1,0 +1,567 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '증지위'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>몬스터 헌트</td>
+					<td>Monster Hunt</td>
+					<td>2015</td>
+					<td>중국</td>
+					<td>판타지,액션,어드벤처</td>
+					<td>주연</td>
+					<td>200,707,000</td>
+					<td>27,310</td>
+					<td>201,316,000</td>
+					<td>27,429</td>
+				</tr>
+			
+				<tr>
+					<td>유오성의 7인의 암살단</td>
+					<td>Seven Assassins</td>
+					<td>2013</td>
+					<td>중국</td>
+					<td>액션,드라마,어드벤처,스릴러</td>
+					<td>감독,주연</td>
+					<td>7,471,000</td>
+					<td>1,537</td>
+					<td>7,471,000</td>
+					<td>1,537</td>
+				</tr>
+			
+				<tr>
+					<td>엽문4: 종극일전</td>
+					<td>Ip Man: The Final Fight</td>
+					<td>2013</td>
+					<td>홍콩</td>
+					<td>드라마,액션</td>
+					<td>주연</td>
+					<td>16,017,000</td>
+					<td>2,888</td>
+					<td>16,017,000</td>
+					<td>2,888</td>
+				</tr>
+			
+				<tr>
+					<td>킬러 : 살수구양분재</td>
+					<td>The Killer Who Never Kills</td>
+					<td>2011</td>
+					<td>대만</td>
+					<td>액션,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>칠금칠종칠색랑</td>
+					<td>Beauty and the 7 Beasts</td>
+					<td>2007</td>
+					<td>홍콩</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>동경심판</td>
+					<td>東京審判</td>
+					<td>2006</td>
+					<td>중국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>5,627</td>
+					<td>33,207,000</td>
+					<td>5,797</td>
+				</tr>
+			
+				<tr>
+					<td>대장부 2</td>
+					<td>Men Suddenly In Black 2</td>
+					<td>2006</td>
+					<td>홍콩</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>와호</td>
+					<td>Operation Undercover</td>
+					<td>2006</td>
+					<td>홍콩</td>
+					<td>액션,드라마,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>춘전화화동학회</td>
+					<td>Mcdull, The Alumni</td>
+					<td>2006</td>
+					<td>홍콩</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>파이 독</td>
+					<td>The Pye-Dog</td>
+					<td>2006</td>
+					<td>홍콩</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>마환도선</td>
+					<td>A Wondrous Bet</td>
+					<td>2005</td>
+					<td>홍콩</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아수</td>
+					<td>Mob Sister</td>
+					<td>2005</td>
+					<td>홍콩</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>흑백전장</td>
+					<td>Colour Of The Loyalty</td>
+					<td>2005</td>
+					<td>홍콩</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>강호</td>
+					<td>Gong Wu</td>
+					<td>2004</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>18,800</td>
+					<td>78,654,000</td>
+					<td>12,317</td>
+				</tr>
+			
+				<tr>
+					<td>정장추녀자 2004</td>
+					<td>Love Is a Many Stupid Thing</td>
+					<td>2004</td>
+					<td>홍콩</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>무간도2 - 혼돈의 시대 </td>
+					<td>INFERNAL AFFAIRS II</td>
+					<td>2003</td>
+					<td>홍콩</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>29,120</td>
+					<td>14,820,500</td>
+					<td>2,567</td>
+				</tr>
+			
+				<tr>
+					<td>대장부</td>
+					<td>Men Suddenly In Black</td>
+					<td>2003</td>
+					<td></td>
+					<td></td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>푸보</td>
+					<td>Fu Bo</td>
+					<td>2003</td>
+					<td>홍콩</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>쓰리</td>
+					<td>Three</td>
+					<td>2002</td>
+					<td>한국,홍콩,태국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td>69,778</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>금계</td>
+					<td>Golden Chicken</td>
+					<td>2002</td>
+					<td>홍콩</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>트라이어드</td>
+					<td>Cop on a Mission</td>
+					<td>2001</td>
+					<td>홍콩</td>
+					<td>액션,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>반지연</td>
+					<td>Metade Fumaca</td>
+					<td>1999</td>
+					<td>홍콩</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>이연걸의 히트맨</td>
+					<td>Hitman / The Contract Killer</td>
+					<td>1998</td>
+					<td>중국,홍콩</td>
+					<td>액션,코미디</td>
+					<td>조연</td>
+					<td>0</td>
+					<td>18,426</td>
+					<td>7,100,000</td>
+					<td>5,970</td>
+				</tr>
+			
+				<tr>
+					<td>최후판결</td>
+					<td>Final Justice</td>
+					<td>1997</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>쌍웅출사표</td>
+					<td>Come Fly The Dragon</td>
+					<td>1994</td>
+					<td>대만</td>
+					<td>액션</td>
+					<td>감독</td>
+					<td>0</td>
+					<td>3,927</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아비와 아기 </td>
+					<td>The Days Of Being Dumb</td>
+					<td>1992</td>
+					<td>홍콩</td>
+					<td>액션,코미디</td>
+					<td>투자</td>
+					<td>0</td>
+					<td>251</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>절대쌍교</td>
+					<td>Handsome Siblings</td>
+					<td>1992</td>
+					<td>홍콩</td>
+					<td>액션,코미디,멜로/로맨스</td>
+					<td>감독</td>
+					<td>0</td>
+					<td>99,416</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>오호장</td>
+					<td>The Tigers</td>
+					<td>1991</td>
+					<td>홍콩</td>
+					<td>액션,드라마</td>
+					<td>감독,시나리오(각본)</td>
+					<td>0</td>
+					<td>27,716</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>안락생포</td>
+					<td>Faial Vacation</td>
+					<td>1990</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>감독,투자</td>
+					<td>0</td>
+					<td>3,317</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>마지막 황녀 금벽휘</td>
+					<td>Yoshiko Kawashima(The Last Princess Of Manchuria)</td>
+					<td>1990</td>
+					<td>홍콩</td>
+					<td>드라마</td>
+					<td>투자</td>
+					<td>0</td>
+					<td>7,063</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>성전강호</td>
+					<td>Carry And Papper</td>
+					<td>1990</td>
+					<td>홍콩</td>
+					<td>코미디,액션,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>17,613</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>무적쾌차</td>
+					<td>The Outlaw Brother</td>
+					<td>1990</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>투자</td>
+					<td>0</td>
+					<td>26,808</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>대두병 집합</td>
+					<td>Special police of gat-hering</td>
+					<td>1989</td>
+					<td>대만</td>
+					<td>액션,SF</td>
+					<td>감독,주연</td>
+					<td>0</td>
+					<td>43</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>금연자</td>
+					<td>Golden Swallow</td>
+					<td>1989</td>
+					<td>홍콩</td>
+					<td></td>
+					<td>투자</td>
+					<td>0</td>
+					<td>25,380</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>부귀병단</td>
+					<td>The Fortune Code</td>
+					<td>1988</td>
+					<td>홍콩</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>46,732</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>몽경영웅</td>
+					<td>Scared Staff</td>
+					<td>1988</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>21,812</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>여자감옥</td>
+					<td>Women Prison</td>
+					<td>1988</td>
+					<td>홍콩</td>
+					<td>드라마</td>
+					<td>투자</td>
+					<td>0</td>
+					<td>16,914</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>개심물어</td>
+					<td>Trouble Couples</td>
+					<td>1987</td>
+					<td>홍콩</td>
+					<td>코미디</td>
+					<td>감독,주연</td>
+					<td>0</td>
+					<td>10,630</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>구복성</td>
+					<td>Lucky Stars Go Places</td>
+					<td>1986</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>감독</td>
+					<td>0</td>
+					<td>59,248</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>최가박당 </td>
+					<td>Aces Go Places</td>
+					<td>1982</td>
+					<td>홍콩</td>
+					<td>액션,코미디</td>
+					<td>감독</td>
+					<td>0</td>
+					<td>118,528</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

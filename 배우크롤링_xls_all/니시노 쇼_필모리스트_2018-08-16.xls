@@ -1,0 +1,164 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '니시노 쇼'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>자매 : 쾌락의 노예</td>
+					<td>Medical Prison</td>
+					<td>2015</td>
+					<td>일본</td>
+					<td>멜로/로맨스,범죄</td>
+					<td>주연-하시구치 미노리역</td>
+					<td>100,000</td>
+					<td>10</td>
+					<td>100,000</td>
+					<td>10</td>
+				</tr>
+			
+				<tr>
+					<td>섹시한 마담의 은밀한 과거</td>
+					<td>Violent Love</td>
+					<td>2015</td>
+					<td>일본</td>
+					<td>멜로/로맨스</td>
+					<td>주연-마키역</td>
+					<td>300,000</td>
+					<td>60</td>
+					<td>300,000</td>
+					<td>60</td>
+				</tr>
+			
+				<tr>
+					<td>모모키야여관 포르노 촬영기</td>
+					<td>MOMOKIYA INN</td>
+					<td>2014</td>
+					<td>일본</td>
+					<td>성인물(에로)</td>
+					<td>주연</td>
+					<td>270,000</td>
+					<td>54</td>
+					<td>270,000</td>
+					<td>54</td>
+				</tr>
+			
+				<tr>
+					<td>능욕 온천장의 오후</td>
+					<td>HOUSE OF DEMONS</td>
+					<td>2013</td>
+					<td>일본</td>
+					<td>성인물(에로)</td>
+					<td>주연</td>
+					<td>30,000</td>
+					<td>10</td>
+					<td>30,000</td>
+					<td>10</td>
+				</tr>
+			
+				<tr>
+					<td>잔다라: 더 비기닝</td>
+					<td>Jan Dara: The Beginning</td>
+					<td>2012</td>
+					<td>태국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연-캬우역</td>
+					<td>17,946,000</td>
+					<td>2,502</td>
+					<td>17,946,000</td>
+					<td>2,502</td>
+				</tr>
+			
+				<tr>
+					<td>만원전철 속 그녀2</td>
+					<td>TRAIN LAWYER</td>
+					<td>2012</td>
+					<td>일본</td>
+					<td>성인물(에로)</td>
+					<td>주연</td>
+					<td>30,000</td>
+					<td>10</td>
+					<td>30,000</td>
+					<td>10</td>
+				</tr>
+			
+				<tr>
+					<td>오피스 걸의 불륜</td>
+					<td>Captured Office Lady</td>
+					<td>2009</td>
+					<td>일본</td>
+					<td>성인물(에로)</td>
+					<td>주연</td>
+					<td>350,050</td>
+					<td>75</td>
+					<td>350,050</td>
+					<td>75</td>
+				</tr>
+			
+				<tr>
+					<td>불륜, 와이프의 여동생</td>
+					<td>My Wife&#039;s Sister A Secret Week</td>
+					<td>2007</td>
+					<td>일본</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>357,050</td>
+					<td>76</td>
+					<td>357,050</td>
+					<td>76</td>
+				</tr>
+			
+				<tr>
+					<td>음란한 게이샤의 정사</td>
+					<td>Geisha Saaaan</td>
+					<td>2007</td>
+					<td>일본</td>
+					<td>성인물(에로),드라마</td>
+					<td>주연</td>
+					<td>350,050</td>
+					<td>75</td>
+					<td>350,050</td>
+					<td>75</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

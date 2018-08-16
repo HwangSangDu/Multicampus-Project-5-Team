@@ -1,0 +1,203 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '아이쉬와라 라이'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>로봇</td>
+					<td>The Robot</td>
+					<td>2010</td>
+					<td>인도</td>
+					<td>SF,코미디,액션</td>
+					<td>주연</td>
+					<td>26,607,000</td>
+					<td>3,617</td>
+					<td>26,607,000</td>
+					<td>3,617</td>
+				</tr>
+			
+				<tr>
+					<td>청원</td>
+					<td>Guzaarish</td>
+					<td>2010</td>
+					<td>인도</td>
+					<td>드라마</td>
+					<td>주연-소피아 역</td>
+					<td>553,663,000</td>
+					<td>77,500</td>
+					<td>561,441,500</td>
+					<td>78,766</td>
+				</tr>
+			
+				<tr>
+					<td>라아반</td>
+					<td>Raavan</td>
+					<td>2010</td>
+					<td>인도</td>
+					<td>드라마,액션,어드벤처</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>러브 인 샌프란시스코</td>
+					<td>Mistress Of Spices</td>
+					<td>2009</td>
+					<td>영국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>69,085</td>
+					<td>14</td>
+					<td>68,000</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>액션 리플레이</td>
+					<td>Action Replay</td>
+					<td>2009</td>
+					<td>인도</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>조다 악바르</td>
+					<td>Jodhaa Akbar</td>
+					<td>2008</td>
+					<td>인도</td>
+					<td>액션,어드벤처</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>752,000</td>
+					<td>188</td>
+				</tr>
+			
+				<tr>
+					<td>구루</td>
+					<td>Guru</td>
+					<td>2007</td>
+					<td>인도</td>
+					<td>드라마,뮤지컬</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>천재도둑미스터A</td>
+					<td>Dhoom 2</td>
+					<td>2006</td>
+					<td>인도</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>60,000</td>
+					<td>10</td>
+					<td>60,000</td>
+					<td>10</td>
+				</tr>
+			
+				<tr>
+					<td>신부와 편견</td>
+					<td>Bride &amp; Prejudice</td>
+					<td>2004</td>
+					<td>영국</td>
+					<td>멜로/로맨스,코미디,뮤지컬</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>964</td>
+					<td>0</td>
+					<td>0</td>
+				</tr>
+			
+				<tr>
+					<td>데브다스</td>
+					<td>Devdas</td>
+					<td>2002</td>
+					<td>인도</td>
+					<td>뮤지컬,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>조쉬</td>
+					<td>Josh</td>
+					<td>2000</td>
+					<td>인도</td>
+					<td>액션,드라마,뮤지컬,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>정혼</td>
+					<td>...Aur Pyaar Ho Gaya </td>
+					<td>1997</td>
+					<td>인도</td>
+					<td>가족,뮤지컬,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

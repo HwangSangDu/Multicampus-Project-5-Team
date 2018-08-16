@@ -1,0 +1,229 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '남태부'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>수성못</td>
+					<td>Duck Town</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>27,778,900</td>
+					<td>3,717</td>
+					<td>27,873,900</td>
+					<td>3,731</td>
+				</tr>
+			
+				<tr>
+					<td>계춘할망</td>
+					<td>Canola</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>가족,드라마</td>
+					<td>조연-충희역</td>
+					<td>3,599,680,348</td>
+					<td>482,259</td>
+					<td>3,602,649,348</td>
+					<td>482,784</td>
+				</tr>
+			
+				<tr>
+					<td>사돈의 팔촌</td>
+					<td>Kissing Cousin</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>단역-태부역,촬영팀</td>
+					<td>8,140,700</td>
+					<td>1,159</td>
+					<td>8,140,700</td>
+					<td>1,159</td>
+				</tr>
+			
+				<tr>
+					<td>시간이탈자</td>
+					<td>Time Renegades</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>단역-중국집 남학생1 역</td>
+					<td>9,731,838,195</td>
+					<td>1,202,384</td>
+					<td>9,731,838,195</td>
+					<td>1,202,384</td>
+				</tr>
+			
+				<tr>
+					<td>막걸스</td>
+					<td>Makgeolli Girls</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>조연-꽁치역</td>
+					<td>15,993,500</td>
+					<td>2,410</td>
+					<td>15,993,500</td>
+					<td>2,410</td>
+				</tr>
+			
+				<tr>
+					<td>18: 우리들의 성장 느와르</td>
+					<td>18 - Eighteen Noir</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-덕화역</td>
+					<td>8,717,000</td>
+					<td>1,124</td>
+					<td>8,717,000</td>
+					<td>1,124</td>
+				</tr>
+			
+				<tr>
+					<td>플랜맨</td>
+					<td>The Plan Man</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-오타쿠 관객역</td>
+					<td>4,547,866,558</td>
+					<td>635,740</td>
+					<td>4,547,866,558</td>
+					<td>635,740</td>
+				</tr>
+			
+				<tr>
+					<td>화려한 외출</td>
+					<td>Love Lesson</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-범수역</td>
+					<td>13,547,000</td>
+					<td>5,067</td>
+					<td>13,547,000</td>
+					<td>5,067</td>
+				</tr>
+			
+				<tr>
+					<td>네버다이 버터플라이</td>
+					<td>Neverdie Butterfly</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-두부역</td>
+					<td>11,002,000</td>
+					<td>1,571</td>
+					<td>11,128,000</td>
+					<td>1,585</td>
+				</tr>
+			
+				<tr>
+					<td>밤의 여왕</td>
+					<td>Queen of the Night</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>단역-어린 성우역</td>
+					<td>1,762,892,500</td>
+					<td>252,475</td>
+					<td>1,762,892,500</td>
+					<td>252,475</td>
+				</tr>
+			
+				<tr>
+					<td>명왕성</td>
+					<td>PLUTO</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마,스릴러</td>
+					<td>조연-최보람역</td>
+					<td>114,536,500</td>
+					<td>16,828</td>
+					<td>114,740,500</td>
+					<td>16,866</td>
+				</tr>
+			
+				<tr>
+					<td>가문의 영광5 - 가문의 귀환</td>
+					<td>Return of The Mafia</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>단역-동석 패거리 1 역</td>
+					<td>8,330,342,500</td>
+					<td>1,160,021</td>
+					<td>8,330,342,500</td>
+					<td>1,160,021</td>
+				</tr>
+			
+				<tr>
+					<td>떠날 수 없는</td>
+					<td>Can&#039;t Go Up There</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-덩치 후임역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>포화속으로</td>
+					<td>71-Into The Fire</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>드라마,전쟁</td>
+					<td>단역-학도병역</td>
+					<td>24,217,600,897</td>
+					<td>3,385,706</td>
+					<td>23,831,968,600</td>
+					<td>3,330,326</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,294 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '브렌단 글리슨'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>햄스테드</td>
+					<td>Hampstead</td>
+					<td>2017</td>
+					<td>영국,벨기에</td>
+					<td>코미디,드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>3,454,000</td>
+					<td>416</td>
+					<td>70,014,300</td>
+					<td>9,064</td>
+				</tr>
+			
+				<tr>
+					<td>패딩턴 2</td>
+					<td>Paddington 2</td>
+					<td>2017</td>
+					<td>프랑스,영국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>2,554,560,200</td>
+					<td>338,899</td>
+					<td>2,555,480,200</td>
+					<td>339,014</td>
+				</tr>
+			
+				<tr>
+					<td>우리를 침범하는 것들</td>
+					<td>Trespass Against Us</td>
+					<td>2016</td>
+					<td>영국</td>
+					<td>액션,범죄,드라마</td>
+					<td>주연</td>
+					<td>38,538,100</td>
+					<td>5,153</td>
+					<td>38,553,100</td>
+					<td>5,156</td>
+				</tr>
+			
+				<tr>
+					<td>어쌔신 크리드</td>
+					<td>Assassin&#039;s Creed</td>
+					<td>2016</td>
+					<td>미국,영국,프랑스</td>
+					<td>액션,어드벤처,판타지,SF</td>
+					<td>주연</td>
+					<td>2,899,784,921</td>
+					<td>355,913</td>
+					<td>2,899,784,921</td>
+					<td>355,913</td>
+				</tr>
+			
+				<tr>
+					<td>하트 오브 더 씨</td>
+					<td>In the Heart of the Sea</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션,어드벤처,드라마</td>
+					<td>주연</td>
+					<td>6,780,844,023</td>
+					<td>809,827</td>
+					<td>6,780,844,023</td>
+					<td>809,827</td>
+				</tr>
+			
+				<tr>
+					<td>캘버리</td>
+					<td>Calvary</td>
+					<td>2014</td>
+					<td>아일랜드,영국</td>
+					<td>코미디,드라마</td>
+					<td>주연-제임스 라벨르역</td>
+					<td></td>
+					<td></td>
+					<td>634,000</td>
+					<td>124</td>
+				</tr>
+			
+				<tr>
+					<td>그랜드 시덕션</td>
+					<td>THE GRAND SEDUCTION</td>
+					<td>2013</td>
+					<td>캐나다</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>100,000</td>
+					<td>10</td>
+					<td>100,000</td>
+					<td>10</td>
+				</tr>
+			
+				<tr>
+					<td>컴퍼니 유 킵</td>
+					<td>The Company You Keep</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>조연</td>
+					<td>13,694,000</td>
+					<td>2,134</td>
+					<td>13,925,000</td>
+					<td>2,173</td>
+				</tr>
+			
+				<tr>
+					<td>더 레이븐</td>
+					<td>The Raven</td>
+					<td>2012</td>
+					<td>미국,헝가리,스페인</td>
+					<td>스릴러,미스터리</td>
+					<td>조연</td>
+					<td>1,125,457,000</td>
+					<td>153,581</td>
+					<td>1,125,457,000</td>
+					<td>153,581</td>
+				</tr>
+			
+				<tr>
+					<td>허당 해적단</td>
+					<td>The Pirates! Band of Misfits</td>
+					<td>2012</td>
+					<td>미국,영국</td>
+					<td>애니메이션,어드벤처</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>킬러들의 도시</td>
+					<td>In Bruges</td>
+					<td>2008</td>
+					<td>영국,미국</td>
+					<td>범죄,드라마,스릴러</td>
+					<td>주연-켄역</td>
+					<td>394,632,089</td>
+					<td>57,387</td>
+					<td>378,294,000</td>
+					<td>54,999</td>
+				</tr>
+			
+				<tr>
+					<td>호랑이 꼬리</td>
+					<td>The Tiger&#039;s Tail</td>
+					<td>2006</td>
+					<td>아일랜드</td>
+					<td>코미디,범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>컨트리 오브 마이 스컬</td>
+					<td>Country Of My Skull</td>
+					<td>2003</td>
+					<td>영국,아일랜드,남아프리카공화국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>28일 후</td>
+					<td>28 Days Later... </td>
+					<td>2002</td>
+					<td>미국,프랑스,영국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>65,000</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>다크 블루</td>
+					<td>Dark Blue</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>드라마,액션,스릴러,범죄</td>
+					<td>조연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>A.I.</td>
+					<td>A.I.</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>SF,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>525,490</td>
+					<td>386,000</td>
+					<td>81</td>
+				</tr>
+			
+				<tr>
+					<td>해리슨의 꽃</td>
+					<td>Harrison&#039;s Flowers</td>
+					<td>2000</td>
+					<td>프랑스</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>플래시드 </td>
+					<td>Lake Placid</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>공포(호러),코미디,액션,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>54,567</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>제너럴</td>
+					<td>The General</td>
+					<td>1998</td>
+					<td>영국</td>
+					<td>범죄,드라마,스릴러</td>
+					<td>주연-마틴 카힐역</td>
+					<td>0</td>
+					<td>23,786</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

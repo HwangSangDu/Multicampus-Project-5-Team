@@ -1,0 +1,203 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '카토 마사야'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>야쿠자의 섹스 상</td>
+					<td>Like A Rolling Stone 1</td>
+					<td>2017</td>
+					<td>일본</td>
+					<td>범죄,성인물(에로),액션</td>
+					<td>주연</td>
+					<td>84,000</td>
+					<td>14</td>
+					<td>84,000</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>야쿠자의 섹스 하</td>
+					<td>Like A Rolling Stone 2</td>
+					<td>2017</td>
+					<td>일본</td>
+					<td>범죄,액션,성인물(에로)</td>
+					<td>주연</td>
+					<td>24,000</td>
+					<td>4</td>
+					<td>24,000</td>
+					<td>4</td>
+				</tr>
+			
+				<tr>
+					<td>몬스터</td>
+					<td>Monster</td>
+					<td>2013</td>
+					<td>일본</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>140,000</td>
+					<td>20</td>
+					<td>140,000</td>
+					<td>20</td>
+				</tr>
+			
+				<tr>
+					<td>신주쿠 사건</td>
+					<td>The Shinjuku Incident</td>
+					<td>2008</td>
+					<td>홍콩</td>
+					<td>액션,드라마,범죄</td>
+					<td>주연</td>
+					<td>289,750,076</td>
+					<td>43,881</td>
+					<td>287,329,000</td>
+					<td>43,516</td>
+				</tr>
+			
+				<tr>
+					<td>아라가미</td>
+					<td>Aragami</td>
+					<td>2003</td>
+					<td>일본</td>
+					<td>공포(호러),액션,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>215</td>
+					<td>452,500</td>
+					<td>69</td>
+				</tr>
+			
+				<tr>
+					<td>브라더</td>
+					<td>Brother</td>
+					<td>2001</td>
+					<td>일본,미국,영국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아지테이터</td>
+					<td>Agitator</td>
+					<td>2001</td>
+					<td>일본</td>
+					<td>범죄,액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>학원괴담</td>
+					<td>School Day Of The Dead</td>
+					<td>2000</td>
+					<td>일본</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>고질라 </td>
+					<td>Godzilla</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>SF,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>409,262</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>크라잉 프리맨 </td>
+					<td>Crying Freeman</td>
+					<td>1995</td>
+					<td>미국,캐나다,프랑스,일본</td>
+					<td>액션,범죄,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>77,323</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>브룩 쉴즈의 7층 </td>
+					<td>The Seventh Floor</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>3,036</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>위험한 아르바이트 </td>
+					<td>Crime Broker</td>
+					<td>1992</td>
+					<td>미국</td>
+					<td>범죄,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>4,320</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

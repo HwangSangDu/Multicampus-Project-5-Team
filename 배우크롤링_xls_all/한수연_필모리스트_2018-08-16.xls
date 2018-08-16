@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '한수연'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>맛있는 덫-정사</td>
+					<td></td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>2,227,000</td>
+					<td>426</td>
+					<td>2,227,000</td>
+					<td>426</td>
+				</tr>
+			
+				<tr>
+					<td>악인은 살아 있다</td>
+					<td>Bad Man</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>13,976,000</td>
+					<td>1,821</td>
+					<td>13,976,000</td>
+					<td>1,821</td>
+				</tr>
+			
+				<tr>
+					<td>이방인들</td>
+					<td>The Strangers</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>2,035,000</td>
+					<td>365</td>
+					<td>2,374,000</td>
+					<td>432</td>
+				</tr>
+			
+				<tr>
+					<td>참을 수 없는</td>
+					<td>Loveholic</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>575,770,952</td>
+					<td>76,965</td>
+					<td>566,731,000</td>
+					<td>75,740</td>
+				</tr>
+			
+				<tr>
+					<td>너와 나의 21세기</td>
+					<td>Our Fantastic 21St Century</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-수영역</td>
+					<td>1,343,871</td>
+					<td>216</td>
+					<td>1,328,000</td>
+					<td>213</td>
+				</tr>
+			
+				<tr>
+					<td>도화지</td>
+					<td>Drawing Paper</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>30,000</td>
+					<td>6</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

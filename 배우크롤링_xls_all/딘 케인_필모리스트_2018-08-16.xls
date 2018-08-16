@@ -1,0 +1,268 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '딘 케인'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>볼케이노 2017</td>
+					<td>Airplane VS. Volcano</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>SF,스릴러</td>
+					<td>주연</td>
+					<td>3,000</td>
+					<td>1</td>
+					<td>3,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>강아지 삼총사</td>
+					<td>The Three Dogateers</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>애니메이션,어드벤처,가족</td>
+					<td>주연</td>
+					<td>2,654,000</td>
+					<td>527</td>
+					<td>2,654,000</td>
+					<td>527</td>
+				</tr>
+			
+				<tr>
+					<td>블랙홀</td>
+					<td>The Black Hole</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>SF</td>
+					<td>주연</td>
+					<td>5,000</td>
+					<td>1</td>
+					<td>5,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>5 데이즈 오브 워</td>
+					<td>5 Days Of War</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>액션,드라마,전쟁</td>
+					<td>조연-크리스 베일롯역</td>
+					<td>1,685,000</td>
+					<td>230</td>
+					<td>1,685,000</td>
+					<td>230</td>
+				</tr>
+			
+				<tr>
+					<td>써클 오브 페인</td>
+					<td>Circle Of Pain</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>액션,드라마</td>
+					<td>주연-와이어트 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>진도 10.5 볼케이노</td>
+					<td>10.5 : Apocalypse</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>베일리의 10억달러</td>
+					<td>Bailey&#039;s Billion$</td>
+					<td>2005</td>
+					<td>캐나다</td>
+					<td>가족,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>포스트 임팩트</td>
+					<td>Post Impact</td>
+					<td>2004</td>
+					<td>독일,미국</td>
+					<td>액션,어드벤처,SF</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>브레이크어웨이</td>
+					<td>Christmas Rush</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>액션,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>데블 스네이크</td>
+					<td>New Alcatraz</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>SF,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>504</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>데들리 컨스피러시</td>
+					<td>Phase 4</td>
+					<td>2001</td>
+					<td>캐나다</td>
+					<td>액션,드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>파이어트랩</td>
+					<td>Firetrap</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>밀리티아</td>
+					<td>Militia</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>액션,어드벤처</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>포 더 코어스</td>
+					<td>For The Cause</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>SF</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>노 알리바이</td>
+					<td>No Alibi</td>
+					<td>1999</td>
+					<td>캐나다</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>퓨쳐스포츠</td>
+					<td>Futuresport</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>액션,SF</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>베스트 맨 </td>
+					<td>Best Men</td>
+					<td>1997</td>
+					<td>영국</td>
+					<td>액션,코미디,스릴러,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>237</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

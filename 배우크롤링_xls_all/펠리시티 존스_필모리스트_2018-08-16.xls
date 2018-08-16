@@ -1,0 +1,216 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '펠리시티 존스'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>몬스터 콜</td>
+					<td>A Monster Calls</td>
+					<td>2016</td>
+					<td>스페인</td>
+					<td>판타지,드라마</td>
+					<td>주연-엄마역</td>
+					<td>699,851,900</td>
+					<td>89,560</td>
+					<td>699,851,900</td>
+					<td>89,560</td>
+				</tr>
+			
+				<tr>
+					<td>아우토반</td>
+					<td>Autobahn</td>
+					<td>2016</td>
+					<td>영국,독일</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>183,681,500</td>
+					<td>23,338</td>
+					<td>196,841,500</td>
+					<td>24,983</td>
+				</tr>
+			
+				<tr>
+					<td>로그 원: 스타워즈 스토리</td>
+					<td>ROGUE ONE: A STAR WARS STORY</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지,SF</td>
+					<td>주연</td>
+					<td>9,047,995,594</td>
+					<td>1,019,309</td>
+					<td>9,047,995,594</td>
+					<td>1,019,309</td>
+				</tr>
+			
+				<tr>
+					<td>인페르노</td>
+					<td>Inferno</td>
+					<td>2016</td>
+					<td>미국,일본,터키,헝가리</td>
+					<td>미스터리,스릴러</td>
+					<td>주연</td>
+					<td>5,656,281,303</td>
+					<td>689,071</td>
+					<td>5,656,281,303</td>
+					<td>689,071</td>
+				</tr>
+			
+				<tr>
+					<td>트루 스토리</td>
+					<td>True Story</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>미스터리,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사랑에 대한 모든 것</td>
+					<td>The Theory of Everything</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>2,162,660,589</td>
+					<td>278,015</td>
+					<td>2,163,184,089</td>
+					<td>278,087</td>
+				</tr>
+			
+				<tr>
+					<td>우리가 사랑한 시간</td>
+					<td>Breathe In</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>28,507,600</td>
+					<td>4,126</td>
+					<td>28,507,600</td>
+					<td>4,126</td>
+				</tr>
+			
+				<tr>
+					<td>인비저블 우먼</td>
+					<td>The Invisible Woman</td>
+					<td>2013</td>
+					<td>영국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-넬리 터넌 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>라이크 크레이지</td>
+					<td>Like Crazy</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-애나 역역</td>
+					<td>81,549,980</td>
+					<td>10,850</td>
+					<td>81,549,980</td>
+					<td>10,850</td>
+				</tr>
+			
+				<tr>
+					<td>히스테리아</td>
+					<td>Hysteria</td>
+					<td>2011</td>
+					<td>영국,프랑스,독일,룩셈부르크</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td>37,059,500</td>
+					<td>4,947</td>
+					<td>37,059,500</td>
+					<td>4,947</td>
+				</tr>
+			
+				<tr>
+					<td>샬레이 걸</td>
+					<td>Chalet Girl</td>
+					<td>2011</td>
+					<td>영국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>세머테리 정션</td>
+					<td>Cemetery Junction</td>
+					<td>2010</td>
+					<td>영국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>노생거 사원</td>
+					<td>Northanger Abbey</td>
+					<td>2007</td>
+					<td>영국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-캐서린 몰랜드역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

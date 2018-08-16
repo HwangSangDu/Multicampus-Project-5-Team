@@ -1,0 +1,190 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '아만다 피트'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>더 매니저</td>
+					<td>Trust Me</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>드라마,코미디</td>
+					<td>조연-마시 역역</td>
+					<td>200,000</td>
+					<td>20</td>
+					<td>200,000</td>
+					<td>20</td>
+				</tr>
+			
+				<tr>
+					<td>슬리핑 위드 아더 피플</td>
+					<td>Sleeping With Other People</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td>65,868,300</td>
+					<td>8,252</td>
+					<td>65,868,300</td>
+					<td>8,252</td>
+				</tr>
+			
+				<tr>
+					<td>내 인생을 훔친 사랑스러운 도둑녀</td>
+					<td>Identity Thief</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>코미디,범죄</td>
+					<td>주연-트리시 패터슨 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>2012</td>
+					<td>2012</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>SF,액션,어드벤처</td>
+					<td>주연-케이트 커티스 역</td>
+					<td>39,415,166,660</td>
+					<td>5,462,953</td>
+					<td>38,941,723,000</td>
+					<td>5,397,597</td>
+				</tr>
+			
+				<tr>
+					<td>범죄도시</td>
+					<td>What Doesn&#039;t Kill You</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>270,000</td>
+					<td>54</td>
+					<td>270,000</td>
+					<td>54</td>
+				</tr>
+			
+				<tr>
+					<td>화성아이, 지구아빠</td>
+					<td>Martian Child</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연-하리역</td>
+					<td>128,656,500</td>
+					<td>19,856</td>
+					<td>128,656,500</td>
+					<td>19,856</td>
+				</tr>
+			
+				<tr>
+					<td>라스트 러브 인 뉴욕</td>
+					<td>Griffin &amp; Phoenix</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>코미디,드라마,멜로/로맨스</td>
+					<td>주연-피닉스 역</td>
+					<td>523,000</td>
+					<td>82</td>
+					<td>523,000</td>
+					<td>82</td>
+				</tr>
+			
+				<tr>
+					<td>디 엑스</td>
+					<td>The Ex</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>우리, 사랑일까요?</td>
+					<td>A Lot Like Love</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>드라마,코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>171,394</td>
+					<td>962,282,500</td>
+					<td>146,628</td>
+				</tr>
+			
+				<tr>
+					<td>두 명의 니나</td>
+					<td>Two Ninas</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>휘퍼드</td>
+					<td>Whipped</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,502 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '정인기'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>그리다</td>
+					<td></td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>5,996,300</td>
+					<td>861</td>
+					<td>5,996,300</td>
+					<td>861</td>
+				</tr>
+			
+				<tr>
+					<td>귀향, 끝나지 않은 이야기</td>
+					<td>Spirits&#039; Homecoming, Unfinished Story</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마,다큐멘터리</td>
+					<td>주연</td>
+					<td>105,487,200</td>
+					<td>14,490</td>
+					<td>105,487,200</td>
+					<td>14,490</td>
+				</tr>
+			
+				<tr>
+					<td>쇠파리</td>
+					<td>Biting Fly</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td>36,279,100</td>
+					<td>4,836</td>
+					<td>36,563,100</td>
+					<td>4,978</td>
+				</tr>
+			
+				<tr>
+					<td>기억의 재구성</td>
+					<td>Reawakening of Memories</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td></td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>림동미</td>
+					<td></td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>매직배딩</td>
+					<td>Magic Bedding</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>판타지,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>귀향</td>
+					<td>Spirits&#039; Homecoming</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연</td>
+					<td>27,248,705,990</td>
+					<td>3,586,929</td>
+					<td>27,249,801,990</td>
+					<td>3,587,182</td>
+				</tr>
+			
+				<tr>
+					<td>서부전선</td>
+					<td>The Long Way Home</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>전쟁,드라마</td>
+					<td>조연</td>
+					<td>4,751,661,400</td>
+					<td>609,063</td>
+					<td>4,751,661,400</td>
+					<td>609,063</td>
+				</tr>
+			
+				<tr>
+					<td>외계인이다</td>
+					<td>Man and Wife</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td></td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>이쁜 것들이 되어라</td>
+					<td>The Legacy</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>코미디,드라마,가족,멜로/로맨스</td>
+					<td>주연-재웅역</td>
+					<td>4,147,400</td>
+					<td>528</td>
+					<td>4,219,400</td>
+					<td>542</td>
+				</tr>
+			
+				<tr>
+					<td>더 파이브</td>
+					<td>The Fives</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>스릴러,드라마</td>
+					<td>주연</td>
+					<td>5,343,797,000</td>
+					<td>731,212</td>
+					<td>5,343,797,000</td>
+					<td>731,212</td>
+				</tr>
+			
+				<tr>
+					<td>오늘의 저녁</td>
+					<td>Dinner</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>SF,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>한복자</td>
+					<td>Homo Coreanicus</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>주리</td>
+					<td>Jury</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-정인기역</td>
+					<td></td>
+					<td></td>
+					<td>5,810,300</td>
+					<td>1,357</td>
+				</tr>
+			
+				<tr>
+					<td>가족시네마</td>
+					<td>Modern Family</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>19,453,000</td>
+					<td>2,639</td>
+					<td>19,453,000</td>
+					<td>2,639</td>
+				</tr>
+			
+				<tr>
+					<td>시체가 돌아왔다</td>
+					<td>Over My Dead Body </td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>범죄,드라마</td>
+					<td>조연-한진수역</td>
+					<td>7,360,631,000</td>
+					<td>986,923</td>
+					<td>7,360,631,000</td>
+					<td>986,923</td>
+				</tr>
+			
+				<tr>
+					<td>순환선</td>
+					<td>Circle Line</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마,판타지,가족</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>고지전</td>
+					<td>The Front Line</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마,전쟁</td>
+					<td>주연-이상억역</td>
+					<td>21,968,557,600</td>
+					<td>2,945,137</td>
+					<td>21,968,680,600</td>
+					<td>2,945,151</td>
+				</tr>
+			
+				<tr>
+					<td>구해줘! </td>
+					<td>Midnight Express</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>리코더시험</td>
+					<td>The Recorder Exam</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마,가족</td>
+					<td>주연-아빠역</td>
+					<td></td>
+					<td></td>
+					<td>170,337</td>
+					<td>163</td>
+				</tr>
+			
+				<tr>
+					<td>돌이킬 수 없는</td>
+					<td>No Doubt</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>미스터리,드라마</td>
+					<td>주연-백용권 형사역</td>
+					<td>472,974,485</td>
+					<td>65,414</td>
+					<td>465,532,500</td>
+					<td>64,371</td>
+				</tr>
+			
+				<tr>
+					<td>내 깡패 같은 애인</td>
+					<td>My Dear Desperado</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>드라마,코미디,멜로/로맨스</td>
+					<td>조연-박반장 역</td>
+					<td>5,109,441,315</td>
+					<td>699,973</td>
+					<td>5,028,520,000</td>
+					<td>688,639</td>
+				</tr>
+			
+				<tr>
+					<td>내 맘도 몰라주고</td>
+					<td>Helping Hand</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>부서진 밤</td>
+					<td>Broken Night</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>범죄,스릴러,액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>115,000</td>
+					<td>92</td>
+				</tr>
+			
+				<tr>
+					<td>의형제</td>
+					<td>Secret Reunion</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마,액션</td>
+					<td>조연-김성학역</td>
+					<td>40,800,867,602</td>
+					<td>5,507,106</td>
+					<td>40,153,817,000</td>
+					<td>5,416,829</td>
+				</tr>
+			
+				<tr>
+					<td>살려고 하는 자</td>
+					<td>The Guy Who Wanna Survive</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-형사역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>하우스 패밀리</td>
+					<td>House Family</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>추격자</td>
+					<td>The Chaser</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>범죄,스릴러,액션</td>
+					<td>조연-이 형사역</td>
+					<td>33,943,278,500</td>
+					<td>5,071,619</td>
+					<td>33,986,959,000</td>
+					<td>5,046,096</td>
+				</tr>
+			
+				<tr>
+					<td>나타샤</td>
+					<td>Natasha</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>빈방</td>
+					<td>Vacant Room</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>암사자들</td>
+					<td>Lioness(es)</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>마이 뉴 파트너</td>
+					<td>My New Partner</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>액션,코미디</td>
+					<td>조연-팀장역</td>
+					<td>1,696,902,333</td>
+					<td>265,323</td>
+					<td>1,699,031,500</td>
+					<td>260,734</td>
+				</tr>
+			
+				<tr>
+					<td>탐정사무소:나를 찾아주세요</td>
+					<td>Detective Office: Please Find Myself</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td></td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>그의 진실이 전진한다</td>
+					<td>His Truth Is Marching On</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>영자</td>
+					<td>Young Ja</td>
+					<td>2001</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

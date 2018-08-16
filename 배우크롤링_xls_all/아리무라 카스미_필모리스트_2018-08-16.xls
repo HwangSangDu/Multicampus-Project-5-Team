@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '아리무라 카스미'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>나라타주</td>
+					<td>Narratage</td>
+					<td>2017</td>
+					<td>일본</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>156,608,600</td>
+					<td>18,326</td>
+					<td>156,608,600</td>
+					<td>18,326</td>
+				</tr>
+			
+				<tr>
+					<td>3월의 라이온 전편</td>
+					<td>March Comes in Like a Lion</td>
+					<td>2017</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>3월의 라이온 후편</td>
+					<td>March Comes in Like a Lion 2</td>
+					<td>2017</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아이 엠 어 히어로</td>
+					<td>I Am a Hero</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>액션,공포(호러)</td>
+					<td>주연</td>
+					<td>1,806,714,900</td>
+					<td>212,599</td>
+					<td>1,806,758,900</td>
+					<td>212,607</td>
+				</tr>
+			
+				<tr>
+					<td>나만이 없는 거리</td>
+					<td>The Town Where Only I Am Missing</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>드라마,미스터리,SF,스릴러</td>
+					<td>주연</td>
+					<td>33,113,000</td>
+					<td>4,392</td>
+					<td>33,113,000</td>
+					<td>4,392</td>
+				</tr>
+			
+				<tr>
+					<td>불량소녀, 너를 응원해!</td>
+					<td>Flying Colors</td>
+					<td>2015</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연-쿠도 사야카 역역</td>
+					<td>140,509,000</td>
+					<td>17,875</td>
+					<td>140,509,000</td>
+					<td>17,875</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

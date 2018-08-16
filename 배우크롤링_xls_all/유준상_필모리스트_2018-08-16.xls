@@ -1,0 +1,398 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '유준상'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>강변 호텔</td>
+					<td>Hotel by the River</td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-병수역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>당신자신과 당신의 것</td>
+					<td>Yourself and Yours</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연</td>
+					<td>145,902,200</td>
+					<td>17,924</td>
+					<td>147,674,200</td>
+					<td>18,151</td>
+				</tr>
+			
+				<tr>
+					<td>고산자, 대동여지도</td>
+					<td>The Map Against the World</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>사극</td>
+					<td>주연-흥선대원군역</td>
+					<td>7,801,007,258</td>
+					<td>974,262</td>
+					<td>7,801,007,258</td>
+					<td>974,262</td>
+				</tr>
+			
+				<tr>
+					<td>내가 너에게 배우는 것들</td>
+					<td>Things that I learn from you</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>감독</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>지금은맞고그때는틀리다</td>
+					<td>Right Now, Wrong Then</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연</td>
+					<td>664,112,100</td>
+					<td>80,614</td>
+					<td>665,149,092</td>
+					<td>80,734</td>
+				</tr>
+			
+				<tr>
+					<td>성난 화가 - 무삭제판</td>
+					<td>Angry Painter - Director&#039;s Cut</td>
+					<td>2015</td>
+					<td>한국,에스토니아</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>6,000</td>
+					<td>1</td>
+					<td>6,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>성난 화가</td>
+					<td>Angry Painter</td>
+					<td>2015</td>
+					<td>한국,에스토니아</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>10,595,500</td>
+					<td>1,377</td>
+					<td>10,595,500</td>
+					<td>1,377</td>
+				</tr>
+			
+				<tr>
+					<td>꿈보다 해몽</td>
+					<td>A Matter of Interpretation</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>32,497,900</td>
+					<td>4,322</td>
+					<td>33,515,900</td>
+					<td>4,801</td>
+				</tr>
+			
+				<tr>
+					<td>표적</td>
+					<td>The Target</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>액션,드라마</td>
+					<td>주연-송반장 역</td>
+					<td>22,256,359,300</td>
+					<td>2,841,788</td>
+					<td>22,256,769,300</td>
+					<td>2,841,828</td>
+				</tr>
+			
+				<tr>
+					<td>전설의 주먹</td>
+					<td>Fists of Legend</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마,액션</td>
+					<td>주연</td>
+					<td>12,777,314,500</td>
+					<td>1,744,585</td>
+					<td>12,777,314,500</td>
+					<td>1,744,585</td>
+				</tr>
+			
+				<tr>
+					<td>누구의 딸도 아닌 해원</td>
+					<td>Nobody’s Daughter Haewon</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-중식역</td>
+					<td>268,878,400</td>
+					<td>34,876</td>
+					<td>275,129,900</td>
+					<td>35,719</td>
+				</tr>
+			
+				<tr>
+					<td>잠베지아: 신비한 나무섬의 비밀</td>
+					<td>Zambezia</td>
+					<td>2012</td>
+					<td>남아프리카공화국,미국</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td>3,333,947,000</td>
+					<td>472,692</td>
+					<td>3,333,947,000</td>
+					<td>472,692</td>
+				</tr>
+			
+				<tr>
+					<td>터치</td>
+					<td>Touch</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-박동식역</td>
+					<td>107,384,000</td>
+					<td>18,393</td>
+					<td>107,384,000</td>
+					<td>18,393</td>
+				</tr>
+			
+				<tr>
+					<td>R2B: 리턴투베이스</td>
+					<td>R2B: Return to Base</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>액션,드라마</td>
+					<td>주연-이철희역</td>
+					<td>8,602,921,371</td>
+					<td>1,201,944</td>
+					<td>8,602,921,371</td>
+					<td>1,201,944</td>
+				</tr>
+			
+				<tr>
+					<td>다른나라에서</td>
+					<td>In Another Country</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-안전요원역</td>
+					<td>237,013,700</td>
+					<td>30,590</td>
+					<td>241,291,200</td>
+					<td>31,143</td>
+				</tr>
+			
+				<tr>
+					<td>북촌방향</td>
+					<td>The Day He Arrives</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-성준역</td>
+					<td>364,458,700</td>
+					<td>45,560</td>
+					<td>369,794,200</td>
+					<td>46,212</td>
+				</tr>
+			
+				<tr>
+					<td>리스트</td>
+					<td>List</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>이끼</td>
+					<td>Moss</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>드라마,스릴러</td>
+					<td>주연-박민욱 검사역,박민욱 검사 역역</td>
+					<td>25,856,306,126</td>
+					<td>3,408,144</td>
+					<td>25,437,344,000</td>
+					<td>3,350,311</td>
+				</tr>
+			
+				<tr>
+					<td>하하하</td>
+					<td>Hahaha</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>435,417,823</td>
+					<td>57,234</td>
+					<td>434,011,200</td>
+					<td>57,029</td>
+				</tr>
+			
+				<tr>
+					<td>로니를 찾아서</td>
+					<td>Where Is Ronny...</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-인호역</td>
+					<td>10,072,615</td>
+					<td>1,495</td>
+					<td>9,962,000</td>
+					<td>1,478</td>
+				</tr>
+			
+				<tr>
+					<td>잘 알지도 못하면서</td>
+					<td>Like You Know It All</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>조연-제주 - 고 국장역</td>
+					<td>276,548,483</td>
+					<td>39,914</td>
+					<td>277,419,600</td>
+					<td>39,984</td>
+				</tr>
+			
+				<tr>
+					<td>리턴</td>
+					<td>Wide Awake</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>미스터리,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>677,939</td>
+					<td>4,271,881,500</td>
+					<td>641,852</td>
+				</tr>
+			
+				<tr>
+					<td>나의 결혼원정기</td>
+					<td>My Wedding Campaign</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>767,657</td>
+					<td>3,860,195,500</td>
+					<td>632,553</td>
+				</tr>
+			
+				<tr>
+					<td>쇼쇼쇼(Show Show Show)</td>
+					<td>The Show</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>115,000</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>빨간 피터의 고백</td>
+					<td>Go back</td>
+					<td>2001</td>
+					<td>한국</td>
+					<td>미스터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>가위</td>
+					<td>A nightmare</td>
+					<td>2000</td>
+					<td>한국</td>
+					<td>공포(호러),미스터리</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>334,364</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>텔미썸딩</td>
+					<td>Tell Me Something</td>
+					<td>1999</td>
+					<td>한국</td>
+					<td>스릴러,미스터리</td>
+					<td>주연-김기연역</td>
+					<td>0</td>
+					<td>1,230,000</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

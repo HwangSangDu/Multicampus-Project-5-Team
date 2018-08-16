@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '이연희'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>조선명탐정 : 사라진 놉의 딸</td>
+					<td>Detective K : Secret of the Lost Island</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>사극,코미디,어드벤처</td>
+					<td>주연</td>
+					<td>30,456,879,428</td>
+					<td>3,872,015</td>
+					<td>30,456,879,428</td>
+					<td>3,872,015</td>
+				</tr>
+			
+				<tr>
+					<td>결혼전야</td>
+					<td>Marriage Blue</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>8,444,337,719</td>
+					<td>1,214,836</td>
+					<td>8,444,355,719</td>
+					<td>1,214,839</td>
+				</tr>
+			
+				<tr>
+					<td>순정만화</td>
+					<td>Crush On You</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>4,674,779,333</td>
+					<td>730,343</td>
+					<td>4,682,641,000</td>
+					<td>731,706</td>
+				</tr>
+			
+				<tr>
+					<td>내 사랑</td>
+					<td>Love, First</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>432,940,833</td>
+					<td>977,401</td>
+					<td>6,315,244,000</td>
+					<td>962,134</td>
+				</tr>
+			
+				<tr>
+					<td>엠</td>
+					<td>M</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>미스터리,멜로/로맨스,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>448,350</td>
+					<td>2,776,056,500</td>
+					<td>428,717</td>
+				</tr>
+			
+				<tr>
+					<td>백만장자의 첫사랑</td>
+					<td>A Millionaire’s First Love</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연-은환역</td>
+					<td>0</td>
+					<td>639,596</td>
+					<td>3,375,971,500</td>
+					<td>563,023</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

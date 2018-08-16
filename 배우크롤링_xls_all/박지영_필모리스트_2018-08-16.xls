@@ -1,0 +1,151 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '박지영'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>범죄의 여왕</td>
+					<td>The Queen of Crime</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>스릴러,코미디</td>
+					<td>주연-미경역</td>
+					<td>343,663,400</td>
+					<td>43,823</td>
+					<td>343,992,400</td>
+					<td>43,866</td>
+				</tr>
+			
+				<tr>
+					<td>굿바이 싱글</td>
+					<td>Familyhood</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>단역-지훈엄마(목소리)역(목소리)</td>
+					<td>16,912,706,195</td>
+					<td>2,108,273</td>
+					<td>16,913,282,195</td>
+					<td>2,108,561</td>
+				</tr>
+			
+				<tr>
+					<td>성난 변호사</td>
+					<td>The Advocate : A Missing Body</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>범죄,액션</td>
+					<td>조연-주 대표역</td>
+					<td>8,723,650,039</td>
+					<td>1,128,288</td>
+					<td>8,723,650,039</td>
+					<td>1,128,288</td>
+				</tr>
+			
+				<tr>
+					<td>외계인이다</td>
+					<td>Man and Wife</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td></td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>후궁 : 제왕의 첩</td>
+					<td>The Concubine</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>사극,멜로/로맨스</td>
+					<td>조연-대비역</td>
+					<td>19,330,302,500</td>
+					<td>2,636,320</td>
+					<td>19,330,736,000</td>
+					<td>2,636,385</td>
+				</tr>
+			
+				<tr>
+					<td>하녀</td>
+					<td>The Housemaid</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>스릴러,멜로/로맨스</td>
+					<td>조연-해라 모역</td>
+					<td>17,310,669,976</td>
+					<td>2,304,487</td>
+					<td>17,038,839,500</td>
+					<td>2,267,579</td>
+				</tr>
+			
+				<tr>
+					<td>바다 쪽으로, 한 뼘 더</td>
+					<td>One Step More To The Sea</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-연희역</td>
+					<td>16,884,926</td>
+					<td>2,529</td>
+					<td>17,294,000</td>
+					<td>2,590</td>
+				</tr>
+			
+				<tr>
+					<td>우아한 세계</td>
+					<td>The Show Must Go On</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>주연-인구의 아내 허미령 역역</td>
+					<td>0</td>
+					<td>1,025,781</td>
+					<td>6,161,685,500</td>
+					<td>960,658</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

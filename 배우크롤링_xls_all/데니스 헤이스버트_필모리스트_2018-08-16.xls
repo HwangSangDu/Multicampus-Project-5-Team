@@ -1,0 +1,138 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '데니스 헤이스버트'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>스나이퍼 레거시</td>
+					<td>Sniper: Legacy</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>배틀독</td>
+					<td>BATTLE DOGS</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>공포(호러),액션,SF</td>
+					<td>주연</td>
+					<td>580,000</td>
+					<td>111</td>
+					<td>580,000</td>
+					<td>111</td>
+				</tr>
+			
+				<tr>
+					<td>굿바이 만델라</td>
+					<td>Goodbye Bafana</td>
+					<td>2007</td>
+					<td>벨기에,영국,남아프리카공화국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>파 프롬 헤븐</td>
+					<td>Far From Heaven</td>
+					<td>2003</td>
+					<td>프랑스</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>49,691</td>
+					<td>158,000</td>
+					<td>34</td>
+				</tr>
+			
+				<tr>
+					<td>왓츠 쿠킹</td>
+					<td>What&#039;s Cooking? </td>
+					<td>2000</td>
+					<td>영국,미국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>메이저 리그 3</td>
+					<td>Major League: Back To The Minors</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스탠드오프</td>
+					<td>Standoff</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>미스터리,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

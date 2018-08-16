@@ -1,0 +1,164 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '마크 듀플라스'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>라자루스</td>
+					<td>The Lazarus Effect</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td>215,951,800</td>
+					<td>27,445</td>
+					<td>215,951,800</td>
+					<td>27,445</td>
+				</tr>
+			
+				<tr>
+					<td>더 원 아이 러브</td>
+					<td>The One I Love</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>판타지,멜로/로맨스</td>
+					<td>주연</td>
+					<td>32,866,500</td>
+					<td>4,033</td>
+					<td>32,866,500</td>
+					<td>4,033</td>
+				</tr>
+			
+				<tr>
+					<td>안전은 보장할 수 없음</td>
+					<td>Safety Not Guaranted</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연-케네스역</td>
+					<td>281,000</td>
+					<td>42</td>
+					<td>281,000</td>
+					<td>42</td>
+				</tr>
+			
+				<tr>
+					<td>두 데카 팬타트론</td>
+					<td>The Do-Deca-Pentathlon</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>감독</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>유어 시스터스 시스터</td>
+					<td>Your Sister&#039;s Sister</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>300,000</td>
+					<td>60</td>
+				</tr>
+			
+				<tr>
+					<td>제프 후 리브스 앳 홈</td>
+					<td>Jeff Who Lives at Home</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>감독</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사이러스</td>
+					<td>Cyrus</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>감독</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>험프데이</td>
+					<td>Humpday</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>백헤드</td>
+					<td>Baghead</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>코미디,공포(호러)</td>
+					<td>감독</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,203 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '스티브 쿠건'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>트립 투 스페인</td>
+					<td>The Trip to Spain</td>
+					<td>2017</td>
+					<td>영국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>91,615,317</td>
+					<td>11,596</td>
+					<td>91,615,317</td>
+					<td>11,596</td>
+				</tr>
+			
+				<tr>
+					<td>마이펫의 이중생활</td>
+					<td>The Secret Life of Pets</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>애니메이션,코미디,가족</td>
+					<td>주연</td>
+					<td>19,405,636,655</td>
+					<td>2,520,510</td>
+					<td>19,406,716,655</td>
+					<td>2,520,700</td>
+				</tr>
+			
+				<tr>
+					<td>트립 투 이탈리아</td>
+					<td>The Trip to Italy</td>
+					<td>2014</td>
+					<td>영국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>161,700,300</td>
+					<td>21,054</td>
+					<td>162,857,800</td>
+					<td>21,207</td>
+				</tr>
+			
+				<tr>
+					<td>필로미나의 기적</td>
+					<td>Philomena</td>
+					<td>2013</td>
+					<td>영국,미국,프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>276,378,600</td>
+					<td>38,053</td>
+					<td>276,378,600</td>
+					<td>38,053</td>
+				</tr>
+			
+				<tr>
+					<td>메이지가 알고 있었던 일</td>
+					<td>What Maisie Knew</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-빌역</td>
+					<td>14,597,500</td>
+					<td>2,125</td>
+					<td>14,597,500</td>
+					<td>2,125</td>
+				</tr>
+			
+				<tr>
+					<td>트립 투 잉글랜드</td>
+					<td>The Trip</td>
+					<td>2010</td>
+					<td>영국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>33,045,800</td>
+					<td>4,192</td>
+					<td>33,045,800</td>
+					<td>4,192</td>
+				</tr>
+			
+				<tr>
+					<td>햄릿 2</td>
+					<td>Hamlet 2</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>알리바이</td>
+					<td>The Alibi</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-레이 엘리어트역</td>
+					<td>0</td>
+					<td>14,245</td>
+					<td>89,590,000</td>
+					<td>14,327</td>
+				</tr>
+			
+				<tr>
+					<td>수탉과 황소 이야기</td>
+					<td>A Cock And Bull Story</td>
+					<td>2005</td>
+					<td>영국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>해피 엔딩</td>
+					<td>Happy Endings</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>24시간 파티하는 사람들</td>
+					<td>24 Hour Party People</td>
+					<td>2002</td>
+					<td>영국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,214,000</td>
+					<td>149</td>
+				</tr>
+			
+				<tr>
+					<td>경찰, 은행을 털다</td>
+					<td>The Parole Officer</td>
+					<td>2001</td>
+					<td>영국</td>
+					<td>코미디,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

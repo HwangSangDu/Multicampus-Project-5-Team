@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '윤진영'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>월하</td>
+					<td>Wol-ha : Very Bad Moon Rising</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>공포(호러),미스터리,스릴러</td>
+					<td>주연</td>
+					<td>1,211,500</td>
+					<td>167</td>
+					<td>1,211,500</td>
+					<td>167</td>
+				</tr>
+			
+				<tr>
+					<td>악녀</td>
+					<td>The Villainess</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>단역-현수동료1역</td>
+					<td>9,739,662,144</td>
+					<td>1,208,081</td>
+					<td>9,739,662,144</td>
+					<td>1,208,081</td>
+				</tr>
+			
+				<tr>
+					<td>아빠는 딸</td>
+					<td>Daddy You, Daughter Me</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>단역-의사역</td>
+					<td>5,051,730,395</td>
+					<td>646,924</td>
+					<td>5,054,757,395</td>
+					<td>647,305</td>
+				</tr>
+			
+				<tr>
+					<td>당신, 거기 있어줄래요</td>
+					<td>Will You Be There?</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>판타지,드라마</td>
+					<td>단역-돌고래쇼 영업부장역</td>
+					<td>9,361,133,648</td>
+					<td>1,168,625</td>
+					<td>9,362,086,648</td>
+					<td>1,168,782</td>
+				</tr>
+			
+				<tr>
+					<td>울보</td>
+					<td>Stay with Me</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-농구학생들역</td>
+					<td>6,443,400</td>
+					<td>858</td>
+					<td>6,552,400</td>
+					<td>874</td>
+				</tr>
+			
+				<tr>
+					<td>잡아야 산다</td>
+					<td>Chasing </td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>코미디,액션</td>
+					<td>단역-예비군 사내1역</td>
+					<td>415,009,400</td>
+					<td>55,011</td>
+					<td>415,009,400</td>
+					<td>55,011</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,138 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '주노 템플'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>원더 휠</td>
+					<td>Wonder Wheel</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>173,610,195</td>
+					<td>21,884</td>
+					<td>173,610,195</td>
+					<td>21,884</td>
+				</tr>
+			
+				<tr>
+					<td>혼스</td>
+					<td>Horns</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>판타지,스릴러</td>
+					<td>주연</td>
+					<td>137,324,715</td>
+					<td>17,535</td>
+					<td>137,324,715</td>
+					<td>17,535</td>
+				</tr>
+			
+				<tr>
+					<td>매직 티팟</td>
+					<td>The Brass Teapot</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>코미디,판타지,스릴러</td>
+					<td>주연</td>
+					<td>250,000</td>
+					<td>50</td>
+					<td>250,000</td>
+					<td>50</td>
+				</tr>
+			
+				<tr>
+					<td>러브레이스</td>
+					<td>Lovelace</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-팻시역</td>
+					<td>139,215,138</td>
+					<td>19,933</td>
+					<td>139,215,138</td>
+					<td>19,933</td>
+				</tr>
+			
+				<tr>
+					<td>킬러 조</td>
+					<td>Killer Joe</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>범죄,스릴러</td>
+					<td>주연</td>
+					<td>1,589,200</td>
+					<td>204</td>
+					<td>1,589,200</td>
+					<td>204</td>
+				</tr>
+			
+				<tr>
+					<td>스몰 아파트</td>
+					<td>Small Apartments</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>코미디,범죄</td>
+					<td>주연-시몬느 역 역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>카붐</td>
+					<td>Kaboom</td>
+					<td>2010</td>
+					<td>미국,프랑스</td>
+					<td>코미디,SF</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

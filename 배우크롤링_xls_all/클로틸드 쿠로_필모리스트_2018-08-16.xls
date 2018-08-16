@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '클로틸드 쿠로'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>인 더 섀도우 오브 우먼</td>
+					<td>In The Shadow Of Women</td>
+					<td>2015</td>
+					<td>프랑스,스위스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>6,473,000</td>
+					<td>910</td>
+					<td>6,872,000</td>
+					<td>969</td>
+				</tr>
+			
+				<tr>
+					<td>더 코드</td>
+					<td>The Code</td>
+					<td>2002</td>
+					<td>프랑스</td>
+					<td>액션,범죄,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>페이싱</td>
+					<td>Facing</td>
+					<td>2000</td>
+					<td>프랑스</td>
+					<td>미스터리,스릴러</td>
+					<td>주연-마셸역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>딥 인 더 우드</td>
+					<td>Deep In The Woods</td>
+					<td>2000</td>
+					<td>프랑스</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>마법같은 이야기</td>
+					<td>Enchanted Interlude</td>
+					<td>1998</td>
+					<td>프랑스</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>문어</td>
+					<td>Le Poulpe</td>
+					<td>1998</td>
+					<td>프랑스</td>
+					<td>코미디,범죄,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

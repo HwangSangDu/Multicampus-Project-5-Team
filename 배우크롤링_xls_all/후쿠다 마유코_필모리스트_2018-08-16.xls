@@ -1,0 +1,112 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '후쿠다 마유코'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>플레어</td>
+					<td>FLARE</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>5,000</td>
+					<td>1</td>
+					<td>5,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>마이 마이 신코 이야기</td>
+					<td>Mai Mai Miracle</td>
+					<td>2009</td>
+					<td>일본</td>
+					<td>애니메이션,가족,드라마</td>
+					<td>주연</td>
+					<td>90,892,500</td>
+					<td>13,955</td>
+					<td>89,534,500</td>
+					<td>13,747</td>
+				</tr>
+			
+				<tr>
+					<td>헤븐스 도어</td>
+					<td>Heaven&#039;s Door</td>
+					<td>2009</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>강아지와 나의 열 가지 약속</td>
+					<td>10 Promises to My Dog</td>
+					<td>2008</td>
+					<td>일본</td>
+					<td>가족,드라마</td>
+					<td>주연-어린 사이토 아카리 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>리틀 디제이</td>
+					<td>Little Dj</td>
+					<td>2007</td>
+					<td>일본</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>9,844,056</td>
+					<td>1,338</td>
+					<td>9,689,500</td>
+					<td>1,317</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

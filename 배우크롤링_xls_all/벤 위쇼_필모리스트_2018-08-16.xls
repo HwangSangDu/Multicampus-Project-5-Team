@@ -1,0 +1,229 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '벤 위쇼'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>패딩턴 2</td>
+					<td>Paddington 2</td>
+					<td>2017</td>
+					<td>프랑스,영국</td>
+					<td>코미디,드라마</td>
+					<td>주연(목소리)</td>
+					<td>2,554,560,200</td>
+					<td>338,899</td>
+					<td>2,555,480,200</td>
+					<td>339,014</td>
+				</tr>
+			
+				<tr>
+					<td>서프러제트</td>
+					<td>Suffragette</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>조연-소니 왓츠역</td>
+					<td>230,445,800</td>
+					<td>28,511</td>
+					<td>230,445,800</td>
+					<td>28,511</td>
+				</tr>
+			
+				<tr>
+					<td>홀로그램 포 더 킹</td>
+					<td>A Hologram for the King</td>
+					<td>2016</td>
+					<td>독일,미국,영국,프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>대니쉬 걸</td>
+					<td>The Danish Girl</td>
+					<td>2015</td>
+					<td>미국,영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>1,074,763,884</td>
+					<td>134,029</td>
+					<td>1,074,963,884</td>
+					<td>134,079</td>
+				</tr>
+			
+				<tr>
+					<td>하트 오브 더 씨</td>
+					<td>In the Heart of the Sea</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션,어드벤처,드라마</td>
+					<td>주연</td>
+					<td>6,780,844,023</td>
+					<td>809,827</td>
+					<td>6,780,844,023</td>
+					<td>809,827</td>
+				</tr>
+			
+				<tr>
+					<td>더 랍스터</td>
+					<td>The Lobster</td>
+					<td>2015</td>
+					<td>영국,그리스,아일랜드,네덜란드,프랑스</td>
+					<td>판타지,멜로/로맨스</td>
+					<td>주연</td>
+					<td>476,877,300</td>
+					<td>57,721</td>
+					<td>478,713,300</td>
+					<td>57,983</td>
+				</tr>
+			
+				<tr>
+					<td>패딩턴</td>
+					<td>Paddington</td>
+					<td>2014</td>
+					<td>영국,프랑스,캐나다</td>
+					<td>코미디,가족,어드벤처</td>
+					<td>주연(목소리)</td>
+					<td>2,327,198,729</td>
+					<td>314,780</td>
+					<td>2,328,639,729</td>
+					<td>315,004</td>
+				</tr>
+			
+				<tr>
+					<td>제로법칙의 비밀</td>
+					<td>The Zero Theorem</td>
+					<td>2013</td>
+					<td>미국,루마니아,영국</td>
+					<td>SF,판타지</td>
+					<td>주연</td>
+					<td>41,339,100</td>
+					<td>5,212</td>
+					<td>42,123,100</td>
+					<td>5,310</td>
+				</tr>
+			
+				<tr>
+					<td>클라우드 아틀라스</td>
+					<td>Cloud Atlas</td>
+					<td>2012</td>
+					<td>미국,독일</td>
+					<td>SF,판타지</td>
+					<td>주연</td>
+					<td>3,412,002,227</td>
+					<td>452,755</td>
+					<td>3,414,930,727</td>
+					<td>453,116</td>
+				</tr>
+			
+				<tr>
+					<td>브라이트 스타</td>
+					<td>Bright Star</td>
+					<td>2009</td>
+					<td>영국,호주,프랑스</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>브라이즈헤드 리비지티드</td>
+					<td>Brideshead Revisited</td>
+					<td>2008</td>
+					<td>영국,이탈리아,모로코</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아임 낫 데어</td>
+					<td>I`M Not There</td>
+					<td>2007</td>
+					<td>미국,독일</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>175,924,500</td>
+					<td>26,117</td>
+					<td>183,029,300</td>
+					<td>26,615</td>
+				</tr>
+			
+				<tr>
+					<td>향수 : 어느 살인자의 이야기</td>
+					<td>Perfume: The Story Of A Murderer</td>
+					<td>2007</td>
+					<td>영국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,011,710</td>
+					<td>5,921,122,000</td>
+					<td>979,344</td>
+				</tr>
+			
+				<tr>
+					<td>톰과 제시카</td>
+					<td>My Brother Tom</td>
+					<td>2001</td>
+					<td>영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

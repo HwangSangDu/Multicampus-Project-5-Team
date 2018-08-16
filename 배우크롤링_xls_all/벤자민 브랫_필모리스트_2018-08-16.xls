@@ -1,0 +1,164 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '벤자민 브랫'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>코코</td>
+					<td>COCO</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td>27,723,419,440</td>
+					<td>3,513,137</td>
+					<td>27,723,419,440</td>
+					<td>3,513,137</td>
+				</tr>
+			
+				<tr>
+					<td>인필트레이터 : 잠입자들</td>
+					<td>The Infiltrator</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>범죄,드라마</td>
+					<td>조연</td>
+					<td>58,518,000</td>
+					<td>7,735</td>
+					<td>58,518,000</td>
+					<td>7,735</td>
+				</tr>
+			
+				<tr>
+					<td>그레이트 레이드</td>
+					<td>The Great Raid</td>
+					<td>2005</td>
+					<td>미국,호주</td>
+					<td>액션,전쟁</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>캣우먼</td>
+					<td>Catwoman</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>267,300</td>
+					<td>1,211,731,000</td>
+					<td>184,929</td>
+				</tr>
+			
+				<tr>
+					<td>어벤던</td>
+					<td>Abandon</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>범죄,드라마,미스터리</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>10</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>파이네로</td>
+					<td>Pinero</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>폭풍 탈출 </td>
+					<td>After the Storm</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>범죄,액션,스릴러</td>
+					<td>주연-아르노 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>트래픽</td>
+					<td>Traffic</td>
+					<td>2000</td>
+					<td>독일,미국</td>
+					<td>드라마,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>223,308</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>라스트 프로듀서</td>
+					<td>The Last Producer</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

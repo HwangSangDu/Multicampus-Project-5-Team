@@ -1,0 +1,294 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '킬리언 머피'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>덩케르크</td>
+					<td>Dunkirk</td>
+					<td>2017</td>
+					<td>미국,영국</td>
+					<td>액션,드라마,스릴러,전쟁</td>
+					<td>주연</td>
+					<td>24,576,771,848</td>
+					<td>2,792,705</td>
+					<td>24,576,771,848</td>
+					<td>2,792,705</td>
+				</tr>
+			
+				<tr>
+					<td>앤트로포이드</td>
+					<td>Anthropoid</td>
+					<td>2016</td>
+					<td>영국,체코,프랑스</td>
+					<td>스릴러,전쟁</td>
+					<td>주연</td>
+					<td>3,468,500</td>
+					<td>529</td>
+					<td>3,468,500</td>
+					<td>529</td>
+				</tr>
+			
+				<tr>
+					<td>프리 파이어</td>
+					<td>Free Fire</td>
+					<td>2016</td>
+					<td>프랑스,영국</td>
+					<td>액션,범죄,드라마</td>
+					<td>주연</td>
+					<td>6,497,500</td>
+					<td>842</td>
+					<td>6,497,500</td>
+					<td>842</td>
+				</tr>
+			
+				<tr>
+					<td>하트 오브 더 씨</td>
+					<td>In the Heart of the Sea</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션,어드벤처,드라마</td>
+					<td>주연</td>
+					<td>6,780,844,023</td>
+					<td>809,827</td>
+					<td>6,780,844,023</td>
+					<td>809,827</td>
+				</tr>
+			
+				<tr>
+					<td>트랜센던스</td>
+					<td>Transcendence</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>SF,액션,드라마</td>
+					<td>주연</td>
+					<td>5,478,201,500</td>
+					<td>696,412</td>
+					<td>5,478,536,500</td>
+					<td>696,436</td>
+				</tr>
+			
+				<tr>
+					<td>브로큰</td>
+					<td>Broken</td>
+					<td>2012</td>
+					<td>영국</td>
+					<td>드라마</td>
+					<td>주연-마이크역</td>
+					<td>17,884,000</td>
+					<td>2,582</td>
+					<td>19,381,000</td>
+					<td>2,810</td>
+				</tr>
+			
+				<tr>
+					<td>레드라이트</td>
+					<td>Red Lights</td>
+					<td>2012</td>
+					<td>스페인,미국</td>
+					<td>미스터리,스릴러</td>
+					<td>주연</td>
+					<td>355,743,500</td>
+					<td>49,925</td>
+					<td>355,743,500</td>
+					<td>49,925</td>
+				</tr>
+			
+				<tr>
+					<td>리트릿</td>
+					<td>Retreat</td>
+					<td>2011</td>
+					<td>영국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>인 타임</td>
+					<td>In Time</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>SF,스릴러,액션</td>
+					<td>주연</td>
+					<td>4,579,554,500</td>
+					<td>616,943</td>
+					<td>4,579,554,500</td>
+					<td>616,943</td>
+				</tr>
+			
+				<tr>
+					<td>사랑의 순간</td>
+					<td>The Edge of Love</td>
+					<td>2008</td>
+					<td>영국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>선샤인</td>
+					<td>Sunshine</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>SF,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>104,428</td>
+					<td>561,125,000</td>
+					<td>90,208</td>
+				</tr>
+			
+				<tr>
+					<td>보리밭을 흔드는 바람</td>
+					<td>The Wind That Shakes The Barley</td>
+					<td>2006</td>
+					<td>영국,독일,아일랜드,이탈리아</td>
+					<td>드라마</td>
+					<td>주연-데미엔역</td>
+					<td>0</td>
+					<td>14,190</td>
+					<td>85,749,200</td>
+					<td>13,092</td>
+				</tr>
+			
+				<tr>
+					<td>플루토에서 아침을</td>
+					<td>Breakfast On Pluto</td>
+					<td>2005</td>
+					<td>영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>16,000</td>
+					<td>100,750,500</td>
+					<td>15,379</td>
+				</tr>
+			
+				<tr>
+					<td>나이트 플라이트</td>
+					<td>Red-Eye</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>스릴러,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>351,518</td>
+					<td>1,918,951,500</td>
+					<td>296,670</td>
+				</tr>
+			
+				<tr>
+					<td>진주 귀걸이를 한 소녀</td>
+					<td>Girl With A Pearl Earring</td>
+					<td>2003</td>
+					<td>영국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>95,000</td>
+					<td>419,580,100</td>
+					<td>60,770</td>
+				</tr>
+			
+				<tr>
+					<td>28일 후</td>
+					<td>28 Days Later... </td>
+					<td>2002</td>
+					<td>미국,프랑스,영국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>65,000</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>디스코 피그</td>
+					<td>Disco Pigs</td>
+					<td>2001</td>
+					<td>아일랜드</td>
+					<td>범죄,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>온 디 에지</td>
+					<td>On The Edge</td>
+					<td>2001</td>
+					<td>아일랜드</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>하우 해리 비컴 어 트리</td>
+					<td>How Harry Became a Tree</td>
+					<td>2001</td>
+					<td>이탈리아,프랑스,영국,아일랜드</td>
+					<td>드라마,서부극(웨스턴)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

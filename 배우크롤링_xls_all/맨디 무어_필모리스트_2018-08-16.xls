@@ -1,0 +1,229 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '맨디 무어'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>다키스트 마인드</td>
+					<td>The Darkest Minds</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>판타지,어드벤처</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>주먹왕 랄프 2: 인터넷 속으로</td>
+					<td>Ralph Breaks the Internet: Wreck-It Ralph 2</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>애니메이션,어드벤처,코미디,가족</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>47 미터</td>
+					<td>47 meters down</td>
+					<td>2017</td>
+					<td>영국</td>
+					<td>스릴러,공포(호러)</td>
+					<td>주연</td>
+					<td>4,686,022,657</td>
+					<td>590,036</td>
+					<td>4,686,079,657</td>
+					<td>590,045</td>
+				</tr>
+			
+				<tr>
+					<td>라푼젤</td>
+					<td>Tangled</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>애니메이션,코미디,멜로/로맨스,가족</td>
+					<td>주연-라푼젤역(목소리)</td>
+					<td>10,161,464,800</td>
+					<td>1,011,163</td>
+					<td>10,191,026,500</td>
+					<td>1,014,595</td>
+				</tr>
+			
+				<tr>
+					<td>철없는 그녀의 아찔한 연애코치</td>
+					<td>Because I Said So</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>코미디,드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>208,907</td>
+					<td>1,293,297,500</td>
+					<td>207,413</td>
+				</tr>
+			
+				<tr>
+					<td>결혼 면허 따기</td>
+					<td>License to Wed</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>데디케이션</td>
+					<td>Dedication</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>브라더 베어 2</td>
+					<td>Brother Bear 2</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>애니메이션,어드벤처</td>
+					<td>주연-니타 (목소리)역(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아메리칸 드림즈</td>
+					<td>American Dreamz</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>세이브드</td>
+					<td>Saved!</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>체이싱 리버티</td>
+					<td>Chasing Liberty</td>
+					<td>2004</td>
+					<td>미국,영국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>하우 투 딜</td>
+					<td>How To Deal</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>코미디,드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>워크 투 리멤버</td>
+					<td>A Walk To Remember</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>74,112</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>트라이 세븐틴</td>
+					<td>Try Seventeen</td>
+					<td>2002</td>
+					<td>캐나다,미국</td>
+					<td>멜로/로맨스,코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

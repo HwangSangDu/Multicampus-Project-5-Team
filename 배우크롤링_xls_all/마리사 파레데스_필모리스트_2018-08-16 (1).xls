@@ -1,0 +1,112 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '마리사 파레데스'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>내가 사는 피부</td>
+					<td>The Skin I Live In</td>
+					<td>2011</td>
+					<td>스페인</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>103,927,500</td>
+					<td>13,090</td>
+					<td>103,927,500</td>
+					<td>13,090</td>
+				</tr>
+			
+				<tr>
+					<td>악마의 등뼈</td>
+					<td>The Devil&#039;s Backbone</td>
+					<td>2001</td>
+					<td>멕시코,스페인</td>
+					<td>공포(호러),드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,464,000</td>
+					<td>207</td>
+				</tr>
+			
+				<tr>
+					<td>대령에게는 편지가 오지 않는다</td>
+					<td>No One Writes To The Colonel</td>
+					<td>1999</td>
+					<td>프랑스,스페인,멕시코</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>세 번의 삶과 한 번의 죽음</td>
+					<td>Three Lives and Only One Death</td>
+					<td>1996</td>
+					<td>프랑스,포르투갈</td>
+					<td>범죄,코미디</td>
+					<td>주연-마리아 역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>하이힐</td>
+					<td>Higyhill</td>
+					<td>1991</td>
+					<td>스페인</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>0</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,372 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '제니퍼 애니스턴'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>아기배달부 스토크</td>
+					<td>STORKS</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>애니메이션</td>
+					<td>주연</td>
+					<td>2,444,112,200</td>
+					<td>323,730</td>
+					<td>2,444,112,200</td>
+					<td>323,730</td>
+				</tr>
+			
+				<tr>
+					<td>케이크</td>
+					<td>Cake</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-클레어 시몬스 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>위 아 더 밀러스</td>
+					<td>We&#039;re the Millers</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연-로즈 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>원더러스트</td>
+					<td>Wanderlust</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연-린다 역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스트레스를 부르는 그 이름 직장상사</td>
+					<td>Horrible Bosses</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연-줄리아 역</td>
+					<td>404,070,500</td>
+					<td>51,646</td>
+					<td>404,070,500</td>
+					<td>51,646</td>
+				</tr>
+			
+				<tr>
+					<td>마이 프리텐드 와이프 </td>
+					<td>Just Go with It </td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연-캐서린역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스위치</td>
+					<td>The Switch</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연-캐시 라슨역</td>
+					<td>564,596,900</td>
+					<td>83,346</td>
+					<td>558,483,500</td>
+					<td>82,503</td>
+				</tr>
+			
+				<tr>
+					<td>바운티 헌터</td>
+					<td>The Bounty Hunter</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>459,904,690</td>
+					<td>60,376</td>
+					<td>453,911,000</td>
+					<td>59,581</td>
+				</tr>
+			
+				<tr>
+					<td>그는 당신에게 반하지 않았다</td>
+					<td>He&#039;s Just Not That Into You</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연-베스역</td>
+					<td>6,471,531,867</td>
+					<td>949,324</td>
+					<td>6,375,549,000</td>
+					<td>935,168</td>
+				</tr>
+			
+				<tr>
+					<td>러브 매니지먼트</td>
+					<td>Management</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>79,627,703</td>
+					<td>10,393</td>
+					<td>78,090,500</td>
+					<td>10,230</td>
+				</tr>
+			
+				<tr>
+					<td>말리와 나</td>
+					<td>Marley &amp; Me</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>드라마,코미디,멜로/로맨스,가족</td>
+					<td>주연-제니퍼역</td>
+					<td>1,437,267,652</td>
+					<td>213,500</td>
+					<td>1,415,054,000</td>
+					<td>210,270</td>
+				</tr>
+			
+				<tr>
+					<td>브레이크 업 : 이별후애(愛)</td>
+					<td>The Break-Up</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>241,676</td>
+					<td>1,422,274,000</td>
+					<td>225,195</td>
+				</tr>
+			
+				<tr>
+					<td>돈많은 친구들</td>
+					<td>Friends With Money</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연-올리비아 역</td>
+					<td>0</td>
+					<td>7,250</td>
+					<td>49,763,000</td>
+					<td>7,253</td>
+				</tr>
+			
+				<tr>
+					<td>그녀가 모르는 그녀에 관한 소문</td>
+					<td>Rumor Has It...</td>
+					<td>2005</td>
+					<td>미국,호주</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>디레일드</td>
+					<td>Derailed</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>폴리와 함께</td>
+					<td>Along Came Polly</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>170,000</td>
+					<td>252,615,500</td>
+					<td>37,807</td>
+				</tr>
+			
+				<tr>
+					<td>브루스 올마이티</td>
+					<td>Bruce Almighty</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>코미디,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,182,962</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>굿 걸</td>
+					<td>The Good Girl</td>
+					<td>2002</td>
+					<td>미국,독일,네덜란드</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>록 스타</td>
+					<td>Rock Star</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>뛰는 백수, 나는 건달</td>
+					<td>Office Space</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아이언 자이언트</td>
+					<td>The Iron Giant</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>애니메이션,SF,가족</td>
+					<td>주연-애니역(목소리)</td>
+					<td></td>
+					<td></td>
+					<td>807,000</td>
+					<td>117</td>
+				</tr>
+			
+				<tr>
+					<td>내가 사랑한 사람</td>
+					<td>The Object Of My Affection</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>코미디,드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>잠들수 없는 밤</td>
+					<td>Dream For An Insomniac</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>그녀를 위하여</td>
+					<td>She&#039;s the One</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>레프리콘</td>
+					<td>Leprechaun</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>공포(호러),코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>4,221</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

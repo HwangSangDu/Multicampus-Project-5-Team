@@ -1,0 +1,216 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '황효명'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>태평륜 완결편</td>
+					<td>The Crossing Final</td>
+					<td>2017</td>
+					<td>중국</td>
+					<td>드라마,멜로/로맨스,전쟁,액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>현장법사: 서유기의 시작</td>
+					<td>Xuan Zang</td>
+					<td>2016</td>
+					<td>중국</td>
+					<td>어드벤처,드라마</td>
+					<td>주연</td>
+					<td>64,000</td>
+					<td>27</td>
+					<td>64,000</td>
+					<td>27</td>
+				</tr>
+			
+				<tr>
+					<td>태평륜 피안</td>
+					<td>The Crossing 2</td>
+					<td>2015</td>
+					<td>중국</td>
+					<td>드라마,액션,전쟁</td>
+					<td>주연</td>
+					<td>265,000</td>
+					<td>53</td>
+					<td>751,000</td>
+					<td>123</td>
+				</tr>
+			
+				<tr>
+					<td>태평륜</td>
+					<td>The Crossing</td>
+					<td>2014</td>
+					<td>중국</td>
+					<td>드라마,액션,전쟁</td>
+					<td>주연</td>
+					<td>730,000</td>
+					<td>146</td>
+					<td>790,000</td>
+					<td>166</td>
+				</tr>
+			
+				<tr>
+					<td>백발마녀전: 명월천국</td>
+					<td>The White Haired Witch Of Lunar Kingdom</td>
+					<td>2014</td>
+					<td>중국</td>
+					<td>판타지,멜로/로맨스</td>
+					<td>주연</td>
+					<td>15,699,000</td>
+					<td>3,151</td>
+					<td>15,917,000</td>
+					<td>3,187</td>
+				</tr>
+			
+				<tr>
+					<td>아메리칸 드림 인 차이나</td>
+					<td>American Dreams in China</td>
+					<td>2013</td>
+					<td>중국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>혈적자: 황제암살단</td>
+					<td>The Guillotines</td>
+					<td>2012</td>
+					<td>중국</td>
+					<td>액션,드라마</td>
+					<td>주연</td>
+					<td>10,555,000</td>
+					<td>5,022</td>
+					<td>10,555,000</td>
+					<td>5,022</td>
+				</tr>
+			
+				<tr>
+					<td>필부</td>
+					<td>An Inaccurate Memoir</td>
+					<td>2012</td>
+					<td>중국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>750,000</td>
+					<td>150</td>
+					<td>750,000</td>
+					<td>150</td>
+				</tr>
+			
+				<tr>
+					<td>천하영웅</td>
+					<td>SACRIFICE</td>
+					<td>2010</td>
+					<td>중국</td>
+					<td>액션,사극</td>
+					<td>주연</td>
+					<td>2,541,000</td>
+					<td>249</td>
+					<td>2,541,000</td>
+					<td>249</td>
+				</tr>
+			
+				<tr>
+					<td>엽문2</td>
+					<td>Ip Man 2</td>
+					<td>2010</td>
+					<td>홍콩</td>
+					<td>액션,드라마</td>
+					<td>주연</td>
+					<td>451,282,315</td>
+					<td>59,881</td>
+					<td>444,197,000</td>
+					<td>58,928</td>
+				</tr>
+			
+				<tr>
+					<td>당백호점추향 2 - 사대제자</td>
+					<td>Flirting Scholar 2 </td>
+					<td>2010</td>
+					<td>중국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>신조협려 2006</td>
+					<td>Condor Hero</td>
+					<td>2006</td>
+					<td>중국</td>
+					<td>드라마,액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>대상해</td>
+					<td>THE LAST TYCOON </td>
+					<td></td>
+					<td>중국,멕시코</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>9,000,000</td>
+					<td>1,500</td>
+					<td>9,000,000</td>
+					<td>1,500</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

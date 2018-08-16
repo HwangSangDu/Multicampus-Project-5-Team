@@ -1,0 +1,359 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '브렌든 프레이저'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>슈퍼노바 지구 탈출기</td>
+					<td>Escape from Planet Earth</td>
+					<td>2013</td>
+					<td>미국,캐나다</td>
+					<td>애니메이션,어드벤처,코미디,가족,SF</td>
+					<td>주연(목소리)</td>
+					<td>245,845,000</td>
+					<td>37,547</td>
+					<td>245,845,000</td>
+					<td>37,547</td>
+				</tr>
+			
+				<tr>
+					<td>넛잡: 땅콩 도둑들</td>
+					<td>The Nut Job</td>
+					<td>2013</td>
+					<td>한국,캐나다,미국</td>
+					<td>애니메이션,어드벤처,코미디,가족</td>
+					<td>주연-그레이슨역(목소리)</td>
+					<td>3,280,608,100</td>
+					<td>478,392</td>
+					<td>3,284,959,800</td>
+					<td>479,280</td>
+				</tr>
+			
+				<tr>
+					<td>브레이크 아웃</td>
+					<td>Breakout</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연-잭 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>작은 영혼의 쉼터</td>
+					<td>Gimme Shelter</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>위기의 남자들</td>
+					<td>Whole lotta Sole</td>
+					<td>2011</td>
+					<td>영국</td>
+					<td>코미디,액션</td>
+					<td>주연</td>
+					<td>385,000</td>
+					<td>77</td>
+					<td>385,000</td>
+					<td>77</td>
+				</tr>
+			
+				<tr>
+					<td>해리슨포드의 특별조치</td>
+					<td>Extraordinary Measures </td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-존 크로울리 역 역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>잉크하트 : 어둠의 부활</td>
+					<td>Inkheart</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>어드벤처,판타지,가족</td>
+					<td>주연</td>
+					<td>3,547,748,935</td>
+					<td>556,496</td>
+					<td>3,577,497,500</td>
+					<td>560,588</td>
+				</tr>
+			
+				<tr>
+					<td>잃어버린 세계를 찾아서</td>
+					<td>Journey To The Center Of The Earth</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>SF,어드벤처,가족,액션</td>
+					<td>주연</td>
+					<td>9,339,002,945</td>
+					<td>1,438,353</td>
+					<td>9,346,765,000</td>
+					<td>1,439,506</td>
+				</tr>
+			
+				<tr>
+					<td>미이라 3:황제의 무덤</td>
+					<td>The Mummy 3:Tomb Of The Dragon Emperor</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지</td>
+					<td>주연</td>
+					<td>26,222,207,084</td>
+					<td>4,090,795</td>
+					<td>26,217,311,000</td>
+					<td>4,090,885</td>
+				</tr>
+			
+				<tr>
+					<td>내가 숨쉬는 공기</td>
+					<td>The Air I Breathe</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>범죄,드라마,스릴러</td>
+					<td>주연-기쁨 역</td>
+					<td>772,348,500</td>
+					<td>117,058</td>
+					<td>772,332,500</td>
+					<td>115,924</td>
+				</tr>
+			
+				<tr>
+					<td>라스트 타임 </td>
+					<td>The Last Time</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>코미디,드라마,멜로/로맨스,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>크래쉬</td>
+					<td>Crash</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>드라마,범죄,미스터리</td>
+					<td>주연-백인 지방 검사 - 리차드 카봇역</td>
+					<td>0</td>
+					<td>152,617</td>
+					<td>907,041,100</td>
+					<td>142,833</td>
+				</tr>
+			
+				<tr>
+					<td>루니 툰 : 백 인 액션</td>
+					<td>Looney Tunes: Back In Action</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>액션,어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>46,200</td>
+					<td>6,840,500</td>
+					<td>1,079</td>
+				</tr>
+			
+				<tr>
+					<td>콰이어트 아메리칸</td>
+					<td>The Quiet American</td>
+					<td>2002</td>
+					<td>미국,독일</td>
+					<td>전쟁,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>113</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>미이라2</td>
+					<td>The Mummy Returns</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>액션,스릴러,공포(호러),어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>948,170</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>멍키본</td>
+					<td>Monkeybone</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>애니메이션,코미디,판타지</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>일곱가지 유혹</td>
+					<td>Bedazzled</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>68,466</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>신밧드 2000</td>
+					<td>Sinbad: Beyond The Veil Of Mists</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>애니메이션,어드벤처</td>
+					<td>주연-신밧드역(목소리)</td>
+					<td>0</td>
+					<td>11,829</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>미이라</td>
+					<td>The Mummy</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,114,916</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>브랜든 프레이저의 폭소 기마특공대</td>
+					<td>Dudley Do-Right</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>블래스트 </td>
+					<td>Blast From The Past</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>코미디,드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>갓 앤 몬스터</td>
+					<td>gods and monsters</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>272</td>
+					<td>174,000</td>
+					<td>39</td>
+				</tr>
+			
+				<tr>
+					<td>스틸브리딩</td>
+					<td>Still Breathing</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>코미디,드라마,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>8,024</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>원시 틴에이저 </td>
+					<td>California Man</td>
+					<td>1992</td>
+					<td>미국</td>
+					<td>코미디,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>27,393</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

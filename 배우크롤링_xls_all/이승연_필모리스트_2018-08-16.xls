@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '이승연'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>어느날</td>
+					<td>Oneday</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>단역-수간호사역</td>
+					<td>1,845,841,582</td>
+					<td>234,681</td>
+					<td>1,846,581,582</td>
+					<td>234,829</td>
+				</tr>
+			
+				<tr>
+					<td>최악의 하루</td>
+					<td>Worst Woman</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>조연-유진역</td>
+					<td>639,959,190</td>
+					<td>80,754</td>
+					<td>643,607,190</td>
+					<td>81,215</td>
+				</tr>
+			
+				<tr>
+					<td>커터</td>
+					<td>Eclipse</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>범죄,드라마</td>
+					<td>조연-윤재모역</td>
+					<td>151,165,500</td>
+					<td>19,405</td>
+					<td>151,165,500</td>
+					<td>19,405</td>
+				</tr>
+			
+				<tr>
+					<td>눈길</td>
+					<td>Snowy Road</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-윤옥역</td>
+					<td>974,237,100</td>
+					<td>130,172</td>
+					<td>975,962,100</td>
+					<td>130,493</td>
+				</tr>
+			
+				<tr>
+					<td>좋아해줘</td>
+					<td>Like for Likes </td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>조연-스튜어디스 사무장역</td>
+					<td>6,572,774,337</td>
+					<td>848,148</td>
+					<td>6,572,774,337</td>
+					<td>848,148</td>
+				</tr>
+			
+				<tr>
+					<td>산다</td>
+					<td>Alive</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-수연역</td>
+					<td>32,633,200</td>
+					<td>4,398</td>
+					<td>32,633,200</td>
+					<td>4,398</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

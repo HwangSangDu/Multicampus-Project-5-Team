@@ -1,0 +1,281 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '성유빈'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>살아남은 아이</td>
+					<td>Last Child</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-기현역</td>
+					<td></td>
+					<td></td>
+					<td>2,019,900</td>
+					<td>317</td>
+				</tr>
+			
+				<tr>
+					<td>신과함께-죄와 벌</td>
+					<td>Along with the Gods: The Two Worlds</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>판타지,드라마</td>
+					<td>단역-어린 자홍역</td>
+					<td>115,699,634,137</td>
+					<td>14,410,931</td>
+					<td>115,706,188,137</td>
+					<td>14,411,525</td>
+				</tr>
+			
+				<tr>
+					<td>아이 캔 스피크</td>
+					<td>I Can Speak </td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>조연</td>
+					<td>25,532,214,986</td>
+					<td>3,280,243</td>
+					<td>25,539,734,986</td>
+					<td>3,281,433</td>
+				</tr>
+			
+				<tr>
+					<td>대호</td>
+					<td>The Tiger</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>사극</td>
+					<td>조연</td>
+					<td>13,489,904,632</td>
+					<td>1,762,742</td>
+					<td>13,489,904,632</td>
+					<td>1,762,742</td>
+				</tr>
+			
+				<tr>
+					<td>협녀, 칼의 기억</td>
+					<td>Memories of the Sword </td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>사극,액션</td>
+					<td>조연-감초역</td>
+					<td>3,360,045,489</td>
+					<td>431,310</td>
+					<td>3,360,045,489</td>
+					<td>431,310</td>
+				</tr>
+			
+				<tr>
+					<td>순수의 시대</td>
+					<td>Empire of Lust</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>사극,드라마</td>
+					<td>단역-어린 민재역</td>
+					<td>3,740,948,828</td>
+					<td>469,891</td>
+					<td>3,743,046,828</td>
+					<td>470,308</td>
+				</tr>
+			
+				<tr>
+					<td>나의 독재자</td>
+					<td>My Dictator</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-중학생 태식역</td>
+					<td>2,906,692,546</td>
+					<td>385,934</td>
+					<td>2,907,311,546</td>
+					<td>386,072</td>
+				</tr>
+			
+				<tr>
+					<td>맨홀</td>
+					<td>Manhole</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>공포(호러),스릴러</td>
+					<td>조연-맨홀아이역</td>
+					<td>1,084,557,130</td>
+					<td>133,663</td>
+					<td>1,084,557,130</td>
+					<td>133,663</td>
+				</tr>
+			
+				<tr>
+					<td>역린</td>
+					<td>The Fatal Encounter</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>사극</td>
+					<td>조연-어린 갑수역</td>
+					<td>29,893,297,890</td>
+					<td>3,849,433</td>
+					<td>29,895,031,890</td>
+					<td>3,849,700</td>
+				</tr>
+			
+				<tr>
+					<td>숨바꼭질</td>
+					<td>Hide and Seek</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>조연-어린시절 성철역</td>
+					<td>39,602,987,500</td>
+					<td>5,604,104</td>
+					<td>39,602,995,500</td>
+					<td>5,604,106</td>
+				</tr>
+			
+				<tr>
+					<td>은밀하게 위대하게</td>
+					<td>Secretly Greatly</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>액션,코미디,드라마</td>
+					<td>단역-어린 해진역</td>
+					<td>48,700,887,413</td>
+					<td>6,959,083</td>
+					<td>48,700,887,413</td>
+					<td>6,959,083</td>
+				</tr>
+			
+				<tr>
+					<td>파파로티</td>
+					<td>My Paparotti</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-어린 장호역</td>
+					<td>11,825,934,000</td>
+					<td>1,716,429</td>
+					<td>11,826,024,000</td>
+					<td>1,716,438</td>
+				</tr>
+			
+				<tr>
+					<td>콩나물</td>
+					<td></td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>가족,드라마</td>
+					<td>주연-수완역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>세계일주</td>
+					<td>The Trip Around the World (W/T)</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>가족,어드벤처</td>
+					<td>조연-한상필역</td>
+					<td>32,479,400</td>
+					<td>4,449</td>
+					<td>32,479,400</td>
+					<td>4,449</td>
+				</tr>
+			
+				<tr>
+					<td>마이 웨이</td>
+					<td>My Way</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>전쟁,액션,드라마</td>
+					<td>단역-아역 타츠오역</td>
+					<td>15,994,803,000</td>
+					<td>2,142,622</td>
+					<td>15,995,187,000</td>
+					<td>2,142,670</td>
+				</tr>
+			
+				<tr>
+					<td>완득이</td>
+					<td>Punch</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-어린 완득역</td>
+					<td>38,530,503,500</td>
+					<td>5,310,510</td>
+					<td>38,533,831,000</td>
+					<td>5,311,353</td>
+				</tr>
+			
+				<tr>
+					<td>블라인드</td>
+					<td>Blind</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>단역-어린 동현역</td>
+					<td>18,387,176,500</td>
+					<td>2,367,272</td>
+					<td>18,390,012,500</td>
+					<td>2,367,942</td>
+				</tr>
+			
+				<tr>
+					<td>검은 갈매기</td>
+					<td>Black Dove</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-어린 준구역</td>
+					<td></td>
+					<td></td>
+					<td>0</td>
+					<td>0</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

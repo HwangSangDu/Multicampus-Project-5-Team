@@ -1,0 +1,424 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '윤여정'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>그것만이 내 세상</td>
+					<td>Keys to the Heart</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>27,444,801,382</td>
+					<td>3,418,091</td>
+					<td>27,446,297,382</td>
+					<td>3,418,392</td>
+				</tr>
+			
+				<tr>
+					<td>죽여주는 여자</td>
+					<td>The Bacchus Lady</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>884,865,300</td>
+					<td>121,444</td>
+					<td>884,934,300</td>
+					<td>121,452</td>
+				</tr>
+			
+				<tr>
+					<td>계춘할망</td>
+					<td>Canola</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>가족,드라마</td>
+					<td>주연</td>
+					<td>3,599,680,348</td>
+					<td>482,259</td>
+					<td>3,602,649,348</td>
+					<td>482,784</td>
+				</tr>
+			
+				<tr>
+					<td>산나물 처녀</td>
+					<td>Ladies of the Forest</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>지금은맞고그때는틀리다</td>
+					<td>Right Now, Wrong Then</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연</td>
+					<td>664,112,100</td>
+					<td>80,614</td>
+					<td>665,149,092</td>
+					<td>80,734</td>
+				</tr>
+			
+				<tr>
+					<td>나의 절친 악당들</td>
+					<td>Intimate Enemies</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>범죄,액션,드라마</td>
+					<td>단역-특별출연역</td>
+					<td>1,054,470,664</td>
+					<td>133,553</td>
+					<td>1,054,470,664</td>
+					<td>133,553</td>
+				</tr>
+			
+				<tr>
+					<td>장수상회</td>
+					<td>Salut d’Amour </td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연-금님역</td>
+					<td>8,729,412,643</td>
+					<td>1,163,575</td>
+					<td>8,739,586,643</td>
+					<td>1,166,151</td>
+				</tr>
+			
+				<tr>
+					<td>자유의 언덕</td>
+					<td>Hill of Freedom</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-구옥역</td>
+					<td>316,769,827</td>
+					<td>39,091</td>
+					<td>318,681,827</td>
+					<td>39,317</td>
+				</tr>
+			
+				<tr>
+					<td>고령화 가족</td>
+					<td>Boomerang Family</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>주연-엄마역</td>
+					<td>8,169,492,153</td>
+					<td>1,141,222</td>
+					<td>8,169,492,153</td>
+					<td>1,141,222</td>
+				</tr>
+			
+				<tr>
+					<td>뒷담화: 감독이 미쳤어요</td>
+					<td>Behind the Camera</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>38,535,100</td>
+					<td>5,284</td>
+					<td>38,795,100</td>
+					<td>5,317</td>
+				</tr>
+			
+				<tr>
+					<td>돈의 맛</td>
+					<td>The Taste of Money</td>
+					<td>2012</td>
+					<td>한국,필리핀</td>
+					<td>드라마</td>
+					<td>주연-백금옥역</td>
+					<td>8,780,178,611</td>
+					<td>1,166,018</td>
+					<td>8,780,225,611</td>
+					<td>1,166,025</td>
+				</tr>
+			
+				<tr>
+					<td>다른나라에서</td>
+					<td>In Another Country</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-박숙역</td>
+					<td>237,013,700</td>
+					<td>30,590</td>
+					<td>241,291,200</td>
+					<td>31,143</td>
+				</tr>
+			
+				<tr>
+					<td>푸른소금</td>
+					<td>Hindsight</td>
+					<td>2011</td>
+					<td>한국,필리핀</td>
+					<td>액션,드라마,멜로/로맨스</td>
+					<td>주연-강여사역</td>
+					<td>5,739,824,500</td>
+					<td>771,699</td>
+					<td>5,739,824,500</td>
+					<td>771,699</td>
+				</tr>
+			
+				<tr>
+					<td>리스트</td>
+					<td>List</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>하녀</td>
+					<td>The Housemaid</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>스릴러,멜로/로맨스</td>
+					<td>주연-하녀, 병식역</td>
+					<td>17,310,669,976</td>
+					<td>2,304,487</td>
+					<td>17,038,839,500</td>
+					<td>2,267,579</td>
+				</tr>
+			
+				<tr>
+					<td>하하하</td>
+					<td>Hahaha</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>435,417,823</td>
+					<td>57,234</td>
+					<td>434,011,200</td>
+					<td>57,029</td>
+				</tr>
+			
+				<tr>
+					<td>여배우들</td>
+					<td>The Actresses</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연,시나리오(각본)-공동각본</td>
+					<td>3,784,176,467</td>
+					<td>514,052</td>
+					<td>3,778,911,800</td>
+					<td>513,405</td>
+				</tr>
+			
+				<tr>
+					<td>가루지기</td>
+					<td>A Tale of Legendary Libido</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>드라마,뮤지컬,코미디</td>
+					<td>조연</td>
+					<td>1,777,787,000</td>
+					<td>272,648</td>
+					<td>1,777,803,000</td>
+					<td>269,478</td>
+				</tr>
+			
+				<tr>
+					<td>황진이</td>
+					<td>Hwang Jin Yi</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,270,644</td>
+					<td>7,764,369,000</td>
+					<td>1,191,810</td>
+				</tr>
+			
+				<tr>
+					<td>우리들의 행복한 시간</td>
+					<td>Maundy Thursday</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>3,132,320</td>
+					<td>14,938,924,000</td>
+					<td>2,472,160</td>
+				</tr>
+			
+				<tr>
+					<td>그때 그 사람들</td>
+					<td>The President&#039;s Last Bang</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>미스터리,코미디</td>
+					<td>단역-철없는 엄마 - 윤희 모/에필로그 나레이션역</td>
+					<td>0</td>
+					<td>1,083,962</td>
+					<td>5,777,895,500</td>
+					<td>890,601</td>
+				</tr>
+			
+				<tr>
+					<td>바람난 가족</td>
+					<td>A Good Lawyer&#039;s Wife</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-시어머니 홍병한역</td>
+					<td></td>
+					<td>1,748,258</td>
+					<td>222,000</td>
+					<td>31</td>
+				</tr>
+			
+				<tr>
+					<td>죽어도 좋은 경험</td>
+					<td>An Experience to Die For</td>
+					<td>1995</td>
+					<td>한국</td>
+					<td>드라마,미스터리</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>0</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>천사여 악녀가 되라</td>
+					<td>Angel, Become An Evil Woman</td>
+					<td>1990</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스,미스터리,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>어미</td>
+					<td>Mother</td>
+					<td>1985</td>
+					<td>한국</td>
+					<td>가족,드라마,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>41,507</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>코메리칸의 낮과 밤</td>
+					<td>The Day And Night Of A Korean-American</td>
+					<td>1977</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>22,450</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>여대생 또순이</td>
+					<td>Tto Sun Yi, A College Girl</td>
+					<td>1973</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td>56,345</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>충녀</td>
+					<td>Insect Woman</td>
+					<td>1972</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td>162,024</td>
+					<td>224,000</td>
+					<td>46</td>
+				</tr>
+			
+				<tr>
+					<td>화녀</td>
+					<td>Woman of Fire</td>
+					<td>1971</td>
+					<td>한국</td>
+					<td>스릴러,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

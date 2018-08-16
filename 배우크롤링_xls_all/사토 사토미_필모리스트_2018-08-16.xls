@@ -1,0 +1,112 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '사토 사토미'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>주문은 토끼입니까?? ~디어 마이 시스터~</td>
+					<td>Is the Order a Rabbit?? ~Dear My Sister~</td>
+					<td>2017</td>
+					<td>일본</td>
+					<td>애니메이션,드라마</td>
+					<td>조연-치야역(목소리)</td>
+					<td>129,053,000</td>
+					<td>17,541</td>
+					<td>129,053,000</td>
+					<td>17,541</td>
+				</tr>
+			
+				<tr>
+					<td>금빛 모자이크 프리티 데이즈</td>
+					<td>きんいろモザイクPretty Days</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>애니메이션</td>
+					<td>조연-카리스마 사쿠라역(목소리)</td>
+					<td>34,265,500</td>
+					<td>4,709</td>
+					<td>34,265,500</td>
+					<td>4,709</td>
+				</tr>
+			
+				<tr>
+					<td>하이 스피드! –프리! 스타팅 데이즈-</td>
+					<td>High Speed! Free Starting Days</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>애니메이션,드라마</td>
+					<td>주연-하즈키 나기사역(목소리)</td>
+					<td>172,018,500</td>
+					<td>23,496</td>
+					<td>172,941,500</td>
+					<td>23,609</td>
+				</tr>
+			
+				<tr>
+					<td>극장판 푸른 강철의 아르페지오 -아르스 노바- 카덴차</td>
+					<td>Arpeggio of Blue Steel -ARS NOVA- Cadenza</td>
+					<td>2015</td>
+					<td>일본</td>
+					<td>애니메이션</td>
+					<td>조연-나치역(목소리)</td>
+					<td>9,482,500</td>
+					<td>1,282</td>
+					<td>9,482,500</td>
+					<td>1,282</td>
+				</tr>
+			
+				<tr>
+					<td>극장판 푸른 강철의 아르페지오 - 아르스 노바 - DC</td>
+					<td>Arpeggio of Blue Steel DC</td>
+					<td>2015</td>
+					<td>일본</td>
+					<td>애니메이션,SF,어드벤처</td>
+					<td>조연-나치역(목소리)</td>
+					<td>13,434,000</td>
+					<td>1,777</td>
+					<td>13,434,000</td>
+					<td>1,777</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

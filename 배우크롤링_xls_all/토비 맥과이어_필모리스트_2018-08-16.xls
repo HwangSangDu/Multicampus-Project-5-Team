@@ -1,0 +1,242 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '토비 맥과이어'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>보스 베이비</td>
+					<td>The Boss Baby</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>애니메이션,코미디,가족</td>
+					<td>주연(목소리)</td>
+					<td>18,934,037,704</td>
+					<td>2,451,919</td>
+					<td>18,936,306,704</td>
+					<td>2,452,245</td>
+				</tr>
+			
+				<tr>
+					<td>세기의 매치</td>
+					<td>Pawn Sacrifice</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>155,570,400</td>
+					<td>20,448</td>
+					<td>155,570,400</td>
+					<td>20,448</td>
+				</tr>
+			
+				<tr>
+					<td>위대한 개츠비</td>
+					<td>The Great Gatsby</td>
+					<td>2013</td>
+					<td>미국,호주</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>10,580,582,143</td>
+					<td>1,445,124</td>
+					<td>10,581,329,643</td>
+					<td>1,445,248</td>
+				</tr>
+			
+				<tr>
+					<td>디테일스</td>
+					<td>The Details </td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연-제프역</td>
+					<td>22,158,500</td>
+					<td>2,909</td>
+					<td>22,158,500</td>
+					<td>2,909</td>
+				</tr>
+			
+				<tr>
+					<td>브라더스</td>
+					<td>Brothers</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>드라마,전쟁</td>
+					<td>주연</td>
+					<td>513,691,735</td>
+					<td>69,470</td>
+					<td>505,363,900</td>
+					<td>68,291</td>
+				</tr>
+			
+				<tr>
+					<td>스파이더맨 2</td>
+					<td>Spider-Man II</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>SF</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,367,704</td>
+					<td>9,632,558,500</td>
+					<td>1,506,217</td>
+				</tr>
+			
+				<tr>
+					<td>씨비스킷</td>
+					<td>Seabiscuit</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>18,793</td>
+					<td>11,926,500</td>
+					<td>1,795</td>
+				</tr>
+			
+				<tr>
+					<td>스파이더맨</td>
+					<td>Spiderman</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,125,568</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>원더 보이즈</td>
+					<td>Wonder Boys</td>
+					<td>2000</td>
+					<td>독일,일본,영국,미국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>라이드 위드 데블</td>
+					<td>Ride With The Devil</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>드라마,사극</td>
+					<td>주연-제이크 로델역</td>
+					<td>0</td>
+					<td>6,087</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사이더 하우스</td>
+					<td>The Cider House Eules</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-호머 웰스역</td>
+					<td>0</td>
+					<td>15,403</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>플레전트빌 </td>
+					<td>Pleasantville</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>코미디,드라마,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>8,693</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>공포 비행</td>
+					<td>Revenge Of The Red Baron</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>코미디,공포(호러),판타지</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>디스 보이스 라이프 </td>
+					<td>This Boy&#039;S Life</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>13,573</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스파이더맨 3</td>
+					<td>Spider-Man 3</td>
+					<td></td>
+					<td>미국</td>
+					<td>액션,SF</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>4,935,660</td>
+					<td>29,511,658,000</td>
+					<td>4,592,309</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

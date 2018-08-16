@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '배리 보스트윅'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>퍼시픽 모비딕</td>
+					<td>2010: Moby Dick</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>스릴러,액션</td>
+					<td>주연</td>
+					<td>11,790,000</td>
+					<td>5,270</td>
+					<td>11,790,000</td>
+					<td>5,270</td>
+				</tr>
+			
+				<tr>
+					<td>스컬스 3</td>
+					<td>The Skulls 3</td>
+					<td>2003</td>
+					<td>캐나다</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>101마리 강아지 2 : 패치의 런던 대모험 </td>
+					<td>101 Dalmatians II : Patch&#039;s London Adventure</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>애니메이션,가족</td>
+					<td>주연(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>여비서</td>
+					<td>The Secretary</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>캡티브</td>
+					<td>Captive</td>
+					<td>1991</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>메가포스 군단</td>
+					<td>Megaforce</td>
+					<td>1982</td>
+					<td>미국</td>
+					<td>SF,액션</td>
+					<td>주연</td>
+					<td>5,000</td>
+					<td>5</td>
+					<td>5,000</td>
+					<td>5</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

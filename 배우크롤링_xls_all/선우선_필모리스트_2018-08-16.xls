@@ -1,0 +1,229 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '선우선'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>가시</td>
+					<td>Innocent Thing</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연-서연역</td>
+					<td>1,095,301,000</td>
+					<td>142,170</td>
+					<td>1,095,301,000</td>
+					<td>142,170</td>
+				</tr>
+			
+				<tr>
+					<td>가족시네마</td>
+					<td>Modern Family</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-인아역</td>
+					<td>19,453,000</td>
+					<td>2,639</td>
+					<td>19,453,000</td>
+					<td>2,639</td>
+				</tr>
+			
+				<tr>
+					<td>E.D. 571</td>
+					<td>E.D. 571</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>평양성</td>
+					<td>Battlefield Heroes</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>전쟁,코미디,드라마</td>
+					<td>주연-갑순역</td>
+					<td>12,684,530,500</td>
+					<td>1,717,566</td>
+					<td>12,684,530,500</td>
+					<td>1,717,566</td>
+				</tr>
+			
+				<tr>
+					<td>전우치</td>
+					<td>Woochi</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>액션,코미디,판타지</td>
+					<td>주연</td>
+					<td>44,605,437,017</td>
+					<td>6,136,928</td>
+					<td>44,093,407,200</td>
+					<td>6,065,474</td>
+				</tr>
+			
+				<tr>
+					<td>거북이 달린다</td>
+					<td>Running Turtle</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마,액션,범죄</td>
+					<td>주연-경주역</td>
+					<td>20,857,347,292</td>
+					<td>3,059,812</td>
+					<td>20,618,276,000</td>
+					<td>3,024,666</td>
+				</tr>
+			
+				<tr>
+					<td>하늘을 걷는 소년</td>
+					<td>Da Capo</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연</td>
+					<td>591,500</td>
+					<td>103</td>
+					<td>606,500</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>당신이 잠든 사이에</td>
+					<td>While You Were Sleeping</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>스릴러,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>마이 뉴 파트너</td>
+					<td>My New Partner</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>액션,코미디</td>
+					<td>조연-유리역</td>
+					<td>1,696,902,333</td>
+					<td>265,323</td>
+					<td>1,699,031,500</td>
+					<td>260,734</td>
+				</tr>
+			
+				<tr>
+					<td>슈퍼맨이었던 사나이</td>
+					<td>A Man Who Was Superman</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>조연-김 작가역</td>
+					<td>3,688,309,333</td>
+					<td>559,705</td>
+					<td>3,642,192,500</td>
+					<td>550,284</td>
+				</tr>
+			
+				<tr>
+					<td>어린 왕자</td>
+					<td>The Little Prince</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-격납고 여역</td>
+					<td>493,292,500</td>
+					<td>84,015</td>
+					<td>493,278,500</td>
+					<td>83,354</td>
+				</tr>
+			
+				<tr>
+					<td>오프 로드</td>
+					<td>Off Road</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-창녀 지수역</td>
+					<td>0</td>
+					<td>561</td>
+					<td>3,108,000</td>
+					<td>517</td>
+				</tr>
+			
+				<tr>
+					<td>달콤, 살벌한 연인</td>
+					<td>My Scary Girl</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>스릴러,멜로/로맨스</td>
+					<td>조연-정화역</td>
+					<td>0</td>
+					<td>2,286,745</td>
+					<td>13,426,707,100</td>
+					<td>2,077,590</td>
+				</tr>
+			
+				<tr>
+					<td>조폭마누라2-돌아온 전설</td>
+					<td>My Wife Is A Gangster 2</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>단역-중국 조직원 1역</td>
+					<td></td>
+					<td>1,858,077</td>
+					<td>36,000</td>
+					<td>9</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

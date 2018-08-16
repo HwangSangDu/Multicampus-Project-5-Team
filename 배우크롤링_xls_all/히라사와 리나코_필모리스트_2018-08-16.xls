@@ -1,0 +1,138 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '히라사와 리나코'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>남자와 여자 그리고 여자의 동거</td>
+					<td>The cohabitation that is the H of three people</td>
+					<td>2014</td>
+					<td>일본</td>
+					<td>성인물(에로)</td>
+					<td>주연</td>
+					<td>8,000</td>
+					<td>1</td>
+					<td>8,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>음란 도쿄걸 </td>
+					<td>Nasty Days of Dr.Nakagawa</td>
+					<td>2008</td>
+					<td>일본</td>
+					<td>성인물(에로),드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>그녀들의 사생활</td>
+					<td>Private file of five people</td>
+					<td>2007</td>
+					<td>일본</td>
+					<td>성인물(에로)</td>
+					<td>주연</td>
+					<td>270,000</td>
+					<td>54</td>
+					<td>270,000</td>
+					<td>54</td>
+				</tr>
+			
+				<tr>
+					<td>노예-누가 뭐래도 좋은 나의 이야기</td>
+					<td>Slave</td>
+					<td>2007</td>
+					<td>일본</td>
+					<td>성인물(에로)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,297,000</td>
+					<td>261</td>
+				</tr>
+			
+				<tr>
+					<td>일본남녀상열지사: 거리의 여인</td>
+					<td>TOKORETEN GIRL</td>
+					<td>2006</td>
+					<td>일본</td>
+					<td>성인물(에로)</td>
+					<td>주연-린역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>개구리의 노래</td>
+					<td>Frog Song</td>
+					<td>2005</td>
+					<td>일본</td>
+					<td>성인물(에로)</td>
+					<td>주연-이토 쿄코역</td>
+					<td></td>
+					<td></td>
+					<td>808,000</td>
+					<td>160</td>
+				</tr>
+			
+				<tr>
+					<td>기둥서방 히로시</td>
+					<td>The Strange Saga of Hiroshi the Freeloading Sex Machine / Pink Film Festival</td>
+					<td>2005</td>
+					<td>일본</td>
+					<td>성인물(에로)</td>
+					<td>주연-이노카와 하루카역</td>
+					<td></td>
+					<td></td>
+					<td>898,000</td>
+					<td>181</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

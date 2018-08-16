@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '황미영'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>굿바이 싱글</td>
+					<td>Familyhood</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>조연-미래역</td>
+					<td>16,912,706,195</td>
+					<td>2,108,273</td>
+					<td>16,913,282,195</td>
+					<td>2,108,561</td>
+				</tr>
+			
+				<tr>
+					<td>우리 연애의 이력</td>
+					<td>With or Without You</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>조연-나 피디역</td>
+					<td>24,084,800</td>
+					<td>3,043</td>
+					<td>24,084,800</td>
+					<td>3,043</td>
+				</tr>
+			
+				<tr>
+					<td>스물</td>
+					<td>Twenty</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>단역-어깨녀역</td>
+					<td>23,558,988,686</td>
+					<td>3,044,134</td>
+					<td>23,563,705,686</td>
+					<td>3,044,859</td>
+				</tr>
+			
+				<tr>
+					<td>족구왕</td>
+					<td>The King of Jokgu</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>코미디,멜로/로맨스,드라마</td>
+					<td>주연-미래역</td>
+					<td>359,688,000</td>
+					<td>45,701</td>
+					<td>368,776,500</td>
+					<td>47,299</td>
+				</tr>
+			
+				<tr>
+					<td>1999, 면회</td>
+					<td>Sunshine Boys</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-보희역</td>
+					<td>23,511,300</td>
+					<td>3,338</td>
+					<td>23,926,300</td>
+					<td>3,404</td>
+				</tr>
+			
+				<tr>
+					<td>개</td>
+					<td>Dog</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>공포(호러)</td>
+					<td>조연-식당 주인역</td>
+					<td></td>
+					<td></td>
+					<td>49,000</td>
+					<td>49</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,229 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '웨스 벤틀리'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>원 나이트 스탠드 - 찢어진 웨딩드레스</td>
+					<td>Broken Vows</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>스릴러,미스터리,드라마</td>
+					<td>주연</td>
+					<td>300,000</td>
+					<td>50</td>
+					<td>300,000</td>
+					<td>50</td>
+				</tr>
+			
+				<tr>
+					<td>피터와 드래곤</td>
+					<td>Pete&#039;s Dragon</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>어드벤처,가족,판타지</td>
+					<td>주연</td>
+					<td>865,600,600</td>
+					<td>109,137</td>
+					<td>865,600,600</td>
+					<td>109,137</td>
+				</tr>
+			
+				<tr>
+					<td>언컨셔스</td>
+					<td>Unconscious</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>파이오니아</td>
+					<td>Pioneer</td>
+					<td>2013</td>
+					<td>노르웨이,독일,스웨덴,프랑스,핀란드</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>2,580,000</td>
+					<td>570</td>
+					<td>2,580,000</td>
+					<td>570</td>
+				</tr>
+			
+				<tr>
+					<td>히든 문</td>
+					<td>Hidden Moon</td>
+					<td>2012</td>
+					<td>멕시코,미국</td>
+					<td>멜로/로맨스,미스터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>호세마리아 신부의 길</td>
+					<td>There Be Dragons</td>
+					<td>2011</td>
+					<td>미국,아르헨티나,스페인</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>13,931,000</td>
+					<td>2,274</td>
+					<td>14,169,000</td>
+					<td>2,347</td>
+				</tr>
+			
+				<tr>
+					<td>라이츠 오브 패시지</td>
+					<td>Rites of Passage</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>코미디,스릴러</td>
+					<td>주연-베니 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>더 툼</td>
+					<td>The Tomb</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연-조나단 메릭역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>P2</td>
+					<td>P2</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>위어즈빌</td>
+					<td>Weirdsville</td>
+					<td>2007</td>
+					<td>캐나다</td>
+					<td>코미디,범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>게임 오브 데어 라이브스</td>
+					<td>The Game Of Their Lives</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>포 페더스</td>
+					<td>The Four Feathers</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>전쟁,어드벤처,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>소울 서바이버</td>
+					<td>Soul Survivors</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,010</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>더 클레임</td>
+					<td>The Claim</td>
+					<td>2000</td>
+					<td>영국,프랑스,캐나다</td>
+					<td>서부극(웨스턴),멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,190 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '레슬리 만'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>아더 우먼</td>
+					<td>The Other Woman</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td>593,353,218</td>
+					<td>78,978</td>
+					<td>593,353,218</td>
+					<td>78,978</td>
+				</tr>
+			
+				<tr>
+					<td>리오 2</td>
+					<td>Rio 2</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>애니메이션,코미디,어드벤처</td>
+					<td>주연-린다역(목소리)</td>
+					<td>5,668,239,900</td>
+					<td>765,713</td>
+					<td>5,669,231,900</td>
+					<td>765,961</td>
+				</tr>
+			
+				<tr>
+					<td>천재 강아지 미스터 피바디</td>
+					<td>Mr. Peabody &amp; Sherman</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>애니메이션,어드벤처,가족</td>
+					<td>주연-패티역(목소리)</td>
+					<td>2,859,791,400</td>
+					<td>385,552</td>
+					<td>2,859,791,400</td>
+					<td>385,552</td>
+				</tr>
+			
+				<tr>
+					<td>파라노만</td>
+					<td>Paranorman</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td>75,039,000</td>
+					<td>10,942</td>
+					<td>75,039,000</td>
+					<td>10,942</td>
+				</tr>
+			
+				<tr>
+					<td>체인지 업</td>
+					<td>The Change-Up</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>세븐틴 어게인</td>
+					<td>17 Again </td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>코미디,드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>퍼니 피플</td>
+					<td>Funny People</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스틸링 하버드</td>
+					<td>Stealing Harvard</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>코미디,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>퍼퓸</td>
+					<td>Perfume</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>조지 오브 정글 </td>
+					<td>George Of The Jungle</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>어드벤처,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>41,755</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>케이블 가이 </td>
+					<td>Cable Guy</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>코미디,드라마,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>48,177</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

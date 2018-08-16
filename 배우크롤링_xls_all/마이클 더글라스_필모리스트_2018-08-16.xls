@@ -1,0 +1,437 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '마이클 더글라스'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>앤트맨과 와스프</td>
+					<td>Ant-Man and the Wasp</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>액션,어드벤처,SF</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>47,461,815,885</td>
+					<td>5,447,375</td>
+				</tr>
+			
+				<tr>
+					<td>스파이 게임</td>
+					<td>Unlocked</td>
+					<td>2017</td>
+					<td>영국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>122,840,172</td>
+					<td>15,986</td>
+					<td>122,840,172</td>
+					<td>15,986</td>
+				</tr>
+			
+				<tr>
+					<td>앤트맨</td>
+					<td>Ant-Man</td>
+					<td>2015</td>
+					<td>미국,영국</td>
+					<td>액션,SF</td>
+					<td>주연</td>
+					<td>23,528,441,937</td>
+					<td>2,841,699</td>
+					<td>23,598,522,437</td>
+					<td>2,847,658</td>
+				</tr>
+			
+				<tr>
+					<td>더 리치</td>
+					<td>Beyond the Reach</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>62,994,200</td>
+					<td>8,153</td>
+					<td>62,994,200</td>
+					<td>8,153</td>
+				</tr>
+			
+				<tr>
+					<td>산타모니카 인 러브</td>
+					<td>And So It Goes</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>8,862,600</td>
+					<td>1,143</td>
+					<td>8,977,600</td>
+					<td>1,159</td>
+				</tr>
+			
+				<tr>
+					<td>라스트베가스</td>
+					<td>Last Vegas</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>1,363,570,176</td>
+					<td>177,938</td>
+					<td>1,363,570,176</td>
+					<td>177,938</td>
+				</tr>
+			
+				<tr>
+					<td>쇼를 사랑한 남자</td>
+					<td>Behind the Candelabra</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>114,529,792</td>
+					<td>14,910</td>
+					<td>114,529,792</td>
+					<td>14,910</td>
+				</tr>
+			
+				<tr>
+					<td>헤이와이어</td>
+					<td>Haywire</td>
+					<td>2011</td>
+					<td>미국,아일랜드</td>
+					<td>액션,스릴러,미스터리,어드벤처,드라마</td>
+					<td>주연-코블렌즈역</td>
+					<td>385,998,324</td>
+					<td>54,797</td>
+					<td>386,495,324</td>
+					<td>54,874</td>
+				</tr>
+			
+				<tr>
+					<td>월 스트리트: 머니 네버 슬립스</td>
+					<td>Wall Street 2: Money Never Sleeps</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>드라마,범죄,스릴러</td>
+					<td>주연-고든 게코역</td>
+					<td>1,788,986,817</td>
+					<td>245,343</td>
+					<td>1,760,899,000</td>
+					<td>241,438</td>
+				</tr>
+			
+				<tr>
+					<td>비욘드 리저너블 다우트</td>
+					<td>Beyond A Reasonable Doubt</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>드라마,미스터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>공룡의부활 </td>
+					<td>Dinosaurs Alive</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>다큐멘터리</td>
+					<td>주연-나레이터 역역(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>킹 오브 캘리포니아</td>
+					<td>King of California</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>센티넬</td>
+					<td>The Sentinel</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>범죄,드라마</td>
+					<td>주연-피트역</td>
+					<td>0</td>
+					<td>163,257</td>
+					<td>806,982,500</td>
+					<td>127,722</td>
+				</tr>
+			
+				<tr>
+					<td>허니문크래셔</td>
+					<td>You, Me and Dupree</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>조연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>텔 뎀 후 유 알</td>
+					<td>Tell Them Who You Are</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>다큐멘터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>위험한 사돈</td>
+					<td>The In-Laws</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>코미디,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>102,440</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>더글라스 패밀리</td>
+					<td>It Runs In The Family</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>맥쿨에서의 하룻밤</td>
+					<td>One Night At McCool&#039;s</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>코미디,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>원더 보이즈</td>
+					<td>Wonder Boys</td>
+					<td>2000</td>
+					<td>독일,일본,영국,미국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>퍼펙트 머더</td>
+					<td>A Perfect Murder</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>128,853</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>더 게임</td>
+					<td>The Game</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>미스터리,스릴러,어드벤처</td>
+					<td>주연-니콜라스 반 오튼역</td>
+					<td>0</td>
+					<td>79,015</td>
+					<td>426,000</td>
+					<td>86</td>
+				</tr>
+			
+				<tr>
+					<td>폴링다운 </td>
+					<td>Falling Down</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>드라마,범죄,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>23,454</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>고스트 앤 다크니스 </td>
+					<td>Ghost And Darkness</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>액션,드라마,스릴러,어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>104,783</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>폭로 </td>
+					<td>Disclosure</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>268,380</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>원초적 본능</td>
+					<td>Basic Instinct</td>
+					<td>1992</td>
+					<td>미국</td>
+					<td>미스터리,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>970,180</td>
+					<td>66,000</td>
+					<td>22</td>
+				</tr>
+			
+				<tr>
+					<td>사랑의 용기</td>
+					<td>Shining Through</td>
+					<td>1992</td>
+					<td>미국</td>
+					<td>멜로/로맨스,스릴러,전쟁,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>19,973</td>
+					<td>366,000</td>
+					<td>151</td>
+				</tr>
+			
+				<tr>
+					<td>나일의 대모험</td>
+					<td>The Jewel Of The Nile</td>
+					<td>1987</td>
+					<td>미국</td>
+					<td>액션,코미디,어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>38,123</td>
+					<td>75,000</td>
+					<td>25</td>
+				</tr>
+			
+				<tr>
+					<td>위험한 정사</td>
+					<td>Fatal Attraction</td>
+					<td>1987</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>65,099</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>뉴욕 소나타</td>
+					<td>It&#039;s My Turn</td>
+					<td>1980</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>죽음의 가스</td>
+					<td>Coma</td>
+					<td>1978</td>
+					<td>미국</td>
+					<td>스릴러,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

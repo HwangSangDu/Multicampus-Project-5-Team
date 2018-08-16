@@ -1,0 +1,190 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '테렌스 하워드'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>악령의 집</td>
+					<td>House of Bodies</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>스릴러,범죄</td>
+					<td>주연-스타크역</td>
+					<td>270,000</td>
+					<td>54</td>
+					<td>270,000</td>
+					<td>54</td>
+				</tr>
+			
+				<tr>
+					<td>세인트 빈센트</td>
+					<td>St. Vincent</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>670,325,528</td>
+					<td>86,413</td>
+					<td>670,341,528</td>
+					<td>86,415</td>
+				</tr>
+			
+				<tr>
+					<td>사보타지</td>
+					<td>Sabotage</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>범죄,액션,스릴러</td>
+					<td>주연</td>
+					<td>50,277,100</td>
+					<td>6,591</td>
+					<td>50,277,100</td>
+					<td>6,591</td>
+				</tr>
+			
+				<tr>
+					<td>퍼펙트</td>
+					<td>Dead man down</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>액션,범죄,드라마</td>
+					<td>주연-알퐁스 호이트역</td>
+					<td>118,503,500</td>
+					<td>18,179</td>
+					<td>118,503,500</td>
+					<td>18,179</td>
+				</tr>
+			
+				<tr>
+					<td>컴퍼니 유 킵</td>
+					<td>The Company You Keep</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>조연-코넬리우스역</td>
+					<td>13,694,000</td>
+					<td>2,134</td>
+					<td>13,925,000</td>
+					<td>2,173</td>
+				</tr>
+			
+				<tr>
+					<td>더 트랩: 난간 끝에 선 남자</td>
+					<td>The Ledge</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>스릴러,드라마</td>
+					<td>주연-홀리스역</td>
+					<td>5,020,000</td>
+					<td>2,120</td>
+					<td>5,020,000</td>
+					<td>2,120</td>
+				</tr>
+			
+				<tr>
+					<td>아이언맨</td>
+					<td>Iron Man</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>SF,드라마,액션</td>
+					<td>주연-제임스 로드 역</td>
+					<td>27,802,744,668</td>
+					<td>4,316,003</td>
+					<td>27,880,712,500</td>
+					<td>4,300,365</td>
+				</tr>
+			
+				<tr>
+					<td>브레이브 원</td>
+					<td>The Brave One</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>드라마,스릴러,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>153,400</td>
+					<td>1,022,710,000</td>
+					<td>156,630</td>
+				</tr>
+			
+				<tr>
+					<td>프라이드</td>
+					<td>Pride</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>헌팅 파티</td>
+					<td>The Hunting Party</td>
+					<td>2007</td>
+					<td>미국,크로아티아,보스니아</td>
+					<td>어드벤처,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>284,000</td>
+					<td>51</td>
+				</tr>
+			
+				<tr>
+					<td>허슬 앤 플로우</td>
+					<td>Hustle &amp; Flow</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,258,000</td>
+					<td>108</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

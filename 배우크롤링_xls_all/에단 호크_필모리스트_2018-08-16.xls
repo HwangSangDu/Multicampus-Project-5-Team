@@ -1,0 +1,606 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '에단 호크'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>24 아워즈 투 리브</td>
+					<td>24 Hours to Live</td>
+					<td>2017</td>
+					<td>남아프리카공화국,중국,미국</td>
+					<td>액션,SF,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>내 사랑</td>
+					<td>Maudie</td>
+					<td>2016</td>
+					<td>아일랜드,캐나다</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>2,461,815,625</td>
+					<td>336,694</td>
+					<td>2,464,143,625</td>
+					<td>336,997</td>
+				</tr>
+			
+				<tr>
+					<td>매그니피센트 7</td>
+					<td>The Magnificent Seven</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,서부극(웨스턴)</td>
+					<td>주연</td>
+					<td>7,633,490,421</td>
+					<td>921,317</td>
+					<td>7,633,490,421</td>
+					<td>921,317</td>
+				</tr>
+			
+				<tr>
+					<td>매기스 플랜</td>
+					<td>Maggie&#039;s Plan</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td>382,361,800</td>
+					<td>47,668</td>
+					<td>382,361,800</td>
+					<td>47,668</td>
+				</tr>
+			
+				<tr>
+					<td>본 투 비 블루</td>
+					<td>Born to Be Blue</td>
+					<td>2015</td>
+					<td>캐나다,영국,미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>763,869,082</td>
+					<td>93,738</td>
+					<td>767,405,624</td>
+					<td>94,129</td>
+				</tr>
+			
+				<tr>
+					<td>일만명의 성자들</td>
+					<td>10,000 Saints</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>12,086,300</td>
+					<td>1,854</td>
+					<td>12,247,300</td>
+					<td>1,950</td>
+				</tr>
+			
+				<tr>
+					<td>피아니스트 세이모어의 뉴욕 소네트</td>
+					<td>Seymour: An Introduction</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>다큐멘터리</td>
+					<td>감독</td>
+					<td>184,698,700</td>
+					<td>22,665</td>
+					<td>187,032,700</td>
+					<td>22,975</td>
+				</tr>
+			
+				<tr>
+					<td>드론전쟁: 굿킬</td>
+					<td>Good kill</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션,드라마,스릴러</td>
+					<td>주연</td>
+					<td>8,000</td>
+					<td>1</td>
+					<td>8,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>리그레션</td>
+					<td>Regression</td>
+					<td>2015</td>
+					<td>스페인,캐나다</td>
+					<td>스릴러</td>
+					<td>주연-브루스 케너역</td>
+					<td>141,042,885</td>
+					<td>18,057</td>
+					<td>141,042,885</td>
+					<td>18,057</td>
+				</tr>
+			
+				<tr>
+					<td>범죄의 제국</td>
+					<td>Cymbeline</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>6,489,000</td>
+					<td>1,297</td>
+					<td>6,489,000</td>
+					<td>1,297</td>
+				</tr>
+			
+				<tr>
+					<td>타임 패러독스</td>
+					<td>Predestination</td>
+					<td>2014</td>
+					<td>호주</td>
+					<td>SF,스릴러</td>
+					<td>주연</td>
+					<td>646,075,908</td>
+					<td>82,246</td>
+					<td>646,613,408</td>
+					<td>82,336</td>
+				</tr>
+			
+				<tr>
+					<td>보이후드</td>
+					<td>Boyhood</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>1,468,359,718</td>
+					<td>190,893</td>
+					<td>1,471,629,518</td>
+					<td>191,292</td>
+				</tr>
+			
+				<tr>
+					<td>더 퍼지</td>
+					<td>The Purge</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>스릴러,SF</td>
+					<td>주연</td>
+					<td>1,032,196,000</td>
+					<td>137,340</td>
+					<td>1,032,196,000</td>
+					<td>137,340</td>
+				</tr>
+			
+				<tr>
+					<td>비포 미드나잇</td>
+					<td>Before Midnight</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>1,485,276,000</td>
+					<td>203,476</td>
+					<td>1,528,312,688</td>
+					<td>209,560</td>
+				</tr>
+			
+				<tr>
+					<td>겟어웨이</td>
+					<td>Getaway</td>
+					<td>2013</td>
+					<td>미국,불가리아</td>
+					<td>액션,범죄</td>
+					<td>주연-브렌트역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>살인소설</td>
+					<td>Sinister</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>미스터리,스릴러</td>
+					<td>주연-엘리슨역</td>
+					<td>394,724,176</td>
+					<td>54,239</td>
+					<td>394,724,176</td>
+					<td>54,239</td>
+				</tr>
+			
+				<tr>
+					<td>파리 5구의 여인</td>
+					<td>The Woman in the Fifth</td>
+					<td>2011</td>
+					<td>프랑스,폴란드,영국</td>
+					<td>스릴러,멜로/로맨스</td>
+					<td>주연-톰 릭스역</td>
+					<td>40,294,000</td>
+					<td>5,245</td>
+					<td>40,427,000</td>
+					<td>5,264</td>
+				</tr>
+			
+				<tr>
+					<td>브룩클린스 파이니스트</td>
+					<td>Brooklyn&#039;s Finest</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>액션,드라마,범죄,스릴러</td>
+					<td>주연</td>
+					<td>8,000</td>
+					<td>1</td>
+					<td>8,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>데이브레이커스</td>
+					<td>Daybreakers</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>드라마,스릴러,액션</td>
+					<td>주연</td>
+					<td>1,046,842,179</td>
+					<td>137,955</td>
+					<td>1,029,911,000</td>
+					<td>135,621</td>
+				</tr>
+			
+				<tr>
+					<td>범죄도시</td>
+					<td>What Doesn&#039;t Kill You</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>270,000</td>
+					<td>54</td>
+					<td>270,000</td>
+					<td>54</td>
+				</tr>
+			
+				<tr>
+					<td>뉴욕 아이 러브 유</td>
+					<td>New York, I Love You</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>코미디,드라마,멜로/로맨스</td>
+					<td>주연-웨이터 역</td>
+					<td>647,982,325</td>
+					<td>83,600</td>
+					<td>638,301,000</td>
+					<td>82,356</td>
+				</tr>
+			
+				<tr>
+					<td>악마가 너의 죽음을 알기전에</td>
+					<td>Before The Devil Knows You&#039;Re Dead</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>드라마,범죄,스릴러</td>
+					<td>주연-행크역</td>
+					<td>41,513,238</td>
+					<td>5,606</td>
+					<td>45,057,500</td>
+					<td>6,133</td>
+				</tr>
+			
+				<tr>
+					<td>이토록 뜨거운 순간</td>
+					<td>The Hottest State</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>감독</td>
+					<td></td>
+					<td>10,312</td>
+					<td>75,046,700</td>
+					<td>10,607</td>
+				</tr>
+			
+				<tr>
+					<td>로드 오브 워</td>
+					<td>Lord Of War</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>액션,드라마,범죄,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>150,070</td>
+					<td>647,809,000</td>
+					<td>103,445</td>
+				</tr>
+			
+				<tr>
+					<td>어썰트 13</td>
+					<td>Assault On Precinct 13</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>공포(호러),액션,드라마,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>99,793</td>
+					<td>541,514,000</td>
+					<td>84,872</td>
+				</tr>
+			
+				<tr>
+					<td>비포 선셋</td>
+					<td>Before Sunset</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>145,300</td>
+					<td>865,090,995</td>
+					<td>126,579</td>
+				</tr>
+			
+				<tr>
+					<td>테이킹 라이브즈</td>
+					<td>Taking Live</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>135,470</td>
+					<td>249,467,500</td>
+					<td>38,736</td>
+				</tr>
+			
+				<tr>
+					<td>트레이닝 데이</td>
+					<td>Training Day</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>드라마,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>47,634</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>웨이킹 라이프</td>
+					<td>Waking Life</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>지미 쇼</td>
+					<td>The Jimmy Show</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>첼시 호텔</td>
+					<td>Chelsea Walls</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>감독</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>테잎</td>
+					<td>Tape</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>햄릿 2000</td>
+					<td>Hamlet</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>70,000</td>
+					<td>10</td>
+				</tr>
+			
+				<tr>
+					<td>삼나무에 내리는 눈</td>
+					<td>Snow Falling On Cedars</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-이쉬마엘 챔버스역</td>
+					<td>0</td>
+					<td>17,011</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>뉴튼 보이즈</td>
+					<td>The Newton Boys</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>액션,범죄,드라마,서부극(웨스턴)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>위대한 유산 </td>
+					<td>Great Expectations</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>180,849</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>가타카</td>
+					<td>Gattaca</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>SF,드라마,미스터리,스릴러</td>
+					<td>주연-빈센트 프리먼역</td>
+					<td>0</td>
+					<td>10,993</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>비포 선라이즈</td>
+					<td>Before Sunrise</td>
+					<td>1995</td>
+					<td>미국,오스트리아 ,스위스</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연-제시역</td>
+					<td>0</td>
+					<td>147,515</td>
+					<td>463,297,279</td>
+					<td>57,286</td>
+				</tr>
+			
+				<tr>
+					<td>청춘 스케치</td>
+					<td>Reality Bites</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>얼라이브</td>
+					<td>Alive</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>드라마,스릴러,액션,어드벤처</td>
+					<td>주연-난도 파라도역</td>
+					<td>0</td>
+					<td>66,031</td>
+					<td>357,000</td>
+					<td>119</td>
+				</tr>
+			
+				<tr>
+					<td>나의 청춘 워터랜드</td>
+					<td>Water Land</td>
+					<td>1992</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>3,330</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>늑대개</td>
+					<td>White Fang</td>
+					<td>1990</td>
+					<td>미국</td>
+					<td>드라마,어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>16,967</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>죽은 시인의 사회</td>
+					<td>Dead Poets Society</td>
+					<td>1989</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>381,925</td>
+					<td>440,665,900</td>
+					<td>58,655</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

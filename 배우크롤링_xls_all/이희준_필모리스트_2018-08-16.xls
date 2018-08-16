@@ -1,0 +1,424 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '이희준'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>미쓰백</td>
+					<td></td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>병훈의 하루</td>
+					<td>Mad Rush</td>
+					<td>2018</td>
+					<td>한국</td>
+					<td></td>
+					<td>감독,주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>1987</td>
+					<td>1987: When the Day Comes</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연</td>
+					<td>58,166,310,145</td>
+					<td>7,231,770</td>
+					<td>58,166,910,145</td>
+					<td>7,231,830</td>
+				</tr>
+			
+				<tr>
+					<td>미옥</td>
+					<td>A Special Lady</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>범죄,액션</td>
+					<td>주연</td>
+					<td>1,897,705,564</td>
+					<td>238,587</td>
+					<td>1,930,905,564</td>
+					<td>242,737</td>
+				</tr>
+			
+				<tr>
+					<td>마약왕</td>
+					<td>DRUG KING</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>범죄,드라마</td>
+					<td>조연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아빠의 검</td>
+					<td>My Father&#039;s Sword</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>최악의 하루</td>
+					<td>Worst Woman</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>조연</td>
+					<td>639,959,190</td>
+					<td>80,754</td>
+					<td>643,607,190</td>
+					<td>81,215</td>
+				</tr>
+			
+				<tr>
+					<td>로봇, 소리</td>
+					<td>SORI: Voice from the Heart</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-진호역</td>
+					<td>3,519,595,560</td>
+					<td>476,665</td>
+					<td>3,519,595,560</td>
+					<td>476,665</td>
+				</tr>
+			
+				<tr>
+					<td>오빠생각</td>
+					<td>A Melody to Remember</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마,전쟁</td>
+					<td>주연-갈고리역</td>
+					<td>8,058,857,287</td>
+					<td>1,069,436</td>
+					<td>8,060,591,287</td>
+					<td>1,069,864</td>
+				</tr>
+			
+				<tr>
+					<td>해무(海霧)</td>
+					<td>Haemoo</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-창욱역</td>
+					<td>11,706,502,519</td>
+					<td>1,475,472</td>
+					<td>11,707,382,519</td>
+					<td>1,475,582</td>
+				</tr>
+			
+				<tr>
+					<td>결혼전야</td>
+					<td>Marriage Blue</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연-대복역</td>
+					<td>8,444,337,719</td>
+					<td>1,214,836</td>
+					<td>8,444,355,719</td>
+					<td>1,214,839</td>
+				</tr>
+			
+				<tr>
+					<td>감기</td>
+					<td>Flu</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>드라마,어드벤처,액션</td>
+					<td>조연-병기역</td>
+					<td>21,784,202,000</td>
+					<td>3,119,023</td>
+					<td>21,774,884,000</td>
+					<td>3,117,859</td>
+				</tr>
+			
+				<tr>
+					<td>환상속의 그대</td>
+					<td>Dear Dolphin</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마,판타지</td>
+					<td>주연-김혁근역</td>
+					<td>53,202,700</td>
+					<td>7,482</td>
+					<td>54,406,700</td>
+					<td>7,896</td>
+				</tr>
+			
+				<tr>
+					<td>차형사</td>
+					<td>Runway Cop</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>코미디,액션</td>
+					<td>조연-경석역</td>
+					<td>9,752,555,296</td>
+					<td>1,346,754</td>
+					<td>9,752,555,296</td>
+					<td>1,346,754</td>
+				</tr>
+			
+				<tr>
+					<td>여기, 우리가 만나는 곳</td>
+					<td>Here, Where We Meet</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>다큐멘터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>64,000</td>
+					<td>32</td>
+				</tr>
+			
+				<tr>
+					<td>화차</td>
+					<td>Helpless</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>미스터리</td>
+					<td>조연-노승주역</td>
+					<td>18,459,203,000</td>
+					<td>2,436,400</td>
+					<td>18,463,007,000</td>
+					<td>2,436,884</td>
+				</tr>
+			
+				<tr>
+					<td>범죄와의 전쟁: 나쁜놈들 전성시대</td>
+					<td>Nameless Gangster : Rules of the Time</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>범죄,드라마</td>
+					<td>단역-대학생1역</td>
+					<td>36,538,823,500</td>
+					<td>4,719,872</td>
+					<td>36,540,327,500</td>
+					<td>4,720,050</td>
+				</tr>
+			
+				<tr>
+					<td>특수본</td>
+					<td>S.I.U.</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>액션,범죄</td>
+					<td>조연-근수역</td>
+					<td>8,096,052,500</td>
+					<td>1,118,258</td>
+					<td>8,096,052,500</td>
+					<td>1,118,258</td>
+				</tr>
+			
+				<tr>
+					<td>퀵</td>
+					<td>Quick</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>코미디,액션</td>
+					<td>단역-대망실장역</td>
+					<td>22,960,890,000</td>
+					<td>3,125,069</td>
+					<td>22,960,890,000</td>
+					<td>3,125,069</td>
+				</tr>
+			
+				<tr>
+					<td>모비딕</td>
+					<td>Moby Dick</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>스릴러,드라마</td>
+					<td>조연-현덕역</td>
+					<td>3,264,596,000</td>
+					<td>430,936</td>
+					<td>3,264,596,000</td>
+					<td>430,936</td>
+				</tr>
+			
+				<tr>
+					<td>그들은 대화중</td>
+					<td>Communique</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>22,500</td>
+					<td>18</td>
+				</tr>
+			
+				<tr>
+					<td>심장이 뛴다</td>
+					<td>Heartbeat</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-약사역</td>
+					<td>7,538,083,500</td>
+					<td>1,006,947</td>
+					<td>7,624,895,500</td>
+					<td>1,025,243</td>
+				</tr>
+			
+				<tr>
+					<td>황해</td>
+					<td>The Yellow Sea</td>
+					<td>2010</td>
+					<td>한국,미국,중국</td>
+					<td>스릴러,액션,범죄</td>
+					<td>단역-보은 경찰2역</td>
+					<td>16,765,970,362</td>
+					<td>2,167,426</td>
+					<td>17,497,165,500</td>
+					<td>2,260,512</td>
+				</tr>
+			
+				<tr>
+					<td>부당거래</td>
+					<td>The Unjust</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>범죄,드라마</td>
+					<td>조연-남 형사역</td>
+					<td>21,326,977,937</td>
+					<td>2,766,436</td>
+					<td>20,996,584,500</td>
+					<td>2,723,028</td>
+				</tr>
+			
+				<tr>
+					<td>나는 곤경에 처했다!</td>
+					<td>I&#039;m in Trouble!</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>조연-시형역</td>
+					<td>1,774,196</td>
+					<td>283</td>
+					<td>1,753,000</td>
+					<td>279</td>
+				</tr>
+			
+				<tr>
+					<td>빙 어 트레블러</td>
+					<td>Being a Traveler</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-준모역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>약탈자들</td>
+					<td>The Pit And The Pendulum</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-성익역</td>
+					<td>7,265,791</td>
+					<td>1,071</td>
+					<td>7,186,000</td>
+					<td>1,059</td>
+				</tr>
+			
+				<tr>
+					<td>그림자</td>
+					<td>Resurrection of the Butterfly</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>공포(호러),드라마</td>
+					<td>조연-부장역</td>
+					<td>0</td>
+					<td>224</td>
+					<td>2,610,000</td>
+					<td>453</td>
+				</tr>
+			
+				<tr>
+					<td>밀양</td>
+					<td>Secret Sunshine</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-야외기도회 자원봉사자 역</td>
+					<td>0</td>
+					<td>1,710,364</td>
+					<td>10,270,292,500</td>
+					<td>1,604,439</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

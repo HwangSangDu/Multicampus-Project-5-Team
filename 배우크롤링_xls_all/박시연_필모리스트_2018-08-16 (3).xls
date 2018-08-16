@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '박시연'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>간기남</td>
+					<td>The Scent</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>코미디,스릴러</td>
+					<td>주연-김수진역</td>
+					<td>9,356,404,500</td>
+					<td>1,246,185</td>
+					<td>9,356,404,500</td>
+					<td>1,246,185</td>
+				</tr>
+			
+				<tr>
+					<td>마린보이</td>
+					<td>Marine Boy</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>액션,스릴러,범죄</td>
+					<td>주연</td>
+					<td>5,565,284,169</td>
+					<td>837,059</td>
+					<td>5,503,176,500</td>
+					<td>827,647</td>
+				</tr>
+			
+				<tr>
+					<td>다찌마와리</td>
+					<td>Dachimawa Lee</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>액션,어드벤처,코미디</td>
+					<td>주연</td>
+					<td>4,131,701,167</td>
+					<td>628,508</td>
+					<td>4,128,754,000</td>
+					<td>628,359</td>
+				</tr>
+			
+				<tr>
+					<td>사랑</td>
+					<td>Love</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>멜로/로맨스,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,123,815</td>
+					<td>13,446,137,500</td>
+					<td>2,023,174</td>
+				</tr>
+			
+				<tr>
+					<td>일편단심 양다리</td>
+					<td>Zig Zag Love</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연-주라영역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>구미호 가족</td>
+					<td>The Fox Family</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>코미디,뮤지컬,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>202,990</td>
+					<td>877,984,800</td>
+					<td>141,610</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

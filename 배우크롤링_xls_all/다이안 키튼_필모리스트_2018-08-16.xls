@@ -1,0 +1,346 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '다이안 키튼'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>햄스테드</td>
+					<td>Hampstead</td>
+					<td>2017</td>
+					<td>영국,벨기에</td>
+					<td>코미디,드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>3,454,000</td>
+					<td>416</td>
+					<td>70,014,300</td>
+					<td>9,064</td>
+				</tr>
+			
+				<tr>
+					<td>도리를 찾아서</td>
+					<td>Finding Dory</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>애니메이션,어드벤처,코미디</td>
+					<td>주연(목소리)</td>
+					<td>20,703,899,933</td>
+					<td>2,601,734</td>
+					<td>20,704,149,933</td>
+					<td>2,601,761</td>
+				</tr>
+			
+				<tr>
+					<td>젊은 교황</td>
+					<td>The Young Pope</td>
+					<td>2016</td>
+					<td>영국,미국,이탈리아</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,394,500</td>
+					<td>155</td>
+				</tr>
+			
+				<tr>
+					<td>산타모니카 인 러브</td>
+					<td>And So It Goes</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>8,862,600</td>
+					<td>1,143</td>
+					<td>8,977,600</td>
+					<td>1,159</td>
+				</tr>
+			
+				<tr>
+					<td>브루클린의 멋진 주말</td>
+					<td>Ruth &amp; Alex</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>265,543,800</td>
+					<td>35,434</td>
+					<td>266,356,800</td>
+					<td>35,504</td>
+				</tr>
+			
+				<tr>
+					<td>빅 웨딩</td>
+					<td>The Big Wedding </td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연-엘리역</td>
+					<td>231,885,500</td>
+					<td>33,993</td>
+					<td>233,303,500</td>
+					<td>34,466</td>
+				</tr>
+			
+				<tr>
+					<td>굿모닝 에브리원</td>
+					<td>Morning Glory</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>드라마,코미디,멜로/로맨스</td>
+					<td>주연-콜린 펙역</td>
+					<td>1,562,415,000</td>
+					<td>202,667</td>
+					<td>1,563,223,000</td>
+					<td>202,869</td>
+				</tr>
+			
+				<tr>
+					<td>매드 머니</td>
+					<td>Med Money</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>액션,코미디,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>철없는 그녀의 아찔한 연애코치</td>
+					<td>Because I Said So</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>코미디,드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>208,907</td>
+					<td>1,293,297,500</td>
+					<td>207,413</td>
+				</tr>
+			
+				<tr>
+					<td>마마 보이</td>
+					<td>Mama&#039;s Boy</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스머더</td>
+					<td>Smother</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>서렌더 도로시</td>
+					<td>Surrender, Dorothy</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>타운 앤 컨트리</td>
+					<td>Town &amp; Country</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>0</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>지금은 통화중</td>
+					<td>Hainging Up</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>가족,드라마,코미디</td>
+					<td>감독,주연-조지아 모젤역</td>
+					<td>0</td>
+					<td>54,677</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사랑하고 싶은 그녀</td>
+					<td>The Other Sister</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>8,324</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>조강지처클럽 </td>
+					<td>The First Wives Club</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>34,638</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>신부의 아버지 2 </td>
+					<td>Father Of The Bride Ⅱ</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>코미디,가족</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>15,970</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>맨하탄 미스테리</td>
+					<td>Manhattan Murder Mystery</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>코미디,범죄,미스터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>776,000</td>
+					<td>147</td>
+				</tr>
+			
+				<tr>
+					<td>크라임 오브 하트</td>
+					<td>Crimes Of The Heart </td>
+					<td>1986</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연-레니 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>결혼의 위기</td>
+					<td>Shoot The Moon</td>
+					<td>1982</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>레즈</td>
+					<td>Reds</td>
+					<td>1981</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-루이즈 브리안역</td>
+					<td></td>
+					<td></td>
+					<td>720,000</td>
+					<td>156</td>
+				</tr>
+			
+				<tr>
+					<td>속 대부</td>
+					<td>Mario Puzo&#039;S The Godfather Part Ⅱ</td>
+					<td>1974</td>
+					<td>미국</td>
+					<td>드라마,범죄</td>
+					<td>주연-케이 코르레오네역</td>
+					<td>0</td>
+					<td>263,722</td>
+					<td>118,803,600</td>
+					<td>19,179</td>
+				</tr>
+			
+				<tr>
+					<td>슬리퍼</td>
+					<td>Sleeper</td>
+					<td>1973</td>
+					<td>미국</td>
+					<td>코미디,SF</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

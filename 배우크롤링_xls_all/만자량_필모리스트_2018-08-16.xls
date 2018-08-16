@@ -1,0 +1,268 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '만자량'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>승자위왕</td>
+					<td>Who Is The Winner</td>
+					<td>1992</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>살출군영</td>
+					<td>Mission Of A Kill</td>
+					<td>1991</td>
+					<td>홍콩</td>
+					<td>액션,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>7,546</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>도정비색</td>
+					<td>Flirting</td>
+					<td>1990</td>
+					<td>홍콩</td>
+					<td>성인물(에로)</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>3,382</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>대가대</td>
+					<td>Fatal Recall</td>
+					<td>1990</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>707</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>지존여장</td>
+					<td>The Godfathers Saughters Mafia Blues</td>
+					<td>1990</td>
+					<td>홍콩</td>
+					<td>액션,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>10,686</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>성시판관</td>
+					<td>Armageddon</td>
+					<td>1989</td>
+					<td>홍콩</td>
+					<td>액션,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>3,930</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>의본대형</td>
+					<td>Big Brother</td>
+					<td>1989</td>
+					<td>홍콩</td>
+					<td>범죄,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>4,565</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>폴리스 갱</td>
+					<td></td>
+					<td>1988</td>
+					<td>홍콩</td>
+					<td>액션,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>96</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>기병</td>
+					<td>The Sniping</td>
+					<td>1988</td>
+					<td>홍콩</td>
+					<td>액션,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,647</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>혈전자</td>
+					<td>Brother Cop</td>
+					<td>1988</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>4,922</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>열혈남아</td>
+					<td>As Tears Go By</td>
+					<td>1988</td>
+					<td>홍콩</td>
+					<td>드라마,범죄</td>
+					<td>주연-토니역</td>
+					<td>0</td>
+					<td>21,843</td>
+					<td>4,549,500</td>
+					<td>585</td>
+				</tr>
+			
+				<tr>
+					<td>실종장부</td>
+					<td>Missing Man</td>
+					<td>1988</td>
+					<td>홍콩</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>8,808</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>영웅대도</td>
+					<td>Return To Action</td>
+					<td>1988</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>17,628</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>성항기병2</td>
+					<td>LONG ARM OF THE LAW2</td>
+					<td>1987</td>
+					<td>홍콩</td>
+					<td>범죄,액션</td>
+					<td>주연</td>
+					<td>14,000</td>
+					<td>2</td>
+					<td>14,000</td>
+					<td>2</td>
+				</tr>
+			
+				<tr>
+					<td>영웅호한</td>
+					<td>Tragic Hero</td>
+					<td>1987</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>49,217</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>형제</td>
+					<td>Brotherhood</td>
+					<td>1986</td>
+					<td></td>
+					<td></td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>등대여명</td>
+					<td>Hong Kong 1941</td>
+					<td>1984</td>
+					<td>홍콩</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>14,260</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

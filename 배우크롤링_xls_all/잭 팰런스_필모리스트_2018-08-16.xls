@@ -1,0 +1,229 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '잭 팰런스'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>백조 공주 </td>
+					<td>Swan Princess</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>애니메이션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>6,194</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>바그다드 카페 : 디렉터스컷</td>
+					<td>Bagdad Cafe</td>
+					<td>1987</td>
+					<td>독일,미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>147,129,809</td>
+					<td>20,195</td>
+					<td>149,574,809</td>
+					<td>20,468</td>
+				</tr>
+			
+				<tr>
+					<td>바그다드 카페</td>
+					<td>Bagdad Cafe</td>
+					<td>1987</td>
+					<td>독일</td>
+					<td>코미디,드라마</td>
+					<td>주연-루디 콕스역</td>
+					<td>0</td>
+					<td>344</td>
+					<td>1,066,000</td>
+					<td>209</td>
+				</tr>
+			
+				<tr>
+					<td>공포의 드라큐라</td>
+					<td>Bram Stokens Dracula</td>
+					<td>1973</td>
+					<td>영국</td>
+					<td>공포(호러),드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>151,317</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>호스맨</td>
+					<td>The Horseman</td>
+					<td>1971</td>
+					<td>미국</td>
+					<td>액션,어드벤처</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>황야의 동업자</td>
+					<td>Companeros</td>
+					<td>1970</td>
+					<td>스페인,이탈리아,서독</td>
+					<td>서부극(웨스턴),코미디</td>
+					<td>주연-역</td>
+					<td>0</td>
+					<td>67,367</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>몬테월슈</td>
+					<td>Monte Walsh</td>
+					<td>1970</td>
+					<td>미국</td>
+					<td>서부극(웨스턴)</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>107,786</td>
+					<td>363,000</td>
+					<td>121</td>
+				</tr>
+			
+				<tr>
+					<td>론리맨</td>
+					<td>The Lonely Man</td>
+					<td>1957</td>
+					<td>미국</td>
+					<td>액션,서부극(웨스턴),가족</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>어택</td>
+					<td>Attack</td>
+					<td>1956</td>
+					<td>미국</td>
+					<td>전쟁,액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>237,000</td>
+					<td>38</td>
+				</tr>
+			
+				<tr>
+					<td>불의 키스</td>
+					<td>Kiss of Fire </td>
+					<td>1955</td>
+					<td>미국</td>
+					<td>어드벤처</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>빅 나이프</td>
+					<td>The Big Knife</td>
+					<td>1955</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>373,000</td>
+					<td>57</td>
+				</tr>
+			
+				<tr>
+					<td>이교도의 기치</td>
+					<td>Sign of the Pagan</td>
+					<td>1954</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>서든피어</td>
+					<td>SuddenFear</td>
+					<td>1952</td>
+					<td>미국</td>
+					<td>기타</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>66,000</td>
+					<td>27</td>
+				</tr>
+			
+				<tr>
+					<td>몬테즈마의 영웅들 </td>
+					<td>Halls Of Montezuma</td>
+					<td>1950</td>
+					<td>미국</td>
+					<td>어드벤처,전쟁,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>252,000</td>
+					<td>126</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

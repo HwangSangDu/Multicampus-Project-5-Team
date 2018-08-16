@@ -1,0 +1,229 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '김민재'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>성난 황소</td>
+					<td></td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>범죄,액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>염력</td>
+					<td>Psychokinesis</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>조연-민사장역</td>
+					<td>7,484,684,112</td>
+					<td>990,111</td>
+					<td>7,484,684,112</td>
+					<td>990,111</td>
+				</tr>
+			
+				<tr>
+					<td>더 킹</td>
+					<td>The King </td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>범죄,드라마</td>
+					<td>조연-백기자역</td>
+					<td>43,486,078,535</td>
+					<td>5,316,325</td>
+					<td>43,488,814,535</td>
+					<td>5,317,693</td>
+				</tr>
+			
+				<tr>
+					<td>특종: 량첸살인기</td>
+					<td>The Exclusive : Beat the Devil&#039;s Tattoo</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>조연-최기자역</td>
+					<td>4,754,763,118</td>
+					<td>616,481</td>
+					<td>4,754,763,118</td>
+					<td>616,481</td>
+				</tr>
+			
+				<tr>
+					<td>뷰티 인사이드</td>
+					<td>The Beauty Inside</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>판타지,멜로/로맨스</td>
+					<td>주연-우진78역</td>
+					<td>16,155,795,131</td>
+					<td>2,054,297</td>
+					<td>16,184,831,031</td>
+					<td>2,057,896</td>
+				</tr>
+			
+				<tr>
+					<td>베테랑</td>
+					<td>Veteran</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>액션,드라마</td>
+					<td>단역-관할 담당경찰역</td>
+					<td>105,168,155,250</td>
+					<td>13,414,009</td>
+					<td>105,169,264,250</td>
+					<td>13,414,200</td>
+				</tr>
+			
+				<tr>
+					<td>무뢰한</td>
+					<td>The Shameless</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>단역</td>
+					<td>3,262,087,431</td>
+					<td>414,626</td>
+					<td>3,262,380,431</td>
+					<td>414,663</td>
+				</tr>
+			
+				<tr>
+					<td>우는 남자</td>
+					<td>No Tears for the Dead</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>액션,드라마</td>
+					<td>단역-박팀장역</td>
+					<td>4,923,607,800</td>
+					<td>603,409</td>
+					<td>4,924,852,800</td>
+					<td>603,495</td>
+				</tr>
+			
+				<tr>
+					<td>용의자</td>
+					<td>The Suspect</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>액션,스릴러</td>
+					<td>조연-주 기자역</td>
+					<td>30,037,161,000</td>
+					<td>4,131,248</td>
+					<td>30,037,521,000</td>
+					<td>4,131,338</td>
+				</tr>
+			
+				<tr>
+					<td>남자사용설명서</td>
+					<td>How to Use Guys with Secret Tips</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>조연-조승환 조감독역</td>
+					<td>3,606,480,257</td>
+					<td>507,890</td>
+					<td>3,606,654,257</td>
+					<td>507,913</td>
+				</tr>
+			
+				<tr>
+					<td>간첩</td>
+					<td>The Spies</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마,코미디,액션</td>
+					<td>단역-수상남역</td>
+					<td>9,316,548,500</td>
+					<td>1,310,895</td>
+					<td>9,316,548,500</td>
+					<td>1,310,895</td>
+				</tr>
+			
+				<tr>
+					<td>작은 연못</td>
+					<td>A Little Pond</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>드라마,전쟁</td>
+					<td>단역-경찰대원역</td>
+					<td>317,197,695</td>
+					<td>47,160</td>
+					<td>312,380,500</td>
+					<td>46,428</td>
+				</tr>
+			
+				<tr>
+					<td>비보호 좌회전</td>
+					<td>Left Turn at Your Own Risk</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>우리 쫑내자!!!!</td>
+					<td>Let’s Finish!!!!</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

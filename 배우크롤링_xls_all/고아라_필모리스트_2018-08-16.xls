@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '고아라'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>탐정 홍길동: 사라진 마을</td>
+					<td>The Phantom Detective </td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>드라마,액션</td>
+					<td>조연-동이역</td>
+					<td>11,514,389,845</td>
+					<td>1,430,666</td>
+					<td>11,516,170,845</td>
+					<td>1,430,885</td>
+				</tr>
+			
+				<tr>
+					<td>조선마술사</td>
+					<td>The Magician</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>4,650,016,527</td>
+					<td>628,576</td>
+					<td>4,650,016,527</td>
+					<td>628,576</td>
+				</tr>
+			
+				<tr>
+					<td>파파</td>
+					<td>Papa</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>가족,코미디</td>
+					<td>주연-준역</td>
+					<td>3,999,992,000</td>
+					<td>587,279</td>
+					<td>4,000,072,000</td>
+					<td>587,291</td>
+				</tr>
+			
+				<tr>
+					<td>페이스메이커</td>
+					<td>PaceMaker</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-유지원역</td>
+					<td>3,443,753,000</td>
+					<td>467,697</td>
+					<td>3,443,753,000</td>
+					<td>467,697</td>
+				</tr>
+			
+				<tr>
+					<td>스바루</td>
+					<td>Subaru</td>
+					<td>2009</td>
+					<td>중국,싱가포르,일본,한국,홍콩</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>푸른 늑대</td>
+					<td>The Blue Wolf : To The Ends Of The Earth And Sea / 蒼き狼</td>
+					<td>2007</td>
+					<td>일본,몽고</td>
+					<td>액션,어드벤처</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

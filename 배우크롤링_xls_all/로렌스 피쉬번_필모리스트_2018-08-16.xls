@@ -1,0 +1,463 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '로렌스 피쉬번'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>앤트맨과 와스프</td>
+					<td>Ant-Man and the Wasp</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>액션,어드벤처,SF</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>47,461,815,885</td>
+					<td>5,447,375</td>
+				</tr>
+			
+				<tr>
+					<td>존 윅 - 리로드</td>
+					<td>John Wick Chapter Two</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>액션,범죄,스릴러</td>
+					<td>주연</td>
+					<td>2,205,582,600</td>
+					<td>276,379</td>
+					<td>2,205,582,600</td>
+					<td>276,379</td>
+				</tr>
+			
+				<tr>
+					<td>패신저스</td>
+					<td>PASSENGERS</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>어드벤처,SF</td>
+					<td>조연</td>
+					<td>5,470,674,918</td>
+					<td>668,977</td>
+					<td>5,470,674,918</td>
+					<td>668,977</td>
+				</tr>
+			
+				<tr>
+					<td>배트맨 대 슈퍼맨: 저스티스의 시작</td>
+					<td>Batman v Superman: Dawn of Justice</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지</td>
+					<td>주연</td>
+					<td>18,906,246,428</td>
+					<td>2,256,913</td>
+					<td>18,906,246,428</td>
+					<td>2,256,913</td>
+				</tr>
+			
+				<tr>
+					<td>더 킬러 : 소녀 살인</td>
+					<td>Standoff </td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>러덜리스</td>
+					<td>Rudderless</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>613,113,720</td>
+					<td>77,867</td>
+					<td>615,574,220</td>
+					<td>78,193</td>
+				</tr>
+			
+				<tr>
+					<td>더 시그널</td>
+					<td>The Signal</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>SF,액션,스릴러</td>
+					<td>주연</td>
+					<td>812,086,328</td>
+					<td>106,081</td>
+					<td>812,086,328</td>
+					<td>106,081</td>
+				</tr>
+			
+				<tr>
+					<td>쿰바: 반쪽무늬 얼룩말의 대모험</td>
+					<td>Khumba</td>
+					<td>2013</td>
+					<td>남아프리카공화국</td>
+					<td>애니메이션,어드벤처,가족</td>
+					<td>주연(목소리)</td>
+					<td>545,870,400</td>
+					<td>75,059</td>
+					<td>547,653,400</td>
+					<td>75,370</td>
+				</tr>
+			
+				<tr>
+					<td>콜로니 : 지구 최후의 날</td>
+					<td>The Colony</td>
+					<td>2013</td>
+					<td>캐나다</td>
+					<td>액션,공포(호러)</td>
+					<td>주연</td>
+					<td>2,485,000</td>
+					<td>1,220</td>
+					<td>2,485,000</td>
+					<td>1,220</td>
+				</tr>
+			
+				<tr>
+					<td>블랙 워터 트랜시트</td>
+					<td>Black Water Transit</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아머드</td>
+					<td>Armored</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>액션,범죄,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>고문</td>
+					<td>Tortured</td>
+					<td>2008</td>
+					<td>미국,캐나다</td>
+					<td>범죄,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>바비</td>
+					<td>Bobby</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-에드워드 로빈슨역</td>
+					<td>22,454,545</td>
+					<td>2,867</td>
+					<td>22,102,000</td>
+					<td>2,821</td>
+				</tr>
+			
+				<tr>
+					<td>다섯 손가락</td>
+					<td>Five Fingers</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아키라 앤 더 비</td>
+					<td>Akeelah And The Bee</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>어썰트 13</td>
+					<td>Assault On Precinct 13</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>공포(호러),액션,드라마,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>99,793</td>
+					<td>541,514,000</td>
+					<td>84,872</td>
+				</tr>
+			
+				<tr>
+					<td>매트릭스3 레볼루션</td>
+					<td>The Matrix Revolutions </td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>SF,액션,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,240,000</td>
+					<td>357,720,500</td>
+					<td>50,543</td>
+				</tr>
+			
+				<tr>
+					<td>매트릭스2 리로디드</td>
+					<td>The Matrix Reloaded </td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>SF,범죄,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>3,510,000</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>바이커 보이즈</td>
+					<td>Biker Boyz</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>액션,드라마,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>매트릭스 리비지티드</td>
+					<td>The Matrix Revisited</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>다큐멘터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>원스 인 라이프</td>
+					<td>Once in the Life</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>범죄,드라마</td>
+					<td>감독,주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>매트릭스 </td>
+					<td>The Matrix</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>SF,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>897,882</td>
+					<td>64,806,100</td>
+					<td>8,007</td>
+				</tr>
+			
+				<tr>
+					<td>후드럼 </td>
+					<td>Hoodlum</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>드라마,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>409</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>이벤트호라이즌 </td>
+					<td>Event Horizon</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러,SF</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>28,511</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>플레드 </td>
+					<td>Fled</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>범죄,스릴러,액션,어드벤처,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>14,077</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>에어이글</td>
+					<td>The Tuskegee Airmen</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>오델로 </td>
+					<td>Othello</td>
+					<td>1995</td>
+					<td>미국,영국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>646,000</td>
+					<td>128</td>
+				</tr>
+			
+				<tr>
+					<td>숀 코네리의 함정 </td>
+					<td>Just Cause</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>56,161</td>
+					<td>297,000</td>
+					<td>99</td>
+				</tr>
+			
+				<tr>
+					<td>어제 오늘 그리고 내일</td>
+					<td>What&#039;s Love Got To Do With It</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>딥 커버</td>
+					<td>Deep Cover</td>
+					<td>1992</td>
+					<td>미국</td>
+					<td>액션,범죄,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>보이즈 앤 후드</td>
+					<td>Boyz N the Hood</td>
+					<td>1991</td>
+					<td>미국</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>450,000</td>
+					<td>45</td>
+				</tr>
+			
+				<tr>
+					<td>킹뉴욕</td>
+					<td>King Of New York</td>
+					<td>1990</td>
+					<td>미국</td>
+					<td>액션,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>14,194</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

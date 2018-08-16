@@ -1,0 +1,164 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '윌리엄 맥나마라'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>미이라: 황제의 부활</td>
+					<td>Day of the Mummy</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td>6,000</td>
+					<td>2</td>
+					<td>6,000</td>
+					<td>2</td>
+				</tr>
+			
+				<tr>
+					<td>뱀파이어의 습격</td>
+					<td>The Bleeding</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션,공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>타워링 2</td>
+					<td>Towering 2</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>타임 랩스</td>
+					<td>Time Lapse</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사무라이 캅</td>
+					<td>Paper Bullets</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>액션,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>글램</td>
+					<td>Glam</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>내츄럴 에너미</td>
+					<td>Natural Enemy</td>
+					<td>1997</td>
+					<td>캐나다,미국</td>
+					<td>드라마,범죄,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>라디오 인사이드 </td>
+					<td>Radio Inside</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>342</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>체이서</td>
+					<td>Chasers</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

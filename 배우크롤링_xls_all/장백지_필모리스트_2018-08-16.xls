@@ -1,0 +1,385 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '장백지'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>그림자 애인</td>
+					<td>SHADOWS OF LOVE</td>
+					<td>2012</td>
+					<td>중국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>6,546,500</td>
+					<td>1,013</td>
+					<td>6,546,500</td>
+					<td>1,013</td>
+				</tr>
+			
+				<tr>
+					<td>위험한 관계</td>
+					<td>Dangerous Liaisons</td>
+					<td>2012</td>
+					<td>중국</td>
+					<td>멜로/로맨스,전쟁,드라마</td>
+					<td>주연-모지에위역</td>
+					<td>2,122,666,230</td>
+					<td>298,086</td>
+					<td>2,122,666,230</td>
+					<td>298,086</td>
+				</tr>
+			
+				<tr>
+					<td>양문여장</td>
+					<td>Yang Family Generals</td>
+					<td>2011</td>
+					<td>중국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>136,000</td>
+					<td>43</td>
+					<td>136,000</td>
+					<td>43</td>
+				</tr>
+			
+				<tr>
+					<td>스피드 엔젤 </td>
+					<td>Speed Angels</td>
+					<td>2010</td>
+					<td>중국,한국,일본</td>
+					<td>드라마</td>
+					<td>주연-유메이 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>야만비급</td>
+					<td>My Kung Fu Sweetheart</td>
+					<td>2006</td>
+					<td>홍콩</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>최애여인구물광</td>
+					<td>The Shopaholics</td>
+					<td>2006</td>
+					<td>홍콩</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>무극</td>
+					<td>The Promise</td>
+					<td>2005</td>
+					<td>중국</td>
+					<td>멜로/로맨스,액션,판타지</td>
+					<td>주연-칭청역</td>
+					<td>0</td>
+					<td>798,091</td>
+					<td>4,308,635,500</td>
+					<td>685,561</td>
+				</tr>
+			
+				<tr>
+					<td>귀마광상곡</td>
+					<td>Fantasia</td>
+					<td>2004</td>
+					<td>홍콩</td>
+					<td>판타지,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>비협소백룡</td>
+					<td>White Dragon</td>
+					<td>2004</td>
+					<td>홍콩</td>
+					<td>액션,어드벤처</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>성감도시</td>
+					<td>Sex And The Beauties</td>
+					<td>2004</td>
+					<td>홍콩</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>왕각흑야</td>
+					<td>One Nite In Mongkok</td>
+					<td>2004</td>
+					<td>홍콩</td>
+					<td>액션,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>98,000</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>무적의 소림쿵푸 마스터</td>
+					<td>Running On Karma</td>
+					<td>2003</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>20,000</td>
+					<td>4</td>
+					<td>20,000</td>
+					<td>4</td>
+				</tr>
+			
+				<tr>
+					<td>천방지축</td>
+					<td>Cat And Mouse</td>
+					<td>2003</td>
+					<td>홍콩</td>
+					<td>액션,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>0</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>망불료</td>
+					<td>Lost In Time</td>
+					<td>2003</td>
+					<td>홍콩</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아가유일척하동사</td>
+					<td>The Lion Roars</td>
+					<td>2002</td>
+					<td>홍콩</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>정이건, 장백지의 도신</td>
+					<td>Second Time Around</td>
+					<td>2002</td>
+					<td>홍콩</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>촉산전</td>
+					<td>The Legend Of Zu</td>
+					<td>2001</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,038</td>
+					<td>1,125,000</td>
+					<td>342</td>
+				</tr>
+			
+				<tr>
+					<td>파이란</td>
+					<td>Failan</td>
+					<td>2001</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>222,711</td>
+					<td>1,719,500</td>
+					<td>281</td>
+				</tr>
+			
+				<tr>
+					<td>노부자 2001</td>
+					<td>Master Q 2001</td>
+					<td>2001</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>발렌타인 데이</td>
+					<td>Everyday is Valentine</td>
+					<td>2001</td>
+					<td>홍콩</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>종무염</td>
+					<td>Wu yen</td>
+					<td>2001</td>
+					<td>홍콩</td>
+					<td>판타지</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>십이야</td>
+					<td>Twelve Nights</td>
+					<td>2000</td>
+					<td>홍콩</td>
+					<td>멜로/로맨스</td>
+					<td>주연-지니역</td>
+					<td>0</td>
+					<td>46,348</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>동경공략</td>
+					<td>Tokyo Raiders</td>
+					<td>2000</td>
+					<td>홍콩</td>
+					<td>액션,코미디</td>
+					<td>주연-사오리역</td>
+					<td>0</td>
+					<td>17,599</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>날수회춘</td>
+					<td>Help!!!</td>
+					<td>2000</td>
+					<td>홍콩</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>극속전설</td>
+					<td>The Regend of Speed</td>
+					<td>1999</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연-낸시역</td>
+					<td>0</td>
+					<td>2,407</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>성원</td>
+					<td>Fly Me To Polaris</td>
+					<td>1999</td>
+					<td>홍콩</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연-초란역</td>
+					<td>0</td>
+					<td>202,840</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

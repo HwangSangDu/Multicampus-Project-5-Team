@@ -1,0 +1,216 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '강성필'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>착한 처제</td>
+					<td>Nice Siser in Law</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>3,723,000</td>
+					<td>588</td>
+					<td>3,723,000</td>
+					<td>588</td>
+				</tr>
+			
+				<tr>
+					<td>유감스러운 도시</td>
+					<td>City Of Damnation</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>코미디,액션,범죄</td>
+					<td>조연-양팔이역</td>
+					<td>10,300,187,478</td>
+					<td>1,534,911</td>
+					<td>10,289,635,500</td>
+					<td>1,532,632</td>
+				</tr>
+			
+				<tr>
+					<td>가면</td>
+					<td>Rainbow Eyes</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>스릴러,미스터리</td>
+					<td>단역-하종복역</td>
+					<td>285,544,500</td>
+					<td>322,342</td>
+					<td>2,139,483,000</td>
+					<td>318,614</td>
+				</tr>
+			
+				<tr>
+					<td>지금 사랑하는 사람과 살고 있습니까?</td>
+					<td>Love Now</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>단역-최동석역</td>
+					<td>0</td>
+					<td>1,095,119</td>
+					<td>7,004,658,500</td>
+					<td>1,042,955</td>
+				</tr>
+			
+				<tr>
+					<td>투사부일체</td>
+					<td>My Boss, My Teacher</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>조연-양동팔역</td>
+					<td>0</td>
+					<td>6,105,431</td>
+					<td>31,959,686,000</td>
+					<td>5,074,314</td>
+				</tr>
+			
+				<tr>
+					<td>나두야 간다</td>
+					<td>A Wacky Switch</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>단역-영달역</td>
+					<td>0</td>
+					<td>342,300</td>
+					<td>1,215,167,500</td>
+					<td>193,554</td>
+				</tr>
+			
+				<tr>
+					<td>어디선가 누군가에 무슨일이 생기면 틀림없이 나타난다 홍반장</td>
+					<td>Mr. Handy</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>단역-도라이버역</td>
+					<td>0</td>
+					<td>830,000</td>
+					<td>1,158,210,500</td>
+					<td>181,510</td>
+				</tr>
+			
+				<tr>
+					<td>낭만자객</td>
+					<td>Crazy Assassins</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>단역-박수무당역</td>
+					<td>0</td>
+					<td>940,134</td>
+					<td>312,851,500</td>
+					<td>48,744</td>
+				</tr>
+			
+				<tr>
+					<td>내츄럴시티</td>
+					<td>Natural City</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>SF</td>
+					<td>단역-코우역</td>
+					<td>0</td>
+					<td>224,182</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>보스작전</td>
+					<td>Round 1</td>
+					<td>2003</td>
+					<td>일본</td>
+					<td>코미디,액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>색즉시공</td>
+					<td>Sex Is Zero</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>단역</td>
+					<td>0</td>
+					<td>4,082,797</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>두사부일체</td>
+					<td>My Boss, My Hero</td>
+					<td>2001</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>조연-양동팔역</td>
+					<td>0</td>
+					<td>1,228,142</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>조폭마누라</td>
+					<td>My Wife Is a Gangster</td>
+					<td>2001</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>단역-라이타역</td>
+					<td>0</td>
+					<td>1,419,972</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

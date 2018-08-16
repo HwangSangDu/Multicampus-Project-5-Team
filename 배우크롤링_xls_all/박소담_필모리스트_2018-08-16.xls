@@ -1,0 +1,268 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '박소담'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>언더독</td>
+					<td>Underdog</td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>애니메이션</td>
+					<td>주연-밤이 목소리역(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>패러사이트</td>
+					<td></td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>대장 김창수</td>
+					<td>MAN OF WILL </td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-한영희역</td>
+					<td>2,879,121,115</td>
+					<td>381,483</td>
+					<td>2,879,121,115</td>
+					<td>381,483</td>
+				</tr>
+			
+				<tr>
+					<td>설행_눈길을 걷다</td>
+					<td>Snow Paths</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-마리아역</td>
+					<td>44,019,700</td>
+					<td>5,930</td>
+					<td>44,080,200</td>
+					<td>5,943</td>
+				</tr>
+			
+				<tr>
+					<td>검은 사제들</td>
+					<td>The Priests</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>미스터리,드라마</td>
+					<td>조연-영신역</td>
+					<td>42,407,832,092</td>
+					<td>5,442,553</td>
+					<td>42,410,940,592</td>
+					<td>5,443,049</td>
+				</tr>
+			
+				<tr>
+					<td>뱀파이어는 우리 옆집에 산다</td>
+					<td>THE VAMPIRE LIVES NEXT DOOR TO US</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>기타</td>
+					<td>주연-나미역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사도</td>
+					<td>The Throne</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>사극</td>
+					<td>조연-내인 문소원역</td>
+					<td>48,842,902,501</td>
+					<td>6,246,849</td>
+					<td>48,846,045,501</td>
+					<td>6,247,651</td>
+				</tr>
+			
+				<tr>
+					<td>베테랑</td>
+					<td>Veteran</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>액션,드라마</td>
+					<td>조연-앳된 막내역</td>
+					<td>105,168,155,250</td>
+					<td>13,414,009</td>
+					<td>105,169,264,250</td>
+					<td>13,414,200</td>
+				</tr>
+			
+				<tr>
+					<td>경성학교: 사라진 소녀들</td>
+					<td>The Silenced</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>미스터리,드라마</td>
+					<td>주연-연덕역</td>
+					<td>2,749,027,700</td>
+					<td>356,342</td>
+					<td>2,749,755,100</td>
+					<td>356,436</td>
+				</tr>
+			
+				<tr>
+					<td>쎄시봉</td>
+					<td>C&#039;est Si Bon</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디,드라마</td>
+					<td>단역-여고생 1역</td>
+					<td>13,570,381,911</td>
+					<td>1,714,803</td>
+					<td>13,571,515,911</td>
+					<td>1,715,370</td>
+				</tr>
+			
+				<tr>
+					<td>상의원</td>
+					<td>The Royal Tailor</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>사극,드라마</td>
+					<td>조연</td>
+					<td>6,202,433,964</td>
+					<td>790,158</td>
+					<td>6,204,129,964</td>
+					<td>790,370</td>
+				</tr>
+			
+				<tr>
+					<td>마담 뺑덕</td>
+					<td>Scarlet Innocence </td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>단역-클럽 청이친구역</td>
+					<td>3,728,956,590</td>
+					<td>471,169</td>
+					<td>3,729,360,590</td>
+					<td>471,248</td>
+				</tr>
+			
+				<tr>
+					<td>일대일</td>
+					<td>One on One</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-다방오양역</td>
+					<td>78,745,100</td>
+					<td>10,141</td>
+					<td>78,747,100</td>
+					<td>10,142</td>
+				</tr>
+			
+				<tr>
+					<td>아름다운임종</td>
+					<td>beautiful dying</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>이쁜 것들이 되어라</td>
+					<td>The Legacy</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>코미디,드라마,가족,멜로/로맨스</td>
+					<td>조연-은선역</td>
+					<td>4,147,400</td>
+					<td>528</td>
+					<td>4,219,400</td>
+					<td>542</td>
+				</tr>
+			
+				<tr>
+					<td>소녀</td>
+					<td>Steel Cold Winter</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>멜로/로맨스,미스터리</td>
+					<td>조연-지연역</td>
+					<td>153,877,000</td>
+					<td>20,594</td>
+					<td>153,915,000</td>
+					<td>20,599</td>
+				</tr>
+			
+				<tr>
+					<td>잉투기</td>
+					<td>INGtoogi: The Battle of Internet Trolls</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>액션,드라마</td>
+					<td>조연-연희역</td>
+					<td>121,548,600</td>
+					<td>17,071</td>
+					<td>130,194,600</td>
+					<td>18,159</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,151 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '데인 쿡'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>400 데이즈</td>
+					<td>400 Days</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>SF,스릴러</td>
+					<td>주연</td>
+					<td>5,000</td>
+					<td>1</td>
+					<td>5,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>비행기 2: 소방구조대</td>
+					<td>Planes: Fire &amp; Rescue</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>애니메이션,어드벤처,코미디</td>
+					<td>주연(목소리)</td>
+					<td>2,246,970,700</td>
+					<td>311,456</td>
+					<td>2,246,970,700</td>
+					<td>311,456</td>
+				</tr>
+			
+				<tr>
+					<td>디텐션</td>
+					<td>Detention</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>코미디,공포(호러)</td>
+					<td>주연-프린시펄 버지 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>마이 베프 걸</td>
+					<td>My Best Friend&#039;S Girl</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>굿 럭 척</td>
+					<td>Good Luck Chuck</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연-찰리역</td>
+					<td>8,028,000</td>
+					<td>1,614</td>
+					<td>8,028,000</td>
+					<td>1,102</td>
+				</tr>
+			
+				<tr>
+					<td>임플로이 오브 더 먼스</td>
+					<td>Employee Of The Month</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연-잭역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>터치</td>
+					<td>The Touch</td>
+					<td>2002</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사이먼 세즈</td>
+					<td>Simon Sez</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>액션,코미디</td>
+					<td>조연</td>
+					<td>0</td>
+					<td>1,301</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

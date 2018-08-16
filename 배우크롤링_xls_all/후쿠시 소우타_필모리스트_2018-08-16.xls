@@ -1,0 +1,112 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '후쿠시 소우타'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>잠깐만 회사 좀 관두고 올게</td>
+					<td>To Each His Own</td>
+					<td>2017</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>279,455,400</td>
+					<td>35,429</td>
+					<td>279,455,400</td>
+					<td>35,429</td>
+				</tr>
+			
+				<tr>
+					<td>나는 내일, 어제의 너와 만난다</td>
+					<td>My tomorrow, your yesterday</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>멜로/로맨스,판타지,SF</td>
+					<td>주연</td>
+					<td>1,345,847,400</td>
+					<td>175,670</td>
+					<td>1,346,791,900</td>
+					<td>175,816</td>
+				</tr>
+			
+				<tr>
+					<td>신이 말하는 대로</td>
+					<td>As The Gods Will</td>
+					<td>2014</td>
+					<td>일본</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td>559,000</td>
+					<td>66</td>
+					<td>679,000</td>
+					<td>80</td>
+				</tr>
+			
+				<tr>
+					<td>사랑한다고 말해 : 키스하고 싶어질 땐</td>
+					<td>Say “I Love You”</td>
+					<td>2014</td>
+					<td>일본</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>극장판 가면라이더 위저드 &amp; 포제 - 얼티메이텀:악마의 부활</td>
+					<td></td>
+					<td>2012</td>
+					<td>일본</td>
+					<td>SF,액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

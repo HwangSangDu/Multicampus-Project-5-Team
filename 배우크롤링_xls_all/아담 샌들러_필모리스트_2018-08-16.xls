@@ -1,0 +1,411 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '아담 샌들러'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>몬스터 호텔 3</td>
+					<td>Hotel Transylvania 3: A Monster Vacation</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>애니메이션,코미디,가족,판타지</td>
+					<td>주연(목소리)</td>
+					<td></td>
+					<td></td>
+					<td>5,373,602,100</td>
+					<td>730,872</td>
+				</tr>
+			
+				<tr>
+					<td>몬스터 호텔 2</td>
+					<td>Hotel Transylvania 2</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>애니메이션</td>
+					<td>주연-드라큘라 목소리역(목소리)</td>
+					<td>11,088,271,276</td>
+					<td>1,515,104</td>
+					<td>11,088,271,276</td>
+					<td>1,515,104</td>
+				</tr>
+			
+				<tr>
+					<td>픽셀</td>
+					<td>Pixels</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션,어드벤처</td>
+					<td>주연</td>
+					<td>5,390,909,947</td>
+					<td>681,945</td>
+					<td>5,390,909,947</td>
+					<td>681,945</td>
+				</tr>
+			
+				<tr>
+					<td>코블러</td>
+					<td>The Cobbler</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>판타지,코미디</td>
+					<td>주연</td>
+					<td>318,637,732</td>
+					<td>41,444</td>
+					<td>318,637,732</td>
+					<td>41,444</td>
+				</tr>
+			
+				<tr>
+					<td>멘, 우먼 &amp; 칠드런</td>
+					<td>Men, Women &amp; Children</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연-돈 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>블렌디드</td>
+					<td>Blended</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연-짐 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>그로운 업스 2 </td>
+					<td>Grown Ups 2 </td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연-레니 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>댓츠 마이 보이</td>
+					<td>That&#039;s My Boy</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연-도니 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>몬스터 호텔</td>
+					<td>HOTEL TRANSYLVANIA</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>애니메이션,가족</td>
+					<td>주연(목소리)</td>
+					<td>6,080,221,500</td>
+					<td>884,885</td>
+					<td>6,080,784,500</td>
+					<td>884,988</td>
+				</tr>
+			
+				<tr>
+					<td>마이 프리텐드 와이프 </td>
+					<td>Just Go with It </td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연-대니역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>잭 앤 질 </td>
+					<td>Jack and Jill </td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연-잭/질 역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>그로운업스</td>
+					<td>Grown Ups</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-레니 페더 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>퍼니 피플</td>
+					<td>Funny People</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>베드타임 스토리</td>
+					<td>Bedtime Stories</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>코미디,판타지,어드벤처,가족</td>
+					<td>주연</td>
+					<td>1,320,936,074</td>
+					<td>208,054</td>
+					<td>1,306,578,000</td>
+					<td>205,962</td>
+				</tr>
+			
+				<tr>
+					<td>조한</td>
+					<td>You Don&#039;t Mess With The Zohan</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>액션,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>레인 오버 미</td>
+					<td>Reign Over Me</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,180</td>
+					<td>14,244,000</td>
+					<td>2,046</td>
+				</tr>
+			
+				<tr>
+					<td>척 앤 래리</td>
+					<td>I Now Pronounce You Chuck And Larry</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>66,753</td>
+					<td>374,965,500</td>
+					<td>55,875</td>
+				</tr>
+			
+				<tr>
+					<td>클릭</td>
+					<td>Click</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>코미디,드라마,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>379,377</td>
+					<td>2,184,174,700</td>
+					<td>364,548</td>
+				</tr>
+			
+				<tr>
+					<td>롱기스트 야드</td>
+					<td>The Longest Yard</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스팽글리쉬</td>
+					<td>Spanglish</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>드라마,코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,070</td>
+					<td>465,000</td>
+					<td>67</td>
+				</tr>
+			
+				<tr>
+					<td>첫키스만 50번째</td>
+					<td>50 First Dates</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>293,376</td>
+					<td>1,498,240,200</td>
+					<td>220,294</td>
+				</tr>
+			
+				<tr>
+					<td>성질 죽이기</td>
+					<td>Anger Management</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>212,842</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>펀치 드렁크 러브</td>
+					<td>Punch Drunk Love</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>15,594</td>
+					<td>4,058,000</td>
+					<td>691</td>
+				</tr>
+			
+				<tr>
+					<td>미스터 디즈</td>
+					<td>Mr.Deeds</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>21,093</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>리틀 니키</td>
+					<td>Little Nicky</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>판타지,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>빅대디</td>
+					<td>Big Daddy</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>161,944</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>워터보이</td>
+					<td>The Waterboy</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>9,974</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>웨딩 싱어 </td>
+					<td>The Wedding Singer</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>65,664</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

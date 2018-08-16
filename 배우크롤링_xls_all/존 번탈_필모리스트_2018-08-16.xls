@@ -1,0 +1,151 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '존 번탈'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>샷 콜러</td>
+					<td>Shot Caller</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>범죄,액션,스릴러</td>
+					<td>주연</td>
+					<td>21,625,100</td>
+					<td>3,147</td>
+					<td>21,625,100</td>
+					<td>3,147</td>
+				</tr>
+			
+				<tr>
+					<td>스위트 버지니아</td>
+					<td>Sweet Virginia</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>필그리미지</td>
+					<td>Pilgrimage</td>
+					<td>2017</td>
+					<td>아일랜드,벨기에,미국</td>
+					<td>어드벤처,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>윈드 리버</td>
+					<td>Wind River</td>
+					<td>2016</td>
+					<td>미국,영국,캐나다</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>391,538,700</td>
+					<td>50,813</td>
+					<td>391,598,700</td>
+					<td>50,819</td>
+				</tr>
+			
+				<tr>
+					<td>어카운턴트</td>
+					<td>THE ACCOUNTANT</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>548,544,928</td>
+					<td>69,529</td>
+					<td>548,544,928</td>
+					<td>69,529</td>
+				</tr>
+			
+				<tr>
+					<td>퓨리</td>
+					<td>Fury</td>
+					<td>2014</td>
+					<td>미국,영국</td>
+					<td>액션,드라마,전쟁</td>
+					<td>주연</td>
+					<td>10,367,640,686</td>
+					<td>1,362,114</td>
+					<td>10,367,640,686</td>
+					<td>1,362,114</td>
+				</tr>
+			
+				<tr>
+					<td>그루지 매치</td>
+					<td>Grudge Match </td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연-B.J역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>데이 제로</td>
+					<td>Day Zero</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

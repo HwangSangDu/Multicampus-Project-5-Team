@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '박지혜'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>림동미</td>
+					<td></td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-웨딩 플래너역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>탐정 : 더 비기닝</td>
+					<td>THE ACCIDENTAL DETECTIVE</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>코미디,범죄</td>
+					<td>단역-골프녀역</td>
+					<td>20,463,956,973</td>
+					<td>2,625,686</td>
+					<td>20,463,956,973</td>
+					<td>2,625,686</td>
+				</tr>
+			
+				<tr>
+					<td>베테랑</td>
+					<td>Veteran</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>액션,드라마</td>
+					<td>단역-덩치 운동복 여친역</td>
+					<td>105,168,155,250</td>
+					<td>13,414,009</td>
+					<td>105,169,264,250</td>
+					<td>13,414,200</td>
+				</tr>
+			
+				<tr>
+					<td>장수상회</td>
+					<td>Salut d’Amour </td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>단역-문화센터 왈츠 수강생역</td>
+					<td>8,729,412,643</td>
+					<td>1,163,575</td>
+					<td>8,739,586,643</td>
+					<td>1,166,151</td>
+				</tr>
+			
+				<tr>
+					<td>자, 이제 댄스타임</td>
+					<td>Let’s Dance</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>다큐멘터리</td>
+					<td>주연</td>
+					<td>7,280,000</td>
+					<td>1,088</td>
+					<td>8,058,500</td>
+					<td>1,351</td>
+				</tr>
+			
+				<tr>
+					<td>화차</td>
+					<td>Helpless</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>미스터리</td>
+					<td>단역-여형사역</td>
+					<td>18,459,203,000</td>
+					<td>2,436,400</td>
+					<td>18,463,007,000</td>
+					<td>2,436,884</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

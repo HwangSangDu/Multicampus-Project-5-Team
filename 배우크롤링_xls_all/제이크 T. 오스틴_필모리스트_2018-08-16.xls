@@ -1,0 +1,86 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '제이크 T. 오스틴'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>쿰바: 반쪽무늬 얼룩말의 대모험</td>
+					<td>Khumba</td>
+					<td>2013</td>
+					<td>남아프리카공화국</td>
+					<td>애니메이션,어드벤처,가족</td>
+					<td>주연(목소리)</td>
+					<td>545,870,400</td>
+					<td>75,059</td>
+					<td>547,653,400</td>
+					<td>75,370</td>
+				</tr>
+			
+				<tr>
+					<td>강아지 호텔</td>
+					<td>Hotel for Dogs</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>코미디,가족</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>에브리원 히어로</td>
+					<td>Everyone&#039;s Hero</td>
+					<td>2006</td>
+					<td>캐나다,미국</td>
+					<td>애니메이션,어드벤처,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

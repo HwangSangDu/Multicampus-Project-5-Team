@@ -1,0 +1,112 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '크리스타 테렛'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>마가렛트 여사의 숨길 수 없는 비밀</td>
+					<td>Marguerite</td>
+					<td>2015</td>
+					<td>프랑스,체코,벨기에</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>50,757,300</td>
+					<td>6,857</td>
+					<td>51,314,300</td>
+					<td>6,923</td>
+				</tr>
+			
+				<tr>
+					<td>보스의 딸</td>
+					<td>La fille du patron</td>
+					<td>2015</td>
+					<td>프랑스</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>웃는 남자</td>
+					<td>The Man Who Laughs</td>
+					<td>2012</td>
+					<td>프랑스,체코</td>
+					<td>미스터리,판타지</td>
+					<td>주연-데아역</td>
+					<td>405,022,500</td>
+					<td>57,838</td>
+					<td>406,012,500</td>
+					<td>57,948</td>
+				</tr>
+			
+				<tr>
+					<td>비밀일기</td>
+					<td>LOL (Laughing Out Loud)</td>
+					<td>2008</td>
+					<td>프랑스</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,248,000</td>
+					<td>166</td>
+				</tr>
+			
+				<tr>
+					<td>저스트 어바웃 러브</td>
+					<td>Just About Love?</td>
+					<td>2007</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>3,581,000</td>
+					<td>569</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

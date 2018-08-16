@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '이경태'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>돛대도 아니달고</td>
+					<td>The Ship With No Sail</td>
+					<td>1979</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td>29,142</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>마지막 찻잔</td>
+					<td>The Last Tea Cup</td>
+					<td>1979</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td>199,773</td>
+					<td>5,482,000</td>
+					<td>2,737</td>
+				</tr>
+			
+				<tr>
+					<td>병아리들의 잔칫날</td>
+					<td>Festival Of The Chicks</td>
+					<td>1978</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>36,111</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>엄마없는 하늘아래2</td>
+					<td>Under The Sky With No Mother (Sequel)</td>
+					<td>1977</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>113,740</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>엄마 없는 하늘 아래</td>
+					<td>The World Without Mom</td>
+					<td>1977</td>
+					<td>한국</td>
+					<td>가족,드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td>108,154</td>
+					<td>1,607,000</td>
+					<td>795</td>
+				</tr>
+			
+				<tr>
+					<td>촌색씨</td>
+					<td>A Country Girl</td>
+					<td>1958</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>4,084,000</td>
+					<td>2,042</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

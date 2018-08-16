@@ -1,0 +1,372 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '김강일'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>그날의 기억</td>
+					<td></td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>972,000</td>
+					<td>108</td>
+					<td>972,000</td>
+					<td>108</td>
+				</tr>
+			
+				<tr>
+					<td>연평해전</td>
+					<td>Northern Limit Line</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-북한8전대사령관역</td>
+					<td>45,563,228,330</td>
+					<td>6,043,784</td>
+					<td>45,567,290,830</td>
+					<td>6,044,956</td>
+				</tr>
+			
+				<tr>
+					<td>간신</td>
+					<td>The Treacherous</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>사극</td>
+					<td>단역-장리역</td>
+					<td>8,946,842,910</td>
+					<td>1,110,246</td>
+					<td>8,947,046,910</td>
+					<td>1,110,274</td>
+				</tr>
+			
+				<tr>
+					<td>스피드</td>
+					<td>Speed</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-구림회사 대표역</td>
+					<td>6,667,000</td>
+					<td>776</td>
+					<td>6,667,000</td>
+					<td>776</td>
+				</tr>
+			
+				<tr>
+					<td>음란한 가족</td>
+					<td></td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>코미디,드라마,가족</td>
+					<td>단역-세탁소 주인역</td>
+					<td>2,301,000</td>
+					<td>473</td>
+					<td>2,301,000</td>
+					<td>473</td>
+				</tr>
+			
+				<tr>
+					<td>해적: 바다로 간 산적</td>
+					<td>The Pirates </td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>어드벤처</td>
+					<td>단역-상선 행수역</td>
+					<td>66,370,682,706</td>
+					<td>8,666,046</td>
+					<td>66,372,140,706</td>
+					<td>8,666,208</td>
+				</tr>
+			
+				<tr>
+					<td>명량</td>
+					<td>Roaring Currents</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>사극,액션</td>
+					<td>조연-가토역</td>
+					<td>135,748,398,910</td>
+					<td>17,613,682</td>
+					<td>135,754,920,310</td>
+					<td>17,615,314</td>
+				</tr>
+			
+				<tr>
+					<td>마이 리틀 히어로</td>
+					<td>A Wonderful Moment</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-본부장역</td>
+					<td>1,302,907,128</td>
+					<td>185,978</td>
+					<td>1,303,507,128</td>
+					<td>186,078</td>
+				</tr>
+			
+				<tr>
+					<td>바람과 함께 사라지다</td>
+					<td>The Grand Heist</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>코미디,사극</td>
+					<td>단역-장빙업자1역</td>
+					<td>34,614,661,161</td>
+					<td>4,909,937</td>
+					<td>34,614,720,161</td>
+					<td>4,909,950</td>
+				</tr>
+			
+				<tr>
+					<td>간기남</td>
+					<td>The Scent</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>코미디,스릴러</td>
+					<td>단역-최익환 과장역</td>
+					<td>9,356,404,500</td>
+					<td>1,246,185</td>
+					<td>9,356,404,500</td>
+					<td>1,246,185</td>
+				</tr>
+			
+				<tr>
+					<td>카운트다운</td>
+					<td>Countdown</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마,액션</td>
+					<td>단역-김 형사역</td>
+					<td>3,630,557,000</td>
+					<td>471,547</td>
+					<td>3,630,557,000</td>
+					<td>471,547</td>
+				</tr>
+			
+				<tr>
+					<td>고지전</td>
+					<td>The Front Line</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마,전쟁</td>
+					<td>조연-인민군 대대장 역</td>
+					<td>21,968,557,600</td>
+					<td>2,945,137</td>
+					<td>21,968,680,600</td>
+					<td>2,945,151</td>
+				</tr>
+			
+				<tr>
+					<td>평양성</td>
+					<td>Battlefield Heroes</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>전쟁,코미디,드라마</td>
+					<td>단역-〔당나라〕계필하력역</td>
+					<td>12,684,530,500</td>
+					<td>1,717,566</td>
+					<td>12,684,530,500</td>
+					<td>1,717,566</td>
+				</tr>
+			
+				<tr>
+					<td>악마를 보았다</td>
+					<td>I Saw The Devil</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>단역-박한기역</td>
+					<td>14,148,937,025</td>
+					<td>1,848,418</td>
+					<td>13,919,462,500</td>
+					<td>1,817,069</td>
+				</tr>
+			
+				<tr>
+					<td>불꽃처럼 나비처럼</td>
+					<td>The Sword With No Name</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>멜로/로맨스,사극</td>
+					<td>단역-낭인3역</td>
+					<td>12,447,633,504</td>
+					<td>1,690,294</td>
+					<td>12,302,961,500</td>
+					<td>1,670,652</td>
+				</tr>
+			
+				<tr>
+					<td>인사동 스캔들</td>
+					<td>Insadong Scandal</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마,범죄,액션</td>
+					<td>단역-스즈키역</td>
+					<td>7,900,084,842</td>
+					<td>1,206,101</td>
+					<td>7,780,811,000</td>
+					<td>1,187,684</td>
+				</tr>
+			
+				<tr>
+					<td>신기전</td>
+					<td>The Divine Weapon</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>사극,드라마,액션,전쟁</td>
+					<td>단역-이태랑역</td>
+					<td>24,314,570,667</td>
+					<td>3,726,134</td>
+					<td>24,326,406,000</td>
+					<td>3,728,439</td>
+				</tr>
+			
+				<tr>
+					<td>날아라 허동구</td>
+					<td>Bunt</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>가족,드라마</td>
+					<td>단역-진북초등학교 선수 부역</td>
+					<td>0</td>
+					<td>396,811</td>
+					<td>2,333,597,000</td>
+					<td>378,161</td>
+				</tr>
+			
+				<tr>
+					<td>음란서생</td>
+					<td>Forbidden Quest</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>사극,코미디</td>
+					<td>단역-어용화사역</td>
+					<td>0</td>
+					<td>2,576,022</td>
+					<td>14,944,551,700</td>
+					<td>2,304,368</td>
+				</tr>
+			
+				<tr>
+					<td>공공의 적 2</td>
+					<td>Another Public Enemy</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-서식역</td>
+					<td>0</td>
+					<td>3,911,356</td>
+					<td>20,091,142,000</td>
+					<td>3,134,424</td>
+				</tr>
+			
+				<tr>
+					<td>공공의 적</td>
+					<td>Public Enemy</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>범죄,액션</td>
+					<td>단역-사채업자2역</td>
+					<td></td>
+					<td>1,161,500</td>
+					<td>1,145,500</td>
+					<td>138</td>
+				</tr>
+			
+				<tr>
+					<td>아프리카</td>
+					<td>A.F.R.I.K.A</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-달수역</td>
+					<td></td>
+					<td>9,419</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>휴머니스트</td>
+					<td>Humanist</td>
+					<td>2001</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>단역-형사2역</td>
+					<td>0</td>
+					<td>31,256</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>자귀모(자살한 귀신들의 모임)</td>
+					<td>Ghost In Love</td>
+					<td>1999</td>
+					<td>한국</td>
+					<td>SF,공포(호러)</td>
+					<td>단역-성도착범역</td>
+					<td>0</td>
+					<td>362,935</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>꽃을 든 남자</td>
+					<td>Man with Flowers</td>
+					<td>1997</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>단역-술집 소동 남자역</td>
+					<td>0</td>
+					<td>21,024</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

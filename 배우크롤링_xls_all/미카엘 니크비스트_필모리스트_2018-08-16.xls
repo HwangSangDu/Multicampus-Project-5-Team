@@ -1,0 +1,151 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '미카엘 니크비스트'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>스톡홀름의 마지막 연인</td>
+					<td>A Serious Game</td>
+					<td>2016</td>
+					<td>스웨덴</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>47,380,800</td>
+					<td>6,203</td>
+					<td>48,357,800</td>
+					<td>6,321</td>
+				</tr>
+			
+				<tr>
+					<td>콜로니아</td>
+					<td>Colonia Dignidad</td>
+					<td>2015</td>
+					<td>독일,룩셈부르크,프랑스</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>유로파 리포트</td>
+					<td>Europa Report</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>SF,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>밀레니엄 : 제3부 벌집을 발로 찬 소녀</td>
+					<td>Millennium : the film part3 - The Girl Who Kicked The Hornet’s Nest</td>
+					<td>2009</td>
+					<td>스웨덴,덴마크,독일</td>
+					<td>범죄,스릴러</td>
+					<td>주연</td>
+					<td>9,422,000</td>
+					<td>1,204</td>
+					<td>9,462,000</td>
+					<td>1,211</td>
+				</tr>
+			
+				<tr>
+					<td>밀레니엄 : 제2부 불을 가지고 노는 소녀</td>
+					<td>Millennium - the film part2 - Flickan Som Lekte Med Elden</td>
+					<td>2009</td>
+					<td>스웨덴,덴마크,독일</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>16,739,500</td>
+					<td>2,266</td>
+					<td>16,831,500</td>
+					<td>2,282</td>
+				</tr>
+			
+				<tr>
+					<td>밀레니엄 제 1부 : 여자를 증오한 남자들</td>
+					<td>The Girl With The Dragon Tattoo</td>
+					<td>2009</td>
+					<td>스웨덴,덴마크</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>24,060,000</td>
+					<td>3,033</td>
+					<td>25,722,500</td>
+					<td>3,285</td>
+				</tr>
+			
+				<tr>
+					<td>천국에 있는 것처럼</td>
+					<td>As It Is In Heaven</td>
+					<td>2004</td>
+					<td>스웨덴</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>102,000</td>
+					<td>18</td>
+					<td>102,000</td>
+					<td>18</td>
+				</tr>
+			
+				<tr>
+					<td>동거</td>
+					<td>Tillsammans</td>
+					<td>2000</td>
+					<td>스웨덴,덴마크,이탈리아</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,99 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '박서준'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>청년경찰</td>
+					<td>Midnight Runners</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>44,381,150,516</td>
+					<td>5,653,270</td>
+					<td>44,382,020,516</td>
+					<td>5,653,444</td>
+				</tr>
+			
+				<tr>
+					<td>리얼</td>
+					<td>REAL</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>단역-경호원 복장남역</td>
+					<td>3,357,312,530</td>
+					<td>470,105</td>
+					<td>3,357,612,530</td>
+					<td>470,135</td>
+				</tr>
+			
+				<tr>
+					<td>뷰티 인사이드</td>
+					<td>The Beauty Inside</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>판타지,멜로/로맨스</td>
+					<td>주연-우진60역</td>
+					<td>16,155,795,131</td>
+					<td>2,054,297</td>
+					<td>16,184,831,031</td>
+					<td>2,057,896</td>
+				</tr>
+			
+				<tr>
+					<td>악의 연대기</td>
+					<td>The Chronicles of Evil</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>주연-차동재역</td>
+					<td>17,361,815,332</td>
+					<td>2,192,525</td>
+					<td>17,361,815,332</td>
+					<td>2,192,525</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

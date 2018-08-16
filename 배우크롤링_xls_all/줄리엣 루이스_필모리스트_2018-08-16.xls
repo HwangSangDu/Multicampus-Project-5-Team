@@ -1,0 +1,294 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '줄리엣 루이스'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>너브</td>
+					<td>Nerve</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>어드벤처,스릴러</td>
+					<td>주연</td>
+					<td>239,275,800</td>
+					<td>29,441</td>
+					<td>239,275,800</td>
+					<td>29,441</td>
+				</tr>
+			
+				<tr>
+					<td>헬리온</td>
+					<td>Hellion</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>어거스트: 가족의 초상</td>
+					<td>August: Osage County</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>542,301,500</td>
+					<td>71,747</td>
+					<td>545,341,500</td>
+					<td>72,377</td>
+				</tr>
+			
+				<tr>
+					<td>미라클맨 </td>
+					<td>Sympathy For Delicious</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>900,000</td>
+					<td>150</td>
+					<td>900,000</td>
+					<td>150</td>
+				</tr>
+			
+				<tr>
+					<td>듀 데이트</td>
+					<td>Due Date</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>440,189,148</td>
+					<td>57,308</td>
+					<td>433,642,000</td>
+					<td>56,455</td>
+				</tr>
+			
+				<tr>
+					<td>다섯번째 계절</td>
+					<td>Bee Season</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,140</td>
+					<td>7,436,000</td>
+					<td>1,082</td>
+				</tr>
+			
+				<tr>
+					<td>블루베리</td>
+					<td>Blueberry</td>
+					<td>2004</td>
+					<td>프랑스,멕시코,영국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>13,000</td>
+					<td>2</td>
+				</tr>
+			
+				<tr>
+					<td>히스테리컬 블라인드니스</td>
+					<td>Hysterical Blindness</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>클레어 작전</td>
+					<td>Picture Claire</td>
+					<td>2001</td>
+					<td>캐나다,미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>룸 투 렌트</td>
+					<td>Room To Rent</td>
+					<td>2000</td>
+					<td>프랑스,영국</td>
+					<td>코미디</td>
+					<td>주연-린다역</td>
+					<td>0</td>
+					<td>2,260</td>
+					<td>15,692,500</td>
+					<td>2,242</td>
+				</tr>
+			
+				<tr>
+					<td>웨이 오브 더 건</td>
+					<td>The Way Of The Gun</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>범죄,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>17,868</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사랑하고 싶은 그녀</td>
+					<td>The Other Sister</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>8,324</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>4층</td>
+					<td>The 4th Floor</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>공포(호러),미스터리,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>황혼에서 새벽까지</td>
+					<td>From Dusk Till Dawn</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>122,863</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>바스켓볼 다이어리</td>
+					<td>Basketball Diaries</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>범죄,드라마</td>
+					<td>주연-다이앤 무디역</td>
+					<td>0</td>
+					<td>36,953</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스트레인지 데이즈 </td>
+					<td>Strange Days</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>SF,드라마,범죄,스릴러,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>17,710</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>올리버 스톤의 킬러 </td>
+					<td>Natural Born Killer</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>57,913</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>칼리포니아 </td>
+					<td>California</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>19,178</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>길버트 그레이프</td>
+					<td>What&#039;S Eating Gilbert Grape</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>드라마,코미디</td>
+					<td>주연-벡키역</td>
+					<td>0</td>
+					<td>37,304</td>
+					<td>2,060,000</td>
+					<td>370</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

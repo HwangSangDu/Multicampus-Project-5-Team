@@ -1,0 +1,385 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '샤를로뜨 갱스부르'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>새벽의 약속</td>
+					<td>Promise at Dawn</td>
+					<td>2017</td>
+					<td>프랑스</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>에브리띵 윌 비 파인</td>
+					<td>Every Thing Will Be Fine</td>
+					<td>2015</td>
+					<td>독일,캐나다,프랑스,스웨덴,노르웨이</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>64,466,400</td>
+					<td>8,572</td>
+					<td>64,466,400</td>
+					<td>8,572</td>
+				</tr>
+			
+				<tr>
+					<td>아리아</td>
+					<td>Incompresa</td>
+					<td>2014</td>
+					<td>이탈리아,프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>34,471,579</td>
+					<td>4,385</td>
+					<td>34,517,579</td>
+					<td>4,392</td>
+				</tr>
+			
+				<tr>
+					<td>나쁜 사랑</td>
+					<td>3 Hearts</td>
+					<td>2014</td>
+					<td>프랑스</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>46,875,500</td>
+					<td>6,107</td>
+					<td>46,875,500</td>
+					<td>6,107</td>
+				</tr>
+			
+				<tr>
+					<td>웰컴, 삼바</td>
+					<td>Samba</td>
+					<td>2014</td>
+					<td>프랑스</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>325,078,800</td>
+					<td>40,321</td>
+					<td>325,078,800</td>
+					<td>40,321</td>
+				</tr>
+			
+				<tr>
+					<td>님포매니악 감독판 볼룸 1&amp;2</td>
+					<td>Nymphomaniac Director’s Cut Vol. 1&amp;2</td>
+					<td>2014</td>
+					<td>덴마크,벨기에,프랑스,영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,183,400</td>
+					<td>180</td>
+				</tr>
+			
+				<tr>
+					<td>님포매니악 볼륨2</td>
+					<td>Nymphomaniac vol.2</td>
+					<td>2013</td>
+					<td>덴마크,벨기에,프랑스,독일,영국</td>
+					<td>드라마,미스터리</td>
+					<td>주연</td>
+					<td>201,869,933</td>
+					<td>24,380</td>
+					<td>202,108,933</td>
+					<td>24,424</td>
+				</tr>
+			
+				<tr>
+					<td>님포매니악 볼륨1</td>
+					<td>Nymphomaniac vol.1 </td>
+					<td>2013</td>
+					<td>덴마크,독일,프랑스,벨기에,영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>479,242,383</td>
+					<td>60,265</td>
+					<td>479,491,383</td>
+					<td>60,311</td>
+				</tr>
+			
+				<tr>
+					<td>멜랑콜리아</td>
+					<td>Melancholia</td>
+					<td>2011</td>
+					<td>덴마크,스웨덴,이탈리아,독일,프랑스</td>
+					<td>드라마,SF,스릴러</td>
+					<td>주연</td>
+					<td>131,234,800</td>
+					<td>17,766</td>
+					<td>139,050,683</td>
+					<td>18,697</td>
+				</tr>
+			
+				<tr>
+					<td>더 트리</td>
+					<td>The Tree</td>
+					<td>2010</td>
+					<td>프랑스,호주</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-던 오닐역</td>
+					<td>8,145,500</td>
+					<td>1,398</td>
+					<td>8,145,500</td>
+					<td>1,398</td>
+				</tr>
+			
+				<tr>
+					<td>안티크라이스트</td>
+					<td>Antichrist</td>
+					<td>2009</td>
+					<td>덴마크</td>
+					<td>미스터리,드라마</td>
+					<td>주연</td>
+					<td>27,500,000</td>
+					<td>3,570</td>
+					<td>31,380,600</td>
+					<td>4,071</td>
+				</tr>
+			
+				<tr>
+					<td>고통</td>
+					<td>Persecution</td>
+					<td>2009</td>
+					<td>프랑스,독일</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>678,000</td>
+					<td>107</td>
+				</tr>
+			
+				<tr>
+					<td>결혼하고도 싱글로 남는법</td>
+					<td>Rent A Wife</td>
+					<td>2006</td>
+					<td>프랑스</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>9,381</td>
+					<td>66,684,500</td>
+					<td>9,548</td>
+				</tr>
+			
+				<tr>
+					<td>수면의 과학</td>
+					<td>The Science Of Sleep</td>
+					<td>2006</td>
+					<td>프랑스</td>
+					<td>코미디,판타지</td>
+					<td>주연-스테파니 역</td>
+					<td>0</td>
+					<td>57,447</td>
+					<td>412,963,200</td>
+					<td>58,395</td>
+				</tr>
+			
+				<tr>
+					<td>황금의 문</td>
+					<td>Golden Door</td>
+					<td>2006</td>
+					<td>프랑스,이탈리아</td>
+					<td>어드벤처,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>레밍</td>
+					<td>Lemming</td>
+					<td>2005</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연-베네딕트 게티역</td>
+					<td>0</td>
+					<td>1,142</td>
+					<td>4,921,500</td>
+					<td>730</td>
+				</tr>
+			
+				<tr>
+					<td>남는 자와 떠나는 자</td>
+					<td>One Stays, the Other Leaves</td>
+					<td>2005</td>
+					<td>프랑스</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>그리고 그들은 행복하게 살았습니다</td>
+					<td>And They Lived Happily Ever After</td>
+					<td>2004</td>
+					<td>프랑스</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>내 아내는 여배우</td>
+					<td>My Wife Is an Actress</td>
+					<td>2001</td>
+					<td>프랑스</td>
+					<td>코미디,드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>304,000</td>
+					<td>34</td>
+				</tr>
+			
+				<tr>
+					<td>펠릭스와 롤라</td>
+					<td>Felix and Lola</td>
+					<td>2000</td>
+					<td>프랑스</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>크리스마스 트리</td>
+					<td>Season&#039;s Beatings</td>
+					<td>1999</td>
+					<td>프랑스</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>544,000</td>
+					<td>78</td>
+				</tr>
+			
+				<tr>
+					<td>제인 에어 </td>
+					<td>Jane Eyre</td>
+					<td>1996</td>
+					<td>영국,프랑스,이탈리아,미국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>47,804</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>감사한 삶</td>
+					<td>Thanks For Life</td>
+					<td>1991</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>202,000</td>
+					<td>40</td>
+				</tr>
+			
+				<tr>
+					<td>아무도 모르게</td>
+					<td>KUNG-FU MASTER</td>
+					<td>1990</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>361</td>
+					<td>365,000</td>
+					<td>71</td>
+				</tr>
+			
+				<tr>
+					<td>귀여운 여도적</td>
+					<td>The Little Thief</td>
+					<td>1989</td>
+					<td>프랑스</td>
+					<td>드라마,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>9,074</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>귀여운 반항아</td>
+					<td>Charlotte And Lulu</td>
+					<td>1985</td>
+					<td>프랑스</td>
+					<td>코미디,드라마,가족,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

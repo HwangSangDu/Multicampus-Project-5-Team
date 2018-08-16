@@ -1,0 +1,333 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '김서영'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>나쁜 상사</td>
+					<td>Bad Boss</td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>애니메이션,멜로/로맨스,스릴러</td>
+					<td>주연-채영조 목소리역(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>마야2</td>
+					<td>Maya the Bee: The Honey Games</td>
+					<td>2017</td>
+					<td>독일</td>
+					<td>애니메이션</td>
+					<td>주연-마야역(목소리)</td>
+					<td>695,357,700</td>
+					<td>96,992</td>
+					<td>695,357,700</td>
+					<td>96,992</td>
+				</tr>
+			
+				<tr>
+					<td>뽀로로 극장판 공룡섬 대모험</td>
+					<td>Pororo, Dinosaur Island Adventure</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>애니메이션</td>
+					<td>주연-해리 목소리 역(목소리)</td>
+					<td>6,226,737,300</td>
+					<td>827,021</td>
+					<td>6,226,832,300</td>
+					<td>827,040</td>
+				</tr>
+			
+				<tr>
+					<td>꼬마참새 리차드: 아프리카 원정대</td>
+					<td>Richard the Stork</td>
+					<td>2017</td>
+					<td>독일,벨기에,룩셈부르크,노르웨이</td>
+					<td>애니메이션</td>
+					<td>주연-리차드 목소리 역(목소리)</td>
+					<td>599,076,600</td>
+					<td>81,136</td>
+					<td>599,076,600</td>
+					<td>81,136</td>
+				</tr>
+			
+				<tr>
+					<td>극장판 파워레인저: 닌자포스 VS 트레인포스 닌자 인 원더랜드</td>
+					<td>Shuriken Sentai Ninninja tai Ressha Sentai Tokkyuja Za Mubi Ninja In Wandarando</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>액션</td>
+					<td>조연-공주/트레인5호역(목소리)</td>
+					<td>504,023,800</td>
+					<td>64,642</td>
+					<td>504,023,800</td>
+					<td>64,642</td>
+				</tr>
+			
+				<tr>
+					<td>달빛궁궐</td>
+					<td>Lost in the moonlight</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>애니메이션,판타지,어드벤처</td>
+					<td>주연-현주리 목소리 역(목소리)</td>
+					<td>1,147,863,700</td>
+					<td>153,097</td>
+					<td>1,148,146,700</td>
+					<td>153,145</td>
+				</tr>
+			
+				<tr>
+					<td>매직브러시</td>
+					<td>The Magic Brush</td>
+					<td>2016</td>
+					<td>중국</td>
+					<td>애니메이션</td>
+					<td>주연-히로역(목소리)</td>
+					<td>1,292,868,800</td>
+					<td>172,107</td>
+					<td>1,294,991,300</td>
+					<td>172,396</td>
+				</tr>
+			
+				<tr>
+					<td>뽀로로 극장판 컴퓨터 왕국 대모험</td>
+					<td>Pororo3 :  Cyber Space Adventure</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>애니메이션</td>
+					<td>주연-해리역(목소리)</td>
+					<td>3,290,582,700</td>
+					<td>445,014</td>
+					<td>3,296,535,700</td>
+					<td>446,054</td>
+				</tr>
+			
+				<tr>
+					<td>쥬로링 동물탐정 극장판</td>
+					<td>Change Zoororing</td>
+					<td>2014</td>
+					<td>한국,일본</td>
+					<td>애니메이션,어드벤처</td>
+					<td>주연(목소리)</td>
+					<td>175,451,100</td>
+					<td>24,977</td>
+					<td>178,137,500</td>
+					<td>25,391</td>
+				</tr>
+			
+				<tr>
+					<td>마야</td>
+					<td>Maya the Bee Movie </td>
+					<td>2014</td>
+					<td>독일,호주</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td>1,952,169,200</td>
+					<td>265,388</td>
+					<td>1,953,714,200</td>
+					<td>265,697</td>
+				</tr>
+			
+				<tr>
+					<td>극장판 뛰뛰빵빵 구조대 미션: 둥둥이를 구하라!</td>
+					<td>T-pang Rescue</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td>144,062,800</td>
+					<td>21,939</td>
+					<td>144,062,800</td>
+					<td>21,939</td>
+				</tr>
+			
+				<tr>
+					<td>꼬마마녀 요요와 네네</td>
+					<td>MAGICAL SISTERS YOYO &amp; NENE</td>
+					<td>2013</td>
+					<td>일본</td>
+					<td>애니메이션</td>
+					<td>주연-요요역</td>
+					<td>152,193,000</td>
+					<td>23,057</td>
+					<td>152,193,000</td>
+					<td>23,057</td>
+				</tr>
+			
+				<tr>
+					<td>스파이크</td>
+					<td>Spike</td>
+					<td>2012</td>
+					<td>프랑스</td>
+					<td>애니메이션</td>
+					<td>주연-파코 (한국어 목소리)역(목소리)</td>
+					<td>151,066,500</td>
+					<td>25,158</td>
+					<td>151,226,500</td>
+					<td>25,190</td>
+				</tr>
+			
+				<tr>
+					<td>프렌즈: 몬스터섬의비밀 </td>
+					<td>Friends : Naki on the Monster island</td>
+					<td>2011</td>
+					<td>일본</td>
+					<td>애니메이션,어드벤처</td>
+					<td>주연-코타케 한국어 목소리역(목소리)</td>
+					<td>3,745,986,000</td>
+					<td>510,996</td>
+					<td>4,028,284,500</td>
+					<td>549,900</td>
+				</tr>
+			
+				<tr>
+					<td>개구리중사 케로로</td>
+					<td>Sergent Keroro - The Supuer Duper Movie</td>
+					<td>2006</td>
+					<td>일본</td>
+					<td>애니메이션,코미디</td>
+					<td>투자</td>
+					<td>0</td>
+					<td>75,642</td>
+					<td>450,686,500</td>
+					<td>78,886</td>
+				</tr>
+			
+				<tr>
+					<td>망치</td>
+					<td>Hammerboy</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>애니메이션</td>
+					<td>투자</td>
+					<td>0</td>
+					<td>47,502</td>
+					<td>214,344,500</td>
+					<td>36,200</td>
+				</tr>
+			
+				<tr>
+					<td>오세암</td>
+					<td>Oseam</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>애니메이션,드라마</td>
+					<td>투자</td>
+					<td></td>
+					<td>145,000</td>
+					<td>50,000</td>
+					<td>10</td>
+				</tr>
+			
+				<tr>
+					<td>뽀롱뽀롱뽀로로</td>
+					<td>Pororo The Little Penguin</td>
+					<td>2003</td>
+					<td></td>
+					<td></td>
+					<td>투자</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>오늘이</td>
+					<td>O-nu-ri</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>애니메이션</td>
+					<td>투자</td>
+					<td></td>
+					<td></td>
+					<td>0</td>
+					<td>0</td>
+				</tr>
+			
+				<tr>
+					<td>고양이의 보은</td>
+					<td>The Cat Returns</td>
+					<td>2002</td>
+					<td>일본</td>
+					<td>애니메이션,판타지,코미디,어드벤처</td>
+					<td>투자</td>
+					<td>0</td>
+					<td>531,544</td>
+					<td>2,536,000</td>
+					<td>583</td>
+				</tr>
+			
+				<tr>
+					<td>매직키드마수리</td>
+					<td>MagicKidMasuri</td>
+					<td>2002</td>
+					<td></td>
+					<td></td>
+					<td>투자</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>장금이의 꿈(애니)</td>
+					<td>Janggeum`s Dream</td>
+					<td></td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>투자</td>
+					<td></td>
+					<td></td>
+					<td>960,000</td>
+					<td>318</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

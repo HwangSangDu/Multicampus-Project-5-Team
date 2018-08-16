@@ -1,0 +1,164 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '질 를르슈'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>세라비, 이것이 인생!</td>
+					<td>C&#039;est la vie!</td>
+					<td>2017</td>
+					<td>프랑스</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>179,895,800</td>
+					<td>22,540</td>
+					<td>185,457,800</td>
+					<td>23,193</td>
+				</tr>
+			
+				<tr>
+					<td>다이빙</td>
+					<td>Plonger</td>
+					<td>2017</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>프렌치 커넥션: 마약수사</td>
+					<td>The Connection</td>
+					<td>2014</td>
+					<td>프랑스</td>
+					<td>범죄,액션</td>
+					<td>주연</td>
+					<td>602,000</td>
+					<td>109</td>
+					<td>602,000</td>
+					<td>109</td>
+				</tr>
+			
+				<tr>
+					<td>더 체이스</td>
+					<td>Mea Culpa</td>
+					<td>2014</td>
+					<td>프랑스</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>33,828,800</td>
+					<td>5,177</td>
+					<td>33,828,800</td>
+					<td>5,177</td>
+				</tr>
+			
+				<tr>
+					<td>더 인포먼트</td>
+					<td>The Informant</td>
+					<td>2013</td>
+					<td>프랑스,캐나다</td>
+					<td>범죄,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>테레즈 데케루</td>
+					<td>Therese Desqueyroux</td>
+					<td>2012</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>9,716,500</td>
+					<td>1,334</td>
+					<td>9,716,500</td>
+					<td>1,334</td>
+				</tr>
+			
+				<tr>
+					<td>플레이어스</td>
+					<td>The Players</td>
+					<td>2012</td>
+					<td>프랑스</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>50,000</td>
+					<td>10</td>
+					<td>50,000</td>
+					<td>10</td>
+				</tr>
+			
+				<tr>
+					<td>블랑섹의 기이한모험</td>
+					<td>The Extraordinary Adventures of Adele Blanc-Sec</td>
+					<td>2010</td>
+					<td>영국</td>
+					<td>판타지,액션,미스터리</td>
+					<td>주연-카포니역</td>
+					<td>4,352,000</td>
+					<td>2,021</td>
+					<td>4,364,000</td>
+					<td>2,023</td>
+				</tr>
+			
+				<tr>
+					<td>포인트 블랭크</td>
+					<td>Point Blank</td>
+					<td>2010</td>
+					<td>프랑스</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>397,470,300</td>
+					<td>52,094</td>
+					<td>397,579,300</td>
+					<td>52,110</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

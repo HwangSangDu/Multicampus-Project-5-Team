@@ -1,0 +1,203 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '고수'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>남한산성</td>
+					<td>The Fortress</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>사극,드라마</td>
+					<td>주연</td>
+					<td>31,225,083,792</td>
+					<td>3,849,087</td>
+					<td>31,225,419,792</td>
+					<td>3,849,129</td>
+				</tr>
+			
+				<tr>
+					<td>석조저택 살인사건</td>
+					<td>The Tooth and the Nail</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>2,825,346,886</td>
+					<td>353,043</td>
+					<td>2,829,106,886</td>
+					<td>353,517</td>
+				</tr>
+			
+				<tr>
+					<td>루시드 드림</td>
+					<td>Lucid Dream</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>SF,스릴러</td>
+					<td>주연-대호역</td>
+					<td>759,481,000</td>
+					<td>102,170</td>
+					<td>759,481,000</td>
+					<td>102,170</td>
+				</tr>
+			
+				<tr>
+					<td>상의원</td>
+					<td>The Royal Tailor</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>사극,드라마</td>
+					<td>주연</td>
+					<td>6,202,433,964</td>
+					<td>790,158</td>
+					<td>6,204,129,964</td>
+					<td>790,370</td>
+				</tr>
+			
+				<tr>
+					<td>민우씨 오는 날</td>
+					<td>Awaiting</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>3,828,500</td>
+					<td>778</td>
+				</tr>
+			
+				<tr>
+					<td>집으로 가는 길</td>
+					<td>Way Back Home</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>13,048,519,745</td>
+					<td>1,854,625</td>
+					<td>13,049,026,745</td>
+					<td>1,854,711</td>
+				</tr>
+			
+				<tr>
+					<td>반창꼬</td>
+					<td>Love 911</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연-강일역</td>
+					<td>17,911,274,787</td>
+					<td>2,475,797</td>
+					<td>17,911,274,787</td>
+					<td>2,475,797</td>
+				</tr>
+			
+				<tr>
+					<td>고지전</td>
+					<td>The Front Line</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마,전쟁</td>
+					<td>주연-김수혁역</td>
+					<td>21,968,557,600</td>
+					<td>2,945,137</td>
+					<td>21,968,680,600</td>
+					<td>2,945,151</td>
+				</tr>
+			
+				<tr>
+					<td>초능력자</td>
+					<td>Haunters</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>SF,드라마</td>
+					<td>주연-임규남역</td>
+					<td>15,618,440,958</td>
+					<td>2,164,805</td>
+					<td>15,374,798,000</td>
+					<td>2,130,645</td>
+				</tr>
+			
+				<tr>
+					<td>백야행</td>
+					<td>White Night</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>멜로/로맨스,미스터리,범죄,스릴러</td>
+					<td>주연-김요한 역</td>
+					<td>7,170,684,217</td>
+					<td>956,767</td>
+					<td>7,121,437,000</td>
+					<td>949,896</td>
+				</tr>
+			
+				<tr>
+					<td>썸</td>
+					<td>Some</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>346,000</td>
+					<td>1,488,328,000</td>
+					<td>237,763</td>
+				</tr>
+			
+				<tr>
+					<td>요조숙녀</td>
+					<td></td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,112 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '샬롯 르 본'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>바스티유 데이</td>
+					<td>Bastille Day</td>
+					<td>2016</td>
+					<td>미국,프랑스</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>766,892,600</td>
+					<td>96,579</td>
+					<td>766,892,600</td>
+					<td>96,579</td>
+				</tr>
+			
+				<tr>
+					<td>더 프로미스</td>
+					<td>The Promise</td>
+					<td>2016</td>
+					<td>스페인,미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>하늘을 걷는 남자</td>
+					<td>The Walk</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>2,267,273,653</td>
+					<td>238,257</td>
+					<td>2,268,499,653</td>
+					<td>238,439</td>
+				</tr>
+			
+				<tr>
+					<td>로맨틱 레시피</td>
+					<td>The Hundred-Foot Journey </td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-마거리트역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>이브 생 로랑</td>
+					<td>Yves Saint Laurent</td>
+					<td>2013</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>166,422,300</td>
+					<td>21,280</td>
+					<td>166,546,400</td>
+					<td>21,298</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,73 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '하나에 나츠키'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>디지몬 어드벤처 트라이 제6장 : 우리들의 미래</td>
+					<td>Digimon Adventure Tri. Vol.6 : Our Future</td>
+					<td>2018</td>
+					<td>일본</td>
+					<td>애니메이션,SF,액션</td>
+					<td>주연-야가미 타이치역(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>좋아하게 되는 그 순간을 ~고백실행위원회~</td>
+					<td>Moment You Fall In Love: Confess Your Love Committee</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>애니메이션,멜로/로맨스</td>
+					<td>주연(목소리)</td>
+					<td>52,072,600</td>
+					<td>6,951</td>
+					<td>52,072,600</td>
+					<td>6,951</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

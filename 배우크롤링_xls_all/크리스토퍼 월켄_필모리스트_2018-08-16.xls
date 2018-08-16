@@ -1,0 +1,411 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '크리스토퍼 월켄'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>미스터 캣</td>
+					<td>Nine Lives</td>
+					<td>2016</td>
+					<td>프랑스,중국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>181,383,750</td>
+					<td>23,350</td>
+					<td>181,383,750</td>
+					<td>23,350</td>
+				</tr>
+			
+				<tr>
+					<td>리브 어게인</td>
+					<td>One More Time</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>16,534,000</td>
+					<td>2,150</td>
+					<td>16,534,000</td>
+					<td>2,150</td>
+				</tr>
+			
+				<tr>
+					<td>정글북</td>
+					<td>The Jungle Book</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>어드벤처,드라마</td>
+					<td>주연</td>
+					<td>21,517,513,134</td>
+					<td>2,537,419</td>
+					<td>21,517,647,134</td>
+					<td>2,537,438</td>
+				</tr>
+			
+				<tr>
+					<td>부모님과 이혼하는 방법</td>
+					<td>The Family Fang</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>19,960,500</td>
+					<td>2,758</td>
+					<td>20,144,500</td>
+					<td>2,866</td>
+				</tr>
+			
+				<tr>
+					<td>저지 보이즈</td>
+					<td>Jersey Boys</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>뮤지컬,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>마지막 4중주</td>
+					<td>A Late Quartet</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-피터 미첼역</td>
+					<td>812,813,000</td>
+					<td>108,317</td>
+					<td>817,470,600</td>
+					<td>108,981</td>
+				</tr>
+			
+				<tr>
+					<td>멋진 녀석들</td>
+					<td>Stand Up Guys</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>범죄,액션,코미디</td>
+					<td>주연</td>
+					<td>5,639,000</td>
+					<td>1,134</td>
+					<td>6,439,000</td>
+					<td>1,534</td>
+				</tr>
+			
+				<tr>
+					<td>박물관을 털어라</td>
+					<td>The Maiden Heist </td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>코미디,액션,범죄</td>
+					<td>주연</td>
+					<td>270,000</td>
+					<td>54</td>
+					<td>270,000</td>
+					<td>54</td>
+				</tr>
+			
+				<tr>
+					<td>분노의 핑퐁</td>
+					<td>Balls Of Fury</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>액션,코미디,범죄</td>
+					<td>주연-펭역</td>
+					<td>717,723</td>
+					<td>103</td>
+					<td>707,000</td>
+					<td>101</td>
+				</tr>
+			
+				<tr>
+					<td>맨 오브 더 이어</td>
+					<td>Man of the Year</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>어라운드 더 벤드</td>
+					<td>Around The Bend</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>컨트리 베어스</td>
+					<td>The Country Bears</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>코미디,가족</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>데블스 워닝</td>
+					<td>Prophecy 3</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>액션,스릴러,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>141</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>도플갱어2</td>
+					<td>Trance</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>스릴러,미스터리</td>
+					<td>주연-빌 삼촌역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>벤데타</td>
+					<td>Vendetta</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>블래스트 </td>
+					<td>Blast From The Past</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>코미디,드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>뉴 로즈 호텔</td>
+					<td>New Rose Hotel</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>드라마,미스터리,SF</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>수어싸이드킹</td>
+					<td>Suicide Kings</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>코미디,드라마,스릴러,미스터리,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>5,023</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>어딕션</td>
+					<td>The Addiction</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>공포(호러),드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>285</td>
+					<td>730,000</td>
+					<td>112</td>
+				</tr>
+			
+				<tr>
+					<td>퓨너럴 </td>
+					<td>The Funeral</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>드라마,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>9,556</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>와일드 게임 </td>
+					<td>Wild Side</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>성인물(에로),스릴러,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>901</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>신의 전사</td>
+					<td>God&#039;S Army</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,177</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>비즈니스 어페어 </td>
+					<td>A Business Affair</td>
+					<td>1993</td>
+					<td>프랑스,영국,독일,스페인</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>890</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사기 방정식 </td>
+					<td>Scam</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>드라마,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>241</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>홈보이</td>
+					<td>Home Boy</td>
+					<td>1988</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>13,073</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아버지와 아들</td>
+					<td>At Close Range</td>
+					<td>1986</td>
+					<td>미국</td>
+					<td>범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>초인지대</td>
+					<td>The Dead Zone</td>
+					<td>1983</td>
+					<td>미국</td>
+					<td>드라마,공포(호러),스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>디어헌터</td>
+					<td>The Deer Hunter</td>
+					<td>1978</td>
+					<td>미국</td>
+					<td>드라마,전쟁</td>
+					<td>주연</td>
+					<td></td>
+					<td>351,631</td>
+					<td>2,148,000</td>
+					<td>394</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

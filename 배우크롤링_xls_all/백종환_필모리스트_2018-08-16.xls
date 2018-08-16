@@ -1,0 +1,86 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '백종환'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>10분</td>
+					<td>10 Minutes</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-호찬역</td>
+					<td>24,850,400</td>
+					<td>3,253</td>
+					<td>25,898,400</td>
+					<td>3,428</td>
+				</tr>
+			
+				<tr>
+					<td>지슬 - 끝나지 않은 세월2</td>
+					<td>Jiseul</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-백상병역</td>
+					<td>986,098,100</td>
+					<td>143,715</td>
+					<td>996,969,200</td>
+					<td>145,302</td>
+				</tr>
+			
+				<tr>
+					<td>지각생들</td>
+					<td>Lateness </td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-부모님역</td>
+					<td></td>
+					<td></td>
+					<td>234,143</td>
+					<td>93</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

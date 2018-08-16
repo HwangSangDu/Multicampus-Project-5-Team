@@ -1,0 +1,151 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '세바스찬 스탠'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>어벤져스: 인피니티 워</td>
+					<td>Avengers: Infinity War</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지,SF</td>
+					<td>주연</td>
+					<td>99,825,741,869</td>
+					<td>11,202,737</td>
+					<td>99,918,419,769</td>
+					<td>11,211,798</td>
+				</tr>
+			
+				<tr>
+					<td>로건 럭키</td>
+					<td>Logan Lucky</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>코미디,범죄,드라마,액션</td>
+					<td>주연</td>
+					<td>180,242,600</td>
+					<td>23,339</td>
+					<td>180,226,600</td>
+					<td>23,336</td>
+				</tr>
+			
+				<tr>
+					<td>아이, 토냐</td>
+					<td>I, Tonya </td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>114,741,400</td>
+					<td>14,002</td>
+					<td>114,741,400</td>
+					<td>14,002</td>
+				</tr>
+			
+				<tr>
+					<td>캡틴 아메리카: 시빌 워</td>
+					<td>Captain America: Civil War</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션,SF,스릴러</td>
+					<td>주연</td>
+					<td>72,672,111,827</td>
+					<td>8,677,249</td>
+					<td>72,675,171,827</td>
+					<td>8,677,555</td>
+				</tr>
+			
+				<tr>
+					<td>어바웃 리키</td>
+					<td>Ricki and the Flash</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>122,501,900</td>
+					<td>16,404</td>
+					<td>123,557,900</td>
+					<td>16,536</td>
+				</tr>
+			
+				<tr>
+					<td>로스트</td>
+					<td>gone</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>미스터리,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>유령</td>
+					<td>The Apparition</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>스릴러,공포(호러)</td>
+					<td>주연-벤 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>찰리 뱅스의 교육</td>
+					<td>The Education of Charlie Banks</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

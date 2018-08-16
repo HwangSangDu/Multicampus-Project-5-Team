@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '김고은'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>군함도</td>
+					<td>The Battleship Island</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>액션,드라마</td>
+					<td>단역-조선 소녀1역</td>
+					<td>50,510,565,168</td>
+					<td>6,592,151</td>
+					<td>50,510,565,168</td>
+					<td>6,592,151</td>
+				</tr>
+			
+				<tr>
+					<td>히치하이크</td>
+					<td>A Haunting Hitchhike</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>가족</td>
+					<td>주연-임효정역</td>
+					<td></td>
+					<td></td>
+					<td>1,152,200</td>
+					<td>172</td>
+				</tr>
+			
+				<tr>
+					<td>굿바이 싱글</td>
+					<td>Familyhood</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>조연-옥희역</td>
+					<td>16,912,706,195</td>
+					<td>2,108,273</td>
+					<td>16,913,282,195</td>
+					<td>2,108,561</td>
+				</tr>
+			
+				<tr>
+					<td>해어화</td>
+					<td>LOVE, LIES</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>사극,드라마</td>
+					<td>단역-하품선배(아역)역</td>
+					<td>3,768,200,759</td>
+					<td>485,695</td>
+					<td>3,768,200,759</td>
+					<td>485,695</td>
+				</tr>
+			
+				<tr>
+					<td>미스터 고</td>
+					<td>Mr. Go </td>
+					<td>2013</td>
+					<td>한국,중국</td>
+					<td>코미디,드라마</td>
+					<td>조연-쑤니역</td>
+					<td>9,337,990,000</td>
+					<td>1,328,890</td>
+					<td>9,339,014,000</td>
+					<td>1,329,061</td>
+				</tr>
+			
+				<tr>
+					<td>미나문방구</td>
+					<td>Happiness for Sale</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>조연-소영역</td>
+					<td>2,247,017,000</td>
+					<td>334,323</td>
+					<td>2,247,017,000</td>
+					<td>334,323</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

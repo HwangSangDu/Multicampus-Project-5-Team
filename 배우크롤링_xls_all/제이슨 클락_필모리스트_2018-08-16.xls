@@ -1,0 +1,177 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '제이슨 클락'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>윈체스터</td>
+					<td>Winchester</td>
+					<td>2018</td>
+					<td>호주,미국</td>
+					<td>판타지,공포(호러),미스터리,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>퍼스트 맨</td>
+					<td>First Man</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>철의 심장을 가진 남자</td>
+					<td>The Man with the Iron Heart</td>
+					<td>2017</td>
+					<td>프랑스,영국,벨기에,미국</td>
+					<td>액션,스릴러,전쟁</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,710,000</td>
+					<td>201</td>
+				</tr>
+			
+				<tr>
+					<td>에베레스트</td>
+					<td>Everest</td>
+					<td>2015</td>
+					<td>미국,영국</td>
+					<td>어드벤처,드라마,스릴러</td>
+					<td>주연</td>
+					<td>3,055,119,748</td>
+					<td>332,180</td>
+					<td>3,055,119,748</td>
+					<td>332,180</td>
+				</tr>
+			
+				<tr>
+					<td>터미네이터 제니시스</td>
+					<td>Terminator Genisys</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션,어드벤처,SF,스릴러</td>
+					<td>주연</td>
+					<td>26,556,715,129</td>
+					<td>3,240,370</td>
+					<td>26,556,715,129</td>
+					<td>3,240,370</td>
+				</tr>
+			
+				<tr>
+					<td>혹성탈출: 반격의 서막</td>
+					<td>Dawn of the Planet of the Apes</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>액션,드라마,SF,스릴러</td>
+					<td>주연</td>
+					<td>31,514,053,095</td>
+					<td>4,002,560</td>
+					<td>31,514,053,095</td>
+					<td>4,002,560</td>
+				</tr>
+			
+				<tr>
+					<td>제로 다크 서티</td>
+					<td>Zero Dark Thirty</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>전쟁,액션,스릴러</td>
+					<td>주연</td>
+					<td>780,080,000</td>
+					<td>108,991</td>
+					<td>780,267,000</td>
+					<td>109,012</td>
+				</tr>
+			
+				<tr>
+					<td>로우리스: 나쁜 영웅들</td>
+					<td>Lawless</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션,범죄</td>
+					<td>주연</td>
+					<td>468,141,666</td>
+					<td>66,468</td>
+					<td>468,390,166</td>
+					<td>66,504</td>
+				</tr>
+			
+				<tr>
+					<td>텍사스 킬링 필드 </td>
+					<td>Texas Killing Fields</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>휴먼 컨트랙트</td>
+					<td>THE HUMAN CONTRACT</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-줄리안역</td>
+					<td>100,000</td>
+					<td>20</td>
+					<td>100,000</td>
+					<td>20</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

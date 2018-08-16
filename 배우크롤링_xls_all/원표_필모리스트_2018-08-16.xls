@@ -1,0 +1,554 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '원표'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>태극권 2014 : 어전시위</td>
+					<td>THE GUARDSMAN</td>
+					<td>2013</td>
+					<td>중국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>8,122,000</td>
+					<td>2,579</td>
+					<td>8,122,000</td>
+					<td>2,579</td>
+				</tr>
+			
+				<tr>
+					<td>엽문 3</td>
+					<td>The Legend is Born - Ip Man</td>
+					<td>2010</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연-엽문의 대사형, 오중소 역</td>
+					<td>49,000</td>
+					<td>7</td>
+					<td>49,000</td>
+					<td>7</td>
+				</tr>
+			
+				<tr>
+					<td>신 소림사 - 쿵푸마스터</td>
+					<td>Kung Fu Master</td>
+					<td>2010</td>
+					<td>중국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>무문제 2</td>
+					<td>No Problem 2</td>
+					<td>2002</td>
+					<td>홍콩</td>
+					<td>액션,코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>철권</td>
+					<td>God Of Fist Style</td>
+					<td>2001</td>
+					<td>홍콩</td>
+					<td>액션,판타지,SF</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>흑우</td>
+					<td>Black Rain</td>
+					<td>2000</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>692</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>마영정</td>
+					<td>Mayoungzhen</td>
+					<td>1997</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,310</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>탈출 : 당안 X 살인범</td>
+					<td>File X Murderer</td>
+					<td>1997</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>용재소림(소림칠금강)</td>
+					<td>Dragon In Shaolin</td>
+					<td>1996</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>육지금마 </td>
+					<td>Deadful Melody</td>
+					<td>1993</td>
+					<td>홍콩</td>
+					<td>사극,액션,어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>23,296</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>벽혈신검 </td>
+					<td>The Sword Stainde From Royal Blood</td>
+					<td>1993</td>
+					<td>홍콩</td>
+					<td>사극,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>6,645</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>비각칠</td>
+					<td>Kick Boxer</td>
+					<td>1993</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>27,277</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>서장소자</td>
+					<td>A Kid From Tibet</td>
+					<td>1991</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>감독,주연,시나리오(각본)</td>
+					<td>0</td>
+					<td>41,861</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>황비홍</td>
+					<td>Once Upon A Time In China</td>
+					<td>1991</td>
+					<td>홍콩</td>
+					<td>액션,어드벤처,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>434,739</td>
+					<td>248,200</td>
+					<td>44</td>
+				</tr>
+			
+				<tr>
+					<td>용봉타적</td>
+					<td>License To Steal</td>
+					<td>1990</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>13,362</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>샹하이 샹하이</td>
+					<td>Shanghai Shanghai</td>
+					<td>1990</td>
+					<td>홍콩</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>23,833</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>공작왕 2 아수라</td>
+					<td>Saga Of The Pheonix</td>
+					<td>1990</td>
+					<td>홍콩</td>
+					<td>액션,어드벤처,코미디,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>55,469</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>청옥불</td>
+					<td>Iceman Cometh</td>
+					<td>1989</td>
+					<td>홍콩</td>
+					<td>액션,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>57,703</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>성룡의 미라클</td>
+					<td>Miracle</td>
+					<td>1989</td>
+					<td>홍콩</td>
+					<td>범죄,액션,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>232,963</td>
+					<td>5,050,000</td>
+					<td>5,190</td>
+				</tr>
+			
+				<tr>
+					<td>신룡쌍포</td>
+					<td>Rosa</td>
+					<td>1988</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>4,025</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>마담킬러</td>
+					<td>On The Run</td>
+					<td>1988</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>4,633</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>공작왕</td>
+					<td>Peacock Prince</td>
+					<td>1988</td>
+					<td>홍콩</td>
+					<td>SF,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>138,315</td>
+					<td>1,140,000</td>
+					<td>332</td>
+				</tr>
+			
+				<tr>
+					<td>화중선</td>
+					<td>Picture Of A Nymph</td>
+					<td>1988</td>
+					<td>홍콩</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>33,838</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>극도추종</td>
+					<td>On The Run</td>
+					<td>1988</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>비룡맹장</td>
+					<td>Dragons Forever</td>
+					<td>1987</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>179,985</td>
+					<td>3,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>동방독응</td>
+					<td>Eastern Condors</td>
+					<td>1987</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>50,197</td>
+					<td>14,000</td>
+					<td>2</td>
+				</tr>
+			
+				<tr>
+					<td>영환도사 </td>
+					<td>Mr. Vampire Part 2</td>
+					<td>1987</td>
+					<td>홍콩</td>
+					<td>공포(호러),코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>100,842</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>강시선생 2</td>
+					<td>Mr. Vampire II</td>
+					<td>1986</td>
+					<td>홍콩</td>
+					<td>공포(호러),코미디</td>
+					<td>주연</td>
+					<td>160,000</td>
+					<td>40</td>
+					<td>469,000</td>
+					<td>87</td>
+				</tr>
+			
+				<tr>
+					<td>사대선봉</td>
+					<td>Right Wrongs</td>
+					<td>1986</td>
+					<td>홍콩</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>47,262</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>부귀열차 </td>
+					<td>Millionaires Express</td>
+					<td>1986</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>73,379</td>
+					<td>2,565,000</td>
+					<td>1,470</td>
+				</tr>
+			
+				<tr>
+					<td>복성고조</td>
+					<td>My Lucky Stars</td>
+					<td>1985</td>
+					<td>홍콩</td>
+					<td>액션,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>337,006</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>쾌찬차 </td>
+					<td>Wheels On Meals</td>
+					<td>1984</td>
+					<td>홍콩</td>
+					<td>액션,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>307,751</td>
+					<td>146,000</td>
+					<td>23</td>
+				</tr>
+			
+				<tr>
+					<td>파우 </td>
+					<td>The Campions</td>
+					<td>1983</td>
+					<td>홍콩</td>
+					<td>드라마,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>49,355</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>프로젝트 A</td>
+					<td>Project A</td>
+					<td>1983</td>
+					<td>홍콩</td>
+					<td>액션,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>396,434</td>
+					<td>50,000</td>
+					<td>6</td>
+				</tr>
+			
+				<tr>
+					<td>신촉산</td>
+					<td>THE WARRIORS FROM THE MAGIC MOUNTAIN</td>
+					<td>1983</td>
+					<td></td>
+					<td>액션,공포(호러)</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>16,422</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>촉산</td>
+					<td>The Warriors From The Magic Mountain</td>
+					<td>1983</td>
+					<td>홍콩</td>
+					<td>액션,공포(호러)</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>136,064</td>
+					<td>4,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>잡가소수</td>
+					<td>Knockabout</td>
+					<td>1979</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>920,000</td>
+					<td>328</td>
+					<td>920,000</td>
+					<td>328</td>
+				</tr>
+			
+				<tr>
+					<td>인자무적</td>
+					<td>The Magnificent Butcher</td>
+					<td>1979</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>168,138</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>소림사-인자무적</td>
+					<td>The Magnificent Butcher</td>
+					<td>1979</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

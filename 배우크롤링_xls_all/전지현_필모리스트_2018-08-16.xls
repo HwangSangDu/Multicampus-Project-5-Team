@@ -1,0 +1,203 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '전지현'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>암살</td>
+					<td>Assassination</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>액션,드라마</td>
+					<td>주연-안옥윤역</td>
+					<td>98,463,132,781</td>
+					<td>12,705,700</td>
+					<td>98,467,187,781</td>
+					<td>12,706,663</td>
+				</tr>
+			
+				<tr>
+					<td>베를린</td>
+					<td>The Berlin File</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>주연-련정희역</td>
+					<td>52,354,931,637</td>
+					<td>7,166,199</td>
+					<td>52,357,124,637</td>
+					<td>7,166,532</td>
+				</tr>
+			
+				<tr>
+					<td>도둑들</td>
+					<td>The Thieves</td>
+					<td>2012</td>
+					<td>한국,홍콩</td>
+					<td>액션,범죄</td>
+					<td>주연-예니콜역</td>
+					<td>93,665,568,500</td>
+					<td>12,983,330</td>
+					<td>93,667,250,500</td>
+					<td>12,983,841</td>
+				</tr>
+			
+				<tr>
+					<td>도둑들 영화를 만들다</td>
+					<td></td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마,다큐멘터리</td>
+					<td>주연-예니콜역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>블러드</td>
+					<td>Blood: The Last Vampire</td>
+					<td>2009</td>
+					<td>홍콩,프랑스,중국</td>
+					<td>액션,공포(호러),스릴러</td>
+					<td>주연-사야역</td>
+					<td>701,370,482</td>
+					<td>103,918</td>
+					<td>690,891,500</td>
+					<td>102,372</td>
+				</tr>
+			
+				<tr>
+					<td>슈퍼맨이었던 사나이</td>
+					<td>A Man Who Was Superman</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>3,688,309,333</td>
+					<td>559,705</td>
+					<td>3,642,192,500</td>
+					<td>550,284</td>
+				</tr>
+			
+				<tr>
+					<td>데이지</td>
+					<td>Daisy</td>
+					<td>2006</td>
+					<td>한국,네덜란드,홍콩</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,023,096</td>
+					<td>5,754,065,300</td>
+					<td>911,420</td>
+				</tr>
+			
+				<tr>
+					<td>내 여자친구를 소개합니다</td>
+					<td>Windstruck</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연-여경진역</td>
+					<td>0</td>
+					<td>2,199,359</td>
+					<td>8,329,341,500</td>
+					<td>1,298,666</td>
+				</tr>
+			
+				<tr>
+					<td>4인용 식탁</td>
+					<td>The Uninvited</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>공포(호러),미스터리,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td>717,494</td>
+					<td>38,000</td>
+					<td>8</td>
+				</tr>
+			
+				<tr>
+					<td>엽기적인 그녀</td>
+					<td>My Sassy Girl</td>
+					<td>2001</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연-그녀역</td>
+					<td>0</td>
+					<td>1,735,692</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>시월애</td>
+					<td>Il Mare</td>
+					<td>2000</td>
+					<td>한국</td>
+					<td>멜로/로맨스,판타지</td>
+					<td>주연-은주역</td>
+					<td>0</td>
+					<td>248,597</td>
+					<td>3,226,000</td>
+					<td>639</td>
+				</tr>
+			
+				<tr>
+					<td>화이트 발렌타인</td>
+					<td>White Valentine</td>
+					<td>1999</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연-정민역</td>
+					<td>0</td>
+					<td>26,343</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

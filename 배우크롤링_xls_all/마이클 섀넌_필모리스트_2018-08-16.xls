@@ -1,0 +1,268 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '마이클 섀넌'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>12 솔져스</td>
+					<td>12 Strong</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>액션,드라마,전쟁</td>
+					<td>주연</td>
+					<td>1,833,626,400</td>
+					<td>223,740</td>
+					<td>1,833,626,400</td>
+					<td>223,740</td>
+				</tr>
+			
+				<tr>
+					<td>셰이프 오브 워터: 사랑의 모양</td>
+					<td>The Shape of Water</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>어드벤처,판타지</td>
+					<td>주연</td>
+					<td>4,211,385,400</td>
+					<td>506,408</td>
+					<td>4,212,093,600</td>
+					<td>506,487</td>
+				</tr>
+			
+				<tr>
+					<td>커런트 워</td>
+					<td>The Current War</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-조지 웨스팅하우스 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>러빙</td>
+					<td>LOVING</td>
+					<td>2016</td>
+					<td>미국,영국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-그레이 빌렛 역역</td>
+					<td>81,209,600</td>
+					<td>10,604</td>
+					<td>81,209,600</td>
+					<td>10,604</td>
+				</tr>
+			
+				<tr>
+					<td>녹터널 애니멀스</td>
+					<td>Nocturnal Animals</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td>295,934,079</td>
+					<td>35,881</td>
+					<td>295,934,079</td>
+					<td>35,881</td>
+				</tr>
+			
+				<tr>
+					<td>엘비스와 대통령</td>
+					<td>Elvis &amp; Nixon</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>3,660,500</td>
+					<td>520</td>
+					<td>3,695,500</td>
+					<td>527</td>
+				</tr>
+			
+				<tr>
+					<td>솔트 앤 파이어</td>
+					<td>Salt and Fire</td>
+					<td>2016</td>
+					<td>미국,프랑스,독일,멕시코</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>컴플리트 언노운</td>
+					<td>Complete Unknown</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>드라마,미스터리,스릴러</td>
+					<td>주연-톰 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>로렐</td>
+					<td>Laurel</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>62,368,400</td>
+					<td>8,289</td>
+					<td>64,499,400</td>
+					<td>8,509</td>
+				</tr>
+			
+				<tr>
+					<td>라스트 홈</td>
+					<td>99 HOMES</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>118,479,000</td>
+					<td>15,258</td>
+					<td>118,656,000</td>
+					<td>15,283</td>
+				</tr>
+			
+				<tr>
+					<td>영원스</td>
+					<td>Young Ones</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>SF,드라마,액션</td>
+					<td>주연-어니스트 레버 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아이스맨</td>
+					<td>The Iceman</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>범죄,드라마,스릴러</td>
+					<td>주연</td>
+					<td>10,518,000</td>
+					<td>10,910</td>
+					<td>10,518,000</td>
+					<td>10,910</td>
+				</tr>
+			
+				<tr>
+					<td>머드 </td>
+					<td>Mud</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>206,252,500</td>
+					<td>28,507</td>
+					<td>208,202,500</td>
+					<td>28,766</td>
+				</tr>
+			
+				<tr>
+					<td>테이크 쉘터 </td>
+					<td>Take shelter</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연-커티스역</td>
+					<td>39,916,900</td>
+					<td>5,324</td>
+					<td>42,076,400</td>
+					<td>5,620</td>
+				</tr>
+			
+				<tr>
+					<td>머신건 프리처</td>
+					<td>Machinegun Preacher</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>액션,드라마,범죄</td>
+					<td>조연</td>
+					<td>197,366,500</td>
+					<td>26,640</td>
+					<td>197,366,500</td>
+					<td>26,640</td>
+				</tr>
+			
+				<tr>
+					<td>샷건 스토리즈</td>
+					<td>Shotgun Stories</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>54,000</td>
+					<td>11</td>
+				</tr>
+			
+				<tr>
+					<td>버그</td>
+					<td>Bug</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,130,000</td>
+					<td>168</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,203 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '티아 카레르'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>팜스윙스 스와핑클럽</td>
+					<td>PALM SWINGS</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>300,000</td>
+					<td>60</td>
+					<td>300,000</td>
+					<td>60</td>
+				</tr>
+			
+				<tr>
+					<td>코어 임팩트: 행성 충돌</td>
+					<td>Asteroid vs Earth</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>액션,SF</td>
+					<td>주연</td>
+					<td>4,000</td>
+					<td>1</td>
+					<td>4,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>파이널 리코스</td>
+					<td>Final Recourse </td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연-미셸 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>논스톱 액시던트</td>
+					<td>COLLISION COURSE</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션,드라마,어드벤처</td>
+					<td>주연</td>
+					<td>40,000</td>
+					<td>10</td>
+					<td>40,000</td>
+					<td>10</td>
+				</tr>
+			
+				<tr>
+					<td>슈퍼노바</td>
+					<td>Supernova</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>액션,어드벤처,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스티치 무비</td>
+					<td>Stitch! The Movie</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>애니메이션,코미디,가족</td>
+					<td>주연(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>호스맨</td>
+					<td>The Night of the Headless Horseman</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>애니메이션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스카 시티</td>
+					<td>Scarred City</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>스릴러,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>585</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>굿모닝 스쿨</td>
+					<td>High School High</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>34</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>갈색 유혹</td>
+					<td>Treacherous</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스트립퍼 배심원</td>
+					<td>Jury Duty</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연-모니카 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>웨인즈 월드</td>
+					<td>Waynes World</td>
+					<td>1992</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>7,582</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

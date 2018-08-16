@@ -1,0 +1,151 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '브라이스 달라스 하워드'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>쥬라기 월드: 폴른 킹덤</td>
+					<td>JURASSIC WORLD: FALLEN KINGDOM</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>액션,어드벤처,SF</td>
+					<td>주연</td>
+					<td>48,576,443,937</td>
+					<td>5,519,298</td>
+					<td>49,770,711,037</td>
+					<td>5,661,128</td>
+				</tr>
+			
+				<tr>
+					<td>골드</td>
+					<td>Gold</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>드라마,어드벤처</td>
+					<td>주연</td>
+					<td>195,316,900</td>
+					<td>25,612</td>
+					<td>195,316,900</td>
+					<td>25,612</td>
+				</tr>
+			
+				<tr>
+					<td>피터와 드래곤</td>
+					<td>Pete&#039;s Dragon</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>어드벤처,가족,판타지</td>
+					<td>주연</td>
+					<td>865,600,600</td>
+					<td>109,137</td>
+					<td>865,600,600</td>
+					<td>109,137</td>
+				</tr>
+			
+				<tr>
+					<td>쥬라기 월드</td>
+					<td>Jurassic World</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션,어드벤처,SF</td>
+					<td>주연</td>
+					<td>47,800,698,826</td>
+					<td>5,546,792</td>
+					<td>47,800,916,826</td>
+					<td>5,546,823</td>
+				</tr>
+			
+				<tr>
+					<td>헬프</td>
+					<td>The Help</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-힐리 홀브룩 역</td>
+					<td>1,131,348,500</td>
+					<td>155,070</td>
+					<td>1,131,972,500</td>
+					<td>155,148</td>
+				</tr>
+			
+				<tr>
+					<td>레이디 인 더 워터</td>
+					<td>Lady In The Water</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>판타지</td>
+					<td>주연-스토리역</td>
+					<td>0</td>
+					<td>138,462</td>
+					<td>675,177,000</td>
+					<td>110,267</td>
+				</tr>
+			
+				<tr>
+					<td>만덜레이</td>
+					<td>Manderlay</td>
+					<td>2005</td>
+					<td>스웨덴</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,223</td>
+					<td>7,504,000</td>
+					<td>1,088</td>
+				</tr>
+			
+				<tr>
+					<td>빌리지</td>
+					<td>The Village</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>542,950</td>
+					<td>2,507,016,000</td>
+					<td>378,950</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

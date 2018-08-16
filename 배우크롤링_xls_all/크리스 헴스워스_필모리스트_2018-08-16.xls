@@ -1,0 +1,242 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '크리스 헴스워스'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>어벤져스: 인피니티 워</td>
+					<td>Avengers: Infinity War</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지,SF</td>
+					<td>주연</td>
+					<td>99,825,741,869</td>
+					<td>11,202,737</td>
+					<td>99,918,419,769</td>
+					<td>11,211,798</td>
+				</tr>
+			
+				<tr>
+					<td>12 솔져스</td>
+					<td>12 Strong</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>액션,드라마,전쟁</td>
+					<td>주연</td>
+					<td>1,833,626,400</td>
+					<td>223,740</td>
+					<td>1,833,626,400</td>
+					<td>223,740</td>
+				</tr>
+			
+				<tr>
+					<td>토르: 라그나로크</td>
+					<td>THOR: RAGNAROK</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지,SF</td>
+					<td>주연</td>
+					<td>39,248,432,595</td>
+					<td>4,857,152</td>
+					<td>39,251,492,595</td>
+					<td>4,857,458</td>
+				</tr>
+			
+				<tr>
+					<td>고스트버스터즈</td>
+					<td>Ghostbusters</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,코미디,SF</td>
+					<td>주연</td>
+					<td>4,116,292,075</td>
+					<td>515,522</td>
+					<td>4,116,570,075</td>
+					<td>515,553</td>
+				</tr>
+			
+				<tr>
+					<td>헌츠맨: 윈터스 워</td>
+					<td>The Huntsman: Winter&#039;s War</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,어드벤처</td>
+					<td>주연</td>
+					<td>3,544,262,706</td>
+					<td>445,009</td>
+					<td>3,544,262,706</td>
+					<td>445,009</td>
+				</tr>
+			
+				<tr>
+					<td>하트 오브 더 씨</td>
+					<td>In the Heart of the Sea</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션,어드벤처,드라마</td>
+					<td>주연</td>
+					<td>6,780,844,023</td>
+					<td>809,827</td>
+					<td>6,780,844,023</td>
+					<td>809,827</td>
+				</tr>
+			
+				<tr>
+					<td>블랙코드</td>
+					<td>Blackhat</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션,범죄,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>어벤져스: 에이지 오브 울트론</td>
+					<td>The Avengers: Age of Ultron</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지,SF</td>
+					<td>주연</td>
+					<td>88,582,586,366</td>
+					<td>10,494,499</td>
+					<td>88,582,586,366</td>
+					<td>10,494,499</td>
+				</tr>
+			
+				<tr>
+					<td>토르: 다크 월드</td>
+					<td>Thor: The Dark World </td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지</td>
+					<td>주연-토르역</td>
+					<td>22,525,808,500</td>
+					<td>3,039,889</td>
+					<td>22,525,808,500</td>
+					<td>3,039,889</td>
+				</tr>
+			
+				<tr>
+					<td>러시 : 더 라이벌</td>
+					<td>Rush</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>액션,드라마</td>
+					<td>주연</td>
+					<td>931,998,000</td>
+					<td>126,994</td>
+					<td>932,342,000</td>
+					<td>127,037</td>
+				</tr>
+			
+				<tr>
+					<td>캐빈 인 더 우즈</td>
+					<td>The Cabin in the Woods</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td>1,710,273,500</td>
+					<td>228,090</td>
+					<td>1,712,371,800</td>
+					<td>228,433</td>
+				</tr>
+			
+				<tr>
+					<td>스노우 화이트 앤 더 헌츠맨</td>
+					<td>Snow White And The Huntsman</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지</td>
+					<td>주연-헌츠맨 역</td>
+					<td>4,646,250,000</td>
+					<td>636,631</td>
+					<td>4,646,250,000</td>
+					<td>636,631</td>
+				</tr>
+			
+				<tr>
+					<td>어벤져스</td>
+					<td>The Avengers</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션,SF</td>
+					<td>주연-토르역</td>
+					<td>59,557,853,478</td>
+					<td>7,074,867</td>
+					<td>59,558,111,478</td>
+					<td>7,074,891</td>
+				</tr>
+			
+				<tr>
+					<td>레드 던</td>
+					<td>Red Dawn</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연-제드 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>토르: 천둥의 신</td>
+					<td>Thor</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지</td>
+					<td>주연</td>
+					<td>15,985,407,000</td>
+					<td>1,694,529</td>
+					<td>15,985,737,000</td>
+					<td>1,694,562</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,229 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '클로비스 코르니악'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>최악의 이웃과 사랑에 빠지는 방법</td>
+					<td>Blind Date</td>
+					<td>2015</td>
+					<td>프랑스</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>감독,주연</td>
+					<td>83,832,300</td>
+					<td>10,472</td>
+					<td>84,288,300</td>
+					<td>10,523</td>
+				</tr>
+			
+				<tr>
+					<td>뚜르드 프랑스: 기적의 레이스</td>
+					<td>Grande Boucle</td>
+					<td>2013</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>1,528,000</td>
+					<td>191</td>
+					<td>1,528,000</td>
+					<td>191</td>
+				</tr>
+			
+				<tr>
+					<td>레퀴엠 포 어 킬러</td>
+					<td>Requiem for a Killer</td>
+					<td>2011</td>
+					<td>프랑스</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>100,000</td>
+					<td>10</td>
+					<td>100,000</td>
+					<td>10</td>
+				</tr>
+			
+				<tr>
+					<td>뜨거운 욕망</td>
+					<td>A BURNING DESIRE</td>
+					<td>2011</td>
+					<td>프랑스</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연-얀역</td>
+					<td>3,450,000</td>
+					<td>1,650</td>
+					<td>3,450,000</td>
+					<td>1,650</td>
+				</tr>
+			
+				<tr>
+					<td>잃어버린 황금을 찾아서</td>
+					<td>In Gold We Trust</td>
+					<td>2010</td>
+					<td>프랑스</td>
+					<td>스릴러,액션</td>
+					<td>주연</td>
+					<td>117,000</td>
+					<td>22</td>
+					<td>117,000</td>
+					<td>22</td>
+				</tr>
+			
+				<tr>
+					<td>벨라미</td>
+					<td>Bellamy</td>
+					<td>2009</td>
+					<td>프랑스</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>795,000</td>
+					<td>140</td>
+				</tr>
+			
+				<tr>
+					<td>파리 36의 기적</td>
+					<td>Paris 36</td>
+					<td>2008</td>
+					<td>프랑스,체코,독일</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>11,473,000</td>
+					<td>1,447</td>
+					<td>11,987,000</td>
+					<td>1,515</td>
+				</tr>
+			
+				<tr>
+					<td>아스테릭스: 미션 올림픽 게임</td>
+					<td>Asterix At The Olympic Games</td>
+					<td>2008</td>
+					<td>프랑스</td>
+					<td>코미디,어드벤처,가족</td>
+					<td>주연-아스테릭스역</td>
+					<td>136,849,632</td>
+					<td>21,678</td>
+					<td>134,805,000</td>
+					<td>21,355</td>
+				</tr>
+			
+				<tr>
+					<td>스콜피온</td>
+					<td>Scorpion</td>
+					<td>2007</td>
+					<td>프랑스</td>
+					<td>액션,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>140,000</td>
+					<td>24</td>
+				</tr>
+			
+				<tr>
+					<td>에덴 로그</td>
+					<td>Eden Log</td>
+					<td>2007</td>
+					<td>프랑스</td>
+					<td>공포(호러),미스터리,SF</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>마하 2.6: 풀스피드</td>
+					<td>Night Of Sky</td>
+					<td>2006</td>
+					<td>프랑스</td>
+					<td>액션,어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>51,917</td>
+					<td>306,920,000</td>
+					<td>50,443</td>
+				</tr>
+			
+				<tr>
+					<td>스네이크</td>
+					<td>The Snak</td>
+					<td>2006</td>
+					<td>프랑스</td>
+					<td>스릴러</td>
+					<td>주연-플랜더역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>니스의 브리스</td>
+					<td>Brice De Nice</td>
+					<td>2005</td>
+					<td>프랑스</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>168,500</td>
+					<td>22</td>
+				</tr>
+			
+				<tr>
+					<td>질의 아내</td>
+					<td>Gilles&#039; Wife</td>
+					<td>2004</td>
+					<td>벨기에,프랑스,룩셈부르크,이탈리아,스위스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

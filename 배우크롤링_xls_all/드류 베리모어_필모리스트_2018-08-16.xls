@@ -1,0 +1,463 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '드류 베리모어'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>미스 유 올레디</td>
+					<td>Miss You Already</td>
+					<td>2015</td>
+					<td>영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>36,295,200</td>
+					<td>4,885</td>
+					<td>36,295,200</td>
+					<td>4,885</td>
+				</tr>
+			
+				<tr>
+					<td>블렌디드</td>
+					<td>Blended</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연-로렌 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>빅 미라클</td>
+					<td>Big Miracle</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>344,139,500</td>
+					<td>51,151</td>
+					<td>344,519,500</td>
+					<td>51,232</td>
+				</tr>
+			
+				<tr>
+					<td>고잉 더 디스턴스</td>
+					<td>Going The Distance</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연-에린 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>위핏</td>
+					<td>Whip It</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>드라마,코미디</td>
+					<td>감독,주연</td>
+					<td>225,133,182</td>
+					<td>35,241</td>
+					<td>221,598,500</td>
+					<td>34,680</td>
+				</tr>
+			
+				<tr>
+					<td>그는 당신에게 반하지 않았다</td>
+					<td>He&#039;s Just Not That Into You</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연-메리역</td>
+					<td>6,471,531,867</td>
+					<td>949,324</td>
+					<td>6,375,549,000</td>
+					<td>935,168</td>
+				</tr>
+			
+				<tr>
+					<td>그레이 가든스</td>
+					<td>Grey Gardens</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>에브리바디 파인</td>
+					<td>Everybody&#039;s Fine</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>어드벤처,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>222,000</td>
+					<td>111</td>
+				</tr>
+			
+				<tr>
+					<td>비버리힐즈 치와와</td>
+					<td>Beverly Hills Chihuahua</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>어드벤처,코미디</td>
+					<td>주연(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>그 여자 작사 그 남자 작곡</td>
+					<td>Music And Lyrics</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연-소피 피셔역</td>
+					<td>0</td>
+					<td>1,103,900</td>
+					<td>6,833,188,000</td>
+					<td>1,073,095</td>
+				</tr>
+			
+				<tr>
+					<td>럭키 유</td>
+					<td>Lucky You</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>드라마,코미디</td>
+					<td>주연-빌리 오퍼역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>날 미치게하는 남자</td>
+					<td>Fever Pitch</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>120,700</td>
+					<td>677,438,000</td>
+					<td>109,955</td>
+				</tr>
+			
+				<tr>
+					<td>첫키스만 50번째</td>
+					<td>50 First Dates</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>293,376</td>
+					<td>1,498,240,200</td>
+					<td>220,294</td>
+				</tr>
+			
+				<tr>
+					<td>마이 데이트 위드 드류</td>
+					<td>My Date With Drew</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>다큐멘터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>미녀삼총사 : 맥시멈 스피드</td>
+					<td>Charlie&#039;S Angels: Full Throttle</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>액션,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,566,696</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>듀플렉스</td>
+					<td>Duplex</td>
+					<td>2003</td>
+					<td>미국,독일</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>컨페션</td>
+					<td>Confessions Of A Dangerous Mind</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>드라마,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>152,161</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>E.T. : 탄생 20주년 기념작</td>
+					<td>E.T. The Extra-Terrestrial : The 20th Anniversary</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>SF,판타지,가족,어드벤처</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>라이딩 위드 보이즈</td>
+					<td>Riding In Cars With Boys</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>8,263</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>미녀삼총사</td>
+					<td>Charlie`S Angels</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>액션,코미디</td>
+					<td>주연-딜런 샌더스역</td>
+					<td>0</td>
+					<td>526,617</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>타이탄 A.E</td>
+					<td>Titan A.E</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>애니메이션,SF</td>
+					<td>주연-아키마역(목소리)</td>
+					<td>0</td>
+					<td>20,647</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>러브 셀레모니</td>
+					<td>Skipped Parts</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>25살의 키스</td>
+					<td>Never Been Kissed</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연-조시 겔러역</td>
+					<td>0</td>
+					<td>5,560</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>에버 애프터</td>
+					<td>Ever After</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>드라마,코미디,판타지</td>
+					<td>주연-다니엘역</td>
+					<td>0</td>
+					<td>27,249</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>웨딩 싱어 </td>
+					<td>The Wedding Singer</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>65,664</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>베스트 맨 </td>
+					<td>Best Men</td>
+					<td>1997</td>
+					<td>영국</td>
+					<td>액션,코미디,스릴러,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>237</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>영 러버</td>
+					<td>Mad Love</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>37,000</td>
+					<td>15</td>
+				</tr>
+			
+				<tr>
+					<td>도플갱어</td>
+					<td>Doppelganger</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>26,922</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스케치</td>
+					<td>The Sketch Artist</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>미스터리,범죄,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>5,457</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>건 크레이지</td>
+					<td>Guncrazy</td>
+					<td>1991</td>
+					<td>미국</td>
+					<td>범죄,드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>유혹</td>
+					<td>Far From Home</td>
+					<td>1989</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>이티</td>
+					<td>E.T. The Extra-Terrestrial</td>
+					<td>1982</td>
+					<td>미국</td>
+					<td>SF,가족,어드벤처,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>618,256</td>
+					<td>61,315,500</td>
+					<td>8,039</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

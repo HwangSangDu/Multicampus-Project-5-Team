@@ -1,0 +1,164 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '히로세 스즈'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>선생님!... 좋아해도 될까요?</td>
+					<td>My Teacher</td>
+					<td>2017</td>
+					<td>일본</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>4,903,000</td>
+					<td>604</td>
+					<td>4,903,000</td>
+					<td>604</td>
+				</tr>
+			
+				<tr>
+					<td>쏘아올린 불꽃, 밑에서 볼까? 옆에서 볼까?</td>
+					<td>Fireworks, Should We See it from the Side or the Bottom?</td>
+					<td>2017</td>
+					<td>일본</td>
+					<td>애니메이션,멜로/로맨스</td>
+					<td>주연-나즈나 목소리 역역(목소리)</td>
+					<td>208,532,200</td>
+					<td>27,069</td>
+					<td>208,532,200</td>
+					<td>27,069</td>
+				</tr>
+			
+				<tr>
+					<td>세 번째 살인</td>
+					<td>The Third Murder</td>
+					<td>2017</td>
+					<td>일본</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>287,360,000</td>
+					<td>35,271</td>
+					<td>287,360,000</td>
+					<td>35,271</td>
+				</tr>
+			
+				<tr>
+					<td>치어 댄스</td>
+					<td>Let&#039;s Go, Jets</td>
+					<td>2017</td>
+					<td>일본</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>16,060,500</td>
+					<td>2,186</td>
+					<td>16,060,500</td>
+					<td>2,186</td>
+				</tr>
+			
+				<tr>
+					<td>치하야후루 상편</td>
+					<td>Chihayafuru Part 1</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>290,000</td>
+					<td>36</td>
+					<td>290,000</td>
+					<td>36</td>
+				</tr>
+			
+				<tr>
+					<td>치하야후루 하편</td>
+					<td>Chihayafuru Part 2</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>290,000</td>
+					<td>36</td>
+					<td>290,000</td>
+					<td>36</td>
+				</tr>
+			
+				<tr>
+					<td>분노</td>
+					<td>RAGE</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>234,732,537</td>
+					<td>29,061</td>
+					<td>235,703,037</td>
+					<td>29,224</td>
+				</tr>
+			
+				<tr>
+					<td>바닷마을 다이어리</td>
+					<td>Our Little Sister</td>
+					<td>2015</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>825,145,384</td>
+					<td>100,624</td>
+					<td>841,928,384</td>
+					<td>102,887</td>
+				</tr>
+			
+				<tr>
+					<td>괴물의 아이</td>
+					<td>The Boy and The Beast</td>
+					<td>2015</td>
+					<td>일본</td>
+					<td>애니메이션,판타지,어드벤처</td>
+					<td>주연</td>
+					<td>1,665,251,116</td>
+					<td>224,849</td>
+					<td>1,665,491,116</td>
+					<td>224,889</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

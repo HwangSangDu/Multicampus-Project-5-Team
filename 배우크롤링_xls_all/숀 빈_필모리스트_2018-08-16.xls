@@ -1,0 +1,424 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '숀 빈'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>드론 컨트롤러</td>
+					<td>DRONE</td>
+					<td>2017</td>
+					<td>캐나다</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>킹스글레이브: 파이널 판타지 XV</td>
+					<td>Kingsglaive Final Fantasy XV</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>애니메이션</td>
+					<td>주연-레기스역(목소리)</td>
+					<td>16,319,300</td>
+					<td>1,960</td>
+					<td>16,319,300</td>
+					<td>1,960</td>
+				</tr>
+			
+				<tr>
+					<td>언럭키맨</td>
+					<td>Any Day</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션,드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>영메시아</td>
+					<td>The Young Messiah</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>조연-세베루스역</td>
+					<td></td>
+					<td></td>
+					<td>972,000</td>
+					<td>108</td>
+				</tr>
+			
+				<tr>
+					<td>주피터 어센딩</td>
+					<td>Jupiter Ascending</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>SF,액션,어드벤처</td>
+					<td>주연</td>
+					<td>2,685,741,879</td>
+					<td>309,729</td>
+					<td>2,687,549,879</td>
+					<td>309,842</td>
+				</tr>
+			
+				<tr>
+					<td>위키드 블러드</td>
+					<td>Wicked Blood</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>액션,드라마</td>
+					<td>주연</td>
+					<td>40,480,000</td>
+					<td>5,742</td>
+					<td>40,480,000</td>
+					<td>5,742</td>
+				</tr>
+			
+				<tr>
+					<td>클린스킨</td>
+					<td>Cleanskin</td>
+					<td>2012</td>
+					<td>영국</td>
+					<td>범죄,드라마,스릴러</td>
+					<td>주연</td>
+					<td>1,000,000</td>
+					<td>200</td>
+					<td>1,000,000</td>
+					<td>200</td>
+				</tr>
+			
+				<tr>
+					<td>사일런트 힐: 레버레이션</td>
+					<td>Silent Hill : Revelation 3D</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>공포(호러),미스터리,스릴러</td>
+					<td>주연-해리 메이슨 / 크리스 드 실바역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>솔저 오브 포춘</td>
+					<td>Soldiers Of Fortune</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션,어드벤처</td>
+					<td>주연-디미도브 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>에이지 오브 히어로즈</td>
+					<td>Age Of Heroes</td>
+					<td>2011</td>
+					<td>영국</td>
+					<td>전쟁,액션</td>
+					<td>주연-잭 존스역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>퍼시 잭슨과 번개 도둑</td>
+					<td>Percy Jackson &amp; The Olympians: The Lightning Thief</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>판타지,어드벤처</td>
+					<td>주연</td>
+					<td>13,372,357,257</td>
+					<td>1,877,226</td>
+					<td>13,158,158,500</td>
+					<td>1,846,180</td>
+				</tr>
+			
+				<tr>
+					<td>데스레이스2</td>
+					<td>Death Race 2</td>
+					<td>2010</td>
+					<td>남아프리카공화국,미국</td>
+					<td>액션,스릴러</td>
+					<td>주연-마커스 케인 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>블랙 데스</td>
+					<td>Black Death</td>
+					<td>2010</td>
+					<td>영국,독일</td>
+					<td>드라마,공포(호러),미스터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>잃어버린 세계: 로스트 퓨쳐</td>
+					<td>The Lost Future</td>
+					<td>2010</td>
+					<td>독일,남아프리카공화국,미국</td>
+					<td>어드벤처,SF</td>
+					<td>주연-아말 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>힛쳐</td>
+					<td>The Hitcher</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>액션,범죄,스릴러</td>
+					<td>주연-존 라이더역</td>
+					<td>0</td>
+					<td>25,440</td>
+					<td>153,080,000</td>
+					<td>23,025</td>
+				</tr>
+			
+				<tr>
+					<td>북극</td>
+					<td>Far North</td>
+					<td>2007</td>
+					<td>영국,프랑스</td>
+					<td>범죄,드라마,멜로/로맨스,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아웃로</td>
+					<td>Outlaw</td>
+					<td>2007</td>
+					<td>영국</td>
+					<td>액션,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>다크</td>
+					<td>The Dark</td>
+					<td>2005</td>
+					<td>영국,독일</td>
+					<td>공포(호러),미스터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>반지의 제왕 : 왕의 귀환 (확장판)</td>
+					<td>The Lord of the Rings: The Return of the King </td>
+					<td>2003</td>
+					<td>뉴질랜드,미국</td>
+					<td>판타지,어드벤처,액션</td>
+					<td>조연-보로미르 역역</td>
+					<td>370,268,000</td>
+					<td>30,349</td>
+					<td>370,268,000</td>
+					<td>30,349</td>
+				</tr>
+			
+				<tr>
+					<td>반지의 제왕 : 두개의 탑 (확장판)</td>
+					<td>The Lord Of The Rings : The Two Towers</td>
+					<td>2002</td>
+					<td>뉴질랜드,미국</td>
+					<td>판타지,어드벤처,액션</td>
+					<td>조연-보로미르 역역</td>
+					<td>350,183,800</td>
+					<td>27,440</td>
+					<td>350,183,800</td>
+					<td>27,440</td>
+				</tr>
+			
+				<tr>
+					<td>반지의 제왕 : 반지원정대 (확장판)</td>
+					<td>The Lord Of The Rings : The Fellowship Of The Rings</td>
+					<td>2001</td>
+					<td>뉴질랜드,미국</td>
+					<td>판타지,어드벤처,액션</td>
+					<td>조연-보로미르 역역</td>
+					<td>470,027,900</td>
+					<td>35,758</td>
+					<td>470,027,900</td>
+					<td>35,758</td>
+				</tr>
+			
+				<tr>
+					<td>더 갱스터</td>
+					<td>Essex Boys</td>
+					<td>2000</td>
+					<td>영국</td>
+					<td>액션,스릴러,범죄</td>
+					<td>주연-제이슨역</td>
+					<td>0</td>
+					<td>1,956</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>브라보 투 제로</td>
+					<td>Bravo Two Zero</td>
+					<td>1999</td>
+					<td>남아프리카공화국,영국</td>
+					<td>전쟁,어드벤처,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>안나 까레니나</td>
+					<td>Anna Karenina</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>2,732,000</td>
+					<td>1,366</td>
+				</tr>
+			
+				<tr>
+					<td>안나까레리나</td>
+					<td>Anna Karenina</td>
+					<td>1996</td>
+					<td>네덜란드</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>115,785</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>레이디 챠타레이 </td>
+					<td>Lady Chatterley</td>
+					<td>1995</td>
+					<td>영국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>448</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>007 골든 아이 </td>
+					<td>Golden Eye</td>
+					<td>1995</td>
+					<td>영국,미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>355,498</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>블랙 뷰티</td>
+					<td>Black Beauty</td>
+					<td>1994</td>
+					<td>미국,영국</td>
+					<td>드라마,가족,어드벤처</td>
+					<td>주연-그레이역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>레이디 차탈리</td>
+					<td>Lady Chatterley</td>
+					<td>1992</td>
+					<td>영국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

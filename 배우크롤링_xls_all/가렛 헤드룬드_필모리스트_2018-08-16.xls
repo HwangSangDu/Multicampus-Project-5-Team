@@ -1,0 +1,138 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '가렛 헤드룬드'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>팬</td>
+					<td>PAN</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>판타지,어드벤처</td>
+					<td>주연-후크역</td>
+					<td>1,425,325,592</td>
+					<td>186,174</td>
+					<td>1,425,325,592</td>
+					<td>186,174</td>
+				</tr>
+			
+				<tr>
+					<td>룰라바이</td>
+					<td>Lullaby</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>8,000</td>
+					<td>1</td>
+					<td>8,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>언브로큰</td>
+					<td>Unbroken</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>액션,드라마,전쟁</td>
+					<td>주연</td>
+					<td>2,000,555,292</td>
+					<td>256,801</td>
+					<td>2,000,555,292</td>
+					<td>256,801</td>
+				</tr>
+			
+				<tr>
+					<td>온 더 로드</td>
+					<td>On the Road</td>
+					<td>2012</td>
+					<td>미국,프랑스,영국</td>
+					<td>어드벤처,드라마</td>
+					<td>주연</td>
+					<td>20,155,500</td>
+					<td>2,622</td>
+					<td>20,155,500</td>
+					<td>2,622</td>
+				</tr>
+			
+				<tr>
+					<td>트론: 새로운 시작</td>
+					<td>Tron: Legacy</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>SF,스릴러,액션</td>
+					<td>주연-샘 플린역</td>
+					<td>4,258,700,247</td>
+					<td>382,607</td>
+					<td>4,851,314,000</td>
+					<td>437,319</td>
+				</tr>
+			
+				<tr>
+					<td>데스 센텐스 </td>
+					<td>Death Sentence</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>액션,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>90,373</td>
+					<td>529,387,000</td>
+					<td>77,980</td>
+				</tr>
+			
+				<tr>
+					<td>4 브라더스</td>
+					<td>Four Brothers</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>액션,드라마,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>94,200</td>
+					<td>519,182,000</td>
+					<td>79,811</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

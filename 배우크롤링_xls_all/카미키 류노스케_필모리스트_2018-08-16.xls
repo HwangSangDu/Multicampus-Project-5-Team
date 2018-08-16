@@ -1,0 +1,255 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '카미키 류노스케'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>메리와 마녀의 꽃</td>
+					<td>Mary and The Witch’s Flower</td>
+					<td>2017</td>
+					<td>일본</td>
+					<td>애니메이션,어드벤처</td>
+					<td>주연(목소리)</td>
+					<td>4,066,234,739</td>
+					<td>535,601</td>
+					<td>4,066,564,739</td>
+					<td>535,669</td>
+				</tr>
+			
+				<tr>
+					<td>3월의 라이온 전편</td>
+					<td>March Comes in Like a Lion</td>
+					<td>2017</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>3월의 라이온 후편</td>
+					<td>March Comes in Like a Lion 2</td>
+					<td>2017</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>너의 이름은.</td>
+					<td>your name.</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>애니메이션,드라마,멜로/로맨스</td>
+					<td>주연-타치바나 타키 역역</td>
+					<td>29,564,054,156</td>
+					<td>3,673,885</td>
+					<td>29,856,853,056</td>
+					<td>3,711,443</td>
+				</tr>
+			
+				<tr>
+					<td>바쿠만</td>
+					<td>Bakuman</td>
+					<td>2015</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>29,534,900</td>
+					<td>3,653</td>
+					<td>29,582,900</td>
+					<td>3,661</td>
+				</tr>
+			
+				<tr>
+					<td>내 머릿속의 포이즌베리</td>
+					<td>Poison Berry in My Brain</td>
+					<td>2015</td>
+					<td>일본</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연-이시바시 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>렛츠락! 죽어서 하는 밴드</td>
+					<td>Too Young To Die! </td>
+					<td>2015</td>
+					<td>일본</td>
+					<td>코미디,드라마</td>
+					<td>주연-다이스케 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>신이 말하는 대로</td>
+					<td>As The Gods Will</td>
+					<td>2014</td>
+					<td>일본</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td>559,000</td>
+					<td>66</td>
+					<td>679,000</td>
+					<td>80</td>
+				</tr>
+			
+				<tr>
+					<td>키리시마가 동아리활동 그만둔대</td>
+					<td>The Kirishima Thing</td>
+					<td>2012</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>6,532,200</td>
+					<td>865</td>
+					<td>8,721,200</td>
+					<td>1,162</td>
+				</tr>
+			
+				<tr>
+					<td>마루 밑 아리에티</td>
+					<td>The Borrowers</td>
+					<td>2010</td>
+					<td>일본</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td>7,773,942,884</td>
+					<td>1,083,746</td>
+					<td>7,655,193,500</td>
+					<td>1,068,004</td>
+				</tr>
+			
+				<tr>
+					<td>썸머 워즈</td>
+					<td>Summer Wars</td>
+					<td>2009</td>
+					<td>일본</td>
+					<td>애니메이션,SF,전쟁</td>
+					<td>주연-코이소 겐지역</td>
+					<td>951,350,362</td>
+					<td>133,946</td>
+					<td>939,569,200</td>
+					<td>132,250</td>
+				</tr>
+			
+				<tr>
+					<td>리틀 디제이</td>
+					<td>Little Dj</td>
+					<td>2007</td>
+					<td>일본</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>9,844,056</td>
+					<td>1,338</td>
+					<td>9,689,500</td>
+					<td>1,317</td>
+				</tr>
+			
+				<tr>
+					<td>피아노의 숲</td>
+					<td>The Piano Forest</td>
+					<td>2007</td>
+					<td>일본</td>
+					<td>애니메이션,드라마,판타지</td>
+					<td>주연-아마미야 슈헤이역(목소리)</td>
+					<td>215,145,311</td>
+					<td>34,012</td>
+					<td>224,626,800</td>
+					<td>35,327</td>
+				</tr>
+			
+				<tr>
+					<td>머나먼 하늘로 사라진...</td>
+					<td>Into The Faraway Sky</td>
+					<td>2007</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>요괴대전쟁</td>
+					<td>The Big Spook War</td>
+					<td>2005</td>
+					<td>일본</td>
+					<td>어드벤처,SF,액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>인스톨</td>
+					<td>Install</td>
+					<td>2004</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

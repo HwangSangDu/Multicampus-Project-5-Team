@@ -1,0 +1,138 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '샘 클라플린'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>어드리프트:우리가 함께한 바다</td>
+					<td>ADRIFT </td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>2,994,000</td>
+					<td>346</td>
+				</tr>
+			
+				<tr>
+					<td>여행의 끝</td>
+					<td>Journey&#039;s End</td>
+					<td>2017</td>
+					<td>영국</td>
+					<td>전쟁</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>미 비포 유</td>
+					<td>Me Before You</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>7,662,560,490</td>
+					<td>944,981</td>
+					<td>7,663,772,990</td>
+					<td>945,172</td>
+				</tr>
+			
+				<tr>
+					<td>라이엇 클럽</td>
+					<td>The Riot Club</td>
+					<td>2014</td>
+					<td>영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>37,266,300</td>
+					<td>4,662</td>
+					<td>37,266,300</td>
+					<td>4,662</td>
+				</tr>
+			
+				<tr>
+					<td>러브, 로지</td>
+					<td>Love, Rosie</td>
+					<td>2014</td>
+					<td>영국,독일</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td>2,259,601,646</td>
+					<td>296,687</td>
+					<td>2,259,972,603</td>
+					<td>296,748</td>
+				</tr>
+			
+				<tr>
+					<td>콰이어트 원</td>
+					<td>The Quiet Ones</td>
+					<td>2014</td>
+					<td>영국,미국</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td>75,213,500</td>
+					<td>9,736</td>
+					<td>75,213,500</td>
+					<td>9,736</td>
+				</tr>
+			
+				<tr>
+					<td>잃어버린 세계: 로스트 퓨쳐</td>
+					<td>The Lost Future</td>
+					<td>2010</td>
+					<td>독일,남아프리카공화국,미국</td>
+					<td>어드벤처,SF</td>
+					<td>주연-칼렙 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

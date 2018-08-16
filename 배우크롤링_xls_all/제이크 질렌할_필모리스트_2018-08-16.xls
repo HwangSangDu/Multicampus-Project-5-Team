@@ -1,0 +1,411 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '제이크 질렌할'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>옥자</td>
+					<td>Okja</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>어드벤처,액션,드라마</td>
+					<td>주연</td>
+					<td>2,432,883,900</td>
+					<td>321,550</td>
+					<td>2,437,925,900</td>
+					<td>322,206</td>
+				</tr>
+			
+				<tr>
+					<td>라이프</td>
+					<td>Life </td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>SF,스릴러</td>
+					<td>주연</td>
+					<td>3,791,748,210</td>
+					<td>459,984</td>
+					<td>3,791,748,210</td>
+					<td>459,984</td>
+				</tr>
+			
+				<tr>
+					<td>스트롱거</td>
+					<td>STRONGER</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>녹터널 애니멀스</td>
+					<td>Nocturnal Animals</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td>295,934,079</td>
+					<td>35,881</td>
+					<td>295,934,079</td>
+					<td>35,881</td>
+				</tr>
+			
+				<tr>
+					<td>데몰리션</td>
+					<td>Demolition</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>544,916,821</td>
+					<td>66,473</td>
+					<td>545,296,821</td>
+					<td>66,549</td>
+				</tr>
+			
+				<tr>
+					<td>사우스포</td>
+					<td>Southpaw</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>드라마,액션</td>
+					<td>주연-빌리 호프역</td>
+					<td>757,831,248</td>
+					<td>100,785</td>
+					<td>757,831,248</td>
+					<td>100,785</td>
+				</tr>
+			
+				<tr>
+					<td>에베레스트</td>
+					<td>Everest</td>
+					<td>2015</td>
+					<td>미국,영국</td>
+					<td>어드벤처,드라마,스릴러</td>
+					<td>주연</td>
+					<td>3,055,119,748</td>
+					<td>332,180</td>
+					<td>3,055,119,748</td>
+					<td>332,180</td>
+				</tr>
+			
+				<tr>
+					<td>엑시덴탈 러브</td>
+					<td>Accidental Love</td>
+					<td>2015</td>
+					<td>미국,영국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td>73,820,847</td>
+					<td>9,454</td>
+					<td>73,820,847</td>
+					<td>9,454</td>
+				</tr>
+			
+				<tr>
+					<td>나이트 크롤러</td>
+					<td>Nightcrawler</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>범죄,드라마,스릴러</td>
+					<td>주연</td>
+					<td>451,041,300</td>
+					<td>55,892</td>
+					<td>454,089,300</td>
+					<td>56,299</td>
+				</tr>
+			
+				<tr>
+					<td>에너미</td>
+					<td>Enemy </td>
+					<td>2013</td>
+					<td>캐나다,스페인</td>
+					<td>미스터리,스릴러</td>
+					<td>주연</td>
+					<td>62,206,200</td>
+					<td>7,967</td>
+					<td>62,206,200</td>
+					<td>7,967</td>
+				</tr>
+			
+				<tr>
+					<td>프리즈너스</td>
+					<td>Prisoners</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>범죄,드라마,스릴러</td>
+					<td>주연-로키역</td>
+					<td>1,374,330,500</td>
+					<td>188,084</td>
+					<td>1,377,893,000</td>
+					<td>188,702</td>
+				</tr>
+			
+				<tr>
+					<td>엔드 오브 왓치</td>
+					<td>End Of Watch</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>범죄,드라마,미스터리,스릴러,액션</td>
+					<td>주연-테일러역</td>
+					<td>82,712,500</td>
+					<td>11,199</td>
+					<td>82,712,500</td>
+					<td>11,199</td>
+				</tr>
+			
+				<tr>
+					<td>소스 코드</td>
+					<td>Source Code</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>액션,SF,스릴러</td>
+					<td>주연-콜터 스티븐스역</td>
+					<td>9,640,238,500</td>
+					<td>1,277,690</td>
+					<td>9,640,238,500</td>
+					<td>1,277,690</td>
+				</tr>
+			
+				<tr>
+					<td>페르시아의 왕자: 시간의 모래</td>
+					<td>Prince Of Persia: The Sands Of Time</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지</td>
+					<td>주연</td>
+					<td>14,717,552,534</td>
+					<td>2,003,533</td>
+					<td>14,483,501,000</td>
+					<td>1,970,823</td>
+				</tr>
+			
+				<tr>
+					<td>네일드</td>
+					<td>Nailed</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>브라더스</td>
+					<td>Brothers</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>드라마,전쟁</td>
+					<td>주연</td>
+					<td>513,691,735</td>
+					<td>69,470</td>
+					<td>505,363,900</td>
+					<td>68,291</td>
+				</tr>
+			
+				<tr>
+					<td>렌디션</td>
+					<td>Rendition</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>조디악</td>
+					<td>Zodiac</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>범죄,드라마,스릴러</td>
+					<td>주연-로버트 그레이스미스역</td>
+					<td>0</td>
+					<td>182,050</td>
+					<td>1,134,477,500</td>
+					<td>172,846</td>
+				</tr>
+			
+				<tr>
+					<td>브로크백 마운틴</td>
+					<td>Brokeback Mountain</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-잭 트위스트역</td>
+					<td>0</td>
+					<td>341,242</td>
+					<td>1,367,154,800</td>
+					<td>209,558</td>
+				</tr>
+			
+				<tr>
+					<td>자헤드 - 그들만의 전쟁</td>
+					<td>Jarhead</td>
+					<td>2005</td>
+					<td>독일,미국</td>
+					<td>드라마,전쟁</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>프루프</td>
+					<td>Proof</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>투모로우</td>
+					<td>The Day After Tomorrow</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>SF</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>3,006,400</td>
+					<td>11,658,584,500</td>
+					<td>1,830,767</td>
+				</tr>
+			
+				<tr>
+					<td>굿 걸</td>
+					<td>The Good Girl</td>
+					<td>2002</td>
+					<td>미국,독일,네덜란드</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>조연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>문라이트 마일</td>
+					<td>Moonlight Mile</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>도니 다코</td>
+					<td>Donnie Darko</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>SF</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>477</td>
+					<td>625,000</td>
+					<td>87</td>
+				</tr>
+			
+				<tr>
+					<td>러브리 &amp; 어메이징</td>
+					<td>Lovely &amp; Amazing</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>버블 보이</td>
+					<td>Bubble Boy</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>옥토버 스카이</td>
+					<td>October Sky</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>드라마,가족</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

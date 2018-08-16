@@ -1,0 +1,86 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '조려영'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>몽키킹3: 서유기 여인왕국</td>
+					<td>The Monkey King 3</td>
+					<td>2018</td>
+					<td>중국,홍콩</td>
+					<td>판타지,액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>승풍파랑</td>
+					<td>Duckweed</td>
+					<td>2017</td>
+					<td>홍콩</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>1,973,000</td>
+					<td>394</td>
+					<td>2,258,000</td>
+					<td>448</td>
+				</tr>
+			
+				<tr>
+					<td>궁</td>
+					<td>The Palace</td>
+					<td>2013</td>
+					<td>중국</td>
+					<td>사극,멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>56,000</td>
+					<td>10</td>
+					<td>56,000</td>
+					<td>10</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

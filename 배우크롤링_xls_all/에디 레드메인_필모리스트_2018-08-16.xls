@@ -1,0 +1,164 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '에디 레드메인'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>얼리맨</td>
+					<td>Early Man</td>
+					<td>2018</td>
+					<td>영국</td>
+					<td>애니메이션</td>
+					<td>주연-더그역(목소리)</td>
+					<td>939,872,000</td>
+					<td>122,359</td>
+					<td>939,872,000</td>
+					<td>122,359</td>
+				</tr>
+			
+				<tr>
+					<td>신비한 동물들과 그린델왈드의 범죄</td>
+					<td>Fantastic Beasts: The Crimes of Grindelwald</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>판타지</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>신비한 동물사전</td>
+					<td>Fantastic Beasts and Where to Find Them</td>
+					<td>2016</td>
+					<td>미국,영국</td>
+					<td>어드벤처,가족,판타지</td>
+					<td>주연</td>
+					<td>39,337,263,058</td>
+					<td>4,666,993</td>
+					<td>39,339,534,058</td>
+					<td>4,667,179</td>
+				</tr>
+			
+				<tr>
+					<td>대니쉬 걸</td>
+					<td>The Danish Girl</td>
+					<td>2015</td>
+					<td>미국,영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>1,074,763,884</td>
+					<td>134,029</td>
+					<td>1,074,963,884</td>
+					<td>134,079</td>
+				</tr>
+			
+				<tr>
+					<td>사랑에 대한 모든 것</td>
+					<td>The Theory of Everything</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>2,162,660,589</td>
+					<td>278,015</td>
+					<td>2,163,184,089</td>
+					<td>278,087</td>
+				</tr>
+			
+				<tr>
+					<td>마릴린 먼로와 함께한 일주일</td>
+					<td>My Week With Marilyn</td>
+					<td>2011</td>
+					<td>영국,미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>148,370,000</td>
+					<td>19,387</td>
+					<td>150,402,800</td>
+					<td>19,660</td>
+				</tr>
+			
+				<tr>
+					<td>파우더 블루</td>
+					<td>Powder Blue</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사랑을 위한 여행</td>
+					<td>The Yellow Handkerchief</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>4,050,000</td>
+					<td>810</td>
+					<td>4,050,000</td>
+					<td>810</td>
+				</tr>
+			
+				<tr>
+					<td>세비지 그레이스</td>
+					<td>Savage Grace</td>
+					<td>2007</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연-안토니 베이클랜드역</td>
+					<td>88,603,805</td>
+					<td>12,288</td>
+					<td>89,611,000</td>
+					<td>12,506</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

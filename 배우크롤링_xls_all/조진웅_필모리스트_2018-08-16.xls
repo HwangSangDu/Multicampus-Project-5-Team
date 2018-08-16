@@ -1,0 +1,619 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '조진웅'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>광대들(가제)</td>
+					<td></td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>사극</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>완벽한 타인</td>
+					<td>Intimate Strangers</td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>공작</td>
+					<td>The Spy Gone North</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>26,572,917,886</td>
+					<td>3,099,024</td>
+				</tr>
+			
+				<tr>
+					<td>독전: 익스텐디드 컷</td>
+					<td></td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>범죄,액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>844,556,600</td>
+					<td>137,753</td>
+				</tr>
+			
+				<tr>
+					<td>독전</td>
+					<td>Believer</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>범죄,액션</td>
+					<td>주연-원호역</td>
+					<td>43,314,359,313</td>
+					<td>5,043,827</td>
+					<td>43,483,401,913</td>
+					<td>5,063,433</td>
+				</tr>
+			
+				<tr>
+					<td>대장 김창수</td>
+					<td>MAN OF WILL </td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-김창수 역</td>
+					<td>2,879,121,115</td>
+					<td>381,483</td>
+					<td>2,879,121,115</td>
+					<td>381,483</td>
+				</tr>
+			
+				<tr>
+					<td>해빙</td>
+					<td>Bluebeard</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>주연-승훈역</td>
+					<td>9,905,406,822</td>
+					<td>1,204,600</td>
+					<td>9,905,406,822</td>
+					<td>1,204,600</td>
+				</tr>
+			
+				<tr>
+					<td>마차 타고 고래고래</td>
+					<td>Blue Busking</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역</td>
+					<td>74,943,500</td>
+					<td>8,971</td>
+					<td>74,943,500</td>
+					<td>8,971</td>
+				</tr>
+			
+				<tr>
+					<td>보안관</td>
+					<td>The Sheriff In Town</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>범죄,코미디</td>
+					<td>주연-종진역</td>
+					<td>20,844,405,409</td>
+					<td>2,588,617</td>
+					<td>20,844,488,409</td>
+					<td>2,588,628</td>
+				</tr>
+			
+				<tr>
+					<td>사냥</td>
+					<td>The Hunt</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>주연-박동근,박명근역</td>
+					<td>4,912,658,515</td>
+					<td>645,922</td>
+					<td>4,912,658,515</td>
+					<td>645,922</td>
+				</tr>
+			
+				<tr>
+					<td>아가씨</td>
+					<td>The Handmaiden</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>스릴러,드라마</td>
+					<td>주연-이모부역</td>
+					<td>35,211,229,991</td>
+					<td>4,287,839</td>
+					<td>35,219,128,991</td>
+					<td>4,288,750</td>
+				</tr>
+			
+				<tr>
+					<td>아가씨(확장판)</td>
+					<td>The Handmaiden</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>스릴러,드라마</td>
+					<td>주연-이모부역</td>
+					<td></td>
+					<td></td>
+					<td>106,018,200</td>
+					<td>13,828</td>
+				</tr>
+			
+				<tr>
+					<td>암살</td>
+					<td>Assassination</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>액션,드라마</td>
+					<td>조연-속사포역</td>
+					<td>98,463,132,781</td>
+					<td>12,705,700</td>
+					<td>98,467,187,781</td>
+					<td>12,706,663</td>
+				</tr>
+			
+				<tr>
+					<td>장수상회</td>
+					<td>Salut d’Amour </td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>8,729,412,643</td>
+					<td>1,163,575</td>
+					<td>8,739,586,643</td>
+					<td>1,166,151</td>
+				</tr>
+			
+				<tr>
+					<td>파울볼</td>
+					<td>WONDERS</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>다큐멘터리</td>
+					<td>주연-내레이션역(목소리)</td>
+					<td>235,292,500</td>
+					<td>31,137</td>
+					<td>235,292,500</td>
+					<td>31,137</td>
+				</tr>
+			
+				<tr>
+					<td>허삼관</td>
+					<td>Chronicle of a Blood Merchant</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연</td>
+					<td>7,405,415,569</td>
+					<td>955,175</td>
+					<td>7,410,215,569</td>
+					<td>956,103</td>
+				</tr>
+			
+				<tr>
+					<td>우리는 형제입니다</td>
+					<td>We Are Brothers</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>7,263,255,399</td>
+					<td>970,373</td>
+					<td>7,263,255,399</td>
+					<td>970,373</td>
+				</tr>
+			
+				<tr>
+					<td>명량</td>
+					<td>Roaring Currents</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>사극,액션</td>
+					<td>주연-와키자카 역</td>
+					<td>135,748,398,910</td>
+					<td>17,613,682</td>
+					<td>135,754,920,310</td>
+					<td>17,615,314</td>
+				</tr>
+			
+				<tr>
+					<td>군도: 민란의 시대</td>
+					<td>KUNDO : Age of the Rampant</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>사극,액션</td>
+					<td>주연</td>
+					<td>36,987,755,999</td>
+					<td>4,774,895</td>
+					<td>36,990,394,499</td>
+					<td>4,775,811</td>
+				</tr>
+			
+				<tr>
+					<td>끝까지 간다</td>
+					<td>A Hard Day</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>액션,스릴러,범죄</td>
+					<td>주연-박창민 역</td>
+					<td>27,007,303,900</td>
+					<td>3,450,305</td>
+					<td>27,007,303,900</td>
+					<td>3,450,305</td>
+				</tr>
+			
+				<tr>
+					<td>화이: 괴물을 삼킨 아이</td>
+					<td>Hwayi: A Monster Boy</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>17,695,516,795</td>
+					<td>2,394,466</td>
+					<td>17,695,683,795</td>
+					<td>2,394,487</td>
+				</tr>
+			
+				<tr>
+					<td>파파로티</td>
+					<td>My Paparotti</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-창수역</td>
+					<td>11,825,934,000</td>
+					<td>1,716,429</td>
+					<td>11,826,024,000</td>
+					<td>1,716,438</td>
+				</tr>
+			
+				<tr>
+					<td>분노의 윤리학</td>
+					<td>An Ethics Lesson</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>스릴러,드라마</td>
+					<td>주연-박명록역</td>
+					<td>1,658,653,000</td>
+					<td>225,618</td>
+					<td>1,658,653,000</td>
+					<td>225,618</td>
+				</tr>
+			
+				<tr>
+					<td>용의자X</td>
+					<td>Perfect Number</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>미스터리</td>
+					<td>주연-민범역</td>
+					<td>11,241,013,000</td>
+					<td>1,552,055</td>
+					<td>11,241,013,000</td>
+					<td>1,552,055</td>
+				</tr>
+			
+				<tr>
+					<td>범죄와의 전쟁: 나쁜놈들 전성시대</td>
+					<td>Nameless Gangster : Rules of the Time</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>범죄,드라마</td>
+					<td>조연-김판호역</td>
+					<td>36,538,823,500</td>
+					<td>4,719,872</td>
+					<td>36,540,327,500</td>
+					<td>4,720,050</td>
+				</tr>
+			
+				<tr>
+					<td>퍼펙트 게임</td>
+					<td>Perfect Game</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-김용철역</td>
+					<td>11,220,408,500</td>
+					<td>1,507,084</td>
+					<td>11,220,408,500</td>
+					<td>1,507,084</td>
+				</tr>
+			
+				<tr>
+					<td>고지전</td>
+					<td>The Front Line</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마,전쟁</td>
+					<td>주연-유재호역</td>
+					<td>21,968,557,600</td>
+					<td>2,945,137</td>
+					<td>21,968,680,600</td>
+					<td>2,945,151</td>
+				</tr>
+			
+				<tr>
+					<td>글러브</td>
+					<td>GLOVE</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-찰스역</td>
+					<td>13,757,574,500</td>
+					<td>1,888,100</td>
+					<td>13,756,114,000</td>
+					<td>1,887,733</td>
+				</tr>
+			
+				<tr>
+					<td>맨발의 꿈</td>
+					<td>A Barefoot Dream</td>
+					<td>2010</td>
+					<td>한국,인도네시아,일본</td>
+					<td>드라마</td>
+					<td>단역-제임스역</td>
+					<td>2,413,427,097</td>
+					<td>338,080</td>
+					<td>2,372,787,500</td>
+					<td>331,945</td>
+				</tr>
+			
+				<tr>
+					<td>베스트셀러</td>
+					<td>Bestseller</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>미스터리,스릴러,드라마</td>
+					<td>조연-찬식역</td>
+					<td>8,110,824,681</td>
+					<td>1,099,665</td>
+					<td>7,983,184,500</td>
+					<td>1,081,752</td>
+				</tr>
+			
+				<tr>
+					<td>부산</td>
+					<td>City Of Fathers</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>액션,드라마</td>
+					<td>조연-한상구역</td>
+					<td>1,185,994,280</td>
+					<td>160,741</td>
+					<td>1,172,970,000</td>
+					<td>158,943</td>
+				</tr>
+			
+				<tr>
+					<td>국가대표</td>
+					<td>Take Off</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마,액션,코미디</td>
+					<td>단역-한국 해설역</td>
+					<td>60,896,633,308</td>
+					<td>8,487,894</td>
+					<td>57,570,773,000</td>
+					<td>8,035,181</td>
+				</tr>
+			
+				<tr>
+					<td>쌍화점</td>
+					<td>A Frozen Flower</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역</td>
+					<td>25,616,489,949</td>
+					<td>3,779,553</td>
+					<td>25,411,823,400</td>
+					<td>3,749,034</td>
+				</tr>
+			
+				<tr>
+					<td>달콤한 거짓말</td>
+					<td>Lost &amp; Found</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>조연-정한상역</td>
+					<td>3,116,983,744</td>
+					<td>470,256</td>
+					<td>3,122,965,500</td>
+					<td>471,310</td>
+				</tr>
+			
+				<tr>
+					<td>스페어</td>
+					<td>Spare</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>단역-밀매업자 목소리역</td>
+					<td>299,701,000</td>
+					<td>45,290</td>
+					<td>301,245,000</td>
+					<td>45,442</td>
+				</tr>
+			
+				<tr>
+					<td>GP 506</td>
+					<td>The Guard Post</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>공포(호러),미스터리,스릴러</td>
+					<td>조연-과거대원 - 취사병 역</td>
+					<td>6,316,842,000</td>
+					<td>945,185</td>
+					<td>6,316,842,000</td>
+					<td>936,945</td>
+				</tr>
+			
+				<tr>
+					<td>마이 뉴 파트너</td>
+					<td>My New Partner</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>액션,코미디</td>
+					<td>조연-정영철역</td>
+					<td>1,696,902,333</td>
+					<td>265,323</td>
+					<td>1,699,031,500</td>
+					<td>260,734</td>
+				</tr>
+			
+				<tr>
+					<td>마지막 선물</td>
+					<td>His Last Gift</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-백인철역</td>
+					<td>1,748,517,833</td>
+					<td>272,890</td>
+					<td>1,740,290,500</td>
+					<td>265,362</td>
+				</tr>
+			
+				<tr>
+					<td>폭력써클</td>
+					<td>Gangster High</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>액션,드라마</td>
+					<td>조연-조홍규역</td>
+					<td>0</td>
+					<td>29,110</td>
+					<td>158,080,900</td>
+					<td>24,682</td>
+				</tr>
+			
+				<tr>
+					<td>비열한 거리</td>
+					<td>A Dirty Carnival</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>액션,범죄,드라마</td>
+					<td>단역-영필역</td>
+					<td>0</td>
+					<td>2,047,808</td>
+					<td>11,664,597,600</td>
+					<td>1,829,887</td>
+				</tr>
+			
+				<tr>
+					<td>강적</td>
+					<td>Les Formidables</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>액션,드라마</td>
+					<td>조연-신 형사역</td>
+					<td>0</td>
+					<td>361,155</td>
+					<td>1,956,841,000</td>
+					<td>318,142</td>
+				</tr>
+			
+				<tr>
+					<td>야수</td>
+					<td>Running Wild</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>단역-구룡파 조직원역</td>
+					<td>0</td>
+					<td>1,016,152</td>
+					<td>5,339,725,500</td>
+					<td>837,011</td>
+				</tr>
+			
+				<tr>
+					<td>우리 형</td>
+					<td>My Brother</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-두식역</td>
+					<td>0</td>
+					<td>2,479,585</td>
+					<td>11,090,682,500</td>
+					<td>1,778,607</td>
+				</tr>
+			
+				<tr>
+					<td>말죽거리 잔혹사</td>
+					<td>Spirit Of Jeet Keun Do - Once Upon A Time In High School</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>액션,멜로/로맨스</td>
+					<td>단역-야생마 패거리역</td>
+					<td>0</td>
+					<td>3,115,767</td>
+					<td>3,837,152,000</td>
+					<td>604,969</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

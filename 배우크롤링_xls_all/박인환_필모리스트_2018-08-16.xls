@@ -1,0 +1,372 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '박인환'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>비밥바룰라</td>
+					<td>Be-Bop-A-Lula</td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>318,997,200</td>
+					<td>46,819</td>
+					<td>322,062,200</td>
+					<td>47,432</td>
+				</tr>
+			
+				<tr>
+					<td>기묘한 가족</td>
+					<td></td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>푸른노을</td>
+					<td>Magic hour</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>19,342,200</td>
+					<td>2,742</td>
+					<td>21,499,200</td>
+					<td>3,813</td>
+				</tr>
+			
+				<tr>
+					<td>루시드 드림</td>
+					<td>Lucid Dream</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>SF,스릴러</td>
+					<td>조연-성필역</td>
+					<td>759,481,000</td>
+					<td>102,170</td>
+					<td>759,481,000</td>
+					<td>102,170</td>
+				</tr>
+			
+				<tr>
+					<td>수상한 그녀</td>
+					<td>Miss Granny</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-박씨역</td>
+					<td>62,696,639,249</td>
+					<td>8,656,397</td>
+					<td>62,715,946,849</td>
+					<td>8,659,725</td>
+				</tr>
+			
+				<tr>
+					<td>삶의 향기</td>
+					<td>Scent of Life</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-종환역</td>
+					<td></td>
+					<td></td>
+					<td>4,500</td>
+					<td>3</td>
+				</tr>
+			
+				<tr>
+					<td>홍길동의 후예</td>
+					<td>The Righteous Thief</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>액션,코미디,드라마</td>
+					<td>조연-홍만석역</td>
+					<td>4,293,061,087</td>
+					<td>616,654</td>
+					<td>4,259,705,000</td>
+					<td>612,126</td>
+				</tr>
+			
+				<tr>
+					<td>박쥐</td>
+					<td>Thirst</td>
+					<td>2008</td>
+					<td>한국,미국,호주</td>
+					<td>공포(호러),드라마</td>
+					<td>조연-노신부역</td>
+					<td>15,051,788,827</td>
+					<td>2,237,271</td>
+					<td>14,846,847,500</td>
+					<td>2,206,948</td>
+				</tr>
+			
+				<tr>
+					<td>행복</td>
+					<td>Happiness</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>단역-석구역</td>
+					<td>0</td>
+					<td>1,239,789</td>
+					<td>7,737,684,000</td>
+					<td>1,174,495</td>
+				</tr>
+			
+				<tr>
+					<td>무도리</td>
+					<td>Moodori</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>주연-구봉기역</td>
+					<td>0</td>
+					<td>70,969</td>
+					<td>363,899,000</td>
+					<td>59,806</td>
+				</tr>
+			
+				<tr>
+					<td>투 가이즈</td>
+					<td>Two Guys</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>단역-이국장역</td>
+					<td>0</td>
+					<td>931,000</td>
+					<td>3,584,851,500</td>
+					<td>568,230</td>
+				</tr>
+			
+				<tr>
+					<td>마법의 성</td>
+					<td>Sex Of Magic</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>조연-성빈 부역</td>
+					<td></td>
+					<td>17,450</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>울랄라씨스터즈</td>
+					<td>Oh! Lala Sisters</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>조연-김일동역</td>
+					<td></td>
+					<td>245,970</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>봄날은 간다</td>
+					<td>One Fine Spring Day</td>
+					<td>2001</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-아버지역</td>
+					<td>0</td>
+					<td>376,642</td>
+					<td>14,433,500</td>
+					<td>2,448</td>
+				</tr>
+			
+				<tr>
+					<td>교도소 월드컵</td>
+					<td>Prison World Cup</td>
+					<td>2001</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>단역-장 소장역</td>
+					<td>0</td>
+					<td>41,594</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>하면 된다</td>
+					<td>Just Do It</td>
+					<td>2000</td>
+					<td>한국</td>
+					<td>범죄,코미디</td>
+					<td>단역-친척 가족역</td>
+					<td>0</td>
+					<td>126,368</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>간첩 리철진</td>
+					<td>The Spy</td>
+					<td>1999</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>주연-오선생역</td>
+					<td>0</td>
+					<td>172,474</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>산전수전</td>
+					<td>Weathering The Storms</td>
+					<td>1998</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>단역-아빠역</td>
+					<td>0</td>
+					<td>15,844</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>조용한 가족</td>
+					<td>The Quiet Family</td>
+					<td>1998</td>
+					<td>한국</td>
+					<td>드라마,미스터리,코미디</td>
+					<td>주연-아버지역</td>
+					<td>0</td>
+					<td>343,946</td>
+					<td>314,500</td>
+					<td>41</td>
+				</tr>
+			
+				<tr>
+					<td>투캅스 3</td>
+					<td>Two Cops 3</td>
+					<td>1998</td>
+					<td>한국</td>
+					<td>액션,코미디</td>
+					<td>조연-이 형사 부역</td>
+					<td>0</td>
+					<td>117,186</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>베이비 세일</td>
+					<td>Baby Sale</td>
+					<td>1997</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>조연-상준 부역</td>
+					<td>0</td>
+					<td>52,763</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>돈을 갖고 튀어라</td>
+					<td>Millions In My Account</td>
+					<td>1995</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>조연-달수 부역</td>
+					<td>0</td>
+					<td>167,108</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>밀크초콜릿 1950-1990</td>
+					<td>Milk Chocolate 1950-1990</td>
+					<td>1991</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,007</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>영심이</td>
+					<td>Young-Shim</td>
+					<td>1990</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-아버지역</td>
+					<td>0</td>
+					<td>13,435</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>나는 날마다 일어선다</td>
+					<td>I Stand Every Day</td>
+					<td>1990</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>29,812</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

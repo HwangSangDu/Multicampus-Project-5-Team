@@ -1,0 +1,268 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '스티브 잔'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>혹성탈출: 종의 전쟁</td>
+					<td>WAR FOR THE PLANET OF THE APES</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>액션,어드벤처,드라마,SF</td>
+					<td>주연</td>
+					<td>16,854,482,778</td>
+					<td>2,051,315</td>
+					<td>16,854,482,778</td>
+					<td>2,051,315</td>
+				</tr>
+			
+				<tr>
+					<td>마법의 제왕</td>
+					<td>Knights of Badassdom</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>코미디,공포(호러),판타지</td>
+					<td>주연</td>
+					<td>5,000</td>
+					<td>1</td>
+					<td>5,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>윔피 키드 3 : 도그 데이즈</td>
+					<td>Diary of a Wimpy Kid: Dog Days</td>
+					<td>2012</td>
+					<td>미국,캐나다</td>
+					<td>코미디,가족</td>
+					<td>조연-프랭크 역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>윔피 키드</td>
+					<td>Diary of a Wimpy Kid</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>코미디,가족</td>
+					<td>조연-프랭크 역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>퍼펙트 겟어웨이</td>
+					<td>A Perfect Getaway</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>스릴러,어드벤처,공포(호러)</td>
+					<td>주연-클리프역</td>
+					<td>2,343,962,833</td>
+					<td>315,888</td>
+					<td>2,303,965,000</td>
+					<td>310,779</td>
+				</tr>
+			
+				<tr>
+					<td>도니도니 삼형제와 아기늑대 침투작전</td>
+					<td>Unstable Fables 3 Pigs and a Baby</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>애니메이션,코미디,가족</td>
+					<td>주연</td>
+					<td>537,000</td>
+					<td>100</td>
+					<td>537,000</td>
+					<td>100</td>
+				</tr>
+			
+				<tr>
+					<td>러브 매니지먼트</td>
+					<td>Management</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>79,627,703</td>
+					<td>10,393</td>
+					<td>78,090,500</td>
+					<td>10,230</td>
+				</tr>
+			
+				<tr>
+					<td>스트레인지 와일더니스</td>
+					<td>Strange Wilderness</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>레스큐 던</td>
+					<td>Rescue Dawn</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>액션,어드벤처,드라마,전쟁</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>임플로이 오브 더 먼스</td>
+					<td>Employee Of The Month</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연-잭역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>내쇼날 시큐리티</td>
+					<td>National Security</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>액션,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>87,064</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>캔디 케인</td>
+					<td>Joy Ride</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>9,544</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>라이딩 위드 보이즈</td>
+					<td>Riding In Cars With Boys</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>8,263</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>악마같은 여자</td>
+					<td>Evil Woman</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>4,075</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>체인 오브 풀스</td>
+					<td>Chain Of Fools</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>코미디,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>해피 텍사스</td>
+					<td>Happy, Texas</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연-웨인 역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>서버비아</td>
+					<td>SubUrbia</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

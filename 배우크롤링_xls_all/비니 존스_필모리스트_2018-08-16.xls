@@ -1,0 +1,255 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '비니 존스'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>킬 케인</td>
+					<td>Kill Kane</td>
+					<td>2016</td>
+					<td>영국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>3,000</td>
+					<td>1</td>
+					<td>3,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>6 웨이 투 다이</td>
+					<td>6 Ways To Die</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>15,285,000</td>
+					<td>3,057</td>
+					<td>16,890,000</td>
+					<td>3,378</td>
+				</tr>
+			
+				<tr>
+					<td>톡신</td>
+					<td>TOXIN</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>SF</td>
+					<td>주연</td>
+					<td>3,000</td>
+					<td>1</td>
+					<td>3,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>완벽한 사육: 인간 사냥</td>
+					<td>Awaken</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션,공포(호러),스릴러</td>
+					<td>주연</td>
+					<td>1,132,000</td>
+					<td>130</td>
+					<td>1,132,000</td>
+					<td>130</td>
+				</tr>
+			
+				<tr>
+					<td>칼큘레이터</td>
+					<td>The Calculator</td>
+					<td>2014</td>
+					<td>러시아</td>
+					<td>액션,SF,스릴러</td>
+					<td>주연</td>
+					<td>631,000</td>
+					<td>104</td>
+					<td>631,000</td>
+					<td>104</td>
+				</tr>
+			
+				<tr>
+					<td>웨이 오브 더 위키드</td>
+					<td>Way of the Wicked</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>270,000</td>
+					<td>54</td>
+				</tr>
+			
+				<tr>
+					<td>엠부쉬</td>
+					<td>AMBUSHED</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td></td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>다이아몬드 하이스트</td>
+					<td>DIAMOND HEIST</td>
+					<td>2012</td>
+					<td>헝가리</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>5,000</td>
+					<td>1</td>
+					<td>5,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>뱀파이어의 습격</td>
+					<td>The Bleeding</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션,공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>블러드 아웃</td>
+					<td>Blood Out</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>액션,범죄</td>
+					<td>주연-제드역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>에이지 오브 더 드래곤</td>
+					<td>Age of the Dragons</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>액션,SF,스릴러,판타지</td>
+					<td>주연-스터브 역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스모킹 에이스 2</td>
+					<td>Smokin&#039; Aces 2: Assassins&#039; Ball</td>
+					<td>2010</td>
+					<td>미국,캐나다</td>
+					<td>액션,코미디,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>컨뎀드</td>
+					<td>The Condemned</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>타임 어택</td>
+					<td>Slipstream</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>SF</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>그들만의 월드컵</td>
+					<td>Mean Machine</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>415</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스내치</td>
+					<td>Snatch</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>스릴러,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>74,372</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

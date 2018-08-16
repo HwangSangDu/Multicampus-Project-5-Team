@@ -1,0 +1,73 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '김정아'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>극장판 도라에몽: 진구의 보물섬</td>
+					<td></td>
+					<td>2018</td>
+					<td>일본</td>
+					<td>애니메이션,SF,어드벤처</td>
+					<td>주연-진구 (한국어 목소리)역(목소리)</td>
+					<td></td>
+					<td></td>
+					<td>508,135,400</td>
+					<td>65,990</td>
+				</tr>
+			
+				<tr>
+					<td>극장판 도라에몽: 신 진구의 버스 오브 재팬</td>
+					<td>Doraemon The Movie : Nobita and The Birth of Japan</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>애니메이션</td>
+					<td>주연-진구 목소리 역(목소리)</td>
+					<td>525,099,600</td>
+					<td>70,350</td>
+					<td>525,099,600</td>
+					<td>70,350</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

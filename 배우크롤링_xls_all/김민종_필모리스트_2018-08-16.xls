@@ -1,0 +1,333 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '김민종'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>브링 홈: 아버지의 땅</td>
+					<td>Bringing Tibet Home</td>
+					<td>2013</td>
+					<td>한국,미국</td>
+					<td>다큐멘터리</td>
+					<td>주연-내레이션역(목소리)</td>
+					<td>117,372,200</td>
+					<td>15,025</td>
+					<td>117,372,200</td>
+					<td>15,025</td>
+				</tr>
+			
+				<tr>
+					<td>종려나무 숲</td>
+					<td>The Windmill Palm Grove</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>22,895</td>
+					<td>88,488,000</td>
+					<td>14,323</td>
+				</tr>
+			
+				<tr>
+					<td>낭만자객</td>
+					<td>Crazy Assassins</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>940,134</td>
+					<td>312,851,500</td>
+					<td>48,744</td>
+				</tr>
+			
+				<tr>
+					<td>나비</td>
+					<td>Mr. Butterfly</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>612,558</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>패밀리</td>
+					<td>Family</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td>134,310</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>이것이 법이다</td>
+					<td>Out Of Justice</td>
+					<td>2001</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>78,828</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>수호천사 </td>
+					<td></td>
+					<td>2001</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>토요일 오후2시</td>
+					<td>Saturday, 2 P.M</td>
+					<td>1998</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>23,020</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>마지막 방위</td>
+					<td>The Last Defense</td>
+					<td>1997</td>
+					<td>한국</td>
+					<td>액션,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>14,223</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>3인조</td>
+					<td>Trio</td>
+					<td>1997</td>
+					<td>한국</td>
+					<td>액션,코미디</td>
+					<td>주연-문역</td>
+					<td>0</td>
+					<td>36,594</td>
+					<td>120,000</td>
+					<td>20</td>
+				</tr>
+			
+				<tr>
+					<td>홀리데이 인 서울</td>
+					<td>Holiday Inn Seoul</td>
+					<td>1997</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>36,474</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>귀천도</td>
+					<td>The Gate Of Destiny</td>
+					<td>1996</td>
+					<td>한국</td>
+					<td>사극,액션,SF</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>200,570</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>돌아온 홍길동</td>
+					<td>Returned Hero Hong Kil-Dong</td>
+					<td>1995</td>
+					<td>한국</td>
+					<td>애니메이션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>204,240</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>개같은 날의 오후</td>
+					<td>A Hot Roof</td>
+					<td>1995</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>조연-달수/도둑 2 역</td>
+					<td>0</td>
+					<td>274,568</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>오렌지나라</td>
+					<td>Orange Country</td>
+					<td>1993</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>4,246</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>마음의 파수꾼</td>
+					<td>A Keeper Of The Heart</td>
+					<td>1992</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,831</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>가을여행</td>
+					<td>Autumn Journey</td>
+					<td>1991</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-종수역</td>
+					<td>0</td>
+					<td>24,848</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>10대의 반항</td>
+					<td>The Teen Rebellion</td>
+					<td>1991</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,891</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>너에게로 또다시</td>
+					<td>Back To You Once More</td>
+					<td>1990</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>16,766</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>영심이</td>
+					<td>Young-Shim</td>
+					<td>1990</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>13,435</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>있잖아요 비밀이예요</td>
+					<td>You Know What? It&#039;S A Secret</td>
+					<td>1990</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>56,229</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>행복은 성적순이 아니잖아요</td>
+					<td>Happiness Does Not Come In Grades</td>
+					<td>1989</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-손창수역</td>
+					<td>0</td>
+					<td>155,321</td>
+					<td>30,000</td>
+					<td>6</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

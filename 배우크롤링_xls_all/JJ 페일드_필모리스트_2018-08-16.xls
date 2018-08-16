@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 'JJ 페일드'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>오스틴랜드</td>
+					<td>Austenland</td>
+					<td>2013</td>
+					<td>미국,영국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연-미스터 헨리 노블리 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>써드 스타</td>
+					<td>Third Star</td>
+					<td>2010</td>
+					<td>영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>4,050,000</td>
+					<td>810</td>
+					<td>4,050,000</td>
+					<td>810</td>
+				</tr>
+			
+				<tr>
+					<td>골! 3</td>
+					<td>Goal! III</td>
+					<td>2009</td>
+					<td>독일</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-리암 아담스 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>노생거 사원</td>
+					<td>Northanger Abbey</td>
+					<td>2007</td>
+					<td>영국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-헨리 틸니역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>털시 루퍼의 가방 제1부</td>
+					<td>The Tulse Luper Suitcases, Part 1: The Moab Story</td>
+					<td>2003</td>
+					<td>영국,스페인,이탈리아,룩셈부르크,네덜란드,러시아,헝가리,독일</td>
+					<td>어드벤처,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>털시 루퍼의 가방 제2부</td>
+					<td>The Tulse Luper Suitcases, Part 2: Vaux To The Sea</td>
+					<td>2003</td>
+					<td>영국,네덜란드,스페인,룩셈부르크,이탈리아,헝가리</td>
+					<td>어드벤처,코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

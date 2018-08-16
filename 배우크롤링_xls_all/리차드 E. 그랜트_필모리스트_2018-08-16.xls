@@ -1,0 +1,177 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '리차드 E. 그랜트'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>로건</td>
+					<td>Logan</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>액션,SF</td>
+					<td>조연</td>
+					<td>18,391,060,223</td>
+					<td>2,169,109</td>
+					<td>18,391,060,223</td>
+					<td>2,169,109</td>
+				</tr>
+			
+				<tr>
+					<td>재키</td>
+					<td>Jackie</td>
+					<td>2016</td>
+					<td>칠레,프랑스,미국</td>
+					<td>드라마</td>
+					<td>조연</td>
+					<td>209,835,243</td>
+					<td>26,758</td>
+					<td>209,985,243</td>
+					<td>26,788</td>
+				</tr>
+			
+				<tr>
+					<td>돔 헤밍웨이</td>
+					<td>Dom Hemingway</td>
+					<td>2013</td>
+					<td>영국</td>
+					<td>코미디,범죄</td>
+					<td>주연-딕키역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>포스터</td>
+					<td>Foster</td>
+					<td>2011</td>
+					<td>영국</td>
+					<td>가족,드라마,판타지</td>
+					<td>주연</td>
+					<td>3,410,000</td>
+					<td>820</td>
+					<td>3,410,000</td>
+					<td>820</td>
+				</tr>
+			
+				<tr>
+					<td>퍼스트 나이트</td>
+					<td>First Night</td>
+					<td>2010</td>
+					<td>영국</td>
+					<td>코미디,뮤지컬,멜로/로맨스</td>
+					<td>주연</td>
+					<td>30,000</td>
+					<td>10</td>
+					<td>30,000</td>
+					<td>10</td>
+				</tr>
+			
+				<tr>
+					<td>메시어 N.</td>
+					<td>Monsieur N.</td>
+					<td>2003</td>
+					<td>프랑스,영국</td>
+					<td>드라마,미스터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>리틀 뱀파이어</td>
+					<td>The Little Vampire</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>가족,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>4</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아기자기파파 </td>
+					<td>Jack And Sarah</td>
+					<td>1997</td>
+					<td>영국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>563</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>순수의 시대 </td>
+					<td>The Age Of Innocence</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>드라마,사극</td>
+					<td>조연</td>
+					<td>0</td>
+					<td>42,931</td>
+					<td>1,033,000</td>
+					<td>258</td>
+				</tr>
+			
+				<tr>
+					<td>워락</td>
+					<td>Warlock</td>
+					<td>1989</td>
+					<td>미국</td>
+					<td>공포(호러),액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>8,318</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,203 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '레베카 드 모네이'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>마더스 데이</td>
+					<td>Mother&#039;s Day</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러,드라마</td>
+					<td>주연-마더역</td>
+					<td>100,000</td>
+					<td>10</td>
+					<td>100,000</td>
+					<td>10</td>
+				</tr>
+			
+				<tr>
+					<td>템테이션 스트레인저</td>
+					<td>The Right Temptation</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>포이즌</td>
+					<td>A Table For One</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>미녀 사기꾼</td>
+					<td>The Con</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>코미디,범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>빅 샷</td>
+					<td>Thick As Thieves</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>위너 </td>
+					<td>The Winner</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>범죄,스릴러,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>244</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스트레인저 </td>
+					<td>Never Talk To Strangers</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>19,146</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>겟팅 아웃</td>
+					<td>Getting Out</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>레베카의 약점</td>
+					<td>Blind Side</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>16,656</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>의혹의 함정</td>
+					<td>Guilty As Sin</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>범죄,드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>요람을 흔드는 손</td>
+					<td>Hand That Rocks Cradle</td>
+					<td>1992</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>56,818</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>그리고 신은 여자를 창조했다</td>
+					<td>And God Created Woman</td>
+					<td>1988</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>18,701</td>
+					<td>0</td>
+					<td>0</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

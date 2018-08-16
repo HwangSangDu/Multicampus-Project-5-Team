@@ -1,0 +1,320 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '마크 다카스코스'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>맨 오브 저스티스</td>
+					<td>Ultimate Justice </td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>5,000</td>
+					<td>1</td>
+					<td>5,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>쇼다운 인 마닐라</td>
+					<td>Showdown in Manila</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>감독</td>
+					<td>100,000</td>
+					<td>20</td>
+					<td>100,000</td>
+					<td>20</td>
+				</tr>
+			
+				<tr>
+					<td>로저코먼의 오퍼레이션 로그</td>
+					<td>Operation Rogue</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>섀도우 솔저</td>
+					<td>Shadows In Paradise</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>액션,전쟁</td>
+					<td>주연</td>
+					<td>270,000</td>
+					<td>54</td>
+					<td>270,000</td>
+					<td>54</td>
+				</tr>
+			
+				<tr>
+					<td>아이 엠 오메가</td>
+					<td>I Am Omega</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>액션,공포(호러)</td>
+					<td>주연</td>
+					<td>270,000</td>
+					<td>54</td>
+					<td>270,000</td>
+					<td>54</td>
+				</tr>
+			
+				<tr>
+					<td>쏠라 어택</td>
+					<td>Solar Attack</td>
+					<td>2006</td>
+					<td>캐나다</td>
+					<td>액션,SF,스릴러</td>
+					<td>주연</td>
+					<td>20,000</td>
+					<td>4</td>
+					<td>20,000</td>
+					<td>4</td>
+				</tr>
+			
+				<tr>
+					<td>헌트 포 이글 원</td>
+					<td>The Hunt for Eagle One</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>액션,전쟁</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>헌트 포 이글 원 : 필사의 작전</td>
+					<td>The Hunt for Eagle One : Crash Point</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>액션,전쟁</td>
+					<td>주연-매트 다니엘스역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스콜처</td>
+					<td>Scorcher</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>액션,어드벤처,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>마크 다카스코스의 보디가드</td>
+					<td>Instinct To Kill</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>온리 더 브레이브</td>
+					<td>Only the Brave </td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>전쟁</td>
+					<td>주연-스티브 &#039;자키&#039; 센자키 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>더 베이스</td>
+					<td>The Base</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>액션,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>코드제로 </td>
+					<td>No Code Of Conduct</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>액션,스릴러,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>3,893</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>부기보이</td>
+					<td>Boogie Boy</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>드라마,스릴러,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>288</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>마크 다카스코스의 일급비밀</td>
+					<td>Sanctuary</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>794</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>더블 드래곤 </td>
+					<td>Double Dragon</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>SF,액션,어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>7,179</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>드라이브</td>
+					<td>Drive</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>SF,액션,어드벤처,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>9,100</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사보타지 </td>
+					<td>Sabotage</td>
+					<td>1996</td>
+					<td>캐나다</td>
+					<td>액션,드라마,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,105</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>크라잉 프리맨 </td>
+					<td>Crying Freeman</td>
+					<td>1995</td>
+					<td>미국,캐나다,프랑스,일본</td>
+					<td>액션,범죄,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>77,323</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>어벤저 5</td>
+					<td>Kickboxer 5</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>액션,드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>온니 더 스트롱 </td>
+					<td>Only The Strong</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>923</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

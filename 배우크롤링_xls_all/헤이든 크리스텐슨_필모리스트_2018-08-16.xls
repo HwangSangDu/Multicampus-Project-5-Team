@@ -1,0 +1,190 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '헤이든 크리스텐슨'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>라스트 맨: 지구를 마지막으로 본 남자</td>
+					<td>The Last Man</td>
+					<td>2018</td>
+					<td>아르헨티나</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td>43,000</td>
+					<td>19</td>
+					<td>43,000</td>
+					<td>19</td>
+				</tr>
+			
+				<tr>
+					<td>퍼스트 킬</td>
+					<td>First Kill</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아메리칸 하이스트</td>
+					<td>American Heist</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>범죄,액션</td>
+					<td>주연</td>
+					<td>35,000</td>
+					<td>7</td>
+					<td>35,000</td>
+					<td>7</td>
+				</tr>
+			
+				<tr>
+					<td>아웃캐스트: 절명도망 무삭제판</td>
+					<td>Outcast</td>
+					<td>2014</td>
+					<td>미국,캐나다,중국</td>
+					<td>액션,전쟁,어드벤처</td>
+					<td>주연</td>
+					<td>10,000</td>
+					<td>2</td>
+					<td>10,000</td>
+					<td>2</td>
+				</tr>
+			
+				<tr>
+					<td>베니싱</td>
+					<td>Vanishing on 7th Street</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>미스터리</td>
+					<td>주연-루크역</td>
+					<td>542,044,000</td>
+					<td>73,582</td>
+					<td>542,044,000</td>
+					<td>73,582</td>
+				</tr>
+			
+				<tr>
+					<td>뉴욕 아이 러브 유</td>
+					<td>New York, I Love You</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>코미디,드라마,멜로/로맨스</td>
+					<td>주연-벤역</td>
+					<td>647,982,325</td>
+					<td>83,600</td>
+					<td>638,301,000</td>
+					<td>82,356</td>
+				</tr>
+			
+				<tr>
+					<td>점퍼</td>
+					<td>Jumper</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>SF,드라마,어드벤처</td>
+					<td>주연-데이빗 라이스 역</td>
+					<td>10,999,769,000</td>
+					<td>1,685,405</td>
+					<td>10,943,088,000</td>
+					<td>1,665,268</td>
+				</tr>
+			
+				<tr>
+					<td>어웨이크</td>
+					<td>Awake</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>스릴러,드라마</td>
+					<td>주연-클레이 베레스포드역</td>
+					<td>3,266,005,333</td>
+					<td>502,807</td>
+					<td>3,265,249,000</td>
+					<td>498,720</td>
+				</tr>
+			
+				<tr>
+					<td>스타워즈 에피소드3 - 시스의복수</td>
+					<td>Star Wars: Episode Iii - Revenge Of The Sith</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>SF</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,722,800</td>
+					<td>9,325,899,000</td>
+					<td>1,464,794</td>
+				</tr>
+			
+				<tr>
+					<td>셰터드 글래스</td>
+					<td>Shattered Glass</td>
+					<td>2003</td>
+					<td>미국,캐나다</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>라이프 에즈 어 하우스</td>
+					<td>Life As A House</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

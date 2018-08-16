@@ -1,0 +1,255 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '존 파브로'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>라이온 킹</td>
+					<td>The Lion King</td>
+					<td>2019</td>
+					<td>미국</td>
+					<td>애니메이션,어드벤처,드라마,가족,뮤지컬</td>
+					<td>감독</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스파이더맨: 홈 커밍</td>
+					<td>Spider-Man: Homecoming</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>액션,어드벤처,SF</td>
+					<td>조연</td>
+					<td>59,125,813,820</td>
+					<td>7,258,678</td>
+					<td>59,125,813,820</td>
+					<td>7,258,678</td>
+				</tr>
+			
+				<tr>
+					<td>정글북</td>
+					<td>The Jungle Book</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>어드벤처,드라마</td>
+					<td>감독</td>
+					<td>21,517,513,134</td>
+					<td>2,537,419</td>
+					<td>21,517,647,134</td>
+					<td>2,537,438</td>
+				</tr>
+			
+				<tr>
+					<td>아메리칸 셰프</td>
+					<td>Chef</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>감독,주연</td>
+					<td>1,255,831,929</td>
+					<td>153,794</td>
+					<td>1,262,572,429</td>
+					<td>154,689</td>
+				</tr>
+			
+				<tr>
+					<td>아이언맨 3</td>
+					<td>Iron Man 3</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>액션,어드벤처,SF</td>
+					<td>주연-해피 호건역</td>
+					<td>70,806,191,000</td>
+					<td>9,001,309</td>
+					<td>70,806,364,000</td>
+					<td>9,001,331</td>
+				</tr>
+			
+				<tr>
+					<td>카우보이 &amp; 에이리언</td>
+					<td>Cowboys &amp; Aliens</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>액션,SF,스릴러</td>
+					<td>감독</td>
+					<td>1,930,249,000</td>
+					<td>256,346</td>
+					<td>1,930,249,000</td>
+					<td>256,346</td>
+				</tr>
+			
+				<tr>
+					<td>아이언맨 2</td>
+					<td>Iron Man 2</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>SF,액션,어드벤처</td>
+					<td>감독</td>
+					<td>33,161,943,100</td>
+					<td>4,498,335</td>
+					<td>32,635,195,500</td>
+					<td>4,425,003</td>
+				</tr>
+			
+				<tr>
+					<td>커플 테라피: 대화가 필요해</td>
+					<td>Couples Retreat</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>150,557,480</td>
+					<td>19,623</td>
+					<td>147,655,000</td>
+					<td>19,163</td>
+				</tr>
+			
+				<tr>
+					<td>G-포스: 기니피그 특공대</td>
+					<td>G-Force</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>가족,어드벤처,액션</td>
+					<td>주연-헐리 목소리역(목소리)</td>
+					<td>412,084,900</td>
+					<td>40,161</td>
+					<td>405,615,000</td>
+					<td>39,522</td>
+				</tr>
+			
+				<tr>
+					<td>아이언맨</td>
+					<td>Iron Man</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>SF,드라마,액션</td>
+					<td>감독</td>
+					<td>27,802,744,668</td>
+					<td>4,316,003</td>
+					<td>27,880,712,500</td>
+					<td>4,300,365</td>
+				</tr>
+			
+				<tr>
+					<td>자투라:스페이스 어드벤쳐</td>
+					<td>Zathura : A Space Adventure</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>SF,어드벤처,판타지</td>
+					<td>감독</td>
+					<td>0</td>
+					<td>55,257</td>
+					<td>277,369,000</td>
+					<td>50,217</td>
+				</tr>
+			
+				<tr>
+					<td>엘프</td>
+					<td>Elf</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>감독</td>
+					<td>0</td>
+					<td>85,614</td>
+					<td>344,242,500</td>
+					<td>57,377</td>
+				</tr>
+			
+				<tr>
+					<td>빅 엠프티</td>
+					<td>The Big Empty</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>코미디,미스터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>메이드</td>
+					<td>Made</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>코미디,범죄,드라마</td>
+					<td>감독,주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>러브 앤드 섹스</td>
+					<td>Love &amp; Sex</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연-아담 역</td>
+					<td>0</td>
+					<td>2,347</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>베리배드씽</td>
+					<td>Very Bad Things</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>스릴러,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>56,208</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

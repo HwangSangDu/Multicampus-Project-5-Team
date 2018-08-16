@@ -1,0 +1,151 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '찰리 허냄'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>킹 아서: 제왕의 검</td>
+					<td>King Arthur: Legend of the Sword</td>
+					<td>2017</td>
+					<td>영국,호주,미국</td>
+					<td>판타지,액션,어드벤처</td>
+					<td>주연</td>
+					<td>3,373,678,655</td>
+					<td>415,714</td>
+					<td>3,373,678,655</td>
+					<td>415,714</td>
+				</tr>
+			
+				<tr>
+					<td>잃어버린 도시 Z</td>
+					<td>The Lost City Of Z</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,어드벤처,드라마</td>
+					<td>주연</td>
+					<td>362,053,440</td>
+					<td>47,088</td>
+					<td>362,053,440</td>
+					<td>47,088</td>
+				</tr>
+			
+				<tr>
+					<td>크림슨 피크</td>
+					<td>Crimson Peak</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>판타지,스릴러</td>
+					<td>주연</td>
+					<td>379,765,400</td>
+					<td>46,735</td>
+					<td>380,106,400</td>
+					<td>46,783</td>
+				</tr>
+			
+				<tr>
+					<td>퍼시픽 림</td>
+					<td>Pacific Rim</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>액션,SF,어드벤처</td>
+					<td>주연-롤리 안트로버스 역</td>
+					<td>20,477,392,512</td>
+					<td>2,539,114</td>
+					<td>20,477,374,512</td>
+					<td>2,539,113</td>
+				</tr>
+			
+				<tr>
+					<td>데드폴</td>
+					<td>Deadfall</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>범죄,드라마,스릴러,액션</td>
+					<td>주연-제이 역</td>
+					<td>101,887,000</td>
+					<td>14,744</td>
+					<td>101,887,000</td>
+					<td>14,744</td>
+				</tr>
+			
+				<tr>
+					<td>더 트랩: 난간 끝에 선 남자</td>
+					<td>The Ledge</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>스릴러,드라마</td>
+					<td>주연-개비역</td>
+					<td>5,020,000</td>
+					<td>2,120</td>
+					<td>5,020,000</td>
+					<td>2,120</td>
+				</tr>
+			
+				<tr>
+					<td>훌리건스</td>
+					<td>Hooligans</td>
+					<td>2005</td>
+					<td>미국,영국</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>니콜라스 니클비</td>
+					<td>Nicholas Nickleby</td>
+					<td>2002</td>
+					<td>영국,미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,112 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '최정원'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>좋은 친구들 </td>
+					<td>Good Friends</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>주연-나츠미역</td>
+					<td>9,709,500</td>
+					<td>1,258</td>
+					<td>10,654,500</td>
+					<td>1,393</td>
+				</tr>
+			
+				<tr>
+					<td>퍼펙트 게임</td>
+					<td>Perfect Game</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>11,220,408,500</td>
+					<td>1,507,084</td>
+					<td>11,220,408,500</td>
+					<td>1,507,084</td>
+				</tr>
+			
+				<tr>
+					<td>대한이, 민국씨</td>
+					<td>Love Is Beautiful</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연-지은역</td>
+					<td>1,192,710,500</td>
+					<td>212,854</td>
+					<td>1,188,129,500</td>
+					<td>208,695</td>
+				</tr>
+			
+				<tr>
+					<td>마이 파더</td>
+					<td>My Father</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마,가족</td>
+					<td>단역-공은주(특별출연)역</td>
+					<td>0</td>
+					<td>902,090</td>
+					<td>5,641,848,000</td>
+					<td>901,055</td>
+				</tr>
+			
+				<tr>
+					<td>이장과 군수</td>
+					<td>Small Town Rivals</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연-면사무소 여직원 남옥역</td>
+					<td>0</td>
+					<td>1,269,142</td>
+					<td>7,594,186,000</td>
+					<td>1,179,661</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

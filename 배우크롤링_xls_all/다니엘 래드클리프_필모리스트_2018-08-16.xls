@@ -1,0 +1,281 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '다니엘 래드클리프'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>정글</td>
+					<td>Jungle</td>
+					<td>2017</td>
+					<td>호주,콜롬비아</td>
+					<td>액션,어드벤처,드라마,스릴러</td>
+					<td>주연</td>
+					<td>24,788,300</td>
+					<td>3,043</td>
+					<td>24,788,300</td>
+					<td>3,043</td>
+				</tr>
+			
+				<tr>
+					<td>임페리엄</td>
+					<td>Imperium</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>범죄,스릴러,드라마</td>
+					<td>주연</td>
+					<td>202,000</td>
+					<td>70</td>
+					<td>202,000</td>
+					<td>70</td>
+				</tr>
+			
+				<tr>
+					<td>나우 유 씨 미 2</td>
+					<td>Now You See Me 2</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>범죄,액션</td>
+					<td>주연</td>
+					<td>25,116,690,113</td>
+					<td>3,100,113</td>
+					<td>25,116,690,113</td>
+					<td>3,100,113</td>
+				</tr>
+			
+				<tr>
+					<td>스위스 아미 맨</td>
+					<td>Swiss Army Man</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>어드벤처,코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>혼스</td>
+					<td>Horns</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>판타지,스릴러</td>
+					<td>주연</td>
+					<td>137,324,715</td>
+					<td>17,535</td>
+					<td>137,324,715</td>
+					<td>17,535</td>
+				</tr>
+			
+				<tr>
+					<td>왓 이프</td>
+					<td>What If</td>
+					<td>2013</td>
+					<td>아일랜드,캐나다</td>
+					<td>코미디,드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>207,094,700</td>
+					<td>27,818</td>
+					<td>207,094,700</td>
+					<td>27,818</td>
+				</tr>
+			
+				<tr>
+					<td>킬 유어 달링</td>
+					<td>Kill Your Darlings</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>256,352,020</td>
+					<td>32,794</td>
+					<td>259,355,020</td>
+					<td>33,157</td>
+				</tr>
+			
+				<tr>
+					<td>우먼 인 블랙</td>
+					<td>The Woman In Black</td>
+					<td>2011</td>
+					<td>영국</td>
+					<td>드라마,공포(호러),스릴러</td>
+					<td>주연-아서 킵스 역</td>
+					<td>862,144,800</td>
+					<td>117,188</td>
+					<td>862,422,800</td>
+					<td>117,226</td>
+				</tr>
+			
+				<tr>
+					<td>해리포터와 죽음의 성물2</td>
+					<td>Harry Potter and the Deathly Hallows: Part 2</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>판타지,미스터리</td>
+					<td>주연-해리 포터 역</td>
+					<td>34,507,819,000</td>
+					<td>4,400,298</td>
+					<td>34,668,545,500</td>
+					<td>4,421,210</td>
+				</tr>
+			
+				<tr>
+					<td>해리 포터와 죽음의 성물1</td>
+					<td>Harry Potter and the Deathly Hallows: Part I</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>미스터리,판타지</td>
+					<td>주연-해리 포터역</td>
+					<td>19,906,900,266</td>
+					<td>2,809,053</td>
+					<td>20,219,758,000</td>
+					<td>2,853,500</td>
+				</tr>
+			
+				<tr>
+					<td>해리 포터와 혼혈 왕자</td>
+					<td>Harry Potter And The Half-Blood Prince</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>어드벤처,액션,가족</td>
+					<td>주연-해리 포터역</td>
+					<td>20,580,402,431</td>
+					<td>3,002,669</td>
+					<td>20,267,484,000</td>
+					<td>2,957,736</td>
+				</tr>
+			
+				<tr>
+					<td>해리 포터와 불사조 기사단</td>
+					<td>Harry Potter And The Order Of The Phoenix</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>판타지,액션,어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>3,475,000</td>
+					<td>22,899,775,300</td>
+					<td>3,691,060</td>
+				</tr>
+			
+				<tr>
+					<td>디셈버 보이즈</td>
+					<td>December Boys</td>
+					<td>2007</td>
+					<td>호주</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>해리포터와 불의 잔</td>
+					<td>Harry Potter And The Goblet Of Fire</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>3,615,000</td>
+					<td>21,464,160,900</td>
+					<td>3,430,975</td>
+				</tr>
+			
+				<tr>
+					<td>해리포터와 아즈카반의 죄수</td>
+					<td>Harry Potter And The Prisoner Of Azkaban</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,532,000</td>
+					<td>10,926,141,000</td>
+					<td>1,775,033</td>
+				</tr>
+			
+				<tr>
+					<td>해리포터와 비밀의 방</td>
+					<td>Harry Potter And The Chamber Of Secrets</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>4,000,000</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>해리포터와 마법사의 돌</td>
+					<td>Harry Potter And The Socrerers Stone</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>가족,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,585,389</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>데이빗 코퍼필드</td>
+					<td>David Copperfield</td>
+					<td>1999</td>
+					<td>영국,미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

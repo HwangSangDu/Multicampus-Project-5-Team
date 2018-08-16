@@ -1,0 +1,281 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '돈 치들'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>어벤져스: 인피니티 워</td>
+					<td>Avengers: Infinity War</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지,SF</td>
+					<td>주연</td>
+					<td>99,825,741,869</td>
+					<td>11,202,737</td>
+					<td>99,918,419,769</td>
+					<td>11,211,798</td>
+				</tr>
+			
+				<tr>
+					<td>마일스</td>
+					<td>Miles Ahead</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>감독,주연</td>
+					<td>92,868,983</td>
+					<td>11,375</td>
+					<td>92,924,983</td>
+					<td>11,382</td>
+				</tr>
+			
+				<tr>
+					<td>캡틴 아메리카: 시빌 워</td>
+					<td>Captain America: Civil War</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션,SF,스릴러</td>
+					<td>주연</td>
+					<td>72,672,111,827</td>
+					<td>8,677,249</td>
+					<td>72,675,171,827</td>
+					<td>8,677,555</td>
+				</tr>
+			
+				<tr>
+					<td>어벤져스: 에이지 오브 울트론</td>
+					<td>The Avengers: Age of Ultron</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지,SF</td>
+					<td>주연</td>
+					<td>88,582,586,366</td>
+					<td>10,494,499</td>
+					<td>88,582,586,366</td>
+					<td>10,494,499</td>
+				</tr>
+			
+				<tr>
+					<td>플라이트</td>
+					<td>Flight</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>150,391,500</td>
+					<td>20,491</td>
+					<td>150,770,500</td>
+					<td>20,553</td>
+				</tr>
+			
+				<tr>
+					<td>아이언맨 2</td>
+					<td>Iron Man 2</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>SF,액션,어드벤처</td>
+					<td>주연</td>
+					<td>33,161,943,100</td>
+					<td>4,498,335</td>
+					<td>32,635,195,500</td>
+					<td>4,425,003</td>
+				</tr>
+			
+				<tr>
+					<td>브룩클린스 파이니스트</td>
+					<td>Brooklyn&#039;s Finest</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>액션,드라마,범죄,스릴러</td>
+					<td>주연</td>
+					<td>8,000</td>
+					<td>1</td>
+					<td>8,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>트레이터</td>
+					<td>Traitor</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>액션,범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>톡투미</td>
+					<td>Talk To Me</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-피티 그린 역</td>
+					<td>23,370,500</td>
+					<td>3,493</td>
+					<td>23,370,500</td>
+					<td>3,493</td>
+				</tr>
+			
+				<tr>
+					<td>레인 오버 미</td>
+					<td>Reign Over Me</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,180</td>
+					<td>14,244,000</td>
+					<td>2,046</td>
+				</tr>
+			
+				<tr>
+					<td>다르푸르 나우</td>
+					<td>Darfur Now</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>다큐멘터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>티쇼밍 블루스</td>
+					<td>Tishomingo Blues</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>드라마,범죄,코미디</td>
+					<td>감독,주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>호텔 르완다</td>
+					<td>Hotel Rwanda</td>
+					<td>2004</td>
+					<td>영국,이탈리아,남아프리카공화국</td>
+					<td>드라마,전쟁</td>
+					<td>주연-폴 역</td>
+					<td>0</td>
+					<td>12,353</td>
+					<td>69,353,900</td>
+					<td>10,826</td>
+				</tr>
+			
+				<tr>
+					<td>유나이티드 스테이츠 오브 리랜드</td>
+					<td>The United States Of Leland</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>매닉</td>
+					<td>Manic</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>태양 너머에</td>
+					<td>Things Behind the Sun</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-척 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>부기나이트</td>
+					<td>Boogie Nights</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-벅 스워프역</td>
+					<td>0</td>
+					<td>59,749</td>
+					<td>5,016,000</td>
+					<td>784</td>
+				</tr>
+			
+				<tr>
+					<td>볼케이노 </td>
+					<td>Volcano</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>액션,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>392,677</td>
+					<td>123,000</td>
+					<td>41</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

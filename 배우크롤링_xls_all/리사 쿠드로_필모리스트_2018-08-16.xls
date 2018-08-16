@@ -1,0 +1,203 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '리사 쿠드로'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>보스 베이비</td>
+					<td>The Boss Baby</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>애니메이션,코미디,가족</td>
+					<td>주연(목소리)</td>
+					<td>18,934,037,704</td>
+					<td>2,451,919</td>
+					<td>18,936,306,704</td>
+					<td>2,452,245</td>
+				</tr>
+			
+				<tr>
+					<td>걸 온 더 트레인</td>
+					<td>The Girl on the Train</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>드라마,스릴러,미스터리</td>
+					<td>조연-모니카 역역</td>
+					<td>222,516,500</td>
+					<td>29,190</td>
+					<td>222,516,500</td>
+					<td>29,190</td>
+				</tr>
+			
+				<tr>
+					<td>페이퍼맨</td>
+					<td>Paper Man</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>900,000</td>
+					<td>150</td>
+					<td>900,000</td>
+					<td>150</td>
+				</tr>
+			
+				<tr>
+					<td>카블루이</td>
+					<td>Kabluey</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>해피 엔딩</td>
+					<td>Happy Endings</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>원더랜드</td>
+					<td>Wonderland</td>
+					<td>2003</td>
+					<td>미국,캐나다</td>
+					<td>범죄,드라마,미스터리</td>
+					<td>감독</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>힙합 X</td>
+					<td>Marci X</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>애널 라이즈디스 2: 애널라이즈 댓</td>
+					<td>Analyze That</td>
+					<td>2002</td>
+					<td>미국,호주</td>
+					<td>코미디,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>럭키 넘버</td>
+					<td>Lucky Numbers</td>
+					<td>2000</td>
+					<td>프랑스,미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>지금은 통화중</td>
+					<td>Hainging Up</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>가족,드라마,코미디</td>
+					<td>주연-매디 모젤역</td>
+					<td>0</td>
+					<td>54,677</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>애널라이즈 디스</td>
+					<td>Analyze This</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>코미디,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>77,976</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>섹스의 반대말</td>
+					<td>The Opposite Of Sex</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

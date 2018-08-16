@@ -1,0 +1,320 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '천우희'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>소공녀(가제) </td>
+					<td></td>
+					<td>2018</td>
+					<td>한국</td>
+					<td></td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>흥부: 글로 세상을 바꾼 자</td>
+					<td>Heung-boo: The Revolutionist</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>사극</td>
+					<td>단역</td>
+					<td>3,381,302,200</td>
+					<td>416,346</td>
+					<td>3,381,050,200</td>
+					<td>416,303</td>
+				</tr>
+			
+				<tr>
+					<td>어느날</td>
+					<td>Oneday</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연-미소역</td>
+					<td>1,845,841,582</td>
+					<td>234,681</td>
+					<td>1,846,581,582</td>
+					<td>234,829</td>
+				</tr>
+			
+				<tr>
+					<td>걸스 온 탑</td>
+					<td>Girls On Top</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>니 부모 얼굴이 보고 싶다</td>
+					<td></td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>우상</td>
+					<td></td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>곡성</td>
+					<td>THE WAILING</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>미스터리,스릴러,드라마</td>
+					<td>주연-무명역</td>
+					<td>55,863,520,382</td>
+					<td>6,879,908</td>
+					<td>55,864,308,382</td>
+					<td>6,879,989</td>
+				</tr>
+			
+				<tr>
+					<td>9월 수요단편극장 &#034;여배우의 힘 - 이상희, 김새벽, 천우희&#034;</td>
+					<td></td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>기타</td>
+					<td>주연-고진아 역역</td>
+					<td></td>
+					<td></td>
+					<td>262,000</td>
+					<td>34</td>
+				</tr>
+			
+				<tr>
+					<td>해어화</td>
+					<td>LOVE, LIES</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>사극,드라마</td>
+					<td>주연</td>
+					<td>3,768,200,759</td>
+					<td>485,695</td>
+					<td>3,768,200,759</td>
+					<td>485,695</td>
+				</tr>
+			
+				<tr>
+					<td>뷰티 인사이드</td>
+					<td>The Beauty Inside</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>판타지,멜로/로맨스</td>
+					<td>주연-우진64역</td>
+					<td>16,155,795,131</td>
+					<td>2,054,297</td>
+					<td>16,184,831,031</td>
+					<td>2,057,896</td>
+				</tr>
+			
+				<tr>
+					<td>손님</td>
+					<td>The Piper</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>판타지,공포(호러)</td>
+					<td>주연</td>
+					<td>6,385,937,880</td>
+					<td>828,025</td>
+					<td>6,385,937,880</td>
+					<td>828,025</td>
+				</tr>
+			
+				<tr>
+					<td>출중한 여자</td>
+					<td></td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>98,000</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>한공주</td>
+					<td>HAN Gong-ju</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-한공주역</td>
+					<td>1,784,536,300</td>
+					<td>224,978</td>
+					<td>1,790,631,300</td>
+					<td>225,839</td>
+				</tr>
+			
+				<tr>
+					<td>26년</td>
+					<td>26 Years</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>액션,드라마</td>
+					<td>단역-적혁누이(특별출연)역</td>
+					<td>21,241,327,145</td>
+					<td>2,963,449</td>
+					<td>21,242,367,145</td>
+					<td>2,963,652</td>
+				</tr>
+			
+				<tr>
+					<td>코리아</td>
+					<td>As One</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-정화동생역</td>
+					<td>13,448,848,500</td>
+					<td>1,872,681</td>
+					<td>13,448,857,500</td>
+					<td>1,872,682</td>
+				</tr>
+			
+				<tr>
+					<td>써니</td>
+					<td>Sunny</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>조연-상미 역</td>
+					<td>54,034,235,100</td>
+					<td>7,362,467</td>
+					<td>54,038,534,700</td>
+					<td>7,363,139</td>
+				</tr>
+			
+				<tr>
+					<td>뻑킹 세븐틴</td>
+					<td>My Sweet Fucking Sixteen</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스,기타</td>
+					<td>주연-고진아역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>이파네마 소년</td>
+					<td>The Boy From Ipanema</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>조연</td>
+					<td>25,432,810</td>
+					<td>3,465</td>
+					<td>25,178,500</td>
+					<td>3,436</td>
+				</tr>
+			
+				<tr>
+					<td>사이에서</td>
+					<td>In Between</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>3,184,500</td>
+					<td>582</td>
+					<td>3,184,500</td>
+					<td>582</td>
+				</tr>
+			
+				<tr>
+					<td>마더</td>
+					<td>Mother</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-진태 여자친구, 미나 역</td>
+					<td>20,195,373,838</td>
+					<td>3,013,523</td>
+					<td>19,971,510,600</td>
+					<td>2,979,805</td>
+				</tr>
+			
+				<tr>
+					<td>생수</td>
+					<td></td>
+					<td></td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

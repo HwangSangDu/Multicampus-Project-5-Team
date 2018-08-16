@@ -1,0 +1,307 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '나가세 마사토시'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>빛나는</td>
+					<td>Radiance</td>
+					<td>2017</td>
+					<td>일본,프랑스</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>40,173,200</td>
+					<td>5,314</td>
+					<td>40,613,200</td>
+					<td>5,400</td>
+				</tr>
+			
+				<tr>
+					<td>64 파트 1</td>
+					<td>Six Four: part 1</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>미스터리,범죄,드라마</td>
+					<td>조연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>앙: 단팥 인생 이야기</td>
+					<td>An</td>
+					<td>2015</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>219,663,862</td>
+					<td>27,590</td>
+					<td>220,424,862</td>
+					<td>27,717</td>
+				</tr>
+			
+				<tr>
+					<td>전쟁과 한 여자</td>
+					<td>A Woman and War </td>
+					<td>2012</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>5,586,000</td>
+					<td>638</td>
+					<td>5,586,000</td>
+					<td>638</td>
+				</tr>
+			
+				<tr>
+					<td>시체 전문 처리반 - 스머글러</td>
+					<td>Smuggler</td>
+					<td>2011</td>
+					<td>일본</td>
+					<td>스릴러,액션</td>
+					<td>조연-조역</td>
+					<td>11,507,000</td>
+					<td>1,641</td>
+					<td>11,507,000</td>
+					<td>1,641</td>
+				</tr>
+			
+				<tr>
+					<td>매일 엄마</td>
+					<td>Kaasan Mom&#039;s Life</td>
+					<td>2011</td>
+					<td>일본</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>185,000</td>
+					<td>31</td>
+				</tr>
+			
+				<tr>
+					<td>천사</td>
+					<td>Angel</td>
+					<td>2006</td>
+					<td>일본</td>
+					<td>멜로/로맨스,판타지</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>241,000</td>
+					<td>58</td>
+				</tr>
+			
+				<tr>
+					<td>러브드 건</td>
+					<td>Loved Gun</td>
+					<td>2004</td>
+					<td>일본</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>숨겨진 검, 오니노츠메</td>
+					<td>The Hidden Blade</td>
+					<td>2004</td>
+					<td>일본</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>데드 엔드 런</td>
+					<td>Dead End Run</td>
+					<td>2003</td>
+					<td>일본</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>바다는 보고 있었다</td>
+					<td>The Sea Is Watching</td>
+					<td>2002</td>
+					<td>일본</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사치스런 뼈</td>
+					<td>Luxurious Bone</td>
+					<td>2001</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스테레오 퓨쳐</td>
+					<td>Stereo Future</td>
+					<td>2001</td>
+					<td>일본</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>조연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>피스톨 오페라</td>
+					<td>Pistol Opera</td>
+					<td>2001</td>
+					<td>일본</td>
+					<td>범죄,액션,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>갇혀진 고통</td>
+					<td>Enclosed Pain</td>
+					<td>2000</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>고조</td>
+					<td>Gojoe</td>
+					<td>2000</td>
+					<td>일본</td>
+					<td>액션,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>일렉트릭 드라곤 80000 V </td>
+					<td>Electric Dragon 80.000 V</td>
+					<td>2000</td>
+					<td>일본</td>
+					<td>액션,SF</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>파티 7</td>
+					<td>Party 7</td>
+					<td>2000</td>
+					<td>일본</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>미스테리 트레인</td>
+					<td>Mystery Train</td>
+					<td>1989</td>
+					<td>일본,미국</td>
+					<td>드라마</td>
+					<td>주연-준 역역</td>
+					<td></td>
+					<td></td>
+					<td>5,012,000</td>
+					<td>674</td>
+				</tr>
+			
+				<tr>
+					<td>숀벤 라이더</td>
+					<td>P.P. Rider </td>
+					<td>1983</td>
+					<td>일본</td>
+					<td>드라마,액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>859,000</td>
+					<td>122</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,73 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '시타야 노리코'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>페이트 스테이 나이트 헤븐즈필 제1장 프레시지 플라워</td>
+					<td>Fate/stay night[Heaven&#039;s Feel] THE MOVIE chapter 1:presage flower</td>
+					<td>2017</td>
+					<td>일본</td>
+					<td>애니메이션,액션,판타지</td>
+					<td>주연-마토 사쿠라역(목소리)</td>
+					<td>338,294,000</td>
+					<td>42,413</td>
+					<td>350,268,500</td>
+					<td>43,711</td>
+				</tr>
+			
+				<tr>
+					<td>페이트/스테이 나이트 극장판 무한의 검제</td>
+					<td>Fate/stay night Unlimited Blade Works</td>
+					<td>2010</td>
+					<td>일본</td>
+					<td>SF,애니메이션,액션</td>
+					<td>주연-마토우 사쿠라역(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

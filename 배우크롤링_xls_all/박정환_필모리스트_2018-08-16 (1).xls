@@ -1,0 +1,229 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '박정환'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>대립군</td>
+					<td>WARRIORS OF THE DAWN</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마,사극</td>
+					<td>단역-익위사4역</td>
+					<td>6,276,963,402</td>
+					<td>837,500</td>
+					<td>6,276,963,402</td>
+					<td>837,500</td>
+				</tr>
+			
+				<tr>
+					<td>조작된 도시</td>
+					<td>Fabricated City</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>범죄,액션</td>
+					<td>단역-마덕수 조직원4역</td>
+					<td>20,138,295,587</td>
+					<td>2,514,943</td>
+					<td>20,143,992,587</td>
+					<td>2,515,501</td>
+				</tr>
+			
+				<tr>
+					<td>챌린지 게임</td>
+					<td>Challenge Game</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>스릴러,멜로/로맨스</td>
+					<td>단역-꽁치역</td>
+					<td>657,000</td>
+					<td>126</td>
+					<td>657,000</td>
+					<td>126</td>
+				</tr>
+			
+				<tr>
+					<td>트릭</td>
+					<td>Trick</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>스릴러,드라마</td>
+					<td>단역-공연감독역</td>
+					<td>297,957,300</td>
+					<td>38,262</td>
+					<td>297,957,300</td>
+					<td>38,262</td>
+				</tr>
+			
+				<tr>
+					<td>암살</td>
+					<td>Assassination</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>액션,드라마</td>
+					<td>단역-아네모네 손님 역</td>
+					<td>98,463,132,781</td>
+					<td>12,705,700</td>
+					<td>98,467,187,781</td>
+					<td>12,706,663</td>
+				</tr>
+			
+				<tr>
+					<td>하이프 네이션 : 힙합사기꾼</td>
+					<td>Hype Nation 3D</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>범죄,드라마,코미디</td>
+					<td>단역-특별출연역</td>
+					<td>20,421,000</td>
+					<td>3,996</td>
+					<td>20,421,000</td>
+					<td>3,996</td>
+				</tr>
+			
+				<tr>
+					<td>도마 안중근</td>
+					<td>Thomas Ahn Joong Keun</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-조도선 역</td>
+					<td>0</td>
+					<td>50,000</td>
+					<td>128,953,000</td>
+					<td>20,318</td>
+				</tr>
+			
+				<tr>
+					<td>여자는 남자의 미래다</td>
+					<td>Woman Is The Future Of Man</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연</td>
+					<td>0</td>
+					<td>284,872</td>
+					<td>778,809,500</td>
+					<td>116,662</td>
+				</tr>
+			
+				<tr>
+					<td>춘희</td>
+					<td>The Spring and the Delight</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>피로 물든 세계지도</td>
+					<td>The Red-blooded World Map</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>와니와 준하</td>
+					<td>Wanee And Junah</td>
+					<td>2001</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>101,879</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>인디안 썸머</td>
+					<td>Indian Summer</td>
+					<td>2001</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>388,865</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>고도지몽</td>
+					<td>Meet Godot</td>
+					<td>2000</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사월의 끝</td>
+					<td>The End of April</td>
+					<td>2000</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

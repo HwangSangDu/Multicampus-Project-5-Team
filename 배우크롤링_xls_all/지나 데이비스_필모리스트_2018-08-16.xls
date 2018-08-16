@@ -1,0 +1,203 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '지나 데이비스'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>당신과 함께한 순간들</td>
+					<td>Marjorie Prime</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>41,057,300</td>
+					<td>5,453</td>
+					<td>41,288,300</td>
+					<td>5,486</td>
+				</tr>
+			
+				<tr>
+					<td>스튜어트 리틀 3</td>
+					<td>Stuart Little 3: Call Of The Wild</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>애니메이션,코미디,가족</td>
+					<td>주연(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스튜어트 리틀 2</td>
+					<td>Stuart Little 2</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>가족,어드벤처,코미디,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>232,622</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스튜어트 리틀</td>
+					<td>Stuart Little</td>
+					<td>1999</td>
+					<td>미국,독일</td>
+					<td>코미디,가족,애니메이션</td>
+					<td>주연-Mrs. 리틀역</td>
+					<td>0</td>
+					<td>392,933</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>롱 키스 굿나잇 </td>
+					<td>Long Kiss Good Night</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>액션,드라마,스릴러</td>
+					<td>주연-사만다 케인/찰리 발티모어역</td>
+					<td>0</td>
+					<td>243,467</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스피치리스 </td>
+					<td>Speechless</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,917</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>컷스로트 아일랜드 </td>
+					<td>The Legend Of Cutthroat Island</td>
+					<td>1995</td>
+					<td>미국,프랑스,이탈리아,독일</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>258,920</td>
+					<td>39,000</td>
+					<td>13</td>
+				</tr>
+			
+				<tr>
+					<td>앤지 </td>
+					<td>Angie I Says</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>21,450</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>리틀 빅 히어로</td>
+					<td>Accidental Hero</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>33,021</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>델마와 루이스 </td>
+					<td>Thelma and Louise</td>
+					<td>1991</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-델마역</td>
+					<td>0</td>
+					<td>119,301</td>
+					<td>71,247,100</td>
+					<td>9,185</td>
+				</tr>
+			
+				<tr>
+					<td>그들만의 리그</td>
+					<td>A League Of Their Own</td>
+					<td>1991</td>
+					<td>미국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>9,981</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>플라이</td>
+					<td>The Fly</td>
+					<td>1986</td>
+					<td>미국</td>
+					<td>공포(호러),SF</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,99 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '안소희'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>싱글라이더</td>
+					<td>A Single Rider</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-지나역</td>
+					<td>2,685,519,021</td>
+					<td>351,276</td>
+					<td>2,685,519,021</td>
+					<td>351,276</td>
+				</tr>
+			
+				<tr>
+					<td>부산행</td>
+					<td>TRAIN TO BUSAN</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>액션,스릴러</td>
+					<td>조연-진희역</td>
+					<td>93,178,283,048</td>
+					<td>11,565,479</td>
+					<td>93,182,579,048</td>
+					<td>11,566,862</td>
+				</tr>
+			
+				<tr>
+					<td>라스트 갓파더</td>
+					<td>The Last Godfather</td>
+					<td>2010</td>
+					<td>한국,미국</td>
+					<td>코미디</td>
+					<td>단역-까메오역</td>
+					<td>16,832,542,997</td>
+					<td>2,316,099</td>
+					<td>18,511,991,000</td>
+					<td>2,541,603</td>
+				</tr>
+			
+				<tr>
+					<td>뜨거운 것이 좋아</td>
+					<td>Hellcats</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-김강애역</td>
+					<td>3,790,235,833</td>
+					<td>590,409</td>
+					<td>3,790,681,000</td>
+					<td>578,834</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,190 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '이토 히데아키'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>22년 후의 고백</td>
+					<td>Memoirs of a Murderer</td>
+					<td>2017</td>
+					<td>일본</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>12,993,500</td>
+					<td>1,732</td>
+					<td>12,993,500</td>
+					<td>1,732</td>
+				</tr>
+			
+				<tr>
+					<td>테라포마스</td>
+					<td>Terraformars</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>액션,공포(호러),SF</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>악의교전</td>
+					<td>Lesson of the Evil</td>
+					<td>2012</td>
+					<td>일본</td>
+					<td>스릴러</td>
+					<td>주연-하스미 세이지역</td>
+					<td>11,340,500</td>
+					<td>1,592</td>
+					<td>11,674,500</td>
+					<td>1,646</td>
+				</tr>
+			
+				<tr>
+					<td>스키야키 웨스턴 장고</td>
+					<td>Sukiyaki Western Django</td>
+					<td>2007</td>
+					<td>일본</td>
+					<td>서부극(웨스턴),액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>우미자루 2 : 리미트 오브 러브</td>
+					<td>Limit of Love: Umizaru</td>
+					<td>2006</td>
+					<td>일본</td>
+					<td>액션,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>이 가슴 가득한 사랑을</td>
+					<td>A Heartful Of Love</td>
+					<td>2005</td>
+					<td>일본</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>우미자루</td>
+					<td>Umizaru</td>
+					<td>2004</td>
+					<td>일본</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>프린세스 블레이드</td>
+					<td>The Princess Blade</td>
+					<td>2001</td>
+					<td>일본</td>
+					<td>액션,SF</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>0</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>음양사</td>
+					<td>The Yin-Yang Master</td>
+					<td>2001</td>
+					<td>일본</td>
+					<td>드라마,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>23,000</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>러브 송</td>
+					<td>Love Song</td>
+					<td>2001</td>
+					<td>일본</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연-마츠오카역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>크로스 파이어</td>
+					<td>Pyrokinesis</td>
+					<td>2000</td>
+					<td>일본</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

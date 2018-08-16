@@ -1,0 +1,190 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '코라 켄고'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>그녀의 인생은 잘못이 없어</td>
+					<td>Side Job</td>
+					<td>2017</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>1,629,000</td>
+					<td>213</td>
+					<td>1,629,000</td>
+					<td>213</td>
+				</tr>
+			
+				<tr>
+					<td>너는 착한 아이</td>
+					<td>Being Good</td>
+					<td>2015</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>35,354,800</td>
+					<td>4,707</td>
+					<td>42,067,300</td>
+					<td>5,702</td>
+				</tr>
+			
+				<tr>
+					<td>요노스케 이야기</td>
+					<td>A Story of Yonosuke</td>
+					<td>2013</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>2,115,000</td>
+					<td>260</td>
+					<td>2,229,000</td>
+					<td>279</td>
+				</tr>
+			
+				<tr>
+					<td>깨끗하고 연약한</td>
+					<td>Beyond the Memories</td>
+					<td>2013</td>
+					<td>일본</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>18,232,600</td>
+					<td>2,661</td>
+					<td>18,232,600</td>
+					<td>2,661</td>
+				</tr>
+			
+				<tr>
+					<td>룸메이트</td>
+					<td>Roommate</td>
+					<td>2013</td>
+					<td>일본</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>3,088,000</td>
+					<td>466</td>
+					<td>3,093,000</td>
+					<td>467</td>
+				</tr>
+			
+				<tr>
+					<td>딱따구리와 비</td>
+					<td>The woodsman and the rain</td>
+					<td>2012</td>
+					<td>일본</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>12,382,000</td>
+					<td>1,703</td>
+					<td>12,660,000</td>
+					<td>1,735</td>
+				</tr>
+			
+				<tr>
+					<td>경멸: 에고이스트</td>
+					<td>The Egoists</td>
+					<td>2011</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>소라닌</td>
+					<td>Solanin,</td>
+					<td>2010</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>82,518,575</td>
+					<td>11,090</td>
+					<td>81,872,000</td>
+					<td>10,997</td>
+				</tr>
+			
+				<tr>
+					<td>남극의 쉐프</td>
+					<td>The Chef Of South Polar</td>
+					<td>2009</td>
+					<td>일본</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>25,129,544</td>
+					<td>3,530</td>
+					<td>26,685,500</td>
+					<td>3,709</td>
+				</tr>
+			
+				<tr>
+					<td>스네이크 앤 이어링</td>
+					<td>SNAKES AND EARRINGS</td>
+					<td>2008</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>30,000</td>
+					<td>10</td>
+				</tr>
+			
+				<tr>
+					<td>도발적 관계 : 엠</td>
+					<td>M</td>
+					<td>2006</td>
+					<td>일본</td>
+					<td>스릴러,성인물(에로)</td>
+					<td>주연-미노루역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

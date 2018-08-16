@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '나루미 리코'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>더 크로니클: 뮤턴트의 반격</td>
+					<td>Strayer&#039;s Chronicle</td>
+					<td>2015</td>
+					<td>일본</td>
+					<td>SF,액션</td>
+					<td>주연</td>
+					<td>20,126,500</td>
+					<td>2,613</td>
+					<td>20,126,500</td>
+					<td>2,613</td>
+				</tr>
+			
+				<tr>
+					<td>도쿄아포칼립스: 최후의 결전</td>
+					<td>Yakuza Apocalypse</td>
+					<td>2014</td>
+					<td>일본</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>3,935,000</td>
+					<td>748</td>
+					<td>3,935,000</td>
+					<td>748</td>
+				</tr>
+			
+				<tr>
+					<td>서도걸즈!! 우리들의 갑자원</td>
+					<td>Shodo Girls!!</td>
+					<td>2010</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>27,500</td>
+					<td>7</td>
+				</tr>
+			
+				<tr>
+					<td>야마가타 스크림</td>
+					<td>Yamagata Scream</td>
+					<td>2009</td>
+					<td>일본</td>
+					<td>코미디,공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>내일의 나를 만드는 방법</td>
+					<td>How To Become Myself</td>
+					<td>2007</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연-오오시마 주리역</td>
+					<td></td>
+					<td></td>
+					<td>419,500</td>
+					<td>61</td>
+				</tr>
+			
+				<tr>
+					<td>신동</td>
+					<td>Genius</td>
+					<td>2007</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

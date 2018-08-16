@@ -1,0 +1,528 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '데니스 퀘이드'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>아이 캔 온리 이매진</td>
+					<td>I Can Only Imagine</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>드라마,가족</td>
+					<td>주연</td>
+					<td>150,592,300</td>
+					<td>17,987</td>
+					<td>179,752,600</td>
+					<td>21,737</td>
+				</tr>
+			
+				<tr>
+					<td>트루스</td>
+					<td>Truth</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>조연</td>
+					<td>151,967,000</td>
+					<td>19,315</td>
+					<td>152,153,000</td>
+					<td>19,340</td>
+				</tr>
+			
+				<tr>
+					<td>더 스토리: 세상에 숨겨진 사랑</td>
+					<td>The Words</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>드라마,스릴러,멜로/로맨스</td>
+					<td>주연-클레이역</td>
+					<td>267,561,500</td>
+					<td>36,849</td>
+					<td>268,881,500</td>
+					<td>37,025</td>
+				</tr>
+			
+				<tr>
+					<td>소울 서퍼</td>
+					<td>Soul Surfer</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>426,000</td>
+					<td>117</td>
+				</tr>
+			
+				<tr>
+					<td>언더 다크니스</td>
+					<td>Beneath The Darkness</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>풋루즈</td>
+					<td>Footloose</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>뮤지컬,드라마</td>
+					<td>주연-숀 무어 목사 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>리전</td>
+					<td>Legion</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>액션,판타지,스릴러</td>
+					<td>조연-밥 핸슨역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>팬도럼</td>
+					<td>Pandorum</td>
+					<td>2009</td>
+					<td>독일,영국</td>
+					<td>액션,공포(호러),SF,스릴러</td>
+					<td>주연-페이튼 역</td>
+					<td>1,241,613,605</td>
+					<td>163,494</td>
+					<td>1,223,107,000</td>
+					<td>161,070</td>
+				</tr>
+			
+				<tr>
+					<td>지.아이.조 : 전쟁의 서막</td>
+					<td>G.I. Joe: The Rise of Cobra</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연-호크 장군 역</td>
+					<td>19,889,126,096</td>
+					<td>2,706,748</td>
+					<td>19,583,593,500</td>
+					<td>2,665,886</td>
+				</tr>
+			
+				<tr>
+					<td>호스맨</td>
+					<td>Horsemen</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>범죄,미스터리,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스마트 피플</td>
+					<td>Smart People</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td>314,975,000</td>
+					<td>45,818</td>
+					<td>314,919,000</td>
+					<td>45,810</td>
+				</tr>
+			
+				<tr>
+					<td>밴티지 포인트</td>
+					<td>Vantage Point</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>스릴러,드라마,액션</td>
+					<td>주연-토마스 반즈 역</td>
+					<td>6,654,718,499</td>
+					<td>1,015,287</td>
+					<td>6,679,552,000</td>
+					<td>1,007,729</td>
+				</tr>
+			
+				<tr>
+					<td>더 익스프레스</td>
+					<td>The Express : The Ernie Davis Story</td>
+					<td>2008</td>
+					<td>미국,독일</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>미트 로프 - 천국을 찾아서</td>
+					<td>Meat Loaf: In Search Of Paradise</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>다큐멘터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>나,너 그리고 우리</td>
+					<td>Yours, Mine And Ours</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>멜로/로맨스,드라마,코미디,가족</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>120</td>
+					<td>846,500</td>
+					<td>121</td>
+				</tr>
+			
+				<tr>
+					<td>아메리칸 드림즈</td>
+					<td>American Dreamz</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>인 굿 컴퍼니</td>
+					<td>In Good Company</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>200,393</td>
+					<td>1,212,450,000</td>
+					<td>185,406</td>
+				</tr>
+			
+				<tr>
+					<td>피닉스</td>
+					<td>Flight Of The Phoenix</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>76,700</td>
+					<td>332,452,000</td>
+					<td>51,901</td>
+				</tr>
+			
+				<tr>
+					<td>투모로우</td>
+					<td>The Day After Tomorrow</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>SF</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>3,006,400</td>
+					<td>11,658,584,500</td>
+					<td>1,830,767</td>
+				</tr>
+			
+				<tr>
+					<td>알라모</td>
+					<td>The Alamo</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>서부극(웨스턴),드라마,전쟁</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>콜드 크릭</td>
+					<td>Cold Creek Manor</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>104</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>파 프롬 헤븐</td>
+					<td>Far From Heaven</td>
+					<td>2003</td>
+					<td>프랑스</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>49,691</td>
+					<td>158,000</td>
+					<td>34</td>
+				</tr>
+			
+				<tr>
+					<td>루키</td>
+					<td>The Rookie</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>10,357</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>프리퀀시</td>
+					<td>Frequency</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>범죄,드라마,SF,스릴러</td>
+					<td>주연-프랭크 설리반역</td>
+					<td>0</td>
+					<td>39,595</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>애니 기븐 선데이</td>
+					<td>Any Given Sunday</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-잭 캡 루니역</td>
+					<td>0</td>
+					<td>66,220</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>갱 릴레이션 </td>
+					<td>Gang Related</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>888</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>세이비어 </td>
+					<td>Savior</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>드라마,전쟁</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>7,765</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>페어런트 트랩</td>
+					<td>The Parent Trap</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>가족,멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>드래곤 하트 </td>
+					<td>Dragon Heart</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>판타지,액션,어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>81,837</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>줄리아 로버츠의 사랑게임</td>
+					<td>Something To Talk About</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>24,910</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>와이어트 어프 </td>
+					<td>Wyatt Earp</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>서부극(웨스턴)</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>39,464</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>첩보원 가족</td>
+					<td>Undercover Blues</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>가족,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>17,673</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>악몽</td>
+					<td>Flesh And Bone</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>드라마,미스터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>와일더 네이팜</td>
+					<td>Wilder Napalm</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>코미디,판타지</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>열정의 록큰롤</td>
+					<td>Great Balls of Fire</td>
+					<td>1989</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>264,000</td>
+					<td>49</td>
+				</tr>
+			
+				<tr>
+					<td>죠스 3</td>
+					<td>Jaws 3-D</td>
+					<td>1983</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>브레이킹 어웨이</td>
+					<td>Breaking Away</td>
+					<td>1979</td>
+					<td>미국</td>
+					<td>가족,드라마,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>167,892</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

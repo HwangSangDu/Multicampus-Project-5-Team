@@ -1,0 +1,203 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '카와카미 유우'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>이쁜 여관 주인 아줌마</td>
+					<td>Prey of landlady</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>드라마,성인물(에로)</td>
+					<td>주연-유우역</td>
+					<td>6,000</td>
+					<td>1</td>
+					<td>6,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>요리학원에서 스와핑</td>
+					<td>Of ex-girlfriend revenge</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연-유우역</td>
+					<td>18,000</td>
+					<td>3</td>
+					<td>18,000</td>
+					<td>3</td>
+				</tr>
+			
+				<tr>
+					<td>젊은 며느리: 시아버지의 유혹에 빠지다(무삭제)</td>
+					<td>Apartment Wives</td>
+					<td>2015</td>
+					<td>일본</td>
+					<td>멜로/로맨스</td>
+					<td>감독</td>
+					<td>5,000</td>
+					<td>1</td>
+					<td>5,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>젊은 며느리: 시아버지의 유혹에 빠지다</td>
+					<td>Apartment Wives</td>
+					<td>2015</td>
+					<td>일본</td>
+					<td>멜로/로맨스</td>
+					<td>감독</td>
+					<td>5,000</td>
+					<td>1</td>
+					<td>5,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>음란부인의 쾌락</td>
+					<td>Shadow Beast Wife~a wife who is chaste and immoral~</td>
+					<td>2015</td>
+					<td>일본</td>
+					<td>성인물(에로)</td>
+					<td>주연</td>
+					<td>8,000</td>
+					<td>1</td>
+					<td>8,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>아찔한 욕정녀들</td>
+					<td>Crime and Punishment the second volume</td>
+					<td>2015</td>
+					<td>일본</td>
+					<td>성인물(에로)</td>
+					<td>주연</td>
+					<td>8,000</td>
+					<td>1</td>
+					<td>8,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>절세부인의 사랑</td>
+					<td>Crime and Punishment the first volume</td>
+					<td>2015</td>
+					<td>일본</td>
+					<td>성인물(에로)</td>
+					<td>주연</td>
+					<td>8,000</td>
+					<td>1</td>
+					<td>8,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>남편 몰래 외도하기</td>
+					<td>Aching virtuous company house wife</td>
+					<td>2012</td>
+					<td>일본</td>
+					<td>성인물(에로)</td>
+					<td>주연</td>
+					<td>270,000</td>
+					<td>54</td>
+					<td>270,000</td>
+					<td>54</td>
+				</tr>
+			
+				<tr>
+					<td>화려한 오후: 그녀의 새파트너</td>
+					<td>Housing complex wives who are not met</td>
+					<td>2012</td>
+					<td>일본</td>
+					<td>성인물(에로)</td>
+					<td>주연</td>
+					<td>270,000</td>
+					<td>54</td>
+					<td>270,000</td>
+					<td>54</td>
+				</tr>
+			
+				<tr>
+					<td>그녀의 팬티스타킹</td>
+					<td>FETISH</td>
+					<td>2012</td>
+					<td>일본</td>
+					<td>성인물(에로)</td>
+					<td>주연</td>
+					<td>30,000</td>
+					<td>10</td>
+					<td>30,000</td>
+					<td>10</td>
+				</tr>
+			
+				<tr>
+					<td>수영복 불륜정사</td>
+					<td>Pictured Stepsister</td>
+					<td>2011</td>
+					<td>일본</td>
+					<td>성인물(에로)</td>
+					<td>주연</td>
+					<td>36,000</td>
+					<td>2</td>
+					<td>36,000</td>
+					<td>2</td>
+				</tr>
+			
+				<tr>
+					<td>변태욕구</td>
+					<td>Hentaiganbou</td>
+					<td>2010</td>
+					<td>일본</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>5,000</td>
+					<td>1</td>
+					<td>5,000</td>
+					<td>1</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

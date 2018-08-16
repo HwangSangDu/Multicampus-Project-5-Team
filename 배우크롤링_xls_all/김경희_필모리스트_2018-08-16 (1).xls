@@ -1,0 +1,99 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '김경희'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>명령불복종 교사</td>
+					<td>The Disobeying Teacher</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>다큐멘터리</td>
+					<td>단역-출연역</td>
+					<td>10,743,200</td>
+					<td>1,644</td>
+					<td>11,983,200</td>
+					<td>1,827</td>
+				</tr>
+			
+				<tr>
+					<td>우는 남자</td>
+					<td>No Tears for the Dead</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>액션,드라마</td>
+					<td>단역-청소부 아줌마역</td>
+					<td>4,923,607,800</td>
+					<td>603,409</td>
+					<td>4,924,852,800</td>
+					<td>603,495</td>
+				</tr>
+			
+				<tr>
+					<td>열혈남아</td>
+					<td>Cruel Winter Blues</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>드라마,범죄,액션</td>
+					<td>조연-뻘밭아낙2역</td>
+					<td>0</td>
+					<td>570,059</td>
+					<td>2,834,973,800</td>
+					<td>466,107</td>
+				</tr>
+			
+				<tr>
+					<td>하몽하몽 서울</td>
+					<td>Jamon Jamon Seoul</td>
+					<td>1994</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스,성인물(에로)</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>650</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

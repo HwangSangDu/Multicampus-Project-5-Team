@@ -1,0 +1,255 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '배종옥'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>환절기</td>
+					<td>In Between Seasons</td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>52,955,000</td>
+					<td>6,592</td>
+					<td>52,955,000</td>
+					<td>6,592</td>
+				</tr>
+			
+				<tr>
+					<td>반드시 잡는다</td>
+					<td>The Chase</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>조연-민사장역</td>
+					<td>3,326,439,772</td>
+					<td>446,780</td>
+					<td>3,326,439,772</td>
+					<td>446,780</td>
+				</tr>
+			
+				<tr>
+					<td>바람의 춤꾼</td>
+					<td>Dances with the Wind</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>다큐멘터리</td>
+					<td>기타-내레이터</td>
+					<td>12,443,100</td>
+					<td>2,039</td>
+					<td>12,443,100</td>
+					<td>2,039</td>
+				</tr>
+			
+				<tr>
+					<td>세상에서 가장 아름다운 이별</td>
+					<td>The Most Beautiful Goodbye</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-인희역</td>
+					<td>2,295,897,500</td>
+					<td>316,788</td>
+					<td>2,297,005,000</td>
+					<td>317,013</td>
+				</tr>
+			
+				<tr>
+					<td>오감도</td>
+					<td>Five Senses Of Eros</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-박화란역,segment 3 - 박화란역</td>
+					<td>3,107,441,952</td>
+					<td>443,462</td>
+					<td>3,074,373,500</td>
+					<td>438,808</td>
+				</tr>
+			
+				<tr>
+					<td>허브</td>
+					<td>Herb</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,406,199</td>
+					<td>7,652,767,000</td>
+					<td>1,304,662</td>
+				</tr>
+			
+				<tr>
+					<td>러브토크</td>
+					<td>Love Talk</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>15,719</td>
+					<td>92,829,500</td>
+					<td>14,320</td>
+				</tr>
+			
+				<tr>
+					<td>안녕, 형아</td>
+					<td>Little Brother</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,143,136</td>
+					<td>5,614,875,500</td>
+					<td>924,019</td>
+				</tr>
+			
+				<tr>
+					<td>질투는 나의 힘</td>
+					<td>Jealousy Is My Middle Name</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td>62,788</td>
+					<td>223,000</td>
+					<td>28</td>
+				</tr>
+			
+				<tr>
+					<td>마리이야기</td>
+					<td>My Beautiful Girl, Mari</td>
+					<td>2001</td>
+					<td>한국</td>
+					<td>애니메이션</td>
+					<td>주연-남우 엄마 목소리역(목소리)</td>
+					<td></td>
+					<td>54,404</td>
+					<td>102,000</td>
+					<td>22</td>
+				</tr>
+			
+				<tr>
+					<td>깊은 슬픔</td>
+					<td>Deep Blue</td>
+					<td>1997</td>
+					<td>한국</td>
+					<td>드라마,액션</td>
+					<td>주연-박효선역</td>
+					<td>0</td>
+					<td>10,319</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>걸어서 하늘까지</td>
+					<td>Walking All The Way To Heaven</td>
+					<td>1992</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>30,038</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>젊은 날의 초상</td>
+					<td>Portrait Of The Days Of Youth</td>
+					<td>1990</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>174,886</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>나는 날마다 일어선다</td>
+					<td>I Stand Every Day</td>
+					<td>1990</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>29,812</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>칠수와 만수</td>
+					<td>Chil-Su And Man-Su</td>
+					<td>1988</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-지나역</td>
+					<td>0</td>
+					<td>73,751</td>
+					<td>809,000</td>
+					<td>321</td>
+				</tr>
+			
+				<tr>
+					<td>위안</td>
+					<td>Consolation</td>
+					<td>1984</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,138 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '제이슨 모모아'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>브레이븐</td>
+					<td>Braven</td>
+					<td>2018</td>
+					<td>캐나다</td>
+					<td>액션,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>원스 어폰 어 타임 인 베니스</td>
+					<td>Once Upon a Time in Venice</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>코미디,액션,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>150,000</td>
+					<td>30</td>
+				</tr>
+			
+				<tr>
+					<td>저스티스 리그</td>
+					<td>Justice League</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지,SF</td>
+					<td>주연-아쿠아맨 / 아서 커리역</td>
+					<td>14,629,692,795</td>
+					<td>1,786,386</td>
+					<td>14,629,692,795</td>
+					<td>1,786,386</td>
+				</tr>
+			
+				<tr>
+					<td>도망자 2016</td>
+					<td>Road to Paloma</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>범죄,스릴러,드라마</td>
+					<td>감독,주연</td>
+					<td>5,000</td>
+					<td>1</td>
+					<td>5,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>디버그: 슈퍼컴퓨터 VS 천재해커</td>
+					<td>Debug</td>
+					<td>2014</td>
+					<td>미국,캐나다</td>
+					<td>SF,스릴러,공포(호러)</td>
+					<td>주연</td>
+					<td>392,000</td>
+					<td>54</td>
+					<td>392,000</td>
+					<td>54</td>
+				</tr>
+			
+				<tr>
+					<td>울브스</td>
+					<td>Wolves</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>판타지,액션</td>
+					<td>주연</td>
+					<td>313,204,669</td>
+					<td>43,613</td>
+					<td>313,204,669</td>
+					<td>43,613</td>
+				</tr>
+			
+				<tr>
+					<td>코난: 암흑의 시대</td>
+					<td>Conan the barbarian</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>판타지,액션</td>
+					<td>주연-코난역</td>
+					<td>260,491,000</td>
+					<td>33,683</td>
+					<td>260,491,000</td>
+					<td>33,683</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,190 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '시에나 밀러'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>잃어버린 도시 Z</td>
+					<td>The Lost City Of Z</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,어드벤처,드라마</td>
+					<td>주연</td>
+					<td>362,053,440</td>
+					<td>47,088</td>
+					<td>362,053,440</td>
+					<td>47,088</td>
+				</tr>
+			
+				<tr>
+					<td>하이-라이즈</td>
+					<td>High-Rise</td>
+					<td>2015</td>
+					<td>영국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>192,162,100</td>
+					<td>24,600</td>
+					<td>192,162,100</td>
+					<td>24,600</td>
+				</tr>
+			
+				<tr>
+					<td>더 셰프</td>
+					<td>Burnt</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>1,487,172,148</td>
+					<td>187,122</td>
+					<td>1,487,412,148</td>
+					<td>187,152</td>
+				</tr>
+			
+				<tr>
+					<td>아메리칸 스나이퍼</td>
+					<td>American Sniper</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>2,808,488,438</td>
+					<td>345,759</td>
+					<td>2,808,488,438</td>
+					<td>345,759</td>
+				</tr>
+			
+				<tr>
+					<td>온리 포 유</td>
+					<td>A Case of You</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>8,000</td>
+					<td>1</td>
+					<td>8,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>지.아이.조 : 전쟁의 서막</td>
+					<td>G.I. Joe: The Rise of Cobra</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연-배로니스역</td>
+					<td>19,889,126,096</td>
+					<td>2,706,748</td>
+					<td>19,583,593,500</td>
+					<td>2,665,886</td>
+				</tr>
+			
+				<tr>
+					<td>사랑의 순간</td>
+					<td>The Edge of Love</td>
+					<td>2008</td>
+					<td>영국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>카밀</td>
+					<td>Camille</td>
+					<td>2008</td>
+					<td>미국,영국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>피츠버그의 미스터리</td>
+					<td>The Mysteries of Pittsburgh</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>어드벤처,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>인터뷰</td>
+					<td>Interview</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-카티아 역</td>
+					<td>15,890,000</td>
+					<td>2,289</td>
+					<td>15,890,000</td>
+					<td>2,289</td>
+				</tr>
+			
+				<tr>
+					<td>팩토리 걸 </td>
+					<td>Factory Girl</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>18,197</td>
+					<td>120,293,000</td>
+					<td>17,891</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

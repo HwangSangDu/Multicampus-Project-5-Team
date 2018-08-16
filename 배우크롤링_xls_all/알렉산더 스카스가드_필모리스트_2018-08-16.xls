@@ -1,0 +1,164 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '알렉산더 스카스가드'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>레전드 오브 타잔</td>
+					<td>The Legend of Tarzan</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,어드벤처</td>
+					<td>주연</td>
+					<td>7,196,970,717</td>
+					<td>858,402</td>
+					<td>7,196,970,717</td>
+					<td>858,402</td>
+				</tr>
+			
+				<tr>
+					<td>더 기버: 기억전달자</td>
+					<td>The Giver</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>SF,드라마,판타지</td>
+					<td>주연</td>
+					<td>814,330,000</td>
+					<td>107,567</td>
+					<td>814,330,000</td>
+					<td>107,567</td>
+				</tr>
+			
+				<tr>
+					<td>미니의 19금 일기</td>
+					<td>The Diary of A Teenage Girl</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>더 이스트</td>
+					<td>The East</td>
+					<td>2013</td>
+					<td>미국,영국</td>
+					<td>액션,미스터리</td>
+					<td>주연-벤지 역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>메이지가 알고 있었던 일</td>
+					<td>What Maisie Knew</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-링컨역</td>
+					<td>14,597,500</td>
+					<td>2,125</td>
+					<td>14,597,500</td>
+					<td>2,125</td>
+				</tr>
+			
+				<tr>
+					<td>디스커넥트</td>
+					<td>Disconnect</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연-데릭역</td>
+					<td>161,108,704</td>
+					<td>23,255</td>
+					<td>161,108,704</td>
+					<td>23,255</td>
+				</tr>
+			
+				<tr>
+					<td>배틀쉽</td>
+					<td>Battleship</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>SF,액션</td>
+					<td>주연-스톤 하퍼역</td>
+					<td>16,545,921,500</td>
+					<td>2,241,687</td>
+					<td>16,545,921,500</td>
+					<td>2,241,687</td>
+				</tr>
+			
+				<tr>
+					<td>익스트림 No.13</td>
+					<td>13</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연-잭역</td>
+					<td>88,072,516</td>
+					<td>12,408</td>
+					<td>88,072,516</td>
+					<td>12,408</td>
+				</tr>
+			
+				<tr>
+					<td>익스트림 No.13 감독판</td>
+					<td>13</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>스릴러,액션</td>
+					<td>조연</td>
+					<td>600,000</td>
+					<td>40</td>
+					<td>600,000</td>
+					<td>40</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,216 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '김강현'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>게스트하우스</td>
+					<td>Guest House</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>2,062,500</td>
+					<td>303</td>
+					<td>2,062,500</td>
+					<td>303</td>
+				</tr>
+			
+				<tr>
+					<td>어떻게 헤어질까</td>
+					<td>How to Break up with My Cat</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>판타지,드라마</td>
+					<td>조연</td>
+					<td>8,909,600</td>
+					<td>1,154</td>
+					<td>8,909,600</td>
+					<td>1,154</td>
+				</tr>
+			
+				<tr>
+					<td>꿈보다 해몽</td>
+					<td>A Matter of Interpretation</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>주연-신우연역</td>
+					<td>32,497,900</td>
+					<td>4,322</td>
+					<td>33,515,900</td>
+					<td>4,801</td>
+				</tr>
+			
+				<tr>
+					<td>나의 독재자</td>
+					<td>My Dictator</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-병장역</td>
+					<td>2,906,692,546</td>
+					<td>385,934</td>
+					<td>2,907,311,546</td>
+					<td>386,072</td>
+				</tr>
+			
+				<tr>
+					<td>슬로우 비디오</td>
+					<td>Slow Video</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>조연-상만역</td>
+					<td>8,913,092,219</td>
+					<td>1,169,562</td>
+					<td>8,913,092,219</td>
+					<td>1,169,562</td>
+				</tr>
+			
+				<tr>
+					<td>제보자</td>
+					<td>The Whistleblower</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-이도형역</td>
+					<td>13,515,762,802</td>
+					<td>1,755,181</td>
+					<td>13,515,762,802</td>
+					<td>1,755,181</td>
+				</tr>
+			
+				<tr>
+					<td>끝까지 간다</td>
+					<td>A Hard Day</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>액션,스릴러,범죄</td>
+					<td>단역-영철역</td>
+					<td>27,007,303,900</td>
+					<td>3,450,305</td>
+					<td>27,007,303,900</td>
+					<td>3,450,305</td>
+				</tr>
+			
+				<tr>
+					<td>관상</td>
+					<td>The Face Reader</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>사극,드라마</td>
+					<td>단역-용의자3역</td>
+					<td>66,005,451,500</td>
+					<td>9,134,586</td>
+					<td>66,009,826,500</td>
+					<td>9,135,806</td>
+				</tr>
+			
+				<tr>
+					<td>마이 라띠마</td>
+					<td>Mai Ratima</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>단역-취업알선 브로커2역</td>
+					<td>49,305,300</td>
+					<td>7,172</td>
+					<td>49,305,300</td>
+					<td>7,172</td>
+				</tr>
+			
+				<tr>
+					<td>연애의 온도</td>
+					<td>Very Ordinary Couple</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>조연-박계장역</td>
+					<td>13,798,864,446</td>
+					<td>1,865,195</td>
+					<td>13,800,120,446</td>
+					<td>1,865,354</td>
+				</tr>
+			
+				<tr>
+					<td>헤드</td>
+					<td>Head</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>액션,스릴러</td>
+					<td>단역-편집 기사역</td>
+					<td>462,025,000</td>
+					<td>61,414</td>
+					<td>462,025,000</td>
+					<td>61,414</td>
+				</tr>
+			
+				<tr>
+					<td>김종욱 찾기</td>
+					<td>Finding Mr. Destiny</td>
+					<td>2010</td>
+					<td>한국,인도</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>단역-세트팀원역</td>
+					<td>8,271,660,983</td>
+					<td>1,130,638</td>
+					<td>8,209,024,000</td>
+					<td>1,122,225</td>
+				</tr>
+			
+				<tr>
+					<td>핸드폰</td>
+					<td>Handphone</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>단역-룸살롱 기자1역</td>
+					<td>4,271,780,582</td>
+					<td>630,049</td>
+					<td>4,221,938,000</td>
+					<td>622,486</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

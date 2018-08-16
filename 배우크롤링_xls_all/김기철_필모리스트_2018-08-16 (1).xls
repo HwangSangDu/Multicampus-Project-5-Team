@@ -1,0 +1,99 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '김기철'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>피끓는 청춘</td>
+					<td>Hot Young Bloods</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>코미디,멜로/로맨스,드라마</td>
+					<td>단역-중길반역</td>
+					<td>11,688,382,888</td>
+					<td>1,676,040</td>
+					<td>11,688,382,888</td>
+					<td>1,676,040</td>
+				</tr>
+			
+				<tr>
+					<td>이파네마 소년</td>
+					<td>The Boy From Ipanema</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>단역-해변피서객역</td>
+					<td>25,432,810</td>
+					<td>3,465</td>
+					<td>25,178,500</td>
+					<td>3,436</td>
+				</tr>
+			
+				<tr>
+					<td>고死 두 번째 이야기: 교생실습</td>
+					<td>Death Bell 2 : Bloody Camp</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>공포(호러),스릴러</td>
+					<td>단역-수영대회 아나운서역</td>
+					<td>5,901,045,987</td>
+					<td>872,594</td>
+					<td>5,802,318,000</td>
+					<td>857,038</td>
+				</tr>
+			
+				<tr>
+					<td>간 큰 가족</td>
+					<td>A Bold Family</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>단역-써커스 힘자랑역</td>
+					<td>0</td>
+					<td>1,593,038</td>
+					<td>8,212,961,893</td>
+					<td>1,305,518</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

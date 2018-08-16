@@ -1,0 +1,359 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '정우'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>이웃 사촌</td>
+					<td></td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>흥부: 글로 세상을 바꾼 자</td>
+					<td>Heung-boo: The Revolutionist</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>사극</td>
+					<td>주연-연흥부역</td>
+					<td>3,381,302,200</td>
+					<td>416,346</td>
+					<td>3,381,050,200</td>
+					<td>416,303</td>
+				</tr>
+			
+				<tr>
+					<td>제5열</td>
+					<td></td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>재심</td>
+					<td>New Trial</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>19,264,792,637</td>
+					<td>2,421,011</td>
+					<td>19,266,319,637</td>
+					<td>2,421,197</td>
+				</tr>
+			
+				<tr>
+					<td>히말라야</td>
+					<td>The Himalayas</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>60,173,583,015</td>
+					<td>7,759,473</td>
+					<td>60,175,363,015</td>
+					<td>7,759,761</td>
+				</tr>
+			
+				<tr>
+					<td>쎄시봉</td>
+					<td>C&#039;est Si Bon</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디,드라마</td>
+					<td>주연</td>
+					<td>13,570,381,911</td>
+					<td>1,714,803</td>
+					<td>13,571,515,911</td>
+					<td>1,715,370</td>
+				</tr>
+			
+				<tr>
+					<td>붉은 가족</td>
+					<td>Red Family</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>드라마,액션</td>
+					<td>주연-김재홍 역</td>
+					<td>27,190,500</td>
+					<td>3,756</td>
+					<td>28,790,500</td>
+					<td>3,916</td>
+				</tr>
+			
+				<tr>
+					<td>인류멸망 보고서</td>
+					<td>Doomsday Book</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>SF</td>
+					<td>조연-중동 역</td>
+					<td>704,635,000</td>
+					<td>97,916</td>
+					<td>704,635,000</td>
+					<td>97,916</td>
+				</tr>
+			
+				<tr>
+					<td>바람</td>
+					<td>Wish</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마,액션</td>
+					<td>주연-짱구역</td>
+					<td>726,321,610</td>
+					<td>101,197</td>
+					<td>746,323,500</td>
+					<td>103,628</td>
+				</tr>
+			
+				<tr>
+					<td>바람_감독판</td>
+					<td>Wish</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마,액션</td>
+					<td>주연-짱구 역</td>
+					<td></td>
+					<td></td>
+					<td>22,763,000</td>
+					<td>3,144</td>
+				</tr>
+			
+				<tr>
+					<td>숙명</td>
+					<td>Fate</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>드라마,액션</td>
+					<td>조연-최정학 역</td>
+					<td>5,680,873,500</td>
+					<td>858,215</td>
+					<td>5,680,873,500</td>
+					<td>846,903</td>
+				</tr>
+			
+				<tr>
+					<td>스페어</td>
+					<td>Spare</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>주연-길도 역</td>
+					<td>299,701,000</td>
+					<td>45,290</td>
+					<td>301,245,000</td>
+					<td>45,442</td>
+				</tr>
+			
+				<tr>
+					<td>다찌마와리</td>
+					<td>Dachimawa Lee</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>액션,어드벤처,코미디</td>
+					<td>조연-헌병대장 역</td>
+					<td>4,131,701,167</td>
+					<td>628,508</td>
+					<td>4,128,754,000</td>
+					<td>628,359</td>
+				</tr>
+			
+				<tr>
+					<td>애정결핍이 두 남자에게 미치는 영향</td>
+					<td>How The Lack Of Love Affects Two Men</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>조연-무식이 역</td>
+					<td>0</td>
+					<td>593,277</td>
+					<td>2,928,135,400</td>
+					<td>499,612</td>
+				</tr>
+			
+				<tr>
+					<td>짝패</td>
+					<td>The City Of Violence</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>조연-십대 왕재역</td>
+					<td>0</td>
+					<td>1,196,520</td>
+					<td>6,585,376,300</td>
+					<td>1,021,638</td>
+				</tr>
+			
+				<tr>
+					<td>사생결단</td>
+					<td>Bloody Tie</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>단역-김형사역</td>
+					<td>0</td>
+					<td>2,104,716</td>
+					<td>10,934,307,100</td>
+					<td>1,724,709</td>
+				</tr>
+			
+				<tr>
+					<td>그때 그 사람들</td>
+					<td>The President&#039;s Last Bang</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>미스터리,코미디</td>
+					<td>단역-한재국 역</td>
+					<td>0</td>
+					<td>1,083,962</td>
+					<td>5,777,895,500</td>
+					<td>890,601</td>
+				</tr>
+			
+				<tr>
+					<td>돌려차기</td>
+					<td>Spin Kick</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>조연-박도수 역</td>
+					<td>0</td>
+					<td>69,000</td>
+					<td>254,315,500</td>
+					<td>41,401</td>
+				</tr>
+			
+				<tr>
+					<td>그놈은 멋있었다</td>
+					<td>He was cool</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>조연-빠박이 역</td>
+					<td>0</td>
+					<td>800,000</td>
+					<td>2,309,055,500</td>
+					<td>372,591</td>
+				</tr>
+			
+				<tr>
+					<td>불어라 봄바람</td>
+					<td>Spring Breeze</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>단역-청년 신도 2 역</td>
+					<td>0</td>
+					<td>924,190</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>바람난 가족</td>
+					<td>A Good Lawyer&#039;s Wife</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-동네 건달 역</td>
+					<td></td>
+					<td>1,748,258</td>
+					<td>222,000</td>
+					<td>31</td>
+				</tr>
+			
+				<tr>
+					<td>동갑내기 과외하기</td>
+					<td>My Tutor Friend</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>단역-양아치 역</td>
+					<td></td>
+					<td>4,937,573</td>
+					<td>727,000</td>
+					<td>118</td>
+				</tr>
+			
+				<tr>
+					<td>품행제로</td>
+					<td>Conduct Zero</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>단역-단군파역</td>
+					<td>0</td>
+					<td>1,694,637</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>라이터를 켜라</td>
+					<td>Break Out</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>단역-부하 7 역</td>
+					<td></td>
+					<td>470,557</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

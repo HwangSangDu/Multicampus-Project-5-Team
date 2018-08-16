@@ -1,0 +1,164 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '정소추'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>천하칠검 양가장</td>
+					<td>Saving General Yang</td>
+					<td>2013</td>
+					<td>중국,홍콩</td>
+					<td>드라마,액션,어드벤처</td>
+					<td>주연</td>
+					<td>26,032,500</td>
+					<td>3,706</td>
+					<td>26,032,500</td>
+					<td>3,706</td>
+				</tr>
+			
+				<tr>
+					<td>무림객잔</td>
+					<td>Painted Skin</td>
+					<td>1993</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>469</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>대도무문</td>
+					<td>Fong Sai Yuk Ⅱ</td>
+					<td>1993</td>
+					<td>홍콩</td>
+					<td>멜로/로맨스,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>140,729</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>무림쌍절</td>
+					<td>Night Orchid</td>
+					<td>1993</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>5,558</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>대복성</td>
+					<td>Dragon Attack</td>
+					<td>1984</td>
+					<td>홍콩</td>
+					<td>액션,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>166,160</td>
+					<td>282,000</td>
+					<td>50</td>
+				</tr>
+			
+				<tr>
+					<td>강호영웅</td>
+					<td>THE LAST HERO IN CHINA</td>
+					<td>1984</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>신촉산</td>
+					<td>THE WARRIORS FROM THE MAGIC MOUNTAIN</td>
+					<td>1983</td>
+					<td></td>
+					<td>액션,공포(호러)</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>16,422</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>촉산</td>
+					<td>The Warriors From The Magic Mountain</td>
+					<td>1983</td>
+					<td>홍콩</td>
+					<td>액션,공포(호러)</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>136,064</td>
+					<td>4,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>명검</td>
+					<td>The Sword</td>
+					<td>1980</td>
+					<td>홍콩</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>5,186,000</td>
+					<td>1,091</td>
+					<td>5,186,000</td>
+					<td>1,091</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

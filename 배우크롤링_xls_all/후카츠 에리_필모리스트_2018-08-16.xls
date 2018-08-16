@@ -1,0 +1,229 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '후카츠 에리'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>서바이벌 패밀리</td>
+					<td>Survival Family</td>
+					<td>2017</td>
+					<td>일본</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>1,141,000</td>
+					<td>236</td>
+					<td>1,419,000</td>
+					<td>280</td>
+				</tr>
+			
+				<tr>
+					<td>아주 긴 변명</td>
+					<td>The Long Excuse</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>67,454,200</td>
+					<td>8,974</td>
+					<td>67,454,200</td>
+					<td>8,974</td>
+				</tr>
+			
+				<tr>
+					<td>기생수 파트2</td>
+					<td>Parasyte: Part 2</td>
+					<td>2015</td>
+					<td>일본</td>
+					<td>SF,스릴러</td>
+					<td>주연</td>
+					<td>514,236,959</td>
+					<td>63,529</td>
+					<td>514,500,959</td>
+					<td>63,560</td>
+				</tr>
+			
+				<tr>
+					<td>해안가로의 여행</td>
+					<td>Journey to the Shore</td>
+					<td>2015</td>
+					<td>일본,프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>2,924,000</td>
+					<td>422</td>
+				</tr>
+			
+				<tr>
+					<td>기생수 파트1</td>
+					<td>Parasyte: Part 1</td>
+					<td>2014</td>
+					<td>일본</td>
+					<td>스릴러,SF</td>
+					<td>주연</td>
+					<td>1,534,923,185</td>
+					<td>186,184</td>
+					<td>1,543,452,126</td>
+					<td>187,310</td>
+				</tr>
+			
+				<tr>
+					<td>멋진 악몽</td>
+					<td>A GHOST OF A CHANGE</td>
+					<td>2011</td>
+					<td>일본</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>59,007,000</td>
+					<td>7,936</td>
+					<td>59,007,000</td>
+					<td>7,936</td>
+				</tr>
+			
+				<tr>
+					<td>악인</td>
+					<td>Villain</td>
+					<td>2010</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>27,535,500</td>
+					<td>3,703</td>
+					<td>27,695,000</td>
+					<td>3,725</td>
+				</tr>
+			
+				<tr>
+					<td>하와이언 레시피</td>
+					<td>Honokaa Boy</td>
+					<td>2009</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>51,469,000</td>
+					<td>6,713</td>
+					<td>53,421,080</td>
+					<td>6,982</td>
+				</tr>
+			
+				<tr>
+					<td>여자 이야기</td>
+					<td>Your Story</td>
+					<td>2009</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>박사가 사랑한 수식</td>
+					<td>Professor Formular</td>
+					<td>2005</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연-쿄코역</td>
+					<td>0</td>
+					<td>4,041</td>
+					<td>21,365,500</td>
+					<td>3,160</td>
+				</tr>
+			
+				<tr>
+					<td>춤추는 대수사선 2</td>
+					<td>Bayside Shakedown The Movie 2</td>
+					<td>2003</td>
+					<td>일본</td>
+					<td>액션,범죄,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>151,823</td>
+					<td>129,612,500</td>
+					<td>19,882</td>
+				</tr>
+			
+				<tr>
+					<td>아수라</td>
+					<td>Like Asura</td>
+					<td>2003</td>
+					<td>일본</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스페이스 트래블러</td>
+					<td>Space Travelers</td>
+					<td>2000</td>
+					<td>일본</td>
+					<td>코미디,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>생일선물</td>
+					<td>Birthday Present</td>
+					<td>1995</td>
+					<td>일본</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>12,667</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

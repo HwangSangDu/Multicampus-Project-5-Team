@@ -1,0 +1,86 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '타티아나 마스래니'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>스트롱거</td>
+					<td>STRONGER</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>투 러버스 앤 베어</td>
+					<td>Two Lovers and A Bear</td>
+					<td>2016</td>
+					<td>캐나다</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>26,655,200</td>
+					<td>3,364</td>
+					<td>26,655,200</td>
+					<td>3,364</td>
+				</tr>
+			
+				<tr>
+					<td>토일렛</td>
+					<td>Toilet</td>
+					<td>2010</td>
+					<td>일본,캐나다</td>
+					<td>드라마,코미디,가족</td>
+					<td>주연</td>
+					<td>116,321,072</td>
+					<td>15,576</td>
+					<td>119,362,500</td>
+					<td>15,955</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

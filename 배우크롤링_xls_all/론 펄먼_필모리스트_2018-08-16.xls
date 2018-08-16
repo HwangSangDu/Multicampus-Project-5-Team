@@ -1,0 +1,385 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '론 펄먼'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>문워커스</td>
+					<td>Moonwalkers</td>
+					<td>2015</td>
+					<td>프랑스</td>
+					<td>코미디,액션,어드벤처</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,458,200</td>
+					<td>216</td>
+				</tr>
+			
+				<tr>
+					<td>스톤월</td>
+					<td>Stonewall</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>포커 나이트</td>
+					<td>Poker Night</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>14,000</td>
+					<td>2</td>
+					<td>14,000</td>
+					<td>2</td>
+				</tr>
+			
+				<tr>
+					<td>스킨 트레이드</td>
+					<td>Skin Trade</td>
+					<td>2014</td>
+					<td>미국,캐나다,태국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>18,621,000</td>
+					<td>3,588</td>
+					<td>18,621,000</td>
+					<td>3,588</td>
+				</tr>
+			
+				<tr>
+					<td>미션 13</td>
+					<td>13 Sins</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td>1,260,000</td>
+					<td>310</td>
+					<td>1,260,000</td>
+					<td>310</td>
+				</tr>
+			
+				<tr>
+					<td>퍼시픽 림</td>
+					<td>Pacific Rim</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>액션,SF,어드벤처</td>
+					<td>주연-한니발 펜테코스트 역</td>
+					<td>20,477,392,512</td>
+					<td>2,539,114</td>
+					<td>20,477,374,512</td>
+					<td>2,539,113</td>
+				</tr>
+			
+				<tr>
+					<td>크레이브</td>
+					<td>Crave</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td>270,000</td>
+					<td>54</td>
+					<td>270,000</td>
+					<td>54</td>
+				</tr>
+			
+				<tr>
+					<td>코난: 암흑의 시대</td>
+					<td>Conan the barbarian</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>판타지,액션</td>
+					<td>주연-코린역</td>
+					<td>260,491,000</td>
+					<td>33,683</td>
+					<td>260,491,000</td>
+					<td>33,683</td>
+				</tr>
+			
+				<tr>
+					<td>시즌 오브 더 위치: 마녀 호송단</td>
+					<td>Season Of The Witch</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>어드벤처,드라마,판타지</td>
+					<td>주연-펠슨역</td>
+					<td>3,277,434,500</td>
+					<td>435,201</td>
+					<td>3,277,434,500</td>
+					<td>435,201</td>
+				</tr>
+			
+				<tr>
+					<td>분라쿠</td>
+					<td>Bunraku</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>액션,판타지</td>
+					<td>조연-니콜라 역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>뮤턴트: 다크 에이지</td>
+					<td>Mutant Chronicles</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>액션,어드벤처,SF</td>
+					<td>주연</td>
+					<td>219,920,268</td>
+					<td>32,267</td>
+					<td>212,833,500</td>
+					<td>31,233</td>
+				</tr>
+			
+				<tr>
+					<td>헬보이 2 : 골든 아미</td>
+					<td>Hellboy 2 : The Golden Army</td>
+					<td>2008</td>
+					<td>미국,독일</td>
+					<td>SF,액션,어드벤처</td>
+					<td>주연</td>
+					<td>2,522,851,500</td>
+					<td>391,513</td>
+					<td>2,572,551,500</td>
+					<td>399,570</td>
+				</tr>
+			
+				<tr>
+					<td>시체를 팝니다</td>
+					<td>I Sell the Dead</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>공포(호러),코미디</td>
+					<td>주연-더피 신부 역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>파이브 걸스</td>
+					<td>5ive Girls</td>
+					<td>2006</td>
+					<td>캐나다</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>미싱 인 아메리카</td>
+					<td>Missing In America</td>
+					<td>2005</td>
+					<td>미국,캐나다</td>
+					<td>드라마,전쟁</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>헬보이</td>
+					<td>Hellboy</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>SF</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>205,284</td>
+					<td>736,206,500</td>
+					<td>114,745</td>
+				</tr>
+			
+				<tr>
+					<td>두 병사</td>
+					<td>Two Soldiers</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>전쟁,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>피스메이커 2</td>
+					<td>The Peacemaker II</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>액션,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>오퍼레이션 샌드맨</td>
+					<td>Operation Sandman</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>킹스 가드</td>
+					<td>The King&#039;s Guard</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>어드벤처</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>프라이멀 포스</td>
+					<td>Primal Force</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>액션,어드벤처</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>프로텍터</td>
+					<td>The Protector</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>잃어버린 아이들의 도시 </td>
+					<td>The City Of Lost Children</td>
+					<td>1995</td>
+					<td>프랑스</td>
+					<td>SF,드라마,어드벤처,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>73,898</td>
+					<td>655,000</td>
+					<td>84</td>
+				</tr>
+			
+				<tr>
+					<td>센세이션</td>
+					<td>Sensation</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>드라마,성인물(에로),스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>683</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>크로노스</td>
+					<td>Cronos</td>
+					<td>1993</td>
+					<td>멕시코</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>679,000</td>
+					<td>96</td>
+				</tr>
+			
+				<tr>
+					<td>불을 찾아서</td>
+					<td>Quest For Fire</td>
+					<td>1981</td>
+					<td>캐나다</td>
+					<td>판타지,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>25,412</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,372 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '장첸'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>수춘도 2: 수라전장</td>
+					<td>BROTHERHOOD OF BLADES ll THE INFERNAL BATTLEFIELD</td>
+					<td>2017</td>
+					<td>중국</td>
+					<td>액션,드라마</td>
+					<td>주연</td>
+					<td>845,000</td>
+					<td>191</td>
+					<td>845,000</td>
+					<td>191</td>
+				</tr>
+			
+				<tr>
+					<td>자객 섭은낭</td>
+					<td>The Assassin</td>
+					<td>2015</td>
+					<td>대만</td>
+					<td>사극,액션</td>
+					<td>주연</td>
+					<td>122,054,700</td>
+					<td>15,747</td>
+					<td>122,089,700</td>
+					<td>15,754</td>
+				</tr>
+			
+				<tr>
+					<td>적도</td>
+					<td>Helios</td>
+					<td>2015</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>27,026,500</td>
+					<td>3,679</td>
+					<td>27,427,500</td>
+					<td>3,778</td>
+				</tr>
+			
+				<tr>
+					<td>살파랑2: 운명의 시간</td>
+					<td>SPL 2: A Time for Consequences</td>
+					<td>2015</td>
+					<td>중국</td>
+					<td>액션,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>세가지 색 - 삼생</td>
+					<td>Three Charmed Lives</td>
+					<td>2014</td>
+					<td>중국,한국,대만</td>
+					<td>기타</td>
+					<td>감독</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>수춘도</td>
+					<td>Brotherhood of Blades</td>
+					<td>2014</td>
+					<td>중국</td>
+					<td>액션,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>일대종사</td>
+					<td>The Grandmaster</td>
+					<td>2012</td>
+					<td>중국</td>
+					<td>액션,드라마</td>
+					<td>주연-일선천역</td>
+					<td>734,730,000</td>
+					<td>101,592</td>
+					<td>734,980,000</td>
+					<td>101,642</td>
+				</tr>
+			
+				<tr>
+					<td>초한지: 영웅의 부활</td>
+					<td>The Last Supper</td>
+					<td>2012</td>
+					<td>중국</td>
+					<td>액션,사극</td>
+					<td>주연</td>
+					<td>60,679,500</td>
+					<td>8,722</td>
+					<td>60,679,500</td>
+					<td>8,722</td>
+				</tr>
+			
+				<tr>
+					<td>건당위업</td>
+					<td>Beginning of the Great Revival</td>
+					<td>2011</td>
+					<td>중국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>469,500</td>
+					<td>60</td>
+				</tr>
+			
+				<tr>
+					<td>적벽대전 2 : 최후의 결전</td>
+					<td>Red Cliff 2</td>
+					<td>2008</td>
+					<td>중국</td>
+					<td>액션,전쟁,드라마,사극</td>
+					<td>주연</td>
+					<td>17,910,684,413</td>
+					<td>2,713,031</td>
+					<td>17,782,372,500</td>
+					<td>2,694,436</td>
+				</tr>
+			
+				<tr>
+					<td>적벽대전:거대한 전쟁의 시작</td>
+					<td>Red Cliff</td>
+					<td>2008</td>
+					<td>중국</td>
+					<td>액션,드라마,전쟁</td>
+					<td>주연-손권역</td>
+					<td>10,218,959,760</td>
+					<td>1,573,621</td>
+					<td>10,200,428,000</td>
+					<td>1,572,064</td>
+				</tr>
+			
+				<tr>
+					<td>노면주차</td>
+					<td>Parking</td>
+					<td>2008</td>
+					<td>대만</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>미싱 : 심해미인</td>
+					<td>Missing</td>
+					<td>2008</td>
+					<td>홍콩,중국</td>
+					<td>판타지,멜로/로맨스,공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>305,000</td>
+					<td>36</td>
+				</tr>
+			
+				<tr>
+					<td>숨</td>
+					<td>Breath</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>12,293</td>
+					<td>49,704,800</td>
+					<td>7,592</td>
+				</tr>
+			
+				<tr>
+					<td>천당구</td>
+					<td>Blood Brothers</td>
+					<td>2007</td>
+					<td>홍콩,대만,중국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>기성 오청원</td>
+					<td>The Go Master</td>
+					<td>2006</td>
+					<td>중국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>실크</td>
+					<td>Silk</td>
+					<td>2006</td>
+					<td>대만</td>
+					<td>SF,공포(호러),스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>쓰리 타임즈</td>
+					<td>Three Times</td>
+					<td>2005</td>
+					<td>대만</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>5,162</td>
+					<td>36,889,000</td>
+					<td>5,406</td>
+				</tr>
+			
+				<tr>
+					<td>에로스</td>
+					<td>Eros</td>
+					<td>2004</td>
+					<td>미국,프랑스,이탈리아,중국,룩셈부르크,영국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>30,389</td>
+					<td>189,042,500</td>
+					<td>28,827</td>
+				</tr>
+			
+				<tr>
+					<td>2046</td>
+					<td>2046</td>
+					<td>2004</td>
+					<td>홍콩</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>149,700</td>
+					<td>797,104,500</td>
+					<td>123,062</td>
+				</tr>
+			
+				<tr>
+					<td>천하무쌍</td>
+					<td>Chinese Odyssey 2002</td>
+					<td>2002</td>
+					<td>홍콩</td>
+					<td>코미디,멜로/로맨스,액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아름다운 빈랑나무</td>
+					<td>Betelnut Beauty</td>
+					<td>2001</td>
+					<td>대만,프랑스</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>와호장룡</td>
+					<td>Crouching Tiger, Hidden Dragon</td>
+					<td>2000</td>
+					<td>중국</td>
+					<td>사극,액션</td>
+					<td>주연-마적단 두목 호역</td>
+					<td>0</td>
+					<td>237,234</td>
+					<td>0</td>
+					<td>0</td>
+				</tr>
+			
+				<tr>
+					<td>부에노스 아이레스 제로 디그리</td>
+					<td>Buenos Aires Zero Degree</td>
+					<td>2000</td>
+					<td>홍콩</td>
+					<td>다큐멘터리,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>고령가 소년 살인사건</td>
+					<td>A Brighter Summer Day</td>
+					<td>1991</td>
+					<td>대만</td>
+					<td>드라마</td>
+					<td>주연-시아오역</td>
+					<td>116,213,500</td>
+					<td>8,747</td>
+					<td>124,904,500</td>
+					<td>9,320</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

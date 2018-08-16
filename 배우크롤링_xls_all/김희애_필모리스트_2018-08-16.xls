@@ -1,0 +1,151 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '김희애'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>허스토리</td>
+					<td>Herstory</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>1,216,948,649</td>
+					<td>169,334</td>
+					<td>2,488,957,949</td>
+					<td>331,721</td>
+				</tr>
+			
+				<tr>
+					<td>사라진 밤</td>
+					<td>The Vanished</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>10,698,035,316</td>
+					<td>1,315,735</td>
+					<td>10,697,981,316</td>
+					<td>1,315,726</td>
+				</tr>
+			
+				<tr>
+					<td>쎄시봉</td>
+					<td>C&#039;est Si Bon</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디,드라마</td>
+					<td>주연</td>
+					<td>13,570,381,911</td>
+					<td>1,714,803</td>
+					<td>13,571,515,911</td>
+					<td>1,715,370</td>
+				</tr>
+			
+				<tr>
+					<td>우아한 거짓말</td>
+					<td>Thread of Lies</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>11,727,360,300</td>
+					<td>1,618,988</td>
+					<td>11,731,099,300</td>
+					<td>1,619,651</td>
+				</tr>
+			
+				<tr>
+					<td>백한번째 프로포즈</td>
+					<td>The 101St Proposition</td>
+					<td>1993</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>82,913</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>英雄 돌아오다</td>
+					<td></td>
+					<td>1987</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>8,127</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>내사랑 짱구</td>
+					<td>My Love Jjang-Gu</td>
+					<td>1985</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>8,254</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>불의 회상</td>
+					<td>Reminiscent Flame</td>
+					<td>1984</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>18,452</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

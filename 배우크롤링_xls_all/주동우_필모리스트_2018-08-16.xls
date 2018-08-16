@@ -1,0 +1,99 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '주동우'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>안녕, 나의 소울메이트</td>
+					<td>SoulMate </td>
+					<td>2017</td>
+					<td>홍콩</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>197,791,300</td>
+					<td>25,158</td>
+					<td>197,797,300</td>
+					<td>25,159</td>
+				</tr>
+			
+				<tr>
+					<td>시칠리아 햇빛아래</td>
+					<td>Never Said Goodbye</td>
+					<td>2016</td>
+					<td>홍콩</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>15,523,900</td>
+					<td>2,139</td>
+					<td>15,619,900</td>
+					<td>2,154</td>
+				</tr>
+			
+				<tr>
+					<td>우리가 풀지 못한 날들</td>
+					<td>The Ark of Mr.Chow</td>
+					<td>2015</td>
+					<td>중국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>12,000</td>
+					<td>2</td>
+				</tr>
+			
+				<tr>
+					<td>궁</td>
+					<td>The Palace</td>
+					<td>2013</td>
+					<td>중국</td>
+					<td>사극,멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>56,000</td>
+					<td>10</td>
+					<td>56,000</td>
+					<td>10</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,112 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '황건'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>기린과 아프리카</td>
+					<td>Giraffe &amp; Africa</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>287,500</td>
+					<td>230</td>
+				</tr>
+			
+				<tr>
+					<td>원한의 공동묘지</td>
+					<td>Public Cemetery Of Grudges</td>
+					<td>1983</td>
+					<td>한국</td>
+					<td>공포(호러),미스터리,사극</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>12,360</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>삼국여한</td>
+					<td>Women&#039;S Rage In Three Countries</td>
+					<td>1982</td>
+					<td>한국</td>
+					<td>공포(호러),사극</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>21,510</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>하늘이 부를때까지</td>
+					<td>Until Heaven</td>
+					<td>1980</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td>2,335</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사문의 승객</td>
+					<td>A Guest At The Temple</td>
+					<td>1979</td>
+					<td>한국,홍콩</td>
+					<td>드라마,멜로/로맨스,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td>53,012</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

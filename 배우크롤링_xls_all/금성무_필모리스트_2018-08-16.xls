@@ -1,0 +1,424 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '금성무'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>태평륜 완결편</td>
+					<td>The Crossing Final</td>
+					<td>2017</td>
+					<td>중국</td>
+					<td>드라마,멜로/로맨스,전쟁,액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>태평륜 피안</td>
+					<td>The Crossing 2</td>
+					<td>2015</td>
+					<td>중국</td>
+					<td>드라마,액션,전쟁</td>
+					<td>주연</td>
+					<td>265,000</td>
+					<td>53</td>
+					<td>751,000</td>
+					<td>123</td>
+				</tr>
+			
+				<tr>
+					<td>태평륜</td>
+					<td>The Crossing</td>
+					<td>2014</td>
+					<td>중국</td>
+					<td>드라마,액션,전쟁</td>
+					<td>주연</td>
+					<td>730,000</td>
+					<td>146</td>
+					<td>790,000</td>
+					<td>166</td>
+				</tr>
+			
+				<tr>
+					<td>무협</td>
+					<td>Wu Xia</td>
+					<td>2011</td>
+					<td>홍콩</td>
+					<td>액션,드라마</td>
+					<td>주연-쉬바이쥐 역</td>
+					<td>206,464,500</td>
+					<td>28,698</td>
+					<td>206,840,500</td>
+					<td>28,750</td>
+				</tr>
+			
+				<tr>
+					<td>K-20 괴도가면</td>
+					<td>K-20 : Legend of the Mask</td>
+					<td>2008</td>
+					<td>일본</td>
+					<td>액션</td>
+					<td>주연-엔도 헤이키치 역</td>
+					<td>104,000</td>
+					<td>15</td>
+					<td>104,000</td>
+					<td>15</td>
+				</tr>
+			
+				<tr>
+					<td>적벽대전 2 : 최후의 결전</td>
+					<td>Red Cliff 2</td>
+					<td>2008</td>
+					<td>중국</td>
+					<td>액션,전쟁,드라마,사극</td>
+					<td>주연</td>
+					<td>17,910,684,413</td>
+					<td>2,713,031</td>
+					<td>17,782,372,500</td>
+					<td>2,694,436</td>
+				</tr>
+			
+				<tr>
+					<td>적벽대전:거대한 전쟁의 시작</td>
+					<td>Red Cliff</td>
+					<td>2008</td>
+					<td>중국</td>
+					<td>액션,드라마,전쟁</td>
+					<td>주연-유비의 책사, 제갈량역</td>
+					<td>10,218,959,760</td>
+					<td>1,573,621</td>
+					<td>10,200,428,000</td>
+					<td>1,572,064</td>
+				</tr>
+			
+				<tr>
+					<td>상성: 상처받은 도시</td>
+					<td>Confession Of Pain</td>
+					<td>2006</td>
+					<td>홍콩</td>
+					<td>액션,스릴러,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>85,076</td>
+					<td>550,840,500</td>
+					<td>82,083</td>
+				</tr>
+			
+				<tr>
+					<td>퍼햅스 러브</td>
+					<td>Perhaps Love</td>
+					<td>2005</td>
+					<td>홍콩</td>
+					<td>뮤지컬</td>
+					<td>주연-지엔역</td>
+					<td>0</td>
+					<td>95,594</td>
+					<td>534,168,500</td>
+					<td>83,908</td>
+				</tr>
+			
+				<tr>
+					<td>연인</td>
+					<td>Lovers / House Of Flying Daggers</td>
+					<td>2004</td>
+					<td>중국</td>
+					<td>멜로/로맨스,액션</td>
+					<td>주연-진역</td>
+					<td>0</td>
+					<td>1,416,000</td>
+					<td>6,644,463,500</td>
+					<td>1,027,354</td>
+				</tr>
+			
+				<tr>
+					<td>오른쪽으로 가는 남자, 왼쪽으로 가는 여자</td>
+					<td>Turn Left, Turn Right</td>
+					<td>2003</td>
+					<td>홍콩,싱가포르</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>리터너</td>
+					<td>Returner</td>
+					<td>2002</td>
+					<td>일본</td>
+					<td>액션,SF</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>라벤다</td>
+					<td>Lavender</td>
+					<td>2000</td>
+					<td>홍콩</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>5,220</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스페이스 트래블러</td>
+					<td>Space Travelers</td>
+					<td>2000</td>
+					<td>일본</td>
+					<td>코미디,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>심동</td>
+					<td>Tempting Heart</td>
+					<td>1999</td>
+					<td>홍콩</td>
+					<td>멜로/로맨스</td>
+					<td>주연-호군역</td>
+					<td>0</td>
+					<td>46,167</td>
+					<td>0</td>
+					<td>0</td>
+				</tr>
+			
+				<tr>
+					<td>투 타이어드 투 다이</td>
+					<td>Too Tired To Die</td>
+					<td>1998</td>
+					<td>한국</td>
+					<td>드라마,미스터리</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,008</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>친니친니</td>
+					<td>Anna Magdalena</td>
+					<td>1998</td>
+					<td>홍콩</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>44,940</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>마영정</td>
+					<td>Mayoungzhen</td>
+					<td>1997</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,310</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>첫사랑 </td>
+					<td>First Love: The Litter On The Breeze</td>
+					<td>1997</td>
+					<td>홍콩</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>22,855</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>신투첩영 </td>
+					<td>Downtown Torpedoes</td>
+					<td>1997</td>
+					<td>홍콩</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>17,111</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>캘리포니아</td>
+					<td>California</td>
+					<td>1997</td>
+					<td>한국</td>
+					<td>드라마,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>8,912</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>취비왕</td>
+					<td>Trouble Maker</td>
+					<td>1997</td>
+					<td>홍콩</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>영원한 사랑</td>
+					<td>Lost And Found</td>
+					<td>1996</td>
+					<td>홍콩</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>플레이보이</td>
+					<td>The Feeling Of Love</td>
+					<td>1996</td>
+					<td>홍콩</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>모험왕 </td>
+					<td>Dr. Wai In The Scripture With No Word</td>
+					<td>1995</td>
+					<td>홍콩</td>
+					<td>어드벤처,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>188,926</td>
+					<td>3,930,000</td>
+					<td>5,130</td>
+				</tr>
+			
+				<tr>
+					<td>타락천사</td>
+					<td>Fallen Angels</td>
+					<td>1995</td>
+					<td>홍콩</td>
+					<td>드라마</td>
+					<td>주연-하지무역</td>
+					<td>0</td>
+					<td>151,163</td>
+					<td>8,913,000</td>
+					<td>1,251</td>
+				</tr>
+			
+				<tr>
+					<td>인어전설 </td>
+					<td>Mermaid Got Married</td>
+					<td>1994</td>
+					<td>홍콩</td>
+					<td>멜로/로맨스,코미디,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>282</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>중국룡 </td>
+					<td>China Dragon</td>
+					<td>1994</td>
+					<td>대만</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>681</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>중경삼림</td>
+					<td>Chungking Express</td>
+					<td>1994</td>
+					<td>홍콩</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>126,953</td>
+					<td>93,037,500</td>
+					<td>12,527</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

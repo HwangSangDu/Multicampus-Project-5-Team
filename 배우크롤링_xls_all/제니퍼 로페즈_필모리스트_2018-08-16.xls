@@ -1,0 +1,333 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '제니퍼 로페즈'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>아이스 에이지: 지구 대충돌</td>
+					<td>Ice Age: Collision Course</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>애니메이션,어드벤처,코미디</td>
+					<td>주연-쉬라역(목소리)</td>
+					<td>4,092,484,600</td>
+					<td>553,760</td>
+					<td>4,092,484,600</td>
+					<td>553,760</td>
+				</tr>
+			
+				<tr>
+					<td>홈</td>
+					<td>Home</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>애니메이션,어드벤처,판타지</td>
+					<td>주연(목소리)</td>
+					<td>2,692,225,691</td>
+					<td>360,556</td>
+					<td>2,693,573,391</td>
+					<td>360,781</td>
+				</tr>
+			
+				<tr>
+					<td>보이 넥스트 도어</td>
+					<td>The Boy Next Door </td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>스릴러,미스터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>파커</td>
+					<td>Parker</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>범죄,액션</td>
+					<td>주연</td>
+					<td>52,015,000</td>
+					<td>6,828</td>
+					<td>52,015,000</td>
+					<td>6,828</td>
+				</tr>
+			
+				<tr>
+					<td>아이스 에이지 4: 대륙 이동설</td>
+					<td>Ice Age: Continental Drift </td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>애니메이션,어드벤처,코미디,가족</td>
+					<td>주연-쉬라역(목소리)</td>
+					<td>12,291,809,704</td>
+					<td>1,648,070</td>
+					<td>12,291,969,704</td>
+					<td>1,648,110</td>
+				</tr>
+			
+				<tr>
+					<td>플랜 B</td>
+					<td>The Back-Up Plan</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td>4,147,111</td>
+					<td>513</td>
+					<td>4,082,000</td>
+					<td>505</td>
+				</tr>
+			
+				<tr>
+					<td>보더타운</td>
+					<td>Bordertown</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>엘 칸탄테</td>
+					<td>El Cantante</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>퍼펙트 웨딩(몬스터 인 로)</td>
+					<td>Monster-In-Law</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>120,910</td>
+					<td>695,278,500</td>
+					<td>109,414</td>
+				</tr>
+			
+				<tr>
+					<td>언피니쉬드 라이프</td>
+					<td>An Unfinished Life</td>
+					<td>2005</td>
+					<td>미국,독일</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>쉘 위 댄스</td>
+					<td>Shall We Dance?</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>132,856</td>
+					<td>549,991,000</td>
+					<td>82,936</td>
+				</tr>
+			
+				<tr>
+					<td>러브 인 맨하탄</td>
+					<td>Maid In Manhattan</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>195,913</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>갱스터 러버</td>
+					<td>Gigli</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>범죄,코미디,멜로/로맨스</td>
+					<td>주연-릭키역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>이너프</td>
+					<td>Enough</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>17,460</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>엔젤 아이즈</td>
+					<td>Angel Eyes</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>9,777</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>웨딩플래너</td>
+					<td>The Wedding Planner</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>91,599</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>더 셀</td>
+					<td>The Cell</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러,판타지</td>
+					<td>주연-캐서린역</td>
+					<td>0</td>
+					<td>147,052</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>조지클루니의 표적</td>
+					<td>Out Of Sight</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>액션,코미디,범죄,멜로/로맨스,스릴러</td>
+					<td>주연-캐런 시스코 역</td>
+					<td>0</td>
+					<td>45,182</td>
+					<td>468,000</td>
+					<td>91</td>
+				</tr>
+			
+				<tr>
+					<td>유턴</td>
+					<td>U Turn</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>범죄,스릴러,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>3,008</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아나콘다 </td>
+					<td>Anaconda</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>액션,스릴러,공포(호러),어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>189,142</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>블러드앤와인</td>
+					<td>Blood And Wine</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>드라마,범죄,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>4,733</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>머니 트레인 </td>
+					<td>Money Train</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>109,535</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

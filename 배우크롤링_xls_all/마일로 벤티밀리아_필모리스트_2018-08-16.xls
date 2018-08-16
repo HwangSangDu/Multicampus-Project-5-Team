@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '마일로 벤티밀리아'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>브레이킹</td>
+					<td>Breaking at the Edge</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>액션,스릴러,공포(호러)</td>
+					<td>주연</td>
+					<td>12,002,000</td>
+					<td>2,474</td>
+					<td>12,002,000</td>
+					<td>2,474</td>
+				</tr>
+			
+				<tr>
+					<td>킬링시즌</td>
+					<td>Killing Season</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연-크리스 포드역</td>
+					<td>61,282,000</td>
+					<td>9,240</td>
+					<td>61,282,000</td>
+					<td>9,240</td>
+				</tr>
+			
+				<tr>
+					<td>키스 오브 뱀파이어</td>
+					<td>Kiss of the Damned</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>디바이드</td>
+					<td>The Divide</td>
+					<td>2011</td>
+					<td>미국,독일,캐나다</td>
+					<td>공포(호러),스릴러,SF</td>
+					<td>조연-조쉬역</td>
+					<td>8,733,000</td>
+					<td>1,134</td>
+					<td>8,733,000</td>
+					<td>1,134</td>
+				</tr>
+			
+				<tr>
+					<td>패솔로지</td>
+					<td>Pathology</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러,범죄</td>
+					<td>주연-테드 그레이 역</td>
+					<td>569,157,500</td>
+					<td>91,253</td>
+					<td>569,072,500</td>
+					<td>90,612</td>
+				</tr>
+			
+				<tr>
+					<td>더티 디즈</td>
+					<td>Dirty Deeds</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

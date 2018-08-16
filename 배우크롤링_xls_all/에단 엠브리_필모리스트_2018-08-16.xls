@@ -1,0 +1,164 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '에단 엠브리'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>퍼스트 맨</td>
+					<td>First Man</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>에코스 오브 워</td>
+					<td>Echoes of War</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>드라마,스릴러,서부극(웨스턴)</td>
+					<td>주연</td>
+					<td>14,000</td>
+					<td>2</td>
+					<td>14,000</td>
+					<td>2</td>
+				</tr>
+			
+				<tr>
+					<td>레이트 페이시스: 늑대의 저주</td>
+					<td>Late Phases</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>공포(호러),드라마,미스터리</td>
+					<td>주연</td>
+					<td>5,000</td>
+					<td>1</td>
+					<td>5,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>시큐리티 스파이</td>
+					<td>In Security</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>액션,코미디</td>
+					<td>주연</td>
+					<td>166,000</td>
+					<td>49</td>
+					<td>166,000</td>
+					<td>49</td>
+				</tr>
+			
+				<tr>
+					<td>케인 파일</td>
+					<td>The Kane Files: Life of Trial</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>데이</td>
+					<td>They</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>공포(호러),미스터리,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>댄서, 텍사스</td>
+					<td>Dancer, Texas Pop. 81</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>더 이상 참을 수 없어</td>
+					<td>Can&#039;t Hardly Wait</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>귀여운 악마</td>
+					<td>Driving Me Crazy</td>
+					<td>1991</td>
+					<td>미국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>8,176</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

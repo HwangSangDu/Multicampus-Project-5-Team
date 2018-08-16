@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '코비 스멀더스'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>어벤져스: 인피니티 워</td>
+					<td>Avengers: Infinity War</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지,SF</td>
+					<td>주연</td>
+					<td>99,825,741,869</td>
+					<td>11,202,737</td>
+					<td>99,918,419,769</td>
+					<td>11,211,798</td>
+				</tr>
+			
+				<tr>
+					<td>잭 리처: 네버 고 백</td>
+					<td>Jack Reacher: Never Go Back</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,범죄,드라마</td>
+					<td>주연</td>
+					<td>4,647,326,258</td>
+					<td>612,328</td>
+					<td>4,647,326,258</td>
+					<td>612,328</td>
+				</tr>
+			
+				<tr>
+					<td>피트니스 스캔들</td>
+					<td>Results</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>어벤져스: 에이지 오브 울트론</td>
+					<td>The Avengers: Age of Ultron</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지,SF</td>
+					<td>주연</td>
+					<td>88,582,586,366</td>
+					<td>10,494,499</td>
+					<td>88,582,586,366</td>
+					<td>10,494,499</td>
+				</tr>
+			
+				<tr>
+					<td>세이프 헤이븐</td>
+					<td>Safe Haven</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>288,919,000</td>
+					<td>40,815</td>
+					<td>288,909,000</td>
+					<td>40,813</td>
+				</tr>
+			
+				<tr>
+					<td>딜리버리 맨</td>
+					<td>Delivery Man</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연-엠마 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

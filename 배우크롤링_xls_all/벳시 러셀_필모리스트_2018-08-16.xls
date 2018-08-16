@@ -1,0 +1,86 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '벳시 러셀'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>포르노 메이커</td>
+					<td>MY TRIP BACK TO THE DARK SIDE</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>2,911,500</td>
+					<td>573</td>
+					<td>2,911,500</td>
+					<td>573</td>
+				</tr>
+			
+				<tr>
+					<td>쏘우 3D</td>
+					<td>Saw 3D</td>
+					<td>2010</td>
+					<td>미국,캐나다</td>
+					<td>공포(호러)</td>
+					<td>주연-질역</td>
+					<td>1,470,144,870</td>
+					<td>115,878</td>
+					<td>1,447,063,000</td>
+					<td>114,034</td>
+				</tr>
+			
+				<tr>
+					<td>프라이빗 스쿨</td>
+					<td>Private School</td>
+					<td>1983</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>67,301</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

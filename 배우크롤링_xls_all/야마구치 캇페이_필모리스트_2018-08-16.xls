@@ -1,0 +1,255 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '야마구치 캇페이'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>원피스 필름 골드</td>
+					<td>ONE PIECE FILM GOLD</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>애니메이션,어드벤처,판타지,액션</td>
+					<td>주연</td>
+					<td>1,710,680,100</td>
+					<td>217,248</td>
+					<td>1,710,761,100</td>
+					<td>217,257</td>
+				</tr>
+			
+				<tr>
+					<td>명탐정 코난 : 화염의 해바라기</td>
+					<td>Detective Conan: Sunflowers of Inferno</td>
+					<td>2015</td>
+					<td>일본</td>
+					<td>애니메이션</td>
+					<td>주연-쿠도 신이치 (목소리)역(목소리)</td>
+					<td>3,296,031,400</td>
+					<td>471,205</td>
+					<td>3,296,808,900</td>
+					<td>471,319</td>
+				</tr>
+			
+				<tr>
+					<td>원피스 : 에피소드 오브 메리 ~ 또 하나의 동료 이야기 ~</td>
+					<td>ONE PIECE : Episode of Merry</td>
+					<td>2013</td>
+					<td>일본</td>
+					<td>애니메이션,판타지,어드벤처</td>
+					<td>주연-우솝역(목소리)</td>
+					<td>28,590,200</td>
+					<td>3,902</td>
+					<td>29,044,200</td>
+					<td>3,959</td>
+				</tr>
+			
+				<tr>
+					<td>꽃거북 딩동의 엄마구출 대작전</td>
+					<td></td>
+					<td>2013</td>
+					<td>일본</td>
+					<td>애니메이션,가족,코미디</td>
+					<td>주연(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>원피스 : 에피소드 오브 루피 ~핸드 아일랜드의 모험~</td>
+					<td>ONE PIECE : Episode of Luffy</td>
+					<td>2012</td>
+					<td>일본</td>
+					<td>애니메이션,판타지,어드벤처</td>
+					<td>주연-우솝 목소리 역(목소리)</td>
+					<td>11,342,500</td>
+					<td>1,581</td>
+					<td>11,342,500</td>
+					<td>1,581</td>
+				</tr>
+			
+				<tr>
+					<td>원피스 : 에피소드 오브 나미 ~항해사의 눈물과 동료의 인연~</td>
+					<td>ONE PIECE : Episode of Nami</td>
+					<td>2012</td>
+					<td>일본</td>
+					<td>애니메이션,판타지,어드벤처</td>
+					<td>주연-우솝역(목소리)</td>
+					<td>12,319,500</td>
+					<td>1,639</td>
+					<td>12,319,500</td>
+					<td>1,639</td>
+				</tr>
+			
+				<tr>
+					<td>명탐정 코난: 천공의 난파선</td>
+					<td>Detective Conan: The Lost Ship In The Sky</td>
+					<td>2010</td>
+					<td>일본</td>
+					<td>애니메이션,가족</td>
+					<td>주연-쿠도신이치/괴도역(목소리)</td>
+					<td>4,065,925,171</td>
+					<td>628,423</td>
+					<td>4,002,088,500</td>
+					<td>618,420</td>
+				</tr>
+			
+				<tr>
+					<td>명탐정 코난:감벽의 관</td>
+					<td>Detective Conan: Jolly Roger in the Deep Azure</td>
+					<td>2007</td>
+					<td>일본</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td>1,800,327,000</td>
+					<td>242,166</td>
+					<td>1,800,316,000</td>
+					<td>242,164</td>
+				</tr>
+			
+				<tr>
+					<td>명탐정 코난 : 탐정들의 진혼가 </td>
+					<td>DETECTIVE CONAN: THE PRIVATE EYE&#039;S REQUIEM</td>
+					<td>2006</td>
+					<td>일본</td>
+					<td>애니메이션</td>
+					<td>조연</td>
+					<td>1,199,693,100</td>
+					<td>182,668</td>
+					<td>1,199,685,100</td>
+					<td>182,666</td>
+				</tr>
+			
+				<tr>
+					<td>극장판 이누야샤 4 - 홍련의 봉래도</td>
+					<td>Inuyasha The Movie 4: Fire On The Mystic Island</td>
+					<td>2004</td>
+					<td>일본</td>
+					<td>애니메이션,액션,SF</td>
+					<td>주연-이누야사 목소리역(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>데드 리브즈 </td>
+					<td>Dead Leaves</td>
+					<td>2004</td>
+					<td>일본</td>
+					<td>애니메이션,액션,어드벤처</td>
+					<td>주연(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>극장판 이누야샤 3 : 천하 패도의 검</td>
+					<td>Inuyasha - Tenka hadou no ken</td>
+					<td>2003</td>
+					<td>일본</td>
+					<td>애니메이션,액션,어드벤처</td>
+					<td>주연-이누야사 목소리역(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>이누야사 극장판 2 : 거울속의 몽환성</td>
+					<td>Inuyasha: The Castle Beyond the Looking Glass</td>
+					<td>2002</td>
+					<td>일본</td>
+					<td>애니메이션,액션,어드벤처</td>
+					<td>주연(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>이누야사 극장판 1 : 시대를 초월한 마음</td>
+					<td>Inuyasha The Movie: Affections Touching Across Time</td>
+					<td>2001</td>
+					<td>일본</td>
+					<td>애니메이션,액션,어드벤처,판타지</td>
+					<td>주연(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>원피스 극장판 1기: 황금의 대해적 우난</td>
+					<td>One Piece Movie: The Great Gold Pirate</td>
+					<td>2000</td>
+					<td>일본</td>
+					<td>애니메이션,액션,어드벤처,코미디,판타지</td>
+					<td>주연(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>김전일 소년 사건부 극장판 - 오페라 하우스</td>
+					<td>The Kindaichi Case Files : The Opera House Murders</td>
+					<td>1996</td>
+					<td>일본</td>
+					<td>범죄,미스터리,애니메이션</td>
+					<td>주연-긴다이치 하지메 (김전일) 역역(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

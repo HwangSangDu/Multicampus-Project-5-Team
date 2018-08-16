@@ -1,0 +1,333 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '김성균'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>명당</td>
+					<td></td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>사극</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>나와 봄날의 약속</td>
+					<td>I Have a Date with Spring</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>미스터리,판타지</td>
+					<td>주연</td>
+					<td>15,009,700</td>
+					<td>1,999</td>
+					<td>22,032,500</td>
+					<td>2,929</td>
+				</tr>
+			
+				<tr>
+					<td>골든슬럼버</td>
+					<td>Golden Slumber</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>범죄,드라마</td>
+					<td>주연-금철역</td>
+					<td>11,413,087,798</td>
+					<td>1,387,562</td>
+					<td>11,412,768,798</td>
+					<td>1,387,508</td>
+				</tr>
+			
+				<tr>
+					<td>채비</td>
+					<td>The Preparation</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-인규역</td>
+					<td>1,260,467,864</td>
+					<td>177,428</td>
+					<td>1,260,533,864</td>
+					<td>177,439</td>
+				</tr>
+			
+				<tr>
+					<td>괴물들</td>
+					<td>WRETCHES</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-강형사역</td>
+					<td>28,104,500</td>
+					<td>3,277</td>
+					<td>28,104,500</td>
+					<td>3,277</td>
+				</tr>
+			
+				<tr>
+					<td>보안관</td>
+					<td>The Sheriff In Town</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>범죄,코미디</td>
+					<td>주연-덕만역</td>
+					<td>20,844,405,409</td>
+					<td>2,588,617</td>
+					<td>20,844,488,409</td>
+					<td>2,588,628</td>
+				</tr>
+			
+				<tr>
+					<td>탐정 홍길동: 사라진 마을</td>
+					<td>The Phantom Detective </td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>드라마,액션</td>
+					<td>주연-강성일역</td>
+					<td>11,514,389,845</td>
+					<td>1,430,666</td>
+					<td>11,516,170,845</td>
+					<td>1,430,885</td>
+				</tr>
+			
+				<tr>
+					<td>미안해 사랑해 고마워</td>
+					<td>Summer Snow</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>359,247,800</td>
+					<td>51,207</td>
+					<td>359,247,800</td>
+					<td>51,207</td>
+				</tr>
+			
+				<tr>
+					<td>퇴마: 무녀굴</td>
+					<td>The Chosen: Forbidden Cave</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td>951,843,500</td>
+					<td>120,802</td>
+					<td>951,843,500</td>
+					<td>120,802</td>
+				</tr>
+			
+				<tr>
+					<td>살인의뢰</td>
+					<td>The Deal</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>범죄,스릴러</td>
+					<td>주연</td>
+					<td>6,986,456,737</td>
+					<td>855,980</td>
+					<td>6,986,456,737</td>
+					<td>855,980</td>
+				</tr>
+			
+				<tr>
+					<td>허삼관</td>
+					<td>Chronicle of a Blood Merchant</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연</td>
+					<td>7,405,415,569</td>
+					<td>955,175</td>
+					<td>7,410,215,569</td>
+					<td>956,103</td>
+				</tr>
+			
+				<tr>
+					<td>우리는 형제입니다</td>
+					<td>We Are Brothers</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>7,263,255,399</td>
+					<td>970,373</td>
+					<td>7,263,255,399</td>
+					<td>970,373</td>
+				</tr>
+			
+				<tr>
+					<td>군도: 민란의 시대</td>
+					<td>KUNDO : Age of the Rampant</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>사극,액션</td>
+					<td>주연</td>
+					<td>36,987,755,999</td>
+					<td>4,774,895</td>
+					<td>36,990,394,499</td>
+					<td>4,775,811</td>
+				</tr>
+			
+				<tr>
+					<td>용의자</td>
+					<td>The Suspect</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>액션,스릴러</td>
+					<td>주연-리광조역</td>
+					<td>30,037,161,000</td>
+					<td>4,131,248</td>
+					<td>30,037,521,000</td>
+					<td>4,131,338</td>
+				</tr>
+			
+				<tr>
+					<td>롤러코스터</td>
+					<td>Fasten Your Seatbelt</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>1,913,087,600</td>
+					<td>270,148</td>
+					<td>1,913,111,600</td>
+					<td>270,156</td>
+				</tr>
+			
+				<tr>
+					<td>화이: 괴물을 삼킨 아이</td>
+					<td>Hwayi: A Monster Boy</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>17,695,516,795</td>
+					<td>2,394,466</td>
+					<td>17,695,683,795</td>
+					<td>2,394,487</td>
+				</tr>
+			
+				<tr>
+					<td>은밀하게 위대하게</td>
+					<td>Secretly Greatly</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>액션,코미디,드라마</td>
+					<td>조연-서수혁 역</td>
+					<td>48,700,887,413</td>
+					<td>6,959,083</td>
+					<td>48,700,887,413</td>
+					<td>6,959,083</td>
+				</tr>
+			
+				<tr>
+					<td>남쪽으로 튀어</td>
+					<td>South Bound</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>조연-홍만덕역</td>
+					<td>5,970,851,500</td>
+					<td>832,894</td>
+					<td>5,970,851,500</td>
+					<td>832,894</td>
+				</tr>
+			
+				<tr>
+					<td>박수건달</td>
+					<td>Man on the Edge</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>조연-춘봉 역</td>
+					<td>28,379,548,569</td>
+					<td>3,897,969</td>
+					<td>28,379,548,569</td>
+					<td>3,897,969</td>
+				</tr>
+			
+				<tr>
+					<td>이웃사람</td>
+					<td>The Neighbors</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>18,087,442,369</td>
+					<td>2,434,099</td>
+					<td>18,089,332,369</td>
+					<td>2,434,435</td>
+				</tr>
+			
+				<tr>
+					<td>577 프로젝트</td>
+					<td>Project 577</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>695,765,500</td>
+					<td>96,079</td>
+					<td>695,770,500</td>
+					<td>96,080</td>
+				</tr>
+			
+				<tr>
+					<td>범죄와의 전쟁: 나쁜놈들 전성시대</td>
+					<td>Nameless Gangster : Rules of the Time</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>범죄,드라마</td>
+					<td>조연-박창우 역</td>
+					<td>36,538,823,500</td>
+					<td>4,719,872</td>
+					<td>36,540,327,500</td>
+					<td>4,720,050</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

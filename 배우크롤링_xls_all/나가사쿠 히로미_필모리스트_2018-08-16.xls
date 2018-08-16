@@ -1,0 +1,112 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '나가사쿠 히로미'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>세상의 끝에서 커피 한잔</td>
+					<td>The Furthest End Awaits</td>
+					<td>2014</td>
+					<td>일본,대만</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>31,217,000</td>
+					<td>4,116</td>
+					<td>31,217,000</td>
+					<td>4,116</td>
+				</tr>
+			
+				<tr>
+					<td>사십구일의 레시피</td>
+					<td>Mourning Recipe</td>
+					<td>2013</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>939,000</td>
+					<td>175</td>
+				</tr>
+			
+				<tr>
+					<td>술이 깨면 집에 가자</td>
+					<td>Wandering Home</td>
+					<td>2010</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>9,479,600</td>
+					<td>1,379</td>
+					<td>11,215,600</td>
+					<td>1,627</td>
+				</tr>
+			
+				<tr>
+					<td>천사</td>
+					<td>Angel</td>
+					<td>2006</td>
+					<td>일본</td>
+					<td>멜로/로맨스,판타지</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>241,000</td>
+					<td>58</td>
+				</tr>
+			
+				<tr>
+					<td>도플갱어</td>
+					<td>Doppelganger</td>
+					<td>2003</td>
+					<td>일본</td>
+					<td>범죄,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,007</td>
+					<td>156,000</td>
+					<td>26</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

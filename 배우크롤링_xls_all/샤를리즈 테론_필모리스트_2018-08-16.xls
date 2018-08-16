@@ -1,0 +1,450 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '샤를리즈 테론'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>아토믹 블론드</td>
+					<td>Atomic Blonde</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>1,177,725,658</td>
+					<td>155,368</td>
+					<td>1,177,725,658</td>
+					<td>155,368</td>
+				</tr>
+			
+				<tr>
+					<td>분노의 질주: 더 익스트림</td>
+					<td>Fast and Furious 8</td>
+					<td>2017</td>
+					<td>미국,일본,프랑스,캐나다</td>
+					<td>액션,범죄,스릴러</td>
+					<td>주연</td>
+					<td>29,981,156,348</td>
+					<td>3,653,238</td>
+					<td>29,981,156,348</td>
+					<td>3,653,238</td>
+				</tr>
+			
+				<tr>
+					<td>쿠보와 전설의 악기</td>
+					<td>Kubo and the Two Strings</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>애니메이션,어드벤처,가족,판타지</td>
+					<td>주연(목소리)</td>
+					<td>208,824,862</td>
+					<td>30,525</td>
+					<td>208,824,862</td>
+					<td>30,525</td>
+				</tr>
+			
+				<tr>
+					<td>헌츠맨: 윈터스 워</td>
+					<td>The Huntsman: Winter&#039;s War</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,어드벤처</td>
+					<td>주연</td>
+					<td>3,544,262,706</td>
+					<td>445,009</td>
+					<td>3,544,262,706</td>
+					<td>445,009</td>
+				</tr>
+			
+				<tr>
+					<td>라스트 페이스</td>
+					<td>THE LAST FACE</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>다크 플레이스</td>
+					<td>Dark Places </td>
+					<td>2015</td>
+					<td>미국,영국,프랑스</td>
+					<td>드라마,미스터리,스릴러</td>
+					<td>주연</td>
+					<td>530,282,654</td>
+					<td>66,075</td>
+					<td>530,596,654</td>
+					<td>66,127</td>
+				</tr>
+			
+				<tr>
+					<td>매드 맥스: 분노의 도로</td>
+					<td>Mad Max: Fury Road</td>
+					<td>2015</td>
+					<td>미국,호주</td>
+					<td>액션,어드벤처,스릴러</td>
+					<td>주연</td>
+					<td>32,906,364,462</td>
+					<td>3,842,441</td>
+					<td>33,390,165,362</td>
+					<td>3,884,130</td>
+				</tr>
+			
+				<tr>
+					<td>밀리언 웨이즈</td>
+					<td>A Million Ways to Die in the West</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>135,460,300</td>
+					<td>17,546</td>
+					<td>135,460,300</td>
+					<td>17,546</td>
+				</tr>
+			
+				<tr>
+					<td>프로메테우스</td>
+					<td>Prometheus</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>SF,스릴러</td>
+					<td>주연</td>
+					<td>8,600,146,099</td>
+					<td>971,482</td>
+					<td>8,600,146,099</td>
+					<td>971,482</td>
+				</tr>
+			
+				<tr>
+					<td>스노우 화이트 앤 더 헌츠맨</td>
+					<td>Snow White And The Huntsman</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지</td>
+					<td>주연-이블 퀸역</td>
+					<td>4,646,250,000</td>
+					<td>636,631</td>
+					<td>4,646,250,000</td>
+					<td>636,631</td>
+				</tr>
+			
+				<tr>
+					<td>영 어덜트</td>
+					<td>Young Adult</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연-메이비스 역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>더 로드</td>
+					<td>The Road</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>SF,드라마,스릴러</td>
+					<td>주연</td>
+					<td>1,303,099,693</td>
+					<td>176,152</td>
+					<td>1,282,640,500</td>
+					<td>173,348</td>
+				</tr>
+			
+				<tr>
+					<td>욕망의 대지</td>
+					<td>The Burning Plain</td>
+					<td>2008</td>
+					<td>미국,아르헨티나</td>
+					<td>범죄,드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>270,000</td>
+					<td>54</td>
+					<td>270,000</td>
+					<td>54</td>
+				</tr>
+			
+				<tr>
+					<td>핸콕</td>
+					<td>Hancock</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>액션,드라마,코미디</td>
+					<td>주연</td>
+					<td>17,854,932,333</td>
+					<td>2,723,518</td>
+					<td>17,844,690,500</td>
+					<td>2,722,574</td>
+				</tr>
+			
+				<tr>
+					<td>엘라의 계곡</td>
+					<td>In The Valley Of Elah</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>범죄,드라마,미스터리,스릴러</td>
+					<td>주연-에밀리 샌더스역</td>
+					<td>30,737,613</td>
+					<td>4,155</td>
+					<td>30,777,000</td>
+					<td>4,162</td>
+				</tr>
+			
+				<tr>
+					<td>이온 플럭스</td>
+					<td>Aeon Flux</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연-이온 플럭스역</td>
+					<td>0</td>
+					<td>66,456</td>
+					<td>389,991,900</td>
+					<td>61,817</td>
+				</tr>
+			
+				<tr>
+					<td>노스 컨츄리</td>
+					<td>North Country</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-조시 에이미스역</td>
+					<td>0</td>
+					<td>14,300</td>
+					<td>79,418,600</td>
+					<td>12,213</td>
+				</tr>
+			
+				<tr>
+					<td>러브 인 클라우즈</td>
+					<td>Head In The Clouds</td>
+					<td>2004</td>
+					<td>호주</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>199,109,613</td>
+					<td>29,033</td>
+					<td>213,743,500</td>
+					<td>31,338</td>
+				</tr>
+			
+				<tr>
+					<td>피터 셀러스의 삶과 죽음</td>
+					<td>The Life And Death Of Peter Sellers</td>
+					<td>2004</td>
+					<td>미국,영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>몬스터</td>
+					<td>Monster</td>
+					<td>2003</td>
+					<td>독일</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>92,535</td>
+					<td>384,967,000</td>
+					<td>58,743</td>
+				</tr>
+			
+				<tr>
+					<td>이탈리안 잡</td>
+					<td>The Italian Job</td>
+					<td>2003</td>
+					<td>미국,영국,프랑스</td>
+					<td>범죄,드라마,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>566,800</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>트랩트</td>
+					<td>Trapped</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>34,146</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>리노의 하룻밤</td>
+					<td>Waking Up In Reno</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스위트 노벰버</td>
+					<td>Sweet November</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>42,937</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>레인디어 게임</td>
+					<td>Reindeer Games</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>액션,스릴러,범죄</td>
+					<td>주연-애슐리역</td>
+					<td>0</td>
+					<td>26,846</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>맨 오브 오너</td>
+					<td>Man Of Honor</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>45,747</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>애스트로넛</td>
+					<td>The Astronaut&#039;s Wife</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러,SF</td>
+					<td>주연-질리안 아마코스트역</td>
+					<td>0</td>
+					<td>4,691</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사이더 하우스</td>
+					<td>The Cider House Eules</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-캔디 켄달역</td>
+					<td>0</td>
+					<td>15,403</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>마이티 조 영</td>
+					<td>Maghty Joe Young</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>어드벤처,가족,판타지</td>
+					<td>주연-질 영역</td>
+					<td>0</td>
+					<td>857</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>트라이얼 쇼 </td>
+					<td>Trial And Error</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>487</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>데블스에드버킷</td>
+					<td>The Devil&#039;S Advocate</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>스릴러,드라마,공포(호러)</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>245,164</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

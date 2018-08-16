@@ -1,0 +1,151 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '브렌튼 스웨이츠'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>캐리비안의 해적: 죽은 자는 말이 없다</td>
+					<td>Pirates of the Caribbean: Dead Men Tell No</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지,코미디</td>
+					<td>주연</td>
+					<td>24,975,495,122</td>
+					<td>3,049,894</td>
+					<td>24,975,495,122</td>
+					<td>3,049,894</td>
+				</tr>
+			
+				<tr>
+					<td>갓 오브 이집트</td>
+					<td>Gods of Egypt</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>어드벤처,판타지</td>
+					<td>주연</td>
+					<td>7,621,291,624</td>
+					<td>919,834</td>
+					<td>7,621,291,624</td>
+					<td>919,834</td>
+				</tr>
+			
+				<tr>
+					<td>라이드 : 나에게로의 여행</td>
+					<td>Ride</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>124,963,700</td>
+					<td>15,190</td>
+					<td>125,004,700</td>
+					<td>15,195</td>
+				</tr>
+			
+				<tr>
+					<td>나쁜 녀석들</td>
+					<td>Son Of A Gun</td>
+					<td>2014</td>
+					<td>호주</td>
+					<td>범죄,액션</td>
+					<td>주연</td>
+					<td>35,561,300</td>
+					<td>4,936</td>
+					<td>35,561,300</td>
+					<td>4,936</td>
+				</tr>
+			
+				<tr>
+					<td>더 기버: 기억전달자</td>
+					<td>The Giver</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>SF,드라마,판타지</td>
+					<td>주연</td>
+					<td>814,330,000</td>
+					<td>107,567</td>
+					<td>814,330,000</td>
+					<td>107,567</td>
+				</tr>
+			
+				<tr>
+					<td>더 시그널</td>
+					<td>The Signal</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>SF,액션,스릴러</td>
+					<td>주연</td>
+					<td>812,086,328</td>
+					<td>106,081</td>
+					<td>812,086,328</td>
+					<td>106,081</td>
+				</tr>
+			
+				<tr>
+					<td>오큘러스</td>
+					<td>Oculus</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>미스터리,공포(호러),스릴러</td>
+					<td>주연</td>
+					<td>2,122,466,537</td>
+					<td>279,488</td>
+					<td>2,122,466,537</td>
+					<td>279,488</td>
+				</tr>
+			
+				<tr>
+					<td>블루라군 : 더 어웨이크닝</td>
+					<td>Blue Lagoon: The Awakening</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>멜로/로맨스,어드벤처</td>
+					<td>주연-딘역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,294 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '송삼동'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>구세주: 리턴즈</td>
+					<td></td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>조연</td>
+					<td>45,622,000</td>
+					<td>6,151</td>
+					<td>45,622,000</td>
+					<td>6,151</td>
+				</tr>
+			
+				<tr>
+					<td>션샤인 러브</td>
+					<td>Sunshine Love</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>판타지,멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>7,069,800</td>
+					<td>896</td>
+					<td>7,069,800</td>
+					<td>896</td>
+				</tr>
+			
+				<tr>
+					<td>들꽃</td>
+					<td>Wild Flowers</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연</td>
+					<td>7,306,300</td>
+					<td>965</td>
+					<td>8,254,700</td>
+					<td>1,295</td>
+				</tr>
+			
+				<tr>
+					<td>자, 이제 댄스타임</td>
+					<td>Let’s Dance</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>다큐멘터리</td>
+					<td>주연</td>
+					<td>7,280,000</td>
+					<td>1,088</td>
+					<td>8,058,500</td>
+					<td>1,351</td>
+				</tr>
+			
+				<tr>
+					<td>미스체인지</td>
+					<td>Mischange</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연-이제칠역</td>
+					<td>42,659,500</td>
+					<td>6,054</td>
+					<td>42,659,500</td>
+					<td>6,054</td>
+				</tr>
+			
+				<tr>
+					<td>청춘정담</td>
+					<td>Believe Me</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>3,176,500</td>
+					<td>484</td>
+					<td>3,176,500</td>
+					<td>484</td>
+				</tr>
+			
+				<tr>
+					<td>개똥이</td>
+					<td>Over and Over Again</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-개똥역</td>
+					<td>4,914,000</td>
+					<td>679</td>
+					<td>5,218,000</td>
+					<td>831</td>
+				</tr>
+			
+				<tr>
+					<td>내일</td>
+					<td>Routine</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마,가족,기타</td>
+					<td>주연-박성진역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>슈퍼스타</td>
+					<td>Super Star</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>주연-진수역</td>
+					<td>11,269,400</td>
+					<td>1,570</td>
+					<td>11,304,400</td>
+					<td>1,575</td>
+				</tr>
+			
+				<tr>
+					<td>더블 클러치</td>
+					<td>Double Clutch</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연-장근역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>상쾌한 대미를 위한 그녀와 나만의 질의응답</td>
+					<td>I Didn’t Know You Were That Cool.</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-동호역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>창경원</td>
+					<td>Changgyeong Park</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마,가족,기타</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>피를 파는 사나이</td>
+					<td>The Blood Seller</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>판타지,드라마</td>
+					<td>주연-태수역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>상식적 만남</td>
+					<td>A Casual Encounter</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-태훈역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>유령들</td>
+					<td>Spiritless</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-완준역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>조우</td>
+					<td>Encounter</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>REC 알이씨</td>
+					<td>REC</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연,기타-캠코더 촬영</td>
+					<td>22,284,700</td>
+					<td>2,799</td>
+					<td>22,284,700</td>
+					<td>2,799</td>
+				</tr>
+			
+				<tr>
+					<td>낮술</td>
+					<td>Daytime Drinking</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>주연-혁진역</td>
+					<td>172,351,722</td>
+					<td>24,595</td>
+					<td>178,040,600</td>
+					<td>25,409</td>
+				</tr>
+			
+				<tr>
+					<td>고기 도시</td>
+					<td>Meatopia</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>드라마,공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,541 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '존 굿맨'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>원스 어폰 어 타임 인 베니스</td>
+					<td>Once Upon a Time in Venice</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>코미디,액션,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>150,000</td>
+					<td>30</td>
+				</tr>
+			
+				<tr>
+					<td>아토믹 블론드</td>
+					<td>Atomic Blonde</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>1,177,725,658</td>
+					<td>155,368</td>
+					<td>1,177,725,658</td>
+					<td>155,368</td>
+				</tr>
+			
+				<tr>
+					<td>패트리어트 데이</td>
+					<td>Patriots Day</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td>593,983,618</td>
+					<td>74,827</td>
+					<td>593,983,618</td>
+					<td>74,827</td>
+				</tr>
+			
+				<tr>
+					<td>콩: 스컬 아일랜드</td>
+					<td>Kong: Skull Island</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지</td>
+					<td>주연</td>
+					<td>13,990,563,383</td>
+					<td>1,689,717</td>
+					<td>13,990,563,383</td>
+					<td>1,689,717</td>
+				</tr>
+			
+				<tr>
+					<td>갤럭시 히어로즈: 라쳇 앤 클랭크</td>
+					<td>Ratchet and Clank</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>애니메이션,액션,어드벤처</td>
+					<td>주연</td>
+					<td>336,281,100</td>
+					<td>46,638</td>
+					<td>337,056,100</td>
+					<td>46,793</td>
+				</tr>
+			
+				<tr>
+					<td>클로버필드 10번지</td>
+					<td>10 Cloverfield Lane</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>미스터리,스릴러</td>
+					<td>주연</td>
+					<td>2,928,428,655</td>
+					<td>357,736</td>
+					<td>2,928,428,655</td>
+					<td>357,736</td>
+				</tr>
+			
+				<tr>
+					<td>트럼보</td>
+					<td>Trumbo</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>486,936,100</td>
+					<td>61,955</td>
+					<td>487,002,100</td>
+					<td>61,964</td>
+				</tr>
+			
+				<tr>
+					<td>모뉴먼츠 맨: 세기의 작전</td>
+					<td>The Monuments Men</td>
+					<td>2014</td>
+					<td>미국,독일</td>
+					<td>액션,드라마</td>
+					<td>조연</td>
+					<td>534,041,027</td>
+					<td>71,483</td>
+					<td>534,041,027</td>
+					<td>71,483</td>
+				</tr>
+			
+				<tr>
+					<td>인사이드 르윈 </td>
+					<td>Inside Lewyn Davis</td>
+					<td>2013</td>
+					<td>미국,프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>817,359,200</td>
+					<td>105,592</td>
+					<td>824,583,700</td>
+					<td>106,729</td>
+				</tr>
+			
+				<tr>
+					<td>몬스터 대학교</td>
+					<td>Monsters University</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td>5,879,223,500</td>
+					<td>870,605</td>
+					<td>5,880,297,500</td>
+					<td>870,759</td>
+				</tr>
+			
+				<tr>
+					<td>플라이트</td>
+					<td>Flight</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>150,391,500</td>
+					<td>20,491</td>
+					<td>150,770,500</td>
+					<td>20,553</td>
+				</tr>
+			
+				<tr>
+					<td>내 인생의 마지막 변화구 </td>
+					<td>Trouble with the Curve</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>조연-피트 클라인역</td>
+					<td>211,377,500</td>
+					<td>30,037</td>
+					<td>211,377,500</td>
+					<td>30,037</td>
+				</tr>
+			
+				<tr>
+					<td>아르고</td>
+					<td>ARGO</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>1,001,059,500</td>
+					<td>140,736</td>
+					<td>1,001,059,500</td>
+					<td>140,736</td>
+				</tr>
+			
+				<tr>
+					<td>엄청나게 시끄럽고 믿을 수 없게 가까운</td>
+					<td>Extremely Loud and Incredibly Close</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아티스트</td>
+					<td>The Artist</td>
+					<td>2011</td>
+					<td>미국,프랑스</td>
+					<td>멜로/로맨스,코미디,드라마</td>
+					<td>주연-짐머 역</td>
+					<td>919,719,100</td>
+					<td>120,155</td>
+					<td>923,407,600</td>
+					<td>120,634</td>
+				</tr>
+			
+				<tr>
+					<td>거친 녀석들 : 거침없이 쏴라</td>
+					<td>Red State</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연-조셉 키넌역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>드렁크보트</td>
+					<td>Drunkboat</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>일렉트릭 미스트</td>
+					<td>In The Electric Mist</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>미스터리,드라마</td>
+					<td>주연</td>
+					<td>19,082,305</td>
+					<td>2,400</td>
+					<td>18,797,500</td>
+					<td>2,364</td>
+				</tr>
+			
+				<tr>
+					<td>정글북 2</td>
+					<td>The Jungle Book 2</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>애니메이션,드라마,어드벤처</td>
+					<td>주연(목소리)</td>
+					<td>0</td>
+					<td>25,429</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>가장과 익명</td>
+					<td>Masked And Anonymous</td>
+					<td>2003</td>
+					<td>미국,영국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>더러운 짓거리</td>
+					<td>Dirty Deeds</td>
+					<td>2002</td>
+					<td>호주,캐나다</td>
+					<td>코미디,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>몬스터 주식회사</td>
+					<td>Monsters.Inc</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>애니메이션,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>533,244</td>
+					<td>939,982,500</td>
+					<td>90,931</td>
+				</tr>
+			
+				<tr>
+					<td>디 아더 사이드</td>
+					<td>On The Edge</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>코미디,SF</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>맥쿨에서의 하룻밤</td>
+					<td>One Night At McCool&#039;s</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>코미디,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>쿠스코? 쿠스코!</td>
+					<td>The Emperor&#039;s New Groove</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>애니메이션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>77,754</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>런너</td>
+					<td>The Runner</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>드라마,범죄,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>잭 불</td>
+					<td>The Jack Bull</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>서부극(웨스턴)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>바로워즈 </td>
+					<td>The Borrowers</td>
+					<td>1998</td>
+					<td>미국,영국</td>
+					<td>가족,어드벤처,코미디,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>256</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>위대한 레보스키 </td>
+					<td>The Big Lebowski</td>
+					<td>1998</td>
+					<td>미국,영국</td>
+					<td>코미디,미스터리,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>7,129</td>
+					<td>1,284,000</td>
+					<td>184</td>
+				</tr>
+			
+				<tr>
+					<td>브루스 브라더스 2000</td>
+					<td>Blues Brothers 2000</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>액션,코미디,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>다크 앤젤</td>
+					<td>Fallen</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>공포(호러),미스터리,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>36,951</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>공룡 대행진</td>
+					<td>We&#039;re Back! A Dinosaur&#039;s Story</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>애니메이션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>고인돌 가족 프린스톤 </td>
+					<td>The Frinstones</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>가족,코미디,판타지,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>27,182</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>마티니 </td>
+					<td>Matinee</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>463</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>귀여운 빌리 </td>
+					<td>Born Yesterday</td>
+					<td>1992</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>9,928</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>베이브</td>
+					<td>The Babe</td>
+					<td>1992</td>
+					<td>미국</td>
+					<td>드라마,코미디,가족</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,185</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>바톤 핑크</td>
+					<td>Barton Fink</td>
+					<td>1991</td>
+					<td>미국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>32,916</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스텔라</td>
+					<td>Stella</td>
+					<td>1990</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>108,895</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

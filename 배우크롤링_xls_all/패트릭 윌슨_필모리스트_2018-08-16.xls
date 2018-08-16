@@ -1,0 +1,307 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '패트릭 윌슨'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>커뮤터</td>
+					<td>The Commuter</td>
+					<td>2017</td>
+					<td>영국,미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>2,286,602,955</td>
+					<td>286,044</td>
+					<td>2,286,702,955</td>
+					<td>286,064</td>
+				</tr>
+			
+				<tr>
+					<td>카인드 오브 머더</td>
+					<td>A Kind of Murder</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>스릴러,드라마</td>
+					<td>주연</td>
+					<td>285,000</td>
+					<td>50</td>
+					<td>285,000</td>
+					<td>50</td>
+				</tr>
+			
+				<tr>
+					<td>컨저링 2</td>
+					<td>The Conjuring 2</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td>15,759,374,229</td>
+					<td>1,928,605</td>
+					<td>15,759,374,229</td>
+					<td>1,928,605</td>
+				</tr>
+			
+				<tr>
+					<td>본 토마호크</td>
+					<td>Bone Tomahawk</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>공포(호러),서부극(웨스턴)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>불륜녀 죽이기</td>
+					<td>Home Sweet Hell</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>인시디어스: 두번째 집</td>
+					<td>Insidious: Chapter 2</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td>4,001,207,000</td>
+					<td>577,758</td>
+					<td>4,001,207,000</td>
+					<td>577,758</td>
+				</tr>
+			
+				<tr>
+					<td>컨저링</td>
+					<td>The Conjuring</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연-에드 워렌역</td>
+					<td>16,353,225,777</td>
+					<td>2,262,758</td>
+					<td>16,353,225,777</td>
+					<td>2,262,758</td>
+				</tr>
+			
+				<tr>
+					<td>스페이스 스테이션 76 </td>
+					<td>Space Station 76</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>코미디,SF,드라마</td>
+					<td>주연-글랜역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>더 트랩: 난간 끝에 선 남자</td>
+					<td>The Ledge</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>스릴러,드라마</td>
+					<td>주연-죠역</td>
+					<td>5,020,000</td>
+					<td>2,120</td>
+					<td>5,020,000</td>
+					<td>2,120</td>
+				</tr>
+			
+				<tr>
+					<td>인시디어스</td>
+					<td>Insidious</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>공포(호러),판타지,스릴러</td>
+					<td>주연</td>
+					<td>368,598,500</td>
+					<td>51,800</td>
+					<td>370,770,500</td>
+					<td>52,092</td>
+				</tr>
+			
+				<tr>
+					<td>영 어덜트</td>
+					<td>Young Adult</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연-버디 역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>A-특공대</td>
+					<td>The A-Team</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>5,890,424,042</td>
+					<td>791,173</td>
+					<td>5,795,794,000</td>
+					<td>777,985</td>
+				</tr>
+			
+				<tr>
+					<td>배리 먼데이</td>
+					<td>Barry Munday</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>패신저스</td>
+					<td>Passengers</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>미스터리,멜로/로맨스</td>
+					<td>주연</td>
+					<td>228,000</td>
+					<td>37</td>
+					<td>228,000</td>
+					<td>37</td>
+				</tr>
+			
+				<tr>
+					<td>레이크뷰 테라스</td>
+					<td>Lakeview Terrace</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>스릴러,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>이브닝</td>
+					<td>Evening</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>22,921</td>
+					<td>83,383,000</td>
+					<td>12,894</td>
+				</tr>
+			
+				<tr>
+					<td>리틀 칠드런</td>
+					<td>Little Children</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,501</td>
+					<td>9,919,500</td>
+					<td>1,469</td>
+				</tr>
+			
+				<tr>
+					<td>하드 캔디</td>
+					<td>Hard Candy</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>오페라의 유령</td>
+					<td>The Phantom Of The Opera</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>뮤지컬,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,006,880</td>
+					<td>10,090,203,100</td>
+					<td>1,577,636</td>
+				</tr>
+			
+				<tr>
+					<td>알라모</td>
+					<td>The Alamo</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>서부극(웨스턴),드라마,전쟁</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

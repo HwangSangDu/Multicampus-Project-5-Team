@@ -1,0 +1,112 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '이현호'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>로마서 8:37</td>
+					<td>Romans 8:37</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-안기섭역</td>
+					<td>36,723,000</td>
+					<td>4,876</td>
+					<td>37,996,000</td>
+					<td>5,059</td>
+				</tr>
+			
+				<tr>
+					<td>엄마는 창녀다</td>
+					<td>Mother Is a Whore</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-광신도3역</td>
+					<td>3,422,200</td>
+					<td>523</td>
+					<td>3,422,200</td>
+					<td>523</td>
+				</tr>
+			
+				<tr>
+					<td>페어러브</td>
+					<td>The Fair Love</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>조연-재형역</td>
+					<td>205,824,062</td>
+					<td>27,521</td>
+					<td>202,592,500</td>
+					<td>27,083</td>
+				</tr>
+			
+				<tr>
+					<td>불한당들</td>
+					<td>The Villains</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td></td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>좋은 배우</td>
+					<td>A Great Actor</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

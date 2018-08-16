@@ -1,0 +1,307 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '타케나카 나오토'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>레온</td>
+					<td>Reon</td>
+					<td>2018</td>
+					<td>일본</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>야마가타 스크림</td>
+					<td>Yamagata Scream</td>
+					<td>2009</td>
+					<td>일본</td>
+					<td>코미디,공포(호러)</td>
+					<td>감독,주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>신주쿠 사건</td>
+					<td>The Shinjuku Incident</td>
+					<td>2008</td>
+					<td>홍콩</td>
+					<td>액션,드라마,범죄</td>
+					<td>주연</td>
+					<td>289,750,076</td>
+					<td>43,881</td>
+					<td>287,329,000</td>
+					<td>43,516</td>
+				</tr>
+			
+				<tr>
+					<td>도쿄!</td>
+					<td>Tokyo!</td>
+					<td>2008</td>
+					<td>일본,한국,프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>275,955,904</td>
+					<td>41,198</td>
+					<td>278,440,500</td>
+					<td>41,572</td>
+				</tr>
+			
+				<tr>
+					<td>스트레인저: 무황인담</td>
+					<td>Sword Of The Stranger</td>
+					<td>2007</td>
+					<td>일본</td>
+					<td>애니메이션,액션,어드벤처</td>
+					<td>주연-쇼안 스님역(목소리)</td>
+					<td>7,440,669</td>
+					<td>1,147</td>
+					<td>8,543,000</td>
+					<td>1,275</td>
+				</tr>
+			
+				<tr>
+					<td>이노센스</td>
+					<td>Ghost In The Shell 2: Innocence</td>
+					<td>2004</td>
+					<td>일본</td>
+					<td>애니메이션,SF</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>31,249</td>
+					<td>172,043,500</td>
+					<td>26,116</td>
+				</tr>
+			
+				<tr>
+					<td>괴담신이대 극장판 </td>
+					<td>Tales Of Terror</td>
+					<td>2004</td>
+					<td>일본</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사요나라 컬러</td>
+					<td>Sayonara Color</td>
+					<td>2004</td>
+					<td>일본</td>
+					<td>멜로/로맨스</td>
+					<td>감독,주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>완전한 사육 5: 미용사의 사랑</td>
+					<td>The Perfect Education 5 : Amazing Story</td>
+					<td>2004</td>
+					<td>일본</td>
+					<td>스릴러,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>완전한 사육 4: 비밀의 지하실</td>
+					<td>Perfect Education 4: Secret Basement</td>
+					<td>2003</td>
+					<td>일본</td>
+					<td>드라마,범죄,스릴러</td>
+					<td>주연</td>
+					<td>8,000</td>
+					<td>2</td>
+					<td>8,000</td>
+					<td>2</td>
+				</tr>
+			
+				<tr>
+					<td>소녀 검객 아즈미 대혈전</td>
+					<td>Azumi</td>
+					<td>2003</td>
+					<td>일본</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>709</td>
+					<td>3,433,500</td>
+					<td>549</td>
+				</tr>
+			
+				<tr>
+					<td>완전한 사육 2 - 사랑의 40일</td>
+					<td>Perfect Education 2</td>
+					<td>2001</td>
+					<td>일본</td>
+					<td>범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>161</td>
+					<td>9,000</td>
+					<td>2</td>
+				</tr>
+			
+				<tr>
+					<td>워터 보이즈</td>
+					<td>Waterboys</td>
+					<td>2001</td>
+					<td>일본</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>35,521</td>
+					<td>999,000</td>
+					<td>182</td>
+				</tr>
+			
+				<tr>
+					<td>연탄</td>
+					<td>Quartet For Two</td>
+					<td>2001</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>감독,주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>매미 축제의 섬</td>
+					<td></td>
+					<td>2000</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>삼류 배우</td>
+					<td>By Player</td>
+					<td>2000</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연-토노야마 타이지역</td>
+					<td></td>
+					<td></td>
+					<td>0</td>
+					<td>0</td>
+				</tr>
+			
+				<tr>
+					<td>신주쿠 여고생 납치사건(완전한 사육)</td>
+					<td>The Perfect Education</td>
+					<td>1999</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>452</td>
+					<td>3,176,000</td>
+					<td>454</td>
+				</tr>
+			
+				<tr>
+					<td>도쿄 맑음</td>
+					<td>Dtokyo Biyori</td>
+					<td>1997</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>감독,주연</td>
+					<td>0</td>
+					<td>10,394</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>으랏차차 스모부</td>
+					<td>Sumo Do Sumo Don&#039;T</td>
+					<td>1992</td>
+					<td>일본</td>
+					<td>코미디,드라마</td>
+					<td>주연-토미오 아오키역</td>
+					<td>0</td>
+					<td>56,351</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>누드의밤</td>
+					<td>night in nude</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '김예은'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>너와 극장에서</td>
+					<td>Cinema with You</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>6,271,500</td>
+					<td>913</td>
+					<td>14,180,600</td>
+					<td>2,032</td>
+				</tr>
+			
+				<tr>
+					<td>11월 수요단편극장 [반짝반짝 빛나는: 김예은 배우 특별전]</td>
+					<td></td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>기타</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>240,000</td>
+					<td>30</td>
+				</tr>
+			
+				<tr>
+					<td>필름시대사랑</td>
+					<td>Love and...</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-정신병원 환자역</td>
+					<td>12,686,000</td>
+					<td>1,611</td>
+					<td>12,686,000</td>
+					<td>1,611</td>
+				</tr>
+			
+				<tr>
+					<td>암살</td>
+					<td>Assassination</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>액션,드라마</td>
+					<td>단역-치과 간호사  역</td>
+					<td>98,463,132,781</td>
+					<td>12,705,700</td>
+					<td>98,467,187,781</td>
+					<td>12,706,663</td>
+				</tr>
+			
+				<tr>
+					<td>오늘영화</td>
+					<td>Now Playing</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>멜로/로맨스,기타</td>
+					<td>단역-여권 사진녀역</td>
+					<td>17,273,200</td>
+					<td>2,348</td>
+					<td>20,409,900</td>
+					<td>2,861</td>
+				</tr>
+			
+				<tr>
+					<td>가시</td>
+					<td>Innocent Thing</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>단역-예은역</td>
+					<td>1,095,301,000</td>
+					<td>142,170</td>
+					<td>1,095,301,000</td>
+					<td>142,170</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

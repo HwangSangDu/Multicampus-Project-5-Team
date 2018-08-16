@@ -1,0 +1,164 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '제인 세이모어'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>블랙의 50가지 그림자</td>
+					<td>Fifty Shades of Black</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>300,000</td>
+					<td>60</td>
+					<td>300,000</td>
+					<td>60</td>
+				</tr>
+			
+				<tr>
+					<td>애프터 섹스</td>
+					<td>After Sex</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>기억속으로</td>
+					<td>A Memory In My Heart</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>유혹의 밤</td>
+					<td>Are You Lonesome Tonight?</td>
+					<td>1992</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>깊은밤 깊은 곳에 2</td>
+					<td>Memories Or Midnight 2</td>
+					<td>1991</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,653</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>프랑스 대혁명 </td>
+					<td>The French Revolution</td>
+					<td>1989</td>
+					<td>영국</td>
+					<td>드라마,사극,전쟁</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>4,894</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>그리스의 대부</td>
+					<td>Onassis : The Richest Man In The World</td>
+					<td>1988</td>
+					<td>미국,스페인</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>에너미라인</td>
+					<td>Lassiter</td>
+					<td>1984</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>14,000</td>
+					<td>2</td>
+					<td>14,000</td>
+					<td>2</td>
+				</tr>
+			
+				<tr>
+					<td>신밧드 대모험 호랑이 눈알</td>
+					<td>Sinbad And The Eye Of The Tiger</td>
+					<td>1977</td>
+					<td>미국</td>
+					<td>가족,액션,어드벤처,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>275,721</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

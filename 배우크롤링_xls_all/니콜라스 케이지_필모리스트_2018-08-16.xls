@@ -1,0 +1,905 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '니콜라스 케이지'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>루킹 글라스</td>
+					<td>Looking Glass</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>2,000</td>
+					<td>1</td>
+					<td>2,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>휴매니티 뷰로우: 인류관리국</td>
+					<td>Humanity Bureau</td>
+					<td>2018</td>
+					<td>캐나다</td>
+					<td>액션,SF</td>
+					<td>주연</td>
+					<td>27,000</td>
+					<td>13</td>
+					<td>27,000</td>
+					<td>13</td>
+				</tr>
+			
+				<tr>
+					<td>맘&amp;대드</td>
+					<td>Mom &amp; Dad</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>12,272,600</td>
+					<td>1,549</td>
+				</tr>
+			
+				<tr>
+					<td>아스널: 리로디드</td>
+					<td>Arsenal</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>범죄,스릴러</td>
+					<td>주연</td>
+					<td>150,000</td>
+					<td>30</td>
+					<td>150,000</td>
+					<td>30</td>
+				</tr>
+			
+				<tr>
+					<td>인컨시버블</td>
+					<td>Inconceivable</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>스릴러,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스노든</td>
+					<td>SNOWDEN</td>
+					<td>2016</td>
+					<td>프랑스,독일,미국</td>
+					<td>스릴러,드라마</td>
+					<td>주연</td>
+					<td>325,020,562</td>
+					<td>40,040</td>
+					<td>325,035,562</td>
+					<td>40,043</td>
+				</tr>
+			
+				<tr>
+					<td>더 트러스트</td>
+					<td>The Trust</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>범죄,스릴러</td>
+					<td>주연</td>
+					<td>175,000</td>
+					<td>54</td>
+					<td>175,000</td>
+					<td>54</td>
+				</tr>
+			
+				<tr>
+					<td>페이 더 고스트</td>
+					<td>Pay the Ghost</td>
+					<td>2015</td>
+					<td>캐나다</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>7,754,500</td>
+					<td>1,049</td>
+					<td>7,754,500</td>
+					<td>1,049</td>
+				</tr>
+			
+				<tr>
+					<td>더 러너</td>
+					<td>The Runner</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>레프트 비하인드 : 휴거의 시작</td>
+					<td>Left Behind</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>액션,스릴러,SF</td>
+					<td>주연-레이 스틸역</td>
+					<td>236,000</td>
+					<td>66</td>
+					<td>236,000</td>
+					<td>66</td>
+				</tr>
+			
+				<tr>
+					<td>아웃캐스트: 절명도망 무삭제판</td>
+					<td>Outcast</td>
+					<td>2014</td>
+					<td>미국,캐나다,중국</td>
+					<td>액션,전쟁,어드벤처</td>
+					<td>주연</td>
+					<td>10,000</td>
+					<td>2</td>
+					<td>10,000</td>
+					<td>2</td>
+				</tr>
+			
+				<tr>
+					<td>토카레브</td>
+					<td>Tokarev </td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>액션,범죄,스릴러</td>
+					<td>주연</td>
+					<td>17,706,000</td>
+					<td>3,375</td>
+					<td>17,706,000</td>
+					<td>3,375</td>
+				</tr>
+			
+				<tr>
+					<td>다잉 오브 라이트</td>
+					<td>Dying of the Light</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>조</td>
+					<td>Joe</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>9,465,500</td>
+					<td>1,789</td>
+					<td>9,465,500</td>
+					<td>1,789</td>
+				</tr>
+			
+				<tr>
+					<td>크루즈 패밀리</td>
+					<td>The Croods</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>애니메이션,가족,코미디</td>
+					<td>주연(목소리)</td>
+					<td>6,540,060,500</td>
+					<td>941,615</td>
+					<td>6,552,685,700</td>
+					<td>943,806</td>
+				</tr>
+			
+				<tr>
+					<td>프로즌 그라운드</td>
+					<td>Frozen Ground </td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>스릴러,범죄</td>
+					<td>주연-잭 할콥역</td>
+					<td>104,668,500</td>
+					<td>13,979</td>
+					<td>104,668,500</td>
+					<td>13,979</td>
+				</tr>
+			
+				<tr>
+					<td>스톨른</td>
+					<td>Stolen</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연-윌 몽고메리역</td>
+					<td>17,036,000</td>
+					<td>5,161</td>
+					<td>17,036,000</td>
+					<td>5,161</td>
+				</tr>
+			
+				<tr>
+					<td>고스트 라이더 : 복수의 화신</td>
+					<td>Ghost Rider: Spirit Of Vengeance</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션,판타지,스릴러</td>
+					<td>주연-자니 블레이즈/고스트 라이더역</td>
+					<td>902,982,500</td>
+					<td>117,263</td>
+					<td>902,998,500</td>
+					<td>117,265</td>
+				</tr>
+			
+				<tr>
+					<td>트레스패스</td>
+					<td>Trespass</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>스릴러,드라마,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>저스티스</td>
+					<td>Seeking Justice</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>액션,드라마,스릴러</td>
+					<td>주연</td>
+					<td>329,594,500</td>
+					<td>44,546</td>
+					<td>329,594,500</td>
+					<td>44,546</td>
+				</tr>
+			
+				<tr>
+					<td>드라이브 앵그리 3D</td>
+					<td>Drive Angry 3D</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연-밀턴 역</td>
+					<td>252,405,500</td>
+					<td>30,221</td>
+					<td>252,405,500</td>
+					<td>30,221</td>
+				</tr>
+			
+				<tr>
+					<td>시즌 오브 더 위치: 마녀 호송단</td>
+					<td>Season Of The Witch</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>어드벤처,드라마,판타지</td>
+					<td>주연-베이맨역</td>
+					<td>3,277,434,500</td>
+					<td>435,201</td>
+					<td>3,277,434,500</td>
+					<td>435,201</td>
+				</tr>
+			
+				<tr>
+					<td>마법사의 제자</td>
+					<td>The Sorcerer&#039;S Apprentice</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>드라마,액션,판타지,어드벤처</td>
+					<td>주연</td>
+					<td>4,132,049,517</td>
+					<td>582,698</td>
+					<td>4,057,522,000</td>
+					<td>570,775</td>
+				</tr>
+			
+				<tr>
+					<td>킥 애스: 영웅의 탄생</td>
+					<td>Kick-Ass</td>
+					<td>2010</td>
+					<td>영국,미국</td>
+					<td>액션,어드벤처,코미디</td>
+					<td>주연-데이먼/빅 대디역</td>
+					<td>1,167,536,970</td>
+					<td>153,849</td>
+					<td>1,148,869,500</td>
+					<td>151,159</td>
+				</tr>
+			
+				<tr>
+					<td>악질경찰</td>
+					<td>Bad Lieutenant : Port of Call New Orleans</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>스릴러,액션,범죄</td>
+					<td>주연-테렌스 맥도나 역</td>
+					<td>14,364,500</td>
+					<td>1,977</td>
+					<td>14,364,500</td>
+					<td>1,977</td>
+				</tr>
+			
+				<tr>
+					<td>아스트로 보이-아톰의 귀환</td>
+					<td>Astro Boy</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>애니메이션,액션,SF</td>
+					<td>주연(목소리)</td>
+					<td>2,640,270,821</td>
+					<td>401,477</td>
+					<td>2,598,817,500</td>
+					<td>395,087</td>
+				</tr>
+			
+				<tr>
+					<td>노잉</td>
+					<td>Knowing</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>SF,액션,미스터리,드라마</td>
+					<td>주연-존 코스틀러 역</td>
+					<td>6,984,051,785</td>
+					<td>1,063,955</td>
+					<td>6,873,827,000</td>
+					<td>1,047,062</td>
+				</tr>
+			
+				<tr>
+					<td>G-포스: 기니피그 특공대</td>
+					<td>G-Force</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>가족,어드벤처,액션</td>
+					<td>주연-스펙클리스 목소리역(목소리)</td>
+					<td>412,084,900</td>
+					<td>40,161</td>
+					<td>405,615,000</td>
+					<td>39,522</td>
+				</tr>
+			
+				<tr>
+					<td>방콕 데인저러스</td>
+					<td>Bangkok Dangerous</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>액션,범죄,스릴러</td>
+					<td>주연-조역</td>
+					<td>1,298,743,667</td>
+					<td>197,747</td>
+					<td>1,301,097,000</td>
+					<td>198,159</td>
+				</tr>
+			
+				<tr>
+					<td>내셔널 트레져:비밀의 책</td>
+					<td>National Treasure: The Book Of Secrets</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>액션,어드벤처</td>
+					<td>주연</td>
+					<td></td>
+					<td>1,756,319</td>
+					<td>11,356,730,500</td>
+					<td>1,745,669</td>
+				</tr>
+			
+				<tr>
+					<td>넥스트</td>
+					<td>Next</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>SF,스릴러,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>486,274</td>
+					<td>3,097,841,500</td>
+					<td>468,148</td>
+				</tr>
+			
+				<tr>
+					<td>고스트 라이더</td>
+					<td>Ghost Rider</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>액션,스릴러,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>376,333</td>
+					<td>2,302,946,500</td>
+					<td>355,223</td>
+				</tr>
+			
+				<tr>
+					<td>월드 트레이드 센터</td>
+					<td>World Trade Center</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-존 맥클로린역</td>
+					<td>0</td>
+					<td>369,000</td>
+					<td>1,806,296,500</td>
+					<td>302,030</td>
+				</tr>
+			
+				<tr>
+					<td>앤트 불리</td>
+					<td>Ant Bully</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>애니메이션,코미디</td>
+					<td>주연-개미 조크역</td>
+					<td>0</td>
+					<td>287,984</td>
+					<td>1,450,969,500</td>
+					<td>230,712</td>
+				</tr>
+			
+				<tr>
+					<td>위커맨</td>
+					<td>The Wicker Man</td>
+					<td>2006</td>
+					<td>미국,독일,캐나다</td>
+					<td>공포(호러),미스터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>로드 오브 워</td>
+					<td>Lord Of War</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>액션,드라마,범죄,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>150,070</td>
+					<td>647,809,000</td>
+					<td>103,445</td>
+				</tr>
+			
+				<tr>
+					<td>웨더 맨</td>
+					<td>The Weather Man</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>내셔널 트레져</td>
+					<td>National Treasure</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,384,507</td>
+					<td>7,513,779,500</td>
+					<td>1,170,726</td>
+				</tr>
+			
+				<tr>
+					<td>매치스틱 맨</td>
+					<td>Matchstick Men</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>코미디,드라마,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>58,300</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>어댑테이션</td>
+					<td>Adaptation</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>53,418</td>
+					<td>1,062,000</td>
+					<td>140</td>
+				</tr>
+			
+				<tr>
+					<td>윈드 토커</td>
+					<td>Windtalkers</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>전쟁</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>77,100</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>소니</td>
+					<td>Sonny</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>범죄,드라마</td>
+					<td>감독</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>코렐리의 만돌린</td>
+					<td>Captain Corelli&#039;s Mandolin</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>드라마,전쟁</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>25,523</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>크리스마스 캐롤</td>
+					<td>Christmas Carol</td>
+					<td>2001</td>
+					<td>영국,독일</td>
+					<td>애니메이션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>0</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>패밀리맨</td>
+					<td>The Family Man</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>가족,드라마,코미디,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>200,004</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>식스티 세컨즈</td>
+					<td>Gone In Sixty Seconds</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>액션,스릴러,범죄</td>
+					<td>주연-멤피스 레인스역</td>
+					<td>0</td>
+					<td>439,847</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>비상근무</td>
+					<td>Bringing Out The Dead</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>스릴러,드라마</td>
+					<td>주연-프랭크 피어스역</td>
+					<td>0</td>
+					<td>44,570</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>8미리</td>
+					<td>8MM</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>스릴러,드라마,미스터리</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>129,475</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스네이크 아이즈</td>
+					<td>Snake Eyes</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>미스터리,스릴러,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>205,438</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>시티 오브 엔젤</td>
+					<td>City Of Angels</td>
+					<td>1998</td>
+					<td>미국,독일</td>
+					<td>드라마,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>395,806</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>페이스오프</td>
+					<td>Face Off</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>액션,드라마,스릴러,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>716,107</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>콘에어 </td>
+					<td>Con Air</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>979,100</td>
+					<td>314,000</td>
+					<td>112</td>
+				</tr>
+			
+				<tr>
+					<td>더 록 </td>
+					<td>The Rock</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>906,676</td>
+					<td>163,000</td>
+					<td>53</td>
+				</tr>
+			
+				<tr>
+					<td>라스베가스를 떠나며 </td>
+					<td>Leaving Las Vegas</td>
+					<td>1995</td>
+					<td>미국,영국,프랑스</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연-벤 샌더슨 역</td>
+					<td>0</td>
+					<td>214,157</td>
+					<td>455,000</td>
+					<td>93</td>
+				</tr>
+			
+				<tr>
+					<td>이중노출 </td>
+					<td>Kiss Of Death</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>25,011</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>당신에게 일어날 수 있는 일</td>
+					<td>IT COULD HAPPEN TO YOU</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>4,722</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>독 안에 들어간 쥐 </td>
+					<td>Trapped In Paradise</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>3,040</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>흑백소동 </td>
+					<td>Amos &amp; Andrew</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>드라마,범죄,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,542</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>배반의 도시 </td>
+					<td>Red Rock West</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>스릴러,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>823</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>단판승부 </td>
+					<td>Deadfull</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>441</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>퍼스트 레이디 특수경호대 </td>
+					<td>Guarding Tess</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>11,286</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>허니문 인 베가스</td>
+					<td>Honeymoon In Vegas</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>12,651</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>애욕의 쟌다리</td>
+					<td>Zandalee</td>
+					<td>1991</td>
+					<td>미국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>25,165</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>광란의 사랑</td>
+					<td>Wild At Heart</td>
+					<td>1990</td>
+					<td>미국</td>
+					<td>드라마,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td>27,870</td>
+					<td>3,681,000</td>
+					<td>571</td>
+				</tr>
+			
+				<tr>
+					<td>아팟치</td>
+					<td>Fire Birds</td>
+					<td>1990</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>105,986</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>버디</td>
+					<td>Birdy</td>
+					<td>1984</td>
+					<td>미국</td>
+					<td>드라마,전쟁</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

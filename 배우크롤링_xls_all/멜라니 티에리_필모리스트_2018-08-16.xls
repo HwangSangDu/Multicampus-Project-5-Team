@@ -1,0 +1,112 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '멜라니 티에리'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>맨 오브 마스크</td>
+					<td>See You Up There</td>
+					<td>2017</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>62,437,100</td>
+					<td>7,891</td>
+					<td>62,437,100</td>
+					<td>7,891</td>
+				</tr>
+			
+				<tr>
+					<td>어 퍼펙트 데이</td>
+					<td>A Perfect Day</td>
+					<td>2016</td>
+					<td>스페인</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>73,150,400</td>
+					<td>10,488</td>
+					<td>73,150,400</td>
+					<td>10,488</td>
+				</tr>
+			
+				<tr>
+					<td>아름다운 유혹</td>
+					<td>An eye for beauty</td>
+					<td>2014</td>
+					<td>캐나다</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연-스테파니역</td>
+					<td>1,372,500</td>
+					<td>218</td>
+					<td>1,372,500</td>
+					<td>218</td>
+				</tr>
+			
+				<tr>
+					<td>바빌론 A.D.</td>
+					<td>Babylon A.D.</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>SF,스릴러,액션</td>
+					<td>주연</td>
+					<td>1,483,575,500</td>
+					<td>227,354</td>
+					<td>1,496,477,500</td>
+					<td>229,622</td>
+				</tr>
+			
+				<tr>
+					<td>캐논 인버스</td>
+					<td>Canon inverso</td>
+					<td>2000</td>
+					<td>이탈리아</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>8,642</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

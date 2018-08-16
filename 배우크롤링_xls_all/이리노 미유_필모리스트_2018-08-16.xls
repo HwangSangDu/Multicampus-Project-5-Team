@@ -1,0 +1,138 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '이리노 미유'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>이별의 아침에 약속의 꽃을 장식하자</td>
+					<td>Maquia: When the Promised Flower Blooms</td>
+					<td>2018</td>
+					<td>일본</td>
+					<td>애니메이션,판타지,드라마</td>
+					<td>주연(목소리)</td>
+					<td></td>
+					<td></td>
+					<td>319,403,500</td>
+					<td>37,461</td>
+				</tr>
+			
+				<tr>
+					<td>목소리의 형태</td>
+					<td>A SILENT VOICE: the Movie</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>애니메이션,멜로/로맨스</td>
+					<td>주연(목소리)</td>
+					<td>2,170,292,214</td>
+					<td>275,983</td>
+					<td>2,172,051,714</td>
+					<td>276,264</td>
+				</tr>
+			
+				<tr>
+					<td>하이큐!! 끝과 시작</td>
+					<td>HAIKYU!!The movie-The End and the Beginning</td>
+					<td>2015</td>
+					<td>일본</td>
+					<td>애니메이션</td>
+					<td>주연</td>
+					<td>544,846,000</td>
+					<td>75,704</td>
+					<td>727,479,000</td>
+					<td>99,803</td>
+				</tr>
+			
+				<tr>
+					<td>그날 본 꽃의 이름을 우리는 아직 모른다</td>
+					<td>Anohana: The Flower We Saw That Day </td>
+					<td>2013</td>
+					<td>일본</td>
+					<td>애니메이션,드라마,판타지,멜로/로맨스</td>
+					<td>주연</td>
+					<td>281,962,500</td>
+					<td>39,349</td>
+					<td>284,530,500</td>
+					<td>39,667</td>
+				</tr>
+			
+				<tr>
+					<td>언어의 정원</td>
+					<td>The Garden of Words</td>
+					<td>2013</td>
+					<td>일본</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td>384,597,200</td>
+					<td>51,337</td>
+					<td>470,847,423</td>
+					<td>69,739</td>
+				</tr>
+			
+				<tr>
+					<td>아이언맨: 라이즈 오브 테크노보어</td>
+					<td>Iron Man: Rise of Technovore</td>
+					<td>2013</td>
+					<td>일본</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>센과 치히로의 행방불명</td>
+					<td>The Spiriting Away Of Sen And Chihiro</td>
+					<td>2002</td>
+					<td>일본</td>
+					<td>애니메이션,어드벤처,가족,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>937,459</td>
+					<td>1,257,408,529</td>
+					<td>159,755</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

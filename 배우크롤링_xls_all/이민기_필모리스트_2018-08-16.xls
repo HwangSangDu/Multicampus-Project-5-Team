@@ -1,0 +1,203 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '이민기'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>조선명탐정: 흡혈괴마의 비밀</td>
+					<td>Detective K: Secret of the Living Dead</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>사극,어드벤처,코미디</td>
+					<td>단역</td>
+					<td>19,823,058,764</td>
+					<td>2,444,180</td>
+					<td>19,822,774,764</td>
+					<td>2,444,132</td>
+				</tr>
+			
+				<tr>
+					<td>내 심장을 쏴라</td>
+					<td>Shoot Me in the Heart</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>2,856,859,132</td>
+					<td>387,409</td>
+					<td>2,856,859,132</td>
+					<td>387,409</td>
+				</tr>
+			
+				<tr>
+					<td>황제를 위하여</td>
+					<td>For the Emperor</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>액션,범죄</td>
+					<td>주연</td>
+					<td>4,753,511,771</td>
+					<td>592,367</td>
+					<td>4,754,501,771</td>
+					<td>592,435</td>
+				</tr>
+			
+				<tr>
+					<td>몬스터</td>
+					<td>Monster</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>4,138,057,515</td>
+					<td>526,547</td>
+					<td>4,138,207,515</td>
+					<td>526,557</td>
+				</tr>
+			
+				<tr>
+					<td>연애의 온도</td>
+					<td>Very Ordinary Couple</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>13,798,864,446</td>
+					<td>1,865,195</td>
+					<td>13,800,120,446</td>
+					<td>1,865,354</td>
+				</tr>
+			
+				<tr>
+					<td>오싹한 연애</td>
+					<td>Spellbound</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>공포(호러),멜로/로맨스,코미디</td>
+					<td>주연-마조구역</td>
+					<td>22,010,977,000</td>
+					<td>3,009,356</td>
+					<td>22,011,287,000</td>
+					<td>3,009,406</td>
+				</tr>
+			
+				<tr>
+					<td>퀵</td>
+					<td>Quick</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>코미디,액션</td>
+					<td>주연-기수역</td>
+					<td>22,960,890,000</td>
+					<td>3,125,069</td>
+					<td>22,960,890,000</td>
+					<td>3,125,069</td>
+				</tr>
+			
+				<tr>
+					<td>10억</td>
+					<td>A Million</td>
+					<td>2009</td>
+					<td>한국,호주</td>
+					<td>스릴러,어드벤처</td>
+					<td>주연-박철희 역</td>
+					<td>3,142,668,973</td>
+					<td>438,833</td>
+					<td>3,107,403,000</td>
+					<td>433,866</td>
+				</tr>
+			
+				<tr>
+					<td>해운대</td>
+					<td>Haeundae</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>액션,드라마,어드벤처</td>
+					<td>조연</td>
+					<td>81,934,638,201</td>
+					<td>11,453,338</td>
+					<td>81,025,841,000</td>
+					<td>11,324,561</td>
+				</tr>
+			
+				<tr>
+					<td>오이시맨</td>
+					<td>Oishii Man</td>
+					<td>2008</td>
+					<td>한국,일본</td>
+					<td>드라마</td>
+					<td>주연-현석역</td>
+					<td>57,946,352</td>
+					<td>8,569</td>
+					<td>58,068,000</td>
+					<td>8,611</td>
+				</tr>
+			
+				<tr>
+					<td>로맨틱 아일랜드</td>
+					<td>Romantic Island</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>1,002,069,212</td>
+					<td>150,401</td>
+					<td>1,006,594,000</td>
+					<td>151,105</td>
+				</tr>
+			
+				<tr>
+					<td>바람피기 좋은 날</td>
+					<td>A Day For An Affair</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스,코미디</td>
+					<td>주연-대학생 - 누나들의 로망 역역</td>
+					<td>0</td>
+					<td>1,847,875</td>
+					<td>10,738,218,900</td>
+					<td>1,708,979</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

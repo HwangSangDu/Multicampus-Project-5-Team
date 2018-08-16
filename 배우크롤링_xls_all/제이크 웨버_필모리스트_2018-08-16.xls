@@ -1,0 +1,99 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '제이크 웨버'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>인생면허시험</td>
+					<td>Learning to Drive</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>19,244,500</td>
+					<td>2,325</td>
+					<td>19,244,500</td>
+					<td>2,325</td>
+				</tr>
+			
+				<tr>
+					<td>소녀괴담 : 17살 여고생의 악몽</td>
+					<td>The Haunting of Molly Hartley</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td>20,000</td>
+					<td>4</td>
+					<td>20,000</td>
+					<td>4</td>
+				</tr>
+			
+				<tr>
+					<td>새벽의 저주</td>
+					<td>Dawn Of The Dead</td>
+					<td>2004</td>
+					<td>미국,캐나다,일본,프랑스</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연-마이클역</td>
+					<td>0</td>
+					<td>300,000</td>
+					<td>694,533,500</td>
+					<td>106,515</td>
+				</tr>
+			
+				<tr>
+					<td>웬디고</td>
+					<td>Wendigo</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>드라마,공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

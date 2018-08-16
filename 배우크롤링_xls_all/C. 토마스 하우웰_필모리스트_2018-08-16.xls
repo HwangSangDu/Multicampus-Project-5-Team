@@ -1,0 +1,307 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 'C. 토마스 하우웰'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>스파이더 대침공</td>
+					<td>Camel Spiders</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>SF,공포(호러)</td>
+					<td>주연</td>
+					<td>40,000</td>
+					<td>10</td>
+					<td>40,000</td>
+					<td>10</td>
+				</tr>
+			
+				<tr>
+					<td>테러 익스페리먼트</td>
+					<td>The Terror Experiment</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>잃어버린 세계를 찾아 2015</td>
+					<td>The Land That Time Forgot</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>어드벤처,판타지</td>
+					<td>감독,주연</td>
+					<td>4,000</td>
+					<td>1</td>
+					<td>4,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>시크릿 레이크</td>
+					<td>Secret at Arrow Lake</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-윌리암 다니엘 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>지구가 멈추는 날 2012</td>
+					<td>The Day The Earth Stopped</td>
+					<td>2009</td>
+					<td>호주</td>
+					<td>SF,액션</td>
+					<td>감독,주연-조쉬 마이런 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>퓨얼</td>
+					<td>Fuel</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-셰인 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>다빈치 트레져</td>
+					<td>The Da Vinci Treasure</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>어드벤처</td>
+					<td>주연</td>
+					<td>5,000</td>
+					<td>1</td>
+					<td>5,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>힛쳐 2</td>
+					<td>The Hitcher II : I&#039;ve Been Waiting</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>에너미 액션</td>
+					<td>Enemy Action</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>히트맨 런</td>
+					<td>Hitman&#039;s Run</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>셰퍼드</td>
+					<td>Shepherd</td>
+					<td>1998</td>
+					<td>캐나다</td>
+					<td>액션,SF</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>페이탈 어페어</td>
+					<td>Fatal Affair </td>
+					<td>1998</td>
+					<td>캐나다</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>빅 폴</td>
+					<td>The Big Fall</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>액션,어드벤처</td>
+					<td>감독,주연</td>
+					<td>0</td>
+					<td>653</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아워 글래스 </td>
+					<td>Hour Glass</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>액션,드라마</td>
+					<td>감독,주연</td>
+					<td>0</td>
+					<td>334</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>토마스 하우웰의 미친 개들</td>
+					<td>Mad Dogs And Englishmen</td>
+					<td>1995</td>
+					<td>영국</td>
+					<td>스릴러,드라마,미스터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>페이 백</td>
+					<td>Pay Back</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>610</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>갈색 유혹</td>
+					<td>Treacherous</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>미드나잇 히쳐 </td>
+					<td>Midnight Hitcher</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>공포(호러),드라마,스릴러,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,397</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>힛쳐</td>
+					<td>The Hitcher</td>
+					<td>1986</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아웃사이더</td>
+					<td>The Outsiders</td>
+					<td>1984</td>
+					<td>미국</td>
+					<td>액션,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>59,873</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

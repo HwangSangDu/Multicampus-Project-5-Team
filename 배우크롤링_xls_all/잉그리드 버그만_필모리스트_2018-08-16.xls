@@ -1,0 +1,372 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '잉그리드 버그만'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>그녀, 잉그리드 버그만</td>
+					<td>Ingrid Bergman: In Her Own Words</td>
+					<td>2015</td>
+					<td>스웨덴</td>
+					<td>다큐멘터리</td>
+					<td>주연</td>
+					<td>14,068,900</td>
+					<td>2,124</td>
+					<td>14,600,900</td>
+					<td>2,207</td>
+				</tr>
+			
+				<tr>
+					<td>가을 소나타</td>
+					<td>Autumn Sonata</td>
+					<td>1978</td>
+					<td>스웨덴</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>12,617,000</td>
+					<td>1,589</td>
+					<td>20,160,700</td>
+					<td>3,144</td>
+				</tr>
+			
+				<tr>
+					<td>노란 롤스로이스</td>
+					<td>The Yellow Rolls-Royce</td>
+					<td>1964</td>
+					<td>영국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연-제르다 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>이수</td>
+					<td>Goodbye Again</td>
+					<td>1961</td>
+					<td>프랑스,미국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연-폴라역</td>
+					<td></td>
+					<td></td>
+					<td>9,162,000</td>
+					<td>4,297</td>
+				</tr>
+			
+				<tr>
+					<td>무분별</td>
+					<td>Indiscreet</td>
+					<td>1958</td>
+					<td>영국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>495,000</td>
+					<td>165</td>
+				</tr>
+			
+				<tr>
+					<td>여섯번째의 행복</td>
+					<td>The Inn Of The Sixth Happiness</td>
+					<td>1958</td>
+					<td>미국</td>
+					<td>드라마,전쟁</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>3,284,000</td>
+					<td>1,642</td>
+				</tr>
+			
+				<tr>
+					<td>아나스타샤</td>
+					<td>Anastasia</td>
+					<td>1956</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>3,486,000</td>
+					<td>1,605</td>
+				</tr>
+			
+				<tr>
+					<td>엘레나와 남자들</td>
+					<td>Paris Does Strange Things</td>
+					<td>1956</td>
+					<td>이탈리아,프랑스</td>
+					<td>코미디,드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>2,492,000</td>
+					<td>633</td>
+				</tr>
+			
+				<tr>
+					<td>불안</td>
+					<td>Fear</td>
+					<td>1954</td>
+					<td>서독,이탈리아</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>이탈리아 여행</td>
+					<td>Journey to Italy</td>
+					<td>1953</td>
+					<td>이탈리아,프랑스</td>
+					<td>드라마</td>
+					<td>주연-캐서린 조이스 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>잉그리드 버그만의 유로파</td>
+					<td>The Greatest Love</td>
+					<td>1951</td>
+					<td>이탈리아</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>170,000</td>
+					<td>34</td>
+				</tr>
+			
+				<tr>
+					<td>염소자리</td>
+					<td>Under Capricorn</td>
+					<td>1949</td>
+					<td>영국</td>
+					<td>드라마,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>쟌 다크</td>
+					<td>Joan of Arc</td>
+					<td>1948</td>
+					<td>미국</td>
+					<td>드라마,사극</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>72,120</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>개선문</td>
+					<td>Erich Maria Remarque&#039;s Arch Of Triumph</td>
+					<td>1948</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>4,895,000</td>
+					<td>2,570</td>
+				</tr>
+			
+				<tr>
+					<td>잔다르크</td>
+					<td>Joan Of Arc</td>
+					<td>1948</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>8,600,000</td>
+					<td>4,290</td>
+				</tr>
+			
+				<tr>
+					<td>오명</td>
+					<td>Notorious</td>
+					<td>1946</td>
+					<td>미국</td>
+					<td>멜로/로맨스,스릴러</td>
+					<td>주연-알리시아 휴버먼역</td>
+					<td></td>
+					<td></td>
+					<td>8,077,000</td>
+					<td>3,725</td>
+				</tr>
+			
+				<tr>
+					<td>사라토가</td>
+					<td>Saratoga Trunk </td>
+					<td>1945</td>
+					<td>미국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>세인트 메리의 종</td>
+					<td>The Bells Of St. Mary&#039;S</td>
+					<td>1945</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>4,110,000</td>
+					<td>1,638</td>
+				</tr>
+			
+				<tr>
+					<td>스펠바운드</td>
+					<td>Spellbound</td>
+					<td>1945</td>
+					<td>미국</td>
+					<td>미스터리,드라마,멜로/로맨스,스릴러,기타</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,600,000</td>
+					<td>703</td>
+				</tr>
+			
+				<tr>
+					<td>가스등</td>
+					<td>Gaslight</td>
+					<td>1944</td>
+					<td>미국</td>
+					<td>스릴러,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>8,464,000</td>
+					<td>3,938</td>
+				</tr>
+			
+				<tr>
+					<td>누구를 위하여 종은 울리나</td>
+					<td>For Whom The Bell Tolls</td>
+					<td>1943</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스,전쟁</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>125,009</td>
+					<td>30,589,586</td>
+					<td>17,064</td>
+				</tr>
+			
+				<tr>
+					<td>카사블랑카</td>
+					<td>Casablanca</td>
+					<td>1942</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스,전쟁</td>
+					<td>주연-일사 런드 역</td>
+					<td>0</td>
+					<td>2,864</td>
+					<td>35,733,500</td>
+					<td>14,946</td>
+				</tr>
+			
+				<tr>
+					<td>지킬 박사와 하이드</td>
+					<td>Dr. Jekyll And Mr. Hyde</td>
+					<td>1941</td>
+					<td>미국</td>
+					<td>드라마,공포(호러),SF</td>
+					<td>주연-아이비 피터슨 역</td>
+					<td></td>
+					<td></td>
+					<td>844,000</td>
+					<td>422</td>
+				</tr>
+			
+				<tr>
+					<td>천국으로 가는 장의사</td>
+					<td>Rage In Heaven</td>
+					<td>1941</td>
+					<td>미국</td>
+					<td>스릴러,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>인터멧조</td>
+					<td>Intermezzo: A Love Story</td>
+					<td>1939</td>
+					<td>미국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>5,581,000</td>
+					<td>2,778</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

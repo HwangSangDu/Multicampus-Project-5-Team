@@ -1,0 +1,216 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '클로에 세비니'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>린 온 피트</td>
+					<td>Lean on Pete</td>
+					<td>2017</td>
+					<td>영국</td>
+					<td>어드벤처,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>레이디 수잔</td>
+					<td>Love &amp; Friendship</td>
+					<td>2016</td>
+					<td>영국,아일랜드</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>51,727,800</td>
+					<td>7,071</td>
+					<td>51,727,800</td>
+					<td>7,071</td>
+				</tr>
+			
+				<tr>
+					<td>리틀 액시던트</td>
+					<td>Little Accidents</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-켄드라 역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>미스터 나이스</td>
+					<td>Mr. Nice</td>
+					<td>2010</td>
+					<td>영국</td>
+					<td>코미디,드라마</td>
+					<td>주연-주디 막스 역</td>
+					<td>2,862,000</td>
+					<td>434</td>
+					<td>2,862,000</td>
+					<td>434</td>
+				</tr>
+			
+				<tr>
+					<td>라잉</td>
+					<td>Lying</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>시스터스</td>
+					<td>Sisters</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>공포(호러),미스터리,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>3개의 주사기</td>
+					<td>3 Needles</td>
+					<td>2005</td>
+					<td>캐나다</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>브라운 버니</td>
+					<td>The Brown Bunny</td>
+					<td>2003</td>
+					<td>미국,일본,프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>428,000</td>
+					<td>88</td>
+				</tr>
+			
+				<tr>
+					<td>셰터드 글래스</td>
+					<td>Shattered Glass</td>
+					<td>2003</td>
+					<td>미국,캐나다</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>데몬러버</td>
+					<td>Demonlover</td>
+					<td>2002</td>
+					<td>프랑스</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>더 월 2</td>
+					<td>If These Walls Could Talk 2</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>소년은 울지 않는다</td>
+					<td>Boys Don`T Cry</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-라나 티스델역</td>
+					<td>0</td>
+					<td>10,186</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>줄리언 돈키보이</td>
+					<td>Julien Donkey-Boy</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

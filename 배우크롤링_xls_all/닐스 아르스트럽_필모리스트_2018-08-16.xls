@@ -1,0 +1,112 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '닐스 아르스트럽'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>빅 픽처</td>
+					<td>The Big Picture</td>
+					<td>2010</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연-바르솔로므역</td>
+					<td>182,722,800</td>
+					<td>25,015</td>
+					<td>183,556,800</td>
+					<td>25,120</td>
+				</tr>
+			
+				<tr>
+					<td>예언자</td>
+					<td>A Prophet</td>
+					<td>2009</td>
+					<td>프랑스</td>
+					<td>드라마,범죄</td>
+					<td>주연</td>
+					<td>196,085,624</td>
+					<td>25,309</td>
+					<td>194,437,800</td>
+					<td>25,097</td>
+				</tr>
+			
+				<tr>
+					<td>내 심장이 건너 뛴 박동</td>
+					<td>The Beat That My Heart Skipped</td>
+					<td>2005</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>32,805,600</td>
+					<td>4,273</td>
+					<td>34,933,600</td>
+					<td>4,596</td>
+				</tr>
+			
+				<tr>
+					<td>사랑한다고 말해줘</td>
+					<td>Speak To Me Of Love</td>
+					<td>2002</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>나, 너, 그, 그녀 </td>
+					<td>I, You, She, He </td>
+					<td>1974</td>
+					<td>벨기에,프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,367,000</td>
+					<td>196</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,385 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '스티브 부세미'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>몬스터 호텔 3</td>
+					<td>Hotel Transylvania 3: A Monster Vacation</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>애니메이션,코미디,가족,판타지</td>
+					<td>주연(목소리)</td>
+					<td></td>
+					<td></td>
+					<td>5,373,547,100</td>
+					<td>730,866</td>
+				</tr>
+			
+				<tr>
+					<td>보스 베이비</td>
+					<td>The Boss Baby</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>애니메이션,코미디,가족</td>
+					<td>주연(목소리)</td>
+					<td>18,934,037,704</td>
+					<td>2,451,919</td>
+					<td>18,936,306,704</td>
+					<td>2,452,245</td>
+				</tr>
+			
+				<tr>
+					<td>린 온 피트</td>
+					<td>Lean on Pete</td>
+					<td>2017</td>
+					<td>영국</td>
+					<td>어드벤처,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스탈린의 죽음</td>
+					<td>The Death of Stalin</td>
+					<td>2017</td>
+					<td>영국,프랑스</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>몬스터 호텔 2</td>
+					<td>Hotel Transylvania 2</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>애니메이션</td>
+					<td>주연-웨인 목소리역(목소리)</td>
+					<td>11,088,271,276</td>
+					<td>1,515,104</td>
+					<td>11,088,271,276</td>
+					<td>1,515,104</td>
+				</tr>
+			
+				<tr>
+					<td>코블러</td>
+					<td>The Cobbler</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>판타지,코미디</td>
+					<td>주연</td>
+					<td>318,637,732</td>
+					<td>41,444</td>
+					<td>318,637,732</td>
+					<td>41,444</td>
+				</tr>
+			
+				<tr>
+					<td>몬스터 대학교</td>
+					<td>Monsters University</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td>5,879,223,500</td>
+					<td>870,605</td>
+					<td>5,880,297,500</td>
+					<td>870,759</td>
+				</tr>
+			
+				<tr>
+					<td>몬스터 호텔</td>
+					<td>HOTEL TRANSYLVANIA</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>애니메이션,가족</td>
+					<td>주연(목소리)</td>
+					<td>6,080,221,500</td>
+					<td>884,885</td>
+					<td>6,080,784,500</td>
+					<td>884,988</td>
+				</tr>
+			
+				<tr>
+					<td>램파트</td>
+					<td>RAMPART</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>범죄,드라마</td>
+					<td>주연-빌 블라고역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>존 라베 : 난징 대학살</td>
+					<td>John Rabe</td>
+					<td>2009</td>
+					<td>독일</td>
+					<td>전쟁,드라마</td>
+					<td>주연</td>
+					<td>7,203,500</td>
+					<td>1,184</td>
+					<td>7,203,500</td>
+					<td>1,184</td>
+				</tr>
+			
+				<tr>
+					<td>이고르와 귀여운 몬스터 이바</td>
+					<td>Igor</td>
+					<td>2008</td>
+					<td>미국,프랑스</td>
+					<td>애니메이션,코미디,가족,판타지</td>
+					<td>주연</td>
+					<td>2,490,500</td>
+					<td>383</td>
+					<td>2,490,500</td>
+					<td>383</td>
+				</tr>
+			
+				<tr>
+					<td>G-포스: 기니피그 특공대</td>
+					<td>G-Force</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>가족,어드벤처,액션</td>
+					<td>주연-벅키 목소리역(목소리)</td>
+					<td>412,084,900</td>
+					<td>40,161</td>
+					<td>405,615,000</td>
+					<td>39,522</td>
+				</tr>
+			
+				<tr>
+					<td>인터뷰</td>
+					<td>Interview</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>감독,주연-피에르 피터스 역</td>
+					<td>15,890,000</td>
+					<td>2,289</td>
+					<td>15,890,000</td>
+					<td>2,289</td>
+				</tr>
+			
+				<tr>
+					<td>클래쉬의 전설: 조 스트러머</td>
+					<td>Joe Strummer: The Future Is Unwritten</td>
+					<td>2007</td>
+					<td>아일랜드,영국</td>
+					<td>다큐멘터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>내가 찍은 그녀는 최고의 슈퍼스타</td>
+					<td>Delirious</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>16,246,500</td>
+					<td>2,417</td>
+					<td>16,381,500</td>
+					<td>2,441</td>
+				</tr>
+			
+				<tr>
+					<td>론섬 짐</td>
+					<td>Lonesome Jim</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>감독</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>13 문스</td>
+					<td>13 Moons</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>9/11</td>
+					<td>9/11</td>
+					<td>2002</td>
+					<td>미국,프랑스</td>
+					<td>다큐멘터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>라라미 프로젝트</td>
+					<td>The Laramie Project</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>애니멀 팩토리</td>
+					<td>Animal Factory</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>감독</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>28일동안</td>
+					<td>28 Days</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>조연-코넬 쇼역</td>
+					<td>0</td>
+					<td>9,605</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>파고 </td>
+					<td>Fargo</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>범죄,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>96,236</td>
+					<td>0</td>
+					<td>0</td>
+				</tr>
+			
+				<tr>
+					<td>L.A 2013</td>
+					<td>Escape From L.A.</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>SF,액션,범죄,미스터리</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>42,377</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>망각의 삶 </td>
+					<td>Living In Obligation</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>6</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>굿바이 마마</td>
+					<td>Ed And His Dead Mother</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>콜미</td>
+					<td>Call Me</td>
+					<td>1988</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>45,264</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,151 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '자레드 레토'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>블레이드 러너 2049</td>
+					<td>Blade Runner 2049</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>SF,액션</td>
+					<td>주연-니안더 월레스역</td>
+					<td>2,764,093,365</td>
+					<td>321,424</td>
+					<td>2,774,970,765</td>
+					<td>322,664</td>
+				</tr>
+			
+				<tr>
+					<td>수어사이드 스쿼드</td>
+					<td>Suicide Squad</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>15,873,106,188</td>
+					<td>1,898,121</td>
+					<td>15,874,111,188</td>
+					<td>1,898,220</td>
+				</tr>
+			
+				<tr>
+					<td>달라스 바이어스 클럽</td>
+					<td>Dallas Buyers Club</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>531,581,543</td>
+					<td>70,529</td>
+					<td>533,709,462</td>
+					<td>70,801</td>
+				</tr>
+			
+				<tr>
+					<td>미스터 노바디</td>
+					<td>Mr. Nobody</td>
+					<td>2009</td>
+					<td>캐나다,벨기에,프랑스,독일</td>
+					<td>판타지,멜로/로맨스</td>
+					<td>주연</td>
+					<td>127,022,500</td>
+					<td>16,969</td>
+					<td>127,102,500</td>
+					<td>16,985</td>
+				</tr>
+			
+				<tr>
+					<td>챕터 27</td>
+					<td>Chapter 27</td>
+					<td>2007</td>
+					<td>미국,캐나다</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>론리 하트</td>
+					<td>Lonely Hearts</td>
+					<td>2006</td>
+					<td>독일,미국</td>
+					<td>범죄,드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>레퀴엠</td>
+					<td>Requiem For A Dream</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>10,451</td>
+					<td>2,285,500</td>
+					<td>293</td>
+				</tr>
+			
+				<tr>
+					<td>캠퍼스 레전드</td>
+					<td>Urban Legend</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>공포(호러),미스터리,스릴러</td>
+					<td>주연-폴 가드너 역</td>
+					<td>0</td>
+					<td>17,357</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

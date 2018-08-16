@@ -1,0 +1,372 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '프란시스 맥도먼드'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>개들의 섬</td>
+					<td>Isle of Dogs</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>코미디,애니메이션,다큐멘터리</td>
+					<td>주연(목소리)</td>
+					<td>204,327,000</td>
+					<td>23,709</td>
+					<td>288,331,100</td>
+					<td>33,192</td>
+				</tr>
+			
+				<tr>
+					<td>쓰리 빌보드</td>
+					<td>Three Billboards Outside Ebbing, Missouri</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>코미디,범죄,드라마</td>
+					<td>주연</td>
+					<td>800,125,700</td>
+					<td>97,480</td>
+					<td>800,125,700</td>
+					<td>97,480</td>
+				</tr>
+			
+				<tr>
+					<td>프라미스드 랜드 </td>
+					<td>Promised Land</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>179,339,162</td>
+					<td>24,052</td>
+					<td>179,445,162</td>
+					<td>24,069</td>
+				</tr>
+			
+				<tr>
+					<td>문라이즈 킹덤 </td>
+					<td>Moonrise Kingdom</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>코미디,어드벤처,멜로/로맨스</td>
+					<td>주연</td>
+					<td>275,919,300</td>
+					<td>35,328</td>
+					<td>285,769,700</td>
+					<td>36,674</td>
+				</tr>
+			
+				<tr>
+					<td>마다가스카3 : 이번엔 서커스다!</td>
+					<td>Madagascar3 : Europe’s Most Wanted</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>애니메이션,어드벤처,코미디</td>
+					<td>주연-캡틴 듀브아역</td>
+					<td>12,514,939,500</td>
+					<td>1,628,563</td>
+					<td>12,552,588,900</td>
+					<td>1,635,088</td>
+				</tr>
+			
+				<tr>
+					<td>아버지를 위한 노래</td>
+					<td>This Must Be the Place</td>
+					<td>2009</td>
+					<td>이탈리아,프랑스,아일랜드</td>
+					<td>범죄,드라마,스릴러</td>
+					<td>주연</td>
+					<td>31,970,000</td>
+					<td>4,005</td>
+					<td>32,608,000</td>
+					<td>4,104</td>
+				</tr>
+			
+				<tr>
+					<td>번 애프터 리딩</td>
+					<td>Burn After Reading</td>
+					<td>2008</td>
+					<td>미국,영국</td>
+					<td>코미디,범죄</td>
+					<td>주연-린다 리츠키역</td>
+					<td>282,855,905</td>
+					<td>40,604</td>
+					<td>277,999,500</td>
+					<td>39,955</td>
+				</tr>
+			
+				<tr>
+					<td>미스 페티그루의 어느 특별한 하루</td>
+					<td>Miss Pettigrew Lives For A Day</td>
+					<td>2008</td>
+					<td>영국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>357,938,000</td>
+					<td>57,271</td>
+					<td>417,348,000</td>
+					<td>71,559</td>
+				</tr>
+			
+				<tr>
+					<td>돈많은 친구들</td>
+					<td>Friends With Money</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연-제인 역</td>
+					<td>0</td>
+					<td>7,250</td>
+					<td>49,763,000</td>
+					<td>7,253</td>
+				</tr>
+			
+				<tr>
+					<td>노스 컨츄리</td>
+					<td>North Country</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-글로리역</td>
+					<td>0</td>
+					<td>14,300</td>
+					<td>79,418,600</td>
+					<td>12,213</td>
+				</tr>
+			
+				<tr>
+					<td>로렐 캐년</td>
+					<td>Laurel Canyon</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>드라마,뮤지컬</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>시티 바이 더 씨</td>
+					<td>City By The Sea</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>그남자는 거기 없었다</td>
+					<td>THE Man Who Wasn&#039;t There</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>스릴러,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>10,000</td>
+					<td>1,518,100</td>
+					<td>225</td>
+				</tr>
+			
+				<tr>
+					<td>올모스트 페이머스</td>
+					<td>Almost Famous</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-엘레인 밀러역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>원더 보이즈</td>
+					<td>Wonder Boys</td>
+					<td>2000</td>
+					<td>독일,일본,영국,미국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>메들라인</td>
+					<td>Madeline</td>
+					<td>1998</td>
+					<td>프랑스,미국</td>
+					<td>코미디,가족</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스키드마크</td>
+					<td>Johnny Skidmarks</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>범죄,드라마,미스터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>파라다이스로드</td>
+					<td>Paradise Road</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>드라마,전쟁</td>
+					<td>주연-Dr. 버스택역</td>
+					<td>0</td>
+					<td>3,306</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>파고 </td>
+					<td>Fargo</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>범죄,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>96,236</td>
+					<td>0</td>
+					<td>0</td>
+				</tr>
+			
+				<tr>
+					<td>비욘드 랭군 </td>
+					<td>Beyond Langoon</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>41,313</td>
+					<td>138,000</td>
+					<td>69</td>
+				</tr>
+			
+				<tr>
+					<td>다크맨</td>
+					<td>Darkman</td>
+					<td>1990</td>
+					<td>미국</td>
+					<td>SF,액션</td>
+					<td>주연-줄리 하스팅스역</td>
+					<td>0</td>
+					<td>18,963</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>숨겨진 계략</td>
+					<td>Hidden Agenda </td>
+					<td>1990</td>
+					<td>영국</td>
+					<td>드라마,스릴러</td>
+					<td>주연-인그리드 제스너 역역</td>
+					<td></td>
+					<td></td>
+					<td>324,000</td>
+					<td>62</td>
+				</tr>
+			
+				<tr>
+					<td>고독한 투쟁</td>
+					<td>Chattahoochee</td>
+					<td>1989</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-마이 폴리 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>미시시피 버닝</td>
+					<td>Mississippi Burning</td>
+					<td>1988</td>
+					<td>미국</td>
+					<td>미스터리,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>블러드 심플</td>
+					<td>Blood Simple</td>
+					<td>1984</td>
+					<td>미국</td>
+					<td>범죄,드라마,스릴러</td>
+					<td>주연-애비역</td>
+					<td></td>
+					<td></td>
+					<td>2,829,000</td>
+					<td>404</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

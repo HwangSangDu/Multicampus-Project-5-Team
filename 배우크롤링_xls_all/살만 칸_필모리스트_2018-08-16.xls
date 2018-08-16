@@ -1,0 +1,229 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '살만 칸'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>술탄</td>
+					<td>Sultan</td>
+					<td>2016</td>
+					<td>인도,헝가리</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td>300,000</td>
+					<td>44</td>
+					<td>314,000</td>
+					<td>46</td>
+				</tr>
+			
+				<tr>
+					<td>보디가드</td>
+					<td>Bodyguard</td>
+					<td>2011</td>
+					<td>인도</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>50,000</td>
+					<td>10</td>
+					<td>50,000</td>
+					<td>10</td>
+				</tr>
+			
+				<tr>
+					<td>디스 디스턴트</td>
+					<td>Yeh Dooriyan</td>
+					<td>2011</td>
+					<td>인도</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>레디</td>
+					<td>Ready</td>
+					<td>2011</td>
+					<td>인도</td>
+					<td>액션,코미디</td>
+					<td>주연-프렘 R. 카푸르 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>비르: 위대한 전사</td>
+					<td>VEER</td>
+					<td>2010</td>
+					<td>인도</td>
+					<td>전쟁,액션,멜로/로맨스</td>
+					<td>주연</td>
+					<td>672,000</td>
+					<td>247</td>
+					<td>672,000</td>
+					<td>247</td>
+				</tr>
+			
+				<tr>
+					<td>다방</td>
+					<td>Dabangg</td>
+					<td>2010</td>
+					<td>인도</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>런던 드림즈</td>
+					<td>london dreams</td>
+					<td>2009</td>
+					<td>인도,영국</td>
+					<td>뮤지컬</td>
+					<td>주연-마누 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>신은 위대하다</td>
+					<td>God Tussi Great Ho</td>
+					<td>2008</td>
+					<td>인도</td>
+					<td>코미디,드라마,멜로/로맨스</td>
+					<td>주연-아룬 &#039;AP&#039; 프라자파티 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>유브라즈</td>
+					<td>Yuvvraaj</td>
+					<td>2008</td>
+					<td>인도</td>
+					<td>드라마</td>
+					<td>주연-데븐 역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>노 엔트리</td>
+					<td>No Entry</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사랑때문에</td>
+					<td>Kyon Ki...</td>
+					<td>2005</td>
+					<td>인도</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>네이름으로</td>
+					<td>Tere Naam</td>
+					<td>2003</td>
+					<td>인도</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>카레가</td>
+					<td>Har Dil Jo Pyar Karega...</td>
+					<td>2000</td>
+					<td>인도</td>
+					<td>드라마,뮤지컬,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>연인</td>
+					<td>Saajan</td>
+					<td>1991</td>
+					<td>인도</td>
+					<td>드라마,멜로/로맨스,뮤지컬</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

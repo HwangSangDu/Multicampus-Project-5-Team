@@ -1,0 +1,242 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '팜케 얀센'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>원스 어폰 어 타임 인 베니스</td>
+					<td>Once Upon a Time in Venice</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>코미디,액션,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>150,000</td>
+					<td>30</td>
+				</tr>
+			
+				<tr>
+					<td>테이큰 3</td>
+					<td>Taken 3</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>액션,범죄,스릴러</td>
+					<td>주연</td>
+					<td>16,102,014,000</td>
+					<td>2,006,561</td>
+					<td>16,102,014,000</td>
+					<td>2,006,561</td>
+				</tr>
+			
+				<tr>
+					<td>헨젤과 그레텔: 마녀 사냥꾼 3D</td>
+					<td>Hansel and Gretel: Witch Hunters</td>
+					<td>2012</td>
+					<td>미국,영국</td>
+					<td>액션,코미디,판타지</td>
+					<td>주연</td>
+					<td>2,122,205,602</td>
+					<td>269,510</td>
+					<td>2,122,205,602</td>
+					<td>269,510</td>
+				</tr>
+			
+				<tr>
+					<td>테이큰 2</td>
+					<td>Taken 2</td>
+					<td>2012</td>
+					<td>프랑스</td>
+					<td>액션,범죄,드라마</td>
+					<td>주연</td>
+					<td>17,581,098,553</td>
+					<td>2,308,596</td>
+					<td>17,581,248,553</td>
+					<td>2,308,646</td>
+				</tr>
+			
+				<tr>
+					<td>브링잉 업 바비</td>
+					<td>Bringing Up Bobby</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>드라마,코미디</td>
+					<td>감독</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>100 피트</td>
+					<td>100 Feet</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연-마니 왓슨역</td>
+					<td>505,925,500</td>
+					<td>76,985</td>
+					<td>505,925,500</td>
+					<td>76,985</td>
+				</tr>
+			
+				<tr>
+					<td>더 웩크니스</td>
+					<td>The Wackness</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>더 텐</td>
+					<td>The Ten</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>턴 더 리버</td>
+					<td>Turn The River</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-케일리 설리반 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>메이드</td>
+					<td>Made</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>코미디,범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>러브 앤드 섹스</td>
+					<td>Love &amp; Sex</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연-케이트역</td>
+					<td>0</td>
+					<td>2,347</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>서커스</td>
+					<td>Circus</td>
+					<td>2000</td>
+					<td>영국,미국</td>
+					<td>범죄,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>헌티드 힐</td>
+					<td>House On Haunted Hill</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연-에블린 스톡카드-프라이스역</td>
+					<td>0</td>
+					<td>238,653</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>딥라이징</td>
+					<td>Deep Rising</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>액션,공포(호러),SF</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>12,021</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>일루션 </td>
+					<td>Lord Of Illusion</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>5,712</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

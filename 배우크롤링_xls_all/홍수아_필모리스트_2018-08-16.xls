@@ -1,0 +1,151 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '홍수아'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>멜리스</td>
+					<td>Malice</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연-최가인역</td>
+					<td>90,914,800</td>
+					<td>11,484</td>
+					<td>90,914,800</td>
+					<td>11,484</td>
+				</tr>
+			
+				<tr>
+					<td>원령</td>
+					<td>Haunted Road</td>
+					<td>2014</td>
+					<td>한국,중국</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td>6,696,000</td>
+					<td>914</td>
+					<td>6,696,000</td>
+					<td>914</td>
+				</tr>
+			
+				<tr>
+					<td>연애의 기술</td>
+					<td></td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>64,882,000</td>
+					<td>8,913</td>
+					<td>64,887,000</td>
+					<td>8,923</td>
+				</tr>
+			
+				<tr>
+					<td>연애의 기술 감독판</td>
+					<td></td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>5,000</td>
+					<td>10</td>
+				</tr>
+			
+				<tr>
+					<td>잠복근무</td>
+					<td>She&#039;s on Duty</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>코미디,액션</td>
+					<td>조연-조혜령역</td>
+					<td>0</td>
+					<td>1,914,941</td>
+					<td>9,590,663,500</td>
+					<td>1,533,225</td>
+				</tr>
+			
+				<tr>
+					<td>페이스</td>
+					<td>Face</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>공포(호러)</td>
+					<td>조연-여자역</td>
+					<td>0</td>
+					<td>474,000</td>
+					<td>1,534,151,500</td>
+					<td>238,950</td>
+				</tr>
+			
+				<tr>
+					<td>조폭마누라2-돌아온 전설</td>
+					<td>My Wife Is A Gangster 2</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>조연-종희역</td>
+					<td></td>
+					<td>1,858,077</td>
+					<td>36,000</td>
+					<td>9</td>
+				</tr>
+			
+				<tr>
+					<td>여고괴담 세번째 이야기: 여우계단</td>
+					<td>Wishing Stairs</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>공포(호러)</td>
+					<td>조연-조소반역</td>
+					<td>0</td>
+					<td>1,784,479</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

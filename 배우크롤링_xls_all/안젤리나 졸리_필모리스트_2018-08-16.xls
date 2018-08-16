@@ -1,0 +1,450 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '안젤리나 졸리'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>바이 더 씨</td>
+					<td>By the Sea</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>감독,주연</td>
+					<td>46,167,000</td>
+					<td>5,908</td>
+					<td>46,167,000</td>
+					<td>5,908</td>
+				</tr>
+			
+				<tr>
+					<td>쿵푸팬더3</td>
+					<td>Kung Fu Panda 3</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>애니메이션,액션,어드벤처</td>
+					<td>주연-타이그리스역(목소리)</td>
+					<td>31,340,798,156</td>
+					<td>3,984,812</td>
+					<td>31,340,813,156</td>
+					<td>3,984,814</td>
+				</tr>
+			
+				<tr>
+					<td>언브로큰</td>
+					<td>Unbroken</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>액션,드라마,전쟁</td>
+					<td>감독</td>
+					<td>2,000,555,292</td>
+					<td>256,801</td>
+					<td>2,000,555,292</td>
+					<td>256,801</td>
+				</tr>
+			
+				<tr>
+					<td>말레피센트</td>
+					<td>Maleficent</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>액션,어드벤처,드라마</td>
+					<td>주연</td>
+					<td>10,776,965,900</td>
+					<td>1,397,526</td>
+					<td>10,776,965,900</td>
+					<td>1,397,526</td>
+				</tr>
+			
+				<tr>
+					<td>쿵푸팬더 2</td>
+					<td>Kung Fu Panda 2</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>애니메이션,액션,어드벤처,코미디,가족</td>
+					<td>주연-호랑이, 타이그리스 목소리 역</td>
+					<td>44,298,724,500</td>
+					<td>5,062,722</td>
+					<td>44,310,427,500</td>
+					<td>5,064,796</td>
+				</tr>
+			
+				<tr>
+					<td>제인 구달</td>
+					<td>Jane&#039;s Journey</td>
+					<td>2010</td>
+					<td>독일</td>
+					<td>다큐멘터리</td>
+					<td>주연</td>
+					<td>22,857,000</td>
+					<td>3,035</td>
+					<td>24,007,500</td>
+					<td>3,251</td>
+				</tr>
+			
+				<tr>
+					<td>투어리스트</td>
+					<td>The Tourist</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td>6,834,421,095</td>
+					<td>915,359</td>
+					<td>6,760,023,000</td>
+					<td>905,624</td>
+				</tr>
+			
+				<tr>
+					<td>솔트</td>
+					<td>Salt</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>스릴러,액션</td>
+					<td>주연-에블린 솔트역</td>
+					<td>21,719,123,025</td>
+					<td>2,921,331</td>
+					<td>21,360,288,000</td>
+					<td>2,869,938</td>
+				</tr>
+			
+				<tr>
+					<td>체인질링</td>
+					<td>Changeling</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>드라마,미스터리,범죄</td>
+					<td>주연-크리스틴 콜린스역</td>
+					<td>3,581,346,406</td>
+					<td>522,667</td>
+					<td>3,555,713,500</td>
+					<td>519,127</td>
+				</tr>
+			
+				<tr>
+					<td>원티드</td>
+					<td>Wanted</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>스릴러,액션</td>
+					<td>주연</td>
+					<td>19,258,777,000</td>
+					<td>2,867,594</td>
+					<td>19,249,398,000</td>
+					<td>2,858,750</td>
+				</tr>
+			
+				<tr>
+					<td>쿵푸 팬더</td>
+					<td>Kung Fu Panda</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>애니메이션,코미디,액션,가족</td>
+					<td>주연(목소리)</td>
+					<td>30,000,965,000</td>
+					<td>4,673,009</td>
+					<td>29,998,150,000</td>
+					<td>4,654,266</td>
+				</tr>
+			
+				<tr>
+					<td>베오울프</td>
+					<td>Beowulf</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>애니메이션,드라마,어드벤처,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>890,100</td>
+					<td>6,791,108,000</td>
+					<td>968,535</td>
+				</tr>
+			
+				<tr>
+					<td>마이티 하트</td>
+					<td>A Mighty Heart</td>
+					<td>2007</td>
+					<td>미국,영국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>굿셰퍼드</td>
+					<td>The Good Shepherd</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>미스터리,드라마,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>98,834</td>
+					<td>569,247,000</td>
+					<td>87,834</td>
+				</tr>
+			
+				<tr>
+					<td>미스터 &amp; 미세스 스미스</td>
+					<td>Mr. And Mrs. Smith</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>멜로/로맨스,액션,어드벤처,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>3,546,900</td>
+					<td>18,900,071,500</td>
+					<td>2,963,193</td>
+				</tr>
+			
+				<tr>
+					<td>월드 오브 투모로우</td>
+					<td>Sky Captain And The World Of Tomorrow</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>SF</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>424,551</td>
+					<td>2,255,633,000</td>
+					<td>351,261</td>
+				</tr>
+			
+				<tr>
+					<td>알렉산더</td>
+					<td>Alexander</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>전쟁,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,671,576</td>
+					<td>8,352,610,789</td>
+					<td>1,310,651</td>
+				</tr>
+			
+				<tr>
+					<td>테이킹 라이브즈</td>
+					<td>Taking Live</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>135,470</td>
+					<td>249,467,500</td>
+					<td>38,736</td>
+				</tr>
+			
+				<tr>
+					<td>머나먼 사랑</td>
+					<td>Beyond Borders</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>15,000</td>
+					<td>24,525,500</td>
+					<td>3,698</td>
+				</tr>
+			
+				<tr>
+					<td>툼레이더 2 : 판도라의 상자</td>
+					<td>Lara Croft Tomb Raider: The Cradle of Life</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>액션,판타지,어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,165,906</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>어느날 그녀에게 생긴일</td>
+					<td>Life Or Something Like It</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>19,710</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>오리지날 씬</td>
+					<td>Original Sin</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>멜로/로맨스,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>81,879</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>툼레이더</td>
+					<td>Tomb Raider</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>액션,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>485,381</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>식스티 세컨즈</td>
+					<td>Gone In Sixty Seconds</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>액션,스릴러,범죄</td>
+					<td>주연-스웨이역</td>
+					<td>0</td>
+					<td>439,847</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>처음 만나는 자유</td>
+					<td>Girl Interrupted</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-리사역</td>
+					<td>0</td>
+					<td>24,596</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>본 콜렉터</td>
+					<td>The Bone Collector</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>미스터리,스릴러</td>
+					<td>주연-아멜리아역</td>
+					<td>0</td>
+					<td>212,564</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>지아</td>
+					<td>Gia</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>플레잉 바이 하트</td>
+					<td>Playing by Heart</td>
+					<td>1998</td>
+					<td>영국,미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>헬스 키친</td>
+					<td>Hell&#039;s Kitchen</td>
+					<td>1998</td>
+					<td>캐나다</td>
+					<td>드라마,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>폭스파이어</td>
+					<td>Foxfire</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>싸이보그 2 </td>
+					<td>Syborg 2-Glass Shadow</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>SF,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,865</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

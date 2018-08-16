@@ -1,0 +1,307 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '빌 풀만'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>워킹 아웃</td>
+					<td>Walking Out</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>어드벤처,드라마,미스터리,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>229,000</td>
+					<td>63</td>
+				</tr>
+			
+				<tr>
+					<td>인디펜던스 데이 : 리써전스</td>
+					<td>Independence Day: Resurgence</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,어드벤처,SF</td>
+					<td>주연</td>
+					<td>12,770,879,840</td>
+					<td>1,500,830</td>
+					<td>12,770,879,840</td>
+					<td>1,500,830</td>
+				</tr>
+			
+				<tr>
+					<td>킬러 인사이드 미</td>
+					<td>The Killer Inside Me</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>범죄,드라마,스릴러</td>
+					<td>조연</td>
+					<td>391,822,268</td>
+					<td>51,555</td>
+					<td>385,670,500</td>
+					<td>50,734</td>
+				</tr>
+			
+				<tr>
+					<td>서베일런스</td>
+					<td>Surveillance</td>
+					<td>2008</td>
+					<td>미국,독일</td>
+					<td>스릴러,미스터리</td>
+					<td>주연</td>
+					<td>24,000</td>
+					<td>3</td>
+					<td>24,000</td>
+					<td>3</td>
+				</tr>
+			
+				<tr>
+					<td>와인 미라클</td>
+					<td>Bottle Shock</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>238,486,628</td>
+					<td>40,842</td>
+					<td>238,446,500</td>
+					<td>40,835</td>
+				</tr>
+			
+				<tr>
+					<td>디어웬디</td>
+					<td>Dear Wendy</td>
+					<td>2005</td>
+					<td>덴마크,프랑스,독일,영국</td>
+					<td>드라마,코미디,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>레버레이션</td>
+					<td>Revelations</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>판타지,드라마,미스터리,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>릭</td>
+					<td>Rick</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>이그니션</td>
+					<td>Ignition</td>
+					<td>2001</td>
+					<td>캐나다,영국</td>
+					<td>액션,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>더 길티</td>
+					<td>The Guilty</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>스릴러,범죄</td>
+					<td>주연-칼럼 크레인 역</td>
+					<td>0</td>
+					<td>5,879</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>플래시드 </td>
+					<td>Lake Placid</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>공포(호러),코미디,액션,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>54,567</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스파이 게임</td>
+					<td>History Is Made At Night</td>
+					<td>1999</td>
+					<td>영국,핀란드,프랑스,독일</td>
+					<td>액션,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>206,000</td>
+					<td>43</td>
+				</tr>
+			
+				<tr>
+					<td>제로 이펙트</td>
+					<td>Zero Effect</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>코미디,스릴러,미스터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>엔드 오브 바이오런스</td>
+					<td>The End Of Violence</td>
+					<td>1997</td>
+					<td>프랑스,독일,미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>미스트 라이얼</td>
+					<td>Mistrial</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>드라마,스릴러,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>121</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>로스트 하이웨이 </td>
+					<td>Lost Highway</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>드라마,미스터리,스릴러</td>
+					<td>주연-프레드 매디슨역</td>
+					<td>0</td>
+					<td>44,572</td>
+					<td>16,376,122</td>
+					<td>2,036</td>
+				</tr>
+			
+				<tr>
+					<td>인디펜던스 데이 </td>
+					<td>Independence Day</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>SF,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>923,223</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>꼬마 유령 캐스퍼 </td>
+					<td>Casper</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>193,253</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>당신이 잠든 사이에 </td>
+					<td>While You Were Sleeping</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>201,119</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사랑에 미쳐서</td>
+					<td>Crazy In Love</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>4,434</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

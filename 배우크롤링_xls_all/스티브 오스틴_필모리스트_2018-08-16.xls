@@ -1,0 +1,190 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '스티브 오스틴'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>에코 이펙트</td>
+					<td>Chain of Command</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>300,000</td>
+					<td>60</td>
+					<td>300,000</td>
+					<td>60</td>
+				</tr>
+			
+				<tr>
+					<td>더 패키지: 일급비밀</td>
+					<td>The Package</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>3,112,000</td>
+					<td>1,556</td>
+					<td>3,112,000</td>
+					<td>1,556</td>
+				</tr>
+			
+				<tr>
+					<td>맥시멈 컨빅션</td>
+					<td>Maximum Conviction</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션,어드벤처,스릴러</td>
+					<td>주연</td>
+					<td>3,165,000</td>
+					<td>1,500</td>
+					<td>3,165,000</td>
+					<td>1,500</td>
+				</tr>
+			
+				<tr>
+					<td>넉 아웃</td>
+					<td>Knockout</td>
+					<td>2011</td>
+					<td>캐나다,미국</td>
+					<td>가족</td>
+					<td>주연-댄 바네스 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>리코일</td>
+					<td>Recoil</td>
+					<td>2011</td>
+					<td>캐나다</td>
+					<td>액션</td>
+					<td>주연-라이언 베렛 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>택티컬 포스</td>
+					<td>Tactical Force</td>
+					<td>2011</td>
+					<td>캐나다</td>
+					<td>액션,SF,스릴러</td>
+					<td>주연-테이트 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>익스펜더블</td>
+					<td>The Expendables</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>스릴러,액션</td>
+					<td>주연</td>
+					<td>3,025,538,174</td>
+					<td>398,097</td>
+					<td>2,973,383,000</td>
+					<td>390,458</td>
+				</tr>
+			
+				<tr>
+					<td>스트레인저</td>
+					<td>The Stranger</td>
+					<td>2010</td>
+					<td>미국,캐나다</td>
+					<td>액션</td>
+					<td>주연-스트레인저 역 역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>헌트 투 킬</td>
+					<td>Hunt to Kill </td>
+					<td>2010</td>
+					<td>캐나다</td>
+					<td>액션,스릴러</td>
+					<td>주연-짐 로즈 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>데미지</td>
+					<td>Damage</td>
+					<td>2009</td>
+					<td>미국,캐나다</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>0</td>
+					<td>0</td>
+				</tr>
+			
+				<tr>
+					<td>컨뎀드</td>
+					<td>The Condemned</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

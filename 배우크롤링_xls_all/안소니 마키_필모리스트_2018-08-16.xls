@@ -1,0 +1,229 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '안소니 마키'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>어벤져스: 인피니티 워</td>
+					<td>Avengers: Infinity War</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지,SF</td>
+					<td>주연</td>
+					<td>99,825,741,869</td>
+					<td>11,202,737</td>
+					<td>99,918,419,769</td>
+					<td>11,211,798</td>
+				</tr>
+			
+				<tr>
+					<td>디트로이트</td>
+					<td>DETROIT</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>194,402,700</td>
+					<td>22,735</td>
+					<td>194,693,700</td>
+					<td>22,770</td>
+				</tr>
+			
+				<tr>
+					<td>트리플 9</td>
+					<td>Triple 9</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>범죄,스릴러</td>
+					<td>주연</td>
+					<td>365,164,300</td>
+					<td>47,197</td>
+					<td>365,164,300</td>
+					<td>47,197</td>
+				</tr>
+			
+				<tr>
+					<td>캡틴 아메리카: 시빌 워</td>
+					<td>Captain America: Civil War</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션,SF,스릴러</td>
+					<td>주연</td>
+					<td>72,672,111,827</td>
+					<td>8,677,249</td>
+					<td>72,675,171,827</td>
+					<td>8,677,555</td>
+				</tr>
+			
+				<tr>
+					<td>엘로이즈</td>
+					<td>Black or White</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>리펜턴스 </td>
+					<td>Repentance</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연-토미 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>제5계급</td>
+					<td>The Fifth Estate</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>조연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>허트 로커</td>
+					<td>The Hurt Locker</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>드라마,전쟁</td>
+					<td>주연</td>
+					<td>1,323,984,967</td>
+					<td>177,509</td>
+					<td>1,299,816,200</td>
+					<td>173,461</td>
+				</tr>
+			
+				<tr>
+					<td>우리는 마샬 : 불멸의 팀</td>
+					<td>We Are Marshall</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>크로스오버</td>
+					<td>Crossover</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>액션,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>올랜도 블룸의 위험한 열정</td>
+					<td>Haven</td>
+					<td>2004</td>
+					<td>미국,영국,독일,스페인</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td>270,000</td>
+					<td>54</td>
+					<td>270,000</td>
+					<td>54</td>
+				</tr>
+			
+				<tr>
+					<td>그녀는 날 싫어해</td>
+					<td>She Hate me</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연-잭 암스트롱역</td>
+					<td>0</td>
+					<td>4,983</td>
+					<td>31,908,500</td>
+					<td>4,983</td>
+				</tr>
+			
+				<tr>
+					<td>브라더 투 브라더</td>
+					<td>Brother To Brother</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>8 마일</td>
+					<td>8 Mile </td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>292,626</td>
+					<td>159,487,500</td>
+					<td>19,296</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

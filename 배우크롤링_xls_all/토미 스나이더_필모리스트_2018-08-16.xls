@@ -1,0 +1,86 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '토미 스나이더'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>덤 앤 더머 투</td>
+					<td>Dumb and Dumber To</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>조연</td>
+					<td>1,436,861,585</td>
+					<td>192,726</td>
+					<td>1,436,861,585</td>
+					<td>192,726</td>
+				</tr>
+			
+				<tr>
+					<td>나의 빅사이즈 남사친</td>
+					<td>A Big Love Story</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>조연-마일즈역</td>
+					<td>30,000</td>
+					<td>5</td>
+					<td>30,000</td>
+					<td>5</td>
+				</tr>
+			
+				<tr>
+					<td>닥터 두리틀 3</td>
+					<td>Dr. Dolittle 3</td>
+					<td>2006</td>
+					<td>미국,캐나다</td>
+					<td>코미디,가족</td>
+					<td>조연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

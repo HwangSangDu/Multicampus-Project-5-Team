@@ -1,0 +1,242 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '조안 알렌'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>굿 메리지</td>
+					<td>A Good Marriage</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연-달시역</td>
+					<td>200,000</td>
+					<td>40</td>
+					<td>200,000</td>
+					<td>40</td>
+				</tr>
+			
+				<tr>
+					<td>본 레거시</td>
+					<td>The Bourne Legacy</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>7,412,233,000</td>
+					<td>1,015,711</td>
+					<td>7,412,838,000</td>
+					<td>1,015,832</td>
+				</tr>
+			
+				<tr>
+					<td>하치 이야기</td>
+					<td>Hachiko: A Dog&#039;S Story</td>
+					<td>2009</td>
+					<td>미국,영국</td>
+					<td>드라마,가족</td>
+					<td>주연-케이트 윌슨역</td>
+					<td>703,309,748</td>
+					<td>96,683</td>
+					<td>692,414,500</td>
+					<td>95,193</td>
+				</tr>
+			
+				<tr>
+					<td>데스 레이스</td>
+					<td>Death Race</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>SF,액션,어드벤처</td>
+					<td>주연</td>
+					<td>1,044,019,000</td>
+					<td>156,983</td>
+					<td>1,056,720,000</td>
+					<td>159,170</td>
+				</tr>
+			
+				<tr>
+					<td>미스언더스탠드</td>
+					<td>The Upside Of Anger</td>
+					<td>2005</td>
+					<td>미국,독일,영국</td>
+					<td>코미디,드라마,멜로/로맨스</td>
+					<td>주연-테리 앤 울프메이어 역</td>
+					<td>40,592,500</td>
+					<td>6,990</td>
+					<td>40,592,500</td>
+					<td>6,076</td>
+				</tr>
+			
+				<tr>
+					<td>본 슈프리머시</td>
+					<td>The Bourne Supremacy</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>620,000</td>
+					<td>2,439,904,500</td>
+					<td>370,894</td>
+				</tr>
+			
+				<tr>
+					<td>예스</td>
+					<td>Yes</td>
+					<td>2004</td>
+					<td>영국,미국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>오프 더 맵</td>
+					<td>Off The Map</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>컨텐더</td>
+					<td>The Contender</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>18,157</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아발론의 여인들</td>
+					<td>The Mists Of Avalon</td>
+					<td>2001</td>
+					<td>체코,독일,미국</td>
+					<td>드라마,판타지</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>웬 더 스카이 폴스</td>
+					<td>When The Sky Falls</td>
+					<td>2000</td>
+					<td>영국,아일랜드,미국</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>레이즈</td>
+					<td>All The Rage</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>크루서블</td>
+					<td>The Crucible</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>드라마,사극</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>28,807</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>닉슨</td>
+					<td>Nixon</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-팻 닉슨역</td>
+					<td>0</td>
+					<td>27,923</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>터커</td>
+					<td>Tucker : The Man and His Dream</td>
+					<td>1988</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>0</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

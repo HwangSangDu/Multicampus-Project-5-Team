@@ -1,0 +1,177 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '유인영'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>치즈인더트랩</td>
+					<td>Cheese in the Trap</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>멜로/로맨스,스릴러</td>
+					<td>주연</td>
+					<td>1,890,873,700</td>
+					<td>229,005</td>
+					<td>1,890,873,700</td>
+					<td>229,005</td>
+				</tr>
+			
+				<tr>
+					<td>시간위의 집</td>
+					<td>House of the Disappeared</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>미스터리,스릴러</td>
+					<td>단역</td>
+					<td>1,020,724,600</td>
+					<td>128,975</td>
+					<td>1,020,724,600</td>
+					<td>128,975</td>
+				</tr>
+			
+				<tr>
+					<td>그대 없이는 못 살아</td>
+					<td>Can&#039;t Live Without You</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>미스터리,멜로/로맨스,액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>여교사</td>
+					<td>MISBEHAVIOR</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-혜영역</td>
+					<td>961,785,460</td>
+					<td>118,621</td>
+					<td>961,785,460</td>
+					<td>118,621</td>
+				</tr>
+			
+				<tr>
+					<td>베테랑</td>
+					<td>Veteran</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>액션,드라마</td>
+					<td>조연-다혜역</td>
+					<td>105,168,155,250</td>
+					<td>13,414,009</td>
+					<td>105,169,264,250</td>
+					<td>13,414,200</td>
+				</tr>
+			
+				<tr>
+					<td>바다위의 피아노</td>
+					<td>A Piano on the Sea</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>비처럼 음악처럼</td>
+					<td>Rain &amp; Rain</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>301,000</td>
+					<td>43</td>
+				</tr>
+			
+				<tr>
+					<td>즐거웠던 시간만을 기억해줄래</td>
+					<td>Remember When,</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>스릴러,드라마,가족</td>
+					<td>감독</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아버지와 마리와 나</td>
+					<td>Like Father, Like Son</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>28,278,000</td>
+					<td>4,162</td>
+					<td>28,278,000</td>
+					<td>4,162</td>
+				</tr>
+			
+				<tr>
+					<td>기다리다 미쳐</td>
+					<td>Crazy Waiting</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>2,725,342,667</td>
+					<td>422,363</td>
+					<td>2,865,110,500</td>
+					<td>441,337</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

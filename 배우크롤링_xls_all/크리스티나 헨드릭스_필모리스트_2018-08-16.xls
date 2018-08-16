@@ -1,0 +1,138 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '크리스티나 헨드릭스'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>비뚤어진 집</td>
+					<td>Crooked House</td>
+					<td>2017</td>
+					<td>영국</td>
+					<td>범죄,드라마,미스터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>네온 데몬</td>
+					<td>The Neon Demon</td>
+					<td>2016</td>
+					<td>프랑스,미국,덴마크</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td>14,560,800</td>
+					<td>1,803</td>
+					<td>14,560,800</td>
+					<td>1,803</td>
+				</tr>
+			
+				<tr>
+					<td>갓즈 포켓</td>
+					<td>God&#039;s Pocket</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>14,621,500</td>
+					<td>2,037</td>
+					<td>14,629,500</td>
+					<td>2,038</td>
+				</tr>
+			
+				<tr>
+					<td>로스트리버</td>
+					<td>Lost river</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>판타지,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>디태치먼트</td>
+					<td>Detachment</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-미세스 매디슨역</td>
+					<td>96,249,900</td>
+					<td>12,733</td>
+					<td>96,267,900</td>
+					<td>12,736</td>
+				</tr>
+			
+				<tr>
+					<td>스트럭 바이 라이트닝</td>
+					<td>Struck by Lightning</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>올-스타 슈퍼맨</td>
+					<td>All-Star Superman</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>애니메이션,SF</td>
+					<td>주연-로이스 레인/ 슈퍼우먼 (목소리) 역역(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

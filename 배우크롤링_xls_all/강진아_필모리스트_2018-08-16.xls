@@ -1,0 +1,112 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '강진아'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>카이: 거울 호수의 전설</td>
+					<td>Kai</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td>182,873,800</td>
+					<td>24,675</td>
+					<td>185,119,800</td>
+					<td>24,990</td>
+				</tr>
+			
+				<tr>
+					<td>나의 기념일 </td>
+					<td>My anniversary</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-유하 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>보이지 않는 잠자는 여인, 뒤집힌 배 그리고 나비</td>
+					<td>Invisible sleeping woman, capsized boat and butterfly</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>판타지,애니메이션</td>
+					<td>주연-고선호역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>졸업반</td>
+					<td>The Senior Class</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>애니메이션</td>
+					<td>주연-주희 (목소리)역(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>강변북로에 서 있는 여자</td>
+					<td>She, on the road</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-희정 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

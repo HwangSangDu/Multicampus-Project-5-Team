@@ -1,0 +1,762 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '스티븐 시걸'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>세일즈맨의 전설</td>
+					<td>China Salesman</td>
+					<td>2017</td>
+					<td>중국</td>
+					<td>액션,드라마,전쟁</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>퍼펙트 웨폰</td>
+					<td>The Perfect Weapon </td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,SF</td>
+					<td>주연</td>
+					<td>100,000</td>
+					<td>20</td>
+					<td>100,000</td>
+					<td>20</td>
+				</tr>
+			
+				<tr>
+					<td>스나이퍼: 특수작전부대</td>
+					<td>Sniper: Special Ops</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,전쟁</td>
+					<td>주연</td>
+					<td>270,000</td>
+					<td>54</td>
+					<td>270,000</td>
+					<td>54</td>
+				</tr>
+			
+				<tr>
+					<td>코드 오브 아너</td>
+					<td>CODE OF HONOR</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>5,000</td>
+					<td>1</td>
+					<td>5,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>아시안 커넥션</td>
+					<td>The Asian Connection</td>
+					<td>2016</td>
+					<td>태국</td>
+					<td>액션,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>엔드 오브 어 건</td>
+					<td>End of a Gun</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,범죄,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>컨트랙트 투 킬</td>
+					<td>Contract to Kill</td>
+					<td>2016</td>
+					<td>루마니아</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>퍼펙트 킬러</td>
+					<td>Gutshot Straight</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>3,000</td>
+					<td>1</td>
+					<td>3,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>스티븐시걸의 굿맨</td>
+					<td>A Good Man</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>240,000</td>
+					<td>45</td>
+					<td>240,000</td>
+					<td>45</td>
+				</tr>
+			
+				<tr>
+					<td>F.O.E.: 에프.오.이.</td>
+					<td>Force of Execution</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>2,000</td>
+					<td>1</td>
+					<td>2,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>스티븐 시걸의 살인면허</td>
+					<td>TRUE JUSTICE MOVIE 5: DEAD DROP</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>9,000</td>
+					<td>1</td>
+					<td>9,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>스티븐 시걸의 작전명 고스트</td>
+					<td>TRUE JUSTICE MOVIE 4 : ANGEL OF DEATH</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연-케인역</td>
+					<td>213,000</td>
+					<td>38</td>
+					<td>213,000</td>
+					<td>38</td>
+				</tr>
+			
+				<tr>
+					<td>스티븐 시걸의 비밀요원</td>
+					<td>True Justice Movie 6 : The Shot, One Life</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연-케인역</td>
+					<td>262,000</td>
+					<td>44</td>
+					<td>262,000</td>
+					<td>44</td>
+				</tr>
+			
+				<tr>
+					<td>스티븐 시걸의 CIA</td>
+					<td>TRUE JUSTICE SEASON2 : BLOOD ALLEY</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션,범죄,드라마</td>
+					<td>주연</td>
+					<td>2,290,000</td>
+					<td>1,120</td>
+					<td>2,290,000</td>
+					<td>1,120</td>
+				</tr>
+			
+				<tr>
+					<td>스티븐 시걸의 비밀경찰</td>
+					<td>TRUE JUSTICE SEASON2 : VIOLENCE OF ACTION</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>10,311,000</td>
+					<td>5,078</td>
+					<td>10,311,000</td>
+					<td>5,078</td>
+				</tr>
+			
+				<tr>
+					<td>스티븐 시걸의 리벤지</td>
+					<td>true justice : vengeance is mine</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>3,459,000</td>
+					<td>1,652</td>
+					<td>3,459,000</td>
+					<td>1,652</td>
+				</tr>
+			
+				<tr>
+					<td>맥시멈 컨빅션</td>
+					<td>Maximum Conviction</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션,어드벤처,스릴러</td>
+					<td>주연</td>
+					<td>3,165,000</td>
+					<td>1,500</td>
+					<td>3,165,000</td>
+					<td>1,500</td>
+				</tr>
+			
+				<tr>
+					<td>다크 리벤지</td>
+					<td>True Justice: Dark Vengeance</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>액션,드라마,스릴러</td>
+					<td>주연-엘리야 케인 역</td>
+					<td>10,000</td>
+					<td>5</td>
+					<td>10,000</td>
+					<td>5</td>
+				</tr>
+			
+				<tr>
+					<td>데들리 크로싱</td>
+					<td>Southern Justice: Russian Crossing</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>액션,드라마,스릴러</td>
+					<td>주연</td>
+					<td>72,000</td>
+					<td>22</td>
+					<td>72,000</td>
+					<td>22</td>
+				</tr>
+			
+				<tr>
+					<td>브라더후드</td>
+					<td>True Justice Brotherhood</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연-케인역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스트리트 워</td>
+					<td>True Justice: Street War</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>스릴러,액션,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>7,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>시티워</td>
+					<td>Urban Warfare</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>마셰티</td>
+					<td>Machete</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연-토레즈역</td>
+					<td>27,981,000</td>
+					<td>3,702</td>
+					<td>27,981,000</td>
+					<td>3,702</td>
+				</tr>
+			
+				<tr>
+					<td>스티븐 시걸의 더 키퍼</td>
+					<td>The Keeper</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>어게인스트 더 다크</td>
+					<td>Against The Dark</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>액션,공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>위험한 남자</td>
+					<td>A Dangerous Man</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연-쉐인 다니엘스역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>킬 스위치</td>
+					<td>Kill Switch</td>
+					<td>2008</td>
+					<td>미국,캐나다</td>
+					<td>액션,범죄,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>피스톨 휩트</td>
+					<td>Pistol Whipped</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>블랙 스텔스</td>
+					<td>Flight Of Fury</td>
+					<td>2007</td>
+					<td>영국,루마니아,미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>어반 저스티스</td>
+					<td>Urban Justice</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>쉐도우맨</td>
+					<td>Shadow Man</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연-잭 포스터역</td>
+					<td>0</td>
+					<td>500</td>
+					<td>3,500,000</td>
+					<td>500</td>
+				</tr>
+			
+				<tr>
+					<td>어택 포스</td>
+					<td>Attack Force</td>
+					<td>2006</td>
+					<td>미국,영국,루마니아</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>정의의 용병</td>
+					<td>Mercenary</td>
+					<td>2006</td>
+					<td>기타,미국,남아프리카공화국</td>
+					<td>액션,드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>인투 더 썬</td>
+					<td>Into The Sun</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>스릴러,액션,어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,054</td>
+					<td>7,090,000</td>
+					<td>1,013</td>
+				</tr>
+			
+				<tr>
+					<td>서브머지드</td>
+					<td>Submerged</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>공포(호러),액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>215</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스티븐 시걸의 함정</td>
+					<td>Today You Die</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>액션,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>포리너 2 : 암흑의 새벽</td>
+					<td>Black Dawn</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>클레멘타인</td>
+					<td>Clementine</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>67,000</td>
+					<td>22,983,000</td>
+					<td>3,562</td>
+				</tr>
+			
+				<tr>
+					<td>아웃 오브 리치</td>
+					<td>Out Of Reach</td>
+					<td>2004</td>
+					<td>미국,폴란드</td>
+					<td>액션,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>벨리 오브 비스트</td>
+					<td>Belly Of The Beast</td>
+					<td>2003</td>
+					<td>영국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>208</td>
+					<td>50,000</td>
+					<td>10</td>
+				</tr>
+			
+				<tr>
+					<td>포리너</td>
+					<td>The Foreigner</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>액션,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>6,584</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아웃 포 킬</td>
+					<td>Out For A Kill</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>하프 패스트 데드</td>
+					<td>Half Past Dead</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>47,543</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>씨커</td>
+					<td>Ticker</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>범죄,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>4,315</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>엑시트 운즈</td>
+					<td>Exit Wounds</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>미스터리,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>65,415</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>패트리어트</td>
+					<td>The Patriot</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>스릴러,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>8,238</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>화이어 다운 </td>
+					<td>Fire Down Below</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>액션,드라마,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>23,151</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>글리머 맨 </td>
+					<td>The Glimmer Man</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>액션,드라마,스릴러,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>67,070</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>화이널 디씨전 </td>
+					<td>Executive Decision</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>액션,범죄,어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>132,074</td>
+					<td>196,000</td>
+					<td>98</td>
+				</tr>
+			
+				<tr>
+					<td>언더 씨즈 2 </td>
+					<td>Under Siege 2</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>180,584</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스티븐 시갈의 죽음의 땅 </td>
+					<td>On Deadly Ground</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>감독,주연</td>
+					<td>0</td>
+					<td>149,855</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>언더씨즈</td>
+					<td>Under Siegh</td>
+					<td>1992</td>
+					<td>미국</td>
+					<td>스릴러,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>190,559</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>언더 씨즈</td>
+					<td>Under Siege</td>
+					<td>1992</td>
+					<td>미국</td>
+					<td>액션,드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>268,000</td>
+					<td>134</td>
+				</tr>
+			
+				<tr>
+					<td>죽음의 표적</td>
+					<td>Marked For Death</td>
+					<td>1990</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>107,572</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>트루 저스티스</td>
+					<td>True Justice: Lethal Justice</td>
+					<td></td>
+					<td>미국</td>
+					<td>스릴러,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>0</td>
+					<td>226,000</td>
+					<td>93</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

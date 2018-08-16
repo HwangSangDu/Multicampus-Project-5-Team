@@ -1,0 +1,359 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '에드워드 노튼'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>개들의 섬</td>
+					<td>Isle of Dogs</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>코미디,애니메이션,다큐멘터리</td>
+					<td>주연(목소리)</td>
+					<td>204,327,000</td>
+					<td>23,709</td>
+					<td>288,331,100</td>
+					<td>33,192</td>
+				</tr>
+			
+				<tr>
+					<td>나는 사랑과 시간과 죽음을 만났다</td>
+					<td>Collateral Beauty</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>380,000</td>
+					<td>76</td>
+					<td>380,000</td>
+					<td>76</td>
+				</tr>
+			
+				<tr>
+					<td>버드맨</td>
+					<td>Birdman or The Unexpected Virtue of Ignorance</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>1,664,640,800</td>
+					<td>206,241</td>
+					<td>1,664,640,800</td>
+					<td>206,241</td>
+				</tr>
+			
+				<tr>
+					<td>그랜드 부다페스트 호텔</td>
+					<td>The Grand Budapest Hotel</td>
+					<td>2014</td>
+					<td>미국,독일</td>
+					<td>미스터리,어드벤처</td>
+					<td>조연</td>
+					<td>6,014,299,982</td>
+					<td>773,887</td>
+					<td>6,049,062,782</td>
+					<td>778,493</td>
+				</tr>
+			
+				<tr>
+					<td>문라이즈 킹덤 </td>
+					<td>Moonrise Kingdom</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>코미디,어드벤처,멜로/로맨스</td>
+					<td>주연</td>
+					<td>275,919,300</td>
+					<td>35,328</td>
+					<td>285,769,700</td>
+					<td>36,674</td>
+				</tr>
+			
+				<tr>
+					<td>본 레거시</td>
+					<td>The Bourne Legacy</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>7,412,233,000</td>
+					<td>1,015,711</td>
+					<td>7,412,838,000</td>
+					<td>1,015,832</td>
+				</tr>
+			
+				<tr>
+					<td>스톤</td>
+					<td>STONE</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연-제랄드 크리슨 스톤 역</td>
+					<td>118,007,000</td>
+					<td>15,455</td>
+					<td>118,007,000</td>
+					<td>15,455</td>
+				</tr>
+			
+				<tr>
+					<td>리브스 오브 그래스</td>
+					<td>Leaves of Grass</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>코미디,범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>인크레더블 헐크</td>
+					<td>The Incredible Hulk</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>액션,판타지,SF</td>
+					<td>주연</td>
+					<td>6,422,773,000</td>
+					<td>992,064</td>
+					<td>6,449,106,000</td>
+					<td>991,417</td>
+				</tr>
+			
+				<tr>
+					<td>프라이드 앤 글로리</td>
+					<td>Pride and Glory</td>
+					<td>2008</td>
+					<td>미국,독일</td>
+					<td>범죄,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>페인티드 베일</td>
+					<td>The Painted Veil</td>
+					<td>2006</td>
+					<td>중국,미국,캐나다</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연-월터 페인역</td>
+					<td>0</td>
+					<td>123,828</td>
+					<td>759,934,000</td>
+					<td>122,128</td>
+				</tr>
+			
+				<tr>
+					<td>일루셔니스트</td>
+					<td>The Illusionist</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>597,174</td>
+					<td>3,453,406,800</td>
+					<td>567,729</td>
+				</tr>
+			
+				<tr>
+					<td>다운 인 더 밸리</td>
+					<td>Down In The Valley</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스,서부극(웨스턴)</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>317</td>
+					<td>2,024,500</td>
+					<td>286</td>
+				</tr>
+			
+				<tr>
+					<td>이탈리안 잡</td>
+					<td>The Italian Job</td>
+					<td>2003</td>
+					<td>미국,영국,프랑스</td>
+					<td>범죄,드라마,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>566,800</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>25시</td>
+					<td>25th Hour </td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>591</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>레드 드래곤</td>
+					<td>Red Dragon</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>115,800</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>로빈 윌리엄스의 스무치 죽이기</td>
+					<td>Death To Smoochy</td>
+					<td>2002</td>
+					<td>미국,영국,독일</td>
+					<td>코미디,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스코어</td>
+					<td>The Score</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>드라마,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>28,261</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>키핑 더 페이스</td>
+					<td>Keeping The Faith</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>감독,주연-브라이언역</td>
+					<td>0</td>
+					<td>21,189</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>파이트 클럽 </td>
+					<td>Fight Club</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>액션,범죄,드라마,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>54,735</td>
+					<td>126,499,200</td>
+					<td>16,053</td>
+				</tr>
+			
+				<tr>
+					<td>아메리칸 히스토리X</td>
+					<td>American History X</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>6,919</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>라운더스</td>
+					<td>Rounders</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-레스터 웜 머피역</td>
+					<td>0</td>
+					<td>53,682</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>과거로부터</td>
+					<td>Out Of The Past</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>다큐멘터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>프라이멀 피어 </td>
+					<td>Primal Fear</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>스릴러,범죄,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>72,155</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

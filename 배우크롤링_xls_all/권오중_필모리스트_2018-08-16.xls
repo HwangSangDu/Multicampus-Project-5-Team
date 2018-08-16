@@ -1,0 +1,216 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '권오중'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>제자도 - 제자,옥한흠2</td>
+					<td></td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>다큐멘터리</td>
+					<td>주연</td>
+					<td>67,442,000</td>
+					<td>9,533</td>
+					<td>67,442,000</td>
+					<td>9,533</td>
+				</tr>
+			
+				<tr>
+					<td>제자, 옥한흠</td>
+					<td>THE DISCIPLE JOHN OAK</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>다큐멘터리</td>
+					<td>주연</td>
+					<td>366,587,200</td>
+					<td>50,274</td>
+					<td>366,823,200</td>
+					<td>50,392</td>
+				</tr>
+			
+				<tr>
+					<td>나의 선택-잊혀진 가방 그 못다한 이야기</td>
+					<td>The Forgotten Bag</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>다큐멘터리</td>
+					<td>주연</td>
+					<td>45,610,000</td>
+					<td>6,782</td>
+					<td>45,610,000</td>
+					<td>6,782</td>
+				</tr>
+			
+				<tr>
+					<td>잊혀진 가방</td>
+					<td>The Forgotten Bag</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>다큐멘터리</td>
+					<td>주연(목소리)</td>
+					<td>60,758,444</td>
+					<td>9,049</td>
+					<td>59,804,500</td>
+					<td>8,905</td>
+				</tr>
+			
+				<tr>
+					<td>마지막 선물</td>
+					<td>His Last Gift</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연</td>
+					<td>1,748,517,833</td>
+					<td>272,890</td>
+					<td>1,740,290,500</td>
+					<td>265,362</td>
+				</tr>
+			
+				<tr>
+					<td>용의주도 미스신</td>
+					<td>Miss Gold Digger</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>95,329,500</td>
+					<td>595,872</td>
+					<td>3,743,082,000</td>
+					<td>579,973</td>
+				</tr>
+			
+				<tr>
+					<td>날아라 허동구</td>
+					<td>Bunt</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>가족,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>396,811</td>
+					<td>2,333,597,000</td>
+					<td>378,161</td>
+				</tr>
+			
+				<tr>
+					<td>김관장 대 김관장 대 김관장</td>
+					<td>Master KIMs</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,025,618</td>
+					<td>5,575,404,600</td>
+					<td>925,661</td>
+				</tr>
+			
+				<tr>
+					<td>오로라 공주</td>
+					<td>Princess Aurora</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>범죄,스릴러</td>
+					<td>조연</td>
+					<td>0</td>
+					<td>946,372</td>
+					<td>5,365,343,000</td>
+					<td>830,538</td>
+				</tr>
+			
+				<tr>
+					<td>시실리 2km</td>
+					<td>To Catch A Virgin Ghost</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,987,380</td>
+					<td>8,049,487,000</td>
+					<td>1,263,196</td>
+				</tr>
+			
+				<tr>
+					<td>리워드</td>
+					<td>Reward</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-준기역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>크리스마스에 눈이 내리면</td>
+					<td>If It Snows On Christmas</td>
+					<td>1998</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>19,731</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>영구와 공룡 쮸쮸</td>
+					<td>Young-Gu And Princess Zzu Zzu</td>
+					<td>1993</td>
+					<td>한국</td>
+					<td>드라마,액션,코미디</td>
+					<td>아트디렉터</td>
+					<td>0</td>
+					<td>1,872</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

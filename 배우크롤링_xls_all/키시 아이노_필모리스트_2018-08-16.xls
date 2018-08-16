@@ -1,0 +1,190 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '키시 아이노'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>친절한 가정부</td>
+					<td>THE MAIDROID</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>1,004,000</td>
+					<td>166</td>
+					<td>1,004,000</td>
+					<td>166</td>
+				</tr>
+			
+				<tr>
+					<td>사쿠라-마지막 정사</td>
+					<td>SAKURA–Pachislo Battler</td>
+					<td>2013</td>
+					<td>일본</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>20,000</td>
+					<td>10</td>
+					<td>20,000</td>
+					<td>10</td>
+				</tr>
+			
+				<tr>
+					<td>요리사와의 불륜</td>
+					<td>Knife Battle -Female Cook SAKURA</td>
+					<td>2012</td>
+					<td>일본</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>40,000</td>
+					<td>10</td>
+					<td>40,000</td>
+					<td>10</td>
+				</tr>
+			
+				<tr>
+					<td>겟코가면</td>
+					<td>Mask The Kekkou</td>
+					<td>2012</td>
+					<td>일본</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>150,000</td>
+					<td>10</td>
+					<td>150,000</td>
+					<td>10</td>
+				</tr>
+			
+				<tr>
+					<td>갱로이어</td>
+					<td>Gang Lawyer</td>
+					<td>2012</td>
+					<td>일본</td>
+					<td>성인물(에로)</td>
+					<td>주연</td>
+					<td>30,000</td>
+					<td>10</td>
+					<td>30,000</td>
+					<td>10</td>
+				</tr>
+			
+				<tr>
+					<td>내 여친이 야한 이유</td>
+					<td>MY SWEET N SEXY GIRL FRIEND</td>
+					<td>2012</td>
+					<td>일본</td>
+					<td>성인물(에로)</td>
+					<td>주연</td>
+					<td>56,000</td>
+					<td>10</td>
+					<td>56,000</td>
+					<td>10</td>
+				</tr>
+			
+				<tr>
+					<td>이복자매-언니애인과의 황홀한 정사</td>
+					<td>Domestic Final</td>
+					<td>2010</td>
+					<td>일본</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>100,000</td>
+					<td>10</td>
+					<td>100,000</td>
+					<td>10</td>
+				</tr>
+			
+				<tr>
+					<td>러버즈 고무옷의 그녀</td>
+					<td>Rubbers</td>
+					<td>2010</td>
+					<td>일본</td>
+					<td>성인물(에로),드라마</td>
+					<td>주연</td>
+					<td>42,000</td>
+					<td>8</td>
+					<td>42,000</td>
+					<td>8</td>
+				</tr>
+			
+				<tr>
+					<td>꿈속의 성애</td>
+					<td>Incubus</td>
+					<td>2010</td>
+					<td>일본</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>나락</td>
+					<td>DESIRE UNDERNEATH</td>
+					<td>2008</td>
+					<td>일본</td>
+					<td>범죄</td>
+					<td>주연</td>
+					<td>500,000</td>
+					<td>100</td>
+					<td>500,000</td>
+					<td>100</td>
+				</tr>
+			
+				<tr>
+					<td>나의 달콤한 첫경험 이야기</td>
+					<td>Virgin Dreeeem</td>
+					<td>2008</td>
+					<td>일본</td>
+					<td>성인물(에로),드라마</td>
+					<td>주연</td>
+					<td>4,000</td>
+					<td>2</td>
+					<td>4,000</td>
+					<td>2</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

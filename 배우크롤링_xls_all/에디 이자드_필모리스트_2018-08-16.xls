@@ -1,0 +1,138 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '에디 이자드'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>드림 쏭</td>
+					<td>Rock Dog</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td>1,826,269,700</td>
+					<td>234,387</td>
+					<td>1,826,269,700</td>
+					<td>234,387</td>
+				</tr>
+			
+				<tr>
+					<td>트레져 아일랜드</td>
+					<td>Treasure Island</td>
+					<td>2012</td>
+					<td>아일랜드,영국</td>
+					<td>어드벤처</td>
+					<td>주연-존 실버 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>로스트 크리스마스</td>
+					<td>Lost Christmas</td>
+					<td>2011</td>
+					<td>영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>344,000</td>
+					<td>43</td>
+					<td>344,000</td>
+					<td>43</td>
+				</tr>
+			
+				<tr>
+					<td>더 리치스</td>
+					<td>The Riches</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>코미디,범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>와일드</td>
+					<td>The Wild</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>애니메이션,코미디,어드벤처</td>
+					<td>주연-코알라 나이젤역(목소리)</td>
+					<td>0</td>
+					<td>48,094</td>
+					<td>244,378,900</td>
+					<td>41,882</td>
+				</tr>
+			
+				<tr>
+					<td>복수의 비극</td>
+					<td>Revenger&#039;s Tragedy</td>
+					<td>2002</td>
+					<td>영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>신이 버린 특공대</td>
+					<td>All The Queen&#039;s Men</td>
+					<td>2001</td>
+					<td>미국,호주,독일,헝가리</td>
+					<td>액션,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>0</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

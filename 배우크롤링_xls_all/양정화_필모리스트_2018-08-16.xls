@@ -1,0 +1,229 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '양정화'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>극장판 헬로카봇 : 백악기 시대</td>
+					<td>Hello Carbot the Movie: The Cretaceous Period</td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>애니메이션</td>
+					<td>주연-장군/엄마/M라인 목소리역(목소리)</td>
+					<td></td>
+					<td></td>
+					<td>6,173,368,300</td>
+					<td>824,191</td>
+				</tr>
+			
+				<tr>
+					<td>극장판 에그엔젤 코코밍: 푸르밍과 두근두근 코코밍 세계</td>
+					<td>Cocotama The Movie 2017</td>
+					<td>2017</td>
+					<td>일본</td>
+					<td>애니메이션</td>
+					<td>주연-지니밍 목소리역(목소리)</td>
+					<td>1,055,895,200</td>
+					<td>137,052</td>
+					<td>1,055,895,200</td>
+					<td>137,052</td>
+				</tr>
+			
+				<tr>
+					<td>극장판 짱구는 못말려 : 습격!! 외계인 덩덩이</td>
+					<td>Crayon Shinchan 2017 Theatrical Film: Invasion!! Alien Shiriri</td>
+					<td>2017</td>
+					<td>일본</td>
+					<td>애니메이션</td>
+					<td>주연-덩덩이 목소리역(목소리)</td>
+					<td>2,417,712,700</td>
+					<td>333,082</td>
+					<td>2,418,607,200</td>
+					<td>333,184</td>
+				</tr>
+			
+				<tr>
+					<td>부릉! 부릉! 브루미즈: 스피더의 모험 일기</td>
+					<td>Vroom! Vroom! Vroomiz</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td>89,425,500</td>
+					<td>11,735</td>
+					<td>89,425,500</td>
+					<td>11,735</td>
+				</tr>
+			
+				<tr>
+					<td>극장판 안녕 자두야</td>
+					<td>Hello Jadoo</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td>2,135,155,300</td>
+					<td>279,993</td>
+					<td>2,138,290,500</td>
+					<td>280,539</td>
+				</tr>
+			
+				<tr>
+					<td>최강전사 미니특공대: 영웅의 탄생</td>
+					<td>Mini Force : New Heroes Rise</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td>873,320,200</td>
+					<td>116,531</td>
+					<td>879,289,200</td>
+					<td>117,446</td>
+				</tr>
+			
+				<tr>
+					<td>생각보다 맑은</td>
+					<td>Clearer than You Think</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td>27,393,900</td>
+					<td>3,881</td>
+					<td>27,417,900</td>
+					<td>3,887</td>
+				</tr>
+			
+				<tr>
+					<td>쥬로링 동물탐정 극장판</td>
+					<td>Change Zoororing</td>
+					<td>2014</td>
+					<td>한국,일본</td>
+					<td>애니메이션,어드벤처</td>
+					<td>주연(목소리)</td>
+					<td>175,451,100</td>
+					<td>24,977</td>
+					<td>178,137,500</td>
+					<td>25,391</td>
+				</tr>
+			
+				<tr>
+					<td>고스트 메신저 극장판</td>
+					<td>Ghost Messenger</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>애니메이션,SF,판타지</td>
+					<td>주연-바리낭자 역역(목소리)</td>
+					<td>184,033,000</td>
+					<td>23,721</td>
+					<td>184,194,000</td>
+					<td>23,802</td>
+				</tr>
+			
+				<tr>
+					<td>헬로 카봇</td>
+					<td></td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td></td>
+					<td></td>
+					<td>0</td>
+					<td>0</td>
+				</tr>
+			
+				<tr>
+					<td>극장판 뛰뛰빵빵 구조대 미션: 둥둥이를 구하라!</td>
+					<td>T-pang Rescue</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td>144,062,800</td>
+					<td>21,939</td>
+					<td>144,062,800</td>
+					<td>21,939</td>
+				</tr>
+			
+				<tr>
+					<td>극장판 토리코 : 미식신의 스페셜메뉴</td>
+					<td>TORIKO THE MOVIE SECRET RECIPE OF GOURMET GOD</td>
+					<td>2013</td>
+					<td>일본</td>
+					<td>애니메이션,어드벤처</td>
+					<td>주연-마츠 (한국어 목소리)역(목소리)</td>
+					<td>83,206,000</td>
+					<td>12,635</td>
+					<td>83,206,000</td>
+					<td>12,635</td>
+				</tr>
+			
+				<tr>
+					<td>안녕 자두야 스페셜 : 인어공주 </td>
+					<td></td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>애니메이션,코미디</td>
+					<td>주연-자두 엄마 목소리역(목소리)</td>
+					<td></td>
+					<td></td>
+					<td>736,000</td>
+					<td>368</td>
+				</tr>
+			
+				<tr>
+					<td>아치와 씨팍</td>
+					<td>Aachi &amp; Ssipak</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>애니메이션,코미디,액션,SF,범죄</td>
+					<td>단역-보자기 역(목소리)</td>
+					<td>0</td>
+					<td>107,154</td>
+					<td>640,353,800</td>
+					<td>100,090</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

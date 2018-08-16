@@ -1,0 +1,255 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '패트릭 버긴'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>위 맨</td>
+					<td>The Wee Man</td>
+					<td>2013</td>
+					<td>영국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>270,000</td>
+					<td>54</td>
+					<td>270,000</td>
+					<td>54</td>
+				</tr>
+			
+				<tr>
+					<td>아이콘</td>
+					<td>Icon</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>리턴 투 아나콘다</td>
+					<td>Beneath Loch Ness</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>액션,공포(호러),스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아마존 글래디에이터</td>
+					<td>Amazons and Gladiators</td>
+					<td>2001</td>
+					<td>미국,독일</td>
+					<td>액션,어드벤처</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>웬 더 스카이 폴스</td>
+					<td>When The Sky Falls</td>
+					<td>2000</td>
+					<td>영국,아일랜드,미국</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>밀레니엄 벨로시티</td>
+					<td>Escape Velocity</td>
+					<td>1999</td>
+					<td>캐나다,체코</td>
+					<td>SF,스릴러</td>
+					<td>주연-콜역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>쥬라기 레전드</td>
+					<td>The Lost World</td>
+					<td>1998</td>
+					<td>캐나다,미국</td>
+					<td>어드벤처,SF</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>리퍼</td>
+					<td>The Ripper</td>
+					<td>1997</td>
+					<td>호주,미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>버드가의 섬</td>
+					<td>The Island On Bird Street </td>
+					<td>1997</td>
+					<td>독일,영국,덴마크</td>
+					<td>전쟁,드라마</td>
+					<td>주연-스테판 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>태양의 전사</td>
+					<td>Stolen Women</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>론머맨2</td>
+					<td>Lawnmower Man 2: Beyond Cyberspace</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>SF,스릴러,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>27</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>더블 크로스 </td>
+					<td>Double Cross</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>스릴러,드라마,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>533</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>소프트 디시트</td>
+					<td>Soft Deceit</td>
+					<td>1994</td>
+					<td>캐나다</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>치명적 유혹</td>
+					<td>Love Crimes</td>
+					<td>1992</td>
+					<td>미국</td>
+					<td>멜로/로맨스,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>적과의 동침</td>
+					<td>Sleeping With The Enemy</td>
+					<td>1991</td>
+					<td>미국</td>
+					<td>드라마,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>186,752</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>블랙 에이리언</td>
+					<td>The Alien Factor</td>
+					<td>1990</td>
+					<td>미국</td>
+					<td>공포(호러),SF</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>5,149</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

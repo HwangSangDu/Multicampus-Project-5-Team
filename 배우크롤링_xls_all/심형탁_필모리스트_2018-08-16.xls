@@ -1,0 +1,86 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '심형탁'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>극장판 도라에몽 : 진구의 우주영웅기~스페이스 히어로즈~</td>
+					<td>Doraemon The Movie: Nobita And The Space</td>
+					<td>2015</td>
+					<td>일본</td>
+					<td>애니메이션,SF,어드벤처</td>
+					<td>단역(목소리)</td>
+					<td>816,868,100</td>
+					<td>113,404</td>
+					<td>816,868,100</td>
+					<td>113,404</td>
+				</tr>
+			
+				<tr>
+					<td>연애술사</td>
+					<td>Love In Magic</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>단역</td>
+					<td>0</td>
+					<td>1,163,274</td>
+					<td>6,383,653,500</td>
+					<td>1,014,372</td>
+				</tr>
+			
+				<tr>
+					<td>인형사</td>
+					<td>The Doll Master</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>공포(호러)</td>
+					<td>주연-태승역</td>
+					<td>0</td>
+					<td>339,038</td>
+					<td>1,324,401,000</td>
+					<td>214,709</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

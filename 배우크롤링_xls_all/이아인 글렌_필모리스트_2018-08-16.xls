@@ -1,0 +1,112 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '이아인 글렌'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>레지던트 이블: 파멸의 날</td>
+					<td>Resident Evil: The Final Chapter</td>
+					<td>2016</td>
+					<td>미국,독일,호주,캐나다,프랑스</td>
+					<td>액션,공포(호러),SF,스릴러</td>
+					<td>주연</td>
+					<td>6,422,202,365</td>
+					<td>765,259</td>
+					<td>6,422,202,365</td>
+					<td>765,259</td>
+				</tr>
+			
+				<tr>
+					<td>아이 인 더 스카이</td>
+					<td>EYE IN THE SKY</td>
+					<td>2015</td>
+					<td>영국</td>
+					<td>전쟁,스릴러</td>
+					<td>조연</td>
+					<td>118,481,200</td>
+					<td>15,571</td>
+					<td>118,961,200</td>
+					<td>15,631</td>
+				</tr>
+			
+				<tr>
+					<td>스파이 조르게</td>
+					<td>Spy Sorge</td>
+					<td>2003</td>
+					<td>일본,독일</td>
+					<td>액션,스릴러,전쟁</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>가브리엘과 나</td>
+					<td>Gabriel &amp; Me</td>
+					<td>2001</td>
+					<td>영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>파라노이드</td>
+					<td>Paranoid</td>
+					<td>2000</td>
+					<td>영국</td>
+					<td>스릴러</td>
+					<td>주연-스탠역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

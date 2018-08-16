@@ -1,0 +1,437 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '류승룡'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>7년의 밤</td>
+					<td>Seven Years of Night</td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>스릴러,드라마</td>
+					<td>주연-최현수역</td>
+					<td>3,969,375,524</td>
+					<td>528,014</td>
+					<td>3,969,337,524</td>
+					<td>528,007</td>
+				</tr>
+			
+				<tr>
+					<td>극한직업</td>
+					<td></td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>염력</td>
+					<td>Psychokinesis</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>주연-신석헌역</td>
+					<td>7,484,684,112</td>
+					<td>990,111</td>
+					<td>7,484,684,112</td>
+					<td>990,111</td>
+				</tr>
+			
+				<tr>
+					<td>제5열</td>
+					<td></td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>서울역</td>
+					<td>Seoul Station</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td>1,162,471,562</td>
+					<td>147,031</td>
+					<td>1,162,471,562</td>
+					<td>147,031</td>
+				</tr>
+			
+				<tr>
+					<td>도리화가</td>
+					<td>THE SOUND OF A FLOWER</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>사극,드라마</td>
+					<td>주연-신재효역</td>
+					<td>2,246,950,339</td>
+					<td>317,505</td>
+					<td>2,246,950,339</td>
+					<td>317,505</td>
+				</tr>
+			
+				<tr>
+					<td>손님</td>
+					<td>The Piper</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>판타지,공포(호러)</td>
+					<td>주연</td>
+					<td>6,385,937,880</td>
+					<td>828,025</td>
+					<td>6,385,937,880</td>
+					<td>828,025</td>
+				</tr>
+			
+				<tr>
+					<td>리오 2</td>
+					<td>Rio 2</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>애니메이션,코미디,어드벤처</td>
+					<td>주연-나이젤역(목소리)</td>
+					<td>5,668,239,900</td>
+					<td>765,713</td>
+					<td>5,669,231,900</td>
+					<td>765,961</td>
+				</tr>
+			
+				<tr>
+					<td>표적</td>
+					<td>The Target</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>액션,드라마</td>
+					<td>주연-여훈 역</td>
+					<td>22,256,359,300</td>
+					<td>2,841,788</td>
+					<td>22,256,769,300</td>
+					<td>2,841,828</td>
+				</tr>
+			
+				<tr>
+					<td>명량</td>
+					<td>Roaring Currents</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>사극,액션</td>
+					<td>주연-구루지마 역</td>
+					<td>135,748,398,910</td>
+					<td>17,613,682</td>
+					<td>135,754,920,310</td>
+					<td>17,615,314</td>
+				</tr>
+			
+				<tr>
+					<td>캡틴 하록</td>
+					<td>Harlock : Space Pirate</td>
+					<td>2013</td>
+					<td>일본</td>
+					<td>애니메이션,어드벤처,SF</td>
+					<td>주연-하록역(목소리)</td>
+					<td>134,005,500</td>
+					<td>17,977</td>
+					<td>134,005,500</td>
+					<td>17,977</td>
+				</tr>
+			
+				<tr>
+					<td>7번방의 선물</td>
+					<td>Miracle in Cell No.7</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>주연-용구역</td>
+					<td>91,431,914,670</td>
+					<td>12,811,206</td>
+					<td>91,433,282,670</td>
+					<td>12,811,435</td>
+				</tr>
+			
+				<tr>
+					<td>가디언즈</td>
+					<td>Rise of the Guardians</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>애니메이션,어드벤처</td>
+					<td>주연-놀스역(목소리)</td>
+					<td>8,212,243,000</td>
+					<td>1,075,584</td>
+					<td>8,245,266,000</td>
+					<td>1,081,096</td>
+				</tr>
+			
+				<tr>
+					<td>광해, 왕이 된 남자</td>
+					<td>Masquerade</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>사극,드라마</td>
+					<td>주연-허균역</td>
+					<td>88,900,208,769</td>
+					<td>12,319,542</td>
+					<td>88,909,386,769</td>
+					<td>12,323,595</td>
+				</tr>
+			
+				<tr>
+					<td>내 아내의 모든 것</td>
+					<td>All About My Wife</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연-성기역</td>
+					<td>34,222,160,500</td>
+					<td>4,598,583</td>
+					<td>34,224,467,500</td>
+					<td>4,598,985</td>
+				</tr>
+			
+				<tr>
+					<td>사랑오감</td>
+					<td></td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>최종병기 활 감독확장판</td>
+					<td>War of the Arrows (Director&#039;s Cut)</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>사극,액션</td>
+					<td>주연</td>
+					<td>86,374,000</td>
+					<td>11,547</td>
+					<td>86,374,000</td>
+					<td>11,547</td>
+				</tr>
+			
+				<tr>
+					<td>최종병기 활</td>
+					<td>War of the Arrows</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>사극,액션</td>
+					<td>주연-쥬신타역</td>
+					<td>55,827,861,500</td>
+					<td>7,470,633</td>
+					<td>55,827,861,500</td>
+					<td>7,470,633</td>
+				</tr>
+			
+				<tr>
+					<td>고지전</td>
+					<td>The Front Line</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마,전쟁</td>
+					<td>주연-현정윤역</td>
+					<td>21,968,557,600</td>
+					<td>2,945,137</td>
+					<td>21,968,680,600</td>
+					<td>2,945,151</td>
+				</tr>
+			
+				<tr>
+					<td>지구대표 롤링스타즈</td>
+					<td>Rolling Stars: The Greatest Space Baseball Competition</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>애니메이션</td>
+					<td>주연-럭키의 아빠 빅역(목소리)</td>
+					<td>230,047,000</td>
+					<td>35,578</td>
+					<td>230,047,000</td>
+					<td>35,578</td>
+				</tr>
+			
+				<tr>
+					<td>아이들...</td>
+					<td>Children...</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>범죄,스릴러</td>
+					<td>주연-황우혁역</td>
+					<td>13,579,712,500</td>
+					<td>1,867,849</td>
+					<td>13,579,712,500</td>
+					<td>1,867,849</td>
+				</tr>
+			
+				<tr>
+					<td>평양성</td>
+					<td>Battlefield Heroes</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>전쟁,코미디,드라마</td>
+					<td>주연-연개소문의 둘째 아들, 남건역</td>
+					<td>12,684,530,500</td>
+					<td>1,717,566</td>
+					<td>12,684,530,500</td>
+					<td>1,717,566</td>
+				</tr>
+			
+				<tr>
+					<td>퀴즈왕</td>
+					<td>The Quiz Show Scandal</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연-김상도역</td>
+					<td>4,258,992,759</td>
+					<td>583,183</td>
+					<td>4,188,846,000</td>
+					<td>573,001</td>
+				</tr>
+			
+				<tr>
+					<td>베스트셀러</td>
+					<td>Bestseller</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>미스터리,스릴러,드라마</td>
+					<td>조연</td>
+					<td>8,110,824,681</td>
+					<td>1,099,665</td>
+					<td>7,983,184,500</td>
+					<td>1,081,752</td>
+				</tr>
+			
+				<tr>
+					<td>된장</td>
+					<td>The Recipe</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>미스터리,드라마</td>
+					<td>주연-최유진역</td>
+					<td>339,506,355</td>
+					<td>45,896</td>
+					<td>334,295,900</td>
+					<td>45,180</td>
+				</tr>
+			
+				<tr>
+					<td>시크릿</td>
+					<td>Secret</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>스릴러,드라마,미스터리</td>
+					<td>주연-재칼역</td>
+					<td>7,979,591,607</td>
+					<td>1,046,787</td>
+					<td>7,957,651,500</td>
+					<td>1,043,602</td>
+				</tr>
+			
+				<tr>
+					<td>불신지옥</td>
+					<td>Possessed</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>미스터리,공포(호러)</td>
+					<td>주연-태환역</td>
+					<td>1,818,156,353</td>
+					<td>251,314</td>
+					<td>1,795,789,500</td>
+					<td>248,291</td>
+				</tr>
+			
+				<tr>
+					<td>열한번째 엄마</td>
+					<td>My 11th Mother</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>350,204</td>
+					<td>2,069,922,500</td>
+					<td>337,700</td>
+				</tr>
+			
+				<tr>
+					<td>황진이</td>
+					<td>Hwang Jin Yi</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>조연-희열역</td>
+					<td>0</td>
+					<td>1,270,644</td>
+					<td>7,764,369,000</td>
+					<td>1,191,810</td>
+				</tr>
+			
+				<tr>
+					<td>다섯 개의 시선</td>
+					<td>If You Were Me </td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>다큐멘터리</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>12,621</td>
+					<td>43,699,000</td>
+					<td>6,593</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

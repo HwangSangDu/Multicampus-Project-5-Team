@@ -1,0 +1,606 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '이범수'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>자전차왕 엄복동</td>
+					<td></td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>작쩐</td>
+					<td>Foolish Plan</td>
+					<td>2016</td>
+					<td>중국</td>
+					<td>액션,코미디</td>
+					<td>주연</td>
+					<td>89,000</td>
+					<td>37</td>
+					<td>89,000</td>
+					<td>37</td>
+				</tr>
+			
+				<tr>
+					<td>인천상륙작전 : 익스텐디드 에디션(확장판)</td>
+					<td>Operation Chromite </td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>전쟁,드라마</td>
+					<td>주연-림계진역</td>
+					<td>220,051,200</td>
+					<td>27,070</td>
+					<td>220,051,200</td>
+					<td>27,070</td>
+				</tr>
+			
+				<tr>
+					<td>인천상륙작전</td>
+					<td>Operation Chromite </td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>전쟁,드라마</td>
+					<td>주연-림계진역</td>
+					<td>55,101,410,303</td>
+					<td>7,049,643</td>
+					<td>55,105,606,303</td>
+					<td>7,050,475</td>
+				</tr>
+			
+				<tr>
+					<td>순정</td>
+					<td>UNFORGETTABLE</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역</td>
+					<td>1,738,293,033</td>
+					<td>240,484</td>
+					<td>1,739,006,033</td>
+					<td>240,592</td>
+				</tr>
+			
+				<tr>
+					<td>뷰티 인사이드</td>
+					<td>The Beauty Inside</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>판타지,멜로/로맨스</td>
+					<td>주연-우진45역</td>
+					<td>16,155,795,131</td>
+					<td>2,054,297</td>
+					<td>16,184,831,031</td>
+					<td>2,057,896</td>
+				</tr>
+			
+				<tr>
+					<td>신의 한 수</td>
+					<td>The Divine Move</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>범죄,액션</td>
+					<td>주연</td>
+					<td>28,810,921,456</td>
+					<td>3,566,336</td>
+					<td>28,812,027,456</td>
+					<td>3,566,852</td>
+				</tr>
+			
+				<tr>
+					<td>꼭두각시</td>
+					<td></td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>기타</td>
+					<td>감독</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>세개의 거울</td>
+					<td></td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>감독</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아이리스 2 : 더 무비</td>
+					<td>Iris 2</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>드라마,액션,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>시체가 돌아왔다</td>
+					<td>Over My Dead Body </td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>범죄,드라마</td>
+					<td>주연-백현철역</td>
+					<td>7,360,631,000</td>
+					<td>986,923</td>
+					<td>7,360,631,000</td>
+					<td>986,923</td>
+				</tr>
+			
+				<tr>
+					<td>홍길동의 후예</td>
+					<td>The Righteous Thief</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>액션,코미디,드라마</td>
+					<td>주연-홍무혁 역</td>
+					<td>4,293,061,087</td>
+					<td>616,654</td>
+					<td>4,259,705,000</td>
+					<td>612,126</td>
+				</tr>
+			
+				<tr>
+					<td>정승필 실종사건</td>
+					<td>The Weird Missing Case Of Mr.J</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연-정승필 역</td>
+					<td>2,321,588,076</td>
+					<td>322,459</td>
+					<td>2,296,093,000</td>
+					<td>318,852</td>
+				</tr>
+			
+				<tr>
+					<td>킹콩을 들다</td>
+					<td>Lifting Kingkong</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-이지봉역</td>
+					<td>8,597,263,166</td>
+					<td>1,277,800</td>
+					<td>8,851,802,500</td>
+					<td>1,262,858</td>
+				</tr>
+			
+				<tr>
+					<td>슬픔보다 더 슬픈 이야기</td>
+					<td>More Than Blue</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연-주환역</td>
+					<td>4,774,850,499</td>
+					<td>724,107</td>
+					<td>4,724,214,000</td>
+					<td>715,800</td>
+				</tr>
+			
+				<tr>
+					<td>고死 : 피의 중간고사</td>
+					<td>Death Bell</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td>10,299,976,000</td>
+					<td>1,634,051</td>
+					<td>10,300,791,000</td>
+					<td>1,634,192</td>
+				</tr>
+			
+				<tr>
+					<td>조폭마누라3</td>
+					<td>My Wife is a Gangster 3 : HK Edition</td>
+					<td>2006</td>
+					<td>한국,홍콩</td>
+					<td>액션,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,690,465</td>
+					<td>8,851,336,500</td>
+					<td>1,468,191</td>
+				</tr>
+			
+				<tr>
+					<td>잘 살아보세</td>
+					<td>Mission Sex Control</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>275,739</td>
+					<td>1,415,274,100</td>
+					<td>236,799</td>
+				</tr>
+			
+				<tr>
+					<td>짝패</td>
+					<td>The City Of Violence</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,196,520</td>
+					<td>6,585,376,300</td>
+					<td>1,021,638</td>
+				</tr>
+			
+				<tr>
+					<td>음란서생</td>
+					<td>Forbidden Quest</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>사극,코미디</td>
+					<td>주연-의금부 도사 광헌역</td>
+					<td>0</td>
+					<td>2,576,022</td>
+					<td>14,944,551,700</td>
+					<td>2,304,368</td>
+				</tr>
+			
+				<tr>
+					<td>이대로, 죽을 순 없다(Short Time)</td>
+					<td>Short Time</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>838,419</td>
+					<td>4,266,661,500</td>
+					<td>679,352</td>
+				</tr>
+			
+				<tr>
+					<td>잠복근무</td>
+					<td>She&#039;s on Duty</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>코미디,액션</td>
+					<td>조연</td>
+					<td>0</td>
+					<td>1,914,941</td>
+					<td>9,590,663,500</td>
+					<td>1,533,225</td>
+				</tr>
+			
+				<tr>
+					<td>슈퍼스타 감사용</td>
+					<td>Mr. Gam’s Victory</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>834,706</td>
+					<td>4,073,017,000</td>
+					<td>627,199</td>
+				</tr>
+			
+				<tr>
+					<td>안녕! 유에프오</td>
+					<td>Au Revoir, UFO</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>180,513</td>
+					<td>250,534,000</td>
+					<td>40,361</td>
+				</tr>
+			
+				<tr>
+					<td>오! 브라더스</td>
+					<td>Oh! Brothers</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>3,148,748</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>싱글즈</td>
+					<td>Singles</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td>2,203,042</td>
+					<td>234,500</td>
+					<td>42</td>
+				</tr>
+			
+				<tr>
+					<td>몽정기</td>
+					<td>Wet Dreams</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td>763,190</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>일단뛰어</td>
+					<td>Make It Big</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>액션,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td>220,205</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>정글쥬스</td>
+					<td>Jungle Juice</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>액션,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td>286,270</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>봄날은 간다</td>
+					<td>One Fine Spring Day</td>
+					<td>2001</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>376,642</td>
+					<td>14,433,500</td>
+					<td>2,448</td>
+				</tr>
+			
+				<tr>
+					<td>베리 굿</td>
+					<td>VERY GOOD</td>
+					<td>2001</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>하면 된다</td>
+					<td>Just Do It</td>
+					<td>2000</td>
+					<td>한국</td>
+					<td>범죄,코미디</td>
+					<td>주연-원광태역</td>
+					<td>0</td>
+					<td>126,368</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아나키스트</td>
+					<td>The Anarchists</td>
+					<td>2000</td>
+					<td>한국</td>
+					<td>사극,액션</td>
+					<td>조연-돌석역</td>
+					<td>0</td>
+					<td>236,990</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>러브(LOVE)</td>
+					<td>Love</td>
+					<td>1999</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연-경철역</td>
+					<td>0</td>
+					<td>145,242</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>신장개업</td>
+					<td>A Growing Business</td>
+					<td>1999</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>조연-팔봉역</td>
+					<td>0</td>
+					<td>100,915</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>태양은 없다</td>
+					<td>City of The Rising Sun</td>
+					<td>1998</td>
+					<td>한국</td>
+					<td>드라마,액션</td>
+					<td>조연-병국역</td>
+					<td>0</td>
+					<td>329,778</td>
+					<td>0</td>
+					<td>0</td>
+				</tr>
+			
+				<tr>
+					<td>해가 서쪽에서 뜬다면</td>
+					<td>If the sun rises in the West</td>
+					<td>1998</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>145,752</td>
+					<td>0</td>
+					<td>0</td>
+				</tr>
+			
+				<tr>
+					<td>남자의 향기</td>
+					<td>Scent of a Man</td>
+					<td>1998</td>
+					<td>한국</td>
+					<td>멜로/로맨스,액션</td>
+					<td>단역</td>
+					<td>0</td>
+					<td>148,781</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>퇴마록</td>
+					<td>The Soul Guardians</td>
+					<td>1998</td>
+					<td>한국</td>
+					<td>SF,공포(호러),미스터리</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>419,201</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>접속</td>
+					<td>The Contact</td>
+					<td>1997</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>조연</td>
+					<td>0</td>
+					<td>674,933</td>
+					<td>2,833,000</td>
+					<td>360</td>
+				</tr>
+			
+				<tr>
+					<td>고스트 맘마</td>
+					<td>Ghost Mamma</td>
+					<td>1996</td>
+					<td>한국</td>
+					<td>멜로/로맨스,가족</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>257,688</td>
+					<td>20,000</td>
+					<td>4</td>
+				</tr>
+			
+				<tr>
+					<td>은행나무 침대</td>
+					<td>The Gingko Bed</td>
+					<td>1996</td>
+					<td>한국</td>
+					<td>판타지,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>452,580</td>
+					<td>70,000</td>
+					<td>9</td>
+				</tr>
+			
+				<tr>
+					<td>그래 가끔 하늘을 보자</td>
+					<td>Let&#039;S Look At The Sky Sometimes</td>
+					<td>1990</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>53,292</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

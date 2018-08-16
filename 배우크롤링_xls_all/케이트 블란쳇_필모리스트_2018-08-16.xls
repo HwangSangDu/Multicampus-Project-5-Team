@@ -1,0 +1,515 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '케이트 블란쳇'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>오션스8</td>
+					<td>Ocean&#039;s 8</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>액션,범죄</td>
+					<td>주연</td>
+					<td>10,978,328,166</td>
+					<td>1,252,385</td>
+					<td>11,700,157,266</td>
+					<td>1,335,829</td>
+				</tr>
+			
+				<tr>
+					<td>드래곤 길들이기 3</td>
+					<td>How to Train Your Dragon 3</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>애니메이션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>토르: 라그나로크</td>
+					<td>THOR: RAGNAROK</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지,SF</td>
+					<td>주연</td>
+					<td>39,248,432,595</td>
+					<td>4,857,152</td>
+					<td>39,251,492,595</td>
+					<td>4,857,458</td>
+				</tr>
+			
+				<tr>
+					<td>매니페스토</td>
+					<td>Manifesto</td>
+					<td>2016</td>
+					<td>독일,호주</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,461,000</td>
+					<td>173</td>
+				</tr>
+			
+				<tr>
+					<td>트루스</td>
+					<td>Truth</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>151,967,000</td>
+					<td>19,315</td>
+					<td>152,153,000</td>
+					<td>19,340</td>
+				</tr>
+			
+				<tr>
+					<td>캐롤</td>
+					<td>Carol</td>
+					<td>2015</td>
+					<td>미국,영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>2,646,185,616</td>
+					<td>319,407</td>
+					<td>2,666,013,753</td>
+					<td>321,913</td>
+				</tr>
+			
+				<tr>
+					<td>나이트 오브 컵스</td>
+					<td>Knight of Cups</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>21,438,500</td>
+					<td>2,844</td>
+					<td>21,438,500</td>
+					<td>2,844</td>
+				</tr>
+			
+				<tr>
+					<td>신데렐라</td>
+					<td>Cinderella</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>5,499,767,900</td>
+					<td>716,386</td>
+					<td>5,500,502,900</td>
+					<td>716,491</td>
+				</tr>
+			
+				<tr>
+					<td>호빗: 다섯 군대 전투</td>
+					<td>The Hobbit: The Battle of the Five Armies</td>
+					<td>2014</td>
+					<td>미국,뉴질랜드</td>
+					<td>어드벤처,판타지</td>
+					<td>주연</td>
+					<td>24,268,487,685</td>
+					<td>2,836,774</td>
+					<td>24,268,487,685</td>
+					<td>2,836,774</td>
+				</tr>
+			
+				<tr>
+					<td>드래곤 길들이기 2</td>
+					<td>How To Train Your Dragon 2</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>애니메이션,액션,어드벤처</td>
+					<td>주연(목소리)</td>
+					<td>23,979,935,189</td>
+					<td>3,000,056</td>
+					<td>23,980,525,189</td>
+					<td>3,000,115</td>
+				</tr>
+			
+				<tr>
+					<td>모뉴먼츠 맨: 세기의 작전</td>
+					<td>The Monuments Men</td>
+					<td>2014</td>
+					<td>미국,독일</td>
+					<td>액션,드라마</td>
+					<td>주연</td>
+					<td>534,041,027</td>
+					<td>71,483</td>
+					<td>534,041,027</td>
+					<td>71,483</td>
+				</tr>
+			
+				<tr>
+					<td>호빗: 스마우그의 폐허</td>
+					<td>The Hobbit: The Desolation of Smaug</td>
+					<td>2013</td>
+					<td>미국,뉴질랜드</td>
+					<td>어드벤처,드라마,판타지</td>
+					<td>주연</td>
+					<td>17,850,613,316</td>
+					<td>2,282,744</td>
+					<td>17,850,613,316</td>
+					<td>2,282,744</td>
+				</tr>
+			
+				<tr>
+					<td>블루 재스민</td>
+					<td>Blue Jasmine</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>1,030,316,900</td>
+					<td>140,350</td>
+					<td>1,059,327,500</td>
+					<td>144,664</td>
+				</tr>
+			
+				<tr>
+					<td>호빗: 뜻밖의 여정</td>
+					<td>The Hobbit: An Unexpected Journey</td>
+					<td>2012</td>
+					<td>미국,뉴질랜드</td>
+					<td>어드벤처,판타지</td>
+					<td>주연</td>
+					<td>23,436,820,716</td>
+					<td>2,818,993</td>
+					<td>23,436,820,716</td>
+					<td>2,818,993</td>
+				</tr>
+			
+				<tr>
+					<td>한나</td>
+					<td>Hanna</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연-마리사역</td>
+					<td>1,570,759,500</td>
+					<td>208,912</td>
+					<td>1,570,759,500</td>
+					<td>208,912</td>
+				</tr>
+			
+				<tr>
+					<td>로빈 후드</td>
+					<td>Robin Hood</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>액션,드라마,사극</td>
+					<td>주연</td>
+					<td>11,746,340,129</td>
+					<td>1,596,574</td>
+					<td>11,560,588,500</td>
+					<td>1,570,681</td>
+				</tr>
+			
+				<tr>
+					<td>벤자민 버튼의 시간은 거꾸로 간다</td>
+					<td>The Curious Case Of Benjamin Button</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>드라마,판타지</td>
+					<td>주연-데이시역</td>
+					<td>11,603,912,005</td>
+					<td>1,767,051</td>
+					<td>11,483,704,300</td>
+					<td>1,747,305</td>
+				</tr>
+			
+				<tr>
+					<td>아임 낫 데어</td>
+					<td>I`M Not There</td>
+					<td>2007</td>
+					<td>미국,독일</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>175,924,500</td>
+					<td>26,117</td>
+					<td>183,029,300</td>
+					<td>26,615</td>
+				</tr>
+			
+				<tr>
+					<td>골든 에이지</td>
+					<td>The Golden Age</td>
+					<td>2007</td>
+					<td>영국</td>
+					<td>드라마,사극</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>189,348</td>
+					<td>1,094,677,500</td>
+					<td>173,887</td>
+				</tr>
+			
+				<tr>
+					<td>바벨</td>
+					<td>Babel</td>
+					<td>2006</td>
+					<td>멕시코,프랑스,미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>229,144</td>
+					<td>1,393,448,500</td>
+					<td>217,083</td>
+				</tr>
+			
+				<tr>
+					<td>굿 저먼</td>
+					<td>The Good German</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>드라마,미스터리,스릴러,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스캔들 노트</td>
+					<td>Notes On A Scandal</td>
+					<td>2006</td>
+					<td>영국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>리틀 피쉬</td>
+					<td>Little Fish</td>
+					<td>2005</td>
+					<td>호주</td>
+					<td>범죄,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>에비에이터</td>
+					<td>The Aviator</td>
+					<td>2004</td>
+					<td>독일</td>
+					<td>드라마,어드벤처,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>715,763</td>
+					<td>3,953,937,000</td>
+					<td>616,072</td>
+				</tr>
+			
+				<tr>
+					<td>스티브 지소와의 해저 생활</td>
+					<td>The Life Aquatic With Steve Zissou</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>코미디,어드벤처,판타지</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>반지의 제왕 : 왕의 귀환 (확장판)</td>
+					<td>The Lord of the Rings: The Return of the King </td>
+					<td>2003</td>
+					<td>뉴질랜드,미국</td>
+					<td>판타지,어드벤처,액션</td>
+					<td>주연-갈라드리엘 역역</td>
+					<td>370,268,000</td>
+					<td>30,349</td>
+					<td>370,268,000</td>
+					<td>30,349</td>
+				</tr>
+			
+				<tr>
+					<td>베로니카 게린</td>
+					<td>Veronica Guerin</td>
+					<td>2003</td>
+					<td>아일랜드</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>233</td>
+					<td>1,466,500</td>
+					<td>223</td>
+				</tr>
+			
+				<tr>
+					<td>실종</td>
+					<td>The Missing</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>조연</td>
+					<td>0</td>
+					<td>3,511</td>
+					<td>5,252,000</td>
+					<td>856</td>
+				</tr>
+			
+				<tr>
+					<td>반지의 제왕 : 두개의 탑 (확장판)</td>
+					<td>The Lord Of The Rings : The Two Towers</td>
+					<td>2002</td>
+					<td>뉴질랜드,미국</td>
+					<td>판타지,어드벤처,액션</td>
+					<td>주연-갈라드리엘 역역</td>
+					<td>350,183,800</td>
+					<td>27,440</td>
+					<td>350,183,800</td>
+					<td>27,440</td>
+				</tr>
+			
+				<tr>
+					<td>헤븐</td>
+					<td>Heaven</td>
+					<td>2002</td>
+					<td>미국,영국,프랑스,이탈리아,독일</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>231,000</td>
+					<td>77</td>
+				</tr>
+			
+				<tr>
+					<td>반지의 제왕 : 반지원정대 (확장판)</td>
+					<td>The Lord Of The Rings : The Fellowship Of The Rings</td>
+					<td>2001</td>
+					<td>뉴질랜드,미국</td>
+					<td>판타지,어드벤처,액션</td>
+					<td>주연-갈라드리엘 역역</td>
+					<td>470,027,900</td>
+					<td>35,758</td>
+					<td>470,027,900</td>
+					<td>35,758</td>
+				</tr>
+			
+				<tr>
+					<td>샬롯트 그레이 </td>
+					<td>Charlotte Gray</td>
+					<td>2001</td>
+					<td>영국,호주,독일</td>
+					<td>멜로/로맨스,스릴러,전쟁</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>더 기프트</td>
+					<td>The Gift</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>60,114</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>피아노 2</td>
+					<td>The Man Who Cried</td>
+					<td>2000</td>
+					<td>영국,프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>이상적인 남편</td>
+					<td>An Ideal Husband</td>
+					<td>1999</td>
+					<td>영국,미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>엘리자베스</td>
+					<td>Elizabeth</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>드라마,사극</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>43,508</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,216 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '조안'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>늙은 자전거</td>
+					<td>Old Bicycle</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마,가족</td>
+					<td>주연</td>
+					<td>23,988,800</td>
+					<td>4,687</td>
+					<td>25,655,800</td>
+					<td>4,963</td>
+				</tr>
+			
+				<tr>
+					<td>소리굽쇠</td>
+					<td>Tuning Fork</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마,미스터리</td>
+					<td>주연</td>
+					<td>24,048,800</td>
+					<td>3,051</td>
+					<td>24,111,800</td>
+					<td>3,060</td>
+				</tr>
+			
+				<tr>
+					<td>공범</td>
+					<td>Blood and Ties</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>스릴러,드라마</td>
+					<td>조연-보라역</td>
+					<td>12,333,110,882</td>
+					<td>1,766,285</td>
+					<td>12,333,110,882</td>
+					<td>1,766,285</td>
+				</tr>
+			
+				<tr>
+					<td>마이 리틀 히어로</td>
+					<td>A Wonderful Moment</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-나성희역</td>
+					<td>1,302,907,128</td>
+					<td>185,978</td>
+					<td>1,303,507,128</td>
+					<td>186,078</td>
+				</tr>
+			
+				<tr>
+					<td>바다위의 피아노</td>
+					<td>A Piano on the Sea</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연-은지역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>나쁜 놈이 더 잘 잔다</td>
+					<td>A Good Night&#039;s Sleep for the Bad</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마,범죄</td>
+					<td>주연-해경역</td>
+					<td>12,507,881</td>
+					<td>1,693</td>
+					<td>12,311,500</td>
+					<td>1,666</td>
+				</tr>
+			
+				<tr>
+					<td>헬로우 마이 러브</td>
+					<td>Hello My Love</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마,코미디</td>
+					<td>주연-김호정 역</td>
+					<td>80,734,606</td>
+					<td>10,905</td>
+					<td>79,848,000</td>
+					<td>10,783</td>
+				</tr>
+			
+				<tr>
+					<td>킹콩을 들다</td>
+					<td>Lifting Kingkong</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-박영자역</td>
+					<td>8,597,263,166</td>
+					<td>1,277,800</td>
+					<td>8,851,802,500</td>
+					<td>1,262,858</td>
+				</tr>
+			
+				<tr>
+					<td>나도 모르게</td>
+					<td>Out of My Intention</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,998,000</td>
+					<td>514</td>
+				</tr>
+			
+				<tr>
+					<td>어린 왕자</td>
+					<td>The Little Prince</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>493,292,500</td>
+					<td>84,015</td>
+					<td>493,278,500</td>
+					<td>83,354</td>
+				</tr>
+			
+				<tr>
+					<td>므이</td>
+					<td>Muoi: The Legend Of A Portrait</td>
+					<td>2007</td>
+					<td>한국,베트남</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>180,999</td>
+					<td>1,067,080,000</td>
+					<td>165,773</td>
+				</tr>
+			
+				<tr>
+					<td>언니가 간다</td>
+					<td>Project Makeover</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>174,543</td>
+					<td>947,570,700</td>
+					<td>160,315</td>
+				</tr>
+			
+				<tr>
+					<td>여고괴담 세번째 이야기: 여우계단</td>
+					<td>Wishing Stairs</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,784,479</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

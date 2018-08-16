@@ -1,0 +1,151 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '오다 유지'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>내 아내와 결혼해 주세요</td>
+					<td>Will You Marry My Wife?</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연-미무라 슈지 역역</td>
+					<td>20,508,000</td>
+					<td>2,676</td>
+					<td>20,508,000</td>
+					<td>2,676</td>
+				</tr>
+			
+				<tr>
+					<td>아말피 여신의 보수</td>
+					<td>Amalfi: Rewards of the Goddess</td>
+					<td>2009</td>
+					<td>일본</td>
+					<td>스릴러,미스터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>현청의 별</td>
+					<td>Star Reformer</td>
+					<td>2005</td>
+					<td>일본</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>춤추는 대수사선 2</td>
+					<td>Bayside Shakedown The Movie 2</td>
+					<td>2003</td>
+					<td>일본</td>
+					<td>액션,범죄,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>151,823</td>
+					<td>129,612,500</td>
+					<td>19,882</td>
+				</tr>
+			
+				<tr>
+					<td>트라이</td>
+					<td>T.R.Y.</td>
+					<td>2003</td>
+					<td>일본</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>화이트 아웃</td>
+					<td>Whiteout</td>
+					<td>2000</td>
+					<td>일본</td>
+					<td>액션,범죄</td>
+					<td>주연-토가시 테루오역</td>
+					<td>0</td>
+					<td>56,986</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>춤추는 대수사선</td>
+					<td>Bayside Shakedown</td>
+					<td>1998</td>
+					<td>일본</td>
+					<td>범죄,액션,코미디</td>
+					<td>주연-아오시마역</td>
+					<td>0</td>
+					<td>300,767</td>
+					<td>0</td>
+					<td>0</td>
+				</tr>
+			
+				<tr>
+					<td>무사</td>
+					<td>SHOGUN&#039;S SHADOW</td>
+					<td>1989</td>
+					<td>일본</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>4,752</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

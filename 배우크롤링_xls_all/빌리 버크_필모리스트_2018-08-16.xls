@@ -1,0 +1,177 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '빌리 버크'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>더 머니</td>
+					<td>Highland Park</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>41,000</td>
+					<td>34</td>
+					<td>41,000</td>
+					<td>34</td>
+				</tr>
+			
+				<tr>
+					<td>용의자: 폭탄 테러를 막아라</td>
+					<td>Freaky Deaky</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>코미디,범죄,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>25,000</td>
+					<td>25</td>
+				</tr>
+			
+				<tr>
+					<td>제거자</td>
+					<td>Removal</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>1,638,000</td>
+					<td>359</td>
+					<td>1,638,000</td>
+					<td>359</td>
+				</tr>
+			
+				<tr>
+					<td>킬위드미</td>
+					<td>Untraceable</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>범죄,스릴러</td>
+					<td>주연-에릭 박스 형사 역</td>
+					<td>1,420,604,500</td>
+					<td>211,740</td>
+					<td>1,420,604,500</td>
+					<td>209,696</td>
+				</tr>
+			
+				<tr>
+					<td>피스트 오브 러브</td>
+					<td>Feast Of Love</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>7,000</td>
+					<td>1</td>
+					<td>7,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>로스트 정션</td>
+					<td>Lost Junction</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>드라마,스릴러,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>애프터 이미지</td>
+					<td>After Image</td>
+					<td>2000</td>
+					<td>영국,미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>코모도</td>
+					<td>Komodo</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>공포(호러),SF</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>돈 룩 다운</td>
+					<td>Don&#039;t Look Down</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>마피아</td>
+					<td>Jane Austen&#039;s Mafia!</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>코미디,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

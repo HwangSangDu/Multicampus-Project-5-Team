@@ -1,0 +1,190 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '이혜은'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>컴, 투게더</td>
+					<td>Come, Together</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>18,125,100</td>
+					<td>2,379</td>
+					<td>18,146,100</td>
+					<td>2,382</td>
+				</tr>
+			
+				<tr>
+					<td>그랑프리</td>
+					<td>Grand Prix</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-오강자역</td>
+					<td>1,241,827,441</td>
+					<td>170,446</td>
+					<td>1,219,746,000</td>
+					<td>167,024</td>
+				</tr>
+			
+				<tr>
+					<td>두 얼굴의 여친</td>
+					<td>Two Faces Of My Girlfriend</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>조연-구창 누나 영선역</td>
+					<td>0</td>
+					<td>762,112</td>
+					<td>4,586,849,000</td>
+					<td>700,417</td>
+				</tr>
+			
+				<tr>
+					<td>그해 여름</td>
+					<td>Once in a Summer</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>조연-엘레나역</td>
+					<td>0</td>
+					<td>336,065</td>
+					<td>1,744,090,200</td>
+					<td>290,564</td>
+				</tr>
+			
+				<tr>
+					<td>엄마</td>
+					<td>Long &amp; Winding Road</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-큰 딸역</td>
+					<td>0</td>
+					<td>197,793</td>
+					<td>978,382,500</td>
+					<td>161,780</td>
+				</tr>
+			
+				<tr>
+					<td>파출부, 아니다</td>
+					<td>Ain&#039;t no maid</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-노명숙역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>빨간 피터의 고백</td>
+					<td>Go back</td>
+					<td>2001</td>
+					<td>한국</td>
+					<td>미스터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>춘향뎐(春香傳)</td>
+					<td>Chunhyang</td>
+					<td>2000</td>
+					<td>한국</td>
+					<td>드라마,사극</td>
+					<td>조연-향단역</td>
+					<td>0</td>
+					<td>110,358</td>
+					<td>1,616,000</td>
+					<td>551</td>
+				</tr>
+			
+				<tr>
+					<td>인정사정 볼 것 없다</td>
+					<td>Nowhere To Hide</td>
+					<td>1999</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>단역-우 형사 동생 역</td>
+					<td>0</td>
+					<td>664,861</td>
+					<td>1,943,500</td>
+					<td>270</td>
+				</tr>
+			
+				<tr>
+					<td>파란대문</td>
+					<td>Birdcage Inn</td>
+					<td>1998</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>5,827</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>코르셋</td>
+					<td>Corset</td>
+					<td>1996</td>
+					<td>한국</td>
+					<td>코미디,멜로/로맨스,드라마</td>
+					<td>주연-공선주역</td>
+					<td>0</td>
+					<td>114,777</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

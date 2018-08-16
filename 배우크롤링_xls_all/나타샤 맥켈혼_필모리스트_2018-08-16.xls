@@ -1,0 +1,203 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '나타샤 맥켈혼'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>런던 타운</td>
+					<td>London Town</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>2,425,400</td>
+					<td>423</td>
+					<td>2,753,400</td>
+					<td>471</td>
+				</tr>
+			
+				<tr>
+					<td>문프린세스 : 문에이커의 비밀</td>
+					<td>The Secret Of Moonacre</td>
+					<td>2008</td>
+					<td>영국,프랑스</td>
+					<td>어드벤처,판타지</td>
+					<td>주연</td>
+					<td>2,260,376,662</td>
+					<td>365,525</td>
+					<td>2,227,357,000</td>
+					<td>360,195</td>
+				</tr>
+			
+				<tr>
+					<td>가이 X</td>
+					<td>Guy X</td>
+					<td>2005</td>
+					<td>캐나다,아이슬란드,영국</td>
+					<td>코미디,전쟁</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>레버레이션</td>
+					<td>Revelations</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>판타지,드라마,미스터리,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>라벤더의 연인들</td>
+					<td>Ladies In Lavender</td>
+					<td>2004</td>
+					<td>영국</td>
+					<td>드라마,미스터리,멜로/로맨스</td>
+					<td>주연-올가 다닐로프역</td>
+					<td>49,912,500</td>
+					<td>7,414</td>
+					<td>52,670,500</td>
+					<td>7,850</td>
+				</tr>
+			
+				<tr>
+					<td>솔라리스</td>
+					<td>Solaris</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>SF,드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>22,000</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>피어닷컴</td>
+					<td>Fear Dot Com</td>
+					<td>2002</td>
+					<td>독일</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>117,776</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>시티 오브 고스트</td>
+					<td>City Of Ghosts</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>범죄,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>킬링 미 소프트리</td>
+					<td>Killing Me Softly</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사랑의 고통이 사라지다</td>
+					<td>Love&#039;s Labour&#039;s Lost</td>
+					<td>2000</td>
+					<td>프랑스,영국,미국</td>
+					<td>멜로/로맨스,코미디,뮤지컬</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>콘테미네이티드 맨</td>
+					<td>Contaminated Man</td>
+					<td>2000</td>
+					<td>미국,영국,독일</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>댈러웨이 부인</td>
+					<td>Mrs. Dalloway</td>
+					<td>1997</td>
+					<td>영국</td>
+					<td>드라마</td>
+					<td>주연-어린 클라리사역</td>
+					<td>0</td>
+					<td>7,422</td>
+					<td>52,164,500</td>
+					<td>7,586</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

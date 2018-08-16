@@ -1,0 +1,164 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '톰 셀릭'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>크로스파이어 트레일</td>
+					<td>Crossfire Trail</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>액션,서부극(웨스턴)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사고뭉치 형사</td>
+					<td>Cop And Half</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>4,587</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>그 아버지에 그 아들</td>
+					<td>Folks</td>
+					<td>1992</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>6,341</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>서부의 사나이 퀴글리</td>
+					<td>Quigley Down Under</td>
+					<td>1990</td>
+					<td>미국</td>
+					<td>서부극(웨스턴)</td>
+					<td>주연-퀴글리 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아빠셋 엄마하나</td>
+					<td>3 MEN AND A LITTLE LADY</td>
+					<td>1987</td>
+					<td>미국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td>43,219</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>뉴욕 세남자와 아기</td>
+					<td>Three Men And  A Baby</td>
+					<td>1987</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연-피터 미첼역</td>
+					<td>0</td>
+					<td>21,034</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>에너미라인</td>
+					<td>Lassiter</td>
+					<td>1984</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>14,000</td>
+					<td>2</td>
+					<td>14,000</td>
+					<td>2</td>
+				</tr>
+			
+				<tr>
+					<td>로보 런어웨이</td>
+					<td>Runaway</td>
+					<td>1984</td>
+					<td>미국</td>
+					<td>SF,스릴러,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>로드 투 차이나</td>
+					<td>High Road To China</td>
+					<td>1983</td>
+					<td>미국</td>
+					<td>어드벤처,액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

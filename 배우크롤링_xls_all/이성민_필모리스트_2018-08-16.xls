@@ -1,0 +1,320 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '이성민'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>미스터 주(가제)</td>
+					<td>Mr.Zoo</td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>목격자</td>
+					<td>The Witness</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>3,409,198,700</td>
+					<td>393,089</td>
+				</tr>
+			
+				<tr>
+					<td>공작</td>
+					<td>The Spy Gone North</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>26,572,917,886</td>
+					<td>3,099,024</td>
+				</tr>
+			
+				<tr>
+					<td>바람 바람 바람</td>
+					<td>What a Man Wants</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>9,784,445,375</td>
+					<td>1,194,239</td>
+					<td>9,784,385,375</td>
+					<td>1,194,229</td>
+				</tr>
+			
+				<tr>
+					<td>마약왕</td>
+					<td>DRUG KING</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>범죄,드라마</td>
+					<td>조연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>리얼</td>
+					<td>REAL</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>주연-최진기역,조연-최진기 / 보리스역</td>
+					<td>3,357,312,530</td>
+					<td>470,105</td>
+					<td>3,357,612,530</td>
+					<td>470,135</td>
+				</tr>
+			
+				<tr>
+					<td>보안관</td>
+					<td>The Sheriff In Town</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>범죄,코미디</td>
+					<td>주연-대호역</td>
+					<td>20,844,405,409</td>
+					<td>2,588,617</td>
+					<td>20,844,488,409</td>
+					<td>2,588,628</td>
+				</tr>
+			
+				<tr>
+					<td>굿바이 싱글</td>
+					<td>Familyhood</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>단역-민호역</td>
+					<td>16,912,706,195</td>
+					<td>2,108,273</td>
+					<td>16,913,282,195</td>
+					<td>2,108,561</td>
+				</tr>
+			
+				<tr>
+					<td>검사외전</td>
+					<td>A Violent Prosecutor</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>범죄,코미디</td>
+					<td>조연-우종길역</td>
+					<td>77,319,445,264</td>
+					<td>9,707,158</td>
+					<td>77,320,403,264</td>
+					<td>9,707,581</td>
+				</tr>
+			
+				<tr>
+					<td>로봇, 소리</td>
+					<td>SORI: Voice from the Heart</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-해관역</td>
+					<td>3,519,595,560</td>
+					<td>476,665</td>
+					<td>3,519,595,560</td>
+					<td>476,665</td>
+				</tr>
+			
+				<tr>
+					<td>손님</td>
+					<td>The Piper</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>판타지,공포(호러)</td>
+					<td>주연-촌장역</td>
+					<td>6,385,937,880</td>
+					<td>828,025</td>
+					<td>6,385,937,880</td>
+					<td>828,025</td>
+				</tr>
+			
+				<tr>
+					<td>빅매치</td>
+					<td>Big Match</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>주연-최영호역</td>
+					<td>8,952,096,578</td>
+					<td>1,177,438</td>
+					<td>8,952,096,578</td>
+					<td>1,177,438</td>
+				</tr>
+			
+				<tr>
+					<td>군도: 민란의 시대</td>
+					<td>KUNDO : Age of the Rampant</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>사극,액션</td>
+					<td>조연-대호역(목소리)</td>
+					<td>36,987,755,999</td>
+					<td>4,774,895</td>
+					<td>36,990,394,499</td>
+					<td>4,775,811</td>
+				</tr>
+			
+				<tr>
+					<td>방황하는 칼날</td>
+					<td>Broken</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>범죄,스릴러</td>
+					<td>주연-장억관역</td>
+					<td>7,828,526,800</td>
+					<td>989,881</td>
+					<td>7,828,891,800</td>
+					<td>989,906</td>
+				</tr>
+			
+				<tr>
+					<td>관능의 법칙</td>
+					<td>Venus Talk</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>조연-이재호역</td>
+					<td>5,858,771,500</td>
+					<td>781,516</td>
+					<td>5,858,771,500</td>
+					<td>781,516</td>
+				</tr>
+			
+				<tr>
+					<td>변호인</td>
+					<td>The Attorney</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-이윤택역</td>
+					<td>82,871,759,300</td>
+					<td>11,374,610</td>
+					<td>82,872,378,788</td>
+					<td>11,374,879</td>
+				</tr>
+			
+				<tr>
+					<td>마이 리틀 히어로</td>
+					<td>A Wonderful Moment</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-강희석역</td>
+					<td>1,302,907,128</td>
+					<td>185,978</td>
+					<td>1,303,507,128</td>
+					<td>186,078</td>
+				</tr>
+			
+				<tr>
+					<td>베스트셀러</td>
+					<td>Bestseller</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>미스터리,스릴러,드라마</td>
+					<td>조연</td>
+					<td>8,110,824,681</td>
+					<td>1,099,665</td>
+					<td>7,983,184,500</td>
+					<td>1,081,752</td>
+				</tr>
+			
+				<tr>
+					<td>카페 느와르</td>
+					<td>Cafe Noir</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-미연 1 남편역</td>
+					<td>54,925,506</td>
+					<td>7,070</td>
+					<td>58,367,900</td>
+					<td>7,516</td>
+				</tr>
+			
+				<tr>
+					<td>비단구두</td>
+					<td>Silk Shoes</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>759</td>
+					<td>5,173,000</td>
+					<td>759</td>
+				</tr>
+			
+				<tr>
+					<td>블랙&amp;화이트</td>
+					<td>Black&amp;White</td>
+					<td>2001</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-도둑1역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

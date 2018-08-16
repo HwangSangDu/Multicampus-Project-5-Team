@@ -1,0 +1,86 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '모리쿠보 쇼타로'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>마징가 Z: 인피니티</td>
+					<td>MAZINGER Z / INFINITY</td>
+					<td>2018</td>
+					<td>일본</td>
+					<td>애니메이션,SF,액션</td>
+					<td>주연(목소리)</td>
+					<td>183,107,900</td>
+					<td>22,407</td>
+					<td>183,107,900</td>
+					<td>22,407</td>
+				</tr>
+			
+				<tr>
+					<td>극장판 메이저 : 우정의 강속구</td>
+					<td>Major: The Pitch of Friendship</td>
+					<td>2008</td>
+					<td>일본</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td>76,298,000</td>
+					<td>12,050</td>
+					<td>76,298,000</td>
+					<td>12,050</td>
+				</tr>
+			
+				<tr>
+					<td>파이널 판타지 7: 어드벤트 칠드런</td>
+					<td>Final Fantasy VII: Advent Children</td>
+					<td>2005</td>
+					<td>일본</td>
+					<td>애니메이션,액션,SF,판타지</td>
+					<td>주연(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

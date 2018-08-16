@@ -1,0 +1,138 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '최재환'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>성판17: 남자들의 17가지 성적 판타지</td>
+					<td></td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>799,000</td>
+					<td>139</td>
+					<td>799,000</td>
+					<td>139</td>
+				</tr>
+			
+				<tr>
+					<td>사랑에도 저작권이 있나요?</td>
+					<td></td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>8,000</td>
+					<td>1</td>
+					<td>8,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>저스트 프렌즈</td>
+					<td>Just friends</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>7,359,000</td>
+					<td>1,038</td>
+					<td>7,359,000</td>
+					<td>1,038</td>
+				</tr>
+			
+				<tr>
+					<td>가족계획</td>
+					<td>Family Plan</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>국가대표</td>
+					<td>Take Off</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마,액션,코미디</td>
+					<td>주연</td>
+					<td>60,896,633,308</td>
+					<td>8,487,894</td>
+					<td>57,570,773,000</td>
+					<td>8,035,181</td>
+				</tr>
+			
+				<tr>
+					<td>아기와 나</td>
+					<td>Baby And Me</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>조연</td>
+					<td>2,667,055,000</td>
+					<td>435,551</td>
+					<td>2,669,249,500</td>
+					<td>435,940</td>
+				</tr>
+			
+				<tr>
+					<td>숙명</td>
+					<td>Fate</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>드라마,액션</td>
+					<td>조연</td>
+					<td>5,680,873,500</td>
+					<td>858,215</td>
+					<td>5,680,873,500</td>
+					<td>846,903</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

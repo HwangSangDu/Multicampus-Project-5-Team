@@ -1,0 +1,255 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '대니 디어'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>어쌔신</td>
+					<td>Assassin</td>
+					<td>2014</td>
+					<td>영국</td>
+					<td>스릴러,액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>벤데타: 피의 복수</td>
+					<td>Vendetta</td>
+					<td>2013</td>
+					<td>영국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>50,000</td>
+					<td>10</td>
+					<td>50,000</td>
+					<td>10</td>
+				</tr>
+			
+				<tr>
+					<td>에이지 오브 히어로즈</td>
+					<td>Age Of Heroes</td>
+					<td>2011</td>
+					<td>영국</td>
+					<td>전쟁,액션</td>
+					<td>주연-밥 레인스역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>프리러너 </td>
+					<td>Freerunner</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>데블스 플레이그라운드</td>
+					<td>Devil&#039;s Playground</td>
+					<td>2010</td>
+					<td>영국</td>
+					<td>액션,공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>라스트 세븐: 지옥의 묵시록</td>
+					<td>The Last Seven</td>
+					<td>2010</td>
+					<td>영국</td>
+					<td>스릴러</td>
+					<td>조연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>맬리스 인 원더랜드 </td>
+					<td>Malice In Wonderland</td>
+					<td>2009</td>
+					<td>영국</td>
+					<td>드라마,멜로/로맨스,판타지,스릴러</td>
+					<td>주연-화이티 역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>데드맨 러닝</td>
+					<td>Dead Man Running</td>
+					<td>2009</td>
+					<td>영국</td>
+					<td>액션</td>
+					<td>주연-빙 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>시티래츠</td>
+					<td>City Rats</td>
+					<td>2009</td>
+					<td>영국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연-피트 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스트레이트헤드</td>
+					<td>Straightheads</td>
+					<td>2007</td>
+					<td>영국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아웃로</td>
+					<td>Outlaw</td>
+					<td>2007</td>
+					<td>영국</td>
+					<td>액션,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>세브란스</td>
+					<td>Sevrance</td>
+					<td>2006</td>
+					<td>영국</td>
+					<td>공포(호러),스릴러,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>20,380</td>
+					<td>58,642,000</td>
+					<td>8,796</td>
+				</tr>
+			
+				<tr>
+					<td>디 아더 하프</td>
+					<td>The Other Half</td>
+					<td>2005</td>
+					<td>영국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>로버트 카마이클의 엑스터시</td>
+					<td>The Great Ecstasy Of Robert Carmichael</td>
+					<td>2005</td>
+					<td>영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>비즈니스</td>
+					<td>The Business</td>
+					<td>2005</td>
+					<td>영국</td>
+					<td>스릴러,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>풋볼 팩토리</td>
+					<td>The Football Factory</td>
+					<td>2004</td>
+					<td>영국</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,164 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '존 슈나이더'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>아메리칸 저스티스</td>
+					<td>American Justice</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>액션,범죄</td>
+					<td>주연</td>
+					<td>270,000</td>
+					<td>54</td>
+					<td>270,000</td>
+					<td>54</td>
+				</tr>
+			
+				<tr>
+					<td>스노우 비스트</td>
+					<td>Snowbeast</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>공포(호러),SF</td>
+					<td>주연</td>
+					<td>2,000</td>
+					<td>1</td>
+					<td>2,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>슈퍼 샤크</td>
+					<td>Super Shark</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>액션,코미디,SF</td>
+					<td>주연</td>
+					<td>40,000</td>
+					<td>10</td>
+					<td>40,000</td>
+					<td>10</td>
+				</tr>
+			
+				<tr>
+					<td>레고 히어로 팩토리 : 미지의 행성</td>
+					<td>LEGO Hero Factory: Savage Planet</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>애니메이션,어드벤처,액션</td>
+					<td>주연(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>레고 : 히어로 팩토리</td>
+					<td>LEGO Hero Factory: Rise of the Rookies</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>애니메이션,어드벤처</td>
+					<td>주연-프리스톤 스토머 역역(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>플래시드 2</td>
+					<td>Lake Placid 2</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>라이트닝</td>
+					<td>Lightning</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>액션,드라마,SF</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>해저드 마을의 듀크 가족: 헐리웃 소동</td>
+					<td>The Dukes Of Hazzard: Hazzard In Hollywood</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>액션,어드벤처,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사랑과 배신</td>
+					<td>Highway Heartbreaker</td>
+					<td>1992</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-믹키 켄튼 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

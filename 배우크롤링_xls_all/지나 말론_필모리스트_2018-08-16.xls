@@ -1,0 +1,268 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '지나 말론'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>녹터널 애니멀스</td>
+					<td>Nocturnal Animals</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>조연</td>
+					<td>295,934,079</td>
+					<td>35,881</td>
+					<td>295,934,079</td>
+					<td>35,881</td>
+				</tr>
+			
+				<tr>
+					<td>네온 데몬</td>
+					<td>The Neon Demon</td>
+					<td>2016</td>
+					<td>프랑스,미국,덴마크</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td>14,560,800</td>
+					<td>1,803</td>
+					<td>14,560,800</td>
+					<td>1,803</td>
+				</tr>
+			
+				<tr>
+					<td>내 마음을 벗어난 시간</td>
+					<td>Time Out of Mind</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>인히어런트 바이스</td>
+					<td>Inherent Vice</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>2,080,000</td>
+					<td>282</td>
+				</tr>
+			
+				<tr>
+					<td>포 엘렌</td>
+					<td>For Ellen</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>192,000</td>
+					<td>24</td>
+					<td>192,000</td>
+					<td>24</td>
+				</tr>
+			
+				<tr>
+					<td>써커 펀치</td>
+					<td>Sucker Punch</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연-로켓역</td>
+					<td>1,223,821,000</td>
+					<td>156,606</td>
+					<td>1,223,821,000</td>
+					<td>156,606</td>
+				</tr>
+			
+				<tr>
+					<td>섹스 후, 5일간의 여행</td>
+					<td>Five Star Day</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>57,000</td>
+					<td>38</td>
+					<td>57,000</td>
+					<td>38</td>
+				</tr>
+			
+				<tr>
+					<td>루인스</td>
+					<td>The Ruins</td>
+					<td>2008</td>
+					<td>미국,독일,호주</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연-에이미 역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>더 고겟터</td>
+					<td>The Go-Getter</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>라잉</td>
+					<td>Lying</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>세이브드</td>
+					<td>Saved!</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>유나이티드 스테이츠 오브 리랜드</td>
+					<td>The United States Of Leland</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>복사의 위험한 삶</td>
+					<td>The Dangerous Lives Of Altar Boys</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>휘플의 반항</td>
+					<td>The Ballad of Lucy Whipple</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>서부극(웨스턴),드라마,가족</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>치터스</td>
+					<td>Cheaters</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>북 오브 스타스</td>
+					<td>The Book Of Stars</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>돈크라이마미 </td>
+					<td>Bastard Out Of Carolina</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>5,644</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

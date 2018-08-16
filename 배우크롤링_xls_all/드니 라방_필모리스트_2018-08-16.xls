@@ -1,0 +1,190 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '드니 라방'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>미스터 레오스 카락스</td>
+					<td>Mr. X</td>
+					<td>2014</td>
+					<td>프랑스</td>
+					<td>다큐멘터리</td>
+					<td>주연</td>
+					<td>8,795,500</td>
+					<td>1,090</td>
+					<td>8,795,500</td>
+					<td>1,090</td>
+				</tr>
+			
+				<tr>
+					<td>서유</td>
+					<td>Journey to the West</td>
+					<td>2014</td>
+					<td>대만</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>708,000</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>미하엘 콜하스의 선택</td>
+					<td>Michael Kohlhaas</td>
+					<td>2013</td>
+					<td>프랑스,독일</td>
+					<td>드라마</td>
+					<td>조연</td>
+					<td>51,852,200</td>
+					<td>6,822</td>
+					<td>51,952,200</td>
+					<td>6,842</td>
+				</tr>
+			
+				<tr>
+					<td>홀리 모터스</td>
+					<td>Holy Motors</td>
+					<td>2012</td>
+					<td>프랑스,독일</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>146,811,400</td>
+					<td>18,893</td>
+					<td>157,083,600</td>
+					<td>20,094</td>
+				</tr>
+			
+				<tr>
+					<td>도쿄!</td>
+					<td>Tokyo!</td>
+					<td>2008</td>
+					<td>일본,한국,프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>275,955,904</td>
+					<td>41,198</td>
+					<td>278,440,500</td>
+					<td>41,572</td>
+				</tr>
+			
+				<tr>
+					<td>아샤브 선장</td>
+					<td>Capitaine Achab</td>
+					<td>2007</td>
+					<td>스웨덴,프랑스</td>
+					<td>어드벤처</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>165,500</td>
+					<td>21</td>
+				</tr>
+			
+				<tr>
+					<td>투발루</td>
+					<td>Tuvalu</td>
+					<td>1999</td>
+					<td>독일</td>
+					<td>코미디,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,120</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>좋은 직업</td>
+					<td>Good Work</td>
+					<td>1999</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>989,000</td>
+					<td>148</td>
+				</tr>
+			
+				<tr>
+					<td>퐁네프의 연인들</td>
+					<td>The Lovers On The Bridge</td>
+					<td>1991</td>
+					<td>프랑스</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>0</td>
+					<td>63,090,200</td>
+					<td>8,138</td>
+				</tr>
+			
+				<tr>
+					<td>나쁜 피</td>
+					<td>Bad Blood</td>
+					<td>1986</td>
+					<td>프랑스</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>35,533</td>
+					<td>6,473,400</td>
+					<td>876</td>
+				</tr>
+			
+				<tr>
+					<td>소년, 소녀를 만나다 </td>
+					<td>Boy Meets Girl</td>
+					<td>1984</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>17,612</td>
+					<td>6,946,000</td>
+					<td>926</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

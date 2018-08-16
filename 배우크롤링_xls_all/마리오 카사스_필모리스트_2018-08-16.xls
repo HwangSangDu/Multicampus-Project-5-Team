@@ -1,0 +1,138 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '마리오 카사스'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>인비저블 게스트</td>
+					<td>The Invisible Guest</td>
+					<td>2016</td>
+					<td>스페인</td>
+					<td>범죄,미스터리,스릴러</td>
+					<td>주연</td>
+					<td>762,930,200</td>
+					<td>94,877</td>
+					<td>763,777,800</td>
+					<td>94,983</td>
+				</tr>
+			
+				<tr>
+					<td>사랑이 지나간 자리</td>
+					<td>Palm Trees in the Snow</td>
+					<td>2015</td>
+					<td>스페인</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>이스마엘</td>
+					<td>Ismael</td>
+					<td>2013</td>
+					<td>스페인</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>6,000</td>
+					<td>1</td>
+					<td>6,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>마녀사냥꾼</td>
+					<td>witching and bitching</td>
+					<td>2013</td>
+					<td>스페인</td>
+					<td>판타지</td>
+					<td>주연</td>
+					<td>1,535,000</td>
+					<td>380</td>
+					<td>1,535,000</td>
+					<td>380</td>
+				</tr>
+			
+				<tr>
+					<td>유닛7</td>
+					<td>UNIT 7</td>
+					<td>2012</td>
+					<td>스페인</td>
+					<td>드라마,범죄,액션</td>
+					<td>주연</td>
+					<td>16,948,000</td>
+					<td>3,068</td>
+					<td>16,948,000</td>
+					<td>3,068</td>
+				</tr>
+			
+				<tr>
+					<td>섹스 파티 그리고 거짓말</td>
+					<td>Sex, Party &amp; Lies</td>
+					<td>2009</td>
+					<td>스페인</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>655,288</td>
+					<td>77</td>
+					<td>645,000</td>
+					<td>76</td>
+				</tr>
+			
+				<tr>
+					<td>완소녀 쟁취기</td>
+					<td>Brain Drain</td>
+					<td>2009</td>
+					<td>스페인</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

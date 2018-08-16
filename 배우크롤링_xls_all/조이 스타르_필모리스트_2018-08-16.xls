@@ -1,0 +1,99 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '조이 스타르'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>드림팀</td>
+					<td>Les Seigneurs</td>
+					<td>2012</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>68,051,500</td>
+					<td>9,483</td>
+					<td>68,051,500</td>
+					<td>9,483</td>
+				</tr>
+			
+				<tr>
+					<td>사랑의 유효기간은 3년</td>
+					<td>Love Lasts Three Years</td>
+					<td>2011</td>
+					<td>프랑스</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>조연</td>
+					<td>11,741,500</td>
+					<td>1,646</td>
+					<td>11,741,500</td>
+					<td>1,646</td>
+				</tr>
+			
+				<tr>
+					<td>슬립리스 나이트</td>
+					<td>Sleepless Night</td>
+					<td>2011</td>
+					<td>프랑스,벨기에,룩셈부르크</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>3,684,000</td>
+					<td>1,528</td>
+					<td>3,684,000</td>
+					<td>1,528</td>
+				</tr>
+			
+				<tr>
+					<td>폴리스</td>
+					<td>Polisse </td>
+					<td>2011</td>
+					<td>프랑스</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>94,000</td>
+					<td>12</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

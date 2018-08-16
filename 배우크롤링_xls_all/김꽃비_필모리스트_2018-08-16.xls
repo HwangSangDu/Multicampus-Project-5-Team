@@ -1,0 +1,424 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '김꽃비'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>임을 위한 행진곡</td>
+					<td></td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-희수역</td>
+					<td>139,985,700</td>
+					<td>18,023</td>
+					<td>139,985,700</td>
+					<td>18,023</td>
+				</tr>
+			
+				<tr>
+					<td>호텔룸</td>
+					<td>In The Room</td>
+					<td>2015</td>
+					<td>싱가포르</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>472,500</td>
+					<td>64</td>
+					<td>472,500</td>
+					<td>64</td>
+				</tr>
+			
+				<tr>
+					<td>거짓말</td>
+					<td>The Liar</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>40,895,000</td>
+					<td>5,043</td>
+					<td>41,901,600</td>
+					<td>5,212</td>
+				</tr>
+			
+				<tr>
+					<td>원 컷 - 어느 친절한 살인자의 기록</td>
+					<td>A Record of Sweet Murder</td>
+					<td>2014</td>
+					<td>한국,일본</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td>2,790,600</td>
+					<td>395</td>
+					<td>2,790,600</td>
+					<td>395</td>
+				</tr>
+			
+				<tr>
+					<td>4학년 보경이</td>
+					<td>A Dangerous Woman</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>죽도록 아름다운 세상</td>
+					<td>It’s a Beautiful Day</td>
+					<td>2013</td>
+					<td>일본</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td>36,000</td>
+					<td>2</td>
+					<td>36,000</td>
+					<td>2</td>
+				</tr>
+			
+				<tr>
+					<td>명왕성</td>
+					<td>PLUTO</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마,스릴러</td>
+					<td>주연-정수진역</td>
+					<td>114,536,500</td>
+					<td>16,828</td>
+					<td>114,740,500</td>
+					<td>16,866</td>
+				</tr>
+			
+				<tr>
+					<td>1999, 면회</td>
+					<td>Sunshine Boys</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>23,511,300</td>
+					<td>3,338</td>
+					<td>23,926,300</td>
+					<td>3,404</td>
+				</tr>
+			
+				<tr>
+					<td>사라진 시간 </td>
+					<td>The Time Vanished</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-여배우역</td>
+					<td></td>
+					<td></td>
+					<td>49,039</td>
+					<td>59</td>
+				</tr>
+			
+				<tr>
+					<td>나나나 : 여배우 민낯 프로젝트</td>
+					<td>Myselves : The Actress No Makeup Project</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>다큐멘터리</td>
+					<td>감독,주연-김꽃비역,촬영</td>
+					<td>4,049,400</td>
+					<td>557</td>
+					<td>6,122,400</td>
+					<td>1,028</td>
+				</tr>
+			
+				<tr>
+					<td>돼지의 왕</td>
+					<td>The King of Pigs</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>애니메이션,스릴러</td>
+					<td>주연-소년 정종석역(목소리)</td>
+					<td>149,379,300</td>
+					<td>19,340</td>
+					<td>153,318,300</td>
+					<td>19,917</td>
+				</tr>
+			
+				<tr>
+					<td>창피해</td>
+					<td>Ashamed</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연-강지우역</td>
+					<td>22,145,700</td>
+					<td>3,154</td>
+					<td>22,680,200</td>
+					<td>3,234</td>
+				</tr>
+			
+				<tr>
+					<td>집</td>
+					<td>The House</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>판타지,애니메이션</td>
+					<td>주연(목소리)</td>
+					<td>594,500</td>
+					<td>75</td>
+					<td>624,500</td>
+					<td>81</td>
+				</tr>
+			
+				<tr>
+					<td>귀 鬼</td>
+					<td>Be with Me</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연-seg. 내곁에 있어줘 - 남희 역역</td>
+					<td>96,385,308</td>
+					<td>13,319</td>
+					<td>94,887,000</td>
+					<td>13,110</td>
+				</tr>
+			
+				<tr>
+					<td>우주에서 물구나무서기</td>
+					<td>Handstand in space</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>19,839</td>
+					<td>17</td>
+				</tr>
+			
+				<tr>
+					<td>이제 난 용감해질거야</td>
+					<td></td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>기타</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>향기의 상실</td>
+					<td>Magic and Loss</td>
+					<td>2010</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>죽이러 갑니다</td>
+					<td>Be My Guest</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>코미디,스릴러</td>
+					<td>주연-주현역</td>
+					<td>1,355,500</td>
+					<td>215</td>
+					<td>1,394,500</td>
+					<td>222</td>
+				</tr>
+			
+				<tr>
+					<td>똥파리</td>
+					<td>Breathless</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-연희역</td>
+					<td>844,521,819</td>
+					<td>123,046</td>
+					<td>844,206,700</td>
+					<td>123,029</td>
+				</tr>
+			
+				<tr>
+					<td>미로아</td>
+					<td>The Hole</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>공포(호러),드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>삼거리극장</td>
+					<td>Midnight Ballad For Ghost Theater</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>뮤지컬,코미디,공포(호러)</td>
+					<td>주연-소단역</td>
+					<td>0</td>
+					<td>17,216</td>
+					<td>98,439,400</td>
+					<td>16,063</td>
+				</tr>
+			
+				<tr>
+					<td>짝패</td>
+					<td>The City Of Violence</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>조연-면도날 여고생역</td>
+					<td>0</td>
+					<td>1,196,520</td>
+					<td>6,585,376,300</td>
+					<td>1,021,638</td>
+				</tr>
+			
+				<tr>
+					<td>가족의 탄생</td>
+					<td>Family Ties</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-무신역</td>
+					<td>0</td>
+					<td>221,925</td>
+					<td>1,225,585,500</td>
+					<td>201,227</td>
+				</tr>
+			
+				<tr>
+					<td>이슬 후(後)</td>
+					<td>Not a Girl</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>드라마,기타</td>
+					<td>주연-윤미역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>6월의 일기</td>
+					<td>Bystanders</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>드라마,범죄</td>
+					<td>조연-어린 윤희역</td>
+					<td>0</td>
+					<td>697,980</td>
+					<td>3,645,962,000</td>
+					<td>593,867</td>
+				</tr>
+			
+				<tr>
+					<td>화기애애</td>
+					<td>Friendly and Harmonious</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-소연역</td>
+					<td></td>
+					<td></td>
+					<td>52,000</td>
+					<td>26</td>
+				</tr>
+			
+				<tr>
+					<td>여자, 정혜</td>
+					<td>This Charming Girl</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-어린정혜 역</td>
+					<td>0</td>
+					<td>43,457</td>
+					<td>273,765,000</td>
+					<td>41,943</td>
+				</tr>
+			
+				<tr>
+					<td>B형 남자친구</td>
+					<td>My Boyfriend Is Type-B</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>조연-고딩 2 역</td>
+					<td>0</td>
+					<td>1,485,454</td>
+					<td>7,324,579,000</td>
+					<td>1,174,581</td>
+				</tr>
+			
+				<tr>
+					<td>질투는 나의 힘</td>
+					<td>Jealousy Is My Middle Name</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-한미림역</td>
+					<td></td>
+					<td>62,788</td>
+					<td>223,000</td>
+					<td>28</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

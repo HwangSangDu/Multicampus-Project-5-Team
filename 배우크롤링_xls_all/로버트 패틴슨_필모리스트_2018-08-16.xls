@@ -1,0 +1,268 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '로버트 패틴슨'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>굿타임</td>
+					<td>Good Time</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td>24,985,500</td>
+					<td>3,246</td>
+					<td>24,985,500</td>
+					<td>3,246</td>
+				</tr>
+			
+				<tr>
+					<td>잃어버린 도시 Z</td>
+					<td>The Lost City Of Z</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,어드벤처,드라마</td>
+					<td>주연</td>
+					<td>362,053,440</td>
+					<td>47,088</td>
+					<td>362,053,440</td>
+					<td>47,088</td>
+				</tr>
+			
+				<tr>
+					<td>퀸 오브 데저트</td>
+					<td>Queen Of The Desert</td>
+					<td>2015</td>
+					<td>미국,모로코</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>37,384,000</td>
+					<td>5,135</td>
+					<td>38,222,000</td>
+					<td>5,221</td>
+				</tr>
+			
+				<tr>
+					<td>라이프</td>
+					<td>Life</td>
+					<td>2015</td>
+					<td>캐나다,독일,오스트리아 ,미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>155,668,185</td>
+					<td>19,596</td>
+					<td>155,800,185</td>
+					<td>19,616</td>
+				</tr>
+			
+				<tr>
+					<td>맵 투 더 스타</td>
+					<td>Maps To The Stars</td>
+					<td>2014</td>
+					<td>캐나다,미국,독일,프랑스</td>
+					<td>미스터리,스릴러</td>
+					<td>주연</td>
+					<td>50,881,800</td>
+					<td>6,411</td>
+					<td>51,660,800</td>
+					<td>6,525</td>
+				</tr>
+			
+				<tr>
+					<td>더 로버</td>
+					<td>The Rover</td>
+					<td>2014</td>
+					<td>호주,미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>62,660</td>
+					<td>19</td>
+				</tr>
+			
+				<tr>
+					<td>코스모폴리스</td>
+					<td>Cosmopolis</td>
+					<td>2012</td>
+					<td>캐나다,프랑스,포르투갈,이탈리아</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>94,707,700</td>
+					<td>12,545</td>
+					<td>96,450,200</td>
+					<td>12,769</td>
+				</tr>
+			
+				<tr>
+					<td>브레이킹 던 part2</td>
+					<td>The Twilight Saga: Breaking Dawn Part 2</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>드라마,판타지,멜로/로맨스</td>
+					<td>주연</td>
+					<td>18,909,583,065</td>
+					<td>2,654,817</td>
+					<td>18,909,583,065</td>
+					<td>2,654,817</td>
+				</tr>
+			
+				<tr>
+					<td>벨 아미</td>
+					<td>Bel Ami</td>
+					<td>2012</td>
+					<td>영국,이탈리아</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>213,966,000</td>
+					<td>30,373</td>
+					<td>213,966,000</td>
+					<td>30,373</td>
+				</tr>
+			
+				<tr>
+					<td>브레이킹 던 part1</td>
+					<td>The Twilight Saga: Breaking Dawn - Part 1</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>드라마,판타지,멜로/로맨스</td>
+					<td>주연</td>
+					<td>10,713,863,000</td>
+					<td>1,462,280</td>
+					<td>10,715,439,000</td>
+					<td>1,462,561</td>
+				</tr>
+			
+				<tr>
+					<td>워터 포 엘리펀트</td>
+					<td>Water For Elephants</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-제이콥역</td>
+					<td>418,236,500</td>
+					<td>55,561</td>
+					<td>418,236,500</td>
+					<td>55,561</td>
+				</tr>
+			
+				<tr>
+					<td>리멤버 미</td>
+					<td>Remember Me</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연-타일러 호킨스역</td>
+					<td>205,571,000</td>
+					<td>27,265</td>
+					<td>206,166,000</td>
+					<td>27,384</td>
+				</tr>
+			
+				<tr>
+					<td>이클립스</td>
+					<td>The Twilight Saga: Eclipse</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>판타지,멜로/로맨스,스릴러</td>
+					<td>주연-에드워드 컬렌역</td>
+					<td>15,192,541,723</td>
+					<td>2,105,050</td>
+					<td>14,947,417,000</td>
+					<td>2,069,546</td>
+				</tr>
+			
+				<tr>
+					<td>뉴 문</td>
+					<td>The Twilight Saga: New Moon</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>판타지,드라마,멜로/로맨스</td>
+					<td>주연-에드워드 컬렌역</td>
+					<td>13,988,362,067</td>
+					<td>1,949,027</td>
+					<td>13,868,814,000</td>
+					<td>1,933,467</td>
+				</tr>
+			
+				<tr>
+					<td>하우 투 비</td>
+					<td>How To Be</td>
+					<td>2008</td>
+					<td>영국</td>
+					<td>코미디,드라마</td>
+					<td>주연-아트역</td>
+					<td>19,801,390</td>
+					<td>2,746</td>
+					<td>19,729,500</td>
+					<td>2,735</td>
+				</tr>
+			
+				<tr>
+					<td>리틀 애쉬 : 달리가 사랑한 그림</td>
+					<td>Little Ashes</td>
+					<td>2008</td>
+					<td>영국,스페인</td>
+					<td>드라마,사극</td>
+					<td>주연-살바도르 달리역</td>
+					<td>89,023,200</td>
+					<td>11,613</td>
+					<td>88,980,500</td>
+					<td>11,603</td>
+				</tr>
+			
+				<tr>
+					<td>트와일라잇</td>
+					<td>Twilight</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>액션,멜로/로맨스,판타지,공포(호러)</td>
+					<td>주연-에드워드 컬렌역</td>
+					<td>8,796,916,521</td>
+					<td>1,356,180</td>
+					<td>8,826,674,000</td>
+					<td>1,361,273</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,151 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '조니 메스너'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>퍼펙트 웨폰</td>
+					<td>The Perfect Weapon </td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,SF</td>
+					<td>주연</td>
+					<td>100,000</td>
+					<td>20</td>
+					<td>100,000</td>
+					<td>20</td>
+				</tr>
+			
+				<tr>
+					<td>웨포나이즈드</td>
+					<td>Swap</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,SF,스릴러</td>
+					<td>주연</td>
+					<td>2,870,000</td>
+					<td>574</td>
+					<td>8,290,000</td>
+					<td>1,658</td>
+				</tr>
+			
+				<tr>
+					<td>좋은 놈, 나쁜 놈, 죽은 놈</td>
+					<td>The Good, the Bad, and the Dead</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>킬엠올</td>
+					<td>Kill &#039;em All</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션,범죄</td>
+					<td>주연</td>
+					<td>925,000</td>
+					<td>329</td>
+					<td>925,000</td>
+					<td>329</td>
+				</tr>
+			
+				<tr>
+					<td>라스트 더 맥스</td>
+					<td>Corrado</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>액션,범죄,드라마</td>
+					<td>주연-코라도 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>링 오브 데스</td>
+					<td>Ring of Death</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>액션,범죄,스릴러</td>
+					<td>주연-버크 와이어트 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>빌리버스</td>
+					<td>Believers</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아나콘다2 : 사라지지 않는 저주</td>
+					<td>Anacondas: The Hunt For The Blood Orchid</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>106,980</td>
+					<td>558,068,500</td>
+					<td>90,368</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

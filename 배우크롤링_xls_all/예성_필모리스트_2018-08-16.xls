@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '예성'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>보디가드: 도시정벌</td>
+					<td>The Bodyguard</td>
+					<td>2016</td>
+					<td>중국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>108,000</td>
+					<td>30</td>
+					<td>108,000</td>
+					<td>30</td>
+				</tr>
+			
+				<tr>
+					<td>사대명포 3 : 종극대결전</td>
+					<td>The Four 3</td>
+					<td>2014</td>
+					<td>중국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>특공 아미라</td>
+					<td>Ameera</td>
+					<td>2014</td>
+					<td>중국</td>
+					<td>드라마,액션,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사대명포 2</td>
+					<td>The Four 2</td>
+					<td>2013</td>
+					<td>홍콩,중국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>7,590,000</td>
+					<td>1,700</td>
+					<td>7,590,000</td>
+					<td>1,700</td>
+				</tr>
+			
+				<tr>
+					<td>화벽</td>
+					<td>The Mural</td>
+					<td>2011</td>
+					<td>중국</td>
+					<td>판타지,멜로/로맨스,스릴러,액션,드라마</td>
+					<td>조연</td>
+					<td>180,000</td>
+					<td>40</td>
+					<td>3,337,000</td>
+					<td>1,541</td>
+				</tr>
+			
+				<tr>
+					<td>도화선</td>
+					<td>Flash Point</td>
+					<td>2007</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>223,255,000</td>
+					<td>40,978</td>
+					<td>224,266,000</td>
+					<td>40,163</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

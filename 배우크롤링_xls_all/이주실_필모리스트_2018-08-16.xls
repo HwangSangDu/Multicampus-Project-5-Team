@@ -1,0 +1,437 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '이주실'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>엄마의 공책</td>
+					<td>Notebook from My Mother</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마,가족</td>
+					<td>주연-애란역</td>
+					<td>59,882,500</td>
+					<td>8,697</td>
+					<td>63,276,500</td>
+					<td>9,342</td>
+				</tr>
+			
+				<tr>
+					<td>부산행</td>
+					<td>TRAIN TO BUSAN</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>액션,스릴러</td>
+					<td>단역-석우 모역</td>
+					<td>93,178,283,048</td>
+					<td>11,565,479</td>
+					<td>93,182,579,048</td>
+					<td>11,566,862</td>
+				</tr>
+			
+				<tr>
+					<td>글로리데이</td>
+					<td>One Way Trip</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-상우할머니역</td>
+					<td>1,486,835,668</td>
+					<td>189,345</td>
+					<td>1,487,225,668</td>
+					<td>189,405</td>
+				</tr>
+			
+				<tr>
+					<td>퇴마: 무녀굴</td>
+					<td>The Chosen: Forbidden Cave</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>공포(호러),스릴러</td>
+					<td>조연-돌순어멍역</td>
+					<td>951,843,500</td>
+					<td>120,802</td>
+					<td>951,843,500</td>
+					<td>120,802</td>
+				</tr>
+			
+				<tr>
+					<td>약장수</td>
+					<td>Clown of a Salesman </td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-옥님역</td>
+					<td>313,238,400</td>
+					<td>43,562</td>
+					<td>314,552,400</td>
+					<td>44,216</td>
+				</tr>
+			
+				<tr>
+					<td>왓니껴</td>
+					<td>Welcome</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-혜숙 모역</td>
+					<td>5,622,000</td>
+					<td>898</td>
+					<td>5,622,000</td>
+					<td>898</td>
+				</tr>
+			
+				<tr>
+					<td>명량</td>
+					<td>Roaring Currents</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>사극,액션</td>
+					<td>조연-종선할매역</td>
+					<td>135,748,398,910</td>
+					<td>17,613,682</td>
+					<td>135,754,920,310</td>
+					<td>17,615,314</td>
+				</tr>
+			
+				<tr>
+					<td>결혼전야</td>
+					<td>Marriage Blue</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>단역-김석동 부인역</td>
+					<td>8,444,337,719</td>
+					<td>1,214,836</td>
+					<td>8,444,355,719</td>
+					<td>1,214,839</td>
+				</tr>
+			
+				<tr>
+					<td>동창생</td>
+					<td>Commitment</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>액션,드라마</td>
+					<td>조연-황정숙역</td>
+					<td>7,010,197,126</td>
+					<td>1,048,280</td>
+					<td>7,010,197,126</td>
+					<td>1,048,280</td>
+				</tr>
+			
+				<tr>
+					<td>타워</td>
+					<td>The Tower</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-정여사역</td>
+					<td>37,654,858,000</td>
+					<td>5,181,014</td>
+					<td>37,654,858,000</td>
+					<td>5,181,014</td>
+				</tr>
+			
+				<tr>
+					<td>코리아</td>
+					<td>As One</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-김할머니역</td>
+					<td>13,448,848,500</td>
+					<td>1,872,681</td>
+					<td>13,448,857,500</td>
+					<td>1,872,682</td>
+				</tr>
+			
+				<tr>
+					<td>불꽃처럼 나비처럼</td>
+					<td>The Sword With No Name</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>멜로/로맨스,사극</td>
+					<td>단역-자영 모역</td>
+					<td>12,447,633,504</td>
+					<td>1,690,294</td>
+					<td>12,302,961,500</td>
+					<td>1,670,652</td>
+				</tr>
+			
+				<tr>
+					<td>순정만화</td>
+					<td>Crush On You</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>조연-세탁소 모역</td>
+					<td>4,674,779,333</td>
+					<td>730,343</td>
+					<td>4,682,641,000</td>
+					<td>731,706</td>
+				</tr>
+			
+				<tr>
+					<td>서양 골동 양과자점 앤티크</td>
+					<td>Antique</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-진혁 할머니역</td>
+					<td>7,367,880,833</td>
+					<td>1,173,310</td>
+					<td>7,420,479,500</td>
+					<td>1,181,332</td>
+				</tr>
+			
+				<tr>
+					<td>아내가 결혼했다</td>
+					<td>My Wife Got Married</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>조연</td>
+					<td>11,995,855,000</td>
+					<td>1,788,748</td>
+					<td>12,062,180,000</td>
+					<td>1,799,447</td>
+				</tr>
+			
+				<tr>
+					<td>님은 먼 곳에</td>
+					<td>Sunny</td>
+					<td>2008</td>
+					<td>한국,태국</td>
+					<td>드라마,전쟁</td>
+					<td>조연-시어머니역</td>
+					<td>11,211,235,000</td>
+					<td>1,706,576</td>
+					<td>11,206,382,000</td>
+					<td>1,706,495</td>
+				</tr>
+			
+				<tr>
+					<td>식객</td>
+					<td>Le Grand Chef</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-성일 모역</td>
+					<td>0</td>
+					<td>3,038,868</td>
+					<td>18,984,549,500</td>
+					<td>2,965,359</td>
+				</tr>
+			
+				<tr>
+					<td>펀치레이디</td>
+					<td>Punch lady</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>조연-하은 모역</td>
+					<td>0</td>
+					<td>38,254</td>
+					<td>243,405,000</td>
+					<td>37,518</td>
+				</tr>
+			
+				<tr>
+					<td>검은 집</td>
+					<td>Black House</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>스릴러,미스터리,공포(호러)</td>
+					<td>단역-여교감역</td>
+					<td>0</td>
+					<td>1,408,882</td>
+					<td>8,842,295,700</td>
+					<td>1,322,196</td>
+				</tr>
+			
+				<tr>
+					<td>누가 그녀와 잤을까?</td>
+					<td>Hot For Teacher</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>단역-교장 수녀역</td>
+					<td>0</td>
+					<td>434,877</td>
+					<td>2,068,632,100</td>
+					<td>353,360</td>
+				</tr>
+			
+				<tr>
+					<td>짝패</td>
+					<td>The City Of Violence</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>조연-석환 모역</td>
+					<td>0</td>
+					<td>1,196,520</td>
+					<td>6,585,376,300</td>
+					<td>1,021,638</td>
+				</tr>
+			
+				<tr>
+					<td>야수</td>
+					<td>Running Wild</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>조연-도영 모역</td>
+					<td>0</td>
+					<td>1,016,152</td>
+					<td>5,339,725,500</td>
+					<td>837,011</td>
+				</tr>
+			
+				<tr>
+					<td>사랑니</td>
+					<td>Blossom Again</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>단역-인영 어머니역</td>
+					<td>0</td>
+					<td>165,538</td>
+					<td>868,902,000</td>
+					<td>135,702</td>
+				</tr>
+			
+				<tr>
+					<td>페이스</td>
+					<td>Face</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>공포(호러)</td>
+					<td>단역-현민 모역</td>
+					<td>0</td>
+					<td>474,000</td>
+					<td>1,534,151,500</td>
+					<td>238,950</td>
+				</tr>
+			
+				<tr>
+					<td>고독이 몸부림칠 때</td>
+					<td>Dance With Solitude</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>34,349</td>
+					<td>68,938,500</td>
+					<td>10,745</td>
+				</tr>
+			
+				<tr>
+					<td>4인용 식탁</td>
+					<td>The Uninvited</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>공포(호러),미스터리,스릴러</td>
+					<td>단역-송 여사역</td>
+					<td></td>
+					<td>717,494</td>
+					<td>38,000</td>
+					<td>8</td>
+				</tr>
+			
+				<tr>
+					<td>굳세어라 금순아</td>
+					<td>Saving My Hubby</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>단역-금순 시어머니역</td>
+					<td></td>
+					<td>37,981</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>결혼은, 미친짓이다</td>
+					<td>Marriage Is a Crazy Thing</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>단역-어머니역</td>
+					<td></td>
+					<td>422,939</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아름다운 청년 전태일</td>
+					<td>A Single Spark</td>
+					<td>1995</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-태일 어머니역</td>
+					<td>0</td>
+					<td>235,935</td>
+					<td>118,000</td>
+					<td>21</td>
+				</tr>
+			
+				<tr>
+					<td>이혼하지 않은 여자</td>
+					<td>The Woman Who Want Divorce</td>
+					<td>1992</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>단역</td>
+					<td>0</td>
+					<td>30,297</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

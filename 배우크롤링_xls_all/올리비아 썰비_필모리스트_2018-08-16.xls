@@ -1,0 +1,112 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '올리비아 썰비'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>5 투 7</td>
+					<td>5 to 7</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td>37,072,200</td>
+					<td>4,921</td>
+					<td>37,072,200</td>
+					<td>4,921</td>
+				</tr>
+			
+				<tr>
+					<td>노바디 웍스</td>
+					<td>Nobody Walks</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>73,000</td>
+					<td>13</td>
+					<td>73,000</td>
+					<td>13</td>
+				</tr>
+			
+				<tr>
+					<td>저지드레드 3D</td>
+					<td>Dredd</td>
+					<td>2012</td>
+					<td>영국</td>
+					<td>SF,액션</td>
+					<td>주연</td>
+					<td>369,180,000</td>
+					<td>48,794</td>
+					<td>369,185,000</td>
+					<td>48,795</td>
+				</tr>
+			
+				<tr>
+					<td>다크아워</td>
+					<td>The Darkest Hour</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>SF,액션</td>
+					<td>주연</td>
+					<td>1,319,649,000</td>
+					<td>162,604</td>
+					<td>1,321,149,000</td>
+					<td>162,704</td>
+				</tr>
+			
+				<tr>
+					<td>더 시크릿</td>
+					<td>The Secret</td>
+					<td>2007</td>
+					<td>프랑스</td>
+					<td>미스터리,드라마,스릴러</td>
+					<td>주연-사만다 마리스 역</td>
+					<td>183,438,000</td>
+					<td>27,492</td>
+					<td>183,443,000</td>
+					<td>27,380</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

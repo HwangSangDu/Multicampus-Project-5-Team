@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '목규리'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>프레스</td>
+					<td>PRESS</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>1,529,500</td>
+					<td>370</td>
+					<td>1,544,500</td>
+					<td>373</td>
+				</tr>
+			
+				<tr>
+					<td>굿바이 싱글</td>
+					<td>Familyhood</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>단역-미술선생역</td>
+					<td>16,912,706,195</td>
+					<td>2,108,273</td>
+					<td>16,913,282,195</td>
+					<td>2,108,561</td>
+				</tr>
+			
+				<tr>
+					<td>흔들리는 물결</td>
+					<td>Blossom</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>조연-단양병원 오간호사역</td>
+					<td>10,556,000</td>
+					<td>1,489</td>
+					<td>13,361,300</td>
+					<td>1,961</td>
+				</tr>
+			
+				<tr>
+					<td>엽기적인 그녀 2</td>
+					<td>My New Sassy Girl</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>단역-가든파티 게스트역</td>
+					<td>594,260,900</td>
+					<td>77,124</td>
+					<td>594,260,900</td>
+					<td>77,124</td>
+				</tr>
+			
+				<tr>
+					<td>경성학교: 사라진 소녀들</td>
+					<td>The Silenced</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>미스터리,드라마</td>
+					<td>단역-기모토 아키미역</td>
+					<td>2,749,027,700</td>
+					<td>356,342</td>
+					<td>2,749,755,100</td>
+					<td>356,436</td>
+				</tr>
+			
+				<tr>
+					<td>카트</td>
+					<td>Cart</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-대체알바3역</td>
+					<td>5,926,917,433</td>
+					<td>814,233</td>
+					<td>5,929,106,933</td>
+					<td>814,570</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,450 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '덴젤 워싱턴'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>매그니피센트 7</td>
+					<td>The Magnificent Seven</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,서부극(웨스턴)</td>
+					<td>주연</td>
+					<td>7,633,490,421</td>
+					<td>921,317</td>
+					<td>7,633,490,421</td>
+					<td>921,317</td>
+				</tr>
+			
+				<tr>
+					<td>더 이퀄라이저</td>
+					<td>The Equalizer</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>액션,범죄,스릴러</td>
+					<td>주연</td>
+					<td>639,464,500</td>
+					<td>82,779</td>
+					<td>639,464,500</td>
+					<td>82,779</td>
+				</tr>
+			
+				<tr>
+					<td>투건스</td>
+					<td>2 Guns</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>액션,드라마,코미디</td>
+					<td>주연-바비역</td>
+					<td>49,731,500</td>
+					<td>7,806</td>
+					<td>49,731,500</td>
+					<td>7,806</td>
+				</tr>
+			
+				<tr>
+					<td>플라이트</td>
+					<td>Flight</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>150,391,500</td>
+					<td>20,491</td>
+					<td>150,770,500</td>
+					<td>20,553</td>
+				</tr>
+			
+				<tr>
+					<td>세이프 하우스</td>
+					<td>SAFE HOUSE</td>
+					<td>2012</td>
+					<td>미국,남아프리카공화국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>1,223,151,500</td>
+					<td>163,729</td>
+					<td>1,223,156,500</td>
+					<td>163,730</td>
+				</tr>
+			
+				<tr>
+					<td>언스토퍼블</td>
+					<td>Unstoppable</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>액션,스릴러,드라마</td>
+					<td>주연</td>
+					<td>3,325,136,489</td>
+					<td>459,535</td>
+					<td>3,273,318,500</td>
+					<td>452,320</td>
+				</tr>
+			
+				<tr>
+					<td>일라이</td>
+					<td>The Book Of Eli</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>액션,어드벤처,드라마,스릴러,서부극(웨스턴)</td>
+					<td>주연-일라이 역</td>
+					<td>1,661,141,088</td>
+					<td>222,927</td>
+					<td>1,634,626,500</td>
+					<td>219,196</td>
+				</tr>
+			
+				<tr>
+					<td>펠햄 123</td>
+					<td>The Taking Of Pelham 1 2 3</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>액션,스릴러,범죄</td>
+					<td>주연-가버역</td>
+					<td>2,415,075,136</td>
+					<td>360,661</td>
+					<td>2,374,133,500</td>
+					<td>354,850</td>
+				</tr>
+			
+				<tr>
+					<td>아메리칸 갱스터</td>
+					<td>American Gangster</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td>403,624</td>
+					<td>2,731,678,000</td>
+					<td>401,843</td>
+				</tr>
+			
+				<tr>
+					<td>그레이트 디베이터스</td>
+					<td>The Great Debaters</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>감독,주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>데자뷰</td>
+					<td>Deja Vu</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>829,891</td>
+					<td>4,763,875,500</td>
+					<td>778,364</td>
+				</tr>
+			
+				<tr>
+					<td>인사이드 맨</td>
+					<td>Inside Man</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>드라마,범죄</td>
+					<td>주연-키스 프레지어역</td>
+					<td>0</td>
+					<td>311,495</td>
+					<td>1,882,493,500</td>
+					<td>295,895</td>
+				</tr>
+			
+				<tr>
+					<td>맨츄리안 캔디데이트</td>
+					<td>The Manchurian Candidate</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>20,000</td>
+					<td>90,074,500</td>
+					<td>13,826</td>
+				</tr>
+			
+				<tr>
+					<td>맨 온 파이어</td>
+					<td>Man On Fire</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>480,040</td>
+					<td>1,984,024,500</td>
+					<td>307,751</td>
+				</tr>
+			
+				<tr>
+					<td>아웃 오브 타임</td>
+					<td>Out Of Time</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>17,060</td>
+					<td>37,610,000</td>
+					<td>5,770</td>
+				</tr>
+			
+				<tr>
+					<td>필라델피아 그 후 십 년</td>
+					<td>People Like Us : Making &#039;Philadelphia&#039;</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>다큐멘터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>앤트원 피셔</td>
+					<td>Antwone Fisher</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>감독,주연</td>
+					<td>0</td>
+					<td>7,000</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>존 큐</td>
+					<td>John Q</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>119,910</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>트레이닝 데이</td>
+					<td>Training Day</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>드라마,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>47,634</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>리멤버 타이탄</td>
+					<td>Remember The Titans</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-허만 분 코치역</td>
+					<td>0</td>
+					<td>78,331</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>허리케인 카터</td>
+					<td>The Hurricane</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-루빈 허리케인 카터역</td>
+					<td>0</td>
+					<td>73,958</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>본 콜렉터</td>
+					<td>The Bone Collector</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>미스터리,스릴러</td>
+					<td>주연-링크역</td>
+					<td>0</td>
+					<td>212,564</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>비상계엄</td>
+					<td>The Siege</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>드라마,스릴러,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>298,903</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>다크 앤젤</td>
+					<td>Fallen</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>공포(호러),미스터리,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>36,951</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>프리처스와이프</td>
+					<td>THE PREACHER&#039;S WIFE</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>코미디,드라마,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>0</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>커리지 언더 파이어 </td>
+					<td>Courage Under Fire</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>전쟁,액션,드라마,미스터리</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>231,165</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>필라델피아 </td>
+					<td>Philadelphia</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>123,104</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>말콤 X</td>
+					<td>Malcolm X</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>28,159</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>닉크</td>
+					<td>Ricochet</td>
+					<td>1991</td>
+					<td>미국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>25,167</td>
+					<td>128,000</td>
+					<td>64</td>
+				</tr>
+			
+				<tr>
+					<td>Mo&#039; Better Blues</td>
+					<td>모베터 블루스</td>
+					<td>1990</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-블릭 길리암역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>히 갓 게임</td>
+					<td>He Got Game</td>
+					<td>1988</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-제이크 셔틀스워스역</td>
+					<td>0</td>
+					<td>495</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

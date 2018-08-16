@@ -1,0 +1,203 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '오마 사이'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>투 이즈 어 패밀리</td>
+					<td>Two is a family</td>
+					<td>2016</td>
+					<td>프랑스</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>67,847,500</td>
+					<td>8,779</td>
+					<td>67,847,500</td>
+					<td>8,779</td>
+				</tr>
+			
+				<tr>
+					<td>인페르노</td>
+					<td>Inferno</td>
+					<td>2016</td>
+					<td>미국,일본,터키,헝가리</td>
+					<td>미스터리,스릴러</td>
+					<td>주연</td>
+					<td>5,656,281,303</td>
+					<td>689,071</td>
+					<td>5,656,281,303</td>
+					<td>689,071</td>
+				</tr>
+			
+				<tr>
+					<td>쇼콜라</td>
+					<td>Chocolat</td>
+					<td>2015</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>28,443,000</td>
+					<td>3,762</td>
+					<td>28,443,000</td>
+					<td>3,762</td>
+				</tr>
+			
+				<tr>
+					<td>더 셰프</td>
+					<td>Burnt</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>1,487,172,148</td>
+					<td>187,122</td>
+					<td>1,487,412,148</td>
+					<td>187,152</td>
+				</tr>
+			
+				<tr>
+					<td>뮨: 달의 요정</td>
+					<td>Mune</td>
+					<td>2014</td>
+					<td>프랑스</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td>2,331,900,700</td>
+					<td>319,072</td>
+					<td>2,333,690,300</td>
+					<td>319,465</td>
+				</tr>
+			
+				<tr>
+					<td>웰컴, 삼바</td>
+					<td>Samba</td>
+					<td>2014</td>
+					<td>프랑스</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>325,078,800</td>
+					<td>40,321</td>
+					<td>325,078,800</td>
+					<td>40,321</td>
+				</tr>
+			
+				<tr>
+					<td>언셀러</td>
+					<td>GOOD PEOPLE</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>범죄,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>무드 인디고</td>
+					<td>Mood Indigo</td>
+					<td>2013</td>
+					<td>프랑스,벨기에</td>
+					<td>드라마,판타지</td>
+					<td>주연</td>
+					<td>375,764,100</td>
+					<td>46,666</td>
+					<td>378,103,230</td>
+					<td>46,998</td>
+				</tr>
+			
+				<tr>
+					<td>투캅스 인 파리</td>
+					<td>On the Other Side of the Tracks</td>
+					<td>2012</td>
+					<td>프랑스</td>
+					<td>액션,코미디,범죄</td>
+					<td>주연</td>
+					<td>34,266,000</td>
+					<td>6,786</td>
+					<td>34,266,000</td>
+					<td>6,786</td>
+				</tr>
+			
+				<tr>
+					<td>드림팀</td>
+					<td>Les Seigneurs</td>
+					<td>2012</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연-웨케 엔도고역</td>
+					<td>68,051,500</td>
+					<td>9,483</td>
+					<td>68,051,500</td>
+					<td>9,483</td>
+				</tr>
+			
+				<tr>
+					<td>언터처블: 1%의 우정</td>
+					<td>Untouchable</td>
+					<td>2011</td>
+					<td>프랑스</td>
+					<td>코미디,드라마</td>
+					<td>주연-드리스역</td>
+					<td>12,733,256,000</td>
+					<td>1,720,052</td>
+					<td>12,741,516,500</td>
+					<td>1,721,611</td>
+				</tr>
+			
+				<tr>
+					<td>믹막: 티르라리고 사람들</td>
+					<td>Micmacs A Tire-larigot, Micmacs</td>
+					<td>2009</td>
+					<td>프랑스</td>
+					<td>코미디,범죄</td>
+					<td>주연-타자기역</td>
+					<td>40,986,800</td>
+					<td>5,394</td>
+					<td>41,301,800</td>
+					<td>5,437</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

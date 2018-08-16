@@ -1,0 +1,333 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '케빈 클라인'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>미녀와 야수</td>
+					<td>Beauty and the Beast</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>멜로/로맨스,판타지,뮤지컬</td>
+					<td>주연</td>
+					<td>42,132,589,579</td>
+					<td>5,138,193</td>
+					<td>42,133,751,579</td>
+					<td>5,138,328</td>
+				</tr>
+			
+				<tr>
+					<td>어바웃 리키</td>
+					<td>Ricki and the Flash</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>122,501,900</td>
+					<td>16,404</td>
+					<td>123,557,900</td>
+					<td>16,536</td>
+				</tr>
+			
+				<tr>
+					<td>라스트베가스</td>
+					<td>Last Vegas</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>1,363,570,176</td>
+					<td>177,938</td>
+					<td>1,363,570,176</td>
+					<td>177,938</td>
+				</tr>
+			
+				<tr>
+					<td>음모자</td>
+					<td>The Conspirator</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-에드윈 스탠턴역</td>
+					<td>263,503,000</td>
+					<td>34,625</td>
+					<td>263,503,000</td>
+					<td>34,625</td>
+				</tr>
+			
+				<tr>
+					<td>퀸 투 플레이</td>
+					<td>Queen To Play</td>
+					<td>2009</td>
+					<td>프랑스,독일</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>트레이드</td>
+					<td>Trade</td>
+					<td>2007</td>
+					<td>독일,미국</td>
+					<td>범죄,드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>핑크 팬더</td>
+					<td>The Pink Panther</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>코미디,범죄</td>
+					<td>주연-드레이퍼스 서장역</td>
+					<td>0</td>
+					<td>34,450</td>
+					<td>166,601,100</td>
+					<td>27,354</td>
+				</tr>
+			
+				<tr>
+					<td>드 러블리</td>
+					<td>De-Lovely</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>엠퍼러스 클럽</td>
+					<td>The Emperor&#039;s Club</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>24,398</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>라이프 에즈 어 하우스</td>
+					<td>Life As A House</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>엘도라도</td>
+					<td>The Road To Eldorado</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>애니메이션,어드벤처</td>
+					<td>주연-툴리오역(목소리)</td>
+					<td>0</td>
+					<td>178,972</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>한 여름밤의 꿈</td>
+					<td>A Midsummer Night&#039;S Dream</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>코미디,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>39,783</td>
+					<td>716,000</td>
+					<td>362</td>
+				</tr>
+			
+				<tr>
+					<td>와일드 와일드 웨스트</td>
+					<td>Wild Wild West</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>액션,어드벤처,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>407,309</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아이스 스톰</td>
+					<td>The Ice Storm</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>6,837</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>인 앤 아웃 </td>
+					<td>In &amp; Out</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>52,147</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>월트디즈니의 노틀담의 꼽추 </td>
+					<td>Hunchback Of Notre Dame</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>애니메이션,가족,코미디,뮤지컬</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>340,485</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>프렌치 키스 </td>
+					<td>French Kiss</td>
+					<td>1995</td>
+					<td>미국,영국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>398,027</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>데이브</td>
+					<td>Dave</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>73,304</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>네 이웃의 아내를 탐하지마라</td>
+					<td>Consenting Adults</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>29,433</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>그랜드 캐년</td>
+					<td>Grand Canyon</td>
+					<td>1991</td>
+					<td>미국</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>바람둥이 길들이기</td>
+					<td>I Love You To Death</td>
+					<td>1990</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>실버라도 </td>
+					<td>Silverado</td>
+					<td>1985</td>
+					<td>미국</td>
+					<td>서부극(웨스턴),액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>73,167</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

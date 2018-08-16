@@ -1,0 +1,307 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '레이첼 맥아담스'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>닥터 스트레인지</td>
+					<td>Doctor Strange</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지</td>
+					<td>주연</td>
+					<td>47,482,530,396</td>
+					<td>5,446,379</td>
+					<td>47,485,590,396</td>
+					<td>5,446,685</td>
+				</tr>
+			
+				<tr>
+					<td>스포트라이트</td>
+					<td>Spotlight</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td>2,390,611,755</td>
+					<td>297,944</td>
+					<td>2,409,513,755</td>
+					<td>300,898</td>
+				</tr>
+			
+				<tr>
+					<td>에브리띵 윌 비 파인</td>
+					<td>Every Thing Will Be Fine</td>
+					<td>2015</td>
+					<td>독일,캐나다,프랑스,스웨덴,노르웨이</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>64,466,400</td>
+					<td>8,572</td>
+					<td>64,466,400</td>
+					<td>8,572</td>
+				</tr>
+			
+				<tr>
+					<td>어린왕자</td>
+					<td>The Little Prince</td>
+					<td>2015</td>
+					<td>프랑스</td>
+					<td>애니메이션,판타지,어드벤처</td>
+					<td>주연(목소리)</td>
+					<td>4,336,252,627</td>
+					<td>579,130</td>
+					<td>4,337,674,627</td>
+					<td>579,367</td>
+				</tr>
+			
+				<tr>
+					<td>사우스포</td>
+					<td>Southpaw</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>드라마,액션</td>
+					<td>주연-모린 호프역</td>
+					<td>757,831,248</td>
+					<td>100,785</td>
+					<td>757,831,248</td>
+					<td>100,785</td>
+				</tr>
+			
+				<tr>
+					<td>알로하</td>
+					<td>Aloha</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>코미디,드라마,멜로/로맨스</td>
+					<td>주연-트레이시 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>모스트 원티드 맨</td>
+					<td>A Most Wanted Man</td>
+					<td>2014</td>
+					<td>영국,미국,독일</td>
+					<td>스릴러,드라마</td>
+					<td>주연</td>
+					<td>127,325,100</td>
+					<td>15,654</td>
+					<td>129,906,100</td>
+					<td>16,102</td>
+				</tr>
+			
+				<tr>
+					<td>어바웃 타임</td>
+					<td>ABOUT TIME</td>
+					<td>2013</td>
+					<td>영국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연-메리역</td>
+					<td>24,982,533,500</td>
+					<td>3,392,251</td>
+					<td>25,015,136,800</td>
+					<td>3,396,313</td>
+				</tr>
+			
+				<tr>
+					<td>투 더 원더</td>
+					<td>To the Wonder</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>17,541,000</td>
+					<td>2,275</td>
+					<td>17,541,000</td>
+					<td>2,275</td>
+				</tr>
+			
+				<tr>
+					<td>패션, 위험한 열정</td>
+					<td>PASSION</td>
+					<td>2012</td>
+					<td>독일,프랑스</td>
+					<td>스릴러</td>
+					<td>주연-크리스틴역</td>
+					<td>58,729,000</td>
+					<td>8,098</td>
+					<td>59,023,000</td>
+					<td>8,145</td>
+				</tr>
+			
+				<tr>
+					<td>미드나잇 인 파리</td>
+					<td>Midnight In Paris</td>
+					<td>2011</td>
+					<td>미국,스페인</td>
+					<td>코미디,멜로/로맨스,판타지</td>
+					<td>주연</td>
+					<td>2,638,444,898</td>
+					<td>355,851</td>
+					<td>2,786,600,517</td>
+					<td>376,307</td>
+				</tr>
+			
+				<tr>
+					<td>서약</td>
+					<td>The Vow</td>
+					<td>2010</td>
+					<td>미국,프랑스,브라질</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-페이지 역</td>
+					<td>1,810,275,500</td>
+					<td>239,483</td>
+					<td>1,810,275,500</td>
+					<td>239,483</td>
+				</tr>
+			
+				<tr>
+					<td>굿모닝 에브리원</td>
+					<td>Morning Glory</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>드라마,코미디,멜로/로맨스</td>
+					<td>주연-베키 풀러역</td>
+					<td>1,562,415,000</td>
+					<td>202,667</td>
+					<td>1,563,223,000</td>
+					<td>202,869</td>
+				</tr>
+			
+				<tr>
+					<td>시간 여행자의 아내</td>
+					<td>The Time Traveler&#039;s Wife</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>멜로/로맨스,드라마,SF</td>
+					<td>주연-클레어 애브셔역</td>
+					<td>5,485,456,860</td>
+					<td>738,963</td>
+					<td>5,424,841,100</td>
+					<td>730,934</td>
+				</tr>
+			
+				<tr>
+					<td>스테이트 오브 플레이</td>
+					<td>State Of Play</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>드라마,범죄,스릴러</td>
+					<td>주연-델라 존스역</td>
+					<td>998,567,826</td>
+					<td>150,447</td>
+					<td>980,130,500</td>
+					<td>147,737</td>
+				</tr>
+			
+				<tr>
+					<td>럭키 원스</td>
+					<td>The Lucky Ones</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>우리, 사랑해도 되나요?</td>
+					<td>The Family Stone</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>멜로/로맨스,드라마,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>80,900</td>
+					<td>419,663,500</td>
+					<td>64,914</td>
+				</tr>
+			
+				<tr>
+					<td>나이트 플라이트</td>
+					<td>Red-Eye</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>스릴러,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>351,518</td>
+					<td>1,918,951,500</td>
+					<td>296,670</td>
+				</tr>
+			
+				<tr>
+					<td>노트북</td>
+					<td>The Notebook</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>789,087</td>
+					<td>4,255,546,200</td>
+					<td>608,552</td>
+				</tr>
+			
+				<tr>
+					<td>퀸카로 살아남는 법</td>
+					<td>Mean Girls</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>153,000</td>
+					<td>575,148,500</td>
+					<td>88,261</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

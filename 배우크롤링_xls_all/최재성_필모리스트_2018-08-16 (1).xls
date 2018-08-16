@@ -1,0 +1,359 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '최재성'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>무림여대생</td>
+					<td>My Mighty Princess</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>멜로/로맨스,액션,코미디</td>
+					<td>조연-갑성역</td>
+					<td>176,547,500</td>
+					<td>28,019</td>
+					<td>176,330,500</td>
+					<td>27,714</td>
+				</tr>
+			
+				<tr>
+					<td>꿈은이루어</td>
+					<td></td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>우리에게 내일은 없다</td>
+					<td>Boys Of Tomorrow</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>3,500</td>
+					<td>22,063,500</td>
+					<td>3,329</td>
+				</tr>
+			
+				<tr>
+					<td>싸울아비</td>
+					<td>Saulabi</td>
+					<td>2001</td>
+					<td>한국</td>
+					<td>드라마,사극</td>
+					<td>주연</td>
+					<td></td>
+					<td>11,301</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>흑우</td>
+					<td>Black Rain</td>
+					<td>2000</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>692</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>깡패수업 3</td>
+					<td>The Rules of a Gangster 3</td>
+					<td>2000</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>519</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>깡패수업 2</td>
+					<td>The Rules of a Gangster 2</td>
+					<td>1999</td>
+					<td>한국</td>
+					<td>액션,범죄</td>
+					<td>주연-독수역</td>
+					<td>0</td>
+					<td>3,683</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>파트너</td>
+					<td>Partner</td>
+					<td>1997</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>4,000</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>투 맨</td>
+					<td>Two Men</td>
+					<td>1996</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>23,875</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>도둑과 시인</td>
+					<td>Thief And A Poet</td>
+					<td>1995</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>5,408</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>장미빛 인생</td>
+					<td>Rosy Life</td>
+					<td>1994</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-동팔역</td>
+					<td>0</td>
+					<td>37,979</td>
+					<td>4,219,000</td>
+					<td>2,108</td>
+				</tr>
+			
+				<tr>
+					<td>아담이 눈뜰 때</td>
+					<td>When Adam Opens His Eyes</td>
+					<td>1993</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>31,267</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>독재 소공화국</td>
+					<td>A Small Autocratic Republic</td>
+					<td>1990</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>5,101</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사랑은 지금부터 시작이야</td>
+					<td>This Is The Beginning Of Love</td>
+					<td>1990</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>6,029</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>내사랑 동키호테</td>
+					<td>My Love, Don Quixote</td>
+					<td>1989</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>28,747</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>달콤한 신부들</td>
+					<td>Sweet Brides</td>
+					<td>1988</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>21,309</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>풀잎사랑</td>
+					<td>Puppy Love</td>
+					<td>1988</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>17,459</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>이장호의 외인구단 2</td>
+					<td>Lee Jang-Ho And Alien Baseball Team 2</td>
+					<td>1988</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-오혜성역</td>
+					<td>0</td>
+					<td>40,827</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>돌아이 4 둔버기</td>
+					<td>Dol-Ai 4-Dunebuggy</td>
+					<td>1988</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>14,546</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아스팔트 위의 동키호테</td>
+					<td>Don Quixote On Asphalt</td>
+					<td>1988</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>76,281</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>고속도로</td>
+					<td></td>
+					<td>1987</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>26,174</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>물망초</td>
+					<td></td>
+					<td>1987</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>41,599</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>작은 고추</td>
+					<td>Little Big Man</td>
+					<td>1986</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>12,118</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>이장호의 외인구단</td>
+					<td>Lee Jang-ho&#039;s Baseball Team</td>
+					<td>1986</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-오혜성역</td>
+					<td>0</td>
+					<td>287,712</td>
+					<td>756,000</td>
+					<td>378</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

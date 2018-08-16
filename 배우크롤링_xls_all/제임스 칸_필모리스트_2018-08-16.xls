@@ -1,0 +1,372 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '제임스 칸'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>더 굿 네이버</td>
+					<td>The Good Neighbor</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아웃사이더</td>
+					<td>The Outsider</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>액션,범죄</td>
+					<td>주연</td>
+					<td>18,555,000</td>
+					<td>3,711</td>
+					<td>18,555,000</td>
+					<td>3,711</td>
+				</tr>
+			
+				<tr>
+					<td>디태치먼트</td>
+					<td>Detachment</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-미스터 시볼트역</td>
+					<td>96,249,900</td>
+					<td>12,733</td>
+					<td>96,267,900</td>
+					<td>12,736</td>
+				</tr>
+			
+				<tr>
+					<td>스몰 아파트</td>
+					<td>Small Apartments</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>코미디,범죄</td>
+					<td>주연-미스터 올스파이스 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>헨리스 크라임</td>
+					<td>HENRY&#039;S CRIME</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>범죄,드라마,멜로/로맨스,스릴러</td>
+					<td>주연-맥스 샐츠먼역</td>
+					<td>41,616,000</td>
+					<td>5,663</td>
+					<td>41,616,000</td>
+					<td>5,663</td>
+				</tr>
+			
+				<tr>
+					<td>하늘에서 음식이 내린다면</td>
+					<td>Cloudy With A Chance Of Meatballs</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>애니메이션,가족</td>
+					<td>주연-팀 록우드 목소리 역(목소리)</td>
+					<td>5,500,218,152</td>
+					<td>665,096</td>
+					<td>5,417,904,500</td>
+					<td>655,078</td>
+				</tr>
+			
+				<tr>
+					<td>엘프</td>
+					<td>Elf</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연-월터역</td>
+					<td>0</td>
+					<td>85,614</td>
+					<td>344,242,500</td>
+					<td>57,377</td>
+				</tr>
+			
+				<tr>
+					<td>시티 오브 고스트</td>
+					<td>City Of Ghosts</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>범죄,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>레드락 탈출</td>
+					<td>Warden Of Red Rock</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>서부극(웨스턴)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>인 더 섀도우</td>
+					<td>In The Shadows</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>특명 네이비 씰</td>
+					<td>A Glimpse Of Hell</td>
+					<td>2001</td>
+					<td>캐나다,미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>럭키타운</td>
+					<td>Luckytown</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>드라마,범죄,미스터리,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>미키 블루 아이즈 </td>
+					<td>Mickey Blue Eyes</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>31,386</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>이레이저 </td>
+					<td>Eraser</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>액션,스릴러,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>516,721</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>타슌가</td>
+					<td>Tashunga</td>
+					<td>1995</td>
+					<td>프랑스,이탈리아,영국</td>
+					<td>서부극(웨스턴)</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,605</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>프로그램 </td>
+					<td>The Program</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>7,405</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>허니문 인 베가스</td>
+					<td>Honeymoon In Vegas</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>12,651</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>악몽</td>
+					<td>Flesh And Bone</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>드라마,미스터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>미저리</td>
+					<td>Misery</td>
+					<td>1990</td>
+					<td>미국</td>
+					<td>스릴러,공포(호러),드라마</td>
+					<td>주연-폴 쉘던역</td>
+					<td>0</td>
+					<td>99,753</td>
+					<td>300,000</td>
+					<td>100</td>
+				</tr>
+			
+				<tr>
+					<td>멀고 먼 다리</td>
+					<td>A Bridge Too Far</td>
+					<td>1977</td>
+					<td>영국</td>
+					<td>드라마,액션,전쟁</td>
+					<td>주연-SSgt. 에디 도헌역</td>
+					<td>0</td>
+					<td>180,203</td>
+					<td>228,000</td>
+					<td>76</td>
+				</tr>
+			
+				<tr>
+					<td>죽음의 경기</td>
+					<td>Rollerball</td>
+					<td>1975</td>
+					<td>미국</td>
+					<td>액션,SF</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>후리비의 대난전</td>
+					<td>Freebie and the Bean</td>
+					<td>1974</td>
+					<td>미국</td>
+					<td>드라마,코미디,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>75,391</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>겜블러</td>
+					<td>The Gambler</td>
+					<td>1974</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>카운트다운</td>
+					<td>Countdown</td>
+					<td>1968</td>
+					<td>미국</td>
+					<td>SF,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>엘도라도</td>
+					<td>El Dorado</td>
+					<td>1967</td>
+					<td>미국</td>
+					<td>서부극(웨스턴)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>134,000</td>
+					<td>52</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

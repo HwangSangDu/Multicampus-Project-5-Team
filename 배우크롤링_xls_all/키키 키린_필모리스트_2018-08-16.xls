@@ -1,0 +1,99 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '키키 키린'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>어느 가족</td>
+					<td>SHOPLIFTERS</td>
+					<td>2018</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,127,665,500</td>
+					<td>133,860</td>
+				</tr>
+			
+				<tr>
+					<td>태풍이 지나가고</td>
+					<td>After the Storm</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>772,484,972</td>
+					<td>93,005</td>
+					<td>775,662,972</td>
+					<td>93,394</td>
+				</tr>
+			
+				<tr>
+					<td>앙: 단팥 인생 이야기</td>
+					<td>An</td>
+					<td>2015</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>219,663,862</td>
+					<td>27,590</td>
+					<td>220,424,862</td>
+					<td>27,717</td>
+				</tr>
+			
+				<tr>
+					<td>오다기리 죠의 도쿄타워</td>
+					<td>Tokyo Tower - Mom &amp; Me, Sometimes Dad</td>
+					<td>2007</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연-엄마 역</td>
+					<td>0</td>
+					<td>62,405</td>
+					<td>360,906,000</td>
+					<td>55,746</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

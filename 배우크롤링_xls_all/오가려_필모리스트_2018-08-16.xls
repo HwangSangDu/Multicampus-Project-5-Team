@@ -1,0 +1,281 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '오가려'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>유리의 눈물</td>
+					<td>Glass Tears</td>
+					<td>2001</td>
+					<td>홍콩</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>신첩혈쌍웅 </td>
+					<td>Gun N Roses</td>
+					<td>1996</td>
+					<td>홍콩</td>
+					<td>액션,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>176</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>극도수성</td>
+					<td>Evil Instinct </td>
+					<td>1996</td>
+					<td>홍콩</td>
+					<td>미스터리,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>타락유희</td>
+					<td></td>
+					<td>1994</td>
+					<td>홍콩</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,292</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>신불료정 </td>
+					<td>That&#039;S Life My Darling</td>
+					<td>1994</td>
+					<td>홍콩</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>6,344</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>양축 </td>
+					<td>The Lovers</td>
+					<td>1994</td>
+					<td>홍콩</td>
+					<td>사극,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>18,507</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>성항일호</td>
+					<td>Rock&#039;N Roll Cop</td>
+					<td>1994</td>
+					<td>홍콩</td>
+					<td>스릴러,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>762</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>연애천공</td>
+					<td>Modern Romance</td>
+					<td>1994</td>
+					<td>홍콩</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>지존불패</td>
+					<td>Dragon Hunt</td>
+					<td>1993</td>
+					<td>홍콩</td>
+					<td>액션,어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,032</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>맨하탄 잠복근무 </td>
+					<td>Manhattan Sunrise</td>
+					<td>1992</td>
+					<td>홍콩</td>
+					<td>범죄,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>188</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>카멜레온 </td>
+					<td>Naked Killer</td>
+					<td>1992</td>
+					<td>홍콩</td>
+					<td>드라마,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>3,633</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>노화위룡</td>
+					<td>Crystal Hunt</td>
+					<td>1991</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>14,000</td>
+					<td>2</td>
+					<td>14,000</td>
+					<td>2</td>
+				</tr>
+			
+				<tr>
+					<td>옥보단</td>
+					<td>Sex And Zen</td>
+					<td>1991</td>
+					<td>홍콩</td>
+					<td>판타지,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>124,642</td>
+					<td>1,449,000</td>
+					<td>354</td>
+				</tr>
+			
+				<tr>
+					<td>옥보단 무삭제판</td>
+					<td>Sex And Zen</td>
+					<td>1991</td>
+					<td>중국</td>
+					<td>멜로/로맨스,판타지</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>강시지존</td>
+					<td>The Ultimate Vampire</td>
+					<td>1990</td>
+					<td>홍콩</td>
+					<td>공포(호러),액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>21,959</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>천라지망</td>
+					<td>Gunmen</td>
+					<td>1989</td>
+					<td>홍콩</td>
+					<td>액션,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>9,662</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>의본대형</td>
+					<td>Big Brother</td>
+					<td>1989</td>
+					<td>홍콩</td>
+					<td>범죄,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>4,565</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>복수의 만가</td>
+					<td>The First Time Is The Last Time</td>
+					<td>1988</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>11,432</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

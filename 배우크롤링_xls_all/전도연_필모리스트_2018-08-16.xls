@@ -1,0 +1,294 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '전도연'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>생일(가제)</td>
+					<td></td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>보금자리</td>
+					<td>The Nest</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td></td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>남과 여</td>
+					<td>A Man and A Woman</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>1,651,122,533</td>
+					<td>203,775</td>
+					<td>1,651,122,533</td>
+					<td>203,775</td>
+				</tr>
+			
+				<tr>
+					<td>협녀, 칼의 기억</td>
+					<td>Memories of the Sword </td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>사극,액션</td>
+					<td>주연-월소역</td>
+					<td>3,360,045,489</td>
+					<td>431,310</td>
+					<td>3,360,045,489</td>
+					<td>431,310</td>
+				</tr>
+			
+				<tr>
+					<td>무뢰한</td>
+					<td>The Shameless</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>3,262,087,431</td>
+					<td>414,626</td>
+					<td>3,262,380,431</td>
+					<td>414,663</td>
+				</tr>
+			
+				<tr>
+					<td>집으로 가는 길</td>
+					<td>Way Back Home</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>13,048,519,745</td>
+					<td>1,854,625</td>
+					<td>13,049,026,745</td>
+					<td>1,854,711</td>
+				</tr>
+			
+				<tr>
+					<td>카운트다운</td>
+					<td>Countdown</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마,액션</td>
+					<td>주연-차하연역</td>
+					<td>3,630,557,000</td>
+					<td>471,547</td>
+					<td>3,630,557,000</td>
+					<td>471,547</td>
+				</tr>
+			
+				<tr>
+					<td>하녀</td>
+					<td>The Housemaid</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>스릴러,멜로/로맨스</td>
+					<td>주연-하녀, 은이역</td>
+					<td>17,310,669,976</td>
+					<td>2,304,487</td>
+					<td>17,038,839,500</td>
+					<td>2,267,579</td>
+				</tr>
+			
+				<tr>
+					<td>멋진 하루</td>
+					<td>My Dear Enemy</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>2,554,838,451</td>
+					<td>390,741</td>
+					<td>2,586,823,171</td>
+					<td>397,387</td>
+				</tr>
+			
+				<tr>
+					<td>밀양</td>
+					<td>Secret Sunshine</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-피아노 학원 강사, 이신애역</td>
+					<td>0</td>
+					<td>1,710,364</td>
+					<td>10,270,292,500</td>
+					<td>1,604,439</td>
+				</tr>
+			
+				<tr>
+					<td>너는 내 운명</td>
+					<td>You Are My Sunshine</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연-전은하역</td>
+					<td>0</td>
+					<td>3,051,134</td>
+					<td>17,655,244,500</td>
+					<td>2,701,851</td>
+				</tr>
+			
+				<tr>
+					<td>인어 공주</td>
+					<td>My Mother, The Mermaid</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-김나영/조연순역</td>
+					<td>0</td>
+					<td>661,679</td>
+					<td>2,828,877,500</td>
+					<td>437,250</td>
+				</tr>
+			
+				<tr>
+					<td>스캔들-조선남녀상열지사</td>
+					<td>Untold Scandal</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>사극</td>
+					<td>주연</td>
+					<td></td>
+					<td>3,522,747</td>
+					<td>10,662,000</td>
+					<td>1,200</td>
+				</tr>
+			
+				<tr>
+					<td>피도 눈물도 없이</td>
+					<td>No Blood No Tears</td>
+					<td>2001</td>
+					<td>한국</td>
+					<td>드라마,액션</td>
+					<td>주연</td>
+					<td></td>
+					<td>225,038</td>
+					<td>134,000</td>
+					<td>23</td>
+				</tr>
+			
+				<tr>
+					<td>나도 아내가 있었으면 좋겠다</td>
+					<td>I Wish I Had a Wife</td>
+					<td>2000</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>280,852</td>
+					<td>6,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>해피엔드</td>
+					<td>Happy End</td>
+					<td>1999</td>
+					<td>한국</td>
+					<td>멜로/로맨스,스릴러</td>
+					<td>주연-최보라역</td>
+					<td>0</td>
+					<td>730,000</td>
+					<td>2,158,000</td>
+					<td>260</td>
+				</tr>
+			
+				<tr>
+					<td>내 마음의 풍금</td>
+					<td>The Harmonium In My Memory</td>
+					<td>1998</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연-홍연 역역</td>
+					<td>0</td>
+					<td>148,494</td>
+					<td>3,471,000</td>
+					<td>1,417</td>
+				</tr>
+			
+				<tr>
+					<td>약속</td>
+					<td>A Promise</td>
+					<td>1998</td>
+					<td>한국</td>
+					<td>멜로/로맨스,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>704,600</td>
+					<td>6,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>접속</td>
+					<td>The Contact</td>
+					<td>1997</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>674,933</td>
+					<td>2,833,000</td>
+					<td>360</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

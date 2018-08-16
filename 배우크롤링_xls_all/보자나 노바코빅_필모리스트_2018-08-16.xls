@@ -1,0 +1,138 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '보자나 노바코빅'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>아이, 토냐</td>
+					<td>I, Tonya </td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>114,741,400</td>
+					<td>14,002</td>
+					<td>114,741,400</td>
+					<td>14,002</td>
+				</tr>
+			
+				<tr>
+					<td>할로우-죽음의제물</td>
+					<td>The hallow</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>300,000</td>
+					<td>60</td>
+				</tr>
+			
+				<tr>
+					<td>리틀 데스</td>
+					<td>The Little Death</td>
+					<td>2014</td>
+					<td>호주</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>60,000</td>
+					<td>10</td>
+					<td>60,000</td>
+					<td>10</td>
+				</tr>
+			
+				<tr>
+					<td>정사 : 두 여자와의 로맨스</td>
+					<td>Generation Um</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>3,489,000</td>
+					<td>1,657</td>
+					<td>3,489,000</td>
+					<td>1,657</td>
+				</tr>
+			
+				<tr>
+					<td>버닝맨</td>
+					<td>Burning man</td>
+					<td>2011</td>
+					<td>영국,호주</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-사라역</td>
+					<td>1,000,000</td>
+					<td>200</td>
+					<td>1,000,000</td>
+					<td>200</td>
+				</tr>
+			
+				<tr>
+					<td>데블</td>
+					<td>Devil</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>공포(호러)</td>
+					<td>주연-젊은 여성역</td>
+					<td>868,744,643</td>
+					<td>118,286</td>
+					<td>855,105,000</td>
+					<td>116,403</td>
+				</tr>
+			
+				<tr>
+					<td>낙천주의자들</td>
+					<td>The Optimists</td>
+					<td>2006</td>
+					<td>세르비아</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

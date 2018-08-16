@@ -1,0 +1,294 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '나가사와 마사미'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>극장판 도라에몽: 진구의 보물섬</td>
+					<td></td>
+					<td>2018</td>
+					<td>일본</td>
+					<td>애니메이션,SF,어드벤처</td>
+					<td>조연-피오나 (일본어 목소리)역(목소리)</td>
+					<td></td>
+					<td></td>
+					<td>508,135,400</td>
+					<td>65,990</td>
+				</tr>
+			
+				<tr>
+					<td>산책하는 침략자</td>
+					<td>Before We Vanish</td>
+					<td>2017</td>
+					<td>일본</td>
+					<td>드라마,SF</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>2,650,500</td>
+					<td>268</td>
+				</tr>
+			
+				<tr>
+					<td>은혼</td>
+					<td>Gintama</td>
+					<td>2017</td>
+					<td>일본</td>
+					<td>액션,어드벤처,코미디</td>
+					<td>주연</td>
+					<td>148,853,500</td>
+					<td>18,323</td>
+					<td>148,853,500</td>
+					<td>18,323</td>
+				</tr>
+			
+				<tr>
+					<td>태평륜 완결편</td>
+					<td>The Crossing Final</td>
+					<td>2017</td>
+					<td>중국</td>
+					<td>드라마,멜로/로맨스,전쟁,액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>너의 이름은.</td>
+					<td>your name.</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>애니메이션,드라마,멜로/로맨스</td>
+					<td>주연-오쿠데라 미키 역역</td>
+					<td>29,564,054,156</td>
+					<td>3,673,885</td>
+					<td>29,856,853,056</td>
+					<td>3,711,443</td>
+				</tr>
+			
+				<tr>
+					<td>아이 엠 어 히어로</td>
+					<td>I Am a Hero</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>액션,공포(호러)</td>
+					<td>주연</td>
+					<td>1,806,714,900</td>
+					<td>212,599</td>
+					<td>1,806,758,900</td>
+					<td>212,607</td>
+				</tr>
+			
+				<tr>
+					<td>태평륜 피안</td>
+					<td>The Crossing 2</td>
+					<td>2015</td>
+					<td>중국</td>
+					<td>드라마,액션,전쟁</td>
+					<td>주연</td>
+					<td>265,000</td>
+					<td>53</td>
+					<td>751,000</td>
+					<td>123</td>
+				</tr>
+			
+				<tr>
+					<td>바닷마을 다이어리</td>
+					<td>Our Little Sister</td>
+					<td>2015</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>825,145,384</td>
+					<td>100,624</td>
+					<td>841,928,384</td>
+					<td>102,887</td>
+				</tr>
+			
+				<tr>
+					<td>태평륜</td>
+					<td>The Crossing</td>
+					<td>2014</td>
+					<td>중국</td>
+					<td>드라마,액션,전쟁</td>
+					<td>주연</td>
+					<td>730,000</td>
+					<td>146</td>
+					<td>790,000</td>
+					<td>166</td>
+				</tr>
+			
+				<tr>
+					<td>깨끗하고 연약한</td>
+					<td>Beyond the Memories</td>
+					<td>2013</td>
+					<td>일본</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>18,232,600</td>
+					<td>2,661</td>
+					<td>18,232,600</td>
+					<td>2,661</td>
+				</tr>
+			
+				<tr>
+					<td>모테키: 모태솔로 탈출기</td>
+					<td>Love Strikes!</td>
+					<td>2011</td>
+					<td>일본</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연-미유키 마츠오역</td>
+					<td>4,985,000</td>
+					<td>954</td>
+					<td>4,985,000</td>
+					<td>954</td>
+				</tr>
+			
+				<tr>
+					<td>군청</td>
+					<td>Cobalt Blue</td>
+					<td>2009</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>숨은 요새의 세 악인</td>
+					<td>The Last Princess</td>
+					<td>2008</td>
+					<td>일본</td>
+					<td>액션,어드벤처</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>그때는 그에게 안부 전해줘</td>
+					<td>Say Hello For Me</td>
+					<td>2007</td>
+					<td>일본</td>
+					<td>판타지,멜로/로맨스</td>
+					<td>주연-타키카와 카리 역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>눈물이 주룩주룩</td>
+					<td>Tears For You</td>
+					<td>2006</td>
+					<td>일본</td>
+					<td>드라마,멜로/로맨스,미스터리,코미디</td>
+					<td>주연-아라가키 카오루역</td>
+					<td>0</td>
+					<td>114,995</td>
+					<td>693,839,500</td>
+					<td>113,122</td>
+				</tr>
+			
+				<tr>
+					<td>러프</td>
+					<td>Rough</td>
+					<td>2006</td>
+					<td>일본</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>터치</td>
+					<td>Touch</td>
+					<td>2005</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>세상의 중심에서 사랑을 외치다</td>
+					<td>Crying Out Love In The Center Of The World</td>
+					<td>2004</td>
+					<td>일본</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>428,202</td>
+					<td>2,010,989,500</td>
+					<td>315,274</td>
+				</tr>
+			
+				<tr>
+					<td>로보콘</td>
+					<td>Robot Contest</td>
+					<td>2003</td>
+					<td>일본</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

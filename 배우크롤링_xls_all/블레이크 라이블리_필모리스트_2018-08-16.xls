@@ -1,0 +1,190 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '블레이크 라이블리'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>카페 소사이어티</td>
+					<td>Cafe Society</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>1,047,223,666</td>
+					<td>126,439</td>
+					<td>1,048,530,166</td>
+					<td>126,621</td>
+				</tr>
+			
+				<tr>
+					<td>언더 워터</td>
+					<td>The Shallows</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td>3,111,772,391</td>
+					<td>384,789</td>
+					<td>3,111,772,391</td>
+					<td>384,789</td>
+				</tr>
+			
+				<tr>
+					<td>아델라인 : 멈춰진 시간</td>
+					<td>The Age of Adaline</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>판타지,멜로/로맨스</td>
+					<td>주연</td>
+					<td>310,087,419</td>
+					<td>40,096</td>
+					<td>310,087,419</td>
+					<td>40,096</td>
+				</tr>
+			
+				<tr>
+					<td>파괴자들</td>
+					<td>Savages</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연-오필리아역</td>
+					<td>141,102,068</td>
+					<td>19,716</td>
+					<td>141,104,068</td>
+					<td>19,717</td>
+				</tr>
+			
+				<tr>
+					<td>런어웨이 걸</td>
+					<td>Hick</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>4,758,000</td>
+					<td>1,010</td>
+					<td>4,758,000</td>
+					<td>1,010</td>
+				</tr>
+			
+				<tr>
+					<td>그린랜턴: 반지의 선택</td>
+					<td>Green Lantern</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>SF,액션</td>
+					<td>주연-캐롤 페리스역</td>
+					<td>1,651,783,500</td>
+					<td>216,676</td>
+					<td>1,651,783,500</td>
+					<td>216,676</td>
+				</tr>
+			
+				<tr>
+					<td>뉴욕 아이 러브 유</td>
+					<td>New York, I Love You</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>코미디,드라마,멜로/로맨스</td>
+					<td>주연-여자친구 역</td>
+					<td>647,982,325</td>
+					<td>83,600</td>
+					<td>638,301,000</td>
+					<td>82,356</td>
+				</tr>
+			
+				<tr>
+					<td>청바지 돌려입기 2</td>
+					<td>The Sisterhood Of The Traveling Pants 2</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>엘비스와 아나벨레</td>
+					<td>Elvis and Anabelle</td>
+					<td>2007</td>
+					<td>영국,미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>짝퉁 대학생</td>
+					<td>Accepted</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>조연-모니카 역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>청바지 돌려입기</td>
+					<td>The Sisterhood Of The Traveling Pants</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

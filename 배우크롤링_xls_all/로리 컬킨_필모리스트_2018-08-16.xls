@@ -1,0 +1,86 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '로리 컬킨'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>하우스 오브 데스</td>
+					<td>Intruders</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러,드라마</td>
+					<td>주연</td>
+					<td>86,000</td>
+					<td>32</td>
+					<td>86,000</td>
+					<td>32</td>
+				</tr>
+			
+				<tr>
+					<td>라임라이프</td>
+					<td>Lymelife</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연-스캇 바틀역</td>
+					<td>40,513,580</td>
+					<td>5,418</td>
+					<td>39,825,500</td>
+					<td>5,323</td>
+				</tr>
+			
+				<tr>
+					<td>민 크리크</td>
+					<td>Mean Creek</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

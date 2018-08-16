@@ -1,0 +1,203 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '타구치 토모로오'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>네코아츠메의 집</td>
+					<td>NEKO ATSUME HOUSE</td>
+					<td>2017</td>
+					<td>일본</td>
+					<td>드라마,가족</td>
+					<td>조연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>피스 오브 케이크</td>
+					<td>piece of cake</td>
+					<td>2015</td>
+					<td>일본</td>
+					<td>멜로/로맨스</td>
+					<td>감독</td>
+					<td>5,959,500</td>
+					<td>723</td>
+					<td>5,959,500</td>
+					<td>723</td>
+				</tr>
+			
+				<tr>
+					<td>일본대침몰: 야쿠자 대전쟁</td>
+					<td>Chivalrous Spirit Sinking</td>
+					<td>2011</td>
+					<td>일본</td>
+					<td>액션,드라마</td>
+					<td>주연</td>
+					<td>10,000</td>
+					<td>2</td>
+					<td>10,000</td>
+					<td>2</td>
+				</tr>
+			
+				<tr>
+					<td>논두렁 댄디</td>
+					<td>A Man with Style</td>
+					<td>2011</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>125,000</td>
+					<td>25</td>
+				</tr>
+			
+				<tr>
+					<td>소년 메리켄사쿠</td>
+					<td>Brass Knuckle Boys</td>
+					<td>2008</td>
+					<td>일본</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>세상에서 가장 아름다운 밤</td>
+					<td>The Most Beautiful Night In The World</td>
+					<td>2007</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>대정전의 밤에</td>
+					<td>Until The Lights Come Back</td>
+					<td>2005</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>8,000</td>
+					<td>2</td>
+					<td>8,000</td>
+					<td>2</td>
+				</tr>
+			
+				<tr>
+					<td>낯설은 섹스 그리고 연인</td>
+					<td>L&#039;amant</td>
+					<td>2004</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>2001년 9월 11일</td>
+					<td>11&#039;09&#039;&#039;01 - September 11</td>
+					<td>2002</td>
+					<td>영국,프랑스,이집트,일본,멕시코,미국,이란</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>데드 오어 얼라이브 2: 도망자</td>
+					<td>Dead Or Alive 2: Birds</td>
+					<td>2000</td>
+					<td>일본</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스위트 스위트 고스트</td>
+					<td>Sweet Sweet Ghost</td>
+					<td>2000</td>
+					<td>일본</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>오시키리</td>
+					<td>Oshikiri</td>
+					<td>2000</td>
+					<td>일본</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

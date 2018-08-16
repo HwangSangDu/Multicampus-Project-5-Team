@@ -1,0 +1,203 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '김영필'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>선지자의 밤</td>
+					<td>The Night of the Prophet</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-중헌역</td>
+					<td>2,424,500</td>
+					<td>286</td>
+					<td>2,424,500</td>
+					<td>286</td>
+				</tr>
+			
+				<tr>
+					<td>로맨스 조</td>
+					<td>Romance Joe</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>주연-로맨스 조역</td>
+					<td>26,682,600</td>
+					<td>3,526</td>
+					<td>26,960,600</td>
+					<td>3,591</td>
+				</tr>
+			
+				<tr>
+					<td>소와 함께 여행하는 법</td>
+					<td>Rolling Home With A Bull</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-선호역</td>
+					<td>107,018,251</td>
+					<td>16,356</td>
+					<td>105,338,000</td>
+					<td>16,096</td>
+				</tr>
+			
+				<tr>
+					<td>야윈가슴</td>
+					<td>Sleeping Heart</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>카페 느와르</td>
+					<td>Cafe Noir</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>조연-박해일 닮은 남자역</td>
+					<td>54,925,506</td>
+					<td>7,070</td>
+					<td>58,367,900</td>
+					<td>7,516</td>
+				</tr>
+			
+				<tr>
+					<td>내 사랑 내 곁에</td>
+					<td>Closer To Heaven</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>단역-종우 친구, 욱중역</td>
+					<td>15,764,312,409</td>
+					<td>2,160,265</td>
+					<td>15,584,755,500</td>
+					<td>2,135,509</td>
+				</tr>
+			
+				<tr>
+					<td>강철중: 공공의 적 1-1</td>
+					<td>Public Enemy Returns</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>드라마,액션</td>
+					<td>주연-준만역</td>
+					<td>28,465,757,767</td>
+					<td>4,300,670</td>
+					<td>28,638,465,100</td>
+					<td>4,313,102</td>
+				</tr>
+			
+				<tr>
+					<td>라듸오 데이즈</td>
+					<td>Radio Days</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>단역-소설가역</td>
+					<td>1,405,676,000</td>
+					<td>214,946</td>
+					<td>1,394,050,500</td>
+					<td>210,525</td>
+				</tr>
+			
+				<tr>
+					<td>파란자전거</td>
+					<td>The Elephant On The Bike</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-여동생 남친역</td>
+					<td>0</td>
+					<td>2,355</td>
+					<td>13,805,000</td>
+					<td>2,205</td>
+				</tr>
+			
+				<tr>
+					<td>그놈 목소리</td>
+					<td>Voice of a Murderer</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>드라마,스릴러</td>
+					<td>조연-한인석역</td>
+					<td>0</td>
+					<td>3,143,247</td>
+					<td>17,598,617,600</td>
+					<td>2,972,299</td>
+				</tr>
+			
+				<tr>
+					<td>비열한 거리</td>
+					<td>A Dirty Carnival</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>액션,범죄,드라마</td>
+					<td>단역-이 대리역</td>
+					<td>0</td>
+					<td>2,047,808</td>
+					<td>11,664,597,600</td>
+					<td>1,829,887</td>
+				</tr>
+			
+				<tr>
+					<td>로망스</td>
+					<td>Romance</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>단역-권 형사역</td>
+					<td>0</td>
+					<td>424,514</td>
+					<td>2,376,146,100</td>
+					<td>371,700</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

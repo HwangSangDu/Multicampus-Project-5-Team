@@ -1,0 +1,99 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '이언정'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>화끈한 써비스: 어느 잔인한 미용사의</td>
+					<td></td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>주연-김난자역</td>
+					<td>868,000</td>
+					<td>148</td>
+					<td>868,000</td>
+					<td>148</td>
+				</tr>
+			
+				<tr>
+					<td>귀접</td>
+					<td>A Touch Of Unseen </td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-연수역</td>
+					<td>1,639,000</td>
+					<td>228</td>
+					<td>1,639,000</td>
+					<td>228</td>
+				</tr>
+			
+				<tr>
+					<td>하이힐</td>
+					<td>Man on High Heels</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>범죄,액션</td>
+					<td>조연-주연역</td>
+					<td>2,749,906,500</td>
+					<td>341,606</td>
+					<td>2,750,311,500</td>
+					<td>341,634</td>
+				</tr>
+			
+				<tr>
+					<td>울학교 이티</td>
+					<td>Our School&#039;s E.T.</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>단역-화학선생역</td>
+					<td>4,156,170,833</td>
+					<td>651,439</td>
+					<td>4,159,767,500</td>
+					<td>652,178</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,255 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '밀라 쿠니스'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>원더랜드</td>
+					<td>Wonder Park</td>
+					<td>2019</td>
+					<td>스페인,미국</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>나를 차버린 스파이</td>
+					<td>The Spy Who Dumped Me</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>액션,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>37,504,000</td>
+					<td>4,685</td>
+				</tr>
+			
+				<tr>
+					<td>주피터 어센딩</td>
+					<td>Jupiter Ascending</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>SF,액션,어드벤처</td>
+					<td>주연</td>
+					<td>2,685,741,879</td>
+					<td>309,729</td>
+					<td>2,687,549,879</td>
+					<td>309,842</td>
+				</tr>
+			
+				<tr>
+					<td>앵그리스트 맨</td>
+					<td>The Angriest Man in Brooklyn</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>229,523,200</td>
+					<td>30,656</td>
+					<td>229,649,200</td>
+					<td>30,673</td>
+				</tr>
+			
+				<tr>
+					<td>써드 퍼슨 - 감독판</td>
+					<td>Third Person</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>드라마,미스터리,멜로/로맨스</td>
+					<td>주연</td>
+					<td>87,139,400</td>
+					<td>10,910</td>
+					<td>87,282,400</td>
+					<td>10,929</td>
+				</tr>
+			
+				<tr>
+					<td>블러드 타이즈 </td>
+					<td>Blood Ties</td>
+					<td>2013</td>
+					<td>프랑스,미국</td>
+					<td>범죄,액션,드라마</td>
+					<td>주연</td>
+					<td>41,526,500</td>
+					<td>5,828</td>
+					<td>41,526,500</td>
+					<td>5,828</td>
+				</tr>
+			
+				<tr>
+					<td>오즈 그레이트 앤드 파워풀</td>
+					<td>Oz: The Great and Powerful</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>판타지,어드벤처,액션</td>
+					<td>주연-마녀 테오도라 역</td>
+					<td>2,886,185,000</td>
+					<td>350,563</td>
+					<td>2,886,185,000</td>
+					<td>350,563</td>
+				</tr>
+			
+				<tr>
+					<td>19곰 테드</td>
+					<td>Ted</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>코미디,판타지</td>
+					<td>주연-로리역</td>
+					<td>2,034,959,293</td>
+					<td>266,574</td>
+					<td>2,034,959,293</td>
+					<td>266,574</td>
+				</tr>
+			
+				<tr>
+					<td>프렌즈 위드 베네핏</td>
+					<td>Friends With Benefits</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연-제이미 역</td>
+					<td>591,765,000</td>
+					<td>80,197</td>
+					<td>591,765,000</td>
+					<td>80,197</td>
+				</tr>
+			
+				<tr>
+					<td>블랙 스완</td>
+					<td>Black Swan</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연-릴리역</td>
+					<td>12,484,096,000</td>
+					<td>1,623,199</td>
+					<td>12,486,540,500</td>
+					<td>1,623,518</td>
+				</tr>
+			
+				<tr>
+					<td>엑스트랙트</td>
+					<td>Extract</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>맥스 페인</td>
+					<td>Max Payne</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>범죄,스릴러,액션</td>
+					<td>주연</td>
+					<td>1,629,486,000</td>
+					<td>257,808</td>
+					<td>1,631,146,500</td>
+					<td>258,067</td>
+				</tr>
+			
+				<tr>
+					<td>사랑이 어떻게 변하니?</td>
+					<td>Forgetting Sarah Marshall</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>부트캠프</td>
+					<td>Boot Camp</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td>12,000</td>
+					<td>3</td>
+					<td>12,000</td>
+					<td>3</td>
+				</tr>
+			
+				<tr>
+					<td>애프터 섹스</td>
+					<td>After Sex</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아메리칸 싸이코 2</td>
+					<td>American Psycho 2</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,541 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '수잔 서랜든'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>밤쉘</td>
+					<td>Bombshell: The Hedy Lamarr Story</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>다큐멘터리</td>
+					<td>제작</td>
+					<td>83,007,830</td>
+					<td>10,777</td>
+					<td>86,536,330</td>
+					<td>11,226</td>
+				</tr>
+			
+				<tr>
+					<td>스파키</td>
+					<td>Spark : A Space Tail</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>애니메이션,어드벤처,코미디</td>
+					<td>주연</td>
+					<td>257,040,200</td>
+					<td>35,436</td>
+					<td>257,040,200</td>
+					<td>35,436</td>
+				</tr>
+			
+				<tr>
+					<td>세상의 모든 엄마와 딸들</td>
+					<td>Mothers and Daughters</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>8,000</td>
+					<td>1</td>
+					<td>8,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>어바웃 레이</td>
+					<td>About Ray</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>73,962,502</td>
+					<td>10,052</td>
+					<td>73,962,502</td>
+					<td>10,052</td>
+				</tr>
+			
+				<tr>
+					<td>더 콜링</td>
+					<td>The Calling</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>빅 웨딩</td>
+					<td>The Big Wedding </td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연-비비역</td>
+					<td>231,885,500</td>
+					<td>33,993</td>
+					<td>233,303,500</td>
+					<td>34,466</td>
+				</tr>
+			
+				<tr>
+					<td>스니치</td>
+					<td>Snitch</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>288,292,500</td>
+					<td>41,480</td>
+					<td>288,292,500</td>
+					<td>41,480</td>
+				</tr>
+			
+				<tr>
+					<td>컴퍼니 유 킵</td>
+					<td>The Company You Keep</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>조연</td>
+					<td>13,694,000</td>
+					<td>2,134</td>
+					<td>13,925,000</td>
+					<td>2,173</td>
+				</tr>
+			
+				<tr>
+					<td>시크릿</td>
+					<td>Arbitrage</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td>9,339,000</td>
+					<td>1,330</td>
+					<td>9,339,000</td>
+					<td>1,330</td>
+				</tr>
+			
+				<tr>
+					<td>로봇 앤 프랭크</td>
+					<td>Robot and Frank</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>코미디,드라마,SF</td>
+					<td>주연</td>
+					<td>69,243,000</td>
+					<td>10,379</td>
+					<td>69,243,000</td>
+					<td>10,379</td>
+				</tr>
+			
+				<tr>
+					<td>클라우드 아틀라스</td>
+					<td>Cloud Atlas</td>
+					<td>2012</td>
+					<td>미국,독일</td>
+					<td>SF,판타지</td>
+					<td>주연</td>
+					<td>3,412,002,227</td>
+					<td>452,755</td>
+					<td>3,414,930,727</td>
+					<td>453,116</td>
+				</tr>
+			
+				<tr>
+					<td>댓츠 마이 보이</td>
+					<td>That&#039;s My Boy</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연-메리 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>월 스트리트: 머니 네버 슬립스</td>
+					<td>Wall Street 2: Money Never Sleeps</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>드라마,범죄,스릴러</td>
+					<td>주연-실비아 무어역</td>
+					<td>1,788,986,817</td>
+					<td>245,343</td>
+					<td>1,760,899,000</td>
+					<td>241,438</td>
+				</tr>
+			
+				<tr>
+					<td>그레이티스트</td>
+					<td>The Greatest</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연-그레이스 브루어역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>미스터 우드콕</td>
+					<td>Mr. Woodcock</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>버나드 앤 도리스</td>
+					<td>Bernard and Doris</td>
+					<td>2007</td>
+					<td>미국,영국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>이리지스터블</td>
+					<td>Irresistible</td>
+					<td>2006</td>
+					<td>호주</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>엘리자베스타운</td>
+					<td>Elizabethtown</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>코미디,드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>97,800</td>
+					<td>507,710,000</td>
+					<td>77,588</td>
+				</tr>
+			
+				<tr>
+					<td>로맨스 &amp; 시가렛</td>
+					<td>Romance &amp; Cigarettes</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>코미디,뮤지컬,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스위트 크리스마스</td>
+					<td>Noel</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-로즈역</td>
+					<td>0</td>
+					<td>4,128</td>
+					<td>22,231,500</td>
+					<td>3,348</td>
+				</tr>
+			
+				<tr>
+					<td>쉘 위 댄스</td>
+					<td>Shall We Dance?</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>132,856</td>
+					<td>549,991,000</td>
+					<td>82,936</td>
+				</tr>
+			
+				<tr>
+					<td>와일드 클럽</td>
+					<td>Banger Sisters</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>3,400</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>문라이트 마일</td>
+					<td>Moonlight Mile</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아티카의 유령들</td>
+					<td>Ghosts Of Attica</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>다큐멘터리</td>
+					<td>주연-내레이터 역(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>야! 러그래츠: 파리 대모험 </td>
+					<td>Rugrats In Paris: The Movie</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>이것이 바로 민주주의!</td>
+					<td>This Is What Democracy Looks Like</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>다큐멘터리</td>
+					<td>주연-나레이터 역(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>라버 앤 러버 </td>
+					<td>Earthly Possessions</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>793</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>여기보다 어딘가에</td>
+					<td>Anywhere But Here</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>트와이라잇</td>
+					<td>Twilight</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>미스터리,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스텝맘</td>
+					<td>Stepmom</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>113,706</td>
+					<td>119,000</td>
+					<td>50</td>
+				</tr>
+			
+				<tr>
+					<td>데드맨 워킹 </td>
+					<td>Deadman Walking</td>
+					<td>1995</td>
+					<td>영국,미국</td>
+					<td>드라마,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>138,080</td>
+					<td>0</td>
+					<td>0</td>
+				</tr>
+			
+				<tr>
+					<td>작은 아씨들 </td>
+					<td>Little Woman</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>24,799</td>
+					<td>366,000</td>
+					<td>135</td>
+				</tr>
+			
+				<tr>
+					<td>의뢰인 </td>
+					<td>The Client</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>드라마,미스터리,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>154,885</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>로렌조 오일</td>
+					<td>Lorenzo&#039;s Oil</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>5,727</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>델마와 루이스 </td>
+					<td>Thelma and Louise</td>
+					<td>1991</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-루이스역</td>
+					<td>0</td>
+					<td>119,301</td>
+					<td>71,247,100</td>
+					<td>9,185</td>
+				</tr>
+			
+				<tr>
+					<td>깊은밤 깊은 곳에</td>
+					<td>The Other Side Of Midnight</td>
+					<td>1977</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>552,908</td>
+					<td>2,038,000</td>
+					<td>931</td>
+				</tr>
+			
+				<tr>
+					<td>록키 호러 픽쳐 쇼</td>
+					<td>The Rocky Horror Picture Show</td>
+					<td>1975</td>
+					<td>미국,영국</td>
+					<td>공포(호러),뮤지컬,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>31,443</td>
+					<td>45,833,700</td>
+					<td>5,853</td>
+				</tr>
+			
+				<tr>
+					<td>그레이트 왈도 페퍼</td>
+					<td>The Great Waldo Pepper </td>
+					<td>1975</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-메리 베스 역역</td>
+					<td></td>
+					<td></td>
+					<td>60,000</td>
+					<td>30</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

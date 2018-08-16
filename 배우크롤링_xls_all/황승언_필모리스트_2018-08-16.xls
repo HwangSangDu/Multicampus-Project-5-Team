@@ -1,0 +1,216 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '황승언'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>메멘토모리</td>
+					<td>MEMENTO MORI</td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>471,300</td>
+					<td>54</td>
+					<td>1,237,800</td>
+					<td>151</td>
+				</tr>
+			
+				<tr>
+					<td>더 킹</td>
+					<td>The King </td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>범죄,드라마</td>
+					<td>조연-전희성역</td>
+					<td>43,486,078,535</td>
+					<td>5,316,325</td>
+					<td>43,488,814,535</td>
+					<td>5,317,693</td>
+				</tr>
+			
+				<tr>
+					<td>범죄의 여왕</td>
+					<td>The Queen of Crime</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>스릴러,코미디</td>
+					<td>단역</td>
+					<td>343,663,400</td>
+					<td>43,823</td>
+					<td>343,992,400</td>
+					<td>43,866</td>
+				</tr>
+			
+				<tr>
+					<td>굿바이 싱글</td>
+					<td>Familyhood</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>단역</td>
+					<td>16,912,706,195</td>
+					<td>2,108,273</td>
+					<td>16,913,282,195</td>
+					<td>2,108,561</td>
+				</tr>
+			
+				<tr>
+					<td>우리 연애의 이력</td>
+					<td>With or Without You</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>조연-하이린역</td>
+					<td>24,084,800</td>
+					<td>3,043</td>
+					<td>24,084,800</td>
+					<td>3,043</td>
+				</tr>
+			
+				<tr>
+					<td>슬로우 비디오</td>
+					<td>Slow Video</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>단역-여주인공역</td>
+					<td>8,913,092,219</td>
+					<td>1,169,562</td>
+					<td>8,913,092,219</td>
+					<td>1,169,562</td>
+				</tr>
+			
+				<tr>
+					<td>족구왕</td>
+					<td>The King of Jokgu</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>코미디,멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>359,688,000</td>
+					<td>45,701</td>
+					<td>368,776,500</td>
+					<td>47,299</td>
+				</tr>
+			
+				<tr>
+					<td>수상한 그녀</td>
+					<td>Miss Granny</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역</td>
+					<td>62,696,639,249</td>
+					<td>8,656,397</td>
+					<td>62,715,946,849</td>
+					<td>8,659,725</td>
+				</tr>
+			
+				<tr>
+					<td>영화의 완성</td>
+					<td>The Trinity</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-지경역</td>
+					<td></td>
+					<td></td>
+					<td>0</td>
+					<td>0</td>
+				</tr>
+			
+				<tr>
+					<td>오싹한 연애</td>
+					<td>Spellbound</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>공포(호러),멜로/로맨스,코미디</td>
+					<td>조연-이주희역</td>
+					<td>22,010,977,000</td>
+					<td>3,009,356</td>
+					<td>22,011,287,000</td>
+					<td>3,009,406</td>
+				</tr>
+			
+				<tr>
+					<td>부산</td>
+					<td>City Of Fathers</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>액션,드라마</td>
+					<td>단역-미나역</td>
+					<td>1,185,994,280</td>
+					<td>160,741</td>
+					<td>1,172,970,000</td>
+					<td>158,943</td>
+				</tr>
+			
+				<tr>
+					<td>요가학원</td>
+					<td>Yoga</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>공포(호러)</td>
+					<td>조연-보라역</td>
+					<td>1,947,834,107</td>
+					<td>271,514</td>
+					<td>1,927,358,500</td>
+					<td>268,627</td>
+				</tr>
+			
+				<tr>
+					<td>여고괴담 5</td>
+					<td>A Blood Pledge</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>공포(호러),스릴러</td>
+					<td>조연-박지미역</td>
+					<td>4,205,826,795</td>
+					<td>652,097</td>
+					<td>4,158,738,000</td>
+					<td>644,717</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

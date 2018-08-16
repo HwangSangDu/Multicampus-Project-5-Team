@@ -1,0 +1,450 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '김인권'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>배반의 장미</td>
+					<td></td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>물괴</td>
+					<td>Monstrum</td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>액션,사극</td>
+					<td>주연-성한역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>비밥바룰라</td>
+					<td>Be-Bop-A-Lula</td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>조연</td>
+					<td>318,997,200</td>
+					<td>46,819</td>
+					<td>322,062,200</td>
+					<td>47,432</td>
+				</tr>
+			
+				<tr>
+					<td>레전드</td>
+					<td></td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>이 세상을 사는 법</td>
+					<td>a simple life</td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>고산자, 대동여지도</td>
+					<td>The Map Against the World</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>사극</td>
+					<td>주연-바우역</td>
+					<td>7,801,007,258</td>
+					<td>974,262</td>
+					<td>7,801,007,258</td>
+					<td>974,262</td>
+				</tr>
+			
+				<tr>
+					<td>히말라야</td>
+					<td>The Himalayas</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연</td>
+					<td>60,173,583,015</td>
+					<td>7,759,473</td>
+					<td>60,175,363,015</td>
+					<td>7,759,761</td>
+				</tr>
+			
+				<tr>
+					<td>약장수</td>
+					<td>Clown of a Salesman </td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>313,238,400</td>
+					<td>43,562</td>
+					<td>314,552,400</td>
+					<td>44,216</td>
+				</tr>
+			
+				<tr>
+					<td>쎄시봉</td>
+					<td>C&#039;est Si Bon</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디,드라마</td>
+					<td>주연</td>
+					<td>13,570,381,911</td>
+					<td>1,714,803</td>
+					<td>13,571,515,911</td>
+					<td>1,715,370</td>
+				</tr>
+			
+				<tr>
+					<td>타짜-신의 손</td>
+					<td>Tazza-The Hidden Card</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-허광철역</td>
+					<td>32,373,120,927</td>
+					<td>4,015,361</td>
+					<td>32,373,120,927</td>
+					<td>4,015,361</td>
+				</tr>
+			
+				<tr>
+					<td>신의 한 수</td>
+					<td>The Divine Move</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>범죄,액션</td>
+					<td>주연</td>
+					<td>28,810,921,456</td>
+					<td>3,566,336</td>
+					<td>28,812,027,456</td>
+					<td>3,566,852</td>
+				</tr>
+			
+				<tr>
+					<td>신이 보낸 사람</td>
+					<td>Apostle </td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-주철호역</td>
+					<td>3,068,195,600</td>
+					<td>424,258</td>
+					<td>3,069,268,600</td>
+					<td>424,778</td>
+				</tr>
+			
+				<tr>
+					<td>전국노래자랑</td>
+					<td>Born to Sing</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>6,685,476,000</td>
+					<td>977,873</td>
+					<td>6,687,636,000</td>
+					<td>978,413</td>
+				</tr>
+			
+				<tr>
+					<td>타워</td>
+					<td>The Tower</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-오병만 역</td>
+					<td>37,654,858,000</td>
+					<td>5,181,014</td>
+					<td>37,654,858,000</td>
+					<td>5,181,014</td>
+				</tr>
+			
+				<tr>
+					<td>강철대오:구국의 철가방</td>
+					<td>Almost Che</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>1,614,867,156</td>
+					<td>233,211</td>
+					<td>1,614,867,156</td>
+					<td>233,211</td>
+				</tr>
+			
+				<tr>
+					<td>광해, 왕이 된 남자</td>
+					<td>Masquerade</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>사극,드라마</td>
+					<td>주연-도부장역</td>
+					<td>88,900,208,769</td>
+					<td>12,319,542</td>
+					<td>88,909,386,769</td>
+					<td>12,323,595</td>
+				</tr>
+			
+				<tr>
+					<td>퀵</td>
+					<td>Quick</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>코미디,액션</td>
+					<td>주연</td>
+					<td>22,960,890,000</td>
+					<td>3,125,069</td>
+					<td>22,960,890,000</td>
+					<td>3,125,069</td>
+				</tr>
+			
+				<tr>
+					<td>초능력자</td>
+					<td>Haunters</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>SF,드라마</td>
+					<td>단역-사채업자역</td>
+					<td>15,618,440,958</td>
+					<td>2,164,805</td>
+					<td>15,374,798,000</td>
+					<td>2,130,645</td>
+				</tr>
+			
+				<tr>
+					<td>방가? 방가!</td>
+					<td>He&#039;s on Duty</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>주연-방태식(방가)역</td>
+					<td>7,129,363,141</td>
+					<td>989,021</td>
+					<td>7,013,842,000</td>
+					<td>972,431</td>
+				</tr>
+			
+				<tr>
+					<td>이웃집 남자</td>
+					<td>The Man Next Door</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마,범죄</td>
+					<td>주연-순대남역</td>
+					<td>8,301,336</td>
+					<td>1,207</td>
+					<td>8,171,000</td>
+					<td>1,188</td>
+				</tr>
+			
+				<tr>
+					<td>숙명</td>
+					<td>Fate</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>드라마,액션</td>
+					<td>주연</td>
+					<td>5,680,873,500</td>
+					<td>858,215</td>
+					<td>5,680,873,500</td>
+					<td>846,903</td>
+				</tr>
+			
+				<tr>
+					<td>용의주도 미스신</td>
+					<td>Miss Gold Digger</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>95,329,500</td>
+					<td>595,872</td>
+					<td>3,743,082,000</td>
+					<td>579,973</td>
+				</tr>
+			
+				<tr>
+					<td>마이 파더</td>
+					<td>My Father</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마,가족</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>902,090</td>
+					<td>5,641,848,000</td>
+					<td>901,055</td>
+				</tr>
+			
+				<tr>
+					<td>신부수업</td>
+					<td>Love, So Divine</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>조연</td>
+					<td>0</td>
+					<td>1,242,476</td>
+					<td>4,255,753,000</td>
+					<td>675,521</td>
+				</tr>
+			
+				<tr>
+					<td>말죽거리 잔혹사</td>
+					<td>Spirit Of Jeet Keun Do - Once Upon A Time In High School</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>액션,멜로/로맨스</td>
+					<td>조연-찍새역</td>
+					<td>0</td>
+					<td>3,115,767</td>
+					<td>3,837,152,000</td>
+					<td>604,969</td>
+				</tr>
+			
+				<tr>
+					<td>플라스틱 트리</td>
+					<td>Plastic Tree</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td>7,410</td>
+					<td>0</td>
+					<td>0</td>
+				</tr>
+			
+				<tr>
+					<td>쉬브스키</td>
+					<td>Shivski</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>판타지</td>
+					<td>감독,주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>챠오</td>
+					<td>Chiao</td>
+					<td>2001</td>
+					<td>한국</td>
+					<td></td>
+					<td>주연-성인 태원역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>공포택시</td>
+					<td>Ghost Taxi</td>
+					<td>2000</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>단역-십대 남 2역</td>
+					<td>0</td>
+					<td>14,651</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아나키스트</td>
+					<td>The Anarchists</td>
+					<td>2000</td>
+					<td>한국</td>
+					<td>사극,액션</td>
+					<td>조연-상구역</td>
+					<td>0</td>
+					<td>236,990</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>송어</td>
+					<td>Rainbow Trout</td>
+					<td>1999</td>
+					<td>한국</td>
+					<td>드라마,스릴러</td>
+					<td>단역-태주역</td>
+					<td>0</td>
+					<td>8,578</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

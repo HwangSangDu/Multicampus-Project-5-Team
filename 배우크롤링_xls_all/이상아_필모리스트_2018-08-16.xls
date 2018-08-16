@@ -1,0 +1,203 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '이상아'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>스타박&#039;스 다방</td>
+					<td>Bittersweet Brew</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>주연-성주란(성두 이모)역</td>
+					<td>13,220,000</td>
+					<td>1,886</td>
+					<td>13,220,000</td>
+					<td>1,886</td>
+				</tr>
+			
+				<tr>
+					<td>스피드</td>
+					<td>Speed</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-미자역</td>
+					<td>6,667,000</td>
+					<td>776</td>
+					<td>6,667,000</td>
+					<td>776</td>
+				</tr>
+			
+				<tr>
+					<td>써니</td>
+					<td>Sunny</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>단역-과거 사진 특별출연역</td>
+					<td>54,034,235,100</td>
+					<td>7,362,467</td>
+					<td>54,038,534,700</td>
+					<td>7,363,139</td>
+				</tr>
+			
+				<tr>
+					<td>천하장사 마돈나</td>
+					<td>Like A Virgin</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>단역-동구 모역</td>
+					<td>0</td>
+					<td>678,930</td>
+					<td>3,552,450,700</td>
+					<td>575,373</td>
+				</tr>
+			
+				<tr>
+					<td>아빠는 보디가드</td>
+					<td>My Father The Body Guard</td>
+					<td>1995</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>3,210</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>넝쿨속의 히야신스</td>
+					<td>A Hyacinth Encircled By Vines</td>
+					<td>1992</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>성인신고식</td>
+					<td>Coming Of Age</td>
+					<td>1990</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,764</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>너와 나의 비밀일기</td>
+					<td></td>
+					<td>1987</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>8,909</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>학창보고서</td>
+					<td></td>
+					<td>1987</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>15,473</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>얄숙이들의 개성시대</td>
+					<td></td>
+					<td>1987</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>10,800</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>젊은 밤 후회없다</td>
+					<td>No Regret</td>
+					<td>1986</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스,범죄,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>11,509</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>말괄량이 대행진</td>
+					<td>Great March Of Tomboys</td>
+					<td>1986</td>
+					<td>한국</td>
+					<td>가족,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>21,560</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

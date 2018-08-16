@@ -1,0 +1,372 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '마이클 키튼'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>어쌔신: 더 비기닝</td>
+					<td>American Assassin</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>1,595,542,000</td>
+					<td>205,544</td>
+					<td>1,595,542,000</td>
+					<td>205,544</td>
+				</tr>
+			
+				<tr>
+					<td>스파이더맨: 홈 커밍</td>
+					<td>Spider-Man: Homecoming</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>액션,어드벤처,SF</td>
+					<td>주연</td>
+					<td>59,125,813,820</td>
+					<td>7,258,678</td>
+					<td>59,125,813,820</td>
+					<td>7,258,678</td>
+				</tr>
+			
+				<tr>
+					<td>파운더</td>
+					<td>The Founder</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>275,304,900</td>
+					<td>34,593</td>
+					<td>275,304,900</td>
+					<td>34,593</td>
+				</tr>
+			
+				<tr>
+					<td>스포트라이트</td>
+					<td>Spotlight</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td>2,390,611,755</td>
+					<td>297,944</td>
+					<td>2,409,513,755</td>
+					<td>300,898</td>
+				</tr>
+			
+				<tr>
+					<td>미니언즈</td>
+					<td>Minions</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td>18,997,911,278</td>
+					<td>2,625,572</td>
+					<td>18,998,384,278</td>
+					<td>2,625,636</td>
+				</tr>
+			
+				<tr>
+					<td>버드맨</td>
+					<td>Birdman or The Unexpected Virtue of Ignorance</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>1,664,640,800</td>
+					<td>206,241</td>
+					<td>1,664,640,800</td>
+					<td>206,241</td>
+				</tr>
+			
+				<tr>
+					<td>로보캅</td>
+					<td>RoboCop</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>액션,SF</td>
+					<td>주연</td>
+					<td>7,299,641,958</td>
+					<td>979,509</td>
+					<td>7,299,641,958</td>
+					<td>979,509</td>
+				</tr>
+			
+				<tr>
+					<td>펜트하우스 노스</td>
+					<td>Penthouse North</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>드라마,스릴러,전쟁</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>라스트 타임 </td>
+					<td>The Last Time</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>코미디,드라마,멜로/로맨스,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>허비</td>
+					<td>Herbie: Fully Loaded</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>코미디,가족,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>60,643</td>
+					<td>295,949,000</td>
+					<td>50,040</td>
+				</tr>
+			
+				<tr>
+					<td>화이트 노이즈</td>
+					<td>White Noise</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>공포(호러),미스터리,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>50,000</td>
+					<td>268,064,500</td>
+					<td>41,318</td>
+				</tr>
+			
+				<tr>
+					<td>CNN의 바그다드 통신</td>
+					<td>Live From Baghdad</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>전쟁,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>퀵샌드</td>
+					<td>Quicksand</td>
+					<td>2001</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>글로리</td>
+					<td>A Shot At Glory</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>잭 프로스트</td>
+					<td>Jack Frost</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>가족,코미디,판타지</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>데스퍼레이트 </td>
+					<td>Desperate Measures</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>드라마,스릴러,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>36,166</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>멀티플리 시티</td>
+					<td>Multiplicity</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>SF,코미디,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>7,079</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스피치리스 </td>
+					<td>Speechless</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,917</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>마이 라이프 </td>
+					<td>My Life</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>86,982</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>배트맨2</td>
+					<td>Batman Returns</td>
+					<td>1992</td>
+					<td>미국</td>
+					<td>SF,액션,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>168,943</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>퍼시픽 하이츠</td>
+					<td>Pacific Heights</td>
+					<td>1990</td>
+					<td>미국</td>
+					<td>스릴러,드라마,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>151,611</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>배트맨</td>
+					<td>Bat Man</td>
+					<td>1989</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>25,086</td>
+					<td>290,000</td>
+					<td>62</td>
+				</tr>
+			
+				<tr>
+					<td>4인의 방랑자</td>
+					<td>The Dream Team</td>
+					<td>1989</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연-빌리 카필드역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>겅호</td>
+					<td>Gung Ho</td>
+					<td>1986</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>갱 파티</td>
+					<td>Johnny Dangerously</td>
+					<td>1984</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

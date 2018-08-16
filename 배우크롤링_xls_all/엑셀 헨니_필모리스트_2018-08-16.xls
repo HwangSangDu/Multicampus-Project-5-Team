@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '엑셀 헨니'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>제 7기사단</td>
+					<td>Last Knights</td>
+					<td>2014</td>
+					<td>한국,미국</td>
+					<td>액션,어드벤처</td>
+					<td>주연-게자 못역</td>
+					<td>80,160,964</td>
+					<td>10,710</td>
+					<td>80,160,964</td>
+					<td>10,710</td>
+				</tr>
+			
+				<tr>
+					<td>파이오니아</td>
+					<td>Pioneer</td>
+					<td>2013</td>
+					<td>노르웨이,독일,스웨덴,프랑스,핀란드</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>2,580,000</td>
+					<td>570</td>
+					<td>2,580,000</td>
+					<td>570</td>
+				</tr>
+			
+				<tr>
+					<td>헤드헌터</td>
+					<td>Headhunters</td>
+					<td>2011</td>
+					<td>노르웨이</td>
+					<td>액션,범죄,스릴러</td>
+					<td>주연</td>
+					<td>7,000</td>
+					<td>1</td>
+					<td>7,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>막스 마누스</td>
+					<td>Max Manus</td>
+					<td>2008</td>
+					<td>노르웨이,덴마크,독일</td>
+					<td>액션,전쟁</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>걱정 말라고 말해줘</td>
+					<td>Tell Me Not To Worry</td>
+					<td>2003</td>
+					<td>노르웨이</td>
+					<td>드라마,애니메이션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>누가 요니를 삽으로 때렸나</td>
+					<td>Jonny Vang</td>
+					<td>2003</td>
+					<td>노르웨이</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

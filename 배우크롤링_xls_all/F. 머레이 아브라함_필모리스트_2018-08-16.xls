@@ -1,0 +1,151 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 'F. 머레이 아브라함'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>드래곤 길들이기 3</td>
+					<td>How to Train Your Dragon 3</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>애니메이션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>비엔나전투 1683</td>
+					<td>September Eleven 1683</td>
+					<td>2013</td>
+					<td>이탈리아,폴란드</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>1,029,000</td>
+					<td>496</td>
+					<td>1,029,000</td>
+					<td>496</td>
+				</tr>
+			
+				<tr>
+					<td>다클링</td>
+					<td>The Darkling</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>에스더</td>
+					<td>Esther</td>
+					<td>1999</td>
+					<td>독일,이탈리아,미국</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>자밀라 </td>
+					<td>Jamila</td>
+					<td>1994</td>
+					<td>영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,256</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>SAS미망인의 눈</td>
+					<td>Eye Of The Widow</td>
+					<td>1991</td>
+					<td>프랑스</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>26,886</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아마데우스 감독판</td>
+					<td>Amadeus Director&#039;s Cut</td>
+					<td>1984</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>118,519,400</td>
+					<td>14,628</td>
+					<td>120,340,300</td>
+					<td>14,884</td>
+				</tr>
+			
+				<tr>
+					<td>아마데우스 </td>
+					<td>Amadeus</td>
+					<td>1984</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>475,755</td>
+					<td>10,435,500</td>
+					<td>1,481</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

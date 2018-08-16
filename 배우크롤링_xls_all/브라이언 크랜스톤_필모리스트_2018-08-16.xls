@@ -1,0 +1,203 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '브라이언 크랜스톤'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>개들의 섬</td>
+					<td>Isle of Dogs</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>코미디,애니메이션,다큐멘터리</td>
+					<td>주연(목소리)</td>
+					<td>204,327,000</td>
+					<td>23,709</td>
+					<td>288,331,100</td>
+					<td>33,192</td>
+				</tr>
+			
+				<tr>
+					<td>파워레인져스: 더 비기닝</td>
+					<td>Power Rangers</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지,SF</td>
+					<td>조연-조던 역역</td>
+					<td>570,203,561</td>
+					<td>72,495</td>
+					<td>577,103,561</td>
+					<td>73,875</td>
+				</tr>
+			
+				<tr>
+					<td>인필트레이터 : 잠입자들</td>
+					<td>The Infiltrator</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td>58,518,000</td>
+					<td>7,735</td>
+					<td>58,518,000</td>
+					<td>7,735</td>
+				</tr>
+			
+				<tr>
+					<td>웨이크필드</td>
+					<td>Wakefield</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>트럼보</td>
+					<td>Trumbo</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>486,936,100</td>
+					<td>61,955</td>
+					<td>487,002,100</td>
+					<td>61,964</td>
+				</tr>
+			
+				<tr>
+					<td>고질라</td>
+					<td>Godzilla</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>액션,SF</td>
+					<td>주연</td>
+					<td>5,972,847,963</td>
+					<td>709,734</td>
+					<td>5,972,847,963</td>
+					<td>709,734</td>
+				</tr>
+			
+				<tr>
+					<td>콜드 컴즈 더 나잇 </td>
+					<td>Cold Comes the Night</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>범죄,드라마,스릴러</td>
+					<td>주연-토포 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>디태치먼트</td>
+					<td>Detachment</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>조연-리처드 디어든역</td>
+					<td>96,249,900</td>
+					<td>12,733</td>
+					<td>96,267,900</td>
+					<td>12,736</td>
+				</tr>
+			
+				<tr>
+					<td>아르고</td>
+					<td>ARGO</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>조연</td>
+					<td>1,001,059,500</td>
+					<td>140,736</td>
+					<td>1,001,059,500</td>
+					<td>140,736</td>
+				</tr>
+			
+				<tr>
+					<td>레드 테일스</td>
+					<td>Red Tails</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션,어드벤처</td>
+					<td>주연-Maj. 윌리엄 모르타무스 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>배트맨: 이어 원</td>
+					<td>Batman: Year One</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>애니메이션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>에로띠끄 </td>
+					<td>Erotique</td>
+					<td>1994</td>
+					<td>호주</td>
+					<td>성인물(에로),드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>12,645</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

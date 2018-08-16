@@ -1,0 +1,190 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '최성호'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>레바논 감정</td>
+					<td>Lebanon Emotion</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>스릴러,드라마,멜로/로맨스,액션</td>
+					<td>주연</td>
+					<td>10,541,400</td>
+					<td>1,466</td>
+					<td>10,837,400</td>
+					<td>1,523</td>
+				</tr>
+			
+				<tr>
+					<td>압록강은 흐른다</td>
+					<td>Der Yaln Fliesst</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>드라마,사극</td>
+					<td>주연</td>
+					<td>3,397,814</td>
+					<td>806</td>
+					<td>3,360,500</td>
+					<td>797</td>
+				</tr>
+			
+				<tr>
+					<td>푸른 옷소매</td>
+					<td>Green Sleeves</td>
+					<td>1991</td>
+					<td>한국</td>
+					<td>드라마,전쟁</td>
+					<td>투자</td>
+					<td>0</td>
+					<td>4,984</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>달래내 보슬이</td>
+					<td></td>
+					<td>1987</td>
+					<td>한국</td>
+					<td>사극,성인물(에로)</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>6,596</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>여자가 밤을 두려워 하랴</td>
+					<td>Women Don&#039;T Fear The Night</td>
+					<td>1983</td>
+					<td>한국</td>
+					<td>드라마,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>53,132</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>오염된 자식들</td>
+					<td>Polluted Ones</td>
+					<td>1982</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>37,548</td>
+					<td>114,000</td>
+					<td>19</td>
+				</tr>
+			
+				<tr>
+					<td>피막</td>
+					<td>The Hut</td>
+					<td>1980</td>
+					<td>한국</td>
+					<td>공포(호러),드라마,미스터리</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>35,940</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>부초</td>
+					<td>Floating Plants</td>
+					<td>1978</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>18,154</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>체험</td>
+					<td>Experience</td>
+					<td>1978</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,384</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>유성검</td>
+					<td>The Yuseong Sword</td>
+					<td>1977</td>
+					<td>한국,홍콩</td>
+					<td>사극,액션</td>
+					<td>주연</td>
+					<td></td>
+					<td>68,830</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>남사당</td>
+					<td>A troupe of strolling actors</td>
+					<td>1974</td>
+					<td>한국</td>
+					<td>사극</td>
+					<td>주연</td>
+					<td></td>
+					<td>1,863</td>
+					<td>491,000</td>
+					<td>273</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

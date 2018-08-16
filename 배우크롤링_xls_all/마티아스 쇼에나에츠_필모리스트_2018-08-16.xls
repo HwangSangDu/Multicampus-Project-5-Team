@@ -1,0 +1,151 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '마티아스 쇼에나에츠'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>레드 스패로</td>
+					<td>RED SPARROW</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>860,743,700</td>
+					<td>108,344</td>
+					<td>860,743,700</td>
+					<td>108,344</td>
+				</tr>
+			
+				<tr>
+					<td>매릴랜드</td>
+					<td>Maryland</td>
+					<td>2015</td>
+					<td>프랑스,벨기에</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>133,000</td>
+					<td>35</td>
+					<td>133,000</td>
+					<td>35</td>
+				</tr>
+			
+				<tr>
+					<td>비거 스플래쉬</td>
+					<td>A Bigger Splash </td>
+					<td>2015</td>
+					<td>이탈리아,프랑스</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>120,406,129</td>
+					<td>15,201</td>
+					<td>121,201,553</td>
+					<td>15,307</td>
+				</tr>
+			
+				<tr>
+					<td>스윗 프랑세즈</td>
+					<td>Suite Francaise</td>
+					<td>2015</td>
+					<td>영국,프랑스,미국</td>
+					<td>멜로/로맨스,전쟁</td>
+					<td>주연</td>
+					<td>154,580,300</td>
+					<td>20,820</td>
+					<td>154,686,300</td>
+					<td>20,836</td>
+				</tr>
+			
+				<tr>
+					<td>성난 군중으로부터 멀리</td>
+					<td>Far from the Madding Crowd</td>
+					<td>2015</td>
+					<td>미국,영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>더 드롭</td>
+					<td>The Drop</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>블루밍 러브</td>
+					<td>A Little Chaos</td>
+					<td>2014</td>
+					<td>영국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>러스트 앤 본</td>
+					<td>Rust &amp; Bone</td>
+					<td>2012</td>
+					<td>프랑스</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>239,980,900</td>
+					<td>31,766</td>
+					<td>243,290,900</td>
+					<td>32,165</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

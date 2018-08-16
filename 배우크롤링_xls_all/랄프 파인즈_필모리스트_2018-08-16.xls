@@ -1,0 +1,424 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '랄프 파인즈'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>레고 배트맨 무비</td>
+					<td>The Lego Batman Movie</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>애니메이션,액션,코미디</td>
+					<td>주연(목소리)</td>
+					<td>1,175,424,305</td>
+					<td>148,760</td>
+					<td>1,175,424,305</td>
+					<td>148,760</td>
+				</tr>
+			
+				<tr>
+					<td>쿠보와 전설의 악기</td>
+					<td>Kubo and the Two Strings</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>애니메이션,어드벤처,가족,판타지</td>
+					<td>주연(목소리)</td>
+					<td>208,824,862</td>
+					<td>30,525</td>
+					<td>208,824,862</td>
+					<td>30,525</td>
+				</tr>
+			
+				<tr>
+					<td>헤일, 시저!</td>
+					<td>Hail, Caesar!</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>271,122,300</td>
+					<td>34,295</td>
+					<td>271,444,300</td>
+					<td>34,331</td>
+				</tr>
+			
+				<tr>
+					<td>비거 스플래쉬</td>
+					<td>A Bigger Splash </td>
+					<td>2015</td>
+					<td>이탈리아,프랑스</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>120,406,129</td>
+					<td>15,201</td>
+					<td>121,201,553</td>
+					<td>15,307</td>
+				</tr>
+			
+				<tr>
+					<td>그랜드 부다페스트 호텔</td>
+					<td>The Grand Budapest Hotel</td>
+					<td>2014</td>
+					<td>미국,독일</td>
+					<td>미스터리,어드벤처</td>
+					<td>주연</td>
+					<td>6,014,299,982</td>
+					<td>773,887</td>
+					<td>6,049,062,782</td>
+					<td>778,493</td>
+				</tr>
+			
+				<tr>
+					<td>인비저블 우먼</td>
+					<td>The Invisible Woman</td>
+					<td>2013</td>
+					<td>영국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>감독,주연-찰스 디킨스 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>타이탄의 분노</td>
+					<td>Wrath Of The Titans</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션,판타지</td>
+					<td>주연-하데스 역</td>
+					<td>7,591,124,500</td>
+					<td>893,027</td>
+					<td>7,591,124,500</td>
+					<td>893,027</td>
+				</tr>
+			
+				<tr>
+					<td>007 스카이폴</td>
+					<td>SKYFALL</td>
+					<td>2011</td>
+					<td>미국,영국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>17,487,213,000</td>
+					<td>2,376,145</td>
+					<td>17,487,818,000</td>
+					<td>2,376,266</td>
+				</tr>
+			
+				<tr>
+					<td>코리올라누스: 세기의 라이벌</td>
+					<td>Coriolanus</td>
+					<td>2010</td>
+					<td>영국</td>
+					<td>전쟁,드라마,스릴러</td>
+					<td>감독,주연-카이오 마티어스 콜리올라누스역</td>
+					<td>8,722,000</td>
+					<td>2,309</td>
+					<td>8,722,000</td>
+					<td>2,309</td>
+				</tr>
+			
+				<tr>
+					<td>타이탄</td>
+					<td>Clash Of The Titans</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지</td>
+					<td>주연-하데스역</td>
+					<td>22,143,097,429</td>
+					<td>2,685,508</td>
+					<td>21,796,996,500</td>
+					<td>2,642,483</td>
+				</tr>
+			
+				<tr>
+					<td>더 리더: 책 읽어주는 남자</td>
+					<td>The Reader</td>
+					<td>2008</td>
+					<td>미국,독일</td>
+					<td>드라마,멜로/로맨스,범죄,전쟁</td>
+					<td>주연-마이클역</td>
+					<td>2,980,253,983</td>
+					<td>457,343</td>
+					<td>2,971,551,000</td>
+					<td>455,053</td>
+				</tr>
+			
+				<tr>
+					<td>킬러들의 도시</td>
+					<td>In Bruges</td>
+					<td>2008</td>
+					<td>영국,미국</td>
+					<td>범죄,드라마,스릴러</td>
+					<td>주연-해리 웨이터스역</td>
+					<td>394,632,089</td>
+					<td>57,387</td>
+					<td>378,294,000</td>
+					<td>54,999</td>
+				</tr>
+			
+				<tr>
+					<td>공작부인:세기의 스캔들</td>
+					<td>The Duchess</td>
+					<td>2008</td>
+					<td>미국,영국</td>
+					<td>사극,멜로/로맨스</td>
+					<td>주연</td>
+					<td>1,576,695,833</td>
+					<td>247,373</td>
+					<td>1,594,720,000</td>
+					<td>250,657</td>
+				</tr>
+			
+				<tr>
+					<td>버나드 앤 도리스</td>
+					<td>Bernard and Doris</td>
+					<td>2007</td>
+					<td>미국,영국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>콘스탄트 가드너</td>
+					<td>The Constant Gardener</td>
+					<td>2005</td>
+					<td>영국</td>
+					<td>스릴러,드라마</td>
+					<td>주연-저스틴 퀘일역</td>
+					<td>0</td>
+					<td>26,346</td>
+					<td>168,587,700</td>
+					<td>25,838</td>
+				</tr>
+			
+				<tr>
+					<td>월래스와 그로밋 : 거대토끼의 저주</td>
+					<td>Wallace &amp; Gromit Movie: The Curse Of The Wererabbit</td>
+					<td>2005</td>
+					<td>영국</td>
+					<td>애니메이션,코미디,가족,어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>388,499</td>
+					<td>2,150,869,500</td>
+					<td>351,449</td>
+				</tr>
+			
+				<tr>
+					<td>화이트 카운티스</td>
+					<td>The White Countess</td>
+					<td>2005</td>
+					<td>영국,미국,독일,중국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>러브 인 맨하탄</td>
+					<td>Maid In Manhattan</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>195,913</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스파이더</td>
+					<td>Spider</td>
+					<td>2002</td>
+					<td>캐나다</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,029</td>
+					<td>7,901,500</td>
+					<td>1,223</td>
+				</tr>
+			
+				<tr>
+					<td>미라클 메이커</td>
+					<td>The Miracle Maker</td>
+					<td>2000</td>
+					<td>영국</td>
+					<td>드라마,애니메이션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>7,187,000</td>
+					<td>1,109</td>
+				</tr>
+			
+				<tr>
+					<td>오네긴</td>
+					<td>Onegin</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-에브게니 오네긴역</td>
+					<td>0</td>
+					<td>302</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>선샤인</td>
+					<td>Sunshine</td>
+					<td>1999</td>
+					<td>독일,오스트리아 ,캐나다,헝가리</td>
+					<td>드라마,멜로/로맨스,전쟁</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사랑의 슬픔 애수</td>
+					<td>The End Of The Affair</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>멜로/로맨스,전쟁</td>
+					<td>주연-모리스 벤드릭스역</td>
+					<td>0</td>
+					<td>10,438</td>
+					<td>1,586,000</td>
+					<td>448</td>
+				</tr>
+			
+				<tr>
+					<td>이집트 왕자</td>
+					<td>THe Prince Of Egypt</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>애니메이션,드라마,가족</td>
+					<td>주연(목소리)</td>
+					<td>0</td>
+					<td>613,973</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>어벤저</td>
+					<td>The Avengers</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>액션,어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>66,395</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>잉글리쉬 페이션트</td>
+					<td>The English Patient</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>멜로/로맨스,드라마,전쟁</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>312,882</td>
+					<td>175,296,500</td>
+					<td>23,593</td>
+				</tr>
+			
+				<tr>
+					<td>스트레인지 데이즈 </td>
+					<td>Strange Days</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>SF,드라마,범죄,스릴러,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>17,710</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>퀴즈 쇼 </td>
+					<td>Quiz Show</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>44,950</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>쉰들러 리스트 </td>
+					<td>Schindler&#039;S List</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>드라마,사극,전쟁</td>
+					<td>주연-아몬 괴트역</td>
+					<td>0</td>
+					<td>847,259</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

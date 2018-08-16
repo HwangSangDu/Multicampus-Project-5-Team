@@ -1,0 +1,203 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '서준영'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>그리다</td>
+					<td></td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>5,996,300</td>
+					<td>861</td>
+					<td>5,996,300</td>
+					<td>861</td>
+				</tr>
+			
+				<tr>
+					<td>실종2</td>
+					<td></td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>11,252,500</td>
+					<td>1,513</td>
+					<td>11,252,500</td>
+					<td>1,513</td>
+				</tr>
+			
+				<tr>
+					<td>어떻게 헤어질까</td>
+					<td>How to Break up with My Cat</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>판타지,드라마</td>
+					<td>주연</td>
+					<td>8,909,600</td>
+					<td>1,154</td>
+					<td>8,909,600</td>
+					<td>1,154</td>
+				</tr>
+			
+				<tr>
+					<td>방 안의 코끼리</td>
+					<td>Elephant in the Room</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>기타,SF,드라마,코미디,판타지,멜로/로맨스</td>
+					<td>주연</td>
+					<td>13,173,800</td>
+					<td>1,465</td>
+					<td>13,173,800</td>
+					<td>1,465</td>
+				</tr>
+			
+				<tr>
+					<td>권법형사 : 차이나타운</td>
+					<td>Martial Arts Detective: Chinatown</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>액션,범죄</td>
+					<td>주연</td>
+					<td>1,405,000</td>
+					<td>257</td>
+					<td>1,405,000</td>
+					<td>257</td>
+				</tr>
+			
+				<tr>
+					<td>세컨어카운트</td>
+					<td>Second Account</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연-삼겹살역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>평양냉면</td>
+					<td>Cold Buckwheat Noodles</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스피드</td>
+					<td>Speed</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>6,667,000</td>
+					<td>776</td>
+					<td>6,667,000</td>
+					<td>776</td>
+				</tr>
+			
+				<tr>
+					<td>썸남썸녀</td>
+					<td></td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디,드라마</td>
+					<td>주연-남자5호 역역</td>
+					<td></td>
+					<td></td>
+					<td>566,000</td>
+					<td>81</td>
+				</tr>
+			
+				<tr>
+					<td>방황하는 칼날</td>
+					<td>Broken</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>범죄,스릴러</td>
+					<td>주연</td>
+					<td>7,828,526,800</td>
+					<td>989,881</td>
+					<td>7,828,891,800</td>
+					<td>989,906</td>
+				</tr>
+			
+				<tr>
+					<td>파수꾼</td>
+					<td>Bleak Night</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>161,915,200</td>
+					<td>20,885</td>
+					<td>203,712,400</td>
+					<td>25,932</td>
+				</tr>
+			
+				<tr>
+					<td>회오리 바람</td>
+					<td>Eighteen</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-김태훈역</td>
+					<td>16,581,337</td>
+					<td>2,253</td>
+					<td>16,680,500</td>
+					<td>2,275</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

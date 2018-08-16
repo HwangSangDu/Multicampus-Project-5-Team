@@ -1,0 +1,151 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '여진구'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>1987</td>
+					<td>1987: When the Day Comes</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-박종철역</td>
+					<td>58,166,310,145</td>
+					<td>7,231,770</td>
+					<td>58,166,910,145</td>
+					<td>7,231,830</td>
+				</tr>
+			
+				<tr>
+					<td>대립군</td>
+					<td>WARRIORS OF THE DAWN</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마,사극</td>
+					<td>주연-광해역</td>
+					<td>6,276,963,402</td>
+					<td>837,500</td>
+					<td>6,276,963,402</td>
+					<td>837,500</td>
+				</tr>
+			
+				<tr>
+					<td>서부전선</td>
+					<td>The Long Way Home</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>전쟁,드라마</td>
+					<td>주연</td>
+					<td>4,751,661,400</td>
+					<td>609,063</td>
+					<td>4,751,661,400</td>
+					<td>609,063</td>
+				</tr>
+			
+				<tr>
+					<td>내 심장을 쏴라</td>
+					<td>Shoot Me in the Heart</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>2,856,859,132</td>
+					<td>387,409</td>
+					<td>2,856,859,132</td>
+					<td>387,409</td>
+				</tr>
+			
+				<tr>
+					<td>의궤, 8일간의 축제 3D</td>
+					<td>8 days: the two faces of feast</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>다큐멘터리</td>
+					<td>주연-내레이션 역(목소리)</td>
+					<td>45,334,000</td>
+					<td>7,956</td>
+					<td>45,334,000</td>
+					<td>7,956</td>
+				</tr>
+			
+				<tr>
+					<td>화이: 괴물을 삼킨 아이</td>
+					<td>Hwayi: A Monster Boy</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>액션,스릴러</td>
+					<td>주연-화이역</td>
+					<td>17,695,516,795</td>
+					<td>2,394,466</td>
+					<td>17,695,683,795</td>
+					<td>2,394,487</td>
+				</tr>
+			
+				<tr>
+					<td>백프로</td>
+					<td>Mr. Perfect </td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>284,106,600</td>
+					<td>37,909</td>
+					<td>284,106,600</td>
+					<td>37,909</td>
+				</tr>
+			
+				<tr>
+					<td>애플(Apple)</td>
+					<td>Apple</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>드라마,판타지</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

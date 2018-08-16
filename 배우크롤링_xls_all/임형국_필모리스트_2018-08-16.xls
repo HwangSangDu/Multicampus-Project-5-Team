@@ -1,0 +1,320 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '임형국'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>컴, 투게더</td>
+					<td>Come, Together</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>18,125,100</td>
+					<td>2,379</td>
+					<td>18,146,100</td>
+					<td>2,382</td>
+				</tr>
+			
+				<tr>
+					<td>누에치던 방</td>
+					<td>Jamsil</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-김익주역</td>
+					<td>19,806,800</td>
+					<td>2,511</td>
+					<td>20,810,300</td>
+					<td>2,679</td>
+				</tr>
+			
+				<tr>
+					<td>일어서는 인간</td>
+					<td>Upstanding Man</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>1,583,600</td>
+					<td>254</td>
+					<td>1,643,600</td>
+					<td>264</td>
+				</tr>
+			
+				<tr>
+					<td>한여름의 판타지아</td>
+					<td>A Midsummer&#039;s Fantasia</td>
+					<td>2014</td>
+					<td>한국,일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>279,921,558</td>
+					<td>36,055</td>
+					<td>286,269,458</td>
+					<td>36,859</td>
+				</tr>
+			
+				<tr>
+					<td>조난자들</td>
+					<td>Intruders</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>미스터리,스릴러</td>
+					<td>단역-남자 1역</td>
+					<td>101,958,500</td>
+					<td>13,190</td>
+					<td>101,958,500</td>
+					<td>13,190</td>
+				</tr>
+			
+				<tr>
+					<td>도깨비숲</td>
+					<td>Transcendence</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>기타</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>456,388</td>
+					<td>497</td>
+				</tr>
+			
+				<tr>
+					<td>나쁜 피</td>
+					<td>Dirty Blood</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>범죄</td>
+					<td>주연-종구역</td>
+					<td>9,310,500</td>
+					<td>1,246</td>
+					<td>9,310,500</td>
+					<td>1,246</td>
+				</tr>
+			
+				<tr>
+					<td>줄탁동시</td>
+					<td>Stateless Things</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-성훈역</td>
+					<td>24,619,600</td>
+					<td>3,556</td>
+					<td>25,386,600</td>
+					<td>3,694</td>
+				</tr>
+			
+				<tr>
+					<td>검은 갈매기</td>
+					<td>Black Dove</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-준구역</td>
+					<td></td>
+					<td></td>
+					<td>0</td>
+					<td>0</td>
+				</tr>
+			
+				<tr>
+					<td>마취</td>
+					<td>Anesthesia</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>595,020</td>
+					<td>438</td>
+				</tr>
+			
+				<tr>
+					<td>대한철강</td>
+					<td>Oh! Wonderful Korea!</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>기타,드라마</td>
+					<td>주연-회사원역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>비밀애</td>
+					<td>Secret Love</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>단역-의사역(목소리)</td>
+					<td>1,227,023,002</td>
+					<td>167,132</td>
+					<td>1,206,962,000</td>
+					<td>164,252</td>
+				</tr>
+			
+				<tr>
+					<td>독</td>
+					<td>The Pot</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>공포(호러)</td>
+					<td>주연-형국역</td>
+					<td>3,622,784</td>
+					<td>538</td>
+					<td>3,748,000</td>
+					<td>565</td>
+				</tr>
+			
+				<tr>
+					<td>바보</td>
+					<td>Ba:Bo</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-승룡 부역</td>
+					<td>6,301,818,833</td>
+					<td>974,554</td>
+					<td>6,306,816,500</td>
+					<td>967,654</td>
+				</tr>
+			
+				<tr>
+					<td>숨</td>
+					<td>Breath</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>기타</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>21,000</td>
+					<td>3</td>
+				</tr>
+			
+				<tr>
+					<td>두 얼굴의 여친</td>
+					<td>Two Faces Of My Girlfriend</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>단역-구창 직장 선배역</td>
+					<td>0</td>
+					<td>762,112</td>
+					<td>4,586,849,000</td>
+					<td>700,417</td>
+				</tr>
+			
+				<tr>
+					<td>8월의 일요일들</td>
+					<td>The Sundays of August</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,856</td>
+					<td>8,993,500</td>
+					<td>1,545</td>
+				</tr>
+			
+				<tr>
+					<td>라디오 드림스</td>
+					<td>Radio Dreams</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>퀵 서비스</td>
+					<td>Quick Service</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>선재네 집에서 하룻밤</td>
+					<td>My Night at Seon&#039;s</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td></td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>봄</td>
+					<td>When Spring Comes</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

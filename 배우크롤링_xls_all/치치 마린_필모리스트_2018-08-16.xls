@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '치치 마린'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>슈퍼 버드</td>
+					<td>El Americano</td>
+					<td>2015</td>
+					<td>멕시코</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td>183,154,100</td>
+					<td>25,964</td>
+					<td>183,154,100</td>
+					<td>25,964</td>
+				</tr>
+			
+				<tr>
+					<td>치치 &amp; 총 : 애니메이션 영화</td>
+					<td>Cheech &amp; Chong&#039;s Animated Movie</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>애니메이션,코미디</td>
+					<td>주연(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>퍼펙트 게임</td>
+					<td>The Perfect Game</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>드라마,가족</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>넛티스트 넛크랙커</td>
+					<td>Nuttiest Nutcracker</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>애니메이션,가족</td>
+					<td>주연(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>틴 컵 </td>
+					<td>Tin Cup</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>46,281</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>데스페라도 </td>
+					<td>Desperado</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>53,150</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '구구 바샤-로'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>미녀와 야수</td>
+					<td>Beauty and the Beast</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>멜로/로맨스,판타지,뮤지컬</td>
+					<td>주연</td>
+					<td>42,132,589,579</td>
+					<td>5,138,193</td>
+					<td>42,133,751,579</td>
+					<td>5,138,328</td>
+				</tr>
+			
+				<tr>
+					<td>프리 스테이트</td>
+					<td>Free State of Jones</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,전쟁,드라마</td>
+					<td>주연</td>
+					<td>21,110,000</td>
+					<td>10,541</td>
+					<td>21,110,000</td>
+					<td>10,541</td>
+				</tr>
+			
+				<tr>
+					<td>미스 슬로운</td>
+					<td>Miss Sloane</td>
+					<td>2016</td>
+					<td>미국,프랑스</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td>381,394,300</td>
+					<td>48,051</td>
+					<td>381,394,300</td>
+					<td>48,051</td>
+				</tr>
+			
+				<tr>
+					<td>블랙버드</td>
+					<td>Beyond the Lights</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>97,711,400</td>
+					<td>13,130</td>
+					<td>97,711,400</td>
+					<td>13,130</td>
+				</tr>
+			
+				<tr>
+					<td>벨</td>
+					<td>Belle</td>
+					<td>2013</td>
+					<td>영국</td>
+					<td>드라마</td>
+					<td>주연-디도 엘리자베스 벨 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>로맨틱 크라운</td>
+					<td>Larry Crowne</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>860,040,500</td>
+					<td>114,887</td>
+					<td>860,047,500</td>
+					<td>114,888</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

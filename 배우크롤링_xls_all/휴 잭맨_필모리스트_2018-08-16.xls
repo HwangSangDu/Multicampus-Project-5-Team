@@ -1,0 +1,372 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '휴 잭맨'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>위대한 쇼맨</td>
+					<td>The Greatest Showman</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>드라마,뮤지컬</td>
+					<td>주연</td>
+					<td>11,511,929,500</td>
+					<td>1,402,816</td>
+					<td>11,511,929,500</td>
+					<td>1,402,816</td>
+				</tr>
+			
+				<tr>
+					<td>로건</td>
+					<td>Logan</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>액션,SF</td>
+					<td>주연</td>
+					<td>18,391,060,223</td>
+					<td>2,169,109</td>
+					<td>18,391,060,223</td>
+					<td>2,169,109</td>
+				</tr>
+			
+				<tr>
+					<td>독수리 에디</td>
+					<td>Eddie the Eagle</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>1,799,381,120</td>
+					<td>226,341</td>
+					<td>1,799,381,120</td>
+					<td>226,341</td>
+				</tr>
+			
+				<tr>
+					<td>팬</td>
+					<td>PAN</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>판타지,어드벤처</td>
+					<td>주연-검은수염역</td>
+					<td>1,425,325,592</td>
+					<td>186,174</td>
+					<td>1,425,325,592</td>
+					<td>186,174</td>
+				</tr>
+			
+				<tr>
+					<td>채피</td>
+					<td>Chappie</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>4,620,348,654</td>
+					<td>573,657</td>
+					<td>4,620,380,654</td>
+					<td>573,661</td>
+				</tr>
+			
+				<tr>
+					<td>엑스맨: 데이즈 오브 퓨처 패스트</td>
+					<td>X-Men: Days of Future Past</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>액션,판타지,SF,어드벤처</td>
+					<td>주연</td>
+					<td>34,654,558,766</td>
+					<td>4,313,871</td>
+					<td>34,654,558,766</td>
+					<td>4,313,871</td>
+				</tr>
+			
+				<tr>
+					<td>프리즈너스</td>
+					<td>Prisoners</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>범죄,드라마,스릴러</td>
+					<td>주연-켈러 도버역</td>
+					<td>1,374,330,500</td>
+					<td>188,084</td>
+					<td>1,377,893,000</td>
+					<td>188,702</td>
+				</tr>
+			
+				<tr>
+					<td>더 울버린</td>
+					<td>The Wolverine</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>액션,SF</td>
+					<td>주연-울버린역</td>
+					<td>7,849,518,000</td>
+					<td>1,075,333</td>
+					<td>7,849,518,000</td>
+					<td>1,075,333</td>
+				</tr>
+			
+				<tr>
+					<td>무비 43</td>
+					<td>Movie 43</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>레미제라블</td>
+					<td>Les Miserables</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>43,044,999,000</td>
+					<td>5,911,890</td>
+					<td>43,090,556,000</td>
+					<td>5,920,977</td>
+				</tr>
+			
+				<tr>
+					<td>가디언즈</td>
+					<td>Rise of the Guardians</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>애니메이션,어드벤처</td>
+					<td>주연-버니역(목소리)</td>
+					<td>8,212,243,000</td>
+					<td>1,075,584</td>
+					<td>8,245,266,000</td>
+					<td>1,081,096</td>
+				</tr>
+			
+				<tr>
+					<td>버터 러버</td>
+					<td>Butter</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>12,097,000</td>
+					<td>5,545</td>
+					<td>12,097,000</td>
+					<td>5,545</td>
+				</tr>
+			
+				<tr>
+					<td>리얼 스틸</td>
+					<td>Real Steel</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>액션,드라마,SF</td>
+					<td>주연</td>
+					<td>26,566,677,000</td>
+					<td>3,579,666</td>
+					<td>26,566,677,000</td>
+					<td>3,579,666</td>
+				</tr>
+			
+				<tr>
+					<td>엑스맨 탄생: 울버린</td>
+					<td>X-Men Origins: Wolverine</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>SF,액션,판타지</td>
+					<td>주연-로건 / 울버린역</td>
+					<td>8,560,185,022</td>
+					<td>1,303,452</td>
+					<td>8,408,135,000</td>
+					<td>1,280,734</td>
+				</tr>
+			
+				<tr>
+					<td>오스트레일리아</td>
+					<td>Australia</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>사극,멜로/로맨스,서부극(웨스턴)</td>
+					<td>주연</td>
+					<td>6,471,511,555</td>
+					<td>998,528</td>
+					<td>6,472,917,000</td>
+					<td>999,030</td>
+				</tr>
+			
+				<tr>
+					<td>더 클럽</td>
+					<td>Deception</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>멜로/로맨스,드라마,스릴러</td>
+					<td>주연-와이어트 보즈 역</td>
+					<td>490,754,500</td>
+					<td>73,126</td>
+					<td>491,297,500</td>
+					<td>73,211</td>
+				</tr>
+			
+				<tr>
+					<td>천년을 흐르는 사랑</td>
+					<td>The Fountain</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>SF,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,991</td>
+					<td>12,847,000</td>
+					<td>2,033</td>
+				</tr>
+			
+				<tr>
+					<td>스쿠프</td>
+					<td>Scoop</td>
+					<td>2006</td>
+					<td>미국,영국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>61,993</td>
+					<td>393,057,052</td>
+					<td>61,455</td>
+				</tr>
+			
+				<tr>
+					<td>프레스티지</td>
+					<td>The Prestige</td>
+					<td>2006</td>
+					<td>미국,영국</td>
+					<td>스릴러</td>
+					<td>주연-루퍼트 엔지어역</td>
+					<td>0</td>
+					<td>646,184</td>
+					<td>2,861,257,500</td>
+					<td>458,956</td>
+				</tr>
+			
+				<tr>
+					<td>엑스맨 : 최후의 전쟁</td>
+					<td>X-Men : The Last Stand</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>SF,액션</td>
+					<td>주연-로건/울버린역</td>
+					<td>0</td>
+					<td>2,096,180</td>
+					<td>11,275,475,200</td>
+					<td>1,793,310</td>
+				</tr>
+			
+				<tr>
+					<td>반 헬싱</td>
+					<td>Van Helsing</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,631,359</td>
+					<td>5,586,373,000</td>
+					<td>872,828</td>
+				</tr>
+			
+				<tr>
+					<td>엑스맨 2</td>
+					<td>X2</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>SF,액션,범죄,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,500,000</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>케이트 앤 레오폴드</td>
+					<td>Kate &amp; Leopold</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>멜로/로맨스,판타지</td>
+					<td>주연-레오폴드 역</td>
+					<td>0</td>
+					<td>50,000</td>
+					<td>1,591,000</td>
+					<td>195</td>
+				</tr>
+			
+				<tr>
+					<td>엑스맨</td>
+					<td>X - Man</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>SF,액션,판타지</td>
+					<td>주연-로건/울버린역</td>
+					<td>0</td>
+					<td>463,371</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>오클라호마</td>
+					<td>Oklahoma</td>
+					<td>1999</td>
+					<td>영국</td>
+					<td>뮤지컬,멜로/로맨스,서부극(웨스턴)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

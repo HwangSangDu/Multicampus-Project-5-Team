@@ -1,0 +1,151 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '미야자와 리에'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>행복 목욕탕</td>
+					<td>Her Love Boils Bathwater</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>가족,드라마</td>
+					<td>주연</td>
+					<td>169,852,600</td>
+					<td>21,935</td>
+					<td>170,127,300</td>
+					<td>21,979</td>
+				</tr>
+			
+				<tr>
+					<td>종이 달</td>
+					<td>Pale Moon</td>
+					<td>2014</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>197,236,200</td>
+					<td>24,381</td>
+					<td>197,445,216</td>
+					<td>24,418</td>
+				</tr>
+			
+				<tr>
+					<td>하나</td>
+					<td>More Than Flower</td>
+					<td>2006</td>
+					<td>일본</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>7,822</td>
+					<td>44,308,800</td>
+					<td>6,558</td>
+				</tr>
+			
+				<tr>
+					<td>아슈라</td>
+					<td>Ashura</td>
+					<td>2005</td>
+					<td>일본</td>
+					<td>액션,판타지</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>토니 타키타니</td>
+					<td>Tony Takitani</td>
+					<td>2004</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>10,751</td>
+					<td>77,573,000</td>
+					<td>11,701</td>
+				</tr>
+			
+				<tr>
+					<td>황혼의 사무라이</td>
+					<td>The Twilight Samurai</td>
+					<td>2002</td>
+					<td>일본</td>
+					<td>액션,드라마,사극</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,915</td>
+					<td>19,554,000</td>
+					<td>2,889</td>
+				</tr>
+			
+				<tr>
+					<td>유원경몽</td>
+					<td>Peony Pavilion</td>
+					<td>2001</td>
+					<td>홍콩</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>95,000</td>
+					<td>12</td>
+				</tr>
+			
+				<tr>
+					<td>택시 운전수의 사랑</td>
+					<td>The Cabbie</td>
+					<td>2000</td>
+					<td>대만</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

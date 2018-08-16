@@ -1,0 +1,242 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '양동근'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>천화</td>
+					<td>A Living Being</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-종규역</td>
+					<td>13,873,900</td>
+					<td>1,743</td>
+					<td>13,873,900</td>
+					<td>1,743</td>
+				</tr>
+			
+				<tr>
+					<td>블랙가스펠2: 소울을 찾는 여정가운데 만난 사람들</td>
+					<td>Black Gospel 2</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>다큐멘터리</td>
+					<td>주연</td>
+					<td>5,806,000</td>
+					<td>760</td>
+					<td>10,622,000</td>
+					<td>1,353</td>
+				</tr>
+			
+				<tr>
+					<td>블랙 가스펠</td>
+					<td>Black Gospel</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>367,150,500</td>
+					<td>53,181</td>
+					<td>367,328,500</td>
+					<td>53,217</td>
+				</tr>
+			
+				<tr>
+					<td>응징자</td>
+					<td>Days of Wrath</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>1,388,412,500</td>
+					<td>192,347</td>
+					<td>1,388,412,500</td>
+					<td>192,347</td>
+				</tr>
+			
+				<tr>
+					<td>배우는 배우다</td>
+					<td>Rough Play</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-강빈역</td>
+					<td>811,031,000</td>
+					<td>111,927</td>
+					<td>811,844,000</td>
+					<td>112,029</td>
+				</tr>
+			
+				<tr>
+					<td>추적자</td>
+					<td>Shot Gun</td>
+					<td>2012</td>
+					<td>일본</td>
+					<td>범죄,드라마,액션</td>
+					<td>주연</td>
+					<td>6,310,000</td>
+					<td>10,502</td>
+					<td>6,310,000</td>
+					<td>10,502</td>
+				</tr>
+			
+				<tr>
+					<td>퍼펙트 게임</td>
+					<td>Perfect Game</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-선동열 역</td>
+					<td>11,220,408,500</td>
+					<td>1,507,084</td>
+					<td>11,220,408,500</td>
+					<td>1,507,084</td>
+				</tr>
+			
+				<tr>
+					<td>그랑프리</td>
+					<td>Grand Prix</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-이우석역</td>
+					<td>1,241,827,441</td>
+					<td>170,446</td>
+					<td>1,219,746,000</td>
+					<td>167,024</td>
+				</tr>
+			
+				<tr>
+					<td>모노폴리</td>
+					<td>Monopoly</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>범죄</td>
+					<td>주연-나경호 역,작사/작곡/편곡-작사/노래 </td>
+					<td>0</td>
+					<td>394,935</td>
+					<td>2,195,709,100</td>
+					<td>358,299</td>
+				</tr>
+			
+				<tr>
+					<td>바람의 파이터</td>
+					<td>Fighter In The Wind</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>주연-최배달 역</td>
+					<td>0</td>
+					<td>2,346,446</td>
+					<td>9,158,945,500</td>
+					<td>1,442,299</td>
+				</tr>
+			
+				<tr>
+					<td>마지막 늑대</td>
+					<td>The Wolf Returns</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연-최철권 역</td>
+					<td>0</td>
+					<td>158,727</td>
+					<td>303,851,500</td>
+					<td>47,731</td>
+				</tr>
+			
+				<tr>
+					<td>와일드 카드</td>
+					<td>Wild Card</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>범죄</td>
+					<td>주연-방제수 역</td>
+					<td>0</td>
+					<td>1,571,931</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>해적 디스코왕 되다</td>
+					<td>Bet On My Disco</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>주연-성기 역</td>
+					<td></td>
+					<td>411,513</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>수취인불명</td>
+					<td>Address Unknown</td>
+					<td>2001</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-창국 역</td>
+					<td>0</td>
+					<td>9,855</td>
+					<td>10,000</td>
+					<td>2</td>
+				</tr>
+			
+				<tr>
+					<td>해변으로가다</td>
+					<td>Bloody Beach</td>
+					<td>2000</td>
+					<td>한국</td>
+					<td>공포(호러),미스터리,스릴러</td>
+					<td>주연-재승역</td>
+					<td>0</td>
+					<td>84,227</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

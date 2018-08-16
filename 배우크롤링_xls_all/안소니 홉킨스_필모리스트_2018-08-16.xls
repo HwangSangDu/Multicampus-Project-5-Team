@@ -1,0 +1,645 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '안소니 홉킨스'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>토르: 라그나로크</td>
+					<td>THOR: RAGNAROK</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지,SF</td>
+					<td>주연</td>
+					<td>39,248,432,595</td>
+					<td>4,857,152</td>
+					<td>39,251,492,595</td>
+					<td>4,857,458</td>
+				</tr>
+			
+				<tr>
+					<td>트랜스포머: 최후의 기사</td>
+					<td>TRANSFORMERS: THE LAST KNIGHT</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,어드벤처,SF</td>
+					<td>주연</td>
+					<td>21,501,959,228</td>
+					<td>2,614,601</td>
+					<td>21,501,959,228</td>
+					<td>2,614,601</td>
+				</tr>
+			
+				<tr>
+					<td>아우토반</td>
+					<td>Autobahn</td>
+					<td>2016</td>
+					<td>영국,독일</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>183,681,500</td>
+					<td>23,338</td>
+					<td>196,841,500</td>
+					<td>24,983</td>
+				</tr>
+			
+				<tr>
+					<td>미스컨덕트</td>
+					<td>Misconduct</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>범죄,스릴러</td>
+					<td>주연</td>
+					<td>1,133,511,038</td>
+					<td>148,512</td>
+					<td>1,138,175,038</td>
+					<td>149,095</td>
+				</tr>
+			
+				<tr>
+					<td>미스터 하이네켄</td>
+					<td>Kidnapping Freddy Heineken</td>
+					<td>2015</td>
+					<td>영국,네덜란드,벨기에</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>29,494,300</td>
+					<td>3,711</td>
+					<td>29,494,300</td>
+					<td>3,711</td>
+				</tr>
+			
+				<tr>
+					<td>노아</td>
+					<td>Noah</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>어드벤처,드라마,판타지</td>
+					<td>주연</td>
+					<td>15,514,083,500</td>
+					<td>2,026,574</td>
+					<td>15,514,373,500</td>
+					<td>2,026,594</td>
+				</tr>
+			
+				<tr>
+					<td>토르: 다크 월드</td>
+					<td>Thor: The Dark World </td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지</td>
+					<td>주연-오딘역</td>
+					<td>22,525,808,500</td>
+					<td>3,039,889</td>
+					<td>22,525,808,500</td>
+					<td>3,039,889</td>
+				</tr>
+			
+				<tr>
+					<td>레드: 더 레전드</td>
+					<td>RED2</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션,코미디,범죄</td>
+					<td>주연-베일리역</td>
+					<td>21,511,358,970</td>
+					<td>3,004,647</td>
+					<td>21,511,371,970</td>
+					<td>3,004,649</td>
+				</tr>
+			
+				<tr>
+					<td>히치콕</td>
+					<td>Hitchcock</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연-알프레드 히치콕 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>토르: 천둥의 신</td>
+					<td>Thor</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지</td>
+					<td>주연</td>
+					<td>15,985,407,000</td>
+					<td>1,694,529</td>
+					<td>15,985,737,000</td>
+					<td>1,694,562</td>
+				</tr>
+			
+				<tr>
+					<td>더 라이트: 악마는 있다</td>
+					<td>The Rite</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>미스터리,스릴러</td>
+					<td>주연-루카스 트레밴트역</td>
+					<td>422,603,000</td>
+					<td>55,561</td>
+					<td>422,603,000</td>
+					<td>55,561</td>
+				</tr>
+			
+				<tr>
+					<td>360</td>
+					<td>360 </td>
+					<td>2011</td>
+					<td>영국,오스트리아 ,프랑스</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>환상의 그대</td>
+					<td>You Will Meet a Tall Dark Stranger</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연-알피역</td>
+					<td>198,216,500</td>
+					<td>24,579</td>
+					<td>207,940,000</td>
+					<td>25,968</td>
+				</tr>
+			
+				<tr>
+					<td>울프맨</td>
+					<td>The Wolfman</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td>2,099,396,881</td>
+					<td>270,683</td>
+					<td>2,062,933,500</td>
+					<td>265,409</td>
+				</tr>
+			
+				<tr>
+					<td>달콤한 악마의 유혹</td>
+					<td>Shortcut To Happiness</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>코미디,드라마,판타지</td>
+					<td>주연</td>
+					<td>42,000</td>
+					<td>6</td>
+					<td>42,000</td>
+					<td>6</td>
+				</tr>
+			
+				<tr>
+					<td>더 시티 오브 유어 파이널 데스티네이션</td>
+					<td>The City Of Your Final Destination</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>슬립스트림</td>
+					<td>Slipstream</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>코미디,드라마,판타지</td>
+					<td>감독,주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>프랙처</td>
+					<td>Fracture</td>
+					<td>2007</td>
+					<td>미국,독일</td>
+					<td>범죄,미스터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>바비</td>
+					<td>Bobby</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-존역</td>
+					<td>22,454,545</td>
+					<td>2,867</td>
+					<td>22,102,000</td>
+					<td>2,821</td>
+				</tr>
+			
+				<tr>
+					<td>세상에서 가장 빠른 인디언</td>
+					<td>The World&#039;s Fastest Indian</td>
+					<td>2005</td>
+					<td>뉴질랜드,미국</td>
+					<td>어드벤처,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>프루프</td>
+					<td>Proof</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>알렉산더</td>
+					<td>Alexander</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>전쟁,드라마</td>
+					<td>조연</td>
+					<td>0</td>
+					<td>1,671,576</td>
+					<td>8,352,610,789</td>
+					<td>1,310,651</td>
+				</tr>
+			
+				<tr>
+					<td>휴먼 스테인</td>
+					<td>The Human Stain</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>29,346</td>
+					<td>117,363,500</td>
+					<td>18,141</td>
+				</tr>
+			
+				<tr>
+					<td>배드컴패니</td>
+					<td>Bad Company</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>54,473</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>하트 인 아틀란티스</td>
+					<td>Hearts In Atlantis</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>10,000</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>한니발</td>
+					<td>Hannibal</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>공포(호러),범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>282,997</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>인스팅트 </td>
+					<td>Instinct</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>드라마,스릴러,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>43,253</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>지그프리드 앤 로이</td>
+					<td>Siegfried &amp; Roy: The Magic Box</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>다큐멘터리</td>
+					<td>주연(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>타이투스</td>
+					<td>Titus</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>드라마,전쟁</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>104,000</td>
+					<td>52</td>
+				</tr>
+			
+				<tr>
+					<td>조블랙의 사랑</td>
+					<td>Meet Joe Black</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>155,138</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>디 엣지 </td>
+					<td>The Edge</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>드라마,스릴러,액션,어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>8,792</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>닉슨</td>
+					<td>Nixon</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-리처드 닉슨 역</td>
+					<td>0</td>
+					<td>27,923</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>가을의 전설 </td>
+					<td>Legend Of The Fall</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>멜로/로맨스</td>
+					<td>주연-윌리엄 러드로우 대령 역</td>
+					<td>0</td>
+					<td>231,021</td>
+					<td>643,000</td>
+					<td>255</td>
+				</tr>
+			
+				<tr>
+					<td>로드 투 웰빌</td>
+					<td>The Road To Wellville</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,731</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>새도우 랜드 </td>
+					<td>Shadow Lands</td>
+					<td>1993</td>
+					<td>영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>12,713</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>이노센트 </td>
+					<td>The Innocent</td>
+					<td>1993</td>
+					<td>영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>35,494</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>찰리 채플린</td>
+					<td>CHAPLIN</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>조연</td>
+					<td>0</td>
+					<td>13,567</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>남아있는 나날 </td>
+					<td>Remains Of The Day</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-제임스 스티븐스역</td>
+					<td>0</td>
+					<td>7,513</td>
+					<td>414,000</td>
+					<td>138</td>
+				</tr>
+			
+				<tr>
+					<td>프리잭</td>
+					<td>Free Jack</td>
+					<td>1992</td>
+					<td>미국</td>
+					<td>SF,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>88,139</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>양들의 침묵</td>
+					<td>The Silence Of The Lambs</td>
+					<td>1991</td>
+					<td>미국</td>
+					<td>스릴러,미스터리,범죄</td>
+					<td>주연-하니발 렉터 박사역</td>
+					<td>0</td>
+					<td>281,133</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>광란의 시간</td>
+					<td>Desperate Hours</td>
+					<td>1990</td>
+					<td>미국</td>
+					<td>스릴러,드라마,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>59,194</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>오델로 </td>
+					<td>Othello</td>
+					<td>1981</td>
+					<td>영국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>계절의 변화</td>
+					<td>A Change Of Seasons</td>
+					<td>1980</td>
+					<td>미국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>인형의 집</td>
+					<td>A Doll&#039;s House</td>
+					<td>1973</td>
+					<td>영국</td>
+					<td>드라마</td>
+					<td>주연-토발드 헬머 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>휴론만의 요새</td>
+					<td>When Eight Bells Toll</td>
+					<td>1971</td>
+					<td>영국</td>
+					<td>미스터리,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>86,773</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>거울 나라의 전쟁</td>
+					<td>The Looking Glass War</td>
+					<td>1969</td>
+					<td>영국</td>
+					<td>액션,스릴러,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

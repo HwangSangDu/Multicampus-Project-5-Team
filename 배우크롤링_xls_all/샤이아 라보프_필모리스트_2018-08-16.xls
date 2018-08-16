@@ -1,0 +1,333 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '샤이아 라보프'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>보리 vs 매켄로</td>
+					<td>Borg/McEnroe</td>
+					<td>2017</td>
+					<td>스웨덴,덴마크,핀란드</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>78,940,433</td>
+					<td>9,215</td>
+					<td>78,940,433</td>
+					<td>9,215</td>
+				</tr>
+			
+				<tr>
+					<td>아메리칸 허니: 방황하는 별의 노래</td>
+					<td>American Honey</td>
+					<td>2016</td>
+					<td>영국,미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>69,274,300</td>
+					<td>8,647</td>
+					<td>73,178,300</td>
+					<td>9,134</td>
+				</tr>
+			
+				<tr>
+					<td>퓨리</td>
+					<td>Fury</td>
+					<td>2014</td>
+					<td>미국,영국</td>
+					<td>액션,드라마,전쟁</td>
+					<td>주연</td>
+					<td>10,367,640,686</td>
+					<td>1,362,114</td>
+					<td>10,367,640,686</td>
+					<td>1,362,114</td>
+				</tr>
+			
+				<tr>
+					<td>님포매니악 감독판 볼룸 1&amp;2</td>
+					<td>Nymphomaniac Director’s Cut Vol. 1&amp;2</td>
+					<td>2014</td>
+					<td>덴마크,벨기에,프랑스,영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,183,400</td>
+					<td>180</td>
+				</tr>
+			
+				<tr>
+					<td>찰리 컨트리맨</td>
+					<td>The Necessary Death of Charlie Countryman</td>
+					<td>2013</td>
+					<td>미국,루마니아</td>
+					<td>코미디,멜로/로맨스,액션</td>
+					<td>주연</td>
+					<td>34,601,538</td>
+					<td>4,692</td>
+					<td>34,601,538</td>
+					<td>4,692</td>
+				</tr>
+			
+				<tr>
+					<td>님포매니악 볼륨2</td>
+					<td>Nymphomaniac vol.2</td>
+					<td>2013</td>
+					<td>덴마크,벨기에,프랑스,독일,영국</td>
+					<td>드라마,미스터리</td>
+					<td>주연</td>
+					<td>201,869,933</td>
+					<td>24,380</td>
+					<td>202,108,933</td>
+					<td>24,424</td>
+				</tr>
+			
+				<tr>
+					<td>님포매니악 볼륨1</td>
+					<td>Nymphomaniac vol.1 </td>
+					<td>2013</td>
+					<td>덴마크,독일,프랑스,벨기에,영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>479,242,383</td>
+					<td>60,265</td>
+					<td>479,491,383</td>
+					<td>60,311</td>
+				</tr>
+			
+				<tr>
+					<td>컴퍼니 유 킵</td>
+					<td>The Company You Keep</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연-벤 쉐파드역</td>
+					<td>13,694,000</td>
+					<td>2,134</td>
+					<td>13,925,000</td>
+					<td>2,173</td>
+				</tr>
+			
+				<tr>
+					<td>로우리스: 나쁜 영웅들</td>
+					<td>Lawless</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션,범죄</td>
+					<td>주연</td>
+					<td>468,141,666</td>
+					<td>66,468</td>
+					<td>468,390,166</td>
+					<td>66,504</td>
+				</tr>
+			
+				<tr>
+					<td>트랜스포머 3</td>
+					<td>Transformers :The Dark Side of the Moon</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>액션,어드벤처</td>
+					<td>주연-샘 윗윅키 역</td>
+					<td>74,841,350,500</td>
+					<td>7,784,807</td>
+					<td>74,842,906,588</td>
+					<td>7,785,189</td>
+				</tr>
+			
+				<tr>
+					<td>월 스트리트: 머니 네버 슬립스</td>
+					<td>Wall Street 2: Money Never Sleeps</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>드라마,범죄,스릴러</td>
+					<td>주연-제이콥 무어역</td>
+					<td>1,788,986,817</td>
+					<td>245,343</td>
+					<td>1,760,899,000</td>
+					<td>241,438</td>
+				</tr>
+			
+				<tr>
+					<td>트랜스포머: 패자의 역습</td>
+					<td>Transformers: Revenge Of The Fallen</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>SF,액션,어드벤처</td>
+					<td>주연-샘 윗윅키역</td>
+					<td>51,478,531,663</td>
+					<td>7,505,700</td>
+					<td>50,699,866,000</td>
+					<td>7,393,443</td>
+				</tr>
+			
+				<tr>
+					<td>뉴욕 아이 러브 유</td>
+					<td>New York, I Love You</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>코미디,드라마,멜로/로맨스</td>
+					<td>주연-제이콥 역</td>
+					<td>647,982,325</td>
+					<td>83,600</td>
+					<td>638,301,000</td>
+					<td>82,356</td>
+				</tr>
+			
+				<tr>
+					<td>이글 아이</td>
+					<td>Eagle Eye</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>액션,스릴러,미스터리</td>
+					<td>주연-제리 쇼역</td>
+					<td>14,577,167,667</td>
+					<td>2,258,369</td>
+					<td>14,869,812,500</td>
+					<td>2,292,172</td>
+				</tr>
+			
+				<tr>
+					<td>인디아나 존스 4 : 크리스탈 해골의 왕국</td>
+					<td>Indiana Jones And The Kingdom Of The Crystal Skull</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>액션,어드벤처</td>
+					<td>주연-머트 윌리엄스역</td>
+					<td>26,693,951,667</td>
+					<td>4,136,101</td>
+					<td>26,689,440,000</td>
+					<td>4,111,753</td>
+				</tr>
+			
+				<tr>
+					<td>디스터비아</td>
+					<td>Disturbia</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연-케일역</td>
+					<td>0</td>
+					<td>583,993</td>
+					<td>3,790,837,500</td>
+					<td>576,120</td>
+				</tr>
+			
+				<tr>
+					<td>서핑 업</td>
+					<td>Surf`s Up</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>애니메이션,드라마,액션,가족</td>
+					<td>주연-코디 매버릭역(목소리)</td>
+					<td>0</td>
+					<td>294,702</td>
+					<td>1,672,015,500</td>
+					<td>282,862</td>
+				</tr>
+			
+				<tr>
+					<td>트랜스포머</td>
+					<td>Transformers</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>SF,액션,어드벤처</td>
+					<td>주연-샘 윗윅키역</td>
+					<td>0</td>
+					<td>7,440,531</td>
+					<td>47,710,604,338</td>
+					<td>7,402,732</td>
+				</tr>
+			
+				<tr>
+					<td>바비</td>
+					<td>Bobby</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-쿠퍼 역</td>
+					<td>22,454,545</td>
+					<td>2,867</td>
+					<td>22,102,000</td>
+					<td>2,821</td>
+				</tr>
+			
+				<tr>
+					<td>당신의 성인을 알아보는 법</td>
+					<td>A Guide to Recognizing Your Saints</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>범죄,드라마</td>
+					<td>주연-어린 디토 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>내 생애 최고의 경기</td>
+					<td>The Greatest Game Ever Played</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>배틀 오브 쉐이커 하이츠</td>
+					<td>The Battle Of Shaker Heights</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

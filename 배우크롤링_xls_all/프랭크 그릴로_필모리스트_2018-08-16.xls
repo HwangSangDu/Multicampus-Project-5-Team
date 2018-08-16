@@ -1,0 +1,151 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '프랭크 그릴로'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>특수부대 전랑2</td>
+					<td>Wolf Warriors II</td>
+					<td>2016</td>
+					<td>중국</td>
+					<td>액션,전쟁</td>
+					<td>주연</td>
+					<td>8,148,500</td>
+					<td>1,244</td>
+					<td>8,168,500</td>
+					<td>1,248</td>
+				</tr>
+			
+				<tr>
+					<td>빅 스카이</td>
+					<td>Big Sky</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>5,000</td>
+					<td>1</td>
+					<td>5,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>데모닉</td>
+					<td>Demonic</td>
+					<td>2014</td>
+					<td>미국,영국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td>309,831,100</td>
+					<td>40,643</td>
+					<td>309,831,100</td>
+					<td>40,643</td>
+				</tr>
+			
+				<tr>
+					<td>더 퍼지 : 거리의 반란</td>
+					<td>The Purge: Anarchy</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td>455,583,000</td>
+					<td>59,881</td>
+					<td>455,583,000</td>
+					<td>59,881</td>
+				</tr>
+			
+				<tr>
+					<td>인터섹션</td>
+					<td>Intersections</td>
+					<td>2013</td>
+					<td>프랑스</td>
+					<td>스릴러</td>
+					<td>주연-스콧 돌란역</td>
+					<td>1,132,000</td>
+					<td>168</td>
+					<td>1,132,000</td>
+					<td>168</td>
+				</tr>
+			
+				<tr>
+					<td>디스커넥트</td>
+					<td>Disconnect</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>조연-마이크역</td>
+					<td>161,108,704</td>
+					<td>23,255</td>
+					<td>161,108,704</td>
+					<td>23,255</td>
+				</tr>
+			
+				<tr>
+					<td>더 그레이 감독판</td>
+					<td>The Grey</td>
+					<td>2011</td>
+					<td>미국,캐나다</td>
+					<td>액션,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>에이프릴 샤워</td>
+					<td>April&#039;s Shower</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

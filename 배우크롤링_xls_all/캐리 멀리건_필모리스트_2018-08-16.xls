@@ -1,0 +1,164 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '캐리 멀리건'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>서프러제트</td>
+					<td>Suffragette</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-모드 왓츠역</td>
+					<td>230,445,800</td>
+					<td>28,511</td>
+					<td>230,445,800</td>
+					<td>28,511</td>
+				</tr>
+			
+				<tr>
+					<td>성난 군중으로부터 멀리</td>
+					<td>Far from the Madding Crowd</td>
+					<td>2015</td>
+					<td>미국,영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>인사이드 르윈 </td>
+					<td>Inside Lewyn Davis</td>
+					<td>2013</td>
+					<td>미국,프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>817,359,200</td>
+					<td>105,592</td>
+					<td>824,583,700</td>
+					<td>106,729</td>
+				</tr>
+			
+				<tr>
+					<td>위대한 개츠비</td>
+					<td>The Great Gatsby</td>
+					<td>2013</td>
+					<td>미국,호주</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>10,580,582,143</td>
+					<td>1,445,124</td>
+					<td>10,581,329,643</td>
+					<td>1,445,248</td>
+				</tr>
+			
+				<tr>
+					<td>셰임</td>
+					<td>Shame</td>
+					<td>2011</td>
+					<td>영국</td>
+					<td>드라마</td>
+					<td>주연-씨씨역</td>
+					<td>136,553,000</td>
+					<td>18,065</td>
+					<td>148,208,400</td>
+					<td>19,565</td>
+				</tr>
+			
+				<tr>
+					<td>드라이브</td>
+					<td>Drive</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연-아이린 역</td>
+					<td>144,975,500</td>
+					<td>18,715</td>
+					<td>150,516,900</td>
+					<td>19,449</td>
+				</tr>
+			
+				<tr>
+					<td>월 스트리트: 머니 네버 슬립스</td>
+					<td>Wall Street 2: Money Never Sleeps</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>드라마,범죄,스릴러</td>
+					<td>주연-위니 게코역</td>
+					<td>1,788,986,817</td>
+					<td>245,343</td>
+					<td>1,760,899,000</td>
+					<td>241,438</td>
+				</tr>
+			
+				<tr>
+					<td>언 애듀케이션</td>
+					<td>An Education</td>
+					<td>2009</td>
+					<td>영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>21,358,842</td>
+					<td>2,794</td>
+					<td>21,023,500</td>
+					<td>2,750</td>
+				</tr>
+			
+				<tr>
+					<td>그레이티스트</td>
+					<td>The Greatest</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연-로즈역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

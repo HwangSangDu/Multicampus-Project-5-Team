@@ -1,0 +1,489 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '콜린 파렐'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>킬링 디어</td>
+					<td>The Killing of a Sacred Deer</td>
+					<td>2017</td>
+					<td>미국,영국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>13,889,500</td>
+					<td>1,403</td>
+					<td>507,805,400</td>
+					<td>58,667</td>
+				</tr>
+			
+				<tr>
+					<td>매혹당한 사람들</td>
+					<td>The Beguiled</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>스릴러,드라마</td>
+					<td>주연</td>
+					<td>412,751,500</td>
+					<td>54,026</td>
+					<td>412,885,500</td>
+					<td>54,041</td>
+				</tr>
+			
+				<tr>
+					<td>신비한 동물사전</td>
+					<td>Fantastic Beasts and Where to Find Them</td>
+					<td>2016</td>
+					<td>미국,영국</td>
+					<td>어드벤처,가족,판타지</td>
+					<td>주연</td>
+					<td>39,337,263,058</td>
+					<td>4,666,993</td>
+					<td>39,339,534,058</td>
+					<td>4,667,179</td>
+				</tr>
+			
+				<tr>
+					<td>더 랍스터</td>
+					<td>The Lobster</td>
+					<td>2015</td>
+					<td>영국,그리스,아일랜드,네덜란드,프랑스</td>
+					<td>판타지,멜로/로맨스</td>
+					<td>주연</td>
+					<td>476,877,300</td>
+					<td>57,721</td>
+					<td>478,713,300</td>
+					<td>57,983</td>
+				</tr>
+			
+				<tr>
+					<td>미스 줄리</td>
+					<td>Miss Julie</td>
+					<td>2014</td>
+					<td>노르웨이,영국,캐나다,미국,프랑스,아일랜드</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>32,663,500</td>
+					<td>4,421</td>
+					<td>32,778,500</td>
+					<td>4,438</td>
+				</tr>
+			
+				<tr>
+					<td>윈터스 테일 </td>
+					<td>Winter&#039;s Tale</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>드라마,판타지,미스터리</td>
+					<td>주연-피터 레이크 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>세이빙 미스터 뱅크스</td>
+					<td>Saving Mr. Banks</td>
+					<td>2013</td>
+					<td>미국,영국,호주</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>101,282,300</td>
+					<td>12,957</td>
+					<td>101,282,300</td>
+					<td>12,957</td>
+				</tr>
+			
+				<tr>
+					<td>퍼펙트</td>
+					<td>Dead man down</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>액션,범죄,드라마</td>
+					<td>주연-빅터역</td>
+					<td>118,503,500</td>
+					<td>18,179</td>
+					<td>118,503,500</td>
+					<td>18,179</td>
+				</tr>
+			
+				<tr>
+					<td>에픽 : 숲속의 전설 </td>
+					<td>Epic</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>애니메이션,어드벤처</td>
+					<td>주연-로닌역(목소리)</td>
+					<td>6,748,089,000</td>
+					<td>978,788</td>
+					<td>6,748,072,000</td>
+					<td>978,785</td>
+				</tr>
+			
+				<tr>
+					<td>세븐 싸이코패스</td>
+					<td>Seven Psychopaths</td>
+					<td>2012</td>
+					<td>영국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>22,319,841</td>
+					<td>3,135</td>
+					<td>23,180,841</td>
+					<td>3,264</td>
+				</tr>
+			
+				<tr>
+					<td>토탈 리콜</td>
+					<td>Total Recall</td>
+					<td>2012</td>
+					<td>미국,캐나다</td>
+					<td>SF,액션</td>
+					<td>주연-더그 퀘이드역</td>
+					<td>8,958,236,000</td>
+					<td>1,219,637</td>
+					<td>8,958,236,000</td>
+					<td>1,219,637</td>
+				</tr>
+			
+				<tr>
+					<td>스트레스를 부르는 그 이름 직장상사</td>
+					<td>Horrible Bosses</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연-바비 역</td>
+					<td>404,070,500</td>
+					<td>51,646</td>
+					<td>404,070,500</td>
+					<td>51,646</td>
+				</tr>
+			
+				<tr>
+					<td>프라이트 나이트</td>
+					<td>Fright Night</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연-제리 댄드리지 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>런던 블러바드 무삭제 감독판</td>
+					<td></td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>액션,드라마</td>
+					<td>주연</td>
+					<td>1,190,000</td>
+					<td>175</td>
+					<td>1,190,000</td>
+					<td>175</td>
+				</tr>
+			
+				<tr>
+					<td>런던 블러바드</td>
+					<td>London Boulevard</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td>117,341,000</td>
+					<td>16,959</td>
+					<td>117,475,000</td>
+					<td>16,977</td>
+				</tr>
+			
+				<tr>
+					<td>웨이 백</td>
+					<td>The Way Back</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-발카역</td>
+					<td>776,193,500</td>
+					<td>105,925</td>
+					<td>777,981,500</td>
+					<td>106,223</td>
+				</tr>
+			
+				<tr>
+					<td>앤드 오브 워</td>
+					<td>Triage</td>
+					<td>2009</td>
+					<td>아일랜드,벨기에</td>
+					<td>미스터리,드라마,전쟁</td>
+					<td>주연</td>
+					<td>8,360,000</td>
+					<td>5,030</td>
+					<td>8,360,000</td>
+					<td>5,030</td>
+				</tr>
+			
+				<tr>
+					<td>파르나서스 박사의 상상극장</td>
+					<td>The Imaginarium Of Doctor Parnassus</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>판타지,어드벤처,미스터리</td>
+					<td>주연</td>
+					<td>3,364,788,919</td>
+					<td>462,999</td>
+					<td>3,330,119,500</td>
+					<td>458,243</td>
+				</tr>
+			
+				<tr>
+					<td>온딘</td>
+					<td>Ondine</td>
+					<td>2009</td>
+					<td>아일랜드,미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>킬러들의 도시</td>
+					<td>In Bruges</td>
+					<td>2008</td>
+					<td>영국,미국</td>
+					<td>범죄,드라마,스릴러</td>
+					<td>주연-레이역</td>
+					<td>394,632,089</td>
+					<td>57,387</td>
+					<td>378,294,000</td>
+					<td>54,999</td>
+				</tr>
+			
+				<tr>
+					<td>프라이드 앤 글로리</td>
+					<td>Pride and Glory</td>
+					<td>2008</td>
+					<td>미국,독일</td>
+					<td>범죄,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>카산드라 드림</td>
+					<td>Cassandra&#039;s Dream</td>
+					<td>2007</td>
+					<td>미국,영국,프랑스</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>252,000</td>
+					<td>54</td>
+				</tr>
+			
+				<tr>
+					<td>마이애미 바이스</td>
+					<td>Miami Vice</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연-Det. 제임스 소니 크로켓역</td>
+					<td>0</td>
+					<td>500,806</td>
+					<td>2,712,575,500</td>
+					<td>420,845</td>
+				</tr>
+			
+				<tr>
+					<td>애스크 더 더스트</td>
+					<td>Ask The Dust</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>뉴월드</td>
+					<td>The New World</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스,어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>925,154</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>알렉산더</td>
+					<td>Alexander</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>전쟁,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,671,576</td>
+					<td>8,352,610,789</td>
+					<td>1,310,651</td>
+				</tr>
+			
+				<tr>
+					<td>세상 끝의 집</td>
+					<td>A Home at the End of the World</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>인터미션</td>
+					<td>Intermission</td>
+					<td>2003</td>
+					<td>아일랜드,영국</td>
+					<td>코미디,드라마,범죄</td>
+					<td>주연-레히프 역</td>
+					<td>0</td>
+					<td>76</td>
+					<td>38,000</td>
+					<td>6</td>
+				</tr>
+			
+				<tr>
+					<td>S.W.A.T. 특수기동대</td>
+					<td>S.W.A.T. </td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>액션,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>669,835</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>폰부스</td>
+					<td>Phone Booth</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>범죄,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>170,000</td>
+					<td>0</td>
+					<td>0</td>
+				</tr>
+			
+				<tr>
+					<td>리크루트</td>
+					<td>The Recruit</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>범죄,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>303,458</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>하트의 전쟁</td>
+					<td>Hart&#039;s War</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>전쟁</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>28,300</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>파이브 건스</td>
+					<td>Amercian Outlaws</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>액션,서부극(웨스턴)</td>
+					<td>주연-제시 제임스역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>타이거랜드</td>
+					<td>Tigerland</td>
+					<td>2000</td>
+					<td>미국,독일</td>
+					<td>전쟁,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

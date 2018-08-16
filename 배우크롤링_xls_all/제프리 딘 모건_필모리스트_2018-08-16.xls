@@ -1,0 +1,190 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '제프리 딘 모건'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>램페이지</td>
+					<td>Rampage</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>11,952,004,109</td>
+					<td>1,385,515</td>
+					<td>11,951,980,109</td>
+					<td>1,385,511</td>
+				</tr>
+			
+				<tr>
+					<td>디시에르토</td>
+					<td>Desierto</td>
+					<td>2015</td>
+					<td>멕시코,프랑스</td>
+					<td>드라마,스릴러</td>
+					<td>주연-샘 역역</td>
+					<td>103,452,500</td>
+					<td>13,812</td>
+					<td>103,452,500</td>
+					<td>13,812</td>
+				</tr>
+			
+				<tr>
+					<td>건즈 포 하이어</td>
+					<td>Guns For Hire</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>7,000</td>
+					<td>1</td>
+					<td>7,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>버스 657</td>
+					<td>Heist </td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>143,676,000</td>
+					<td>18,042</td>
+					<td>143,676,000</td>
+					<td>18,042</td>
+				</tr>
+			
+				<tr>
+					<td>레드 던</td>
+					<td>Red Dawn</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연-앤디 태너 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>포제션 : 악령의 상자</td>
+					<td>The Possession</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>텍사스 킬링 필드 </td>
+					<td>Texas Killing Fields</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>레지던트</td>
+					<td>The Resident</td>
+					<td>2010</td>
+					<td>영국,미국</td>
+					<td>스릴러,공포(호러)</td>
+					<td>주연-맥스역</td>
+					<td>520,284,000</td>
+					<td>66,480</td>
+					<td>520,412,000</td>
+					<td>66,498</td>
+				</tr>
+			
+				<tr>
+					<td>루저스</td>
+					<td>The Losers</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>액션,어드벤처,범죄,미스터리,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>왓치맨</td>
+					<td>Watchmen</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>액션,미스터리,판타지,SF</td>
+					<td>주연</td>
+					<td>4,175,166,338</td>
+					<td>606,317</td>
+					<td>4,112,826,500</td>
+					<td>597,118</td>
+				</tr>
+			
+				<tr>
+					<td>뉴욕은 언제나 사랑 중</td>
+					<td>The Accidental Husband</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연-패트릭역</td>
+					<td>1,685,806,671</td>
+					<td>247,138</td>
+					<td>1,660,430,500</td>
+					<td>243,432</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

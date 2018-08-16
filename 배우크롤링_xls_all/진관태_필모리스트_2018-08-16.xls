@@ -1,0 +1,164 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '진관태'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>천하영웅 자객</td>
+					<td>Game of Assassins</td>
+					<td>2013</td>
+					<td>중국</td>
+					<td>액션,드라마</td>
+					<td>주연</td>
+					<td>228,000</td>
+					<td>44</td>
+					<td>228,000</td>
+					<td>44</td>
+				</tr>
+			
+				<tr>
+					<td>권법 쿵푸의 신</td>
+					<td>Gallants</td>
+					<td>2010</td>
+					<td>홍콩</td>
+					<td>코미디,액션</td>
+					<td>주연</td>
+					<td>3,469,000</td>
+					<td>1,652</td>
+					<td>3,469,000</td>
+					<td>1,652</td>
+				</tr>
+			
+				<tr>
+					<td>영웅문</td>
+					<td>The Little Fragon Maiden</td>
+					<td>1990</td>
+					<td>홍콩</td>
+					<td>드라마,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>17,231</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>영웅대도</td>
+					<td>Return To Action</td>
+					<td>1988</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>감독</td>
+					<td>0</td>
+					<td>17,628</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>혈적자</td>
+					<td>The Flying Guillotine</td>
+					<td>1975</td>
+					<td>홍콩</td>
+					<td>액션,사극</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>오호장</td>
+					<td>The Savage Five</td>
+					<td>1974</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>마영정</td>
+					<td>The Boxer from Shantung</td>
+					<td>1972</td>
+					<td>홍콩</td>
+					<td></td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>182,000</td>
+					<td>32</td>
+				</tr>
+			
+				<tr>
+					<td>쌍협</td>
+					<td>The Deadly Duo</td>
+					<td>1971</td>
+					<td>홍콩</td>
+					<td></td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>150,000</td>
+					<td>29</td>
+				</tr>
+			
+				<tr>
+					<td>복수</td>
+					<td>Vengeance!</td>
+					<td>1970</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>조연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

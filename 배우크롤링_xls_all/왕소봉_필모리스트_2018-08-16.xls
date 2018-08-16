@@ -1,0 +1,164 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '왕소봉'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>철뇌인</td>
+					<td>The Thunder Man</td>
+					<td>1993</td>
+					<td>홍콩</td>
+					<td>판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,765</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>영환지존</td>
+					<td>Spiritul Trinity</td>
+					<td>1991</td>
+					<td>홍콩</td>
+					<td>액션,공포(호러)</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>3,526</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>마루타 731부대의 최후</td>
+					<td>Maruta Ⅱ</td>
+					<td>1991</td>
+					<td>홍콩</td>
+					<td>스릴러,공포(호러),전쟁</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,987</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>경천대모살</td>
+					<td>Deception</td>
+					<td>1989</td>
+					<td>홍콩</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>최후태감</td>
+					<td>Laishi China&#039;S Last Eunuch</td>
+					<td>1988</td>
+					<td>홍콩</td>
+					<td>사극,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>10,184</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>성항기병2</td>
+					<td>LONG ARM OF THE LAW2</td>
+					<td>1987</td>
+					<td>홍콩</td>
+					<td>범죄,액션</td>
+					<td>주연</td>
+					<td>14,000</td>
+					<td>2</td>
+					<td>14,000</td>
+					<td>2</td>
+				</tr>
+			
+				<tr>
+					<td>성향기병 속집</td>
+					<td>Long Armof The Law 2</td>
+					<td>1987</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>18,427</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>강시선생 2</td>
+					<td>Mr. Vampire II</td>
+					<td>1986</td>
+					<td>홍콩</td>
+					<td>공포(호러),코미디</td>
+					<td>주연</td>
+					<td>160,000</td>
+					<td>40</td>
+					<td>469,000</td>
+					<td>87</td>
+				</tr>
+			
+				<tr>
+					<td>홍콩연자</td>
+					<td>The Missed Date</td>
+					<td>1986</td>
+					<td>홍콩</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,601</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

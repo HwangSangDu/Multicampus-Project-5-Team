@@ -1,0 +1,216 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '마샤 게이 하든'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>디태치먼트</td>
+					<td>Detachment</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>96,249,900</td>
+					<td>12,733</td>
+					<td>96,267,900</td>
+					<td>12,736</td>
+				</tr>
+			
+				<tr>
+					<td>박물관을 털어라</td>
+					<td>The Maiden Heist </td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>코미디,액션,범죄</td>
+					<td>주연</td>
+					<td>270,000</td>
+					<td>54</td>
+					<td>270,000</td>
+					<td>54</td>
+				</tr>
+			
+				<tr>
+					<td>위핏</td>
+					<td>Whip It</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>225,133,182</td>
+					<td>35,241</td>
+					<td>221,598,500</td>
+					<td>34,680</td>
+				</tr>
+			
+				<tr>
+					<td>크리스마스 별장</td>
+					<td>Thomas Kinkade&#039;S Home For Christmas</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>가족,드라마</td>
+					<td>주연-마리앤 킨케이드역</td>
+					<td>10,430,500</td>
+					<td>1,670</td>
+					<td>10,437,500</td>
+					<td>1,671</td>
+				</tr>
+			
+				<tr>
+					<td>미스트</td>
+					<td>The Mist</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>SF,공포(호러),드라마</td>
+					<td>주연-카모디 부인역</td>
+					<td>3,404,297,000</td>
+					<td>524,572</td>
+					<td>3,405,061,500</td>
+					<td>521,299</td>
+				</tr>
+			
+				<tr>
+					<td>레일즈 앤드 타이즈</td>
+					<td>Rails &amp; Ties</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>인비저블</td>
+					<td>The Invisible</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>스릴러,미스터리,드라마</td>
+					<td>주연-다이앤 포웰역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>혹스: 욕망의 법칙</td>
+					<td>The Hoax</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>270,000</td>
+					<td>54</td>
+					<td>270,000</td>
+					<td>54</td>
+				</tr>
+			
+				<tr>
+					<td>배드 뉴스 베어즈</td>
+					<td>Bad News Bears</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아메리칸 건</td>
+					<td>American Gun</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>가우디 애프터눈</td>
+					<td>Gaudi Afternoon</td>
+					<td>2001</td>
+					<td>스페인</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>폴락</td>
+					<td>Pollock</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>3,475</td>
+					<td>456,000</td>
+					<td>95</td>
+				</tr>
+			
+				<tr>
+					<td>사랑 때문에</td>
+					<td>Labor Of Love</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,255 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '존 라이스 데이비스'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>몬스터솔져</td>
+					<td>AUX</td>
+					<td>2017</td>
+					<td>영국</td>
+					<td>액션,공포(호러)</td>
+					<td>주연-잭역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아포칼립스 2014</td>
+					<td>Pompeii</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>SF,액션,전쟁</td>
+					<td>주연</td>
+					<td>4,761,000</td>
+					<td>1,011</td>
+					<td>4,761,000</td>
+					<td>1,011</td>
+				</tr>
+			
+				<tr>
+					<td>위대한 임무</td>
+					<td>Return to the Hiding Place</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>드라마,전쟁</td>
+					<td>주연</td>
+					<td>54,617,800</td>
+					<td>7,502</td>
+					<td>54,617,800</td>
+					<td>7,502</td>
+				</tr>
+			
+				<tr>
+					<td>미이라 : 피라미드의 비밀</td>
+					<td>Prisoners of the Sun</td>
+					<td>2013</td>
+					<td>미국,독일</td>
+					<td>액션,어드벤처,공포(호러)</td>
+					<td>주연</td>
+					<td>8,666,000</td>
+					<td>2,797</td>
+					<td>8,666,000</td>
+					<td>2,797</td>
+				</tr>
+			
+				<tr>
+					<td>에어리언 플레닛</td>
+					<td>Ferocious Planet</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>스릴러,SF</td>
+					<td>주연-잭슨 크렌쇼 상원의원 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아나콘다 4 : 피의 제전</td>
+					<td>Anaconda 4 : Trail Of Blood</td>
+					<td>2009</td>
+					<td>루마니아,미국</td>
+					<td>액션,공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>드래곤 슬레이어: 불의 용과 얼음의 용</td>
+					<td>Fire &amp; Ice</td>
+					<td>2008</td>
+					<td>루마니아</td>
+					<td>어드벤처,판타지</td>
+					<td>주연-생지멜 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>페리맨</td>
+					<td>The Ferryman</td>
+					<td>2007</td>
+					<td>뉴질랜드,영국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>반지의 제왕 : 왕의 귀환 (확장판)</td>
+					<td>The Lord of the Rings: The Return of the King </td>
+					<td>2003</td>
+					<td>뉴질랜드,미국</td>
+					<td>판타지,어드벤처,액션</td>
+					<td>주연-김리 역역</td>
+					<td>370,268,000</td>
+					<td>30,349</td>
+					<td>370,268,000</td>
+					<td>30,349</td>
+				</tr>
+			
+				<tr>
+					<td>반지의 제왕 : 두개의 탑 (확장판)</td>
+					<td>The Lord Of The Rings : The Two Towers</td>
+					<td>2002</td>
+					<td>뉴질랜드,미국</td>
+					<td>판타지,어드벤처,액션</td>
+					<td>주연-김리 역역</td>
+					<td>350,183,800</td>
+					<td>27,440</td>
+					<td>350,183,800</td>
+					<td>27,440</td>
+				</tr>
+			
+				<tr>
+					<td>스콜처</td>
+					<td>Scorcher</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>액션,어드벤처,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>반지의 제왕 : 반지원정대 (확장판)</td>
+					<td>The Lord Of The Rings : The Fellowship Of The Rings</td>
+					<td>2001</td>
+					<td>뉴질랜드,미국</td>
+					<td>판타지,어드벤처,액션</td>
+					<td>주연-김리 역역</td>
+					<td>470,027,900</td>
+					<td>35,758</td>
+					<td>470,027,900</td>
+					<td>35,758</td>
+				</tr>
+			
+				<tr>
+					<td>죽음의게임2 </td>
+					<td>Bloodsport 3</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>456</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사드</td>
+					<td>Marquis de Sade</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>알라딘 3 - 알라딘과 도둑의 왕</td>
+					<td>Aladdin and the King of Thieves</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>어드벤처,애니메이션</td>
+					<td>주연(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>킹 솔로몬 </td>
+					<td>King Solomon&#039;s Mines</td>
+					<td>1985</td>
+					<td>미국</td>
+					<td>액션,어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>155,650</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

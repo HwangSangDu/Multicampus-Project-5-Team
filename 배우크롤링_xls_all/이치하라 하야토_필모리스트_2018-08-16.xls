@@ -1,0 +1,151 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '이치하라 하야토'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>기억의 원더랜드</td>
+					<td>Lost and Found</td>
+					<td>2015</td>
+					<td>일본</td>
+					<td>미스터리,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>도쿄아포칼립스: 최후의 결전</td>
+					<td>Yakuza Apocalypse</td>
+					<td>2014</td>
+					<td>일본</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>3,935,000</td>
+					<td>748</td>
+					<td>3,935,000</td>
+					<td>748</td>
+				</tr>
+			
+				<tr>
+					<td>루키즈 졸업</td>
+					<td>Rookies 卒業</td>
+					<td>2009</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>우리들과 경찰아저씨의 700일 전쟁</td>
+					<td>700 Days Of Battle : Us Vs The Police</td>
+					<td>2008</td>
+					<td>일본</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>4,815,099</td>
+					<td>664</td>
+					<td>4,739,500</td>
+					<td>653</td>
+				</tr>
+			
+				<tr>
+					<td>무지개 여신</td>
+					<td>Rainbow Song</td>
+					<td>2006</td>
+					<td>일본</td>
+					<td>멜로/로맨스</td>
+					<td>주연-토모야 역</td>
+					<td>0</td>
+					<td>42,842</td>
+					<td>259,297,500</td>
+					<td>41,888</td>
+				</tr>
+			
+				<tr>
+					<td>천사의 알</td>
+					<td>The Angel&#039;s Egg</td>
+					<td>2006</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>릴리 슈슈의 모든 것</td>
+					<td>All About Lily Chou-Chou</td>
+					<td>2005</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>8,478</td>
+					<td>61,104,048</td>
+					<td>9,380</td>
+				</tr>
+			
+				<tr>
+					<td>우연하게도 최악의 소년</td>
+					<td>The Boy Is The Worst Accidental</td>
+					<td>2003</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

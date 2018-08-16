@@ -1,0 +1,99 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '카렌 길런'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>어벤져스: 인피니티 워</td>
+					<td>Avengers: Infinity War</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지,SF</td>
+					<td>주연</td>
+					<td>99,825,741,869</td>
+					<td>11,202,737</td>
+					<td>99,918,419,769</td>
+					<td>11,211,798</td>
+				</tr>
+			
+				<tr>
+					<td>쥬만지: 새로운 세계</td>
+					<td>Jumanji: Welcome to the Jungle</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>액션,어드벤처</td>
+					<td>주연</td>
+					<td>13,836,031,864</td>
+					<td>1,711,266</td>
+					<td>13,836,031,864</td>
+					<td>1,711,266</td>
+				</tr>
+			
+				<tr>
+					<td>오큘러스</td>
+					<td>Oculus</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>미스터리,공포(호러),스릴러</td>
+					<td>주연</td>
+					<td>2,122,466,537</td>
+					<td>279,488</td>
+					<td>2,122,466,537</td>
+					<td>279,488</td>
+				</tr>
+			
+				<tr>
+					<td>해피 엔딩</td>
+					<td>Not Another Happy Ending</td>
+					<td>2013</td>
+					<td>영국</td>
+					<td>코미디</td>
+					<td>주연-제인 로크하트 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

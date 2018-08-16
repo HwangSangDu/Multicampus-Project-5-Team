@@ -1,0 +1,320 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '제프리 러쉬'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>캐리비안의 해적: 죽은 자는 말이 없다</td>
+					<td>Pirates of the Caribbean: Dead Men Tell No</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지,코미디</td>
+					<td>조연</td>
+					<td>24,975,495,122</td>
+					<td>3,049,894</td>
+					<td>24,975,495,122</td>
+					<td>3,049,894</td>
+				</tr>
+			
+				<tr>
+					<td>파이널 포트레이트</td>
+					<td>Final Portrait</td>
+					<td>2017</td>
+					<td>영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>나의 딸</td>
+					<td>The Daughter</td>
+					<td>2015</td>
+					<td>호주</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>6,113,200</td>
+					<td>953</td>
+					<td>6,113,200</td>
+					<td>953</td>
+				</tr>
+			
+				<tr>
+					<td>베스트 오퍼</td>
+					<td>The Best Offer</td>
+					<td>2013</td>
+					<td>이탈리아</td>
+					<td>미스터리,멜로/로맨스</td>
+					<td>주연</td>
+					<td>366,911,700</td>
+					<td>47,990</td>
+					<td>367,139,700</td>
+					<td>48,033</td>
+				</tr>
+			
+				<tr>
+					<td>아이 오브 더 스톰</td>
+					<td>The Eye of the Storm</td>
+					<td>2011</td>
+					<td>호주</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>28,069,000</td>
+					<td>4,101</td>
+					<td>28,069,000</td>
+					<td>4,101</td>
+				</tr>
+			
+				<tr>
+					<td>킹스 스피치</td>
+					<td>The King&#039;s Speech</td>
+					<td>2010</td>
+					<td>영국,호주</td>
+					<td>드라마</td>
+					<td>주연-라이오넬 로그 역</td>
+					<td>5,963,126,500</td>
+					<td>806,248</td>
+					<td>5,969,823,800</td>
+					<td>808,908</td>
+				</tr>
+			
+				<tr>
+					<td>워리어스 웨이</td>
+					<td>Warrior&#039;s Way</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>액션,판타지</td>
+					<td>주연-론역</td>
+					<td>3,134,328,730</td>
+					<td>437,101</td>
+					<td>3,097,461,500</td>
+					<td>432,072</td>
+				</tr>
+			
+				<tr>
+					<td>캔디</td>
+					<td>Candy</td>
+					<td>2006</td>
+					<td>호주</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-캐스퍼역</td>
+					<td>30,236,188</td>
+					<td>4,474</td>
+					<td>32,029,500</td>
+					<td>4,760</td>
+				</tr>
+			
+				<tr>
+					<td>피터 셀러스의 삶과 죽음</td>
+					<td>The Life And Death Of Peter Sellers</td>
+					<td>2004</td>
+					<td>미국,영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>네드 켈리</td>
+					<td>Ned Kelly</td>
+					<td>2003</td>
+					<td>호주</td>
+					<td>드라마</td>
+					<td>조연</td>
+					<td>0</td>
+					<td>3,000</td>
+					<td>8,074,500</td>
+					<td>1,270</td>
+				</tr>
+			
+				<tr>
+					<td>캐리비안의 해적 : 블랙펄의 저주</td>
+					<td>Pirates of the Caribbean: The Curse of the Black Pearl </td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>어드벤처,액션,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,010,460</td>
+					<td>0</td>
+					<td>0</td>
+				</tr>
+			
+				<tr>
+					<td>더 높은 곳을 향하여</td>
+					<td>Swimming Upstream</td>
+					<td>2003</td>
+					<td>호주</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>테일러 오브 파나마</td>
+					<td>Tailor Of Panama</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>17,776</td>
+					<td>758,000</td>
+					<td>137</td>
+				</tr>
+			
+				<tr>
+					<td>란타나</td>
+					<td>Lantana</td>
+					<td>2001</td>
+					<td>호주,독일</td>
+					<td>드라마,미스터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>퀼스</td>
+					<td>Quills</td>
+					<td>2000</td>
+					<td>미국,독일,영국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>34,147</td>
+					<td>273,000</td>
+					<td>100</td>
+				</tr>
+			
+				<tr>
+					<td>마술 푸딩</td>
+					<td>The Magic Pudding</td>
+					<td>2000</td>
+					<td>호주</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>헌티드 힐</td>
+					<td>House On Haunted Hill</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연-스티븐 H. 프라이스역</td>
+					<td>0</td>
+					<td>238,653</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>엘리자베스</td>
+					<td>Elizabeth</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>드라마,사극</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>43,508</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>세익스피어 인 러브</td>
+					<td>Shakespeare In Love</td>
+					<td>1998</td>
+					<td>영국,미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>502,079</td>
+					<td>237,000</td>
+					<td>85</td>
+				</tr>
+			
+				<tr>
+					<td>레미제라블</td>
+					<td>Les Miserables</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>드라마,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>5,383</td>
+					<td>610,000</td>
+					<td>238</td>
+				</tr>
+			
+				<tr>
+					<td>샤인</td>
+					<td>Shine</td>
+					<td>1996</td>
+					<td>호주</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>151,895</td>
+					<td>127,776,200</td>
+					<td>16,926</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

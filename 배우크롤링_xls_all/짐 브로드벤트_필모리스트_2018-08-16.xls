@@ -1,0 +1,242 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '짐 브로드벤트'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>예감은 틀리지 않는다</td>
+					<td>The Sense of an Ending</td>
+					<td>2017</td>
+					<td>영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>328,415,900</td>
+					<td>41,994</td>
+					<td>328,530,900</td>
+					<td>42,010</td>
+				</tr>
+			
+				<tr>
+					<td>에델과 어니스트</td>
+					<td>Ethel &amp; Ernest</td>
+					<td>2016</td>
+					<td>영국,룩셈부르크</td>
+					<td>애니메이션,드라마</td>
+					<td>주연</td>
+					<td>82,198,700</td>
+					<td>9,932</td>
+					<td>82,383,700</td>
+					<td>9,952</td>
+				</tr>
+			
+				<tr>
+					<td>레전드 오브 타잔</td>
+					<td>The Legend of Tarzan</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,어드벤처</td>
+					<td>조연</td>
+					<td>7,196,970,717</td>
+					<td>858,402</td>
+					<td>7,196,970,717</td>
+					<td>858,402</td>
+				</tr>
+			
+				<tr>
+					<td>위크엔드 인 파리</td>
+					<td>Le Week-End </td>
+					<td>2013</td>
+					<td>영국</td>
+					<td>드라마,멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>262,992,200</td>
+					<td>33,391</td>
+					<td>265,566,400</td>
+					<td>34,123</td>
+				</tr>
+			
+				<tr>
+					<td>프라이버시</td>
+					<td>Closed Circuit</td>
+					<td>2013</td>
+					<td>영국,미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>122,664,928</td>
+					<td>16,936</td>
+					<td>122,664,928</td>
+					<td>16,936</td>
+				</tr>
+			
+				<tr>
+					<td>철의 여인</td>
+					<td>The Iron Lady</td>
+					<td>2011</td>
+					<td>영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>1,079,070,500</td>
+					<td>144,338</td>
+					<td>1,079,550,500</td>
+					<td>144,401</td>
+				</tr>
+			
+				<tr>
+					<td>아더 크리스마스</td>
+					<td>Arthur Christmas</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>애니메이션,가족</td>
+					<td>주연(목소리)</td>
+					<td>4,779,642,000</td>
+					<td>622,286</td>
+					<td>4,779,642,000</td>
+					<td>622,286</td>
+				</tr>
+			
+				<tr>
+					<td>세상의 모든 계절</td>
+					<td>Another Year</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>135,681,500</td>
+					<td>17,423</td>
+					<td>141,285,000</td>
+					<td>18,190</td>
+				</tr>
+			
+				<tr>
+					<td>아버지를 마지막으로 본 것은 언제입니까?</td>
+					<td>And When Did You Last See Your Father?</td>
+					<td>2007</td>
+					<td>아일랜드</td>
+					<td>드라마,가족</td>
+					<td>주연</td>
+					<td>26,589,161</td>
+					<td>3,656</td>
+					<td>26,279,700</td>
+					<td>3,617</td>
+				</tr>
+			
+				<tr>
+					<td>롱포드</td>
+					<td>Longford</td>
+					<td>2006</td>
+					<td>영국,미국</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>왕의 수염</td>
+					<td>The King&#039;s Beard</td>
+					<td>2002</td>
+					<td>영국</td>
+					<td>애니메이션,가족</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아이리스</td>
+					<td>Iris</td>
+					<td>2001</td>
+					<td>미국,영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>7,061</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>뒤죽박죽</td>
+					<td>Topsy-Turvy</td>
+					<td>1999</td>
+					<td>영국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>282,000</td>
+					<td>55</td>
+				</tr>
+			
+				<tr>
+					<td>바로워즈 </td>
+					<td>The Borrowers</td>
+					<td>1998</td>
+					<td>미국,영국</td>
+					<td>가족,어드벤처,코미디,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>256</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>러프 매직</td>
+					<td>Rough Magic</td>
+					<td>1994</td>
+					<td>프랑스</td>
+					<td>코미디,드라마,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>61</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

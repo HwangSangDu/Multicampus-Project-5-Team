@@ -1,0 +1,73 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '앤 도벌'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>마미</td>
+					<td>Mommy</td>
+					<td>2014</td>
+					<td>캐나다,프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>457,569,000</td>
+					<td>57,630</td>
+					<td>466,118,544</td>
+					<td>58,692</td>
+				</tr>
+			
+				<tr>
+					<td>아이 킬드 마이 마더</td>
+					<td>I Killed My Mother</td>
+					<td>2009</td>
+					<td>캐나다</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>44,352,586</td>
+					<td>5,693</td>
+					<td>46,366,586</td>
+					<td>6,021</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

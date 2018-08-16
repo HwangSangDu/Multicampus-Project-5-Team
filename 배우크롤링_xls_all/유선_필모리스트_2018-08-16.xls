@@ -1,0 +1,216 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '유선'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>진범</td>
+					<td></td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>채비</td>
+					<td>The Preparation</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-문경역</td>
+					<td>1,260,467,864</td>
+					<td>177,428</td>
+					<td>1,260,533,864</td>
+					<td>177,439</td>
+				</tr>
+			
+				<tr>
+					<td>히말라야</td>
+					<td>The Himalayas</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연</td>
+					<td>60,173,583,015</td>
+					<td>7,759,473</td>
+					<td>60,175,363,015</td>
+					<td>7,759,761</td>
+				</tr>
+			
+				<tr>
+					<td>퇴마: 무녀굴</td>
+					<td>The Chosen: Forbidden Cave</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td>951,843,500</td>
+					<td>120,802</td>
+					<td>951,843,500</td>
+					<td>120,802</td>
+				</tr>
+			
+				<tr>
+					<td>돈 크라이 마미</td>
+					<td>Don&#039;t Cry, Mommy</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>스릴러,드라마</td>
+					<td>주연-유림역</td>
+					<td>6,808,882,099</td>
+					<td>975,462</td>
+					<td>6,808,882,099</td>
+					<td>975,462</td>
+				</tr>
+			
+				<tr>
+					<td>가비</td>
+					<td>Gabi</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스,미스터리</td>
+					<td>주연-사다코역</td>
+					<td>1,969,360,500</td>
+					<td>270,602</td>
+					<td>1,969,360,500</td>
+					<td>270,602</td>
+				</tr>
+			
+				<tr>
+					<td>네버엔딩 스토리</td>
+					<td>Never Ending Story</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td>2,106,823,000</td>
+					<td>283,449</td>
+					<td>2,106,823,000</td>
+					<td>283,449</td>
+				</tr>
+			
+				<tr>
+					<td>글러브</td>
+					<td>GLOVE</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-나주원역</td>
+					<td>13,757,574,500</td>
+					<td>1,888,100</td>
+					<td>13,756,114,000</td>
+					<td>1,887,733</td>
+				</tr>
+			
+				<tr>
+					<td>이끼</td>
+					<td>Moss</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>드라마,스릴러</td>
+					<td>주연-이영지역</td>
+					<td>25,856,306,126</td>
+					<td>3,408,144</td>
+					<td>25,437,344,000</td>
+					<td>3,350,311</td>
+				</tr>
+			
+				<tr>
+					<td>검은 집</td>
+					<td>Black House</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>스릴러,미스터리,공포(호러)</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,408,882</td>
+					<td>8,842,295,700</td>
+					<td>1,322,196</td>
+				</tr>
+			
+				<tr>
+					<td>가발</td>
+					<td>The wig</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>545,591</td>
+					<td>2,816,190,000</td>
+					<td>448,161</td>
+				</tr>
+			
+				<tr>
+					<td>4인용 식탁</td>
+					<td>The Uninvited</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>공포(호러),미스터리,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td>717,494</td>
+					<td>38,000</td>
+					<td>8</td>
+				</tr>
+			
+				<tr>
+					<td>빤스 벗고 덤벼라 </td>
+					<td>www.whitelover.com</td>
+					<td>2000</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

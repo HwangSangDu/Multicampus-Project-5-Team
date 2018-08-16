@@ -1,0 +1,463 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '류승범'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>인간, 공간, 시간 그리고 인간</td>
+					<td>Human, Space, Time and Human</td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>그물</td>
+					<td>THE NET</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>426,185,300</td>
+					<td>56,541</td>
+					<td>426,257,300</td>
+					<td>56,553</td>
+				</tr>
+			
+				<tr>
+					<td>나의 절친 악당들</td>
+					<td>Intimate Enemies</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>범죄,액션,드라마</td>
+					<td>주연</td>
+					<td>1,054,470,664</td>
+					<td>133,553</td>
+					<td>1,054,470,664</td>
+					<td>133,553</td>
+				</tr>
+			
+				<tr>
+					<td>베를린</td>
+					<td>The Berlin File</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>주연-동명수역</td>
+					<td>52,354,931,637</td>
+					<td>7,166,199</td>
+					<td>52,357,124,637</td>
+					<td>7,166,532</td>
+				</tr>
+			
+				<tr>
+					<td>용의자X</td>
+					<td>Perfect Number</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>미스터리</td>
+					<td>주연-석고역</td>
+					<td>11,241,013,000</td>
+					<td>1,552,055</td>
+					<td>11,241,013,000</td>
+					<td>1,552,055</td>
+				</tr>
+			
+				<tr>
+					<td>시체가 돌아왔다</td>
+					<td>Over My Dead Body </td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>범죄,드라마</td>
+					<td>주연-안진오역</td>
+					<td>7,360,631,000</td>
+					<td>986,923</td>
+					<td>7,360,631,000</td>
+					<td>986,923</td>
+				</tr>
+			
+				<tr>
+					<td>인류멸망 보고서</td>
+					<td>Doomsday Book</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>SF</td>
+					<td>주연</td>
+					<td>704,635,000</td>
+					<td>97,916</td>
+					<td>704,635,000</td>
+					<td>97,916</td>
+				</tr>
+			
+				<tr>
+					<td>수상한 고객들</td>
+					<td>Suspicious Customers</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>7,953,428,000</td>
+					<td>1,059,350</td>
+					<td>7,953,428,000</td>
+					<td>1,059,350</td>
+				</tr>
+			
+				<tr>
+					<td>페스티발</td>
+					<td>Foxy Festival</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연-오뎅 장수, 상두역</td>
+					<td>1,541,834,737</td>
+					<td>200,123</td>
+					<td>1,517,889,500</td>
+					<td>196,995</td>
+				</tr>
+			
+				<tr>
+					<td>부당거래</td>
+					<td>The Unjust</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>범죄,드라마</td>
+					<td>주연-주양역</td>
+					<td>21,326,977,937</td>
+					<td>2,766,436</td>
+					<td>20,996,584,500</td>
+					<td>2,723,028</td>
+				</tr>
+			
+				<tr>
+					<td>방자전</td>
+					<td>The Servant</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>사극,코미디,멜로/로맨스</td>
+					<td>주연-이몽룡역</td>
+					<td>22,853,629,794</td>
+					<td>3,035,116</td>
+					<td>22,490,392,000</td>
+					<td>2,985,556</td>
+				</tr>
+			
+				<tr>
+					<td>용서는 없다</td>
+					<td>No Mercy</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>범죄,스릴러</td>
+					<td>주연</td>
+					<td>8,737,627,361</td>
+					<td>1,144,238</td>
+					<td>8,597,290,000</td>
+					<td>1,125,154</td>
+				</tr>
+			
+				<tr>
+					<td>디 엔드</td>
+					<td>The end</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-승범역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>다찌마와리</td>
+					<td>Dachimawa Lee</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>액션,어드벤처,코미디</td>
+					<td>조연</td>
+					<td>4,131,701,167</td>
+					<td>628,508</td>
+					<td>4,128,754,000</td>
+					<td>628,359</td>
+				</tr>
+			
+				<tr>
+					<td>라듸오 데이즈</td>
+					<td>Radio Days</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>1,405,676,000</td>
+					<td>214,946</td>
+					<td>1,394,050,500</td>
+					<td>210,525</td>
+				</tr>
+			
+				<tr>
+					<td>만남의 광장</td>
+					<td>Underground Rendezvous</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,306,434</td>
+					<td>7,819,284,000</td>
+					<td>1,211,528</td>
+				</tr>
+			
+				<tr>
+					<td>아치와 씨팍</td>
+					<td>Aachi &amp; Ssipak</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>애니메이션,코미디,액션,SF,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>107,154</td>
+					<td>640,353,800</td>
+					<td>100,090</td>
+				</tr>
+			
+				<tr>
+					<td>가족의 탄생</td>
+					<td>Family Ties</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역</td>
+					<td>0</td>
+					<td>221,925</td>
+					<td>1,225,585,500</td>
+					<td>201,227</td>
+				</tr>
+			
+				<tr>
+					<td>사생결단</td>
+					<td>Bloody Tie</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,104,716</td>
+					<td>10,934,307,100</td>
+					<td>1,724,709</td>
+				</tr>
+			
+				<tr>
+					<td>야수와 미녀</td>
+					<td>The Beast and the Beauty</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,561,282</td>
+					<td>8,378,297,000</td>
+					<td>1,339,833</td>
+				</tr>
+			
+				<tr>
+					<td>주먹이 운다(Crying Fist)</td>
+					<td>Crying Fist</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-유상환 역</td>
+					<td>0</td>
+					<td>1,728,477</td>
+					<td>9,322,812,000</td>
+					<td>1,462,972</td>
+				</tr>
+			
+				<tr>
+					<td>아라한 장풍대작전</td>
+					<td>Arahan</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>액션,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,050,000</td>
+					<td>5,208,064,000</td>
+					<td>810,430</td>
+				</tr>
+			
+				<tr>
+					<td>나와 통하는 다음검색 : 빽</td>
+					<td>Back</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>비밀과 거짓말 </td>
+					<td>Secrets and Lies</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>이공</td>
+					<td>Twentidentity</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>품행제로</td>
+					<td>Conduct Zero</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,694,637</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>피도 눈물도 없이</td>
+					<td>No Blood No Tears</td>
+					<td>2001</td>
+					<td>한국</td>
+					<td>드라마,액션</td>
+					<td>주연</td>
+					<td></td>
+					<td>225,038</td>
+					<td>134,000</td>
+					<td>23</td>
+				</tr>
+			
+				<tr>
+					<td>와이키키 브라더스</td>
+					<td>Waikiki Brothers</td>
+					<td>2001</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-기태역</td>
+					<td>0</td>
+					<td>88,214</td>
+					<td>1,648,900</td>
+					<td>263</td>
+				</tr>
+			
+				<tr>
+					<td>킬러들의 수다</td>
+					<td>Guns And Talks</td>
+					<td>2001</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>단역-폭주족 역</td>
+					<td>0</td>
+					<td>871,125</td>
+					<td>35,000</td>
+					<td>7</td>
+				</tr>
+			
+				<tr>
+					<td>죽거나 혹은 나쁘거나</td>
+					<td>Die Bad</td>
+					<td>2000</td>
+					<td>한국</td>
+					<td>드라마,액션</td>
+					<td>주연-상환역</td>
+					<td>0</td>
+					<td>60,978</td>
+					<td>727,300</td>
+					<td>123</td>
+				</tr>
+			
+				<tr>
+					<td>다찌마와리</td>
+					<td></td>
+					<td>2000</td>
+					<td>한국</td>
+					<td>코미디,액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>내 나이키</td>
+					<td></td>
+					<td></td>
+					<td>한국</td>
+					<td></td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

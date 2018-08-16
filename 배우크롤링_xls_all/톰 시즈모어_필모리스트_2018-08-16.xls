@@ -1,0 +1,372 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '톰 시즈모어'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>블루라인</td>
+					<td>Blue Line</td>
+					<td>2017</td>
+					<td>캐나다</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>270,000</td>
+					<td>54</td>
+					<td>270,000</td>
+					<td>54</td>
+				</tr>
+			
+				<tr>
+					<td>블러드 서커스</td>
+					<td>Blood Circus</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>5,000</td>
+					<td>1</td>
+					<td>5,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>웨포나이즈드</td>
+					<td>Swap</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,SF,스릴러</td>
+					<td>주연</td>
+					<td>2,870,000</td>
+					<td>574</td>
+					<td>8,290,000</td>
+					<td>1,658</td>
+				</tr>
+			
+				<tr>
+					<td>베터 크리미널</td>
+					<td>Better Criminal</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,드라마,SF</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>300,000</td>
+					<td>60</td>
+				</tr>
+			
+				<tr>
+					<td>크로씽 포인트</td>
+					<td>Crossing Point</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>300,000</td>
+					<td>60</td>
+					<td>300,000</td>
+					<td>60</td>
+				</tr>
+			
+				<tr>
+					<td>살인게임</td>
+					<td>Terms &amp; Condition</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>5,000</td>
+					<td>1</td>
+					<td>5,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>씰팀 에이트: 비하인드 에너미 라인즈</td>
+					<td>Seal Team Eight: Behind Enemy Lines</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>액션,드라마,전쟁</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>렘넌트: 생존자들</td>
+					<td>Remnants</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>액션,SF,드라마</td>
+					<td>주연</td>
+					<td>2,000</td>
+					<td>1</td>
+					<td>2,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>컴퍼니 오브 히어로즈</td>
+					<td>Company of Heroes</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>전쟁,액션</td>
+					<td>주연-딘 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>죽음의 타겟</td>
+					<td>Crosshairs</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션,드라마,스릴러</td>
+					<td>주연-지미 마르코스 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스니치 : 마약과의 전쟁</td>
+					<td>The Snitch Cartel</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>범죄,액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>콜롬비아 커넥션 -마약 수사대-</td>
+					<td>Colombian Connection</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>액션,범죄,미스터리</td>
+					<td>주연-프랭크 로시역</td>
+					<td></td>
+					<td></td>
+					<td>28,000</td>
+					<td>4</td>
+				</tr>
+			
+				<tr>
+					<td>라스트 더 맥스</td>
+					<td>Corrado</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>액션,범죄,드라마</td>
+					<td>주연-파올로 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>커뮤트</td>
+					<td>Commute</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연-신 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>마지막 자장가</td>
+					<td>The last Lullaby</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>미스터리</td>
+					<td>주연-프라이스역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>브로큰 라이프</td>
+					<td>A BROKEN LIFE</td>
+					<td>2007</td>
+					<td>캐나다</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>다크 메모리즈</td>
+					<td>Fear Itself: Dark Memories</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>레릭 2 - 돌아온 전설</td>
+					<td>Bottom Feeder</td>
+					<td>2006</td>
+					<td>캐나다</td>
+					<td>공포(호러)</td>
+					<td>주연-빈스 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스윈들</td>
+					<td>Swindle</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>씨커</td>
+					<td>Ticker</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>범죄,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>4,315</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>레드 플래닛</td>
+					<td>Red Planet</td>
+					<td>2000</td>
+					<td>미국,호주</td>
+					<td>SF,공포(호러),스릴러,액션</td>
+					<td>주연-닥터 퀸 버체널역</td>
+					<td>0</td>
+					<td>102,593</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>위트니스 맙</td>
+					<td>Witness To The Mob</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>레릭 </td>
+					<td>The Relic</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연-빈센트 다고스타역</td>
+					<td>0</td>
+					<td>123,745</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>올리버 스톤의 킬러 </td>
+					<td>Natural Born Killer</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>57,913</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>와일드 엔젤</td>
+					<td>Love Is Like That</td>
+					<td>1992</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

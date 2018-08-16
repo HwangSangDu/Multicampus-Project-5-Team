@@ -1,0 +1,216 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '카미야 히로시'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>페이트 스테이 나이트 헤븐즈필 제1장 프레시지 플라워</td>
+					<td>Fate/stay night[Heaven&#039;s Feel] THE MOVIE chapter 1:presage flower</td>
+					<td>2017</td>
+					<td>일본</td>
+					<td>애니메이션,액션,판타지</td>
+					<td>주연-마토 신지역(목소리)</td>
+					<td>338,294,000</td>
+					<td>42,413</td>
+					<td>350,268,500</td>
+					<td>43,711</td>
+				</tr>
+			
+				<tr>
+					<td>키즈모노가타리 III : 냉혈편</td>
+					<td>Kizu Monogatari Reiketsuhen</td>
+					<td>2017</td>
+					<td>일본</td>
+					<td>애니메이션,드라마,액션,판타지</td>
+					<td>주연-아라라기 코요미역(목소리)</td>
+					<td>88,623,000</td>
+					<td>11,302</td>
+					<td>88,623,000</td>
+					<td>11,302</td>
+				</tr>
+			
+				<tr>
+					<td>키즈모노가타리 II : 열혈편</td>
+					<td>Kizu Monogatari Nekketsuhen</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>애니메이션,드라마,판타지,액션</td>
+					<td>주연-아라라기 코요미역(목소리)</td>
+					<td>122,123,000</td>
+					<td>15,800</td>
+					<td>122,123,000</td>
+					<td>15,800</td>
+				</tr>
+			
+				<tr>
+					<td>예전부터 계속 좋아했어 ~고백실행위원회~</td>
+					<td>I Want To Let You Know That I Love You</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>애니메이션,멜로/로맨스</td>
+					<td>주연(목소리)</td>
+					<td>120,601,500</td>
+					<td>16,187</td>
+					<td>121,606,400</td>
+					<td>16,318</td>
+				</tr>
+			
+				<tr>
+					<td>키즈모노가타리 I : 철혈편</td>
+					<td>Kizu Monogatari Tekketsuhen</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>애니메이션,드라마,판타지,액션</td>
+					<td>주연-아라라기 코요미역(목소리)</td>
+					<td>187,057,500</td>
+					<td>24,492</td>
+					<td>187,425,500</td>
+					<td>24,536</td>
+				</tr>
+			
+				<tr>
+					<td>동급생</td>
+					<td>Dou-kyu-sei</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>애니메이션,드라마</td>
+					<td>주연-쿠사카베 히카루역(목소리)</td>
+					<td>280,704,500</td>
+					<td>38,706</td>
+					<td>285,654,000</td>
+					<td>39,280</td>
+				</tr>
+			
+				<tr>
+					<td>진격의 거인: 자유의 날개</td>
+					<td>Attack on Titan: The Wings of Freedom</td>
+					<td>2015</td>
+					<td>일본</td>
+					<td>애니메이션,판타지</td>
+					<td>주연(목소리)</td>
+					<td>46,345,600</td>
+					<td>6,026</td>
+					<td>46,345,600</td>
+					<td>6,026</td>
+				</tr>
+			
+				<tr>
+					<td>낙원추방</td>
+					<td>Rakuen Tsuiho: Expelled from Paradise</td>
+					<td>2014</td>
+					<td>일본</td>
+					<td>애니메이션,액션,SF</td>
+					<td>주연(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>토와노쿠온 III : 몽환의 연좌</td>
+					<td>Towanoquon III</td>
+					<td>2011</td>
+					<td>일본</td>
+					<td>애니메이션,SF,판타지,액션</td>
+					<td>주연-이이다 쿠온역(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>토와노쿠온 IV : 홍련의 초심</td>
+					<td>Towanoquon IV</td>
+					<td>2011</td>
+					<td>일본</td>
+					<td>애니메이션,액션,판타지,SF</td>
+					<td>주연-이이다 쿠온역(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>토와노쿠온 V : 쌍절의 복귀</td>
+					<td>Towanoquon V</td>
+					<td>2011</td>
+					<td>일본</td>
+					<td>애니메이션,액션,SF,판타지</td>
+					<td>주연-이이다 쿠온역(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>토와노쿠온 VI : 영원의 구원</td>
+					<td>Towanoquon VI</td>
+					<td>2011</td>
+					<td>일본</td>
+					<td>SF,애니메이션,액션,판타지</td>
+					<td>주연-쿠온역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>브레이크 블레이드 : 변신의 시작</td>
+					<td>Broken Blade</td>
+					<td>2010</td>
+					<td>일본</td>
+					<td>애니메이션,판타지,액션</td>
+					<td>주연-제스 역(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

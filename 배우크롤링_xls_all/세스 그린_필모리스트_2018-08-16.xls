@@ -1,0 +1,177 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '세스 그린'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>나를 찾아서</td>
+					<td>The Identical</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>188,000</td>
+					<td>49</td>
+					<td>188,000</td>
+					<td>49</td>
+				</tr>
+			
+				<tr>
+					<td>옐로우버드</td>
+					<td>Yellowbird</td>
+					<td>2013</td>
+					<td>프랑스</td>
+					<td>애니메이션,가족</td>
+					<td>주연(목소리)</td>
+					<td>139,064,300</td>
+					<td>18,020</td>
+					<td>146,918,300</td>
+					<td>18,900</td>
+				</tr>
+			
+				<tr>
+					<td>스토리 오브 루크</td>
+					<td>The Story of Luke </td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>화성은 엄마가 필요해</td>
+					<td>Mars Needs Moms</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>애니메이션,코미디,SF</td>
+					<td>주연-마일로역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>위다웃 패들</td>
+					<td>Without A Paddle</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>어드벤처,코미디,미스터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>파티 몬스터</td>
+					<td>Party Monster</td>
+					<td>2003</td>
+					<td>미국,네덜란드</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>넉어라운드 가이스</td>
+					<td>Knockaround Guys</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>범죄,코미디,드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>메멘토 2</td>
+					<td>The Attic Expeditions</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>코미디,공포(호러),미스터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>크레이지 핸드</td>
+					<td>Idle Hands</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>코미디,공포(호러)</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>3,616</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>에어본 </td>
+					<td>Airborne</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>어드벤처,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>89</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

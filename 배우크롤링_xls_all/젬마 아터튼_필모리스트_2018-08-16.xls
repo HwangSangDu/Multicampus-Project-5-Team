@@ -1,0 +1,177 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '젬마 아터튼'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>멜라니: 인류의 마지막 희망인 소녀</td>
+					<td>The Girl with All the Gifts</td>
+					<td>2016</td>
+					<td>영국,미국</td>
+					<td>액션,드라마,스릴러,공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>412,000</td>
+					<td>81</td>
+				</tr>
+			
+				<tr>
+					<td>사랑의 역사</td>
+					<td>The History of Love</td>
+					<td>2016</td>
+					<td>프랑스,캐나다,루마니아,미국</td>
+					<td>드라마,판타지</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>더 보이스</td>
+					<td>The Voices</td>
+					<td>2015</td>
+					<td>미국,독일</td>
+					<td>코미디,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>마담 보바리</td>
+					<td>Gemma Bovery</td>
+					<td>2014</td>
+					<td>프랑스</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>18,469,500</td>
+					<td>2,483</td>
+					<td>18,469,500</td>
+					<td>2,483</td>
+				</tr>
+			
+				<tr>
+					<td>히든 카드</td>
+					<td>Runner Runner </td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>범죄,스릴러</td>
+					<td>주연</td>
+					<td>1,080,423,651</td>
+					<td>151,476</td>
+					<td>1,080,423,651</td>
+					<td>151,476</td>
+				</tr>
+			
+				<tr>
+					<td>송 포 유</td>
+					<td>Song for You</td>
+					<td>2012</td>
+					<td>영국</td>
+					<td>코미디,드라마</td>
+					<td>주연-엘리자베스역</td>
+					<td>1,484,169,000</td>
+					<td>216,852</td>
+					<td>1,485,573,000</td>
+					<td>217,314</td>
+				</tr>
+			
+				<tr>
+					<td>헨젤과 그레텔: 마녀 사냥꾼 3D</td>
+					<td>Hansel and Gretel: Witch Hunters</td>
+					<td>2012</td>
+					<td>미국,영국</td>
+					<td>액션,코미디,판타지</td>
+					<td>주연-그레텔역</td>
+					<td>2,122,205,602</td>
+					<td>269,510</td>
+					<td>2,122,205,602</td>
+					<td>269,510</td>
+				</tr>
+			
+				<tr>
+					<td>페르시아의 왕자: 시간의 모래</td>
+					<td>Prince Of Persia: The Sands Of Time</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지</td>
+					<td>주연</td>
+					<td>14,717,552,534</td>
+					<td>2,003,533</td>
+					<td>14,483,501,000</td>
+					<td>1,970,823</td>
+				</tr>
+			
+				<tr>
+					<td>타이탄</td>
+					<td>Clash Of The Titans</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지</td>
+					<td>주연</td>
+					<td>22,143,097,429</td>
+					<td>2,685,508</td>
+					<td>21,796,996,500</td>
+					<td>2,642,483</td>
+				</tr>
+			
+				<tr>
+					<td>앨리스 크리드의 실종</td>
+					<td>The Disappearance Of Alice Creed</td>
+					<td>2010</td>
+					<td>영국</td>
+					<td>스릴러,드라마,범죄</td>
+					<td>주연-앨리스 크리드역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,138 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '케리 러셀'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>프리 스테이트</td>
+					<td>Free State of Jones</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,전쟁,드라마</td>
+					<td>주연</td>
+					<td>21,110,000</td>
+					<td>10,541</td>
+					<td>21,110,000</td>
+					<td>10,541</td>
+				</tr>
+			
+				<tr>
+					<td>오스틴랜드</td>
+					<td>Austenland</td>
+					<td>2013</td>
+					<td>미국,영국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연-제인 헤이스 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>베드타임 스토리</td>
+					<td>Bedtime Stories</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>코미디,판타지,어드벤처,가족</td>
+					<td>주연</td>
+					<td>1,320,936,074</td>
+					<td>208,054</td>
+					<td>1,306,578,000</td>
+					<td>205,962</td>
+				</tr>
+			
+				<tr>
+					<td>어거스트 러쉬</td>
+					<td>August Rush</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td>2,218,573</td>
+					<td>14,179,371,500</td>
+					<td>2,207,595</td>
+				</tr>
+			
+				<tr>
+					<td>웨이트리스</td>
+					<td>Waitress</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>그림 러브 스토리</td>
+					<td>Grimm Love</td>
+					<td>2006</td>
+					<td>독일</td>
+					<td>공포(호러),스릴러,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>맘보</td>
+					<td>Mad About Mambo</td>
+					<td>2000</td>
+					<td>아일랜드,영국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

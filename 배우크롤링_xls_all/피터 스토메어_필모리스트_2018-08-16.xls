@@ -1,0 +1,190 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '피터 스토메어'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>존 윅 - 리로드</td>
+					<td>John Wick Chapter Two</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>액션,범죄,스릴러</td>
+					<td>주연</td>
+					<td>2,205,582,600</td>
+					<td>276,379</td>
+					<td>2,205,582,600</td>
+					<td>276,379</td>
+				</tr>
+			
+				<tr>
+					<td>파괴자들</td>
+					<td>Rupture</td>
+					<td>2016</td>
+					<td>미국,캐나다</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>121,000</td>
+					<td>28</td>
+					<td>121,000</td>
+					<td>28</td>
+				</tr>
+			
+				<tr>
+					<td>아이 엠 히어</td>
+					<td>I Am Here</td>
+					<td>2014</td>
+					<td>독일,덴마크</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>706,000</td>
+					<td>121</td>
+				</tr>
+			
+				<tr>
+					<td>라스트 스탠드</td>
+					<td>The Last Stand</td>
+					<td>2013</td>
+					<td>미국,영국</td>
+					<td>액션</td>
+					<td>조연-버렐역</td>
+					<td>492,135,000</td>
+					<td>66,698</td>
+					<td>492,763,000</td>
+					<td>66,790</td>
+				</tr>
+			
+				<tr>
+					<td>트루 블러드</td>
+					<td>Autumn Blood</td>
+					<td>2013</td>
+					<td>오스트리아 ,미국</td>
+					<td>스릴러,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>완전범죄 프로젝트</td>
+					<td>Get the Gringo</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션,범죄</td>
+					<td>주연</td>
+					<td>2,152,000</td>
+					<td>390</td>
+					<td>2,152,000</td>
+					<td>390</td>
+				</tr>
+			
+				<tr>
+					<td>인새니테리움</td>
+					<td>Insanitarium</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>에코</td>
+					<td>Echo</td>
+					<td>2007</td>
+					<td>덴마크</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>126,000</td>
+					<td>26</td>
+				</tr>
+			
+				<tr>
+					<td>브루져</td>
+					<td>Bruiser</td>
+					<td>2000</td>
+					<td>캐나다,미국,프랑스</td>
+					<td>스릴러,공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>서커스</td>
+					<td>Circus</td>
+					<td>2000</td>
+					<td>영국,미국</td>
+					<td>범죄,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>코만도 해밀턴</td>
+					<td>Commander Hamilton</td>
+					<td>1998</td>
+					<td>스웨덴,노르웨이</td>
+					<td>액션,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>196</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

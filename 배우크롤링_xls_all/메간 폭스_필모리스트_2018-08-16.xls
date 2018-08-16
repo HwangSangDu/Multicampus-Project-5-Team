@@ -1,0 +1,177 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '메간 폭스'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>닌자터틀 : 어둠의 히어로</td>
+					<td>Teenage Mutant Ninja Turtles : Out Of The Shadow</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,어드벤처</td>
+					<td>주연</td>
+					<td>1,934,052,000</td>
+					<td>235,207</td>
+					<td>1,934,052,000</td>
+					<td>235,207</td>
+				</tr>
+			
+				<tr>
+					<td>닌자터틀</td>
+					<td>Teenage Mutant Ninja Turtles</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>액션,어드벤처,코미디</td>
+					<td>주연</td>
+					<td>3,321,120,147</td>
+					<td>400,329</td>
+					<td>3,321,152,147</td>
+					<td>400,333</td>
+				</tr>
+			
+				<tr>
+					<td>독재자</td>
+					<td>The Dictator</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>디스 이즈 포티 </td>
+					<td>This Is 40 </td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연-데시 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>프렌즈 위드 키즈</td>
+					<td>Friends With Kids</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>원초적 본능 2015</td>
+					<td>Passion Play</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>멜로/로맨스,드라마,판타지</td>
+					<td>주연-릴리역</td>
+					<td>205,000</td>
+					<td>37</td>
+					<td>205,000</td>
+					<td>37</td>
+				</tr>
+			
+				<tr>
+					<td>트랜스포머: 패자의 역습</td>
+					<td>Transformers: Revenge Of The Fallen</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>SF,액션,어드벤처</td>
+					<td>주연-미카엘라 바니스역</td>
+					<td>51,478,531,663</td>
+					<td>7,505,700</td>
+					<td>50,699,866,000</td>
+					<td>7,393,443</td>
+				</tr>
+			
+				<tr>
+					<td>죽여줘! 제니퍼</td>
+					<td>Jennifer&#039;s Body</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>SF,공포(호러),스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>트랜스포머</td>
+					<td>Transformers</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>SF,액션,어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>7,440,531</td>
+					<td>47,710,604,338</td>
+					<td>7,402,732</td>
+				</tr>
+			
+				<tr>
+					<td>드라마 퀸</td>
+					<td>Confessions Of A Teenage Drama Queen</td>
+					<td>2004</td>
+					<td>미국,독일</td>
+					<td>코미디,가족</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

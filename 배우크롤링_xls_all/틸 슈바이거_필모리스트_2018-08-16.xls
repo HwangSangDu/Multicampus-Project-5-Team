@@ -1,0 +1,281 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '틸 슈바이거'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>스페셜 스쿼드</td>
+					<td>Hot Dog</td>
+					<td>2018</td>
+					<td>독일</td>
+					<td>액션,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>47,000</td>
+					<td>29</td>
+				</tr>
+			
+				<tr>
+					<td>미션 이스탄불</td>
+					<td>Nick: Off Duty</td>
+					<td>2016</td>
+					<td>독일</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>8,239,500</td>
+					<td>1,082</td>
+					<td>8,239,500</td>
+					<td>1,082</td>
+				</tr>
+			
+				<tr>
+					<td>뱅크 어택: 은행습격사건</td>
+					<td>Four Against The Bank</td>
+					<td>2016</td>
+					<td>독일</td>
+					<td>코미디,범죄,액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>미션 이스탄불3: 더 리벤지</td>
+					<td>Kopfgeld  </td>
+					<td>2014</td>
+					<td>독일</td>
+					<td>범죄,액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>2,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>가디언스</td>
+					<td>Guardians</td>
+					<td>2012</td>
+					<td>독일</td>
+					<td>액션,범죄</td>
+					<td>감독,주연</td>
+					<td>250,000</td>
+					<td>50</td>
+					<td>250,000</td>
+					<td>50</td>
+				</tr>
+			
+				<tr>
+					<td>러브 액츄얼리 인 베를린</td>
+					<td>Men in the City</td>
+					<td>2009</td>
+					<td>독일</td>
+					<td>코미디</td>
+					<td>주연-제롬 아데스 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>환상통</td>
+					<td>Phantom Pain</td>
+					<td>2009</td>
+					<td>독일</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>159,000</td>
+					<td>149</td>
+				</tr>
+			
+				<tr>
+					<td>레드 바론</td>
+					<td>The Red Baron</td>
+					<td>2008</td>
+					<td>독일,영국</td>
+					<td>드라마,전쟁,액션</td>
+					<td>주연-베르너 보스역</td>
+					<td>7,000</td>
+					<td>1</td>
+					<td>7,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>귀없는 토끼</td>
+					<td>Rabbit Without Ears</td>
+					<td>2007</td>
+					<td>독일</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>감독,주연-루도역</td>
+					<td>60,267,898</td>
+					<td>7,610</td>
+					<td>61,006,000</td>
+					<td>7,775</td>
+				</tr>
+			
+				<tr>
+					<td>바디 아머</td>
+					<td>Body Armour</td>
+					<td>2007</td>
+					<td>미국,호주,독일,스페인,영국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>올레디 데드</td>
+					<td>Already Dead</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>액션,범죄,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>원 웨이</td>
+					<td>One Way</td>
+					<td>2007</td>
+					<td>독일</td>
+					<td>범죄,스릴러</td>
+					<td>주연-에디 슈나이더 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>요절복통 프레드의 사랑찾기</td>
+					<td>Where Is Fred?</td>
+					<td>2006</td>
+					<td>독일</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연-프레드 크뤼퍼스역</td>
+					<td>9,507,500</td>
+					<td>1,375</td>
+					<td>9,507,500</td>
+					<td>1,375</td>
+				</tr>
+			
+				<tr>
+					<td>맨발</td>
+					<td>Barefoot</td>
+					<td>2005</td>
+					<td>독일</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>감독,주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>인 에너미 핸즈</td>
+					<td>In Enemy Hands</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>전쟁,드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>불 났을 땐 어쩌지?</td>
+					<td>Was Tun, Wenn&#039;s Brennt?</td>
+					<td>2001</td>
+					<td>독일</td>
+					<td>액션,코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>노킹 온 헤븐스 도어</td>
+					<td>Knockin&#039; On Heaven&#039;s Door</td>
+					<td>1997</td>
+					<td>독일,네덜란드</td>
+					<td>드라마,범죄,액션,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>18,090</td>
+					<td>68,605,000</td>
+					<td>9,081</td>
+				</tr>
+			
+				<tr>
+					<td>스탠바이유어맨 </td>
+					<td>Jailbirds</td>
+					<td>1995</td>
+					<td>독일</td>
+					<td>코미디,드라마,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>14,415</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

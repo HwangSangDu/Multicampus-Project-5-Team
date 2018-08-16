@@ -1,0 +1,515 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '정진영'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>흥부: 글로 세상을 바꾼 자</td>
+					<td>Heung-boo: The Revolutionist</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>사극</td>
+					<td>조연-조항리역</td>
+					<td>3,381,302,200</td>
+					<td>416,346</td>
+					<td>3,381,050,200</td>
+					<td>416,303</td>
+				</tr>
+			
+				<tr>
+					<td>대장 김창수</td>
+					<td>MAN OF WILL </td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-고진사 역</td>
+					<td>2,879,121,115</td>
+					<td>381,483</td>
+					<td>2,879,121,115</td>
+					<td>381,483</td>
+				</tr>
+			
+				<tr>
+					<td>내안의 그놈</td>
+					<td></td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>판타지,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>풀잎들</td>
+					<td>Grass</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-경수역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>클레어의 카메라</td>
+					<td>Claire&#039;s Camera</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>75,238,300</td>
+					<td>9,424</td>
+					<td>75,289,300</td>
+					<td>9,430</td>
+				</tr>
+			
+				<tr>
+					<td>판도라</td>
+					<td>Pandora</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td>36,064,461,064</td>
+					<td>4,583,645</td>
+					<td>36,067,171,064</td>
+					<td>4,584,800</td>
+				</tr>
+			
+				<tr>
+					<td>그랜드파더</td>
+					<td>Grand Father</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>액션,드라마</td>
+					<td>주연</td>
+					<td>233,692,400</td>
+					<td>31,640</td>
+					<td>233,692,400</td>
+					<td>31,640</td>
+				</tr>
+			
+				<tr>
+					<td>시간이탈자</td>
+					<td>Time Renegades</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>조연-강반장역</td>
+					<td>9,731,838,195</td>
+					<td>1,202,384</td>
+					<td>9,731,838,195</td>
+					<td>1,202,384</td>
+				</tr>
+			
+				<tr>
+					<td>강남 1970</td>
+					<td>Gangnam Blues</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>액션,드라마</td>
+					<td>주연-길수역</td>
+					<td>17,717,971,499</td>
+					<td>2,192,172</td>
+					<td>17,718,699,499</td>
+					<td>2,192,276</td>
+				</tr>
+			
+				<tr>
+					<td>국제시장</td>
+					<td>Ode to My Father</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-덕수부역</td>
+					<td>110,913,469,630</td>
+					<td>14,257,115</td>
+					<td>110,937,282,730</td>
+					<td>14,262,766</td>
+				</tr>
+			
+				<tr>
+					<td>찌라시: 위험한 소문</td>
+					<td>Tabloid Truth</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>범죄,드라마</td>
+					<td>주연-박사장역</td>
+					<td>9,111,648,087</td>
+					<td>1,221,420</td>
+					<td>9,111,748,087</td>
+					<td>1,221,427</td>
+				</tr>
+			
+				<tr>
+					<td>또 하나의 약속</td>
+					<td>Another Family</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-판사역</td>
+					<td>3,536,495,400</td>
+					<td>497,994</td>
+					<td>3,541,402,400</td>
+					<td>498,670</td>
+				</tr>
+			
+				<tr>
+					<td>7번방의 선물</td>
+					<td>Miracle in Cell No.7</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>단역-특별출연-민환역</td>
+					<td>91,431,914,670</td>
+					<td>12,811,206</td>
+					<td>91,433,282,670</td>
+					<td>12,811,435</td>
+				</tr>
+			
+				<tr>
+					<td>반창꼬</td>
+					<td>Love 911</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>단역-우정출연-오형사역</td>
+					<td>17,911,274,787</td>
+					<td>2,475,797</td>
+					<td>17,911,274,787</td>
+					<td>2,475,797</td>
+				</tr>
+			
+				<tr>
+					<td>특수본</td>
+					<td>S.I.U.</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>액션,범죄</td>
+					<td>주연-황두수역</td>
+					<td>8,096,052,500</td>
+					<td>1,118,258</td>
+					<td>8,096,052,500</td>
+					<td>1,118,258</td>
+				</tr>
+			
+				<tr>
+					<td>평양성</td>
+					<td>Battlefield Heroes</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>전쟁,코미디,드라마</td>
+					<td>주연-김유신역</td>
+					<td>12,684,530,500</td>
+					<td>1,717,566</td>
+					<td>12,684,530,500</td>
+					<td>1,717,566</td>
+				</tr>
+			
+				<tr>
+					<td>이태원 살인사건</td>
+					<td>Where the Truth Lies</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>범죄,미스터리,스릴러</td>
+					<td>주연-박 검사역</td>
+					<td>4,023,152,210</td>
+					<td>537,075</td>
+					<td>3,978,107,000</td>
+					<td>531,023</td>
+				</tr>
+			
+				<tr>
+					<td>님은 먼 곳에</td>
+					<td>Sunny</td>
+					<td>2008</td>
+					<td>한국,태국</td>
+					<td>드라마,전쟁</td>
+					<td>주연-밴드 리더 정만역,세트</td>
+					<td>11,211,235,000</td>
+					<td>1,706,576</td>
+					<td>11,206,382,000</td>
+					<td>1,706,495</td>
+				</tr>
+			
+				<tr>
+					<td>즐거운 인생</td>
+					<td>The Happy Life</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-기영역</td>
+					<td>0</td>
+					<td>1,263,835</td>
+					<td>7,874,566,500</td>
+					<td>1,202,719</td>
+				</tr>
+			
+				<tr>
+					<td>별빛 속으로</td>
+					<td>For Eternal Hearts</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>멜로/로맨스,판타지</td>
+					<td>단역-우정출연-교수 수영역</td>
+					<td>0</td>
+					<td>6,724</td>
+					<td>43,726,000</td>
+					<td>6,687</td>
+				</tr>
+			
+				<tr>
+					<td>날아라 허동구</td>
+					<td>Bunt</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>가족,드라마</td>
+					<td>주연-동구의 아빠 허진규역</td>
+					<td>0</td>
+					<td>396,811</td>
+					<td>2,333,597,000</td>
+					<td>378,161</td>
+				</tr>
+			
+				<tr>
+					<td>세번째 시선</td>
+					<td>If You Were Me 3</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>3,811</td>
+					<td>22,405,900</td>
+					<td>3,651</td>
+				</tr>
+			
+				<tr>
+					<td>왕의 남자</td>
+					<td>King And The Clown</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-연산역</td>
+					<td>0</td>
+					<td>12,302,831</td>
+					<td>66,016,030,400</td>
+					<td>10,513,781</td>
+				</tr>
+			
+				<tr>
+					<td>철수♡영희</td>
+					<td>Chulsoo And Younghee</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-우정출연-불독 선생님역</td>
+					<td>0</td>
+					<td>4,523</td>
+					<td>27,482,000</td>
+					<td>4,504</td>
+				</tr>
+			
+				<tr>
+					<td>달마야, 서울 가자</td>
+					<td>Hi, Dharma 2  -Showdown In Seoul</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연-청명 스님역</td>
+					<td>0</td>
+					<td>1,272,000</td>
+					<td>4,469,579,500</td>
+					<td>703,507</td>
+				</tr>
+			
+				<tr>
+					<td>황산벌</td>
+					<td>Once Upon A Time In A Battlefield</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연-김유신역</td>
+					<td></td>
+					<td>2,771,236</td>
+					<td>41,867,500</td>
+					<td>5,665</td>
+				</tr>
+			
+				<tr>
+					<td>와일드 카드</td>
+					<td>Wild Card</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>범죄</td>
+					<td>주연-형사 오영달역</td>
+					<td>0</td>
+					<td>1,571,931</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>달마야 놀자</td>
+					<td>Hi, Dharma</td>
+					<td>2001</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연-청명역</td>
+					<td>0</td>
+					<td>1,253,075</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>킬러들의 수다</td>
+					<td>Guns And Talks</td>
+					<td>2001</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>조연-조검사역</td>
+					<td>0</td>
+					<td>871,125</td>
+					<td>35,000</td>
+					<td>7</td>
+				</tr>
+			
+				<tr>
+					<td>교도소 월드컵</td>
+					<td>Prison World Cup</td>
+					<td>2001</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>조연-빵장역</td>
+					<td>0</td>
+					<td>41,594</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>비천무</td>
+					<td>Bichunmoo</td>
+					<td>2000</td>
+					<td>한국</td>
+					<td>사극,액션</td>
+					<td>조연-준광역</td>
+					<td>0</td>
+					<td>717,659</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>링</td>
+					<td>The Ring Virus</td>
+					<td>1999</td>
+					<td>한국</td>
+					<td>공포(호러),미스터리,스릴러</td>
+					<td>주연-최열역</td>
+					<td>0</td>
+					<td>332,354</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>약속</td>
+					<td>A Promise</td>
+					<td>1998</td>
+					<td>한국</td>
+					<td>멜로/로맨스,액션</td>
+					<td>조연-엄기탁역</td>
+					<td>0</td>
+					<td>704,600</td>
+					<td>6,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>초록물고기</td>
+					<td>Green Fish</td>
+					<td>1997</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스,액션</td>
+					<td>조연-셋째 형역,연출팀</td>
+					<td>0</td>
+					<td>163,655</td>
+					<td>1,087,000</td>
+					<td>161</td>
+				</tr>
+			
+				<tr>
+					<td>테러리스트</td>
+					<td>The Terrorist</td>
+					<td>1995</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>단역-달선역</td>
+					<td>0</td>
+					<td>320,919</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>닫힌 교문을 열며</td>
+					<td>Opening the Closed School Gates</td>
+					<td>1991</td>
+					<td>한국</td>
+					<td></td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

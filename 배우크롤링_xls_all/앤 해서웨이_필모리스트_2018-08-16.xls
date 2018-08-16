@@ -1,0 +1,398 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '앤 해서웨이'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>오션스8</td>
+					<td>Ocean&#039;s 8</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>액션,범죄</td>
+					<td>주연</td>
+					<td>10,978,328,166</td>
+					<td>1,252,385</td>
+					<td>11,700,157,266</td>
+					<td>1,335,829</td>
+				</tr>
+			
+				<tr>
+					<td>콜로설</td>
+					<td>Colossal</td>
+					<td>2017</td>
+					<td>캐나다,스페인</td>
+					<td>액션,코미디,SF</td>
+					<td>주연</td>
+					<td>114,967,100</td>
+					<td>14,687</td>
+					<td>114,967,100</td>
+					<td>14,687</td>
+				</tr>
+			
+				<tr>
+					<td>거울나라의 앨리스</td>
+					<td>Alice Through the Looking Glass</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>어드벤처,가족,판타지</td>
+					<td>주연</td>
+					<td>4,145,733,267</td>
+					<td>513,202</td>
+					<td>4,145,733,267</td>
+					<td>513,202</td>
+				</tr>
+			
+				<tr>
+					<td>인턴</td>
+					<td>The Intern</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>28,518,443,148</td>
+					<td>3,610,642</td>
+					<td>28,522,202,348</td>
+					<td>3,611,166</td>
+				</tr>
+			
+				<tr>
+					<td>송 원</td>
+					<td>Song One</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>354,715,143</td>
+					<td>47,599</td>
+					<td>361,418,143</td>
+					<td>48,396</td>
+				</tr>
+			
+				<tr>
+					<td>인터스텔라</td>
+					<td>Interstellar</td>
+					<td>2014</td>
+					<td>미국,영국</td>
+					<td>SF</td>
+					<td>주연</td>
+					<td>82,291,089,200</td>
+					<td>10,275,484</td>
+					<td>82,669,061,000</td>
+					<td>10,309,432</td>
+				</tr>
+			
+				<tr>
+					<td>리오 2</td>
+					<td>Rio 2</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>애니메이션,코미디,어드벤처</td>
+					<td>주연-쥬엘역(목소리)</td>
+					<td>5,668,239,900</td>
+					<td>765,713</td>
+					<td>5,669,231,900</td>
+					<td>765,961</td>
+				</tr>
+			
+				<tr>
+					<td>걸 라이징</td>
+					<td>Girl Rising</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>다큐멘터리</td>
+					<td>주연(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>레미제라블</td>
+					<td>Les Miserables</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>43,044,999,000</td>
+					<td>5,911,890</td>
+					<td>43,090,556,000</td>
+					<td>5,920,977</td>
+				</tr>
+			
+				<tr>
+					<td>다크 나이트 라이즈</td>
+					<td>The Dark Knight Rises</td>
+					<td>2012</td>
+					<td>미국,영국</td>
+					<td>액션,범죄,스릴러</td>
+					<td>주연-셀리나 카일역</td>
+					<td>47,644,838,000</td>
+					<td>6,396,528</td>
+					<td>47,675,463,500</td>
+					<td>6,399,303</td>
+				</tr>
+			
+				<tr>
+					<td>원 데이</td>
+					<td>One Day</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>1,494,277,500</td>
+					<td>203,029</td>
+					<td>1,503,406,500</td>
+					<td>204,341</td>
+				</tr>
+			
+				<tr>
+					<td>러브 &amp; 드럭스</td>
+					<td>Love And Other Drugs</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>4,125,733,000</td>
+					<td>527,077</td>
+					<td>4,125,733,000</td>
+					<td>527,077</td>
+				</tr>
+			
+				<tr>
+					<td>이상한 나라의 앨리스</td>
+					<td>Alice In Wonderland</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>판타지,어드벤처,가족</td>
+					<td>주연-하얀 여왕역</td>
+					<td>20,661,000,236</td>
+					<td>2,182,365</td>
+					<td>20,334,399,500</td>
+					<td>2,147,012</td>
+				</tr>
+			
+				<tr>
+					<td>발렌타인 데이</td>
+					<td>Valentine&#039;S Day</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>1,337,699,931</td>
+					<td>172,997</td>
+					<td>1,314,085,500</td>
+					<td>169,529</td>
+				</tr>
+			
+				<tr>
+					<td>신부들의 전쟁</td>
+					<td>Bride Wars</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연-엠마역</td>
+					<td>686,671,367</td>
+					<td>105,202</td>
+					<td>675,067,500</td>
+					<td>103,501</td>
+				</tr>
+			
+				<tr>
+					<td>패신저스</td>
+					<td>Passengers</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>미스터리,멜로/로맨스</td>
+					<td>주연</td>
+					<td>228,000</td>
+					<td>37</td>
+					<td>228,000</td>
+					<td>37</td>
+				</tr>
+			
+				<tr>
+					<td>레이첼 결혼하다</td>
+					<td>Rachel Getting Married</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스,가족</td>
+					<td>주연-킴역</td>
+					<td>40,491,979</td>
+					<td>5,747</td>
+					<td>39,887,000</td>
+					<td>5,661</td>
+				</tr>
+			
+				<tr>
+					<td>겟 스마트</td>
+					<td>Get Smart</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>범죄,액션,코미디</td>
+					<td>주연</td>
+					<td>1,152,676,500</td>
+					<td>176,852</td>
+					<td>1,149,843,500</td>
+					<td>175,390</td>
+				</tr>
+			
+				<tr>
+					<td>비커밍 제인</td>
+					<td>Becoming Jane</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-제인 오스틴역</td>
+					<td>0</td>
+					<td>213,487</td>
+					<td>1,367,447,000</td>
+					<td>212,860</td>
+				</tr>
+			
+				<tr>
+					<td>악마는 프라다를 입는다</td>
+					<td>The Devil Wears Prada</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-앤디 삭스역</td>
+					<td>0</td>
+					<td>1,730,719</td>
+					<td>8,377,549,400</td>
+					<td>1,378,126</td>
+				</tr>
+			
+				<tr>
+					<td>빨간모자의 진실</td>
+					<td>Hoodwinked</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>애니메이션,코미디</td>
+					<td>주연-빨간 모자역(목소리)</td>
+					<td>0</td>
+					<td>1,057,223</td>
+					<td>5,753,533,100</td>
+					<td>952,793</td>
+				</tr>
+			
+				<tr>
+					<td>하복</td>
+					<td>Havoc</td>
+					<td>2005</td>
+					<td>미국,독일</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>프린세스 다이어리 2</td>
+					<td>The Princess Diaries 2: Royal Engagement</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>162,789</td>
+					<td>792,040,500</td>
+					<td>128,615</td>
+				</tr>
+			
+				<tr>
+					<td>엘라의 유혹</td>
+					<td>Ella Enchanted</td>
+					<td>2004</td>
+					<td>미국,아일랜드,영국</td>
+					<td>코미디,판타지,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>니콜라스 니클비</td>
+					<td>Nicholas Nickleby</td>
+					<td>2002</td>
+					<td>영국,미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>프린세스 다이어리</td>
+					<td>The Princess Diaries</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>가족,드라마,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>131,165</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>디 아더 사이드 오브 헤븐</td>
+					<td>The Other Side Of Heaven</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>어드벤처,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

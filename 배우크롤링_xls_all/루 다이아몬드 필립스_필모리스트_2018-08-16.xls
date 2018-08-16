@@ -1,0 +1,320 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '루 다이아몬드 필립스'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>메탈 토네이도</td>
+					<td>Metal Tornado</td>
+					<td>2011</td>
+					<td>캐나다</td>
+					<td>액션</td>
+					<td>주연-마이클 에드워즈역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>타임 트랙</td>
+					<td>Termination Point</td>
+					<td>2007</td>
+					<td>캐나다</td>
+					<td>SF,액션</td>
+					<td>주연-다니엘 윈터 박사 역역</td>
+					<td>16,000</td>
+					<td>4</td>
+					<td>16,000</td>
+					<td>4</td>
+				</tr>
+			
+				<tr>
+					<td>스트라이킹 레인지</td>
+					<td>Striking Range</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>트라이 앵글</td>
+					<td>The Triangle</td>
+					<td>2005</td>
+					<td>미국,영국</td>
+					<td>액션,어드벤처</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>레드 워터</td>
+					<td>Red water</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>액션,스릴러,공포(호러)</td>
+					<td>주연-존 샌더스역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>압솔론</td>
+					<td>Absolon</td>
+					<td>2003</td>
+					<td>캐나다,영국</td>
+					<td>SF,액션,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>베레타 357</td>
+					<td>Malevolent</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>범죄,드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스톤 콜드 3</td>
+					<td>Stone Cold 3</td>
+					<td>2002</td>
+					<td>캐나다,미국</td>
+					<td>액션,어드벤처</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>루트666</td>
+					<td>Route666</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>액션,공포(호러),스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>베터 웨이 투 다이</td>
+					<td>A Better Way To Die</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>행맨</td>
+					<td>Hangman</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>박쥐</td>
+					<td>Bats</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연-보안관 에멧 킴제이역</td>
+					<td>0</td>
+					<td>23,053</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>빅히트</td>
+					<td>The Big Hit</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>범죄,스릴러,액션,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>26,238</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>커리지 언더 파이어 </td>
+					<td>Courage Under Fire</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>전쟁,액션,드라마,미스터리</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>231,165</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>위험한 거래 </td>
+					<td>Dangerous Touch</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>드라마,성인물(에로),스릴러</td>
+					<td>감독,주연</td>
+					<td>0</td>
+					<td>6,733</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>늑대의 그림자 </td>
+					<td>Shadow Of The Wolf</td>
+					<td>1992</td>
+					<td>미국</td>
+					<td>드라마,어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>608</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>악령의 퍼스트파워</td>
+					<td>First Power</td>
+					<td>1990</td>
+					<td>미국</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>56,205</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>레니 게이드</td>
+					<td>Renegades</td>
+					<td>1989</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>26,438</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>영건</td>
+					<td>Young Guns</td>
+					<td>1988</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>59,371</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>라밤바</td>
+					<td>La Bamba</td>
+					<td>1987</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>219,561</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스탠드 업</td>
+					<td>Stand and Deliver</td>
+					<td>1987</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

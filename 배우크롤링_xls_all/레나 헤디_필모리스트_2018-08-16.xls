@@ -1,0 +1,216 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '레나 헤디'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>킹스글레이브: 파이널 판타지 XV</td>
+					<td>Kingsglaive Final Fantasy XV</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>애니메이션</td>
+					<td>주연-루나 역(목소리)</td>
+					<td>16,319,300</td>
+					<td>1,960</td>
+					<td>16,319,300</td>
+					<td>1,960</td>
+				</tr>
+			
+				<tr>
+					<td>300: 제국의 부활</td>
+					<td>300: Rise of an Empire</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>액션,드라마,전쟁</td>
+					<td>주연</td>
+					<td>13,395,159,700</td>
+					<td>1,593,116</td>
+					<td>13,395,159,700</td>
+					<td>1,593,116</td>
+				</tr>
+			
+				<tr>
+					<td>로우 다운</td>
+					<td>Low Down</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>드라마,가족</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>마이더스 어드벤쳐</td>
+					<td>The Adventurer: The Curse of the Midas Box</td>
+					<td>2014</td>
+					<td>영국</td>
+					<td>어드벤처,가족,판타지</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>더 퍼지</td>
+					<td>The Purge</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>스릴러,SF</td>
+					<td>주연</td>
+					<td>1,032,196,000</td>
+					<td>137,340</td>
+					<td>1,032,196,000</td>
+					<td>137,340</td>
+				</tr>
+			
+				<tr>
+					<td>섀도우 헌터스: 뼈의 도시</td>
+					<td>The Mortal Instruments: City of Bones</td>
+					<td>2013</td>
+					<td>미국,독일</td>
+					<td>판타지,액션</td>
+					<td>주연-조셀린 프레이역</td>
+					<td>4,034,176,500</td>
+					<td>571,074</td>
+					<td>4,034,176,500</td>
+					<td>571,074</td>
+				</tr>
+			
+				<tr>
+					<td>레드 바론</td>
+					<td>The Red Baron</td>
+					<td>2008</td>
+					<td>독일,영국</td>
+					<td>드라마,전쟁,액션</td>
+					<td>주연-케이트 역</td>
+					<td>7,000</td>
+					<td>1</td>
+					<td>7,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>브로큰</td>
+					<td>The Broken</td>
+					<td>2008</td>
+					<td>프랑스,영국</td>
+					<td>드라마,공포(호러),스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>300</td>
+					<td>300</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,929,400</td>
+					<td>18,683,698,500</td>
+					<td>2,929,561</td>
+				</tr>
+			
+				<tr>
+					<td>이매진 미 앤 유</td>
+					<td>Imagine Me &amp; You</td>
+					<td>2006</td>
+					<td>영국,독일</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>경찰, 은행을 털다</td>
+					<td>The Parole Officer</td>
+					<td>2001</td>
+					<td>영국</td>
+					<td>코미디,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>가십</td>
+					<td>Gossip</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>맨 위드 레인</td>
+					<td>The Man With Rain In His Shoes</td>
+					<td>1998</td>
+					<td>스페인,프랑스,영국,독일,미국</td>
+					<td>코미디,드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

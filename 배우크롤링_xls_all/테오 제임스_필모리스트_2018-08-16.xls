@@ -1,0 +1,151 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '테오 제임스'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>로즈</td>
+					<td>The Secret Scripture</td>
+					<td>2016</td>
+					<td>아일랜드</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>113,253,541</td>
+					<td>14,955</td>
+					<td>113,253,541</td>
+					<td>14,955</td>
+				</tr>
+			
+				<tr>
+					<td>언더월드: 블러드 워</td>
+					<td>Underworld: Blood Wars</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,판타지,공포(호러)</td>
+					<td>주연</td>
+					<td>567,567,100</td>
+					<td>72,071</td>
+					<td>567,567,100</td>
+					<td>72,071</td>
+				</tr>
+			
+				<tr>
+					<td>다이버전트 시리즈: 얼리전트</td>
+					<td>The Divergent Series: Allegiant</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,어드벤처,SF</td>
+					<td>주연</td>
+					<td>818,897,545</td>
+					<td>103,556</td>
+					<td>818,897,545</td>
+					<td>103,556</td>
+				</tr>
+			
+				<tr>
+					<td>뷰티풀 프래니</td>
+					<td>The Benefactor</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>43,842,600</td>
+					<td>5,821</td>
+					<td>43,967,600</td>
+					<td>5,937</td>
+				</tr>
+			
+				<tr>
+					<td>인서전트</td>
+					<td>Insurgent</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>SF,액션</td>
+					<td>주연</td>
+					<td>2,158,449,889</td>
+					<td>282,662</td>
+					<td>2,158,719,844</td>
+					<td>282,707</td>
+				</tr>
+			
+				<tr>
+					<td>다이버전트</td>
+					<td>Divergent</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>SF,판타지,액션,멜로/로맨스</td>
+					<td>주연</td>
+					<td>3,297,709,011</td>
+					<td>424,041</td>
+					<td>3,298,038,966</td>
+					<td>424,090</td>
+				</tr>
+			
+				<tr>
+					<td>도미노 이펙트</td>
+					<td>The Domino Effect</td>
+					<td>2012</td>
+					<td>영국,네덜란드</td>
+					<td>미스터리,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>언더월드 4: 어웨이크닝</td>
+					<td>Underworld Awakening</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>액션,판타지,SF,공포(호러)</td>
+					<td>주연</td>
+					<td>1,861,948,000</td>
+					<td>200,038</td>
+					<td>1,861,948,000</td>
+					<td>200,038</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

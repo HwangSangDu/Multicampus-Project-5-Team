@@ -1,0 +1,268 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '루크 고스'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>유어 무브</td>
+					<td>Your Move</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>감독,주연</td>
+					<td>5,000</td>
+					<td>1</td>
+					<td>5,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>대전차 특공대: 스페셜 포스</td>
+					<td>War Pigs</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션,드라마,전쟁</td>
+					<td>주연</td>
+					<td>63,000</td>
+					<td>24</td>
+					<td>63,000</td>
+					<td>24</td>
+				</tr>
+			
+				<tr>
+					<td>크로씽 포인트</td>
+					<td>Crossing Point</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>300,000</td>
+					<td>60</td>
+					<td>300,000</td>
+					<td>60</td>
+				</tr>
+			
+				<tr>
+					<td>오퍼레이터</td>
+					<td>Operator</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>범죄,액션</td>
+					<td>주연</td>
+					<td>5,000</td>
+					<td>1</td>
+					<td>5,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>런어웨이-72</td>
+					<td>AWOL-72</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연-콘래드 밀러역</td>
+					<td>5,000</td>
+					<td>1</td>
+					<td>5,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>특별수사대</td>
+					<td>April Rain</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>3,000</td>
+					<td>1</td>
+					<td>3,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>라스트 에너미</td>
+					<td>Dead Drop</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>액션,범죄,드라마</td>
+					<td>주연</td>
+					<td>23,820,000</td>
+					<td>4,032</td>
+					<td>23,820,000</td>
+					<td>4,032</td>
+				</tr>
+			
+				<tr>
+					<td>히트맨 NO.2 : 살인면허</td>
+					<td>Interview With a Hitman</td>
+					<td>2012</td>
+					<td>영국</td>
+					<td>스릴러,액션</td>
+					<td>주연</td>
+					<td>10,083,000</td>
+					<td>3,067</td>
+					<td>10,083,000</td>
+					<td>3,067</td>
+				</tr>
+			
+				<tr>
+					<td>세븐 빌로우</td>
+					<td>7 BELOW</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>스릴러,공포(호러)</td>
+					<td>조연</td>
+					<td>1,200,000</td>
+					<td>80</td>
+					<td>1,200,000</td>
+					<td>80</td>
+				</tr>
+			
+				<tr>
+					<td>블러드 아웃</td>
+					<td>Blood Out</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>액션,범죄</td>
+					<td>주연-마이클역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>데스레이스2</td>
+					<td>Death Race 2</td>
+					<td>2010</td>
+					<td>남아프리카공화국,미국</td>
+					<td>액션,스릴러</td>
+					<td>주연-칼 &#039;루크&#039; 루카스 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>엘도라도: 태양의신전</td>
+					<td>El Dorado: Temple Of The Sun</td>
+					<td>2010</td>
+					<td>페루,미국</td>
+					<td>액션,어드벤처</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>엘도라도: 황금의 도시</td>
+					<td>El Dorado: City Of Gold</td>
+					<td>2010</td>
+					<td>페루,미국</td>
+					<td>액션,어드벤처</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>원 나잇 위드 더 킹</td>
+					<td>One Night With The King</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>312,000</td>
+					<td>53</td>
+				</tr>
+			
+				<tr>
+					<td>시크릿 다이어리: 런던은 사랑중</td>
+					<td>Private Moments</td>
+					<td>2005</td>
+					<td>영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>354,000</td>
+					<td>59</td>
+				</tr>
+			
+				<tr>
+					<td>콜드 앤 다크</td>
+					<td>Cold And Dark</td>
+					<td>2005</td>
+					<td>영국</td>
+					<td>공포(호러),범죄,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>실버 호크</td>
+					<td>Silver Hawk</td>
+					<td>2004</td>
+					<td>홍콩</td>
+					<td>액션,어드벤처</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

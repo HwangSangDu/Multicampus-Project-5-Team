@@ -1,0 +1,99 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '오타니 료헤이'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>명량: 회오리 바다를 향하여</td>
+					<td>Roaring Currents: The Road of the Admiral</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>다큐멘터리</td>
+					<td>주연</td>
+					<td>64,170,500</td>
+					<td>8,897</td>
+					<td>64,170,500</td>
+					<td>8,897</td>
+				</tr>
+			
+				<tr>
+					<td>명량</td>
+					<td>Roaring Currents</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>사극,액션</td>
+					<td>조연-준사 역</td>
+					<td>135,748,398,910</td>
+					<td>17,613,682</td>
+					<td>135,754,920,310</td>
+					<td>17,615,314</td>
+				</tr>
+			
+				<tr>
+					<td>최종병기 활 감독확장판</td>
+					<td>War of the Arrows (Director&#039;s Cut)</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>사극,액션</td>
+					<td>주연</td>
+					<td>86,374,000</td>
+					<td>11,547</td>
+					<td>86,374,000</td>
+					<td>11,547</td>
+				</tr>
+			
+				<tr>
+					<td>최종병기 활</td>
+					<td>War of the Arrows</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>사극,액션</td>
+					<td>조연-노가미역</td>
+					<td>55,827,861,500</td>
+					<td>7,470,633</td>
+					<td>55,827,861,500</td>
+					<td>7,470,633</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

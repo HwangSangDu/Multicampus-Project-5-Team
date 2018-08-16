@@ -1,0 +1,216 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '시얼샤 로넌'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>레이디 버드</td>
+					<td>Lady Bird</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>828,329,700</td>
+					<td>101,781</td>
+					<td>828,329,700</td>
+					<td>101,781</td>
+				</tr>
+			
+				<tr>
+					<td>러빙 빈센트</td>
+					<td>Loving Vincent</td>
+					<td>2017</td>
+					<td>영국,폴란드</td>
+					<td>애니메이션,미스터리</td>
+					<td>주연</td>
+					<td>3,262,209,261</td>
+					<td>409,345</td>
+					<td>3,262,209,261</td>
+					<td>409,345</td>
+				</tr>
+			
+				<tr>
+					<td>체실 비치에서</td>
+					<td>On Chesil Beach</td>
+					<td>2017</td>
+					<td>영국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>브루클린</td>
+					<td>Brooklyn</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>412,985,600</td>
+					<td>51,106</td>
+					<td>412,985,600</td>
+					<td>51,106</td>
+				</tr>
+			
+				<tr>
+					<td>그랜드 부다페스트 호텔</td>
+					<td>The Grand Budapest Hotel</td>
+					<td>2014</td>
+					<td>미국,독일</td>
+					<td>미스터리,어드벤처</td>
+					<td>주연</td>
+					<td>6,014,299,982</td>
+					<td>773,887</td>
+					<td>6,049,062,782</td>
+					<td>778,493</td>
+				</tr>
+			
+				<tr>
+					<td>로스트리버</td>
+					<td>Lost river</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>판타지,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>하우 아이 리브: 내가 사는 이유</td>
+					<td>How I Live Now</td>
+					<td>2014</td>
+					<td>영국,미국</td>
+					<td>전쟁,액션,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>호스트</td>
+					<td>The Host</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>SF,판타지</td>
+					<td>주연</td>
+					<td>299,706,000</td>
+					<td>42,972</td>
+					<td>299,706,000</td>
+					<td>42,972</td>
+				</tr>
+			
+				<tr>
+					<td>바이올렛 앤 데이지</td>
+					<td>Violet &amp; Daisy</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>270,000</td>
+					<td>54</td>
+					<td>270,000</td>
+					<td>54</td>
+				</tr>
+			
+				<tr>
+					<td>한나</td>
+					<td>Hanna</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연-한나역</td>
+					<td>1,570,759,500</td>
+					<td>208,912</td>
+					<td>1,570,759,500</td>
+					<td>208,912</td>
+				</tr>
+			
+				<tr>
+					<td>웨이 백</td>
+					<td>The Way Back</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-이레나역</td>
+					<td>776,193,500</td>
+					<td>105,925</td>
+					<td>777,981,500</td>
+					<td>106,223</td>
+				</tr>
+			
+				<tr>
+					<td>러블리 본즈</td>
+					<td>The Lovely Bones</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>범죄,드라마,판타지</td>
+					<td>주연</td>
+					<td>1,572,420,641</td>
+					<td>212,035</td>
+					<td>1,547,855,000</td>
+					<td>208,672</td>
+				</tr>
+			
+				<tr>
+					<td>시티 오브 엠버: 빛의 도시를 찾아서</td>
+					<td>City of Ember</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>판타지,어드벤처</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

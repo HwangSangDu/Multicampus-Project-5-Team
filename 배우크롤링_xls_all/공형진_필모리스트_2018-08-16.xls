@@ -1,0 +1,398 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '공형진'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>로마의 휴일</td>
+					<td></td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>993,321,176</td>
+					<td>134,827</td>
+					<td>993,321,176</td>
+					<td>134,827</td>
+				</tr>
+			
+				<tr>
+					<td>고산자, 대동여지도</td>
+					<td>The Map Against the World</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>사극</td>
+					<td>조연-신원역</td>
+					<td>7,801,007,258</td>
+					<td>974,262</td>
+					<td>7,801,007,258</td>
+					<td>974,262</td>
+				</tr>
+			
+				<tr>
+					<td>굿맨</td>
+					<td>A good man</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마,판타지</td>
+					<td>주연-조두식역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>커플즈</td>
+					<td>Couples</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연-병찬역</td>
+					<td>2,705,566,500</td>
+					<td>360,045</td>
+					<td>2,705,566,500</td>
+					<td>360,045</td>
+				</tr>
+			
+				<tr>
+					<td>방자전</td>
+					<td>The Servant</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>사극,코미디,멜로/로맨스</td>
+					<td>조연-색안경역</td>
+					<td>22,853,629,794</td>
+					<td>3,035,116</td>
+					<td>22,490,392,000</td>
+					<td>2,985,556</td>
+				</tr>
+			
+				<tr>
+					<td>잘 알지도 못하면서</td>
+					<td>Like You Know It All</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>조연-제천 - 부상용역</td>
+					<td>276,548,483</td>
+					<td>39,914</td>
+					<td>277,419,600</td>
+					<td>39,984</td>
+				</tr>
+			
+				<tr>
+					<td>대한이, 민국씨</td>
+					<td>Love Is Beautiful</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연-김민국역</td>
+					<td>1,192,710,500</td>
+					<td>212,854</td>
+					<td>1,188,129,500</td>
+					<td>208,695</td>
+				</tr>
+			
+				<tr>
+					<td>천년여우 여우비</td>
+					<td>Yobi, The Five-Tailed Fox</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>애니메이션,가족,판타지</td>
+					<td>주연-강 선생 목소리역(목소리)</td>
+					<td>0</td>
+					<td>482,988</td>
+					<td>2,496,355,500</td>
+					<td>460,925</td>
+				</tr>
+			
+				<tr>
+					<td>가문의 부활 - 가문의 영광3</td>
+					<td>Marrying the Mafia 3 : Family Hustle</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>조연-봉명필역</td>
+					<td>0</td>
+					<td>3,464,516</td>
+					<td>15,996,330,400</td>
+					<td>2,598,859</td>
+				</tr>
+			
+				<tr>
+					<td>Mr. 총알</td>
+					<td>Mr. Bullet</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>코미디,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>미스터 주부퀴즈왕</td>
+					<td>Mr. Housewife</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연-영승역</td>
+					<td>0</td>
+					<td>413,157</td>
+					<td>2,106,892,000</td>
+					<td>337,772</td>
+				</tr>
+			
+				<tr>
+					<td>가문의 위기(가문의 영광2)</td>
+					<td>Marrying the Mafia 2: Enemy-in-Law</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>조연-봉 검사역</td>
+					<td>0</td>
+					<td>5,635,266</td>
+					<td>28,622,355,500</td>
+					<td>4,529,876</td>
+				</tr>
+			
+				<tr>
+					<td>라이어</td>
+					<td>Liar</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연-노상구역</td>
+					<td>0</td>
+					<td>220,531</td>
+					<td>706,033,000</td>
+					<td>108,156</td>
+				</tr>
+			
+				<tr>
+					<td>태극기 휘날리며</td>
+					<td>TaeGukGi: Brotherhood Of War</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>전쟁,드라마</td>
+					<td>조연-영만역</td>
+					<td>0</td>
+					<td>11,746,135</td>
+					<td>15,688,614,500</td>
+					<td>2,545,566</td>
+				</tr>
+			
+				<tr>
+					<td>동해물과 백두산이</td>
+					<td>Lost In The South Mission: Going Home </td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연-림동해역</td>
+					<td>0</td>
+					<td>764,567</td>
+					<td>1,041,877,500</td>
+					<td>163,194</td>
+				</tr>
+			
+				<tr>
+					<td>남남북녀</td>
+					<td>Love : Impossible</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연-강일평역</td>
+					<td>0</td>
+					<td>223,503</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>블루</td>
+					<td>Blue</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-박 중사역</td>
+					<td>0</td>
+					<td>198,500</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>좋은사람있으면 소개시켜줘</td>
+					<td>A Perfect Match</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마,코미디</td>
+					<td>조연-준역</td>
+					<td></td>
+					<td>221,105</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>마리이야기</td>
+					<td>My Beautiful Girl, Mari</td>
+					<td>2001</td>
+					<td>한국</td>
+					<td>애니메이션</td>
+					<td>주연-어른 준호 목소리역(목소리)</td>
+					<td></td>
+					<td>54,404</td>
+					<td>102,000</td>
+					<td>22</td>
+				</tr>
+			
+				<tr>
+					<td>파이란</td>
+					<td>Failan</td>
+					<td>2001</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-경수역</td>
+					<td>0</td>
+					<td>222,711</td>
+					<td>1,719,500</td>
+					<td>281</td>
+				</tr>
+			
+				<tr>
+					<td>선물</td>
+					<td>Last Present</td>
+					<td>2001</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-철수역</td>
+					<td>0</td>
+					<td>479,679</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>단적비연수</td>
+					<td>The Legend Of Gingko</td>
+					<td>2000</td>
+					<td>한국</td>
+					<td>멜로/로맨스,사극,액션,전쟁,판타지</td>
+					<td>조연-성관역</td>
+					<td>0</td>
+					<td>616,349</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>나는 왜 권투심판이 되려 하는가</td>
+					<td>Why Do I Want To Be A Boxing Referee</td>
+					<td>2000</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>주연-비찬역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>박하사탕</td>
+					<td>A Peppermint Candy</td>
+					<td>1999</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연</td>
+					<td>0</td>
+					<td>290,352</td>
+					<td>83,991,100</td>
+					<td>9,441</td>
+				</tr>
+			
+				<tr>
+					<td>신장개업</td>
+					<td>A Growing Business</td>
+					<td>1999</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>조연-김 순경역</td>
+					<td>0</td>
+					<td>100,915</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>비는 사랑을 타고</td>
+					<td>Love On A Rainy Day</td>
+					<td>1994</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>976</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>굿바이 서울 신파</td>
+					<td></td>
+					<td>1993</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

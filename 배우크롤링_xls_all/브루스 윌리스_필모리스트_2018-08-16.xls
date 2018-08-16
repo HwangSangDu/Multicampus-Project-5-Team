@@ -1,0 +1,866 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '브루스 윌리스'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>데스 위시</td>
+					<td>DEATH WISH</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>액션,범죄,드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>액츠 오브 바이올런스</td>
+					<td>Acts of Violence</td>
+					<td>2018</td>
+					<td>캐나다</td>
+					<td>액션,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>원스 어폰 어 타임 인 베니스</td>
+					<td>Once Upon a Time in Venice</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>코미디,액션,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>150,000</td>
+					<td>30</td>
+				</tr>
+			
+				<tr>
+					<td>카스바</td>
+					<td>Rock the Kasbah</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>퍼스트 킬</td>
+					<td>First Kill</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>프레셔스 카고: 프로 범죄단</td>
+					<td>Precious Cargo</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>범죄,액션</td>
+					<td>주연</td>
+					<td>10,241,000</td>
+					<td>1,745</td>
+					<td>10,241,000</td>
+					<td>1,745</td>
+				</tr>
+			
+				<tr>
+					<td>신시내티 잡</td>
+					<td>Marauders</td>
+					<td>2016</td>
+					<td>캐나다</td>
+					<td>액션,범죄,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>바이스: 범죄도시</td>
+					<td>Vice</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션,어드벤처,SF</td>
+					<td>주연</td>
+					<td>1,770,000</td>
+					<td>281</td>
+					<td>1,770,000</td>
+					<td>281</td>
+				</tr>
+			
+				<tr>
+					<td>익스트랙션</td>
+					<td>Extraction</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>134,000</td>
+					<td>54</td>
+					<td>134,000</td>
+					<td>54</td>
+				</tr>
+			
+				<tr>
+					<td>씬 시티: 다크히어로의 부활</td>
+					<td>Sin City: A dame to kill for</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>액션,범죄,스릴러</td>
+					<td>주연</td>
+					<td>656,718,748</td>
+					<td>83,182</td>
+					<td>656,718,748</td>
+					<td>83,182</td>
+				</tr>
+			
+				<tr>
+					<td>다이하드: 굿 데이 투 다이</td>
+					<td>A Good Day to Die Hard</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>액션,범죄,스릴러</td>
+					<td>주연-존 맥클레인역</td>
+					<td>10,825,703,000</td>
+					<td>1,438,056</td>
+					<td>10,825,703,000</td>
+					<td>1,438,056</td>
+				</tr>
+			
+				<tr>
+					<td>레드: 더 레전드</td>
+					<td>RED2</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션,코미디,범죄</td>
+					<td>주연-프랭크 모세역</td>
+					<td>21,511,358,970</td>
+					<td>3,004,647</td>
+					<td>21,511,371,970</td>
+					<td>3,004,649</td>
+				</tr>
+			
+				<tr>
+					<td>지.아이.조 2</td>
+					<td>G.I. Joe 2: Retaliation</td>
+					<td>2012</td>
+					<td>미국,캐나다</td>
+					<td>액션,어드벤처,SF</td>
+					<td>주연-조 콜튼역</td>
+					<td>14,457,048,500</td>
+					<td>1,855,917</td>
+					<td>14,457,048,500</td>
+					<td>1,855,917</td>
+				</tr>
+			
+				<tr>
+					<td>파이어 위드 파이어</td>
+					<td>Fire with Fire</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>4,355,000</td>
+					<td>2,030</td>
+					<td>4,355,000</td>
+					<td>2,030</td>
+				</tr>
+			
+				<tr>
+					<td>문라이즈 킹덤 </td>
+					<td>Moonrise Kingdom</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>코미디,어드벤처,멜로/로맨스</td>
+					<td>주연</td>
+					<td>275,919,300</td>
+					<td>35,328</td>
+					<td>285,769,700</td>
+					<td>36,674</td>
+				</tr>
+			
+				<tr>
+					<td>루퍼</td>
+					<td>Looper</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>SF,액션</td>
+					<td>주연</td>
+					<td>4,265,566,000</td>
+					<td>571,922</td>
+					<td>4,265,566,000</td>
+					<td>571,922</td>
+				</tr>
+			
+				<tr>
+					<td>익스펜더블 2</td>
+					<td>The Expendables II</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션,어드벤처</td>
+					<td>주연</td>
+					<td>3,208,867,228</td>
+					<td>444,434</td>
+					<td>3,209,043,228</td>
+					<td>444,456</td>
+				</tr>
+			
+				<tr>
+					<td>레이디 겜블러</td>
+					<td>Lay The Favorite</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>셋 업</td>
+					<td>Set Up</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>액션,범죄,스릴러</td>
+					<td>주연-빅스역</td>
+					<td>400,000</td>
+					<td>100</td>
+					<td>800,000</td>
+					<td>200</td>
+				</tr>
+			
+				<tr>
+					<td>콜드 라잇 오브 데이</td>
+					<td>The Cold Light Of Day</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>636,555,090</td>
+					<td>88,522</td>
+					<td>636,555,090</td>
+					<td>88,522</td>
+				</tr>
+			
+				<tr>
+					<td>캐치 44</td>
+					<td>Catch .44</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>범죄,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>레드</td>
+					<td>Red</td>
+					<td>2010</td>
+					<td>미국,캐나다</td>
+					<td>액션</td>
+					<td>주연-프랭크 모스역</td>
+					<td>3,607,106,025</td>
+					<td>489,855</td>
+					<td>3,550,436,000</td>
+					<td>482,053</td>
+				</tr>
+			
+				<tr>
+					<td>익스펜더블</td>
+					<td>The Expendables</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>스릴러,액션</td>
+					<td>주연</td>
+					<td>3,025,538,174</td>
+					<td>398,097</td>
+					<td>2,973,383,000</td>
+					<td>390,458</td>
+				</tr>
+			
+				<tr>
+					<td>캅 아웃</td>
+					<td>Cop Out</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>범죄,액션,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>써로게이트</td>
+					<td>Surrogates</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>SF,스릴러,액션</td>
+					<td>주연- 그리어 역</td>
+					<td>6,020,292,355</td>
+					<td>806,924</td>
+					<td>5,925,561,500</td>
+					<td>794,475</td>
+				</tr>
+			
+				<tr>
+					<td>할리우드 폭로전</td>
+					<td>What Just Happened</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>6,250,000</td>
+					<td>1,250</td>
+					<td>6,250,000</td>
+					<td>1,250</td>
+				</tr>
+			
+				<tr>
+					<td>어쎄신네이션</td>
+					<td>Assassination of a High School President</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>코미디,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>퍼펙트 스트레인저</td>
+					<td>Perfect Stranger</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>510</td>
+					<td>3,565,000</td>
+					<td>510</td>
+				</tr>
+			
+				<tr>
+					<td>다이 하드 4 : 죽어도 산다</td>
+					<td>Live Free Or Die Hard</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>3,380,800</td>
+					<td>20,622,308,900</td>
+					<td>3,176,937</td>
+				</tr>
+			
+				<tr>
+					<td>럭키 넘버 슬레븐</td>
+					<td>Lucky Number Slevin</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>스릴러,범죄</td>
+					<td>주연-미스터 굿캣역</td>
+					<td>0</td>
+					<td>384,790</td>
+					<td>2,238,839,400</td>
+					<td>360,516</td>
+				</tr>
+			
+				<tr>
+					<td>헷지</td>
+					<td>Over The Hedge</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>애니메이션,코미디</td>
+					<td>주연-너구리 RJ역(목소리)</td>
+					<td>0</td>
+					<td>905,983</td>
+					<td>5,043,700,100</td>
+					<td>837,588</td>
+				</tr>
+			
+				<tr>
+					<td>식스틴블럭</td>
+					<td>16 Blocks</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>액션,범죄</td>
+					<td>주연-잭 모슬리역</td>
+					<td>0</td>
+					<td>303,521</td>
+					<td>1,776,130,000</td>
+					<td>280,753</td>
+				</tr>
+			
+				<tr>
+					<td>씬 시티</td>
+					<td>Sin City</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>범죄,스릴러,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>356,183</td>
+					<td>2,024,599,506</td>
+					<td>311,066</td>
+				</tr>
+			
+				<tr>
+					<td>호스티지</td>
+					<td>Hostage</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>438,516</td>
+					<td>2,416,540,003</td>
+					<td>379,707</td>
+				</tr>
+			
+				<tr>
+					<td>나인 야드 2</td>
+					<td>The Whole Ten Yards</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>112,156</td>
+					<td>661,030,500</td>
+					<td>103,526</td>
+				</tr>
+			
+				<tr>
+					<td>태양의 눈물</td>
+					<td>Tears Of The Sun</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>액션,범죄,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>471,818</td>
+					<td>148,000</td>
+					<td>74</td>
+				</tr>
+			
+				<tr>
+					<td>하트의 전쟁</td>
+					<td>Hart&#039;s War</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>전쟁</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>28,300</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>그랜드 챔피언</td>
+					<td>Grand Champion</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>코미디,가족</td>
+					<td>조연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>밴디츠</td>
+					<td>Bandits</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>32,100</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>키드</td>
+					<td>Disney&#039;s The Kid</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>43,697</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>언브레이커블</td>
+					<td>Unbreakable</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>미스터리,드라마,스릴러</td>
+					<td>주연-엘리야 프라이스역</td>
+					<td>0</td>
+					<td>429,163</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>나인 야드</td>
+					<td>The Whole Nine Yards</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>범죄,코미디</td>
+					<td>주연-지미 더 튤립역</td>
+					<td>0</td>
+					<td>299,140</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스토리 오브 어스</td>
+					<td>The Story Of Us</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>멜로/로맨스,드라마,코미디</td>
+					<td>주연-벤 조단역</td>
+					<td>0</td>
+					<td>37,322</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>브루스 윌리스의 챔피온</td>
+					<td>Breakfast Of Champions</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,721</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>식스 센스</td>
+					<td>The Sixth Sense</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러,미스터리,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>797,761</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아마겟돈</td>
+					<td>Armageddon</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>SF,드라마,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,170,252</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>머큐리 </td>
+					<td>Mercury Rising</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>드라마,스릴러,액션</td>
+					<td>주연-아트 (아서 제프리스)역</td>
+					<td>0</td>
+					<td>102,087</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>제 5원소 리마스터링 감독판</td>
+					<td>The Fifth Element</td>
+					<td>1997</td>
+					<td>프랑스</td>
+					<td>SF,액션,어드벤처</td>
+					<td>주연</td>
+					<td>2,060,000</td>
+					<td>677</td>
+					<td>2,060,000</td>
+					<td>677</td>
+				</tr>
+			
+				<tr>
+					<td>자칼 </td>
+					<td>The Jackal</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>액션,스릴러,어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>362,979</td>
+					<td>84,000</td>
+					<td>42</td>
+				</tr>
+			
+				<tr>
+					<td>제5원소 </td>
+					<td>The Fifth Element</td>
+					<td>1996</td>
+					<td>프랑스</td>
+					<td>SF,액션,스릴러,어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>857,752</td>
+					<td>245,000</td>
+					<td>28</td>
+				</tr>
+			
+				<tr>
+					<td>라스트맨 스탠딩 </td>
+					<td>Last Man Standing</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>액션,드라마,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>201,972</td>
+					<td>129,000</td>
+					<td>43</td>
+				</tr>
+			
+				<tr>
+					<td>12 몽키즈</td>
+					<td>12 Monkeys</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>SF,드라마,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>116,592</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>다이 하드 3 </td>
+					<td>Die Hard With A Vengeance</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>979,666</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>노스바스의 추억 </td>
+					<td>Nobody&#039;S Fool</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>42,998</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>컬러 오브 나이트</td>
+					<td>Color Of Night</td>
+					<td>1994</td>
+					<td>헝가리</td>
+					<td>드라마,미스터리,성인물(에로),스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>439,391</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>펄프 픽션 </td>
+					<td>Pulp Fiction</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>범죄,스릴러</td>
+					<td>주연-부치 쿨릿지역</td>
+					<td>0</td>
+					<td>122,873</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스트라이킹 디스턴스 </td>
+					<td>Striking Distance</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>드라마,미스터리,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>323,660</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>죽어야 사는 여자</td>
+					<td>Death Becomes Her</td>
+					<td>1992</td>
+					<td>미국</td>
+					<td>코미디,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>123,207</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>허드슨 호크</td>
+					<td>Hudson Hawk</td>
+					<td>1991</td>
+					<td>미국</td>
+					<td>코미디,액션,어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>158,433</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>마지막 보이스카웃</td>
+					<td>THE LAST BOYSCOUT</td>
+					<td>1991</td>
+					<td>미국</td>
+					<td>코미디,액션,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>547,281</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>다이 하드 2</td>
+					<td>Die Hard 2</td>
+					<td>1990</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>651,009</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>다이 하드</td>
+					<td>Die Hard</td>
+					<td>1988</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>459,413</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>데이트 소동</td>
+					<td>Blind Date</td>
+					<td>1987</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

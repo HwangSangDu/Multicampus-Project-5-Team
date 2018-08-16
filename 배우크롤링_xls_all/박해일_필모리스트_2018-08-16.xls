@@ -1,0 +1,437 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '박해일'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>상류사회</td>
+					<td>High Society</td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-장태준역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>나랏말싸미</td>
+					<td></td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>사극</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>남한산성</td>
+					<td>The Fortress</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>사극,드라마</td>
+					<td>주연</td>
+					<td>31,225,083,792</td>
+					<td>3,849,087</td>
+					<td>31,225,419,792</td>
+					<td>3,849,129</td>
+				</tr>
+			
+				<tr>
+					<td>덕혜옹주</td>
+					<td>The Last Princess</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>사극,드라마</td>
+					<td>주연-김장한역</td>
+					<td>44,393,828,109</td>
+					<td>5,599,229</td>
+					<td>44,395,967,609</td>
+					<td>5,599,665</td>
+				</tr>
+			
+				<tr>
+					<td>컨트롤</td>
+					<td></td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>필름시대사랑</td>
+					<td>Love and...</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>12,686,000</td>
+					<td>1,611</td>
+					<td>12,686,000</td>
+					<td>1,611</td>
+				</tr>
+			
+				<tr>
+					<td>동행</td>
+					<td>Accompany</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>나의 독재자</td>
+					<td>My Dictator</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>2,906,692,546</td>
+					<td>385,934</td>
+					<td>2,907,311,546</td>
+					<td>386,072</td>
+				</tr>
+			
+				<tr>
+					<td>제보자</td>
+					<td>The Whistleblower</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-윤민철 PD역</td>
+					<td>13,515,762,802</td>
+					<td>1,755,181</td>
+					<td>13,515,762,802</td>
+					<td>1,755,181</td>
+				</tr>
+			
+				<tr>
+					<td>경주</td>
+					<td>Gyeong-ju</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마,코미디,멜로/로맨스</td>
+					<td>주연-최현역</td>
+					<td>473,094,500</td>
+					<td>63,456</td>
+					<td>473,561,500</td>
+					<td>63,520</td>
+				</tr>
+			
+				<tr>
+					<td>산타바바라</td>
+					<td>Santa Barbara</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>단역-기자 목소리역(목소리)</td>
+					<td>125,565,919</td>
+					<td>16,626</td>
+					<td>125,565,919</td>
+					<td>16,626</td>
+				</tr>
+			
+				<tr>
+					<td>고령화 가족</td>
+					<td>Boomerang Family</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>주연-인모역</td>
+					<td>8,169,492,153</td>
+					<td>1,141,222</td>
+					<td>8,169,492,153</td>
+					<td>1,141,222</td>
+				</tr>
+			
+				<tr>
+					<td>은교</td>
+					<td>Eungyo</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연-이적요역</td>
+					<td>9,917,728,000</td>
+					<td>1,346,274</td>
+					<td>9,919,681,444</td>
+					<td>1,346,511</td>
+				</tr>
+			
+				<tr>
+					<td>최종병기 활 감독확장판</td>
+					<td>War of the Arrows (Director&#039;s Cut)</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>사극,액션</td>
+					<td>주연</td>
+					<td>86,374,000</td>
+					<td>11,547</td>
+					<td>86,374,000</td>
+					<td>11,547</td>
+				</tr>
+			
+				<tr>
+					<td>최종병기 활</td>
+					<td>War of the Arrows</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>사극,액션</td>
+					<td>주연-남이역</td>
+					<td>55,827,861,500</td>
+					<td>7,470,633</td>
+					<td>55,827,861,500</td>
+					<td>7,470,633</td>
+				</tr>
+			
+				<tr>
+					<td>짐승의 끝</td>
+					<td>End of Animal</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>판타지,드라마</td>
+					<td>주연-야구모자역</td>
+					<td>7,898,000</td>
+					<td>1,030</td>
+					<td>9,321,500</td>
+					<td>1,250</td>
+				</tr>
+			
+				<tr>
+					<td>심장이 뛴다</td>
+					<td>Heartbeat</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-이휘도역</td>
+					<td>7,538,083,500</td>
+					<td>1,006,947</td>
+					<td>7,624,895,500</td>
+					<td>1,025,243</td>
+				</tr>
+			
+				<tr>
+					<td>이끼</td>
+					<td>Moss</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>드라마,스릴러</td>
+					<td>주연-유해국역</td>
+					<td>25,856,306,126</td>
+					<td>3,408,144</td>
+					<td>25,437,344,000</td>
+					<td>3,350,311</td>
+				</tr>
+			
+				<tr>
+					<td>10억</td>
+					<td>A Million</td>
+					<td>2009</td>
+					<td>한국,호주</td>
+					<td>스릴러,어드벤처</td>
+					<td>주연-한기태역</td>
+					<td>3,142,668,973</td>
+					<td>438,833</td>
+					<td>3,107,403,000</td>
+					<td>433,866</td>
+				</tr>
+			
+				<tr>
+					<td>디 엔드</td>
+					<td>The end</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-해일역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>모던보이</td>
+					<td>Modern Boy</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스,미스터리</td>
+					<td>주연</td>
+					<td>4,971,421,000</td>
+					<td>758,473</td>
+					<td>4,992,409,000</td>
+					<td>762,370</td>
+				</tr>
+			
+				<tr>
+					<td>극락도 살인사건</td>
+					<td>Paradise Murdered</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>공포(호러),미스터리,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,259,511</td>
+					<td>13,328,932,000</td>
+					<td>2,079,989</td>
+				</tr>
+			
+				<tr>
+					<td>괴물</td>
+					<td>The Host</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>SF,가족,드라마</td>
+					<td>주연-남일역</td>
+					<td>0</td>
+					<td>13,019,740</td>
+					<td>66,716,119,300</td>
+					<td>10,917,224</td>
+				</tr>
+			
+				<tr>
+					<td>소년, 천국에 가다</td>
+					<td>A Boy Who Went To Heaven</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>242,053</td>
+					<td>1,258,000,500</td>
+					<td>207,189</td>
+				</tr>
+			
+				<tr>
+					<td>연애의 목적</td>
+					<td>Rules Of Dating</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>드라마,코미디,멜로/로맨스</td>
+					<td>주연-영어교사 유림역</td>
+					<td>0</td>
+					<td>1,735,977</td>
+					<td>9,846,423,390</td>
+					<td>1,524,898</td>
+				</tr>
+			
+				<tr>
+					<td>인어 공주</td>
+					<td>My Mother, The Mermaid</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-김진국역</td>
+					<td>0</td>
+					<td>661,679</td>
+					<td>2,828,877,500</td>
+					<td>437,250</td>
+				</tr>
+			
+				<tr>
+					<td>국화꽃 향기</td>
+					<td>Scent of Love</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td>837,236</td>
+					<td>246,000</td>
+					<td>48</td>
+				</tr>
+			
+				<tr>
+					<td>모빌</td>
+					<td>Mobile</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>주연-영민역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>질투는 나의 힘</td>
+					<td>Jealousy Is My Middle Name</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td>62,788</td>
+					<td>223,000</td>
+					<td>28</td>
+				</tr>
+			
+				<tr>
+					<td>와이키키 브라더스</td>
+					<td>Waikiki Brothers</td>
+					<td>2001</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-성우 아역역</td>
+					<td>0</td>
+					<td>88,214</td>
+					<td>1,648,900</td>
+					<td>263</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

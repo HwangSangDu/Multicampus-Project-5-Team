@@ -1,0 +1,203 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '마츠모토 리카'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>극장판 포켓몬스터DP - 디아루가 VS 펄기아 VS 다크라이</td>
+					<td></td>
+					<td>2018</td>
+					<td>일본</td>
+					<td>애니메이션</td>
+					<td>주연-사토시 목소리역(목소리)</td>
+					<td>1,388,620,900</td>
+					<td>182,550</td>
+					<td>1,394,555,400</td>
+					<td>183,421</td>
+				</tr>
+			
+				<tr>
+					<td>극장판 포켓몬스터 베스트위시「큐레무 VS 성검사 케르디오」</td>
+					<td>Gekijoban Pocket Monster Best Wishes! Kyurem vs Seikenshi Keldeo</td>
+					<td>2012</td>
+					<td>일본</td>
+					<td>애니메이션</td>
+					<td>주연</td>
+					<td>1,358,313,750</td>
+					<td>348,991</td>
+					<td>1,358,313,750</td>
+					<td>348,991</td>
+				</tr>
+			
+				<tr>
+					<td>극장판 포켓몬스터 베스트 위시 「비크티니와 흑의 영웅 제크로무」</td>
+					<td>Gekijouban Pokketo monsuta Besuto wisshu: Pikutini to kuroku eiyuu</td>
+					<td>2011</td>
+					<td>일본</td>
+					<td>애니메이션,판타지,어드벤처</td>
+					<td>주연</td>
+					<td>1,998,356,500</td>
+					<td>293,895</td>
+					<td>1,998,356,500</td>
+					<td>293,895</td>
+				</tr>
+			
+				<tr>
+					<td>극장판 포켓몬스터 베스트 위시「비크티니와 백의 영웅 레시라무」</td>
+					<td></td>
+					<td>2011</td>
+					<td>일본</td>
+					<td>애니메이션,판타지,어드벤처</td>
+					<td>주연(목소리)</td>
+					<td>2,383,792,000</td>
+					<td>359,771</td>
+					<td>2,383,792,000</td>
+					<td>359,771</td>
+				</tr>
+			
+				<tr>
+					<td>요나요나 펭귄</td>
+					<td>Yonayona Pengin</td>
+					<td>2009</td>
+					<td>일본,프랑스</td>
+					<td>애니메이션,어드벤처,가족</td>
+					<td>주연(목소리)</td>
+					<td>31,231,500</td>
+					<td>4,805</td>
+					<td>31,487,500</td>
+					<td>4,869</td>
+				</tr>
+			
+				<tr>
+					<td>극장판 포켓 몬스터 DP - 기라티나와 하늘의 꽃다발 쉐이미</td>
+					<td></td>
+					<td>2008</td>
+					<td>일본</td>
+					<td>애니메이션</td>
+					<td>주연-사토시 목소리역(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>포켓 몬스터 - 뮤와 하도의 용사 루카리오</td>
+					<td>Pokemon: Lucario And The Mystery Of Mew</td>
+					<td>2005</td>
+					<td>일본</td>
+					<td>애니메이션,액션,어드벤처</td>
+					<td>주연(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>포켓 몬스터 7 - 어드벤스 제네레이션 열공의 방문자 데오키시스</td>
+					<td></td>
+					<td>2004</td>
+					<td>일본</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>극장판 포켓몬스터 AG - 아름다운 소원의 별 지라치</td>
+					<td>Pokemon: Jirachi - Wish Maker</td>
+					<td>2003</td>
+					<td>일본</td>
+					<td>애니메이션</td>
+					<td>주연-사토시 목소리 역(목소리)</td>
+					<td>531,113,700</td>
+					<td>74,346</td>
+					<td>531,113,700</td>
+					<td>74,346</td>
+				</tr>
+			
+				<tr>
+					<td>포켓몬스터 2 - 루기아의 탄생</td>
+					<td>Pocket Monsters The Movie: The Phantom Pokemon: Lugia&#039;s Explosive Birth</td>
+					<td>1999</td>
+					<td>일본</td>
+					<td>가족,어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>20,280</td>
+					<td>858,000</td>
+					<td>213</td>
+				</tr>
+			
+				<tr>
+					<td>포켓몬스터 - 뮤츠의 역습</td>
+					<td>Pocket Monsters : Mewtwo Strikes Back!</td>
+					<td>1999</td>
+					<td>일본</td>
+					<td>애니메이션,코미디,액션,어드벤처</td>
+					<td>주연-사토시역(목소리)</td>
+					<td>0</td>
+					<td>182,360</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>퍼펙트 블루</td>
+					<td>Perfect Blue</td>
+					<td>1997</td>
+					<td>일본</td>
+					<td>스릴러,애니메이션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>634</td>
+					<td>3,941,000</td>
+					<td>563</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

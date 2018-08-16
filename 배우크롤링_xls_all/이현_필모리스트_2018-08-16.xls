@@ -1,0 +1,177 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '이현'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>극장판 헬로카봇 : 백악기 시대</td>
+					<td>Hello Carbot the Movie: The Cretaceous Period</td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>애니메이션</td>
+					<td>주연-킹다이저 목소리역(목소리)</td>
+					<td></td>
+					<td></td>
+					<td>6,173,352,300</td>
+					<td>824,189</td>
+				</tr>
+			
+				<tr>
+					<td>오즈: 신기한 마법가루</td>
+					<td>Urfin and His Wooden Soldiers</td>
+					<td>2017</td>
+					<td>러시아</td>
+					<td>애니메이션,어드벤처,가족</td>
+					<td>조연-사자 목소리역(목소리)</td>
+					<td>565,456,600</td>
+					<td>78,440</td>
+					<td>565,456,600</td>
+					<td>78,440</td>
+				</tr>
+			
+				<tr>
+					<td>꼬마참새 리차드: 아프리카 원정대</td>
+					<td>Richard the Stork</td>
+					<td>2017</td>
+					<td>독일,벨기에,룩셈부르크,노르웨이</td>
+					<td>애니메이션</td>
+					<td>조연-리차드 아빠 목소리 역(목소리)</td>
+					<td>599,076,600</td>
+					<td>81,136</td>
+					<td>599,076,600</td>
+					<td>81,136</td>
+				</tr>
+			
+				<tr>
+					<td>극장판 또봇: 로봇군단의 습격</td>
+					<td>Tobot Movie: Attack of Robot force</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td>1,089,135,300</td>
+					<td>141,592</td>
+					<td>1,090,835,800</td>
+					<td>141,865</td>
+				</tr>
+			
+				<tr>
+					<td>언더더씨</td>
+					<td>Fishtales</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>애니메이션</td>
+					<td>주연-터틀맨 목소리 역(목소리)</td>
+					<td>382,413,600</td>
+					<td>49,958</td>
+					<td>382,413,600</td>
+					<td>49,958</td>
+				</tr>
+			
+				<tr>
+					<td>트롤</td>
+					<td>Trolls</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>애니메이션</td>
+					<td>조연-크릭 한국어 목소리 역역(목소리)</td>
+					<td>5,011,161,500</td>
+					<td>675,966</td>
+					<td>5,011,161,500</td>
+					<td>675,966</td>
+				</tr>
+			
+				<tr>
+					<td>달빛궁궐</td>
+					<td>Lost in the moonlight</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>애니메이션,판타지,어드벤처</td>
+					<td>조연-규수 목소리역(목소리)</td>
+					<td>1,147,863,700</td>
+					<td>153,097</td>
+					<td>1,148,146,700</td>
+					<td>153,145</td>
+				</tr>
+			
+				<tr>
+					<td>리틀 폭스</td>
+					<td>Little Fox</td>
+					<td>2016</td>
+					<td>중국</td>
+					<td>애니메이션</td>
+					<td>주연-꾸벅이, 대장역(목소리)</td>
+					<td>119,098,500</td>
+					<td>16,204</td>
+					<td>119,699,500</td>
+					<td>16,314</td>
+				</tr>
+			
+				<tr>
+					<td>개구리왕국 2</td>
+					<td>Frog Kingdom : Sub-Zero Mission</td>
+					<td>2015</td>
+					<td>중국</td>
+					<td>애니메이션</td>
+					<td>주연-형사역(목소리)</td>
+					<td>99,741,700</td>
+					<td>14,236</td>
+					<td>99,741,700</td>
+					<td>14,236</td>
+				</tr>
+			
+				<tr>
+					<td>플래그 더 문</td>
+					<td>Capture the Flag</td>
+					<td>2015</td>
+					<td>스페인</td>
+					<td>애니메이션,어드벤처</td>
+					<td>조연-잭/객스역(목소리)</td>
+					<td>327,288,000</td>
+					<td>44,572</td>
+					<td>327,298,000</td>
+					<td>44,574</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

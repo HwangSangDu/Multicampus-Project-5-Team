@@ -1,0 +1,164 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '홍종현'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>다시, 봄</td>
+					<td></td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>앨리스: 원더랜드에서 온 소년</td>
+					<td>Alice: Boy from Wonderland</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>판타지,공포(호러),멜로/로맨스</td>
+					<td>주연-환역</td>
+					<td>69,064,100</td>
+					<td>9,323</td>
+					<td>69,064,100</td>
+					<td>9,323</td>
+				</tr>
+			
+				<tr>
+					<td>위험한 상견례 2</td>
+					<td>Enemies In-Law </td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>3,575,384,754</td>
+					<td>472,693</td>
+					<td>3,575,384,754</td>
+					<td>472,693</td>
+				</tr>
+			
+				<tr>
+					<td>여자만화 구두</td>
+					<td>Her Lovely Heels</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연-오태수역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>정글피쉬2</td>
+					<td>JungleFish2</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-민호수역</td>
+					<td>2,439,000</td>
+					<td>335</td>
+					<td>2,439,000</td>
+					<td>335</td>
+				</tr>
+			
+				<tr>
+					<td>바다 쪽으로, 한 뼘 더</td>
+					<td>One Step More To The Sea</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-준서역</td>
+					<td>16,884,926</td>
+					<td>2,529</td>
+					<td>17,294,000</td>
+					<td>2,590</td>
+				</tr>
+			
+				<tr>
+					<td>쌍화점</td>
+					<td>A Frozen Flower</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-건룡위역</td>
+					<td>25,616,489,949</td>
+					<td>3,779,553</td>
+					<td>25,411,823,400</td>
+					<td>3,749,034</td>
+				</tr>
+			
+				<tr>
+					<td>헤이, 톰 </td>
+					<td>Hey, Tom</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>귀 鬼(내곁에 있어줘 편)</td>
+					<td></td>
+					<td></td>
+					<td>한국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연-재영역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

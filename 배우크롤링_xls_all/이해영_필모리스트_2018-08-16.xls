@@ -1,0 +1,320 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '이해영'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>공조</td>
+					<td>Confidential Assignment</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>주연-표반장역</td>
+					<td>63,781,731,326</td>
+					<td>7,817,446</td>
+					<td>63,783,051,326</td>
+					<td>7,817,618</td>
+				</tr>
+			
+				<tr>
+					<td>그날의 분위기</td>
+					<td>Mood of the Day</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>조연-대표역</td>
+					<td>5,142,899,612</td>
+					<td>652,453</td>
+					<td>5,149,571,612</td>
+					<td>653,287</td>
+				</tr>
+			
+				<tr>
+					<td>히말라야</td>
+					<td>The Himalayas</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-장철구역</td>
+					<td>60,173,583,015</td>
+					<td>7,759,473</td>
+					<td>60,175,363,015</td>
+					<td>7,759,761</td>
+				</tr>
+			
+				<tr>
+					<td>탐정 : 더 비기닝</td>
+					<td>THE ACCIDENTAL DETECTIVE</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>코미디,범죄</td>
+					<td>조연-서팀장역</td>
+					<td>20,463,956,973</td>
+					<td>2,625,686</td>
+					<td>20,463,956,973</td>
+					<td>2,625,686</td>
+				</tr>
+			
+				<tr>
+					<td>명량: 회오리 바다를 향하여</td>
+					<td>Roaring Currents: The Road of the Admiral</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>다큐멘터리</td>
+					<td>주연</td>
+					<td>64,170,500</td>
+					<td>8,897</td>
+					<td>64,170,500</td>
+					<td>8,897</td>
+				</tr>
+			
+				<tr>
+					<td>바라던 바다</td>
+					<td></td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-자살남역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>성실한 나라의 앨리스</td>
+					<td>Alice In Earnestland</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-규정역</td>
+					<td>349,482,500</td>
+					<td>43,964</td>
+					<td>350,231,500</td>
+					<td>44,074</td>
+				</tr>
+			
+				<tr>
+					<td>우리는 형제입니다</td>
+					<td>We Are Brothers</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>조연-장의버스 김만재 장남역</td>
+					<td>7,263,255,399</td>
+					<td>970,373</td>
+					<td>7,263,255,399</td>
+					<td>970,373</td>
+				</tr>
+			
+				<tr>
+					<td>명량</td>
+					<td>Roaring Currents</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>사극,액션</td>
+					<td>조연-송희립역</td>
+					<td>135,748,398,910</td>
+					<td>17,613,682</td>
+					<td>135,754,920,310</td>
+					<td>17,615,314</td>
+				</tr>
+			
+				<tr>
+					<td>하이힐</td>
+					<td>Man on High Heels</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>범죄,액션</td>
+					<td>단역-출국심사직원역</td>
+					<td>2,749,906,500</td>
+					<td>341,606</td>
+					<td>2,750,311,500</td>
+					<td>341,634</td>
+				</tr>
+			
+				<tr>
+					<td>마이 리틀 히어로</td>
+					<td>A Wonderful Moment</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-구상무역</td>
+					<td>1,302,907,128</td>
+					<td>185,978</td>
+					<td>1,303,507,128</td>
+					<td>186,078</td>
+				</tr>
+			
+				<tr>
+					<td>글러브</td>
+					<td>GLOVE</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-프로선수역</td>
+					<td>13,757,574,500</td>
+					<td>1,888,100</td>
+					<td>13,756,114,000</td>
+					<td>1,887,733</td>
+				</tr>
+			
+				<tr>
+					<td>퀴즈왕</td>
+					<td>The Quiz Show Scandal</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연-최하영역</td>
+					<td>4,258,992,759</td>
+					<td>583,183</td>
+					<td>4,188,846,000</td>
+					<td>573,001</td>
+				</tr>
+			
+				<tr>
+					<td>구르믈 버서난 달처럼</td>
+					<td>Blades of Blood</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>사극,액션</td>
+					<td>조연-한필주역</td>
+					<td>10,408,565,262</td>
+					<td>1,407,681</td>
+					<td>10,241,716,500</td>
+					<td>1,383,867</td>
+				</tr>
+			
+				<tr>
+					<td>굿모닝 프레지던트</td>
+					<td>Good Morning President</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>조연-〔차지욱 대통령〕문영철역</td>
+					<td>18,770,889,320</td>
+					<td>2,583,294</td>
+					<td>18,567,863,300</td>
+					<td>2,554,960</td>
+				</tr>
+			
+				<tr>
+					<td>바르게 살자</td>
+					<td>Going By The Book</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>조연-송경태역</td>
+					<td>0</td>
+					<td>2,190,250</td>
+					<td>13,944,930,000</td>
+					<td>2,135,606</td>
+				</tr>
+			
+				<tr>
+					<td>검은 집</td>
+					<td>Black House</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>스릴러,미스터리,공포(호러)</td>
+					<td>단역-한승규역</td>
+					<td>0</td>
+					<td>1,408,882</td>
+					<td>8,842,295,700</td>
+					<td>1,322,196</td>
+				</tr>
+			
+				<tr>
+					<td>거룩한 계보</td>
+					<td>Righteous Ties</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>드라마,액션</td>
+					<td>조연-조 검사역</td>
+					<td>0</td>
+					<td>1,744,677</td>
+					<td>8,759,204,600</td>
+					<td>1,433,696</td>
+				</tr>
+			
+				<tr>
+					<td>박수칠 때 떠나라</td>
+					<td>Murder, Take One</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>드라마,코미디,미스터리</td>
+					<td>조연-김창화 역</td>
+					<td>0</td>
+					<td>2,475,291</td>
+					<td>13,181,626,500</td>
+					<td>2,073,641</td>
+				</tr>
+			
+				<tr>
+					<td>오버 더 레인보우</td>
+					<td>Over The Rainbow</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>단역-뮤지컬 공연역</td>
+					<td></td>
+					<td>240,110</td>
+					<td>90,000</td>
+					<td>15</td>
+				</tr>
+			
+				<tr>
+					<td>꼬리치는 남자</td>
+					<td>The Man Wagging Tail</td>
+					<td>1995</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>음악-주제가</td>
+					<td>0</td>
+					<td>46,385</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

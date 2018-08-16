@@ -1,0 +1,242 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '유엽'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>후난성 전투</td>
+					<td>The Founding Of An Army</td>
+					<td>2016</td>
+					<td>중국</td>
+					<td>전쟁,액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>야공작</td>
+					<td>NIGHT PEACOCK</td>
+					<td>2015</td>
+					<td>중국,프랑스</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>705,500</td>
+					<td>99</td>
+					<td>897,000</td>
+					<td>130</td>
+				</tr>
+			
+				<tr>
+					<td>세이빙 미스터 우</td>
+					<td>Saving Mr.Wu</td>
+					<td>2015</td>
+					<td>중국</td>
+					<td>드라마,액션</td>
+					<td>주연</td>
+					<td>88,000</td>
+					<td>13</td>
+					<td>88,000</td>
+					<td>13</td>
+				</tr>
+			
+				<tr>
+					<td>전성수배</td>
+					<td>The Boundary</td>
+					<td>2014</td>
+					<td>중국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>101,000</td>
+					<td>42</td>
+					<td>101,000</td>
+					<td>42</td>
+				</tr>
+			
+				<tr>
+					<td>폴리스 스토리 2014</td>
+					<td>Police Story 2013</td>
+					<td>2013</td>
+					<td>중국</td>
+					<td>액션,범죄,드라마,스릴러</td>
+					<td>주연</td>
+					<td>1,138,068,500</td>
+					<td>153,591</td>
+					<td>1,138,068,500</td>
+					<td>153,591</td>
+				</tr>
+			
+				<tr>
+					<td>놈놈놈:주자, 희자, 비자</td>
+					<td>The Chef, The Actor, The Scoundrel</td>
+					<td>2013</td>
+					<td>중국</td>
+					<td>액션,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>초한지: 영웅의 부활</td>
+					<td>The Last Supper</td>
+					<td>2012</td>
+					<td>중국</td>
+					<td>액션,사극</td>
+					<td>주연</td>
+					<td>60,679,500</td>
+					<td>8,722</td>
+					<td>60,679,500</td>
+					<td>8,722</td>
+				</tr>
+			
+				<tr>
+					<td>봉배도저</td>
+					<td>He-man2</td>
+					<td>2011</td>
+					<td>중국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>2,110,000</td>
+					<td>390</td>
+					<td>2,110,000</td>
+					<td>390</td>
+				</tr>
+			
+				<tr>
+					<td>건당위업</td>
+					<td>Beginning of the Great Revival</td>
+					<td>2011</td>
+					<td>중국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>469,500</td>
+					<td>60</td>
+				</tr>
+			
+				<tr>
+					<td>난징! 난징!</td>
+					<td>南京!南京!: City Of Life And Death</td>
+					<td>2009</td>
+					<td>중국</td>
+					<td>드라마,전쟁</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>0</td>
+					<td>0</td>
+				</tr>
+			
+				<tr>
+					<td>의신의귀</td>
+					<td>The Ghost Inside</td>
+					<td>2005</td>
+					<td>홍콩</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>미인초</td>
+					<td>The Foliage</td>
+					<td>2003</td>
+					<td>중국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>퍼플 버터플라이</td>
+					<td>Purple Butterfly</td>
+					<td>2003</td>
+					<td>중국,프랑스</td>
+					<td>드라마,전쟁</td>
+					<td>주연-쓰투역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>란위</td>
+					<td>Lan Yu</td>
+					<td>2001</td>
+					<td>중국,홍콩</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>그 산, 그 사람, 그 개</td>
+					<td>Postmen In The Mountains</td>
+					<td>1999</td>
+					<td>중국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

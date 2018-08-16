@@ -1,0 +1,86 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '임혜진'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>심장이 뛴다</td>
+					<td>Heartbeat</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-여 약사역</td>
+					<td>7,538,083,500</td>
+					<td>1,006,947</td>
+					<td>7,624,895,500</td>
+					<td>1,025,243</td>
+				</tr>
+			
+				<tr>
+					<td>아부지</td>
+					<td>My Father</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-왈순역</td>
+					<td>127,494,613</td>
+					<td>24,498</td>
+					<td>126,094,500</td>
+					<td>24,224</td>
+				</tr>
+			
+				<tr>
+					<td>청춘만화</td>
+					<td>Almost Love</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>단역-사랑하는 연인&#039;영상역</td>
+					<td>0</td>
+					<td>2,066,354</td>
+					<td>9,785,168,000</td>
+					<td>1,567,514</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

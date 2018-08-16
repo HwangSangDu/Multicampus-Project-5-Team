@@ -1,0 +1,242 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '에릭 바나'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>킹 아서: 제왕의 검</td>
+					<td>King Arthur: Legend of the Sword</td>
+					<td>2017</td>
+					<td>영국,호주,미국</td>
+					<td>판타지,액션,어드벤처</td>
+					<td>주연</td>
+					<td>3,373,678,655</td>
+					<td>415,714</td>
+					<td>3,373,678,655</td>
+					<td>415,714</td>
+				</tr>
+			
+				<tr>
+					<td>로즈</td>
+					<td>The Secret Scripture</td>
+					<td>2016</td>
+					<td>아일랜드</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>113,253,541</td>
+					<td>14,955</td>
+					<td>113,253,541</td>
+					<td>14,955</td>
+				</tr>
+			
+				<tr>
+					<td>인보카머스</td>
+					<td>Deliver Us From Evil</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td>571,543,200</td>
+					<td>69,786</td>
+					<td>571,543,200</td>
+					<td>69,786</td>
+				</tr>
+			
+				<tr>
+					<td>론 서바이버 </td>
+					<td>Lone Survivor</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>액션,드라마,스릴러</td>
+					<td>주연</td>
+					<td>1,433,147,820</td>
+					<td>190,611</td>
+					<td>1,433,147,820</td>
+					<td>190,611</td>
+				</tr>
+			
+				<tr>
+					<td>프라이버시</td>
+					<td>Closed Circuit</td>
+					<td>2013</td>
+					<td>영국,미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>122,664,928</td>
+					<td>16,936</td>
+					<td>122,664,928</td>
+					<td>16,936</td>
+				</tr>
+			
+				<tr>
+					<td>데드폴</td>
+					<td>Deadfall</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>범죄,드라마,스릴러,액션</td>
+					<td>주연-애디슨역</td>
+					<td>101,887,000</td>
+					<td>14,744</td>
+					<td>101,887,000</td>
+					<td>14,744</td>
+				</tr>
+			
+				<tr>
+					<td>한나</td>
+					<td>Hanna</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연-에릭역</td>
+					<td>1,570,759,500</td>
+					<td>208,912</td>
+					<td>1,570,759,500</td>
+					<td>208,912</td>
+				</tr>
+			
+				<tr>
+					<td>시간 여행자의 아내</td>
+					<td>The Time Traveler&#039;s Wife</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>멜로/로맨스,드라마,SF</td>
+					<td>주연-헨리 드템블역</td>
+					<td>5,485,456,860</td>
+					<td>738,963</td>
+					<td>5,424,841,100</td>
+					<td>730,934</td>
+				</tr>
+			
+				<tr>
+					<td>천일의 스캔들</td>
+					<td>The Other Boleyn Girl</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>사극,멜로/로맨스</td>
+					<td>주연-헨리 8세역</td>
+					<td>4,599,546,001</td>
+					<td>700,095</td>
+					<td>4,597,058,500</td>
+					<td>693,836</td>
+				</tr>
+			
+				<tr>
+					<td>로멀러스, 마이 파더</td>
+					<td>Romulus, My Father</td>
+					<td>2007</td>
+					<td>호주</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>럭키 유</td>
+					<td>Lucky You</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>드라마,코미디</td>
+					<td>주연-허크 치버역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>뮌헨</td>
+					<td>Munich</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>스릴러,드라마,범죄</td>
+					<td>주연-에브너역</td>
+					<td>0</td>
+					<td>817,155</td>
+					<td>4,861,581,300</td>
+					<td>763,078</td>
+				</tr>
+			
+				<tr>
+					<td>트로이</td>
+					<td>Troy</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>사극</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>3,851,000</td>
+					<td>12,777,421,000</td>
+					<td>2,001,318</td>
+				</tr>
+			
+				<tr>
+					<td>헐크</td>
+					<td>The Hulk</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>액션,드라마,어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>484,479</td>
+					<td>750,000</td>
+					<td>123</td>
+				</tr>
+			
+				<tr>
+					<td>차퍼</td>
+					<td>Chopper</td>
+					<td>2000</td>
+					<td>호주</td>
+					<td>코미디,범죄,드라마</td>
+					<td>주연-마이크 브랜든역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

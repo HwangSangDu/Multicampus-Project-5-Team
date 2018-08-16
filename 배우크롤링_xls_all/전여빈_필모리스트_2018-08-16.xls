@@ -1,0 +1,99 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '전여빈'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>죄 많은 소녀</td>
+					<td>After My Death</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마,미스터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>3,948,000</td>
+					<td>570</td>
+				</tr>
+			
+				<tr>
+					<td>메리 크리스마스 미스터 모</td>
+					<td>Merry Christmas Mr. Mo</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>조연</td>
+					<td>28,969,800</td>
+					<td>4,063</td>
+					<td>29,990,200</td>
+					<td>4,237</td>
+				</tr>
+			
+				<tr>
+					<td>여배우는 오늘도</td>
+					<td>The Running Actress</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>138,754,300</td>
+					<td>16,864</td>
+					<td>139,182,300</td>
+					<td>16,929</td>
+				</tr>
+			
+				<tr>
+					<td>여자들</td>
+					<td>Write or Dance</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>20,784,800</td>
+					<td>2,861</td>
+					<td>22,735,100</td>
+					<td>3,201</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

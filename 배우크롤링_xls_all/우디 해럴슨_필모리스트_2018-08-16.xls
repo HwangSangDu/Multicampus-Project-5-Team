@@ -1,0 +1,606 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '우디 해럴슨'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>한 솔로: 스타워즈 스토리</td>
+					<td>Solo: A Star Wars Story</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>액션,SF</td>
+					<td>주연</td>
+					<td>1,964,309,778</td>
+					<td>213,986</td>
+					<td>1,964,276,778</td>
+					<td>213,980</td>
+				</tr>
+			
+				<tr>
+					<td>충격과 공포</td>
+					<td>SHOCK and AWE</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>쓰리 빌보드</td>
+					<td>Three Billboards Outside Ebbing, Missouri</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>코미디,범죄,드라마</td>
+					<td>주연</td>
+					<td>800,125,700</td>
+					<td>97,480</td>
+					<td>800,125,700</td>
+					<td>97,480</td>
+				</tr>
+			
+				<tr>
+					<td>혹성탈출: 종의 전쟁</td>
+					<td>WAR FOR THE PLANET OF THE APES</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>액션,어드벤처,드라마,SF</td>
+					<td>주연-콜로넬 역역</td>
+					<td>16,854,482,778</td>
+					<td>2,051,315</td>
+					<td>16,854,482,778</td>
+					<td>2,051,315</td>
+				</tr>
+			
+				<tr>
+					<td>지랄발광 17세</td>
+					<td>The edge of seventeen</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>656,251,800</td>
+					<td>83,258</td>
+					<td>656,251,800</td>
+					<td>83,258</td>
+				</tr>
+			
+				<tr>
+					<td>나우 유 씨 미 2</td>
+					<td>Now You See Me 2</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>범죄,액션</td>
+					<td>주연</td>
+					<td>25,116,690,113</td>
+					<td>3,100,113</td>
+					<td>25,116,690,113</td>
+					<td>3,100,113</td>
+				</tr>
+			
+				<tr>
+					<td>트리플 9</td>
+					<td>Triple 9</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>범죄,스릴러</td>
+					<td>주연</td>
+					<td>365,164,300</td>
+					<td>47,197</td>
+					<td>365,164,300</td>
+					<td>47,197</td>
+				</tr>
+			
+				<tr>
+					<td>헝거게임: 더 파이널</td>
+					<td>The Hunger Games: Mockingjay - Part 2</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션,어드벤처</td>
+					<td>주연</td>
+					<td>6,070,679,163</td>
+					<td>806,709</td>
+					<td>6,070,679,163</td>
+					<td>806,709</td>
+				</tr>
+			
+				<tr>
+					<td>헝거게임: 모킹제이</td>
+					<td>The Hunger Games: Mockingjay - Part 1</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>어드벤처,SF,스릴러</td>
+					<td>주연</td>
+					<td>6,400,058,044</td>
+					<td>854,377</td>
+					<td>6,400,058,044</td>
+					<td>854,377</td>
+				</tr>
+			
+				<tr>
+					<td>아웃 오브 더 퍼니스</td>
+					<td>Out of the Furnace</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>범죄,드라마,스릴러</td>
+					<td>조연</td>
+					<td></td>
+					<td></td>
+					<td>270,000</td>
+					<td>54</td>
+				</tr>
+			
+				<tr>
+					<td>터키</td>
+					<td>Free Birds</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>애니메이션,코미디</td>
+					<td>주연(목소리)</td>
+					<td>790,848,700</td>
+					<td>113,795</td>
+					<td>790,848,700</td>
+					<td>113,795</td>
+				</tr>
+			
+				<tr>
+					<td>헝거게임: 캣칭 파이어</td>
+					<td>The Hunger Games: Catching Fire</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>판타지,액션</td>
+					<td>주연-헤이미치 에버내시역</td>
+					<td>7,850,816,000</td>
+					<td>1,125,739</td>
+					<td>7,863,572,734</td>
+					<td>1,127,329</td>
+				</tr>
+			
+				<tr>
+					<td>나우 유 씨 미 : 마술사기단</td>
+					<td>Now You See Me </td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>범죄,액션,스릴러</td>
+					<td>주연-메리트 오스본역</td>
+					<td>19,146,691,869</td>
+					<td>2,718,227</td>
+					<td>19,146,757,869</td>
+					<td>2,718,237</td>
+				</tr>
+			
+				<tr>
+					<td>세븐 싸이코패스</td>
+					<td>Seven Psychopaths</td>
+					<td>2012</td>
+					<td>영국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>22,319,841</td>
+					<td>3,135</td>
+					<td>23,180,841</td>
+					<td>3,264</td>
+				</tr>
+			
+				<tr>
+					<td>램파트</td>
+					<td>RAMPART</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>범죄,드라마</td>
+					<td>주연-데이브 브라운역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>분라쿠</td>
+					<td>Bunraku</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>액션,판타지</td>
+					<td>조연-바텐더 역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>디펜더</td>
+					<td>Defendor</td>
+					<td>2009</td>
+					<td>캐나다,미국,영국</td>
+					<td>범죄,액션</td>
+					<td>주연-아서 포핑턴/ 디펜더 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>좀비랜드</td>
+					<td>Zombieland</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>코미디,공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>세븐 파운즈</td>
+					<td>Seven Pounds</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>1,528,213,109</td>
+					<td>232,972</td>
+					<td>1,506,896,000</td>
+					<td>229,799</td>
+				</tr>
+			
+				<tr>
+					<td>세미-프로</td>
+					<td>Semi-Pro</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>헬로우, 서퍼</td>
+					<td>Surfer, Dude</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>트랜스 시베리아</td>
+					<td>Transsiberian</td>
+					<td>2007</td>
+					<td>스페인,독일,영국</td>
+					<td>범죄,드라마,미스터리,스릴러</td>
+					<td>주연-로이역</td>
+					<td></td>
+					<td></td>
+					<td>0</td>
+					<td>0</td>
+				</tr>
+			
+				<tr>
+					<td>프레리 홈 컴패니언</td>
+					<td>A Prairie Home Companion</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연-레프티 역</td>
+					<td>0</td>
+					<td>2,052</td>
+					<td>12,709,000</td>
+					<td>1,872</td>
+				</tr>
+			
+				<tr>
+					<td>스캐너 다클리</td>
+					<td>A Scanner Darkly</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>범죄,미스터리,애니메이션</td>
+					<td>주연-어니 럭맨역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>프리 지미</td>
+					<td>Free Jimmy</td>
+					<td>2006</td>
+					<td>노르웨이,영국</td>
+					<td>애니메이션,코미디</td>
+					<td>주연(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>노스 컨츄리</td>
+					<td>North Country</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>조연-빌 화이트역</td>
+					<td>0</td>
+					<td>14,300</td>
+					<td>79,418,600</td>
+					<td>12,213</td>
+				</tr>
+			
+				<tr>
+					<td>빅 화이트</td>
+					<td>The Big White</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>코미디,드라마,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>6,430</td>
+					<td>44,578,500</td>
+					<td>6,769</td>
+				</tr>
+			
+				<tr>
+					<td>프라이즈 위너</td>
+					<td>The Prize Winner of Defiance, Ohio</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>애프터 선셋</td>
+					<td>After The Sunset</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>331,595</td>
+					<td>1,686,015,000</td>
+					<td>270,895</td>
+				</tr>
+			
+				<tr>
+					<td>고 퍼더</td>
+					<td>Go Further</td>
+					<td>2003</td>
+					<td>캐나다</td>
+					<td>다큐멘터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스코치트</td>
+					<td>Scorched</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>코미디,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>플레이 투 더 본</td>
+					<td>Play It To The Bone</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연-빈스역</td>
+					<td>0</td>
+					<td>4,420</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>글래스</td>
+					<td>Grass</td>
+					<td>1999</td>
+					<td>캐나다</td>
+					<td>다큐멘터리</td>
+					<td>주연(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>생방송 에드TV </td>
+					<td>Edtv</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>8,195</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>팔메토</td>
+					<td>Palmetto </td>
+					<td>1998</td>
+					<td>독일,미국</td>
+					<td>범죄,미스터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>하이 로 컨츄리</td>
+					<td>The Hi-Lo Country</td>
+					<td>1998</td>
+					<td>미국,영국,독일</td>
+					<td>드라마,멜로/로맨스,서부극(웨스턴)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>웰컴 투 사라예보</td>
+					<td>Welcome To Sarajevo</td>
+					<td>1997</td>
+					<td>영국,미국</td>
+					<td>전쟁,드라마</td>
+					<td>주연-플린 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>선체이서</td>
+					<td>The Sunchaser</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,336</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>래리플린트 </td>
+					<td>The People Vs. Larry Flynt</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>49,501</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>킹 핀 </td>
+					<td>King Pin</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>31,004</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>머니 트레인 </td>
+					<td>Money Train</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>109,535</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>올리버 스톤의 킬러 </td>
+					<td>Natural Born Killer</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>57,913</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>덩크슛 </td>
+					<td>White Men Can&#039;T Jump</td>
+					<td>1992</td>
+					<td>미국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>22,188</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '마츠모토 준'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>나라타주</td>
+					<td>Narratage</td>
+					<td>2017</td>
+					<td>일본</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>156,608,600</td>
+					<td>18,326</td>
+					<td>156,608,600</td>
+					<td>18,326</td>
+				</tr>
+			
+				<tr>
+					<td>꽃보다 남자</td>
+					<td>Boys Over Flowers</td>
+					<td>2008</td>
+					<td>일본</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>851,004,500</td>
+					<td>139,217</td>
+					<td>1,016,973,500</td>
+					<td>165,593</td>
+				</tr>
+			
+				<tr>
+					<td>숨은 요새의 세 악인</td>
+					<td>The Last Princess</td>
+					<td>2008</td>
+					<td>일본</td>
+					<td>액션,어드벤처</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>황색 눈물</td>
+					<td>Yellow Tears</td>
+					<td>2007</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연-유지 역</td>
+					<td>0</td>
+					<td>43,094</td>
+					<td>273,003,500</td>
+					<td>42,170</td>
+				</tr>
+			
+				<tr>
+					<td>나는 여동생을 사랑한다</td>
+					<td>My Sister, My Love</td>
+					<td>2006</td>
+					<td>일본</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>너는 펫</td>
+					<td></td>
+					<td>2003</td>
+					<td>일본</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

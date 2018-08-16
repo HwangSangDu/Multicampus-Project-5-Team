@@ -1,0 +1,359 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '미라 소르비노'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>식스 빌로우</td>
+					<td>6 Below: Miracle on the Mountain</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td>15,173,000</td>
+					<td>1,813</td>
+					<td>15,173,000</td>
+					<td>1,813</td>
+				</tr>
+			
+				<tr>
+					<td>세상의 모든 엄마와 딸들</td>
+					<td>Mothers and Daughters</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>8,000</td>
+					<td>1</td>
+					<td>8,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>인디스크레션</td>
+					<td>Indiscretion</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>멜로/로맨스,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>신을 믿습니까?</td>
+					<td>Do You Believe?</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>51,956,900</td>
+					<td>7,317</td>
+					<td>53,228,900</td>
+					<td>7,529</td>
+				</tr>
+			
+				<tr>
+					<td>유니온 스퀘어</td>
+					<td>UNION SQUARE</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>500,000</td>
+					<td>100</td>
+					<td>500,000</td>
+					<td>100</td>
+				</tr>
+			
+				<tr>
+					<td>레닌그라드: 900일간의 전투</td>
+					<td>Leningrad</td>
+					<td>2009</td>
+					<td>러시아,영국</td>
+					<td>전쟁,드라마</td>
+					<td>주연-케이트역</td>
+					<td>3,266,000</td>
+					<td>1,528</td>
+					<td>3,266,000</td>
+					<td>1,528</td>
+				</tr>
+			
+				<tr>
+					<td>단델리온 더스트</td>
+					<td>Like Dandelion Dust</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>드라마,가족</td>
+					<td>주연</td>
+					<td>18,616,000</td>
+					<td>2,805</td>
+					<td>18,616,000</td>
+					<td>2,805</td>
+				</tr>
+			
+				<tr>
+					<td>코버트 원 : 헤이디스 팩터</td>
+					<td>Covert One: The Hades Factor</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>휴먼 트래픽킹</td>
+					<td>Human Trafficking</td>
+					<td>2005</td>
+					<td>캐나다,미국</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>파이널컷</td>
+					<td>The Final Cut</td>
+					<td>2004</td>
+					<td>캐나다,독일</td>
+					<td>SF,스릴러</td>
+					<td>조연-딜라일라 역</td>
+					<td>0</td>
+					<td>434</td>
+					<td>2,934,000</td>
+					<td>434</td>
+				</tr>
+			
+				<tr>
+					<td>신의 영웅들</td>
+					<td>Gods And Generals</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>전쟁,드라마,액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>비트윈 스트레인저스</td>
+					<td>Between Strangers</td>
+					<td>2002</td>
+					<td>캐나다,이탈리아</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>와이즈걸</td>
+					<td>WiseGirls</td>
+					<td>2002</td>
+					<td>미국,영국,캐나다</td>
+					<td>범죄,드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>천사의 살인</td>
+					<td>Semana Santa</td>
+					<td>2002</td>
+					<td>독일,영국,프랑스,이탈리아,스페인,덴마크</td>
+					<td>스릴러,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사랑의 승리</td>
+					<td>The Triumph Of Love</td>
+					<td>2001</td>
+					<td>이탈리아,영국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>위대한 개츠비</td>
+					<td>The Great Gatsby</td>
+					<td>2000</td>
+					<td>영국,미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>썸머 오브 샘</td>
+					<td>Summer Of Sam</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>공포(호러),범죄</td>
+					<td>주연-디오나 역</td>
+					<td>0</td>
+					<td>4,903</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사랑이 머무는 풍경</td>
+					<td>At Frist Sight</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>98,523</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>투 타이어드 투 다이</td>
+					<td>Too Tired To Die</td>
+					<td>1998</td>
+					<td>한국</td>
+					<td>드라마,미스터리</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,008</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>룰루 온 더 브릿지</td>
+					<td>Lulu On The Bridge</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>미스터리,드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>리플레이스먼트 킬러</td>
+					<td>The Replacement Killers</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>범죄,스릴러,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>163,915</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>노마 진 앤 마릴린</td>
+					<td>Norma Jean And Marilyn</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-마릴린 먼로역</td>
+					<td>0</td>
+					<td>5,187</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>미믹 </td>
+					<td>Mimic</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>SF,공포(호러),스릴러</td>
+					<td>주연-수잔 타일러역</td>
+					<td>0</td>
+					<td>88,524</td>
+					<td>259,000</td>
+					<td>36</td>
+				</tr>
+			
+				<tr>
+					<td>마이티아프로디테 </td>
+					<td>Mighty Aphrodite</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>33,936</td>
+					<td>406,000</td>
+					<td>79</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

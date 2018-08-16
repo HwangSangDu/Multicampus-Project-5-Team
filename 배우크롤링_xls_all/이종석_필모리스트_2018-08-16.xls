@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '이종석'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>브이아이피</td>
+					<td>V.I.P.</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>범죄,드라마</td>
+					<td>주연-김광일역</td>
+					<td>10,956,621,835</td>
+					<td>1,373,316</td>
+					<td>10,956,621,835</td>
+					<td>1,373,316</td>
+				</tr>
+			
+				<tr>
+					<td>피끓는 청춘</td>
+					<td>Hot Young Bloods</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>코미디,멜로/로맨스,드라마</td>
+					<td>주연-강종길역</td>
+					<td>11,688,382,888</td>
+					<td>1,676,040</td>
+					<td>11,688,382,888</td>
+					<td>1,676,040</td>
+				</tr>
+			
+				<tr>
+					<td>노브레싱</td>
+					<td>No Breathing</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-우상역</td>
+					<td>2,991,824,739</td>
+					<td>451,669</td>
+					<td>2,991,824,739</td>
+					<td>451,669</td>
+				</tr>
+			
+				<tr>
+					<td>관상</td>
+					<td>The Face Reader</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>사극,드라마</td>
+					<td>주연-내경 아들역</td>
+					<td>66,005,451,500</td>
+					<td>9,134,586</td>
+					<td>66,009,826,500</td>
+					<td>9,135,806</td>
+				</tr>
+			
+				<tr>
+					<td>R2B: 리턴투베이스</td>
+					<td>R2B: Return to Base</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>액션,드라마</td>
+					<td>조연-지석현역</td>
+					<td>8,602,921,371</td>
+					<td>1,201,944</td>
+					<td>8,602,921,371</td>
+					<td>1,201,944</td>
+				</tr>
+			
+				<tr>
+					<td>코리아</td>
+					<td>As One</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-최경섭역</td>
+					<td>13,448,848,500</td>
+					<td>1,872,681</td>
+					<td>13,448,857,500</td>
+					<td>1,872,682</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

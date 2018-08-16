@@ -1,0 +1,554 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '박현영'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>너와 극장에서</td>
+					<td>Cinema with You</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>6,271,500</td>
+					<td>913</td>
+					<td>14,180,600</td>
+					<td>2,032</td>
+				</tr>
+			
+				<tr>
+					<td>여성감독 단편선_인디포럼 월례비행 12월</td>
+					<td></td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>기타</td>
+					<td>감독</td>
+					<td></td>
+					<td></td>
+					<td>347,000</td>
+					<td>50</td>
+				</tr>
+			
+				<tr>
+					<td>정화된 밤</td>
+					<td></td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>감독</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>재꽃</td>
+					<td>Ash Flower</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>38,393,000</td>
+					<td>5,264</td>
+					<td>39,377,500</td>
+					<td>5,428</td>
+				</tr>
+			
+				<tr>
+					<td>꿈의 제인</td>
+					<td>Jane</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-주희역</td>
+					<td>203,379,700</td>
+					<td>24,874</td>
+					<td>205,039,700</td>
+					<td>25,060</td>
+				</tr>
+			
+				<tr>
+					<td>마돈나</td>
+					<td>Madonna</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-준희역</td>
+					<td>141,053,400</td>
+					<td>18,112</td>
+					<td>142,120,400</td>
+					<td>18,276</td>
+				</tr>
+			
+				<tr>
+					<td>방과 후 티타임 리턴즈</td>
+					<td>After School</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>오늘영화</td>
+					<td>Now Playing</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>멜로/로맨스,기타</td>
+					<td>조연-박현영역</td>
+					<td>17,273,200</td>
+					<td>2,348</td>
+					<td>20,409,900</td>
+					<td>2,861</td>
+				</tr>
+			
+				<tr>
+					<td>어느 날 갑자기</td>
+					<td>One day </td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>공포(호러),판타지,드라마</td>
+					<td>주연-체육 선생역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>인디포럼2014 약간의 매드니스</td>
+					<td></td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>기타</td>
+					<td>감독</td>
+					<td></td>
+					<td></td>
+					<td>78,000</td>
+					<td>13</td>
+				</tr>
+			
+				<tr>
+					<td>탈리타쿰</td>
+					<td>Talitha Koum</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>감독,시나리오(각본)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>명왕성</td>
+					<td>PLUTO</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마,스릴러</td>
+					<td>조연-김 선생역</td>
+					<td>114,536,500</td>
+					<td>16,828</td>
+					<td>114,740,500</td>
+					<td>16,866</td>
+				</tr>
+			
+				<tr>
+					<td>가족시네마</td>
+					<td>Modern Family</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-현영 (순환선)역</td>
+					<td>19,453,000</td>
+					<td>2,639</td>
+					<td>19,453,000</td>
+					<td>2,639</td>
+				</tr>
+			
+				<tr>
+					<td>순환선</td>
+					<td>Circle Line</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마,판타지,가족</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>고양이: 죽음을 보는 두 개의 눈</td>
+					<td>The Cat</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>공포(호러)</td>
+					<td>조연-김 순경역</td>
+					<td>4,779,530,000</td>
+					<td>672,071</td>
+					<td>4,780,632,000</td>
+					<td>672,340</td>
+				</tr>
+			
+				<tr>
+					<td>고백</td>
+					<td>Confession</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>18,337</td>
+					<td>11</td>
+				</tr>
+			
+				<tr>
+					<td>레인보우</td>
+					<td>Passerby #3</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-김지완역,촬영-소스영상촬영</td>
+					<td>20,582,634</td>
+					<td>2,800</td>
+					<td>20,305,100</td>
+					<td>2,775</td>
+				</tr>
+			
+				<tr>
+					<td>내 사랑 내 곁에</td>
+					<td>Closer To Heaven</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>단역-손 노인 딸역</td>
+					<td>15,764,312,409</td>
+					<td>2,160,265</td>
+					<td>15,584,755,500</td>
+					<td>2,135,509</td>
+				</tr>
+			
+				<tr>
+					<td>오디션</td>
+					<td>A.U.D.I.T.I.O.N</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-오디션 참가자역</td>
+					<td></td>
+					<td></td>
+					<td>500,000</td>
+					<td>100</td>
+				</tr>
+			
+				<tr>
+					<td>슈퍼맨이었던 사나이</td>
+					<td>A Man Who Was Superman</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>주연-간호사역</td>
+					<td>3,688,309,333</td>
+					<td>559,705</td>
+					<td>3,642,192,500</td>
+					<td>550,284</td>
+				</tr>
+			
+				<tr>
+					<td>어깨 너머의 연인</td>
+					<td>Love Exposure</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>단역-직업소개소 직원역</td>
+					<td>0</td>
+					<td>301,153</td>
+					<td>1,974,664,500</td>
+					<td>295,394</td>
+				</tr>
+			
+				<tr>
+					<td>만남의 광장</td>
+					<td>Underground Rendezvous</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>단역-달수 모역</td>
+					<td>0</td>
+					<td>1,306,434</td>
+					<td>7,819,284,000</td>
+					<td>1,211,528</td>
+				</tr>
+			
+				<tr>
+					<td>좋지 아니한가</td>
+					<td>Skeletons In The Closet</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>단역-허정란역</td>
+					<td>0</td>
+					<td>321,654</td>
+					<td>1,849,140,000</td>
+					<td>306,470</td>
+				</tr>
+			
+				<tr>
+					<td>그놈 목소리</td>
+					<td>Voice of a Murderer</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>드라마,스릴러</td>
+					<td>단역-여 순경역</td>
+					<td>0</td>
+					<td>3,143,247</td>
+					<td>17,598,617,600</td>
+					<td>2,972,299</td>
+				</tr>
+			
+				<tr>
+					<td>오래된 정원</td>
+					<td>The Old Garden</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-현영역</td>
+					<td>0</td>
+					<td>296,532</td>
+					<td>1,490,193,500</td>
+					<td>285,381</td>
+				</tr>
+			
+				<tr>
+					<td>Mr.로빈 꼬시기</td>
+					<td>Seducing Mr. Perfect</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>조연-선영역</td>
+					<td>0</td>
+					<td>730,443</td>
+					<td>3,990,360,200</td>
+					<td>680,241</td>
+				</tr>
+			
+				<tr>
+					<td>무도리</td>
+					<td>Moodori</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>조연-자살지원자들 - 사랑 그만 역</td>
+					<td>0</td>
+					<td>70,969</td>
+					<td>363,899,000</td>
+					<td>59,806</td>
+				</tr>
+			
+				<tr>
+					<td>Gift</td>
+					<td>Gift</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>드라마,판타지</td>
+					<td>주연-현주역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>6월의 일기</td>
+					<td>Bystanders</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>드라마,범죄</td>
+					<td>단역-동욱 친구역</td>
+					<td>0</td>
+					<td>697,980</td>
+					<td>3,645,962,000</td>
+					<td>593,867</td>
+				</tr>
+			
+				<tr>
+					<td>분홍신</td>
+					<td>The Red Shoes</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>공포(호러)</td>
+					<td>단역-홍보녀역</td>
+					<td>0</td>
+					<td>1,371,122</td>
+					<td>6,768,633,000</td>
+					<td>1,073,189</td>
+				</tr>
+			
+				<tr>
+					<td>맛있니?</td>
+					<td>One Summer Day</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-윤미역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>화기애애</td>
+					<td>Friendly and Harmonious</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연</td>
+					<td></td>
+					<td></td>
+					<td>52,000</td>
+					<td>26</td>
+				</tr>
+			
+				<tr>
+					<td>B형 남자친구</td>
+					<td>My Boyfriend Is Type-B</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>단역-인터뷰 여역</td>
+					<td>0</td>
+					<td>1,485,454</td>
+					<td>7,324,579,000</td>
+					<td>1,174,581</td>
+				</tr>
+			
+				<tr>
+					<td>살인의 추억</td>
+					<td>Memories Of Murder</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>단역-양호 선생역</td>
+					<td></td>
+					<td>5,255,376</td>
+					<td>23,573,997</td>
+					<td>3,833</td>
+				</tr>
+			
+				<tr>
+					<td>뽀삐</td>
+					<td>Popee</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연</td>
+					<td></td>
+					<td>1,533</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>유통기한</td>
+					<td>The Limit Time of Distribution</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-순호역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>연애에 관하여</td>
+					<td>Another Love Story</td>
+					<td>2000</td>
+					<td>한국</td>
+					<td>드라마,기타</td>
+					<td>주연-정민역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>웃음</td>
+					<td>The Smile</td>
+					<td>2000</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연-현영역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>강원도의 힘</td>
+					<td>The Power of Kangwon Province</td>
+					<td>1998</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-은경역</td>
+					<td>0</td>
+					<td>15,967</td>
+					<td>60,000</td>
+					<td>12</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

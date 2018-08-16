@@ -1,0 +1,190 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '프랑수아 클뤼제'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>원 와일드 모먼트</td>
+					<td>One Wild Moment</td>
+					<td>2015</td>
+					<td>프랑스</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>39,192,000</td>
+					<td>5,258</td>
+					<td>39,192,000</td>
+					<td>5,258</td>
+				</tr>
+			
+				<tr>
+					<td>어떤 만남</td>
+					<td>Quantum Love</td>
+					<td>2013</td>
+					<td>프랑스</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>211,674,300</td>
+					<td>27,302</td>
+					<td>212,008,300</td>
+					<td>27,340</td>
+				</tr>
+			
+				<tr>
+					<td>언터처블: 1%의 우정</td>
+					<td>Untouchable</td>
+					<td>2011</td>
+					<td>프랑스</td>
+					<td>코미디,드라마</td>
+					<td>주연-필립역</td>
+					<td>12,733,256,000</td>
+					<td>1,720,052</td>
+					<td>12,741,516,500</td>
+					<td>1,721,611</td>
+				</tr>
+			
+				<tr>
+					<td>프렌즈 : 하얀 거짓말</td>
+					<td>Little White Lies</td>
+					<td>2010</td>
+					<td>프랑스</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>35,658,700</td>
+					<td>5,073</td>
+					<td>35,658,700</td>
+					<td>5,073</td>
+				</tr>
+			
+				<tr>
+					<td>비기닝</td>
+					<td>In The Beginning</td>
+					<td>2009</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>973,000</td>
+					<td>139</td>
+					<td>1,469,000</td>
+					<td>238</td>
+				</tr>
+			
+				<tr>
+					<td>라이벌</td>
+					<td>Rivals</td>
+					<td>2007</td>
+					<td>프랑스</td>
+					<td>액션,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>텔 노 원 </td>
+					<td>Tell No One</td>
+					<td>2006</td>
+					<td>프랑스</td>
+					<td>드라마,스릴러</td>
+					<td>주연-알렉상드르역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>자니스와 존</td>
+					<td>Janis And John</td>
+					<td>2003</td>
+					<td>프랑스,스페인</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>8월말, 9월초</td>
+					<td>Late August, Early September</td>
+					<td>1998</td>
+					<td>프랑스</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>지옥</td>
+					<td>Hell</td>
+					<td>1994</td>
+					<td>프랑스</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,513,000</td>
+					<td>270</td>
+				</tr>
+			
+				<tr>
+					<td>초콜렛</td>
+					<td>Chocolat</td>
+					<td>1988</td>
+					<td>프랑스,서독</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>460,000</td>
+					<td>69</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

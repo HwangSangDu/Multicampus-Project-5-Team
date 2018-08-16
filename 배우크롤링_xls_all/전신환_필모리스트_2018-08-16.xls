@@ -1,0 +1,203 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '전신환'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>시간이탈자</td>
+					<td>Time Renegades</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>조연-생물 선생역</td>
+					<td>9,731,838,195</td>
+					<td>1,202,384</td>
+					<td>9,731,838,195</td>
+					<td>1,202,384</td>
+				</tr>
+			
+				<tr>
+					<td>거짓말</td>
+					<td>The Liar</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-태호역</td>
+					<td>40,895,000</td>
+					<td>5,043</td>
+					<td>41,901,600</td>
+					<td>5,212</td>
+				</tr>
+			
+				<tr>
+					<td>소셜포비아</td>
+					<td>Socialphobia</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>스릴러,드라마</td>
+					<td>조연-장세민역</td>
+					<td>1,960,891,963</td>
+					<td>249,372</td>
+					<td>1,979,007,063</td>
+					<td>251,551</td>
+				</tr>
+			
+				<tr>
+					<td>관상</td>
+					<td>The Face Reader</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>사극,드라마</td>
+					<td>단역-신숙주역</td>
+					<td>66,005,451,500</td>
+					<td>9,134,586</td>
+					<td>66,009,826,500</td>
+					<td>9,135,806</td>
+				</tr>
+			
+				<tr>
+					<td>미생 프리퀄</td>
+					<td>Incomplete Life : Prequel</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-성윤역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>남쪽으로 간다</td>
+					<td>Going South </td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연-준영역</td>
+					<td>10,532,250</td>
+					<td>2,877</td>
+					<td>10,675,750</td>
+					<td>2,919</td>
+				</tr>
+			
+				<tr>
+					<td>회사원</td>
+					<td>A Company Man</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>액션,드라마</td>
+					<td>단역-영업2부 사원역</td>
+					<td>8,321,175,000</td>
+					<td>1,110,523</td>
+					<td>8,321,175,000</td>
+					<td>1,110,523</td>
+				</tr>
+			
+				<tr>
+					<td>지난 여름, 갑자기 남쪽으로 간다</td>
+					<td>Suddenly Last Summer Going South</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연-준영 - &lt;남쪽으로 간다&gt;역</td>
+					<td></td>
+					<td></td>
+					<td>32,000</td>
+					<td>13</td>
+				</tr>
+			
+				<tr>
+					<td>별다방 미쓰리</td>
+					<td>I Can Hear</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-정수역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>야간 비행</td>
+					<td>Fly by Night</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-형역</td>
+					<td></td>
+					<td></td>
+					<td>476,900</td>
+					<td>383</td>
+				</tr>
+			
+				<tr>
+					<td>하녀</td>
+					<td>The Housemaid</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>스릴러,멜로/로맨스</td>
+					<td>단역-훈 비서역</td>
+					<td>17,310,669,976</td>
+					<td>2,304,487</td>
+					<td>17,038,839,500</td>
+					<td>2,267,579</td>
+				</tr>
+			
+				<tr>
+					<td>봄</td>
+					<td>Spring</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

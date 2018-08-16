@@ -1,0 +1,138 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '가스파르 울리엘'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>단지 세상의 끝</td>
+					<td>It&#039;s Only the End of the World</td>
+					<td>2016</td>
+					<td>캐나다,프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>247,540,173</td>
+					<td>31,497</td>
+					<td>248,323,173</td>
+					<td>31,586</td>
+				</tr>
+			
+				<tr>
+					<td>생 로랑</td>
+					<td>Saint Laurent</td>
+					<td>2014</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>63,649,900</td>
+					<td>7,975</td>
+					<td>64,627,300</td>
+					<td>8,109</td>
+				</tr>
+			
+				<tr>
+					<td>아트 오브 러브</td>
+					<td>The Art of Love</td>
+					<td>2011</td>
+					<td>프랑스</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>148,000</td>
+					<td>18</td>
+				</tr>
+			
+				<tr>
+					<td>인사이드 링: 항공기를 훔쳐라</td>
+					<td>Le Premier Cercle</td>
+					<td>2009</td>
+					<td>프랑스</td>
+					<td>스릴러,범죄,드라마</td>
+					<td>주연</td>
+					<td>100,000</td>
+					<td>20</td>
+					<td>100,000</td>
+					<td>20</td>
+				</tr>
+			
+				<tr>
+					<td>한니발 라이징</td>
+					<td>Hannibal Rising</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>스릴러,드라마,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>268,474</td>
+					<td>1,569,132,800</td>
+					<td>250,060</td>
+				</tr>
+			
+				<tr>
+					<td>인게이지먼트</td>
+					<td>A Very Long Engagement</td>
+					<td>2004</td>
+					<td>프랑스</td>
+					<td>드라마,전쟁,미스터리</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>35,400</td>
+					<td>203,299,500</td>
+					<td>31,214</td>
+				</tr>
+			
+				<tr>
+					<td>스트레이드</td>
+					<td>Strayed</td>
+					<td>2003</td>
+					<td>프랑스,영국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,164 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '모토키 마사히로'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>아주 긴 변명</td>
+					<td>The Long Excuse</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>67,454,200</td>
+					<td>8,974</td>
+					<td>67,454,200</td>
+					<td>8,974</td>
+				</tr>
+			
+				<tr>
+					<td>천공의 벌</td>
+					<td>The Big Bee</td>
+					<td>2015</td>
+					<td>일본</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>1,132,000</td>
+					<td>222</td>
+					<td>1,132,000</td>
+					<td>222</td>
+				</tr>
+			
+				<tr>
+					<td>일본패망하루전</td>
+					<td>The Emperor in August</td>
+					<td>2015</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>11,980,000</td>
+					<td>1,640</td>
+					<td>12,055,000</td>
+					<td>1,655</td>
+				</tr>
+			
+				<tr>
+					<td>굿&#039;바이</td>
+					<td>Good &amp; Bye</td>
+					<td>2008</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연-다이고역</td>
+					<td>885,687,097</td>
+					<td>141,719</td>
+					<td>890,856,000</td>
+					<td>142,835</td>
+				</tr>
+			
+				<tr>
+					<td>상하이의 밤</td>
+					<td>The Longest Night In Shanghai</td>
+					<td>2007</td>
+					<td>일본</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,422</td>
+					<td>8,896,000</td>
+					<td>1,422</td>
+				</tr>
+			
+				<tr>
+					<td>간류지마</td>
+					<td>GANRYUJIMA </td>
+					<td>2003</td>
+					<td>일본</td>
+					<td>액션,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스파이 조르게</td>
+					<td>Spy Sorge</td>
+					<td>2003</td>
+					<td>일본,독일</td>
+					<td>액션,스릴러,전쟁</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>쌍생아</td>
+					<td>Gemini</td>
+					<td>1999</td>
+					<td>일본</td>
+					<td>미스터리,스릴러</td>
+					<td>주연-유키오/스테키치역</td>
+					<td>0</td>
+					<td>28,564</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>팬시댄스</td>
+					<td>Fancy Dance</td>
+					<td>1989</td>
+					<td>일본</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,070</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

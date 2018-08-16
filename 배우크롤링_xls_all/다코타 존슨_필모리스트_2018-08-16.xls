@@ -1,0 +1,112 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '다코타 존슨'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>50가지 그림자: 해방</td>
+					<td>FIFTY SHADES FREED</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스,스릴러</td>
+					<td>주연</td>
+					<td>1,866,384,500</td>
+					<td>217,785</td>
+					<td>1,866,384,500</td>
+					<td>217,785</td>
+				</tr>
+			
+				<tr>
+					<td>50가지 그림자: 심연</td>
+					<td>Fifty Shades Darker</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>1,589,180,900</td>
+					<td>189,620</td>
+					<td>1,589,180,900</td>
+					<td>189,620</td>
+				</tr>
+			
+				<tr>
+					<td>비거 스플래쉬</td>
+					<td>A Bigger Splash </td>
+					<td>2015</td>
+					<td>이탈리아,프랑스</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>120,406,129</td>
+					<td>15,201</td>
+					<td>121,201,553</td>
+					<td>15,307</td>
+				</tr>
+			
+				<tr>
+					<td>그레이의 50가지 그림자</td>
+					<td>Fifty Shades of Grey</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>2,918,598,796</td>
+					<td>364,415</td>
+					<td>2,918,598,796</td>
+					<td>364,415</td>
+				</tr>
+			
+				<tr>
+					<td>범죄의 제국</td>
+					<td>Cymbeline</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>6,489,000</td>
+					<td>1,297</td>
+					<td>6,489,000</td>
+					<td>1,297</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

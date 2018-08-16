@@ -1,0 +1,333 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '빈센트 도노프리오'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>데스 위시</td>
+					<td>DEATH WISH</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>액션,범죄,드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>링스</td>
+					<td>Rings</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td>136,520,300</td>
+					<td>16,336</td>
+					<td>136,520,300</td>
+					<td>16,336</td>
+				</tr>
+			
+				<tr>
+					<td>매그니피센트 7</td>
+					<td>The Magnificent Seven</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,서부극(웨스턴)</td>
+					<td>주연</td>
+					<td>7,633,490,421</td>
+					<td>921,317</td>
+					<td>7,633,490,421</td>
+					<td>921,317</td>
+				</tr>
+			
+				<tr>
+					<td>펠레: 버스 오브 어 레전드</td>
+					<td>Pele: Birth of a Legend</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>쥬라기 월드</td>
+					<td>Jurassic World</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션,어드벤처,SF</td>
+					<td>주연</td>
+					<td>47,800,698,826</td>
+					<td>5,546,792</td>
+					<td>47,800,916,826</td>
+					<td>5,546,823</td>
+				</tr>
+			
+				<tr>
+					<td>길들여진 말</td>
+					<td>Broken Horses</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>범죄,드라마,미스터리,공포(호러)</td>
+					<td>주연-줄리어스 헨치 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>체인드</td>
+					<td>Chained</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>스릴러,범죄</td>
+					<td>주연</td>
+					<td>5,520,000</td>
+					<td>2,210</td>
+					<td>5,520,000</td>
+					<td>2,210</td>
+				</tr>
+			
+				<tr>
+					<td>살인소설</td>
+					<td>Sinister</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>미스터리,스릴러</td>
+					<td>조연-조나스 교수역</td>
+					<td>394,724,176</td>
+					<td>54,239</td>
+					<td>394,724,176</td>
+					<td>54,239</td>
+				</tr>
+			
+				<tr>
+					<td>브룩클린스 파이니스트</td>
+					<td>Brooklyn&#039;s Finest</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>액션,드라마,범죄,스릴러</td>
+					<td>주연</td>
+					<td>8,000</td>
+					<td>1</td>
+					<td>8,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>셜록: 죽음의 덫 </td>
+					<td>Sherlock</td>
+					<td>2002</td>
+					<td>미국,루마니아,영국</td>
+					<td>범죄,스릴러</td>
+					<td>주연</td>
+					<td>5,000</td>
+					<td>1</td>
+					<td>5,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>발 킬머의 집행자</td>
+					<td>The Salton Sea</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>범죄,드라마,미스터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>더 셀</td>
+					<td>The Cell</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러,판타지</td>
+					<td>주연-칼역</td>
+					<td>0</td>
+					<td>147,052</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>이 영화를 훔쳐라</td>
+					<td>Steal This Movie!</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>해피 엑시던트</td>
+					<td>Happy Accidents</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>SF</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>0</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>13층</td>
+					<td>The Thirteenth Floor</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>SF,스릴러,미스터리</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>25,419</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>레드 드래곤</td>
+					<td>Spanish Judges</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>뉴튼 보이즈</td>
+					<td>The Newton Boys</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>액션,범죄,드라마,서부극(웨스턴)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>위너 </td>
+					<td>The Winner</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>범죄,스릴러,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>244</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>필링 미네소타</td>
+					<td>Feeling Minnesota</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>70,003</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>바다 냄새 나는 여인 </td>
+					<td>Salt On Our Skin</td>
+					<td>1992</td>
+					<td>프랑스</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>843</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>네이키드 탱고</td>
+					<td>Naked Tango</td>
+					<td>1990</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>7,547</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>풀 메탈 쟈켓</td>
+					<td>Full Metal Jacket</td>
+					<td>1987</td>
+					<td>미국</td>
+					<td>전쟁,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>65,251</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

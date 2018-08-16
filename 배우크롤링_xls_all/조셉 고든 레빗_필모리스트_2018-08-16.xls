@@ -1,0 +1,294 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '조셉 고든 레빗'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>스노든</td>
+					<td>SNOWDEN</td>
+					<td>2016</td>
+					<td>프랑스,독일,미국</td>
+					<td>스릴러,드라마</td>
+					<td>주연-스노든 역역</td>
+					<td>325,020,562</td>
+					<td>40,040</td>
+					<td>325,035,562</td>
+					<td>40,043</td>
+				</tr>
+			
+				<tr>
+					<td>하늘을 걷는 남자</td>
+					<td>The Walk</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>2,267,273,653</td>
+					<td>238,257</td>
+					<td>2,268,499,653</td>
+					<td>238,439</td>
+				</tr>
+			
+				<tr>
+					<td>씬 시티: 다크히어로의 부활</td>
+					<td>Sin City: A dame to kill for</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>액션,범죄,스릴러</td>
+					<td>주연</td>
+					<td>656,718,748</td>
+					<td>83,182</td>
+					<td>656,718,748</td>
+					<td>83,182</td>
+				</tr>
+			
+				<tr>
+					<td>돈 존</td>
+					<td>Don Jon</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>코미디,드라마,멜로/로맨스</td>
+					<td>감독,주연</td>
+					<td>96,323,000</td>
+					<td>12,044</td>
+					<td>96,323,000</td>
+					<td>12,044</td>
+				</tr>
+			
+				<tr>
+					<td>링컨</td>
+					<td>Lincoln</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>드라마,전쟁</td>
+					<td>주연-로버트 링컨역</td>
+					<td>954,242,500</td>
+					<td>137,505</td>
+					<td>954,242,500</td>
+					<td>137,505</td>
+				</tr>
+			
+				<tr>
+					<td>루퍼</td>
+					<td>Looper</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>SF,액션</td>
+					<td>주연</td>
+					<td>4,265,566,000</td>
+					<td>571,922</td>
+					<td>4,265,566,000</td>
+					<td>571,922</td>
+				</tr>
+			
+				<tr>
+					<td>다크 나이트 라이즈</td>
+					<td>The Dark Knight Rises</td>
+					<td>2012</td>
+					<td>미국,영국</td>
+					<td>액션,범죄,스릴러</td>
+					<td>주연-존 블레이크역</td>
+					<td>47,644,838,000</td>
+					<td>6,396,528</td>
+					<td>47,675,463,500</td>
+					<td>6,399,303</td>
+				</tr>
+			
+				<tr>
+					<td>프리미엄 러쉬</td>
+					<td>Premium Rush</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>스릴러,액션</td>
+					<td>주연-와일리 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>50/50</td>
+					<td></td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연-애덤 역</td>
+					<td>1,029,728,500</td>
+					<td>137,205</td>
+					<td>1,030,575,000</td>
+					<td>137,317</td>
+				</tr>
+			
+				<tr>
+					<td>조셉 고든-레빗의 69채널</td>
+					<td>Elektra Luxx</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>500일의 썸머</td>
+					<td>500Days Of Summer</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-탐역</td>
+					<td>1,064,051,540</td>
+					<td>140,458</td>
+					<td>2,277,004,000</td>
+					<td>286,828</td>
+				</tr>
+			
+				<tr>
+					<td>스탑 로스</td>
+					<td>Stop-Loss</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>전쟁,드라마</td>
+					<td>주연-토미 버제스역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>언서튼티</td>
+					<td>Uncertainty</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>룩아웃</td>
+					<td>The Lookout</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>범죄,드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>브릭</td>
+					<td>Brick</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>미스터리,드라마</td>
+					<td>주연-브렌든역</td>
+					<td>27,939,000</td>
+					<td>4,093</td>
+					<td>28,070,500</td>
+					<td>4,112</td>
+				</tr>
+			
+				<tr>
+					<td>미스테리어스 스킨</td>
+					<td>Mysterious Skin</td>
+					<td>2004</td>
+					<td>미국,네덜란드</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>19,650,558</td>
+					<td>2,587</td>
+					<td>19,650,558</td>
+					<td>2,587</td>
+				</tr>
+			
+				<tr>
+					<td>보물성</td>
+					<td>Treasure Planet </td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>어드벤처,판타지,SF</td>
+					<td>주연(목소리)</td>
+					<td>0</td>
+					<td>235,724</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>매닉</td>
+					<td>Manic</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>외야의 천사들 </td>
+					<td>Angels In The Outfield</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>가족,드라마,코미디,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>9,560</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

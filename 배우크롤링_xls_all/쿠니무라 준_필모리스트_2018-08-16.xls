@@ -1,0 +1,164 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '쿠니무라 준'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>보더 2 : 속죄</td>
+					<td>BORDER2</td>
+					<td>2017</td>
+					<td>일본</td>
+					<td>미스터리,판타지,범죄,드라마</td>
+					<td>조연-쿠다카 타케시역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>곡성</td>
+					<td>THE WAILING</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>미스터리,스릴러,드라마</td>
+					<td>주연-외지인역</td>
+					<td>55,863,520,382</td>
+					<td>6,879,908</td>
+					<td>55,864,308,382</td>
+					<td>6,879,989</td>
+				</tr>
+			
+				<tr>
+					<td>지옥이 뭐가 나빠</td>
+					<td>Why Don&#039;t You Play in Hell?</td>
+					<td>2013</td>
+					<td>일본</td>
+					<td>액션,코미디</td>
+					<td>주연</td>
+					<td>11,861,969</td>
+					<td>1,816</td>
+					<td>12,678,969</td>
+					<td>1,922</td>
+				</tr>
+			
+				<tr>
+					<td>아웃레이지</td>
+					<td>Outrage</td>
+					<td>2010</td>
+					<td>일본</td>
+					<td>드라마,범죄</td>
+					<td>주연</td>
+					<td>11,022,237</td>
+					<td>1,500</td>
+					<td>13,693,500</td>
+					<td>1,839</td>
+				</tr>
+			
+				<tr>
+					<td>츠바키야마 과장의 7일간</td>
+					<td>Tsubakiyama kacho no nanoka-kan</td>
+					<td>2006</td>
+					<td>일본</td>
+					<td>드라마,판타지,코미디</td>
+					<td>조연-이치카와 다이스케역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>미안해</td>
+					<td>Gomen</td>
+					<td>2002</td>
+					<td>일본</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,350</td>
+					<td>8,777,500</td>
+					<td>1,440</td>
+				</tr>
+			
+				<tr>
+					<td>토미에 최종장 : 금단의 과실</td>
+					<td>Tomie : Forbidden Fruit</td>
+					<td>2002</td>
+					<td>일본</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>얼굴</td>
+					<td>Face</td>
+					<td>2000</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>0</td>
+					<td>0</td>
+				</tr>
+			
+				<tr>
+					<td>와일드 라이프</td>
+					<td>Wild Life</td>
+					<td>1997</td>
+					<td>일본</td>
+					<td>스릴러,멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

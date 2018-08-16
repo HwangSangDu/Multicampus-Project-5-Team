@@ -1,0 +1,151 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '이자벨 까레'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>마리 이야기: 손끝의 기적</td>
+					<td>Marie&#039;s story</td>
+					<td>2014</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>59,276,500</td>
+					<td>8,821</td>
+					<td>60,473,500</td>
+					<td>9,205</td>
+				</tr>
+			
+				<tr>
+					<td>나에게서 온 편지</td>
+					<td>The Dandelions</td>
+					<td>2012</td>
+					<td>프랑스</td>
+					<td>코미디</td>
+					<td>주연-카테린역</td>
+					<td>72,763,000</td>
+					<td>9,931</td>
+					<td>72,763,000</td>
+					<td>9,931</td>
+				</tr>
+			
+				<tr>
+					<td>머나먼 세상속으로</td>
+					<td>The Day of the Crows</td>
+					<td>2011</td>
+					<td>프랑스,벨기에,캐나다</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td>3,701,000</td>
+					<td>569</td>
+					<td>4,313,000</td>
+					<td>731</td>
+				</tr>
+			
+				<tr>
+					<td>초콜릿 로맨스</td>
+					<td>Romantics Anonymous</td>
+					<td>2010</td>
+					<td>프랑스,벨기에</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>856,000</td>
+					<td>93</td>
+				</tr>
+			
+				<tr>
+					<td>레퓨지</td>
+					<td>The Refuge </td>
+					<td>2009</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연-무스 역</td>
+					<td>39,553,506</td>
+					<td>5,399</td>
+					<td>38,932,500</td>
+					<td>5,313</td>
+				</tr>
+			
+				<tr>
+					<td>뗄르망 프로쉬</td>
+					<td>Tellement proches</td>
+					<td>2009</td>
+					<td>프랑스</td>
+					<td>코미디</td>
+					<td>주연-나달리에 역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>안나 엠</td>
+					<td>ANNA M</td>
+					<td>2007</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>136,000</td>
+					<td>17</td>
+				</tr>
+			
+				<tr>
+					<td>아름다운 것들</td>
+					<td>Se Souvenir Des Belles Choses</td>
+					<td>2002</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>0</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

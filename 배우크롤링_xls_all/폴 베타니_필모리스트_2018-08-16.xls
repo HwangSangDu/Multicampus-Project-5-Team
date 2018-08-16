@@ -1,0 +1,281 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '폴 베타니'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>한 솔로: 스타워즈 스토리</td>
+					<td>Solo: A Star Wars Story</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>액션,SF</td>
+					<td>주연</td>
+					<td>1,964,309,778</td>
+					<td>213,986</td>
+					<td>1,964,276,778</td>
+					<td>213,980</td>
+				</tr>
+			
+				<tr>
+					<td>어벤져스: 인피니티 워</td>
+					<td>Avengers: Infinity War</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지,SF</td>
+					<td>주연</td>
+					<td>99,825,741,869</td>
+					<td>11,202,737</td>
+					<td>99,918,419,769</td>
+					<td>11,211,798</td>
+				</tr>
+			
+				<tr>
+					<td>여행의 끝</td>
+					<td>Journey&#039;s End</td>
+					<td>2017</td>
+					<td>영국</td>
+					<td>전쟁</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>어벤져스: 에이지 오브 울트론</td>
+					<td>The Avengers: Age of Ultron</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지,SF</td>
+					<td>주연</td>
+					<td>88,582,586,366</td>
+					<td>10,494,499</td>
+					<td>88,582,586,366</td>
+					<td>10,494,499</td>
+				</tr>
+			
+				<tr>
+					<td>트랜센던스</td>
+					<td>Transcendence</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>SF,액션,드라마</td>
+					<td>주연</td>
+					<td>5,478,201,500</td>
+					<td>696,412</td>
+					<td>5,478,536,500</td>
+					<td>696,436</td>
+				</tr>
+			
+				<tr>
+					<td>블러드 워</td>
+					<td>Blood</td>
+					<td>2013</td>
+					<td>영국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>300,000</td>
+					<td>60</td>
+					<td>300,000</td>
+					<td>60</td>
+				</tr>
+			
+				<tr>
+					<td>아이언맨 3</td>
+					<td>Iron Man 3</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>액션,어드벤처,SF</td>
+					<td>주연-쟈비스역(목소리)</td>
+					<td>70,806,191,000</td>
+					<td>9,001,309</td>
+					<td>70,806,364,000</td>
+					<td>9,001,331</td>
+				</tr>
+			
+				<tr>
+					<td>마진 콜: 24시간, 조작된 진실</td>
+					<td>Margin Call </td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>스릴러,드라마</td>
+					<td>주연-윌 에머슨역</td>
+					<td>50,342,500</td>
+					<td>7,019</td>
+					<td>50,779,500</td>
+					<td>7,086</td>
+				</tr>
+			
+				<tr>
+					<td>프리스트</td>
+					<td>Priest</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>839,493,000</td>
+					<td>93,336</td>
+					<td>839,493,000</td>
+					<td>93,336</td>
+				</tr>
+			
+				<tr>
+					<td>리전</td>
+					<td>Legion</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>액션,판타지,스릴러</td>
+					<td>주연-미카엘역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>크리에이션</td>
+					<td>Creation</td>
+					<td>2009</td>
+					<td>영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>파이어월</td>
+					<td>Firewall</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>액션,스릴러,범죄</td>
+					<td>주연-빌 콕스역</td>
+					<td>0</td>
+					<td>148,600</td>
+					<td>890,321,000</td>
+					<td>139,423</td>
+				</tr>
+			
+				<tr>
+					<td>윔블던</td>
+					<td>Wimbledon</td>
+					<td>2004</td>
+					<td>영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>121,500</td>
+					<td>631,922,000</td>
+					<td>96,108</td>
+				</tr>
+			
+				<tr>
+					<td>레커닝</td>
+					<td>The Reckoning</td>
+					<td>2004</td>
+					<td>영국,스페인</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>마스터 앤드 커맨더: 위대한 정복자 </td>
+					<td>Master and Commander: The Far Side of the World </td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>전쟁,드라마,액션,어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>570,000</td>
+					<td>289,858,500</td>
+					<td>45,549</td>
+				</tr>
+			
+				<tr>
+					<td>하트 오브 미</td>
+					<td>The Heart Of Me</td>
+					<td>2002</td>
+					<td>영국,독일</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>뷰티풀 마인드</td>
+					<td>A BEAUTIFUL MIND</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>589,882</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>데드 베이비즈</td>
+					<td>Dead Babies</td>
+					<td>2000</td>
+					<td>영국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

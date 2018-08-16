@@ -1,0 +1,164 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '송지효'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>성난 황소</td>
+					<td></td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>범죄,액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>바람 바람 바람</td>
+					<td>What a Man Wants</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>9,784,445,375</td>
+					<td>1,194,239</td>
+					<td>9,784,385,375</td>
+					<td>1,194,229</td>
+				</tr>
+			
+				<tr>
+					<td>신세계</td>
+					<td>New World</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>범죄,액션</td>
+					<td>조연-신우역</td>
+					<td>34,881,330,905</td>
+					<td>4,682,492</td>
+					<td>34,882,073,905</td>
+					<td>4,682,614</td>
+				</tr>
+			
+				<tr>
+					<td>해양경찰 마르코</td>
+					<td>Marco Macaco</td>
+					<td>2012</td>
+					<td>덴마크</td>
+					<td>어드벤처,애니메이션</td>
+					<td>주연(목소리)</td>
+					<td>1,151,717,000</td>
+					<td>181,702</td>
+					<td>1,151,907,000</td>
+					<td>181,740</td>
+				</tr>
+			
+				<tr>
+					<td>자칼이 온다</td>
+					<td>Code Name : Jackal</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연-봉민정역</td>
+					<td>1,430,079,500</td>
+					<td>210,278</td>
+					<td>1,430,079,500</td>
+					<td>210,278</td>
+				</tr>
+			
+				<tr>
+					<td>그대를 사랑합니다</td>
+					<td>Late Blossom</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-김연아역</td>
+					<td>12,040,035,000</td>
+					<td>1,645,126</td>
+					<td>12,051,399,000</td>
+					<td>1,649,407</td>
+				</tr>
+			
+				<tr>
+					<td>쌍화점</td>
+					<td>A Frozen Flower</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-왕후역</td>
+					<td>25,616,489,949</td>
+					<td>3,779,553</td>
+					<td>25,411,823,400</td>
+					<td>3,749,034</td>
+				</tr>
+			
+				<tr>
+					<td>색즉시공 시즌2</td>
+					<td>Sex Is Zero 2</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>511,288,500</td>
+					<td>2,088,134</td>
+					<td>13,466,476,000</td>
+					<td>2,002,423</td>
+				</tr>
+			
+				<tr>
+					<td>여고괴담 세번째 이야기: 여우계단</td>
+					<td>Wishing Stairs</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,784,479</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

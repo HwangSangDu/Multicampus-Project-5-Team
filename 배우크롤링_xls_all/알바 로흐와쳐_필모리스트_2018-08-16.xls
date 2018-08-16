@@ -1,0 +1,112 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '알바 로흐와쳐'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>헝그리 하트</td>
+					<td>Hungry Hearts</td>
+					<td>2014</td>
+					<td>이탈리아</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td>17,746,800</td>
+					<td>2,482</td>
+					<td>17,955,800</td>
+					<td>2,513</td>
+				</tr>
+			
+				<tr>
+					<td>베를린의 연인</td>
+					<td>Gluck</td>
+					<td>2012</td>
+					<td>독일</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>7,000</td>
+					<td>1</td>
+					<td>7,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>사랑하고 싶은 시간</td>
+					<td>What More Do I Want</td>
+					<td>2010</td>
+					<td>이탈리아</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>39,385,613</td>
+					<td>5,343</td>
+					<td>41,771,500</td>
+					<td>5,718</td>
+				</tr>
+			
+				<tr>
+					<td>아이 엠 러브</td>
+					<td>I Am Love</td>
+					<td>2009</td>
+					<td>이탈리아</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-엘리사베타역</td>
+					<td>271,649,000</td>
+					<td>34,269</td>
+					<td>411,323,361</td>
+					<td>52,076</td>
+				</tr>
+			
+				<tr>
+					<td>굿모닝 하트에이크</td>
+					<td>Good Morning Heartache</td>
+					<td>2008</td>
+					<td>이탈리아</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>2,355,000</td>
+					<td>360</td>
+					<td>2,355,000</td>
+					<td>360</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

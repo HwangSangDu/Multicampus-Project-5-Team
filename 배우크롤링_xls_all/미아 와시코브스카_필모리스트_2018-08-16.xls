@@ -1,0 +1,242 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '미아 와시코브스카'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>철의 심장을 가진 남자</td>
+					<td>The Man with the Iron Heart</td>
+					<td>2017</td>
+					<td>프랑스,영국,벨기에,미국</td>
+					<td>액션,스릴러,전쟁</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,710,000</td>
+					<td>201</td>
+				</tr>
+			
+				<tr>
+					<td>거울나라의 앨리스</td>
+					<td>Alice Through the Looking Glass</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>어드벤처,가족,판타지</td>
+					<td>주연</td>
+					<td>4,145,733,267</td>
+					<td>513,202</td>
+					<td>4,145,733,267</td>
+					<td>513,202</td>
+				</tr>
+			
+				<tr>
+					<td>마담 보바리</td>
+					<td>Madame Bovary</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>56,360,900</td>
+					<td>7,221</td>
+					<td>56,360,900</td>
+					<td>7,221</td>
+				</tr>
+			
+				<tr>
+					<td>크림슨 피크</td>
+					<td>Crimson Peak</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>판타지,스릴러</td>
+					<td>주연</td>
+					<td>379,765,400</td>
+					<td>46,735</td>
+					<td>380,106,400</td>
+					<td>46,783</td>
+				</tr>
+			
+				<tr>
+					<td>맵 투 더 스타</td>
+					<td>Maps To The Stars</td>
+					<td>2014</td>
+					<td>캐나다,미국,독일,프랑스</td>
+					<td>미스터리,스릴러</td>
+					<td>주연</td>
+					<td>50,881,800</td>
+					<td>6,411</td>
+					<td>51,660,800</td>
+					<td>6,525</td>
+				</tr>
+			
+				<tr>
+					<td>더블: 달콤한 악몽</td>
+					<td>The Double</td>
+					<td>2013</td>
+					<td>영국</td>
+					<td>미스터리,멜로/로맨스</td>
+					<td>주연</td>
+					<td>66,138,718</td>
+					<td>8,504</td>
+					<td>66,602,718</td>
+					<td>8,558</td>
+				</tr>
+			
+				<tr>
+					<td>오직 사랑하는 이들만이 살아남는다</td>
+					<td>Only Lovers Left Alive</td>
+					<td>2013</td>
+					<td>영국,독일,미국,프랑스</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-에바역</td>
+					<td>255,170,443</td>
+					<td>33,818</td>
+					<td>266,879,843</td>
+					<td>35,363</td>
+				</tr>
+			
+				<tr>
+					<td>스토커</td>
+					<td>Stoker</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연-인디아역</td>
+					<td>2,828,301,674</td>
+					<td>378,729</td>
+					<td>2,832,318,674</td>
+					<td>379,241</td>
+				</tr>
+			
+				<tr>
+					<td>로우리스: 나쁜 영웅들</td>
+					<td>Lawless</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션,범죄</td>
+					<td>주연</td>
+					<td>468,141,666</td>
+					<td>66,468</td>
+					<td>468,390,166</td>
+					<td>66,504</td>
+				</tr>
+			
+				<tr>
+					<td>레스트리스</td>
+					<td>Restless</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>47,553,300</td>
+					<td>6,083</td>
+					<td>48,687,300</td>
+					<td>6,313</td>
+				</tr>
+			
+				<tr>
+					<td>제인 에어</td>
+					<td>Jane Eyre</td>
+					<td>2011</td>
+					<td>영국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-제인 에어역</td>
+					<td>981,132,000</td>
+					<td>135,797</td>
+					<td>988,340,000</td>
+					<td>136,810</td>
+				</tr>
+			
+				<tr>
+					<td>앨버트놉스</td>
+					<td>Albert Nobbs</td>
+					<td>2011</td>
+					<td>영국,아일랜드</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>에브리바디 올라잇</td>
+					<td>The Kids Are All Right</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연-조니역</td>
+					<td>466,314,324</td>
+					<td>61,927</td>
+					<td>458,656,500</td>
+					<td>60,898</td>
+				</tr>
+			
+				<tr>
+					<td>이상한 나라의 앨리스</td>
+					<td>Alice In Wonderland</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>판타지,어드벤처,가족</td>
+					<td>주연-앨리스역</td>
+					<td>20,661,000,236</td>
+					<td>2,182,365</td>
+					<td>20,334,399,500</td>
+					<td>2,147,012</td>
+				</tr>
+			
+				<tr>
+					<td>9월</td>
+					<td>September</td>
+					<td>2007</td>
+					<td>호주</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

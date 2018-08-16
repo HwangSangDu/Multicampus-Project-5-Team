@@ -1,0 +1,138 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '안도 사쿠라'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>어느 가족</td>
+					<td>SHOPLIFTERS</td>
+					<td>2018</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,127,665,500</td>
+					<td>133,860</td>
+				</tr>
+			
+				<tr>
+					<td>백엔의 사랑</td>
+					<td>100 Yen Love</td>
+					<td>2014</td>
+					<td>일본</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>42,197,100</td>
+					<td>5,641</td>
+					<td>42,427,100</td>
+					<td>5,677</td>
+				</tr>
+			
+				<tr>
+					<td>집으로 간다</td>
+					<td>Homeland</td>
+					<td>2014</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>603,000</td>
+					<td>99</td>
+					<td>603,000</td>
+					<td>99</td>
+				</tr>
+			
+				<tr>
+					<td>쿄코와 슈이치의 경우</td>
+					<td>Case of Kyoko, Case of Shuichi</td>
+					<td>2013</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연-쿄코역</td>
+					<td></td>
+					<td></td>
+					<td>300,000</td>
+					<td>60</td>
+				</tr>
+			
+				<tr>
+					<td>꽃잎, 춤</td>
+					<td>Petal Dance</td>
+					<td>2012</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>3,638,000</td>
+					<td>466</td>
+					<td>3,638,000</td>
+					<td>466</td>
+				</tr>
+			
+				<tr>
+					<td>가족의 나라</td>
+					<td>Our Homeland</td>
+					<td>2012</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>40,378,000</td>
+					<td>5,540</td>
+					<td>40,408,000</td>
+					<td>5,545</td>
+				</tr>
+			
+				<tr>
+					<td>속죄</td>
+					<td>Penance</td>
+					<td>2012</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,430,000</td>
+					<td>132</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

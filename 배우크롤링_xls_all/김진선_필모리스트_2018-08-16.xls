@@ -1,0 +1,138 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '김진선'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>내 이웃의 아내 (무삭제)</td>
+					<td></td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>270,000</td>
+					<td>54</td>
+					<td>270,000</td>
+					<td>54</td>
+				</tr>
+			
+				<tr>
+					<td>부부의 스폰서</td>
+					<td></td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>1,584,000</td>
+					<td>313</td>
+					<td>1,584,000</td>
+					<td>313</td>
+				</tr>
+			
+				<tr>
+					<td>내 이웃의 아내</td>
+					<td></td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>1,729,000</td>
+					<td>333</td>
+					<td>1,729,000</td>
+					<td>333</td>
+				</tr>
+			
+				<tr>
+					<td>맛</td>
+					<td></td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>단역-스포티지역</td>
+					<td>13,822,000</td>
+					<td>5,021</td>
+					<td>14,002,000</td>
+					<td>5,057</td>
+				</tr>
+			
+				<tr>
+					<td>일탈여행: 프라이빗 아일랜드</td>
+					<td>Private Island</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>조연</td>
+					<td>18,135,500</td>
+					<td>3,460</td>
+					<td>18,135,500</td>
+					<td>3,460</td>
+				</tr>
+			
+				<tr>
+					<td>롤플레이</td>
+					<td>Role Play</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>멜로/로맨스,스릴러</td>
+					<td>주연-지수역</td>
+					<td>1,849,000</td>
+					<td>270</td>
+					<td>1,849,000</td>
+					<td>270</td>
+				</tr>
+			
+				<tr>
+					<td>리턴</td>
+					<td>Wide Awake</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>미스터리,스릴러</td>
+					<td>단역-마취과 부인역</td>
+					<td>0</td>
+					<td>677,939</td>
+					<td>4,271,881,500</td>
+					<td>641,852</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

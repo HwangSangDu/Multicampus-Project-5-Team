@@ -1,0 +1,229 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '패트리샤 클락슨'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>더 파티</td>
+					<td>The Party</td>
+					<td>2017</td>
+					<td>영국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>252,000</td>
+					<td>59</td>
+				</tr>
+			
+				<tr>
+					<td>인생면허시험</td>
+					<td>Learning to Drive</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>19,244,500</td>
+					<td>2,325</td>
+					<td>19,244,500</td>
+					<td>2,325</td>
+				</tr>
+			
+				<tr>
+					<td>왓에버 웍스</td>
+					<td>Whatever Works</td>
+					<td>2009</td>
+					<td>미국,프랑스</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>570,000</td>
+					<td>109</td>
+				</tr>
+			
+				<tr>
+					<td>이상한 나라의 피비</td>
+					<td>Phoebe In Wonderland</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>드라마,가족,판타지</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>내겐 너무 사랑스러운 그녀</td>
+					<td>Lars And The Real Girl</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연-카린 린스트롬 역</td>
+					<td>95,680,000</td>
+					<td>18,883</td>
+					<td>95,680,000</td>
+					<td>16,708</td>
+				</tr>
+			
+				<tr>
+					<td>악령의 숲</td>
+					<td>The Woods</td>
+					<td>2006</td>
+					<td>미국,영국,독일</td>
+					<td>공포(호러),미스터리,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>다잉 골</td>
+					<td>The Dying Gaul</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스테이션 에이전트</td>
+					<td>The Station Agent</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연-올리비아 역</td>
+					<td>0</td>
+					<td>3,291</td>
+					<td>20,819,000</td>
+					<td>3,200</td>
+				</tr>
+			
+				<tr>
+					<td>에이프릴의 특별한 만찬</td>
+					<td>Pieces Of April</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>코미디,드라마,가족</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>올 더 리얼 걸스</td>
+					<td>All The Real Girls</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>세이프티 오브 오브젝츠</td>
+					<td>The Safety Of Objects</td>
+					<td>2001</td>
+					<td>영국,미국,캐나다</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>웬디고</td>
+					<td>Wendigo</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>드라마,공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>죠 굴드의 비밀</td>
+					<td>Joe Gould&#039;s Secret</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>러브 이즈 매직</td>
+					<td>Simply Irresistible</td>
+					<td>1999</td>
+					<td>미국,독일</td>
+					<td>코미디,드라마,판타지</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

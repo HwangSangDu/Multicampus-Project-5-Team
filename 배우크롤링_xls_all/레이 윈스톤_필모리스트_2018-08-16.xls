@@ -1,0 +1,255 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '레이 윈스톤'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>더 건맨</td>
+					<td>The Gunman</td>
+					<td>2015</td>
+					<td>프랑스,스페인,영국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>833,925,965</td>
+					<td>107,444</td>
+					<td>833,925,965</td>
+					<td>107,444</td>
+				</tr>
+			
+				<tr>
+					<td>스위니</td>
+					<td>The Sweeney</td>
+					<td>2012</td>
+					<td>영국</td>
+					<td>액션,범죄,드라마</td>
+					<td>주연</td>
+					<td>6,961,000</td>
+					<td>1,133</td>
+					<td>6,961,000</td>
+					<td>1,133</td>
+				</tr>
+			
+				<tr>
+					<td>익스트림 No.13</td>
+					<td>13</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연-로널드 린역</td>
+					<td>88,072,516</td>
+					<td>12,408</td>
+					<td>88,072,516</td>
+					<td>12,408</td>
+				</tr>
+			
+				<tr>
+					<td>런던 블러바드 무삭제 감독판</td>
+					<td></td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>액션,드라마</td>
+					<td>주연</td>
+					<td>1,190,000</td>
+					<td>175</td>
+					<td>1,190,000</td>
+					<td>175</td>
+				</tr>
+			
+				<tr>
+					<td>런던 블러바드</td>
+					<td>London Boulevard</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td>117,341,000</td>
+					<td>16,959</td>
+					<td>117,475,000</td>
+					<td>16,977</td>
+				</tr>
+			
+				<tr>
+					<td>44 인치 가슴</td>
+					<td>44 Inch Chest</td>
+					<td>2009</td>
+					<td>영국</td>
+					<td>범죄,드라마,코미디</td>
+					<td>주연-콜린 다이아몬드역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>악마의 무덤</td>
+					<td>The Devil&#039;s Tomb</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>액션,공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>8,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>베오울프</td>
+					<td>Beowulf</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>애니메이션,드라마,어드벤처,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>890,100</td>
+					<td>6,791,108,000</td>
+					<td>968,535</td>
+				</tr>
+			
+				<tr>
+					<td>프로포지션</td>
+					<td>The Proposition</td>
+					<td>2005</td>
+					<td>호주,영국</td>
+					<td>범죄,드라마,서부극(웨스턴)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>헨리 8세</td>
+					<td>Henry VIII</td>
+					<td>2003</td>
+					<td>영국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>리플리스 게임</td>
+					<td>Ripley&#039;s Game</td>
+					<td>2002</td>
+					<td>이탈리아</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>4,225</td>
+					<td>28,005,500</td>
+					<td>4,059</td>
+				</tr>
+			
+				<tr>
+					<td>섹시 비스트</td>
+					<td>Sexy Beast</td>
+					<td>2000</td>
+					<td>영국,스페인</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>지미 그림블</td>
+					<td>There&#039;s Only One Jimmy Grimble</td>
+					<td>2000</td>
+					<td>영국,프랑스</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>전쟁 지역</td>
+					<td>The War Zone</td>
+					<td>1999</td>
+					<td>이탈리아,영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>화니와 엘비스</td>
+					<td>Fanny And Elvis</td>
+					<td>1999</td>
+					<td>영국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>파이날 캇</td>
+					<td>Final Cut</td>
+					<td>1998</td>
+					<td>영국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

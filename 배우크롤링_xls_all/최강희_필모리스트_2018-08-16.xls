@@ -1,0 +1,190 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '최강희'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>순종</td>
+					<td>Obedience</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>다큐멘터리</td>
+					<td>주연-내레이션역(목소리)</td>
+					<td>416,563,200</td>
+					<td>58,339</td>
+					<td>418,376,200</td>
+					<td>58,644</td>
+				</tr>
+			
+				<tr>
+					<td>그녀의 전설</td>
+					<td>Her Legend</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>그 사람 그 사랑 그 세상</td>
+					<td>He Who Loves the World</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>다큐멘터리</td>
+					<td>주연(목소리)</td>
+					<td>189,858,500</td>
+					<td>25,649</td>
+					<td>302,923,000</td>
+					<td>42,337</td>
+				</tr>
+			
+				<tr>
+					<td>미나문방구</td>
+					<td>Happiness for Sale</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>2,247,017,000</td>
+					<td>334,323</td>
+					<td>2,247,017,000</td>
+					<td>334,323</td>
+				</tr>
+			
+				<tr>
+					<td>쩨쩨한 로맨스</td>
+					<td>Petty Romance</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연-다림역</td>
+					<td>15,901,620,661</td>
+					<td>2,080,574</td>
+					<td>15,800,327,500</td>
+					<td>2,067,538</td>
+				</tr>
+			
+				<tr>
+					<td>애자</td>
+					<td>Goodbye Mom</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>주연-박애자역</td>
+					<td>13,785,879,439</td>
+					<td>1,922,634</td>
+					<td>13,633,902,000</td>
+					<td>1,901,731</td>
+				</tr>
+			
+				<tr>
+					<td>내 사랑</td>
+					<td>Love, First</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>432,940,833</td>
+					<td>977,401</td>
+					<td>6,315,244,000</td>
+					<td>962,134</td>
+				</tr>
+			
+				<tr>
+					<td>달콤, 살벌한 연인</td>
+					<td>My Scary Girl</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>스릴러,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,286,745</td>
+					<td>13,426,707,100</td>
+					<td>2,077,590</td>
+				</tr>
+			
+				<tr>
+					<td>와니와 준하</td>
+					<td>Wanee And Junah</td>
+					<td>2001</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>101,879</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>행복한 장의사</td>
+					<td>The Happy Funeral Director</td>
+					<td>1999</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>조연-소화역</td>
+					<td>0</td>
+					<td>111,837</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>여고괴담</td>
+					<td>Whispering Corridors</td>
+					<td>1998</td>
+					<td>한국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>621,032</td>
+					<td>274,500</td>
+					<td>41</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

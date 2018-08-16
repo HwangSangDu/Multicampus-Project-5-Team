@@ -1,0 +1,112 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '이코 우웨이스'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>마일22</td>
+					<td>Mile22</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>액션,어드벤처,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>헤드샷</td>
+					<td>HEADSHOT</td>
+					<td>2016</td>
+					<td>인도네시아</td>
+					<td>액션,드라마,스릴러</td>
+					<td>주연</td>
+					<td>15,000</td>
+					<td>3</td>
+					<td>15,000</td>
+					<td>3</td>
+				</tr>
+			
+				<tr>
+					<td>레이드 2</td>
+					<td>The Raid 2: Berandal</td>
+					<td>2014</td>
+					<td>인도네시아,미국</td>
+					<td>액션,범죄,스릴러</td>
+					<td>주연</td>
+					<td>62,571,400</td>
+					<td>7,971</td>
+					<td>62,925,400</td>
+					<td>8,029</td>
+				</tr>
+			
+				<tr>
+					<td>레이드 : 첫번째 습격</td>
+					<td>The Raid : Redemption</td>
+					<td>2012</td>
+					<td>인도네시아</td>
+					<td>액션,범죄,스릴러</td>
+					<td>주연-라마역</td>
+					<td>163,320,500</td>
+					<td>21,705</td>
+					<td>163,533,500</td>
+					<td>21,761</td>
+				</tr>
+			
+				<tr>
+					<td>메란타우</td>
+					<td>Merantau</td>
+					<td>2009</td>
+					<td>인도네시아</td>
+					<td>액션,드라마</td>
+					<td>주연</td>
+					<td>53,000</td>
+					<td>14</td>
+					<td>325,000</td>
+					<td>103</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

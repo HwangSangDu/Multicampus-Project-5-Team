@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '데보라 프랑수아'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>사랑은 타이핑 중!</td>
+					<td>POPULAIRE</td>
+					<td>2012</td>
+					<td>프랑스</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>88,024,561</td>
+					<td>13,029</td>
+					<td>88,641,561</td>
+					<td>13,115</td>
+				</tr>
+			
+				<tr>
+					<td>더 몽크</td>
+					<td>The Monk</td>
+					<td>2011</td>
+					<td>스페인,프랑스</td>
+					<td>미스터리,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>146,000</td>
+					<td>19</td>
+				</tr>
+			
+				<tr>
+					<td>스튜던트 서비스</td>
+					<td>Student Services</td>
+					<td>2010</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>100,000</td>
+					<td>10</td>
+					<td>100,000</td>
+					<td>10</td>
+				</tr>
+			
+				<tr>
+					<td>스무살의 침대</td>
+					<td>Unmade Beds</td>
+					<td>2009</td>
+					<td>영국</td>
+					<td>드라마,코미디</td>
+					<td>주연-베라역</td>
+					<td></td>
+					<td></td>
+					<td>1,163,000</td>
+					<td>152</td>
+				</tr>
+			
+				<tr>
+					<td>페이지 터너</td>
+					<td>The Page Turner</td>
+					<td>2006</td>
+					<td>프랑스</td>
+					<td>드라마,스릴러</td>
+					<td>주연-멜라니 역</td>
+					<td>0</td>
+					<td>1,880</td>
+					<td>11,045,000</td>
+					<td>1,698</td>
+				</tr>
+			
+				<tr>
+					<td>더 차일드</td>
+					<td>The Child</td>
+					<td>2005</td>
+					<td>벨기에</td>
+					<td>드라마</td>
+					<td>주연-소냐역</td>
+					<td>0</td>
+					<td>5,748</td>
+					<td>37,412,500</td>
+					<td>5,380</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

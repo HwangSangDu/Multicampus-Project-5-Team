@@ -1,0 +1,99 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '리한나'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>오션스8</td>
+					<td>Ocean&#039;s 8</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>액션,범죄</td>
+					<td>주연</td>
+					<td>10,978,328,166</td>
+					<td>1,252,385</td>
+					<td>11,700,157,266</td>
+					<td>1,335,829</td>
+				</tr>
+			
+				<tr>
+					<td>발레리안: 천 개 행성의 도시</td>
+					<td>VALERIAN : The City of A Thousand Planets</td>
+					<td>2017</td>
+					<td>프랑스</td>
+					<td>액션,어드벤처,SF</td>
+					<td>주연</td>
+					<td>4,047,756,408</td>
+					<td>511,931</td>
+					<td>4,047,756,408</td>
+					<td>511,931</td>
+				</tr>
+			
+				<tr>
+					<td>홈</td>
+					<td>Home</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>애니메이션,어드벤처,판타지</td>
+					<td>주연(목소리)</td>
+					<td>2,692,225,691</td>
+					<td>360,556</td>
+					<td>2,693,573,391</td>
+					<td>360,781</td>
+				</tr>
+			
+				<tr>
+					<td>배틀쉽</td>
+					<td>Battleship</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>SF,액션</td>
+					<td>주연-코라 레익스역</td>
+					<td>16,545,921,500</td>
+					<td>2,241,687</td>
+					<td>16,545,921,500</td>
+					<td>2,241,687</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

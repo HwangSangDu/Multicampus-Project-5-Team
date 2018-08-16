@@ -1,0 +1,177 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '홍석연'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>거짓말 2014</td>
+					<td></td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>4,751,000</td>
+					<td>1,058</td>
+					<td>4,751,000</td>
+					<td>1,058</td>
+				</tr>
+			
+				<tr>
+					<td>거짓말2014 무삭제감독판</td>
+					<td></td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>숨</td>
+					<td>Elbowroom</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>5,067,000</td>
+					<td>791</td>
+					<td>5,123,000</td>
+					<td>805</td>
+				</tr>
+			
+				<tr>
+					<td>안녕? 허대짜수짜님!</td>
+					<td>A Worker, Daesoo Heo Who Doesn&#039;T Want To Be Grandpa</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>가족,드라마</td>
+					<td>주연</td>
+					<td>2,782,000</td>
+					<td>519</td>
+					<td>2,782,000</td>
+					<td>519</td>
+				</tr>
+			
+				<tr>
+					<td>마지막 밥상</td>
+					<td>The Last Dining Table</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>2,410,000</td>
+					<td>372</td>
+					<td>2,410,000</td>
+					<td>372</td>
+				</tr>
+			
+				<tr>
+					<td>동방불패</td>
+					<td>Dong-bang Will Never Die</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>바람은 소망하는 곳으로 분다</td>
+					<td>The Wind Blows to the Hope</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>드라마,가족</td>
+					<td>주연-아버지역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>광기의 역사</td>
+					<td>A History of Insanity in the Age of Reason</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>감상과 이해, 청산별곡</td>
+					<td>Poetry Class</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>스릴러,액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>블라인드 인터뷰</td>
+					<td>Blind Interview</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-아버지역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

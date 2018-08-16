@@ -1,0 +1,177 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '파즈 베가'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>뷰티풀 &amp; 트위스티드</td>
+					<td>Beautiful &amp; Twisted</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>범죄,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>캣 런</td>
+					<td>Cat Run</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>액션,코미디</td>
+					<td>주연</td>
+					<td>963,000</td>
+					<td>107</td>
+					<td>991,000</td>
+					<td>111</td>
+				</tr>
+			
+				<tr>
+					<td>실종자</td>
+					<td>Not Forgotten</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>20,000</td>
+					<td>4</td>
+					<td>20,000</td>
+					<td>4</td>
+				</tr>
+			
+				<tr>
+					<td>휴먼 컨트랙트</td>
+					<td>THE HUMAN CONTRACT</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-마이클역</td>
+					<td>100,000</td>
+					<td>20</td>
+					<td>100,000</td>
+					<td>20</td>
+				</tr>
+			
+				<tr>
+					<td>종달새 농장</td>
+					<td>The Lark Farm</td>
+					<td>2007</td>
+					<td>이탈리아,프랑스,스페인,불가리아,독일</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>10 아이템 오어 레스</td>
+					<td>10 Items Or Less</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>8,207,000</td>
+					<td>1,676</td>
+					<td>8,207,000</td>
+					<td>1,676</td>
+				</tr>
+			
+				<tr>
+					<td>어둠 속으로 사라지다</td>
+					<td>Fade To Black</td>
+					<td>2006</td>
+					<td>영국,이탈리아</td>
+					<td>미스터리,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>카르멘</td>
+					<td>Carmen</td>
+					<td>2003</td>
+					<td>스페인</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>170</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>연애의 기술</td>
+					<td>The Other Side Of The Bed</td>
+					<td>2002</td>
+					<td>스페인</td>
+					<td>드라마</td>
+					<td>주연-소니아역</td>
+					<td>0</td>
+					<td>3,540</td>
+					<td>23,949,500</td>
+					<td>3,450</td>
+				</tr>
+			
+				<tr>
+					<td>루시아</td>
+					<td>Sex And Lucia</td>
+					<td>2001</td>
+					<td>프랑스</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,879</td>
+					<td>21,090,000</td>
+					<td>3,137</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

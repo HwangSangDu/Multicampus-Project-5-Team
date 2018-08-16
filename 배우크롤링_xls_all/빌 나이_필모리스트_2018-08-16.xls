@@ -1,0 +1,268 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '빌 나이'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>라임하우스 골렘</td>
+					<td>The Limehouse Golem</td>
+					<td>2016</td>
+					<td>영국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>베스트 엑조틱 메리골드 호텔 2</td>
+					<td>The Second Best Exotic Marigold Hotel</td>
+					<td>2015</td>
+					<td>미국,영국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>런던 프라이드</td>
+					<td>Pride</td>
+					<td>2014</td>
+					<td>영국</td>
+					<td>코미디,드라마</td>
+					<td>주연-클리프 역역</td>
+					<td>100,072,200</td>
+					<td>13,035</td>
+					<td>100,642,200</td>
+					<td>13,130</td>
+				</tr>
+			
+				<tr>
+					<td>프랑켄슈타인: 불멸의 영웅</td>
+					<td>I, Frankenstein</td>
+					<td>2013</td>
+					<td>미국,호주</td>
+					<td>액션,SF,판타지</td>
+					<td>주연</td>
+					<td>2,175,466,123</td>
+					<td>299,205</td>
+					<td>2,175,466,123</td>
+					<td>299,205</td>
+				</tr>
+			
+				<tr>
+					<td>어바웃 타임</td>
+					<td>ABOUT TIME</td>
+					<td>2013</td>
+					<td>영국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>24,982,533,500</td>
+					<td>3,392,251</td>
+					<td>25,015,136,800</td>
+					<td>3,396,313</td>
+				</tr>
+			
+				<tr>
+					<td>잭 더 자이언트 킬러</td>
+					<td>JACK THE GIANT SLAYER</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>판타지,드라마,어드벤처</td>
+					<td>주연</td>
+					<td>7,376,481,000</td>
+					<td>956,154</td>
+					<td>7,376,481,000</td>
+					<td>956,154</td>
+				</tr>
+			
+				<tr>
+					<td>베스트 엑조틱 메리골드 호텔</td>
+					<td>The Best Exotic Marigold Hotel </td>
+					<td>2011</td>
+					<td>영국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>401,298,500</td>
+					<td>56,584</td>
+					<td>401,298,500</td>
+					<td>56,584</td>
+				</tr>
+			
+				<tr>
+					<td>아더 크리스마스</td>
+					<td>Arthur Christmas</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>애니메이션,가족</td>
+					<td>주연(목소리)</td>
+					<td>4,779,642,000</td>
+					<td>622,286</td>
+					<td>4,779,642,000</td>
+					<td>622,286</td>
+				</tr>
+			
+				<tr>
+					<td>샬레이 걸</td>
+					<td>Chalet Girl</td>
+					<td>2011</td>
+					<td>영국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>와일드 타겟</td>
+					<td>Wild Target</td>
+					<td>2010</td>
+					<td>영국,프랑스</td>
+					<td>드라마,코미디,액션,범죄</td>
+					<td>주연</td>
+					<td>4,571,500</td>
+					<td>607</td>
+					<td>4,571,500</td>
+					<td>607</td>
+				</tr>
+			
+				<tr>
+					<td>언더월드: 라이칸의 반란</td>
+					<td>Underworld: Rise Of The Lycans</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>판타지,액션,스릴러,SF</td>
+					<td>주연-빅터역</td>
+					<td>273,265,789</td>
+					<td>36,737</td>
+					<td>269,183,000</td>
+					<td>36,190</td>
+				</tr>
+			
+				<tr>
+					<td>락앤롤 보트</td>
+					<td>The Boat That Rocked</td>
+					<td>2009</td>
+					<td>영국,독일,프랑스</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,790,000</td>
+					<td>245</td>
+				</tr>
+			
+				<tr>
+					<td>G-포스: 기니피그 특공대</td>
+					<td>G-Force</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>가족,어드벤처,액션</td>
+					<td>주연-레너드 세이버역</td>
+					<td>412,084,900</td>
+					<td>40,161</td>
+					<td>405,615,000</td>
+					<td>39,522</td>
+				</tr>
+			
+				<tr>
+					<td>작전명 발키리</td>
+					<td>Valkyrie</td>
+					<td>2008</td>
+					<td>미국,독일</td>
+					<td>스릴러,드라마,전쟁</td>
+					<td>주연</td>
+					<td>11,972,135,869</td>
+					<td>1,798,205</td>
+					<td>11,875,231,500</td>
+					<td>1,784,165</td>
+				</tr>
+			
+				<tr>
+					<td>두갈: 마법의 회전목마</td>
+					<td>The Magic Roundabout</td>
+					<td>2005</td>
+					<td>영국</td>
+					<td>애니메이션,코미디,어드벤처,가족,판타지</td>
+					<td>주연</td>
+					<td>56,374,700</td>
+					<td>8,297</td>
+					<td>56,374,700</td>
+					<td>8,297</td>
+				</tr>
+			
+				<tr>
+					<td>카페의 소녀</td>
+					<td>The Girl In The Cafe</td>
+					<td>2005</td>
+					<td>영국,미국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>러브 액츄얼리</td>
+					<td>Love Actually</td>
+					<td>2003</td>
+					<td>미국,영국</td>
+					<td>멜로/로맨스,드라마,코미디</td>
+					<td>주연-빌리 맥역</td>
+					<td>0</td>
+					<td>1,887,000</td>
+					<td>2,144,629,708</td>
+					<td>307,303</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

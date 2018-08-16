@@ -1,0 +1,99 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '성준'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>악녀</td>
+					<td>The Villainess</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>주연-현수역</td>
+					<td>9,739,662,144</td>
+					<td>1,208,081</td>
+					<td>9,739,662,144</td>
+					<td>1,208,081</td>
+				</tr>
+			
+				<tr>
+					<td>무서운 이야기 2</td>
+					<td>Horror Stories II</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>미스터리,공포(호러)</td>
+					<td>주연</td>
+					<td>3,393,667,500</td>
+					<td>495,522</td>
+					<td>3,393,767,500</td>
+					<td>495,535</td>
+				</tr>
+			
+				<tr>
+					<td>명왕성</td>
+					<td>PLUTO</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마,스릴러</td>
+					<td>주연-유진 테일러역</td>
+					<td>114,536,500</td>
+					<td>16,828</td>
+					<td>114,740,500</td>
+					<td>16,866</td>
+				</tr>
+			
+				<tr>
+					<td>나는 공무원이다</td>
+					<td>Dangerously Excited</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>주연-민기역</td>
+					<td>1,537,947,500</td>
+					<td>217,719</td>
+					<td>1,538,780,500</td>
+					<td>217,866</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

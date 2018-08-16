@@ -1,0 +1,229 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '김여진'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>살아남은 아이</td>
+					<td>Last Child</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-미숙역</td>
+					<td></td>
+					<td></td>
+					<td>2,019,900</td>
+					<td>317</td>
+				</tr>
+			
+				<tr>
+					<td>그리고 싶은 것</td>
+					<td>The Big Picture</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>다큐멘터리</td>
+					<td>주연-그림책 구연 역</td>
+					<td>30,514,800</td>
+					<td>4,859</td>
+					<td>31,315,300</td>
+					<td>5,014</td>
+				</tr>
+			
+				<tr>
+					<td>아이들...</td>
+					<td>Children...</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>범죄,스릴러</td>
+					<td>주연-종호 모역</td>
+					<td>13,579,712,500</td>
+					<td>1,867,849</td>
+					<td>13,579,712,500</td>
+					<td>1,867,849</td>
+				</tr>
+			
+				<tr>
+					<td>집 나온 남자들</td>
+					<td>Looking For My Wife</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>조연-신영신역</td>
+					<td>189,538,028</td>
+					<td>26,319</td>
+					<td>186,095,500</td>
+					<td>25,773</td>
+				</tr>
+			
+				<tr>
+					<td>웨딩드레스</td>
+					<td>Wedding Dress</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-미자역</td>
+					<td>1,014,636,235</td>
+					<td>146,148</td>
+					<td>997,380,500</td>
+					<td>143,458</td>
+				</tr>
+			
+				<tr>
+					<td>채식주의자</td>
+					<td>Vegetarian</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-지혜역</td>
+					<td>25,547,105</td>
+					<td>3,434</td>
+					<td>26,459,000</td>
+					<td>3,536</td>
+				</tr>
+			
+				<tr>
+					<td>내 사랑 내 곁에</td>
+					<td>Closer To Heaven</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-손영찬 박사역</td>
+					<td>15,764,312,409</td>
+					<td>2,160,265</td>
+					<td>15,584,755,500</td>
+					<td>2,135,509</td>
+				</tr>
+			
+				<tr>
+					<td>마이 뉴 파트너</td>
+					<td>My New Partner</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>액션,코미디</td>
+					<td>단역-정규화역</td>
+					<td>1,696,902,333</td>
+					<td>265,323</td>
+					<td>1,699,031,500</td>
+					<td>260,734</td>
+				</tr>
+			
+				<tr>
+					<td>바람난 가족</td>
+					<td>A Good Lawyer&#039;s Wife</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-호정 친구역</td>
+					<td></td>
+					<td>1,748,258</td>
+					<td>222,000</td>
+					<td>31</td>
+				</tr>
+			
+				<tr>
+					<td>4인용 식탁</td>
+					<td>The Uninvited</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>공포(호러),미스터리,스릴러</td>
+					<td>조연-문정숙역</td>
+					<td></td>
+					<td>717,494</td>
+					<td>38,000</td>
+					<td>8</td>
+				</tr>
+			
+				<tr>
+					<td>좋은사람있으면 소개시켜줘</td>
+					<td>A Perfect Match</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마,코미디</td>
+					<td>주연-해인역</td>
+					<td></td>
+					<td>221,105</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>취화선</td>
+					<td>Chihwaseon</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>드라마,사극</td>
+					<td>주연-진홍역</td>
+					<td></td>
+					<td>434,108</td>
+					<td>570,000</td>
+					<td>101</td>
+				</tr>
+			
+				<tr>
+					<td>박하사탕</td>
+					<td>A Peppermint Candy</td>
+					<td>1999</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-양홍자역</td>
+					<td>0</td>
+					<td>290,352</td>
+					<td>83,991,100</td>
+					<td>9,441</td>
+				</tr>
+			
+				<tr>
+					<td>처녀들의 저녁식사</td>
+					<td>Girls&#039; Night Out</td>
+					<td>1998</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-순역</td>
+					<td>0</td>
+					<td>290,502</td>
+					<td>212,000</td>
+					<td>38</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

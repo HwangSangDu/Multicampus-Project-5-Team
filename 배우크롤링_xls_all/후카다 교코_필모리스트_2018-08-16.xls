@@ -1,0 +1,177 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '후카다 교코'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>룸메이트</td>
+					<td>Roommate</td>
+					<td>2013</td>
+					<td>일본</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>3,088,000</td>
+					<td>466</td>
+					<td>3,093,000</td>
+					<td>467</td>
+				</tr>
+			
+				<tr>
+					<td>두부요괴</td>
+					<td>Little Ghostly Adventures Of The Tofu Boy</td>
+					<td>2011</td>
+					<td>일본</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td>12,517,000</td>
+					<td>1,980</td>
+					<td>12,517,000</td>
+					<td>1,980</td>
+				</tr>
+			
+				<tr>
+					<td>와일드 세븐</td>
+					<td>Wild 7</td>
+					<td>2011</td>
+					<td>일본</td>
+					<td>액션,범죄</td>
+					<td>주연-혼마 유키역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>연애희곡</td>
+					<td>LOVE SCENARIO</td>
+					<td>2010</td>
+					<td>일본</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>816,000</td>
+					<td>136</td>
+				</tr>
+			
+				<tr>
+					<td>이겨라 승리호</td>
+					<td>Yatterman</td>
+					<td>2009</td>
+					<td>일본</td>
+					<td>액션,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>0</td>
+					<td>0</td>
+				</tr>
+			
+				<tr>
+					<td>천사</td>
+					<td>Angel</td>
+					<td>2006</td>
+					<td>일본</td>
+					<td>멜로/로맨스,판타지</td>
+					<td>주연-천사역</td>
+					<td></td>
+					<td></td>
+					<td>241,000</td>
+					<td>58</td>
+				</tr>
+			
+				<tr>
+					<td>불량공주 모모코</td>
+					<td>Kamikaze Girls</td>
+					<td>2004</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>20,388</td>
+					<td>120,445,500</td>
+					<td>18,782</td>
+				</tr>
+			
+				<tr>
+					<td>음양사2</td>
+					<td>The Yin-Yang Master</td>
+					<td>2003</td>
+					<td>일본</td>
+					<td>사극</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>10,362</td>
+					<td>201,500</td>
+					<td>31</td>
+				</tr>
+			
+				<tr>
+					<td>스트로베리 온 더 숏케익</td>
+					<td>Strawberry On The Shortcake</td>
+					<td>2001</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>학원괴담</td>
+					<td>School Day Of The Dead</td>
+					<td>2000</td>
+					<td>일본</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

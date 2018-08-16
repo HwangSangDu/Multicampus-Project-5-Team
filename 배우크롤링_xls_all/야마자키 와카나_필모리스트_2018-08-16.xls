@@ -1,0 +1,177 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '야마자키 와카나'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>명탐정 코난 : 제로의 집행인</td>
+					<td>Detective Conan: Zero the Enforcer</td>
+					<td>2018</td>
+					<td>일본</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td></td>
+					<td></td>
+					<td>2,597,580,000</td>
+					<td>343,499</td>
+				</tr>
+			
+				<tr>
+					<td>명탐정 코난 : 화염의 해바라기</td>
+					<td>Detective Conan: Sunflowers of Inferno</td>
+					<td>2015</td>
+					<td>일본</td>
+					<td>애니메이션</td>
+					<td>주연-모리 란 (목소리)역(목소리)</td>
+					<td>3,296,031,400</td>
+					<td>471,205</td>
+					<td>3,296,808,900</td>
+					<td>471,319</td>
+				</tr>
+			
+				<tr>
+					<td>명탐정 코난 : 침묵의 15분</td>
+					<td>Detective Conan: Quarter Of Silence</td>
+					<td>2011</td>
+					<td>일본</td>
+					<td>애니메이션</td>
+					<td>주연-모리 란역(목소리)</td>
+					<td>4,212,918,000</td>
+					<td>644,634</td>
+					<td>4,212,992,000</td>
+					<td>644,652</td>
+				</tr>
+			
+				<tr>
+					<td>명탐정 코난: 천공의 난파선</td>
+					<td>Detective Conan: The Lost Ship In The Sky</td>
+					<td>2010</td>
+					<td>일본</td>
+					<td>애니메이션,가족</td>
+					<td>주연-모리역(목소리)</td>
+					<td>4,065,925,171</td>
+					<td>628,423</td>
+					<td>4,002,088,500</td>
+					<td>618,420</td>
+				</tr>
+			
+				<tr>
+					<td>명탐정 코난 : 칠흑의 추적자</td>
+					<td>Detective Conan: The Raven Chaser</td>
+					<td>2009</td>
+					<td>일본</td>
+					<td>애니메이션,미스터리,범죄</td>
+					<td>주연-모리 란역</td>
+					<td>4,248,881,868</td>
+					<td>661,550</td>
+					<td>4,186,753,500</td>
+					<td>651,978</td>
+				</tr>
+			
+				<tr>
+					<td>명탐정 코난:감벽의 관</td>
+					<td>Detective Conan: Jolly Roger in the Deep Azure</td>
+					<td>2007</td>
+					<td>일본</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td>1,800,327,000</td>
+					<td>242,166</td>
+					<td>1,800,316,000</td>
+					<td>242,164</td>
+				</tr>
+			
+				<tr>
+					<td>명탐정 코난 : 탐정들의 진혼가 </td>
+					<td>DETECTIVE CONAN: THE PRIVATE EYE&#039;S REQUIEM</td>
+					<td>2006</td>
+					<td>일본</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td>1,199,693,100</td>
+					<td>182,668</td>
+					<td>1,199,685,100</td>
+					<td>182,666</td>
+				</tr>
+			
+				<tr>
+					<td>명탐정 코난 : 수평선상의 음모</td>
+					<td>Detective Conan : Strategy Above the Depth</td>
+					<td>2005</td>
+					<td>일본</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td>2,465,133,000</td>
+					<td>389,873</td>
+					<td>2,465,123,000</td>
+					<td>389,871</td>
+				</tr>
+			
+				<tr>
+					<td>명탐정 코난 : 미궁의 십자로</td>
+					<td>Crossroad in the Ancient Capital</td>
+					<td>2003</td>
+					<td>일본</td>
+					<td>애니메이션,미스터리,범죄</td>
+					<td>주연(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>명탐정 코난:베이커가의 망령</td>
+					<td>Detective Conan: The Phantom Of Baker Street</td>
+					<td>2002</td>
+					<td>일본</td>
+					<td>애니메이션</td>
+					<td>주연</td>
+					<td>711,270,500</td>
+					<td>124,139</td>
+					<td>717,454,500</td>
+					<td>123,323</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

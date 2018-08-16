@@ -1,0 +1,138 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '키아라 마스트로얀니'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>나쁜 사랑</td>
+					<td>3 Hearts</td>
+					<td>2014</td>
+					<td>프랑스</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>46,875,500</td>
+					<td>6,107</td>
+					<td>46,875,500</td>
+					<td>6,107</td>
+				</tr>
+			
+				<tr>
+					<td>돌이킬 수 없는</td>
+					<td>Les Salauds</td>
+					<td>2013</td>
+					<td>프랑스,독일</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>1,099,000</td>
+					<td>152</td>
+					<td>2,623,000</td>
+					<td>374</td>
+				</tr>
+			
+				<tr>
+					<td>비러브드</td>
+					<td>Beloved</td>
+					<td>2011</td>
+					<td>프랑스,네덜란드</td>
+					<td>뮤지컬,드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>33,610,800</td>
+					<td>4,558</td>
+					<td>33,874,800</td>
+					<td>4,588</td>
+				</tr>
+			
+				<tr>
+					<td>낙타에겐 더 쉬운 일</td>
+					<td>It&#039;s Easier For A Camel...</td>
+					<td>2003</td>
+					<td>프랑스,이탈리아</td>
+					<td>어드벤처,코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>도살</td>
+					<td>Carnage</td>
+					<td>2002</td>
+					<td>프랑스,벨기에,스페인,스위스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>식스 팩</td>
+					<td>Six-Pack</td>
+					<td>2000</td>
+					<td>프랑스</td>
+					<td>스릴러,범죄</td>
+					<td>주연-마린역</td>
+					<td>0</td>
+					<td>199</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>네가 죽을 것을 잊지마라</td>
+					<td>Don&#039;t Forget You&#039;re Going To Die</td>
+					<td>1995</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

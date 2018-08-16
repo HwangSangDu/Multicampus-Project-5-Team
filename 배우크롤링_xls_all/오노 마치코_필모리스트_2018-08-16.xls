@@ -1,0 +1,151 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '오노 마치코'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>너는 착한 아이</td>
+					<td>Being Good</td>
+					<td>2015</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>35,354,800</td>
+					<td>4,707</td>
+					<td>42,067,300</td>
+					<td>5,702</td>
+				</tr>
+			
+				<tr>
+					<td>렛츠락! 죽어서 하는 밴드</td>
+					<td>Too Young To Die! </td>
+					<td>2015</td>
+					<td>일본</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>터미널</td>
+					<td>Terminal</td>
+					<td>2015</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>신은 발리에 있다</td>
+					<td>Bali Big Brothers</td>
+					<td>2014</td>
+					<td>일본</td>
+					<td>드라마,코미디</td>
+					<td>주연-테루카와 쇼코역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>그렇게 아버지가 된다</td>
+					<td>Like Father, Like Son</td>
+					<td>2013</td>
+					<td>일본</td>
+					<td>드라마,가족</td>
+					<td>주연</td>
+					<td>934,628,662</td>
+					<td>122,797</td>
+					<td>965,476,562</td>
+					<td>126,861</td>
+				</tr>
+			
+				<tr>
+					<td>외사경찰</td>
+					<td>Black Dawn</td>
+					<td>2011</td>
+					<td>일본</td>
+					<td>액션,스릴러,범죄</td>
+					<td>주연</td>
+					<td>15,409,000</td>
+					<td>2,113</td>
+					<td>15,409,000</td>
+					<td>2,113</td>
+				</tr>
+			
+				<tr>
+					<td>후나키를 기다리며</td>
+					<td>Ramblers</td>
+					<td>2003</td>
+					<td>일본</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>깁스 걸</td>
+					<td>Gips </td>
+					<td>2000</td>
+					<td>일본</td>
+					<td>멜로/로맨스,스릴러,드라마</td>
+					<td>주연-카즈코역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

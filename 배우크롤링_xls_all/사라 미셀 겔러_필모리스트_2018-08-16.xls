@@ -1,0 +1,242 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '사라 미셀 겔러'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>베로니카, 죽기로 결심하다</td>
+					<td>Veronika Decides To Die</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-베로니카 역</td>
+					<td>39,189,012</td>
+					<td>5,477</td>
+					<td>38,603,500</td>
+					<td>5,396</td>
+				</tr>
+			
+				<tr>
+					<td>포제션 : 중독된 사랑</td>
+					<td>Possession</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>미스터리,멜로/로맨스,스릴러</td>
+					<td>주연</td>
+					<td>18,125,000</td>
+					<td>3,625</td>
+					<td>18,125,000</td>
+					<td>3,625</td>
+				</tr>
+			
+				<tr>
+					<td>내 남자는 바람둥이</td>
+					<td>Suburban Girl</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스,드라마</td>
+					<td>주연-브렛 에이즌버그역</td>
+					<td>1,383,673</td>
+					<td>180</td>
+					<td>1,363,000</td>
+					<td>177</td>
+				</tr>
+			
+				<tr>
+					<td>엘라의 모험 : 해피엔딩의 위기</td>
+					<td>Ella&#039;S Adventure</td>
+					<td>2007</td>
+					<td>독일,미국</td>
+					<td>애니메이션,코미디,가족</td>
+					<td>주연-엘라역(목소리)</td>
+					<td>1,791,623,000</td>
+					<td>312,640</td>
+					<td>1,789,749,000</td>
+					<td>310,256</td>
+				</tr>
+			
+				<tr>
+					<td>닌자거북이 TMNT</td>
+					<td>Teenage Mutant Ninja Turtles</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>액션,코미디,어드벤처,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>200,016</td>
+					<td>1,168,946,500</td>
+					<td>193,313</td>
+				</tr>
+			
+				<tr>
+					<td>그루지 2</td>
+					<td>The Grudge 2</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>공포(호러)</td>
+					<td>주연-카렌역</td>
+					<td>0</td>
+					<td>168,708</td>
+					<td>781,766,000</td>
+					<td>137,352</td>
+				</tr>
+			
+				<tr>
+					<td>더 리턴</td>
+					<td>The Return </td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>스릴러,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사우스랜드 테일</td>
+					<td>Southland Tales</td>
+					<td>2006</td>
+					<td>미국,독일,프랑스</td>
+					<td>코미디,뮤지컬,SF,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>그루지</td>
+					<td>The Grudge</td>
+					<td>2004</td>
+					<td>일본</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>601,342</td>
+					<td>3,412,668,000</td>
+					<td>553,014</td>
+				</tr>
+			
+				<tr>
+					<td>스쿠비-두2 : 몬스터 대소동</td>
+					<td>Scooby-Doo 2: Monsters Unleashed</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>65,610</td>
+					<td>118,785,500</td>
+					<td>18,954</td>
+				</tr>
+			
+				<tr>
+					<td>스쿠비 두</td>
+					<td>Scooby Doo</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>67,300</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>하바드 맨</td>
+					<td>Harvard Man</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>코미디,범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>러브 이즈 매직</td>
+					<td>Simply Irresistible</td>
+					<td>1999</td>
+					<td>미국,독일</td>
+					<td>코미디,드라마,판타지</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사랑보다 아름다운 유혹 </td>
+					<td>Cruel Intentions</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>멜로/로맨스,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>82,843</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스크림 2 </td>
+					<td>Scream 2</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>공포(호러),미스터리,스릴러,코미디</td>
+					<td>주연-캐시 시시 쿠퍼역</td>
+					<td>0</td>
+					<td>174,385</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

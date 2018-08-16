@@ -1,0 +1,190 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '케빈 소르보'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>미씨카: 더 네크로맨서</td>
+					<td>mythica 3 : necromancer</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>판타지,범죄,액션</td>
+					<td>주연</td>
+					<td>300,000</td>
+					<td>60</td>
+					<td>300,000</td>
+					<td>60</td>
+				</tr>
+			
+				<tr>
+					<td>블랙 라이더</td>
+					<td>The Black Rider: Revelation Road</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>액션,드라마,판타지</td>
+					<td>주연</td>
+					<td>4,000</td>
+					<td>1</td>
+					<td>4,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>신은 죽지 않았다</td>
+					<td>GOD&#039;S NOT DEAD</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>281,738,000</td>
+					<td>38,149</td>
+					<td>283,913,000</td>
+					<td>38,379</td>
+				</tr>
+			
+				<tr>
+					<td>우주전쟁: 지구 최후의 날</td>
+					<td>Survivor</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>액션,SF</td>
+					<td>주연</td>
+					<td>670,000</td>
+					<td>244</td>
+					<td>670,000</td>
+					<td>244</td>
+				</tr>
+			
+				<tr>
+					<td>줄리아 엑스</td>
+					<td>Julia X</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연-낯선 남자역</td>
+					<td>827,000</td>
+					<td>296</td>
+					<td>827,000</td>
+					<td>296</td>
+				</tr>
+			
+				<tr>
+					<td>플래쉬운즈</td>
+					<td>FLESH WOUNDS</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>SF</td>
+					<td>주연-테일러역</td>
+					<td>100,000</td>
+					<td>20</td>
+					<td>100,000</td>
+					<td>20</td>
+				</tr>
+			
+				<tr>
+					<td>스워드 2 </td>
+					<td>Tales of an Ancient Empire</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>액션,어드벤처</td>
+					<td>주연-애단 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>워킹 톨 2 : 페이백</td>
+					<td>Walking Tall 2 </td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>워킹 톨 3</td>
+					<td>Walking Tall : Lone Justice</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>액션,범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>헤라클레스와 제나</td>
+					<td>Hercules And Xena : The Animated Movie : The Battle For Mount Olympus</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>헤레클레스</td>
+					<td>Hercules and the Amazon Women</td>
+					<td>1994</td>
+					<td>미국,뉴질랜드</td>
+					<td>판타지,액션,어드벤처</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

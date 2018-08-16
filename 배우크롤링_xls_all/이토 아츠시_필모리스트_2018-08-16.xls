@@ -1,0 +1,138 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '이토 아츠시'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>네코아츠메의 집</td>
+					<td>NEKO ATSUME HOUSE</td>
+					<td>2017</td>
+					<td>일본</td>
+					<td>드라마,가족</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>불량소녀, 너를 응원해!</td>
+					<td>Flying Colors</td>
+					<td>2015</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연-츠보타 선생님 역역</td>
+					<td>140,509,000</td>
+					<td>17,875</td>
+					<td>140,509,000</td>
+					<td>17,875</td>
+				</tr>
+			
+				<tr>
+					<td>피쉬 스토리</td>
+					<td>Fish Story</td>
+					<td>2009</td>
+					<td>일본</td>
+					<td>코미디,드라마</td>
+					<td>주연-시게키 역</td>
+					<td>18,279,103</td>
+					<td>2,649</td>
+					<td>22,930,000</td>
+					<td>3,280</td>
+				</tr>
+			
+				<tr>
+					<td>환희의 노래</td>
+					<td>Double Trouble</td>
+					<td>2007</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>0</td>
+					<td>0</td>
+				</tr>
+			
+				<tr>
+					<td>지옥갑자원</td>
+					<td>Battlefield Baseball</td>
+					<td>2003</td>
+					<td>일본</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>280</td>
+					<td>1,876,000</td>
+					<td>285</td>
+				</tr>
+			
+				<tr>
+					<td>카쿠토</td>
+					<td>Kakuto</td>
+					<td>2003</td>
+					<td>일본</td>
+					<td>액션,범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>독립 소년 합창단</td>
+					<td>Boy&#039;s Choir</td>
+					<td>1999</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,840 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '제라르 드빠르디유'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>카본</td>
+					<td>Carbone</td>
+					<td>2017</td>
+					<td>프랑스</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>파리 투 마르세유: 2주간의 여행</td>
+					<td>French Tour</td>
+					<td>2016</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>22,814,500</td>
+					<td>3,010</td>
+					<td>22,814,500</td>
+					<td>3,010</td>
+				</tr>
+			
+				<tr>
+					<td>웰컴 투 뉴욕</td>
+					<td>Welcome to New York</td>
+					<td>2014</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연-데보라 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>굿바이 이디엇</td>
+					<td>A Farewell to Fools </td>
+					<td>2013</td>
+					<td>루마니아,독일,벨기에</td>
+					<td>코미디,드라마</td>
+					<td>주연-이푸 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>웃는 남자</td>
+					<td>The Man Who Laughs</td>
+					<td>2012</td>
+					<td>프랑스,체코</td>
+					<td>미스터리,판타지</td>
+					<td>주연-우르수스역</td>
+					<td>405,022,500</td>
+					<td>57,838</td>
+					<td>406,012,500</td>
+					<td>57,948</td>
+				</tr>
+			
+				<tr>
+					<td>맘모스</td>
+					<td>Mammuth</td>
+					<td>2010</td>
+					<td>프랑스</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>198,000</td>
+					<td>25</td>
+				</tr>
+			
+				<tr>
+					<td>현모양처</td>
+					<td>Potiche</td>
+					<td>2010</td>
+					<td>프랑스</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>401,000</td>
+					<td>45</td>
+				</tr>
+			
+				<tr>
+					<td>비기닝</td>
+					<td>In The Beginning</td>
+					<td>2009</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>973,000</td>
+					<td>139</td>
+					<td>1,469,000</td>
+					<td>238</td>
+				</tr>
+			
+				<tr>
+					<td>벨라미</td>
+					<td>Bellamy</td>
+					<td>2009</td>
+					<td>프랑스</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>795,000</td>
+					<td>140</td>
+				</tr>
+			
+				<tr>
+					<td>퍼블릭 에너미 넘버원</td>
+					<td>Mesrine: Part 1 - Killer Instinct, Public Enemy No.1</td>
+					<td>2008</td>
+					<td>프랑스,캐나다,이탈리아</td>
+					<td>액션,범죄,드라마,스릴러</td>
+					<td>주연</td>
+					<td>26,932,000</td>
+					<td>3,410</td>
+					<td>27,526,000</td>
+					<td>3,528</td>
+				</tr>
+			
+				<tr>
+					<td>아스테릭스: 미션 올림픽 게임</td>
+					<td>Asterix At The Olympic Games</td>
+					<td>2008</td>
+					<td>프랑스</td>
+					<td>코미디,어드벤처,가족</td>
+					<td>주연-오벨릭스역</td>
+					<td>136,849,632</td>
+					<td>21,678</td>
+					<td>134,805,000</td>
+					<td>21,355</td>
+				</tr>
+			
+				<tr>
+					<td>사랑도 흥정이 되나요?</td>
+					<td>How Much Do You Love Me</td>
+					<td>2005</td>
+					<td>프랑스,이탈리아</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연-샤를리역</td>
+					<td>0</td>
+					<td>19,434</td>
+					<td>66,053,500</td>
+					<td>10,070</td>
+				</tr>
+			
+				<tr>
+					<td>RRRrrrr!!!</td>
+					<td>RRRrrrr!!!</td>
+					<td>2004</td>
+					<td>프랑스</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>시간은 흘러도</td>
+					<td>Changing Times</td>
+					<td>2004</td>
+					<td>프랑스</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>오르페브르 36번가</td>
+					<td>36 Quai Des Orfevres</td>
+					<td>2004</td>
+					<td>프랑스</td>
+					<td>액션,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>3,160,000</td>
+					<td>633</td>
+				</tr>
+			
+				<tr>
+					<td>셧업</td>
+					<td>Shut-Up</td>
+					<td>2003</td>
+					<td>프랑스</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>25,000</td>
+					<td>120,150,500</td>
+					<td>18,636</td>
+				</tr>
+			
+				<tr>
+					<td>나탈리</td>
+					<td>Nathalie...</td>
+					<td>2003</td>
+					<td>프랑스,스페인</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>죽음의 침묵</td>
+					<td>The Pact Of Silence</td>
+					<td>2003</td>
+					<td>프랑스</td>
+					<td>미스터리,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>즐거운 여행</td>
+					<td>Bon Voyage</td>
+					<td>2003</td>
+					<td>프랑스</td>
+					<td>코미디,드라마,미스터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>크라임 스프리</td>
+					<td>Crime Spree</td>
+					<td>2003</td>
+					<td>프랑스,미국,캐나다,영국</td>
+					<td>액션,코미디,범죄</td>
+					<td>주연-다니엘 포리역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아스테릭스 : 미션 클레오파트라</td>
+					<td>Asterix And Obelix Mission Cleopatre</td>
+					<td>2002</td>
+					<td>프랑스</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>58,611</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>디나</td>
+					<td>I Am Dina</td>
+					<td>2002</td>
+					<td>노르웨이</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>시티 오브 고스트</td>
+					<td>City Of Ghosts</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>범죄,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>비독</td>
+					<td>Vidocq</td>
+					<td>2001</td>
+					<td>프랑스</td>
+					<td>액션,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>103,650</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>불공평한 경쟁</td>
+					<td>Unfair Competition</td>
+					<td>2001</td>
+					<td>이탈리아,프랑스</td>
+					<td>드라마,전쟁</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>플래카드</td>
+					<td>The Closet</td>
+					<td>2001</td>
+					<td>프랑스</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>102 달마시안</td>
+					<td>102 Dalmatians</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>가족,코미디</td>
+					<td>주연-장 피에르 르 펠역</td>
+					<td>0</td>
+					<td>80,243</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>바텔</td>
+					<td>Vatel</td>
+					<td>2000</td>
+					<td>프랑스,영국,벨기에</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>배우들</td>
+					<td>Actors</td>
+					<td>2000</td>
+					<td>프랑스</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>신들의 질투</td>
+					<td>Zavist Bogov</td>
+					<td>2000</td>
+					<td>러시아</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아스테릭스 </td>
+					<td>Asterix And Obelix Vs. Caesar</td>
+					<td>1999</td>
+					<td>프랑스</td>
+					<td>코미디,어드벤처,가족,판타지</td>
+					<td>주연-오벨릭스역</td>
+					<td>0</td>
+					<td>36,446</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>연못 위의 다리</td>
+					<td>Un Pont Entre Deux Rives</td>
+					<td>1999</td>
+					<td>프랑스</td>
+					<td>멜로/로맨스</td>
+					<td>감독,주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>보거스 </td>
+					<td>Bogus</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>가족,드라마,코미디,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>28,512</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>르 가르슈 </td>
+					<td>Le Garcu</td>
+					<td>1995</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>8</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>수호천사 </td>
+					<td>Les Angels Gardiens</td>
+					<td>1995</td>
+					<td>프랑스</td>
+					<td>액션,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>18,444</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>엘리사 </td>
+					<td>Elisa</td>
+					<td>1995</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>19,182</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>기계</td>
+					<td>The Machine</td>
+					<td>1994</td>
+					<td>프랑스,독일</td>
+					<td>공포(호러),SF,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아빠는 나의 영웅 </td>
+					<td>My Father The Hero</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>10,661</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>제르미날 </td>
+					<td>Germinal</td>
+					<td>1993</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>16,148</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사강의 요새</td>
+					<td>Fort Saganne</td>
+					<td>1993</td>
+					<td>프랑스</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,081</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>두 연인</td>
+					<td>Deux</td>
+					<td>1993</td>
+					<td>프랑스</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>26,180</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>강 오른쪽 강 왼쪽</td>
+					<td>Rive Dorite Rive Gauche</td>
+					<td>1993</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>220</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>1492 콜럼버스</td>
+					<td>1492 Columbus</td>
+					<td>1992</td>
+					<td>미국</td>
+					<td>드라마,어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>33,652</td>
+					<td>75,000</td>
+					<td>25</td>
+				</tr>
+			
+				<tr>
+					<td>아버지는 나의 영웅</td>
+					<td>Mon Pere Ce Heros</td>
+					<td>1992</td>
+					<td>프랑스</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>12,721</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>세상의 모든 아침</td>
+					<td>TOUS LES MATINS DU MONDE</td>
+					<td>1991</td>
+					<td>프랑스</td>
+					<td>드라마,뮤지컬,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>43,057</td>
+					<td>2,286,000</td>
+					<td>462</td>
+				</tr>
+			
+				<tr>
+					<td>녹색카드</td>
+					<td>Green Card</td>
+					<td>1990</td>
+					<td>미국</td>
+					<td>코미디,드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>114,229</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>그린카드</td>
+					<td>Green Card</td>
+					<td>1990</td>
+					<td>호주,미국,프랑스</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>마틴 기어의 귀향</td>
+					<td>The Return Of Martin Guerre</td>
+					<td>1989</td>
+					<td>프랑스</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>12,797</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>내겐 너무 이쁜 당신</td>
+					<td>Trop belle pour toi</td>
+					<td>1989</td>
+					<td>프랑스</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>35,896</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>시라노</td>
+					<td>Cyrano De Bergara</td>
+					<td>1989</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>12,275</td>
+					<td>755,500</td>
+					<td>133</td>
+				</tr>
+			
+				<tr>
+					<td>집에 가고 싶어</td>
+					<td>I Want to Go Home</td>
+					<td>1989</td>
+					<td>프랑스</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>594,000</td>
+					<td>117</td>
+				</tr>
+			
+				<tr>
+					<td>까미유 끌로델</td>
+					<td>Camille Claudel</td>
+					<td>1988</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>132,559</td>
+					<td>1,404,000</td>
+					<td>266</td>
+				</tr>
+			
+				<tr>
+					<td>폴리스</td>
+					<td>Police</td>
+					<td>1985</td>
+					<td>프랑스</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>또 아빠래</td>
+					<td>Les Comperes</td>
+					<td>1983</td>
+					<td>프랑스</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>8,201</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>이웃집 여인 </td>
+					<td>La Femme D&#039;A Cote</td>
+					<td>1981</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>173,097</td>
+					<td>1,251,000</td>
+					<td>231</td>
+				</tr>
+			
+				<tr>
+					<td>내 미국 삼촌</td>
+					<td>My American Uncle</td>
+					<td>1980</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>3,075</td>
+					<td>17,086,000</td>
+					<td>2,479</td>
+				</tr>
+			
+				<tr>
+					<td>룰루</td>
+					<td>Loulou</td>
+					<td>1980</td>
+					<td>프랑스</td>
+					<td></td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,070,000</td>
+					<td>144</td>
+				</tr>
+			
+				<tr>
+					<td>마지막 지하철</td>
+					<td>The Last Metro </td>
+					<td>1980</td>
+					<td>프랑스</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연-베르나르역</td>
+					<td></td>
+					<td></td>
+					<td>1,693,000</td>
+					<td>296</td>
+				</tr>
+			
+				<tr>
+					<td>트럭</td>
+					<td>The Truck</td>
+					<td>1977</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>363,000</td>
+					<td>69</td>
+				</tr>
+			
+				<tr>
+					<td>바로코</td>
+					<td>Barocco</td>
+					<td>1976</td>
+					<td>프랑스</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>암흑가의 두 사람</td>
+					<td>Two Men In Town</td>
+					<td>1973</td>
+					<td>프랑스</td>
+					<td>드라마,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>382,289</td>
+					<td>1,028,000</td>
+					<td>264</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

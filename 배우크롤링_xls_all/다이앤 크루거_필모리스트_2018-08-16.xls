@@ -1,0 +1,320 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '다이앤 크루거'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>인필트레이터 : 잠입자들</td>
+					<td>The Infiltrator</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td>58,518,000</td>
+					<td>7,735</td>
+					<td>58,518,000</td>
+					<td>7,735</td>
+				</tr>
+			
+				<tr>
+					<td>매릴랜드</td>
+					<td>Maryland</td>
+					<td>2015</td>
+					<td>프랑스,벨기에</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>133,000</td>
+					<td>35</td>
+					<td>133,000</td>
+					<td>35</td>
+				</tr>
+			
+				<tr>
+					<td>엄마와 나 그리고 나의 커밍아웃</td>
+					<td>Me, Myself and Mum</td>
+					<td>2013</td>
+					<td>프랑스</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>16,085,500</td>
+					<td>2,120</td>
+					<td>16,085,500</td>
+					<td>2,120</td>
+				</tr>
+			
+				<tr>
+					<td>호스트</td>
+					<td>The Host</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>SF,판타지</td>
+					<td>주연</td>
+					<td>299,706,000</td>
+					<td>42,972</td>
+					<td>299,706,000</td>
+					<td>42,972</td>
+				</tr>
+			
+				<tr>
+					<td>페어웰, 마이 퀸</td>
+					<td>Farewell, My Queen</td>
+					<td>2012</td>
+					<td>프랑스,스페인</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>69,625,000</td>
+					<td>9,581</td>
+					<td>70,009,000</td>
+					<td>9,677</td>
+				</tr>
+			
+				<tr>
+					<td>플라이 미 투 더 문</td>
+					<td>Fly me to the Moon</td>
+					<td>2012</td>
+					<td>프랑스</td>
+					<td>코미디,어드벤처,액션,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스페셜 포스</td>
+					<td>Special forces</td>
+					<td>2011</td>
+					<td>프랑스</td>
+					<td>액션,어드벤처,드라마</td>
+					<td>주연-엘사역</td>
+					<td>3,102,000</td>
+					<td>416</td>
+					<td>3,102,000</td>
+					<td>416</td>
+				</tr>
+			
+				<tr>
+					<td>언노운</td>
+					<td>Unknown</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>드라마,스릴러,액션</td>
+					<td>주연</td>
+					<td>3,953,681,000</td>
+					<td>522,794</td>
+					<td>3,953,681,000</td>
+					<td>522,794</td>
+				</tr>
+			
+				<tr>
+					<td>미스터 노바디</td>
+					<td>Mr. Nobody</td>
+					<td>2009</td>
+					<td>캐나다,벨기에,프랑스,독일</td>
+					<td>판타지,멜로/로맨스</td>
+					<td>주연</td>
+					<td>127,022,500</td>
+					<td>16,969</td>
+					<td>127,102,500</td>
+					<td>16,985</td>
+				</tr>
+			
+				<tr>
+					<td>애니씽 포 허</td>
+					<td>Anything For Her</td>
+					<td>2009</td>
+					<td>프랑스</td>
+					<td>범죄,드라마,스릴러</td>
+					<td>주연</td>
+					<td>356,000</td>
+					<td>45</td>
+					<td>356,000</td>
+					<td>45</td>
+				</tr>
+			
+				<tr>
+					<td>바스터즈: 거친 녀석들</td>
+					<td>Inglourious Basterds</td>
+					<td>2009</td>
+					<td>미국,독일</td>
+					<td>액션,드라마,전쟁</td>
+					<td>주연-브리짓 본 하머스마크 역</td>
+					<td>2,547,650,425</td>
+					<td>336,312</td>
+					<td>2,513,029,000</td>
+					<td>331,827</td>
+				</tr>
+			
+				<tr>
+					<td>형님들의 휴가</td>
+					<td>Lascars</td>
+					<td>2009</td>
+					<td>프랑스,독일</td>
+					<td>애니메이션,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>내셔널 트레져:비밀의 책</td>
+					<td>National Treasure: The Book Of Secrets</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>액션,어드벤처</td>
+					<td>주연</td>
+					<td></td>
+					<td>1,756,319</td>
+					<td>11,356,730,500</td>
+					<td>1,745,669</td>
+				</tr>
+			
+				<tr>
+					<td>카핑 베토벤</td>
+					<td>Copying Beethoven</td>
+					<td>2006</td>
+					<td>독일</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>268,154</td>
+					<td>1,756,347,000</td>
+					<td>275,211</td>
+				</tr>
+			
+				<tr>
+					<td>무지의 시대</td>
+					<td>The Age of Ignorance</td>
+					<td>2006</td>
+					<td>캐나다</td>
+					<td>코미디,판타지</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>메리 크리스마스</td>
+					<td>Merry Christmas</td>
+					<td>2005</td>
+					<td>프랑스,독일,영국,벨기에,루마니아,노르웨이</td>
+					<td>드라마,전쟁</td>
+					<td>주연-안나 소렌슨역</td>
+					<td></td>
+					<td>4,652</td>
+					<td>45,380,500</td>
+					<td>7,195</td>
+				</tr>
+			
+				<tr>
+					<td>당신이 사랑하는 동안에</td>
+					<td>Wicker Park</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>161,302</td>
+					<td>942,622,500</td>
+					<td>144,759</td>
+				</tr>
+			
+				<tr>
+					<td>내셔널 트레져</td>
+					<td>National Treasure</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,384,507</td>
+					<td>7,513,779,500</td>
+					<td>1,170,726</td>
+				</tr>
+			
+				<tr>
+					<td>트로이</td>
+					<td>Troy</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>사극</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>3,851,000</td>
+					<td>12,777,421,000</td>
+					<td>2,001,318</td>
+				</tr>
+			
+				<tr>
+					<td>나의 우상</td>
+					<td>Whatever You Say</td>
+					<td>2002</td>
+					<td>프랑스</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>더 타겟</td>
+					<td>The Piano Player</td>
+					<td>2002</td>
+					<td>영국,미국,독일,스페인</td>
+					<td>액션,드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,424 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '레이 리오타'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>프레지던트 테러 라이브</td>
+					<td>Suddenly</td>
+					<td>2015</td>
+					<td>캐나다,미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>7,000</td>
+					<td>1</td>
+					<td>7,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>나를 찾아서</td>
+					<td>The Identical</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>188,000</td>
+					<td>49</td>
+					<td>188,000</td>
+					<td>49</td>
+				</tr>
+			
+				<tr>
+					<td>무법도시</td>
+					<td>Revenge of the Green Dragons</td>
+					<td>2014</td>
+					<td>홍콩,미국</td>
+					<td>범죄,액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>270,000</td>
+					<td>54</td>
+				</tr>
+			
+				<tr>
+					<td>스파이 게임</td>
+					<td>The Devil&#039;s in the Details</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>32,000</td>
+					<td>8</td>
+					<td>32,000</td>
+					<td>8</td>
+				</tr>
+			
+				<tr>
+					<td>히든서스펙트</td>
+					<td>PAWN</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>범죄,스릴러</td>
+					<td>주연</td>
+					<td>11,079,000</td>
+					<td>1,584</td>
+					<td>11,079,000</td>
+					<td>1,584</td>
+				</tr>
+			
+				<tr>
+					<td>킬링 소프틀리</td>
+					<td>Killing Them Softly</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션,스릴러,범죄</td>
+					<td>주연</td>
+					<td>45,341,047</td>
+					<td>6,539</td>
+					<td>45,341,047</td>
+					<td>6,539</td>
+				</tr>
+			
+				<tr>
+					<td>완전범죄: 키드냅</td>
+					<td>The Entitled</td>
+					<td>2011</td>
+					<td>캐나다</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>55,000</td>
+					<td>38</td>
+					<td>55,000</td>
+					<td>38</td>
+				</tr>
+			
+				<tr>
+					<td>디테일스</td>
+					<td>The Details </td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>조연-피터역</td>
+					<td>22,158,500</td>
+					<td>2,909</td>
+					<td>22,158,500</td>
+					<td>2,909</td>
+				</tr>
+			
+				<tr>
+					<td>크레이지 온 더 아웃사이드</td>
+					<td>Crazy on the Outside</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연-그레이 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>크로싱 오버</td>
+					<td>Crossing Over</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>100,000</td>
+					<td>10</td>
+					<td>100,000</td>
+					<td>10</td>
+				</tr>
+			
+				<tr>
+					<td>더 라인</td>
+					<td>The Line</td>
+					<td>2009</td>
+					<td>멕시코,미국</td>
+					<td>액션,범죄,스릴러,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>옵저브 앤 리포트</td>
+					<td>Observe and Report</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>파우더 블루</td>
+					<td>Powder Blue</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>히어로 원티드</td>
+					<td>Hero Wanted</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>액션,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>왕의 이름으로</td>
+					<td>In The Name Of The King: A Dungeon Siege Tale</td>
+					<td>2006</td>
+					<td>독일,캐나다,미국</td>
+					<td>액션,어드벤처,판타지</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>리볼버</td>
+					<td>Revolver</td>
+					<td>2005</td>
+					<td>프랑스,영국</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>슬로우 번</td>
+					<td>Slow Burn</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>컨트롤</td>
+					<td>Control</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>스릴러,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아이덴티티</td>
+					<td>Identity </td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>범죄,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>468,817</td>
+					<td>136,705,000</td>
+					<td>19,873</td>
+				</tr>
+			
+				<tr>
+					<td>나크</td>
+					<td>NARC</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>범죄,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>78,156</td>
+					<td>24,000</td>
+					<td>6</td>
+				</tr>
+			
+				<tr>
+					<td>블로우</td>
+					<td>Blow</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>범죄,드라마</td>
+					<td>조연-플드 정역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>루머 오브 엔젤</td>
+					<td>A Rumor Of Angels</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>포에버 마인</td>
+					<td>Forever Mine</td>
+					<td>1999</td>
+					<td>영국,미국,캐나다</td>
+					<td>스릴러,멜로/로맨스,범죄</td>
+					<td>주연-마크 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>피닉스 2</td>
+					<td>Pilgrim</td>
+					<td>1999</td>
+					<td>캐나다,영국,멕시코</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>피닉스</td>
+					<td>Phoenix</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>5,623</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>터뷸런스</td>
+					<td>Turbulence</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>스릴러,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>97,645</td>
+					<td>132,000</td>
+					<td>44</td>
+				</tr>
+			
+				<tr>
+					<td>덤보 드롭 </td>
+					<td>Opertion Dumbo Drop</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>액션,코미디,어드벤처,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>808</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>코리나 코리나 </td>
+					<td>Corrina Corrina</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>14,814</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>압솔롬 탈출 </td>
+					<td>No Escape-Escape From Absolom</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>SF,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>30,861</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

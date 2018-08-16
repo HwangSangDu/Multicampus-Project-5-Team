@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '성유리'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>미안해 사랑해 고마워</td>
+					<td>Summer Snow</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>359,247,800</td>
+					<td>51,207</td>
+					<td>359,247,800</td>
+					<td>51,207</td>
+				</tr>
+			
+				<tr>
+					<td>제자, 옥한흠</td>
+					<td>THE DISCIPLE JOHN OAK</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>다큐멘터리</td>
+					<td>주연(목소리)</td>
+					<td>366,587,200</td>
+					<td>50,274</td>
+					<td>366,823,200</td>
+					<td>50,392</td>
+				</tr>
+			
+				<tr>
+					<td>초록이와 스토커 아저씨</td>
+					<td>Chorogi</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>누나</td>
+					<td>A Boy&#039;s Sister</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-윤희역</td>
+					<td>14,039,700</td>
+					<td>1,869</td>
+					<td>14,465,700</td>
+					<td>1,940</td>
+				</tr>
+			
+				<tr>
+					<td>차형사</td>
+					<td>Runway Cop</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>코미디,액션</td>
+					<td>주연-고영재역</td>
+					<td>9,752,555,296</td>
+					<td>1,346,754</td>
+					<td>9,752,555,296</td>
+					<td>1,346,754</td>
+				</tr>
+			
+				<tr>
+					<td>토끼와 리저드</td>
+					<td>Maybe</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-메이역</td>
+					<td>59,535,301</td>
+					<td>8,417</td>
+					<td>58,881,500</td>
+					<td>8,323</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

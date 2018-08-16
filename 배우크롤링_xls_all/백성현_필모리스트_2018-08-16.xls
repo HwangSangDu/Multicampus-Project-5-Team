@@ -1,0 +1,138 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '백성현'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>스타박&#039;스 다방</td>
+					<td>Bittersweet Brew</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>주연-박성두역</td>
+					<td>13,220,000</td>
+					<td>1,886</td>
+					<td>13,220,000</td>
+					<td>1,886</td>
+				</tr>
+			
+				<tr>
+					<td>워킹 스트리트</td>
+					<td>Walking Street</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-태성역</td>
+					<td>4,020,100</td>
+					<td>664</td>
+					<td>4,020,100</td>
+					<td>664</td>
+				</tr>
+			
+				<tr>
+					<td>스피드</td>
+					<td>Speed</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>6,667,000</td>
+					<td>776</td>
+					<td>6,667,000</td>
+					<td>776</td>
+				</tr>
+			
+				<tr>
+					<td>차이나 블루</td>
+					<td></td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>3,666,400</td>
+					<td>482</td>
+					<td>3,666,400</td>
+					<td>482</td>
+				</tr>
+			
+				<tr>
+					<td>구르믈 버서난 달처럼</td>
+					<td>Blades of Blood</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>사극,액션</td>
+					<td>주연-견자역</td>
+					<td>10,408,565,262</td>
+					<td>1,407,681</td>
+					<td>10,241,716,500</td>
+					<td>1,383,867</td>
+				</tr>
+			
+				<tr>
+					<td>울학교 이티</td>
+					<td>Our School&#039;s E.T.</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>주연-백정구역</td>
+					<td>4,156,170,833</td>
+					<td>651,439</td>
+					<td>4,159,767,500</td>
+					<td>652,178</td>
+				</tr>
+			
+				<tr>
+					<td>말아톤</td>
+					<td>Marathon</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-윤중원역</td>
+					<td>0</td>
+					<td>5,148,022</td>
+					<td>26,285,057,000</td>
+					<td>4,196,859</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

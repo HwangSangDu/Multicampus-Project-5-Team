@@ -1,0 +1,216 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '김영선'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>해적왕 작스톰</td>
+					<td>Zak Storm</td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>애니메이션</td>
+					<td>주연-카람바 목소리역(목소리)</td>
+					<td></td>
+					<td></td>
+					<td>44,855,800</td>
+					<td>5,741</td>
+				</tr>
+			
+				<tr>
+					<td>극장판 포켓몬스터DP - 디아루가 VS 펄기아 VS 다크라이</td>
+					<td></td>
+					<td>2018</td>
+					<td>일본</td>
+					<td>애니메이션</td>
+					<td>주연-로이 한국어 목소리역(목소리)</td>
+					<td>1,388,620,900</td>
+					<td>182,550</td>
+					<td>1,394,555,400</td>
+					<td>183,421</td>
+				</tr>
+			
+				<tr>
+					<td>마징가 Z: 인피니티</td>
+					<td>MAZINGER Z / INFINITY</td>
+					<td>2018</td>
+					<td>일본</td>
+					<td>애니메이션,SF,액션</td>
+					<td>주연-강쇠돌 한국어 목소리역(목소리)</td>
+					<td>183,107,900</td>
+					<td>22,407</td>
+					<td>183,107,900</td>
+					<td>22,407</td>
+				</tr>
+			
+				<tr>
+					<td>피쉬와 칩스 극장판</td>
+					<td>Fish N Chips The Movie</td>
+					<td>2013</td>
+					<td>호주</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td>81,116,400</td>
+					<td>11,910</td>
+					<td>82,444,400</td>
+					<td>12,146</td>
+				</tr>
+			
+				<tr>
+					<td>가필드 펫 포스 3D</td>
+					<td>Garfield&#039;s Pet Force</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>애니메이션,코미디,가족</td>
+					<td>주연-가필드 / 가주카 목소리역(목소리)</td>
+					<td>385,817,000</td>
+					<td>36,420</td>
+					<td>385,987,000</td>
+					<td>36,454</td>
+				</tr>
+			
+				<tr>
+					<td>오디션</td>
+					<td>Audition</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>애니메이션</td>
+					<td>주연-황보래용 목소리 역(목소리)</td>
+					<td></td>
+					<td></td>
+					<td>8,561,000</td>
+					<td>1,579</td>
+				</tr>
+			
+				<tr>
+					<td>극장판 드래곤볼Z 12 : 부활의 퓨젼!! 오공과 베지터</td>
+					<td></td>
+					<td>1995</td>
+					<td>일본</td>
+					<td>애니메이션,액션</td>
+					<td>주연-손오공 목소리역(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>드래곤볼Z 10th : 위험한 두 사람!! 슈퍼 전사는 잠들지 않는다!</td>
+					<td></td>
+					<td>1995</td>
+					<td>일본</td>
+					<td>애니메이션,액션</td>
+					<td>주연-손오공 목소리역(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>드래곤볼Z 13th : 용권 폭발!! 손오공이 안 하면 누가 하랴!</td>
+					<td></td>
+					<td>1995</td>
+					<td>일본</td>
+					<td>애니메이션,액션</td>
+					<td>주연-손오공 목소리역(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>극장판 드래곤볼Z 11 : 초전사격파! 승리하는건 나다</td>
+					<td></td>
+					<td>1994</td>
+					<td>일본</td>
+					<td>액션,애니메이션,어드벤처</td>
+					<td>주연-손오공 목소리 역 역(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>드래곤볼Z 5th : 상상을 초월한 최강 VS 최강</td>
+					<td></td>
+					<td>1992</td>
+					<td>일본</td>
+					<td>액션,애니메이션</td>
+					<td>주연-손오공 목소리역(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>드래곤볼Z 6th : 격돌!! 100억 파워의 전사들!</td>
+					<td>ドラゴンボールＺ 激突!!100倍パワーの戦士たち</td>
+					<td>1992</td>
+					<td>일본</td>
+					<td>애니메이션,액션</td>
+					<td>주연-손오공 목소리역(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>드래곤볼Z 4th : 손오공은 슈퍼사이어인</td>
+					<td></td>
+					<td>1991</td>
+					<td>일본</td>
+					<td>액션,애니메이션</td>
+					<td>주연-손오공 목소리 역 역(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

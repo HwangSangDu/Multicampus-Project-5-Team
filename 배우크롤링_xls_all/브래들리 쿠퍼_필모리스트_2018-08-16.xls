@@ -1,0 +1,320 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '브래들리 쿠퍼'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>어벤져스: 인피니티 워</td>
+					<td>Avengers: Infinity War</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지,SF</td>
+					<td>주연</td>
+					<td>99,825,741,869</td>
+					<td>11,202,737</td>
+					<td>99,918,419,769</td>
+					<td>11,211,798</td>
+				</tr>
+			
+				<tr>
+					<td>가디언즈 오브 갤럭시 VOL. 2</td>
+					<td>Guardians of the Galaxy VOL. 2</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>액션,SF</td>
+					<td>주연</td>
+					<td>23,452,686,686</td>
+					<td>2,735,721</td>
+					<td>23,452,686,686</td>
+					<td>2,735,721</td>
+				</tr>
+			
+				<tr>
+					<td>조이</td>
+					<td>Joy</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>1,377,567,200</td>
+					<td>172,198</td>
+					<td>1,378,007,200</td>
+					<td>172,253</td>
+				</tr>
+			
+				<tr>
+					<td>더 셰프</td>
+					<td>Burnt</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>1,487,172,148</td>
+					<td>187,122</td>
+					<td>1,487,412,148</td>
+					<td>187,152</td>
+				</tr>
+			
+				<tr>
+					<td>알로하</td>
+					<td>Aloha</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>코미디,드라마,멜로/로맨스</td>
+					<td>주연-브라이언 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>세레나</td>
+					<td>Serena</td>
+					<td>2014</td>
+					<td>미국,프랑스,체코</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>36,339,000</td>
+					<td>4,726</td>
+					<td>36,339,000</td>
+					<td>4,726</td>
+				</tr>
+			
+				<tr>
+					<td>아메리칸 스나이퍼</td>
+					<td>American Sniper</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>2,808,488,438</td>
+					<td>345,759</td>
+					<td>2,808,488,438</td>
+					<td>345,759</td>
+				</tr>
+			
+				<tr>
+					<td>가디언즈 오브 갤럭시</td>
+					<td>Guardians of the Galaxy</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>액션,어드벤처,SF</td>
+					<td>주연</td>
+					<td>11,098,239,184</td>
+					<td>1,311,190</td>
+					<td>11,390,817,684</td>
+					<td>1,344,319</td>
+				</tr>
+			
+				<tr>
+					<td>아메리칸 허슬</td>
+					<td>American Hustle</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>범죄,드라마</td>
+					<td>주연-리치 디마소역</td>
+					<td>1,195,060,400</td>
+					<td>155,374</td>
+					<td>1,196,970,170</td>
+					<td>155,669</td>
+				</tr>
+			
+				<tr>
+					<td>플레이스 비욘드 더 파인즈</td>
+					<td>The Place Beyond the Pines</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>범죄,드라마</td>
+					<td>주연-에이버리 크로스역</td>
+					<td>160,733,500</td>
+					<td>21,694</td>
+					<td>161,422,500</td>
+					<td>21,778</td>
+				</tr>
+			
+				<tr>
+					<td>행오버3</td>
+					<td>The Hangover Part III</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>실버라이닝 플레이북</td>
+					<td>The Silver Linings Playbook</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디,드라마</td>
+					<td>주연-팻 솔리타노역</td>
+					<td>944,699,500</td>
+					<td>126,420</td>
+					<td>956,492,500</td>
+					<td>128,057</td>
+				</tr>
+			
+				<tr>
+					<td>더 스토리: 세상에 숨겨진 사랑</td>
+					<td>The Words</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>드라마,스릴러,멜로/로맨스</td>
+					<td>주연-로리역</td>
+					<td>267,561,500</td>
+					<td>36,849</td>
+					<td>268,881,500</td>
+					<td>37,025</td>
+				</tr>
+			
+				<tr>
+					<td>히트 앤 런</td>
+					<td>Hit &amp; Run</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>리미트리스</td>
+					<td>Limitless</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>미스터리,스릴러,액션</td>
+					<td>주연,기획</td>
+					<td>870,473,000</td>
+					<td>121,538</td>
+					<td>870,473,000</td>
+					<td>121,538</td>
+				</tr>
+			
+				<tr>
+					<td>행오버 2</td>
+					<td>The Hangover Part II</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연-필 역</td>
+					<td>473,137,500</td>
+					<td>60,048</td>
+					<td>473,137,500</td>
+					<td>60,048</td>
+				</tr>
+			
+				<tr>
+					<td>A-특공대</td>
+					<td>The A-Team</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>5,890,424,042</td>
+					<td>791,173</td>
+					<td>5,795,794,000</td>
+					<td>777,985</td>
+				</tr>
+			
+				<tr>
+					<td>발렌타인 데이</td>
+					<td>Valentine&#039;S Day</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>1,337,699,931</td>
+					<td>172,997</td>
+					<td>1,314,085,500</td>
+					<td>169,529</td>
+				</tr>
+			
+				<tr>
+					<td>행오버</td>
+					<td>The Hangover</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>코미디,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>뉴욕 아이 러브 유</td>
+					<td>New York, I Love You</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>코미디,드라마,멜로/로맨스</td>
+					<td>주연-거스 역</td>
+					<td>647,982,325</td>
+					<td>83,600</td>
+					<td>638,301,000</td>
+					<td>82,356</td>
+				</tr>
+			
+				<tr>
+					<td>미드나잇 미트 트레인</td>
+					<td>The Midnight Meat Train</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>공포(호러),범죄,스릴러</td>
+					<td>주연</td>
+					<td>1,965,440,000</td>
+					<td>290,334</td>
+					<td>1,965,662,500</td>
+					<td>290,363</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

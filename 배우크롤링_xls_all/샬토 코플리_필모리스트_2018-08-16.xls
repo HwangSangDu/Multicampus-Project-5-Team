@@ -1,0 +1,164 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '샬토 코플리'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>프리 파이어</td>
+					<td>Free Fire</td>
+					<td>2016</td>
+					<td>프랑스,영국</td>
+					<td>액션,범죄,드라마</td>
+					<td>주연</td>
+					<td>6,497,500</td>
+					<td>842</td>
+					<td>6,497,500</td>
+					<td>842</td>
+				</tr>
+			
+				<tr>
+					<td>하드코어 헨리</td>
+					<td>Hardcore Henry</td>
+					<td>2016</td>
+					<td>미국,러시아</td>
+					<td>액션,어드벤처,SF</td>
+					<td>주연</td>
+					<td>399,211,211</td>
+					<td>46,373</td>
+					<td>399,211,211</td>
+					<td>46,373</td>
+				</tr>
+			
+				<tr>
+					<td>채피</td>
+					<td>Chappie</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>4,620,348,654</td>
+					<td>573,657</td>
+					<td>4,620,380,654</td>
+					<td>573,661</td>
+				</tr>
+			
+				<tr>
+					<td>오픈 그레이브</td>
+					<td>Open Grave</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>공포(호러)</td>
+					<td>주연-존역</td>
+					<td>8,000</td>
+					<td>1</td>
+					<td>8,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>올드보이</td>
+					<td>Oldboy</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>56,281,683</td>
+					<td>7,471</td>
+					<td>60,248,683</td>
+					<td>7,979</td>
+				</tr>
+			
+				<tr>
+					<td>엘리시움</td>
+					<td>Elysium</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>SF,액션</td>
+					<td>주연-크루거역</td>
+					<td>9,017,994,500</td>
+					<td>1,207,732</td>
+					<td>9,017,994,500</td>
+					<td>1,207,732</td>
+				</tr>
+			
+				<tr>
+					<td>유로파 리포트</td>
+					<td>Europa Report</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>SF,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>A-특공대</td>
+					<td>The A-Team</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>5,890,424,042</td>
+					<td>791,173</td>
+					<td>5,795,794,000</td>
+					<td>777,985</td>
+				</tr>
+			
+				<tr>
+					<td>디스트릭트 9</td>
+					<td>District 9</td>
+					<td>2009</td>
+					<td>미국,뉴질랜드</td>
+					<td>SF,액션,스릴러,드라마,코미디</td>
+					<td>주연-비커스 메르바역</td>
+					<td>6,518,492,154</td>
+					<td>853,859</td>
+					<td>6,420,372,500</td>
+					<td>841,125</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

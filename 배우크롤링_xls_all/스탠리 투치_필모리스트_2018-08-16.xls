@@ -1,0 +1,281 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '스탠리 투치'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>미녀와 야수</td>
+					<td>Beauty and the Beast</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>멜로/로맨스,판타지,뮤지컬</td>
+					<td>주연</td>
+					<td>42,132,589,579</td>
+					<td>5,138,193</td>
+					<td>42,133,751,579</td>
+					<td>5,138,328</td>
+				</tr>
+			
+				<tr>
+					<td>칠드런 액트</td>
+					<td>The Children Act</td>
+					<td>2017</td>
+					<td>영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>파이널 포트레이트</td>
+					<td>Final Portrait</td>
+					<td>2017</td>
+					<td>영국</td>
+					<td>드라마</td>
+					<td>감독</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>와일드 카드</td>
+					<td>Wild Card</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>범죄,액션</td>
+					<td>주연</td>
+					<td>23,712,000</td>
+					<td>3,109</td>
+					<td>23,712,000</td>
+					<td>3,109</td>
+				</tr>
+			
+				<tr>
+					<td>트랜스포머: 사라진 시대</td>
+					<td>Transformers : Age of Extinction</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>액션,SF,어드벤처</td>
+					<td>주연</td>
+					<td>44,012,272,845</td>
+					<td>5,295,801</td>
+					<td>44,012,752,845</td>
+					<td>5,295,836</td>
+				</tr>
+			
+				<tr>
+					<td>천재 강아지 미스터 피바디</td>
+					<td>Mr. Peabody &amp; Sherman</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>애니메이션,어드벤처,가족</td>
+					<td>주연(목소리)</td>
+					<td>2,859,791,400</td>
+					<td>385,552</td>
+					<td>2,859,791,400</td>
+					<td>385,552</td>
+				</tr>
+			
+				<tr>
+					<td>어느 창녀의 하루</td>
+					<td>Some Velvet Morning</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>270,000</td>
+					<td>54</td>
+					<td>270,000</td>
+					<td>54</td>
+				</tr>
+			
+				<tr>
+					<td>잭 더 자이언트 킬러</td>
+					<td>JACK THE GIANT SLAYER</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>판타지,드라마,어드벤처</td>
+					<td>주연</td>
+					<td>7,376,481,000</td>
+					<td>956,154</td>
+					<td>7,376,481,000</td>
+					<td>956,154</td>
+				</tr>
+			
+				<tr>
+					<td>제5계급</td>
+					<td>The Fifth Estate</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>조연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>마진 콜: 24시간, 조작된 진실</td>
+					<td>Margin Call </td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>스릴러,드라마</td>
+					<td>주연</td>
+					<td>50,342,500</td>
+					<td>7,019</td>
+					<td>50,779,500</td>
+					<td>7,086</td>
+				</tr>
+			
+				<tr>
+					<td>이지 A</td>
+					<td>Easy A</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>조연-딜 펜더해스트역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사랑은 음악처럼</td>
+					<td>Four Last Songs</td>
+					<td>2007</td>
+					<td>스페인,영국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>432,000</td>
+					<td>69</td>
+					<td>432,000</td>
+					<td>69</td>
+				</tr>
+			
+				<tr>
+					<td>스핀</td>
+					<td>Spin</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>드라마,가족</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>죠 굴드의 비밀</td>
+					<td>Joe Gould&#039;s Secret</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>감독,주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>몬타나</td>
+					<td>Montana</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>액션,코미디,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>알라미스트</td>
+					<td>The Alarmist</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>임포스터</td>
+					<td>The Impostors</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>감독,주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>빅 나이트</td>
+					<td>Big Night</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>감독,주연</td>
+					<td>0</td>
+					<td>775</td>
+					<td>196,000</td>
+					<td>28</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,450 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '정유미'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>염력</td>
+					<td>Psychokinesis</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>조연-홍상무역</td>
+					<td>7,484,684,112</td>
+					<td>990,111</td>
+					<td>7,484,684,112</td>
+					<td>990,111</td>
+				</tr>
+			
+				<tr>
+					<td>더 테이블</td>
+					<td>The Table</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>830,762,100</td>
+					<td>103,054</td>
+					<td>830,973,100</td>
+					<td>103,082</td>
+				</tr>
+			
+				<tr>
+					<td>부산행</td>
+					<td>TRAIN TO BUSAN</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>93,178,283,048</td>
+					<td>11,565,479</td>
+					<td>93,182,579,048</td>
+					<td>11,566,862</td>
+				</tr>
+			
+				<tr>
+					<td>산나물 처녀</td>
+					<td>Ladies of the Forest</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>히말라야</td>
+					<td>The Himalayas</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연</td>
+					<td>60,173,583,015</td>
+					<td>7,759,473</td>
+					<td>60,175,363,015</td>
+					<td>7,759,761</td>
+				</tr>
+			
+				<tr>
+					<td>맨홀</td>
+					<td>Manhole</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td>1,084,557,130</td>
+					<td>133,663</td>
+					<td>1,084,557,130</td>
+					<td>133,663</td>
+				</tr>
+			
+				<tr>
+					<td>우리별 일호와 얼룩소</td>
+					<td>The Satellite Girl and Milk Cow</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>애니메이션,판타지,어드벤처</td>
+					<td>주연(목소리)</td>
+					<td>290,485,500</td>
+					<td>43,888</td>
+					<td>292,344,500</td>
+					<td>44,411</td>
+				</tr>
+			
+				<tr>
+					<td>깡철이</td>
+					<td>Tough As Iron</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>드라마,액션,가족</td>
+					<td>주연-수지역</td>
+					<td>8,572,344,462</td>
+					<td>1,209,363</td>
+					<td>8,572,344,462</td>
+					<td>1,209,363</td>
+				</tr>
+			
+				<tr>
+					<td>우리 선희</td>
+					<td>Our Sunhi</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>530,265,400</td>
+					<td>68,770</td>
+					<td>533,250,900</td>
+					<td>69,122</td>
+				</tr>
+			
+				<tr>
+					<td>다른나라에서</td>
+					<td>In Another Country</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-원주역</td>
+					<td>237,013,700</td>
+					<td>30,590</td>
+					<td>241,291,200</td>
+					<td>31,143</td>
+				</tr>
+			
+				<tr>
+					<td>도가니</td>
+					<td>Silenced</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-서유진역</td>
+					<td>35,566,854,800</td>
+					<td>4,662,822</td>
+					<td>35,567,476,000</td>
+					<td>4,662,926</td>
+				</tr>
+			
+				<tr>
+					<td>겨울의 피아니스트</td>
+					<td>The Winter Pianist</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>426,800</td>
+					<td>258</td>
+				</tr>
+			
+				<tr>
+					<td>리스트</td>
+					<td>List</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-미애역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>조금만 더 가까이</td>
+					<td>Come, Closer</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연-은희역</td>
+					<td>92,621,543</td>
+					<td>12,082</td>
+					<td>91,701,700</td>
+					<td>11,966</td>
+				</tr>
+			
+				<tr>
+					<td>옥희의 영화</td>
+					<td>Oki&#039;s Movie</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-정옥희역</td>
+					<td>285,316,525</td>
+					<td>37,086</td>
+					<td>285,930,900</td>
+					<td>37,122</td>
+				</tr>
+			
+				<tr>
+					<td>내 깡패 같은 애인</td>
+					<td>My Dear Desperado</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>드라마,코미디,멜로/로맨스</td>
+					<td>주연-세진역</td>
+					<td>5,109,441,315</td>
+					<td>699,973</td>
+					<td>5,028,520,000</td>
+					<td>688,639</td>
+				</tr>
+			
+				<tr>
+					<td>카페 느와르</td>
+					<td>Cafe Noir</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-선화역</td>
+					<td>54,925,506</td>
+					<td>7,070</td>
+					<td>58,367,900</td>
+					<td>7,516</td>
+				</tr>
+			
+				<tr>
+					<td>10억</td>
+					<td>A Million</td>
+					<td>2009</td>
+					<td>한국,호주</td>
+					<td>스릴러,어드벤처</td>
+					<td>주연-김지은역</td>
+					<td>3,142,668,973</td>
+					<td>438,833</td>
+					<td>3,107,403,000</td>
+					<td>433,866</td>
+				</tr>
+			
+				<tr>
+					<td>첩첩산중</td>
+					<td>Lost in the Mountains</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>주연-미숙역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>차우</td>
+					<td>Chaw</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>액션,어드벤처,코미디</td>
+					<td>주연-변수련역</td>
+					<td>12,676,951,144</td>
+					<td>1,799,356</td>
+					<td>12,531,840,500</td>
+					<td>1,778,843</td>
+				</tr>
+			
+				<tr>
+					<td>잘 알지도 못하면서</td>
+					<td>Like You Know It All</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>조연-제천 - 상용 처, 유신 역</td>
+					<td>276,548,483</td>
+					<td>39,914</td>
+					<td>277,419,600</td>
+					<td>39,984</td>
+				</tr>
+			
+				<tr>
+					<td>그녀들의 방</td>
+					<td>The Room Nearby</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-구언주역</td>
+					<td>2,007,546</td>
+					<td>304</td>
+					<td>2,810,500</td>
+					<td>424</td>
+				</tr>
+			
+				<tr>
+					<td>오이시맨</td>
+					<td>Oishii Man</td>
+					<td>2008</td>
+					<td>한국,일본</td>
+					<td>드라마</td>
+					<td>주연-재영역</td>
+					<td>57,946,352</td>
+					<td>8,569</td>
+					<td>58,068,000</td>
+					<td>8,611</td>
+				</tr>
+			
+				<tr>
+					<td>연인들</td>
+					<td>Lovers</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>12,149,584</td>
+					<td>1,855</td>
+					<td>12,383,600</td>
+					<td>1,960</td>
+				</tr>
+			
+				<tr>
+					<td>좋지 아니한가</td>
+					<td>Skeletons In The Closet</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>조연-하은역</td>
+					<td>0</td>
+					<td>321,654</td>
+					<td>1,849,140,000</td>
+					<td>306,470</td>
+				</tr>
+			
+				<tr>
+					<td>가족의 탄생</td>
+					<td>Family Ties</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-채현역</td>
+					<td>0</td>
+					<td>221,925</td>
+					<td>1,225,585,500</td>
+					<td>201,227</td>
+				</tr>
+			
+				<tr>
+					<td>9시 5분</td>
+					<td>09:05</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사랑니</td>
+					<td>Blossom Again</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>조연-조인영(17세)역</td>
+					<td>0</td>
+					<td>165,538</td>
+					<td>868,902,000</td>
+					<td>135,702</td>
+				</tr>
+			
+				<tr>
+					<td>달콤한 인생</td>
+					<td>A Bittersweet Life</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>조연-미애역</td>
+					<td>0</td>
+					<td>1,271,595</td>
+					<td>7,235,539,100</td>
+					<td>1,112,950</td>
+				</tr>
+			
+				<tr>
+					<td>폴라로이드 작동법</td>
+					<td>How to Operate a Polaroid Camera</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>450,000</td>
+					<td>90</td>
+				</tr>
+			
+				<tr>
+					<td>사이에 두고</td>
+					<td>In Between</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '마고 로비'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>아이, 토냐</td>
+					<td>I, Tonya </td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>114,741,400</td>
+					<td>14,002</td>
+					<td>114,741,400</td>
+					<td>14,002</td>
+				</tr>
+			
+				<tr>
+					<td>위스키 탱고 폭스트롯</td>
+					<td>Whiskey Tango Foxtrot</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>전쟁,드라마,코미디</td>
+					<td>주연</td>
+					<td>35,228,370</td>
+					<td>4,682</td>
+					<td>35,228,370</td>
+					<td>4,682</td>
+				</tr>
+			
+				<tr>
+					<td>수어사이드 스쿼드</td>
+					<td>Suicide Squad</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>15,873,106,188</td>
+					<td>1,898,121</td>
+					<td>15,874,111,188</td>
+					<td>1,898,220</td>
+				</tr>
+			
+				<tr>
+					<td>레전드 오브 타잔</td>
+					<td>The Legend of Tarzan</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,어드벤처</td>
+					<td>주연</td>
+					<td>7,196,970,717</td>
+					<td>858,402</td>
+					<td>7,196,970,717</td>
+					<td>858,402</td>
+				</tr>
+			
+				<tr>
+					<td>최후의 Z</td>
+					<td>Z for Zachariah</td>
+					<td>2015</td>
+					<td>아이슬란드,미국</td>
+					<td>드라마,SF,스릴러</td>
+					<td>주연</td>
+					<td>19,439,500</td>
+					<td>3,449</td>
+					<td>19,439,500</td>
+					<td>3,449</td>
+				</tr>
+			
+				<tr>
+					<td>포커스</td>
+					<td>Focus</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>코미디,범죄,멜로/로맨스</td>
+					<td>주연</td>
+					<td>702,878,700</td>
+					<td>91,164</td>
+					<td>702,878,700</td>
+					<td>91,164</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,242 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '셜리 맥클레인'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>내가 죽기 전에 가장 듣고 싶은 말</td>
+					<td>The Last Word</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>332,742,600</td>
+					<td>45,347</td>
+					<td>332,742,600</td>
+					<td>45,347</td>
+				</tr>
+			
+				<tr>
+					<td>엘사 앤 프레드</td>
+					<td>Elsa &amp; Fred </td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>1,932,000</td>
+					<td>644</td>
+					<td>1,932,000</td>
+					<td>644</td>
+				</tr>
+			
+				<tr>
+					<td>타미</td>
+					<td>Tammy</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>월터의 상상은 현실이 된다</td>
+					<td>The Secret Life of Walter Mitty</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>어드벤처,코미디,드라마</td>
+					<td>주연</td>
+					<td>6,877,576,799</td>
+					<td>941,672</td>
+					<td>6,995,634,499</td>
+					<td>956,196</td>
+				</tr>
+			
+				<tr>
+					<td>버니</td>
+					<td>Bernie</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>코미디,범죄,드라마</td>
+					<td>주연</td>
+					<td>50,632,000</td>
+					<td>7,443</td>
+					<td>52,266,300</td>
+					<td>7,663</td>
+				</tr>
+			
+				<tr>
+					<td>발렌타인 데이</td>
+					<td>Valentine&#039;S Day</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>1,337,699,931</td>
+					<td>172,997</td>
+					<td>1,314,085,500</td>
+					<td>169,529</td>
+				</tr>
+			
+				<tr>
+					<td>드레스 소동</td>
+					<td>Bruno</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>감독,주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>퍼스트 레이디 특수경호대 </td>
+					<td>Guarding Tess</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>11,286</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>계절의 변화</td>
+					<td>A Change Of Seasons</td>
+					<td>1980</td>
+					<td>미국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>챈스</td>
+					<td>Being There</td>
+					<td>1979</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,011,000</td>
+					<td>201</td>
+				</tr>
+			
+				<tr>
+					<td>노란 롤스로이스</td>
+					<td>The Yellow Rolls-Royce</td>
+					<td>1964</td>
+					<td>영국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연-마에 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>당신에게 오늘 밤을</td>
+					<td>Irma La Douce</td>
+					<td>1963</td>
+					<td>미국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>85,546</td>
+					<td>1,674,000</td>
+					<td>334</td>
+				</tr>
+			
+				<tr>
+					<td>아이들의 시간</td>
+					<td>The Children&#039;s Hour</td>
+					<td>1961</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>4,054,000</td>
+					<td>1,948</td>
+				</tr>
+			
+				<tr>
+					<td>아파트 열쇠를 빌려드립니다</td>
+					<td>The Apartment</td>
+					<td>1960</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디,드라마</td>
+					<td>주연-프랜 쿠벨릭역</td>
+					<td></td>
+					<td></td>
+					<td>1,170,000</td>
+					<td>592</td>
+				</tr>
+			
+				<tr>
+					<td>화가와 모델</td>
+					<td>Artists and Models</td>
+					<td>1955</td>
+					<td>미국</td>
+					<td>코미디,뮤지컬</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,190 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '아사다 마유'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>서른살의 욕정-처음 아니야</td>
+					<td>Youth of a certain female office worker</td>
+					<td>2014</td>
+					<td>일본</td>
+					<td>성인물(에로)</td>
+					<td>주연</td>
+					<td>8,000</td>
+					<td>1</td>
+					<td>8,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>절대복종-가녀린 몸매</td>
+					<td>Breeding</td>
+					<td>2014</td>
+					<td>일본</td>
+					<td>성인물(에로)</td>
+					<td>주연</td>
+					<td>8,000</td>
+					<td>1</td>
+					<td>8,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>노예로 삼아줘 - 첫사랑</td>
+					<td>Make me a slave; and a longed-for person</td>
+					<td>2013</td>
+					<td>일본</td>
+					<td>성인물(에로)</td>
+					<td>주연</td>
+					<td>5,000</td>
+					<td>1</td>
+					<td>5,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>스튜어디스 아내의 이중생활</td>
+					<td>Wife&#039;s Double Life - A Fake Flight</td>
+					<td>2010</td>
+					<td>일본</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>9,000</td>
+					<td>1</td>
+					<td>9,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>알바생과의 불륜</td>
+					<td>THE WIFE OF CLEANER LONGING WITH A YOUNG MAN</td>
+					<td>2009</td>
+					<td>일본</td>
+					<td>성인물(에로)</td>
+					<td>주연</td>
+					<td>30,000</td>
+					<td>10</td>
+					<td>30,000</td>
+					<td>10</td>
+				</tr>
+			
+				<tr>
+					<td>그녀의 흔적</td>
+					<td>Minzetsu Hodobasiru Aiyoku</td>
+					<td>2006</td>
+					<td>일본</td>
+					<td>성인물(에로)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>20,000</td>
+					<td>4</td>
+				</tr>
+			
+				<tr>
+					<td>자매의밀회</td>
+					<td>Simaino Mittge</td>
+					<td>2006</td>
+					<td>일본</td>
+					<td>성인물(에로)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>10,000</td>
+					<td>2</td>
+				</tr>
+			
+				<tr>
+					<td>젊은유부녀피아노교사</td>
+					<td>Ren ai Pianokyoushi</td>
+					<td>2001</td>
+					<td>일본</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연-요코역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>치한전차</td>
+					<td>The Groper Train - Touch And Surprise</td>
+					<td>2001</td>
+					<td>일본</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>섹스테라피: 마성의 본능</td>
+					<td>Sexapist diabolical instinct</td>
+					<td>2000</td>
+					<td>일본</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>문라이트 섹스레슨</td>
+					<td>Moonlight Serenade</td>
+					<td></td>
+					<td>일본</td>
+					<td>성인물(에로)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

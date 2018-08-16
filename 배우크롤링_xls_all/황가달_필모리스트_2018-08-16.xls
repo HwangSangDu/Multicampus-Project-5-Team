@@ -1,0 +1,164 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '황가달'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>신권비객</td>
+					<td>Fighter With Miraculous Martial Arts</td>
+					<td>1979</td>
+					<td>한국</td>
+					<td>드라마,액션</td>
+					<td>주연</td>
+					<td></td>
+					<td>10,550</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사호무협</td>
+					<td>Sa-Ho Martial Arts</td>
+					<td>1979</td>
+					<td>한국</td>
+					<td>공포(호러),액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>소림관문돌파</td>
+					<td>Overcoming The Barriers Of Shaolin</td>
+					<td>1978</td>
+					<td>한국,홍콩</td>
+					<td>드라마,사극,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>67,892</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>소림천하</td>
+					<td>Shaolin World</td>
+					<td>1978</td>
+					<td>한국,홍콩</td>
+					<td>드라마,사극,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>46,104</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>달마 혈리표</td>
+					<td>Shaolim Kung Fu</td>
+					<td>1978</td>
+					<td>중국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>193,375</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>천하무적</td>
+					<td>Invincible</td>
+					<td>1978</td>
+					<td>한국,중국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>소림사 18동인 2</td>
+					<td>The Return of the 18 Bronzemen</td>
+					<td>1976</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>20,000</td>
+					<td>4</td>
+					<td>20,000</td>
+					<td>4</td>
+				</tr>
+			
+				<tr>
+					<td>소림사 18동인</td>
+					<td>18 Bronzemen</td>
+					<td>1976</td>
+					<td>홍콩</td>
+					<td>사극,액션</td>
+					<td>주연</td>
+					<td></td>
+					<td>312,316</td>
+					<td>40,000</td>
+					<td>10</td>
+				</tr>
+			
+				<tr>
+					<td>황비</td>
+					<td>The Skyhawk</td>
+					<td>1974</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td>19,913</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

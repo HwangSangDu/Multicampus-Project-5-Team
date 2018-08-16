@@ -1,0 +1,151 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '안젤라 베이비'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>봉신연의: 영웅의 귀환</td>
+					<td>League of Gods</td>
+					<td>2015</td>
+					<td>홍콩</td>
+					<td>판타지,액션</td>
+					<td>주연</td>
+					<td>48,190,000</td>
+					<td>6,343</td>
+					<td>48,422,500</td>
+					<td>6,380</td>
+				</tr>
+			
+				<tr>
+					<td>심용결: 잃어버린 전설</td>
+					<td>Mojin: The Lost Legend</td>
+					<td>2015</td>
+					<td>중국</td>
+					<td>액션,공포(호러),스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>0</td>
+					<td>0</td>
+				</tr>
+			
+				<tr>
+					<td>라이즈 오브 더 레전드: 황비홍</td>
+					<td>Rise Of The Legend</td>
+					<td>2014</td>
+					<td>홍콩,중국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>41,368,000</td>
+					<td>5,228</td>
+					<td>41,368,000</td>
+					<td>5,228</td>
+				</tr>
+			
+				<tr>
+					<td>계약연애</td>
+					<td>Together</td>
+					<td>2013</td>
+					<td>중국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>144,000</td>
+					<td>41</td>
+					<td>144,000</td>
+					<td>41</td>
+				</tr>
+			
+				<tr>
+					<td>적인걸2 : 신도해왕의 비밀</td>
+					<td>Young Detective Dee : Rise of the sea dragon</td>
+					<td>2013</td>
+					<td>중국</td>
+					<td>미스터리,액션</td>
+					<td>주연-루이지역</td>
+					<td>329,905,000</td>
+					<td>47,060</td>
+					<td>330,553,000</td>
+					<td>47,179</td>
+				</tr>
+			
+				<tr>
+					<td>블랙 앤 화이트</td>
+					<td>Black &amp; White</td>
+					<td>2012</td>
+					<td>대만</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>270,000</td>
+					<td>54</td>
+					<td>1,170,000</td>
+					<td>154</td>
+				</tr>
+			
+				<tr>
+					<td>타이치2 히어로</td>
+					<td>TAICHI HERO</td>
+					<td>2012</td>
+					<td>중국</td>
+					<td>액션,어드벤처</td>
+					<td>주연</td>
+					<td>7,738,000</td>
+					<td>1,635</td>
+					<td>7,738,000</td>
+					<td>1,635</td>
+				</tr>
+			
+				<tr>
+					<td>타이치0 3D</td>
+					<td>Taichi Zero</td>
+					<td>2012</td>
+					<td>홍콩</td>
+					<td>코미디,액션</td>
+					<td>주연-진옥랑역</td>
+					<td>119,998,000</td>
+					<td>17,437</td>
+					<td>120,385,000</td>
+					<td>17,480</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

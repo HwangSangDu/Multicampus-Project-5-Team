@@ -1,0 +1,229 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '유아인'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>버닝</td>
+					<td>BURNING</td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>미스터리</td>
+					<td>주연</td>
+					<td>4,712,859,598</td>
+					<td>527,981</td>
+					<td>4,714,345,098</td>
+					<td>528,153</td>
+				</tr>
+			
+				<tr>
+					<td>국가부도의 날</td>
+					<td></td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>좋아해줘</td>
+					<td>Like for Likes </td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>6,572,774,337</td>
+					<td>848,148</td>
+					<td>6,572,774,337</td>
+					<td>848,148</td>
+				</tr>
+			
+				<tr>
+					<td>사도</td>
+					<td>The Throne</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>사극</td>
+					<td>주연</td>
+					<td>48,842,902,501</td>
+					<td>6,246,849</td>
+					<td>48,846,045,501</td>
+					<td>6,247,651</td>
+				</tr>
+			
+				<tr>
+					<td>베테랑</td>
+					<td>Veteran</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>액션,드라마</td>
+					<td>주연-조태오역</td>
+					<td>105,168,155,250</td>
+					<td>13,414,009</td>
+					<td>105,169,264,250</td>
+					<td>13,414,200</td>
+				</tr>
+			
+				<tr>
+					<td>우아한 거짓말</td>
+					<td>Thread of Lies</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>11,727,360,300</td>
+					<td>1,618,988</td>
+					<td>11,731,099,300</td>
+					<td>1,619,651</td>
+				</tr>
+			
+				<tr>
+					<td>우리별 일호와 얼룩소</td>
+					<td>The Satellite Girl and Milk Cow</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>애니메이션,판타지,어드벤처</td>
+					<td>주연(목소리)</td>
+					<td>290,485,500</td>
+					<td>43,888</td>
+					<td>292,344,500</td>
+					<td>44,411</td>
+				</tr>
+			
+				<tr>
+					<td>깡철이</td>
+					<td>Tough As Iron</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>드라마,액션,가족</td>
+					<td>주연-강철역</td>
+					<td>8,572,344,462</td>
+					<td>1,209,363</td>
+					<td>8,572,344,462</td>
+					<td>1,209,363</td>
+				</tr>
+			
+				<tr>
+					<td>완득이</td>
+					<td>Punch</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>38,530,503,500</td>
+					<td>5,310,510</td>
+					<td>38,533,831,000</td>
+					<td>5,311,353</td>
+				</tr>
+			
+				<tr>
+					<td>씨네 21 영화토크쇼</td>
+					<td>Cine21 Talk Show</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>기타</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>2,264,000</td>
+					<td>566</td>
+				</tr>
+			
+				<tr>
+					<td>하늘과 바다</td>
+					<td>Sky and Sea</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-진구역</td>
+					<td>121,651,444</td>
+					<td>18,059</td>
+					<td>120,315,500</td>
+					<td>17,857</td>
+				</tr>
+			
+				<tr>
+					<td>서양 골동 양과자점 앤티크</td>
+					<td>Antique</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>7,367,880,833</td>
+					<td>1,173,310</td>
+					<td>7,420,479,500</td>
+					<td>1,181,332</td>
+				</tr>
+			
+				<tr>
+					<td>좋지 아니한가</td>
+					<td>Skeletons In The Closet</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>주연-아들 심용태역</td>
+					<td>0</td>
+					<td>321,654</td>
+					<td>1,849,140,000</td>
+					<td>306,470</td>
+				</tr>
+			
+				<tr>
+					<td>우리에게 내일은 없다</td>
+					<td>Boys Of Tomorrow</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>3,500</td>
+					<td>22,063,500</td>
+					<td>3,329</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

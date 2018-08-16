@@ -1,0 +1,307 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '에밀 허쉬'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>언더 파이어</td>
+					<td>The Chinese Widow</td>
+					<td>2017</td>
+					<td>중국</td>
+					<td>멜로/로맨스,전쟁</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>제인 도</td>
+					<td>Autopsy of Jane Doe</td>
+					<td>2016</td>
+					<td>영국,미국</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td>183,431,765</td>
+					<td>23,467</td>
+					<td>183,443,765</td>
+					<td>23,469</td>
+				</tr>
+			
+				<tr>
+					<td>저스트 짐</td>
+					<td>Just Jim</td>
+					<td>2015</td>
+					<td>영국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>276,000</td>
+					<td>57</td>
+					<td>276,000</td>
+					<td>57</td>
+				</tr>
+			
+				<tr>
+					<td>론 서바이버 </td>
+					<td>Lone Survivor</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>액션,드라마,스릴러</td>
+					<td>주연</td>
+					<td>1,433,147,820</td>
+					<td>190,611</td>
+					<td>1,433,147,820</td>
+					<td>190,611</td>
+				</tr>
+			
+				<tr>
+					<td>보니와 클라이드</td>
+					<td>Bonnie and Clyde</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>모텔 라이프</td>
+					<td>The Motel Life</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>드라마,미스터리,스릴러</td>
+					<td>주연</td>
+					<td>270,000</td>
+					<td>54</td>
+					<td>270,000</td>
+					<td>54</td>
+				</tr>
+			
+				<tr>
+					<td>투와이스 본</td>
+					<td>Twice Born</td>
+					<td>2012</td>
+					<td>이탈리아</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>28,249,700</td>
+					<td>3,753</td>
+					<td>28,249,700</td>
+					<td>3,753</td>
+				</tr>
+			
+				<tr>
+					<td>킬러 조</td>
+					<td>Killer Joe</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>범죄,스릴러</td>
+					<td>주연</td>
+					<td>1,589,200</td>
+					<td>204</td>
+					<td>1,589,200</td>
+					<td>204</td>
+				</tr>
+			
+				<tr>
+					<td>다크아워</td>
+					<td>The Darkest Hour</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>SF,액션</td>
+					<td>주연</td>
+					<td>1,319,649,000</td>
+					<td>162,604</td>
+					<td>1,321,149,000</td>
+					<td>162,704</td>
+				</tr>
+			
+				<tr>
+					<td>테이킹 우드스탁</td>
+					<td>Taking Woodstock</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연-빌리 역</td>
+					<td>104,188,298</td>
+					<td>13,809</td>
+					<td>103,530,500</td>
+					<td>13,721</td>
+				</tr>
+			
+				<tr>
+					<td>밀크</td>
+					<td>Milk</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>97,068,007</td>
+					<td>13,372</td>
+					<td>96,102,000</td>
+					<td>13,250</td>
+				</tr>
+			
+				<tr>
+					<td>인투 더 와일드</td>
+					<td>Into the Wild</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>어드벤처,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,242,000</td>
+					<td>188</td>
+				</tr>
+			
+				<tr>
+					<td>알파독</td>
+					<td>Alpha Dog</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>드라마,범죄</td>
+					<td>주연</td>
+					<td>648,950,794</td>
+					<td>99,692</td>
+					<td>655,519,000</td>
+					<td>100,602</td>
+				</tr>
+			
+				<tr>
+					<td>독타운의 제왕들</td>
+					<td>Lords of Dogtown</td>
+					<td>2005</td>
+					<td>미국,독일</td>
+					<td>드라마,액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>가공의 영웅</td>
+					<td>Imaginary Heroes</td>
+					<td>2004</td>
+					<td>미국,독일,벨기에</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>내겐 너무 아찔한 그녀</td>
+					<td>The Girl Next Door</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연-매튜역</td>
+					<td></td>
+					<td></td>
+					<td>38,127,500</td>
+					<td>5,522</td>
+				</tr>
+			
+				<tr>
+					<td>머지 보이</td>
+					<td>The Mudge Boy</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>엠퍼러스 클럽</td>
+					<td>The Emperor&#039;s Club</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>24,398</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>복사의 위험한 삶</td>
+					<td>The Dangerous Lives Of Altar Boys</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>가간투아</td>
+					<td>Gargantua</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>공포(호러),SF,액션</td>
+					<td>조연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

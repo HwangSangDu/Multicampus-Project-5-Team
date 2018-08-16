@@ -1,0 +1,307 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '안톤 옐친'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>포르토</td>
+					<td>Porto</td>
+					<td>2016</td>
+					<td>프랑스,폴란드,포르투갈,미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>35,544,800</td>
+					<td>4,732</td>
+					<td>35,579,800</td>
+					<td>4,736</td>
+				</tr>
+			
+				<tr>
+					<td>스타트렉 비욘드</td>
+					<td>Star Trek Beyond</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,SF</td>
+					<td>주연</td>
+					<td>10,193,232,820</td>
+					<td>1,157,472</td>
+					<td>10,193,232,820</td>
+					<td>1,157,472</td>
+				</tr>
+			
+				<tr>
+					<td>밀그램 프로젝트</td>
+					<td>Experimenter</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>422,400</td>
+					<td>68</td>
+					<td>422,400</td>
+					<td>68</td>
+				</tr>
+			
+				<tr>
+					<td>그린 룸</td>
+					<td>Green Room</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>5 투 7</td>
+					<td>5 to 7</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td>37,072,200</td>
+					<td>4,921</td>
+					<td>37,072,200</td>
+					<td>4,921</td>
+				</tr>
+			
+				<tr>
+					<td>범죄의 제국</td>
+					<td>Cymbeline</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>6,489,000</td>
+					<td>1,297</td>
+					<td>6,489,000</td>
+					<td>1,297</td>
+				</tr>
+			
+				<tr>
+					<td>러덜리스</td>
+					<td>Rudderless</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>613,113,720</td>
+					<td>77,867</td>
+					<td>615,574,220</td>
+					<td>78,193</td>
+				</tr>
+			
+				<tr>
+					<td>다잉 오브 라이트</td>
+					<td>Dying of the Light</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>오드토머스</td>
+					<td>ODD THOMAS </td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>액션,스릴러,SF,미스터리</td>
+					<td>주연-오드 토머스역</td>
+					<td>123,233,800</td>
+					<td>16,555</td>
+					<td>123,233,800</td>
+					<td>16,555</td>
+				</tr>
+			
+				<tr>
+					<td>오직 사랑하는 이들만이 살아남는다</td>
+					<td>Only Lovers Left Alive</td>
+					<td>2013</td>
+					<td>영국,독일,미국,프랑스</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>조연</td>
+					<td>255,170,443</td>
+					<td>33,818</td>
+					<td>266,879,843</td>
+					<td>35,363</td>
+				</tr>
+			
+				<tr>
+					<td>스타트렉 다크니스</td>
+					<td>Star Trek Into Darkness</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>액션,SF,어드벤처</td>
+					<td>주연</td>
+					<td>12,964,828,000</td>
+					<td>1,605,271</td>
+					<td>12,986,689,500</td>
+					<td>1,607,555</td>
+				</tr>
+			
+				<tr>
+					<td>라이크 크레이지</td>
+					<td>Like Crazy</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-제이콥 역역</td>
+					<td>81,549,980</td>
+					<td>10,850</td>
+					<td>81,549,980</td>
+					<td>10,850</td>
+				</tr>
+			
+				<tr>
+					<td>비버</td>
+					<td>The Beaver</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>37,194,500</td>
+					<td>5,194</td>
+					<td>38,844,500</td>
+					<td>5,512</td>
+				</tr>
+			
+				<tr>
+					<td>프라이트 나이트</td>
+					<td>Fright Night</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연-찰리 브루스터 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>터미네이터 : 미래전쟁의 시작</td>
+					<td>Terminator Salvation: The Future Begins</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>SF,액션</td>
+					<td>주연-카일 리스역</td>
+					<td>30,146,162,133</td>
+					<td>4,568,891</td>
+					<td>29,690,943,500</td>
+					<td>4,499,776</td>
+				</tr>
+			
+				<tr>
+					<td>찰리 바틀렛</td>
+					<td>Charlie Bartlett</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>48,239,000</td>
+					<td>7,115</td>
+					<td>48,239,000</td>
+					<td>7,115</td>
+				</tr>
+			
+				<tr>
+					<td>알파독</td>
+					<td>Alpha Dog</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>드라마,범죄</td>
+					<td>주연</td>
+					<td>648,950,794</td>
+					<td>99,692</td>
+					<td>655,519,000</td>
+					<td>100,602</td>
+				</tr>
+			
+				<tr>
+					<td>피어스 피플</td>
+					<td>Fierce People</td>
+					<td>2005</td>
+					<td>미국,캐나다</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>하우스 오브 디</td>
+					<td>House Of D</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>1,163,000</td>
+					<td>180</td>
+					<td>1,163,000</td>
+					<td>180</td>
+				</tr>
+			
+				<tr>
+					<td>딜리버링 마일로</td>
+					<td>Delivering Milo</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연-마일로역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

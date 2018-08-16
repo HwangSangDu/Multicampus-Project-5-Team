@@ -1,0 +1,112 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '올리비아 문'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>더 프레데터</td>
+					<td>The Predator</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>SF,액션,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>엑스맨: 아포칼립스</td>
+					<td>X-Men: Apocalypse</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지,SF</td>
+					<td>주연</td>
+					<td>24,467,887,950</td>
+					<td>2,938,818</td>
+					<td>24,467,887,950</td>
+					<td>2,938,818</td>
+				</tr>
+			
+				<tr>
+					<td>인보카머스</td>
+					<td>Deliver Us From Evil</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td>571,543,200</td>
+					<td>69,786</td>
+					<td>571,543,200</td>
+					<td>69,786</td>
+				</tr>
+			
+				<tr>
+					<td>베이비 메이커스</td>
+					<td>The Babymakers</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>어드벤처,코미디</td>
+					<td>주연-주연역</td>
+					<td>1,292,000</td>
+					<td>160</td>
+					<td>1,292,000</td>
+					<td>160</td>
+				</tr>
+			
+				<tr>
+					<td>매직 마이크</td>
+					<td>Magic Mike</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>204,442,500</td>
+					<td>27,339</td>
+					<td>204,625,500</td>
+					<td>27,362</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

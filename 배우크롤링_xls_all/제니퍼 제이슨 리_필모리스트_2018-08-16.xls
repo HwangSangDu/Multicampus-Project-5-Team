@@ -1,0 +1,320 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '제니퍼 제이슨 리'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>굿타임</td>
+					<td>Good Time</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td>24,985,500</td>
+					<td>3,246</td>
+					<td>24,985,500</td>
+					<td>3,246</td>
+				</tr>
+			
+				<tr>
+					<td>아노말리사</td>
+					<td>Anomalisa</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>애니메이션,코미디,판타지</td>
+					<td>주연-리사 목소리역(목소리)</td>
+					<td>115,387,000</td>
+					<td>14,153</td>
+					<td>115,767,000</td>
+					<td>14,229</td>
+				</tr>
+			
+				<tr>
+					<td>헤이트풀8</td>
+					<td>The Hateful Eight</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션,스릴러,서부극(웨스턴)</td>
+					<td>주연</td>
+					<td>1,004,048,400</td>
+					<td>121,278</td>
+					<td>1,004,847,900</td>
+					<td>121,400</td>
+				</tr>
+			
+				<tr>
+					<td>마고 앳 더 웨딩</td>
+					<td>Margot At The Wedding</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>머시니스트</td>
+					<td>The Machinist </td>
+					<td>2004</td>
+					<td>스페인</td>
+					<td>드라마,스릴러,미스터리</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>460</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>차일드스타</td>
+					<td>Childstar</td>
+					<td>2004</td>
+					<td>캐나다</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>회문</td>
+					<td>Palindromes</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>드라마,어드벤처,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>인 더 컷</td>
+					<td>In The Cut</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>66,524</td>
+					<td>177,743,000</td>
+					<td>26,973</td>
+				</tr>
+			
+				<tr>
+					<td>결혼 기념일에 생긴 일</td>
+					<td>The Anniversary Party</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>드라마,코미디</td>
+					<td>감독,주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>러브 셀레모니</td>
+					<td>Skipped Parts</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>엑시스텐즈</td>
+					<td>Existenz</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>SF,범죄,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>13,857</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>돈크라이마미 </td>
+					<td>Bastard Out Of Carolina</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>5,644</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>캔사스 시티</td>
+					<td>Kansas City</td>
+					<td>1996</td>
+					<td>미국,프랑스</td>
+					<td>범죄,기타,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>2,152,000</td>
+					<td>390</td>
+				</tr>
+			
+				<tr>
+					<td>조지아 </td>
+					<td>Georgia</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>9,013</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>돌로레스 클레이븐 </td>
+					<td>Dolores Claiborne</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>미스터리,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>116,822</td>
+					<td>96,000</td>
+					<td>32</td>
+				</tr>
+			
+				<tr>
+					<td>허드서커 대리인 </td>
+					<td>Hudsucker Proxy</td>
+					<td>1994</td>
+					<td>영국,독일,미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>49,621</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>미드나잇 히쳐 </td>
+					<td>Midnight Hitcher</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>공포(호러),드라마,스릴러,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,397</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>위험한 독신녀</td>
+					<td>Single White Female</td>
+					<td>1992</td>
+					<td>미국</td>
+					<td>스릴러,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>81,660</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>러쉬</td>
+					<td>Rush</td>
+					<td>1991</td>
+					<td>미국</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>부룩크린으로 가는 마지막 비상구</td>
+					<td>Last Exit To Brooklyn</td>
+					<td>1989</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-트랄라역</td>
+					<td>0</td>
+					<td>88,295</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>힛쳐</td>
+					<td>The Hitcher</td>
+					<td>1986</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

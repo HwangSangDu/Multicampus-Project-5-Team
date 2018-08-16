@@ -1,0 +1,294 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '카세 료'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>사일런스</td>
+					<td>Silence</td>
+					<td>2016</td>
+					<td>미국,대만,멕시코</td>
+					<td>드라마</td>
+					<td>조연</td>
+					<td>700,818,300</td>
+					<td>94,750</td>
+					<td>704,472,300</td>
+					<td>95,156</td>
+				</tr>
+			
+				<tr>
+					<td>바닷마을 다이어리</td>
+					<td>Our Little Sister</td>
+					<td>2015</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>825,145,384</td>
+					<td>100,624</td>
+					<td>841,928,384</td>
+					<td>102,887</td>
+				</tr>
+			
+				<tr>
+					<td>자유의 언덕</td>
+					<td>Hill of Freedom</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>316,769,827</td>
+					<td>39,091</td>
+					<td>318,681,827</td>
+					<td>39,317</td>
+				</tr>
+			
+				<tr>
+					<td>사랑에 빠진 것처럼</td>
+					<td>Like Someone in Love</td>
+					<td>2012</td>
+					<td>프랑스,일본,이란</td>
+					<td>드라마</td>
+					<td>주연-노리아키역</td>
+					<td>28,270,500</td>
+					<td>3,712</td>
+					<td>28,908,500</td>
+					<td>3,810</td>
+				</tr>
+			
+				<tr>
+					<td>아웃레이지 비욘드</td>
+					<td>Outrage Beyond</td>
+					<td>2012</td>
+					<td>일본</td>
+					<td>액션,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>756,039</td>
+					<td>111</td>
+				</tr>
+			
+				<tr>
+					<td>도쿄 오아시스</td>
+					<td>Tokyo Oasis</td>
+					<td>2011</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>26,521,200</td>
+					<td>3,352</td>
+					<td>26,869,200</td>
+					<td>3,403</td>
+				</tr>
+			
+				<tr>
+					<td>수영장</td>
+					<td>Pool</td>
+					<td>2009</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>51,216,500</td>
+					<td>6,587</td>
+					<td>52,081,500</td>
+					<td>6,711</td>
+				</tr>
+			
+				<tr>
+					<td>인스턴트 늪</td>
+					<td>Instant Swamp</td>
+					<td>2009</td>
+					<td>일본</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>중력 피에로</td>
+					<td>A Pierrot</td>
+					<td>2009</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스카이 크롤러</td>
+					<td>The Sky Crawlers</td>
+					<td>2008</td>
+					<td>일본</td>
+					<td>애니메이션,드라마,액션,어드벤처</td>
+					<td>주연(목소리)</td>
+					<td>13,792,041</td>
+					<td>1,833</td>
+					<td>15,277,500</td>
+					<td>1,991</td>
+				</tr>
+			
+				<tr>
+					<td>도쿄 랑데뷰</td>
+					<td>Tokyo Rendezvous</td>
+					<td>2008</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연-미사키 사토시역</td>
+					<td>1,840,903</td>
+					<td>276</td>
+					<td>2,496,000</td>
+					<td>348</td>
+				</tr>
+			
+				<tr>
+					<td>도쿄!</td>
+					<td>Tokyo!</td>
+					<td>2008</td>
+					<td>일본,한국,프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>275,955,904</td>
+					<td>41,198</td>
+					<td>278,440,500</td>
+					<td>41,572</td>
+				</tr>
+			
+				<tr>
+					<td>구구는 고양이다</td>
+					<td>Goo Goo the Cat</td>
+					<td>2008</td>
+					<td>일본</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>263,199,962</td>
+					<td>38,658</td>
+					<td>265,524,500</td>
+					<td>39,003</td>
+				</tr>
+			
+				<tr>
+					<td>강아지와 나의 열 가지 약속</td>
+					<td>10 Promises to My Dog</td>
+					<td>2008</td>
+					<td>일본</td>
+					<td>가족,드라마</td>
+					<td>주연-호시 스스무 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>산의 사랑하는 당신</td>
+					<td>My Darling of the Mountains - Tokuichi in love</td>
+					<td>2008</td>
+					<td>일본</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>그래도 내가 하지 않았어</td>
+					<td>I Just Didn&#039;t Do It</td>
+					<td>2006</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연-가네코 텟페이역</td>
+					<td>14,628,985</td>
+					<td>2,285</td>
+					<td>11,835,000</td>
+					<td>1,833</td>
+				</tr>
+			
+				<tr>
+					<td>스크랩 헤븐</td>
+					<td>Scrap Heaven</td>
+					<td>2005</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연-신고역</td>
+					<td></td>
+					<td></td>
+					<td>1,132,000</td>
+					<td>188</td>
+				</tr>
+			
+				<tr>
+					<td>로큰롤 미싱</td>
+					<td>Rock&#039;n&#039;Roll Mishin</td>
+					<td>2002</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>미스즈</td>
+					<td>Misuzu</td>
+					<td>2001</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

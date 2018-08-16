@@ -1,0 +1,138 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '최승현'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>빅뱅 메이드</td>
+					<td>BIGBANG MADE</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>다큐멘터리</td>
+					<td>주연</td>
+					<td>464,727,700</td>
+					<td>55,227</td>
+					<td>470,487,200</td>
+					<td>56,200</td>
+				</tr>
+			
+				<tr>
+					<td>타짜-신의 손</td>
+					<td>Tazza-The Hidden Card</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-함대길역</td>
+					<td>32,373,120,927</td>
+					<td>4,015,361</td>
+					<td>32,373,120,927</td>
+					<td>4,015,361</td>
+				</tr>
+			
+				<tr>
+					<td>동창생</td>
+					<td>Commitment</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>액션,드라마</td>
+					<td>주연-명훈역</td>
+					<td>7,010,197,126</td>
+					<td>1,048,280</td>
+					<td>7,010,197,126</td>
+					<td>1,048,280</td>
+				</tr>
+			
+				<tr>
+					<td>2010 빅뱅라이브콘서트 BIGSHOW 3D</td>
+					<td>BIGSHOW 3D</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>공연</td>
+					<td>주연-본인역</td>
+					<td></td>
+					<td></td>
+					<td>127,441,000</td>
+					<td>11,948</td>
+				</tr>
+			
+				<tr>
+					<td>포화속으로</td>
+					<td>71-Into The Fire</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>드라마,전쟁</td>
+					<td>주연-학도병 중대장, 오장범역</td>
+					<td>24,217,600,897</td>
+					<td>3,385,706</td>
+					<td>23,831,968,600</td>
+					<td>3,330,326</td>
+				</tr>
+			
+				<tr>
+					<td>아이리스 더 무비</td>
+					<td>Iris : The Movie</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>19-Nineteen</td>
+					<td>19</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-서정훈역</td>
+					<td>212,293,874</td>
+					<td>32,986</td>
+					<td>209,955,500</td>
+					<td>32,616</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

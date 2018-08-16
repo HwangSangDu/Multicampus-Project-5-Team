@@ -1,0 +1,138 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '테일러 로트너'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>트레이서</td>
+					<td>Tracers</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>197,286,000</td>
+					<td>26,262</td>
+					<td>197,304,000</td>
+					<td>26,264</td>
+				</tr>
+			
+				<tr>
+					<td>그로운 업스 2 </td>
+					<td>Grown Ups 2 </td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연-프랫 보이 앤디역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>브레이킹 던 part2</td>
+					<td>The Twilight Saga: Breaking Dawn Part 2</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>드라마,판타지,멜로/로맨스</td>
+					<td>주연</td>
+					<td>18,909,583,065</td>
+					<td>2,654,817</td>
+					<td>18,909,583,065</td>
+					<td>2,654,817</td>
+				</tr>
+			
+				<tr>
+					<td>어브덕션</td>
+					<td>Abduction</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>액션,드라마,미스터리</td>
+					<td>주연</td>
+					<td>1,140,666,500</td>
+					<td>156,744</td>
+					<td>1,140,666,500</td>
+					<td>156,744</td>
+				</tr>
+			
+				<tr>
+					<td>이클립스</td>
+					<td>The Twilight Saga: Eclipse</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>판타지,멜로/로맨스,스릴러</td>
+					<td>주연-제이콥 블랙역</td>
+					<td>15,192,541,723</td>
+					<td>2,105,050</td>
+					<td>14,947,417,000</td>
+					<td>2,069,546</td>
+				</tr>
+			
+				<tr>
+					<td>발렌타인 데이</td>
+					<td>Valentine&#039;S Day</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>1,337,699,931</td>
+					<td>172,997</td>
+					<td>1,314,085,500</td>
+					<td>169,529</td>
+				</tr>
+			
+				<tr>
+					<td>샤크보이와 라바걸의 모험 : 3-D</td>
+					<td>The Adventures Of Shark Boy &amp; Lava Girl In 3-D</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>SF,액션,판타지,가족</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>39,943</td>
+					<td>200,247,000</td>
+					<td>33,934</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

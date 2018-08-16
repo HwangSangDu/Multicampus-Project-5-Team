@@ -1,0 +1,177 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '추자현'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>게임의 규칙</td>
+					<td>The Game Changer </td>
+					<td>2017</td>
+					<td>중국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>3,000</td>
+					<td>1</td>
+					<td>754,000</td>
+					<td>153</td>
+				</tr>
+			
+				<tr>
+					<td>전성수배</td>
+					<td>The Boundary</td>
+					<td>2014</td>
+					<td>중국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>101,000</td>
+					<td>42</td>
+					<td>101,000</td>
+					<td>42</td>
+				</tr>
+			
+				<tr>
+					<td>환상극장</td>
+					<td>Short! Short! Short! 2010</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>공포(호러),코미디,판타지</td>
+					<td>주연</td>
+					<td>1,089,000</td>
+					<td>176</td>
+					<td>1,089,000</td>
+					<td>176</td>
+				</tr>
+			
+				<tr>
+					<td>참을 수 없는</td>
+					<td>Loveholic</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>575,770,952</td>
+					<td>76,965</td>
+					<td>566,731,000</td>
+					<td>75,740</td>
+				</tr>
+			
+				<tr>
+					<td>허기</td>
+					<td>The Famished</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>판타지</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>실종</td>
+					<td>Missing</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>범죄,스릴러,미스터리</td>
+					<td>주연-현정역</td>
+					<td>4,415,413,589</td>
+					<td>654,587</td>
+					<td>4,346,511,500</td>
+					<td>644,276</td>
+				</tr>
+			
+				<tr>
+					<td>미인도</td>
+					<td>Portrait of a Beauty</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>사극,드라마,멜로/로맨스</td>
+					<td>조연</td>
+					<td>15,531,621,371</td>
+					<td>2,325,715</td>
+					<td>15,655,329,500</td>
+					<td>2,342,579</td>
+				</tr>
+			
+				<tr>
+					<td>사생결단</td>
+					<td>Bloody Tie</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>조연</td>
+					<td>0</td>
+					<td>2,104,716</td>
+					<td>10,934,307,100</td>
+					<td>1,724,709</td>
+				</tr>
+			
+				<tr>
+					<td>가족 연애사</td>
+					<td>Family Love</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>이대로, 죽을 순 없다(Short Time)</td>
+					<td>Short Time</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>조연</td>
+					<td>0</td>
+					<td>838,419</td>
+					<td>4,266,661,500</td>
+					<td>679,352</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

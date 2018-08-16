@@ -1,0 +1,372 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '매튜 모딘'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>47 미터</td>
+					<td>47 meters down</td>
+					<td>2017</td>
+					<td>영국</td>
+					<td>스릴러,공포(호러)</td>
+					<td>주연</td>
+					<td>4,686,022,657</td>
+					<td>590,036</td>
+					<td>4,686,079,657</td>
+					<td>590,045</td>
+				</tr>
+			
+				<tr>
+					<td>잡스</td>
+					<td>Jobs</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-존 스컬리역</td>
+					<td>1,594,113,136</td>
+					<td>225,146</td>
+					<td>1,594,901,136</td>
+					<td>225,343</td>
+				</tr>
+			
+				<tr>
+					<td>패밀리 위켄드</td>
+					<td>Family Weekend</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연-던칸 던지 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>케틀 오브 피쉬</td>
+					<td>Kettle Of Fish</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>마리아</td>
+					<td>Mary</td>
+					<td>2005</td>
+					<td>프랑스,미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>214,000</td>
+					<td>42</td>
+				</tr>
+			
+				<tr>
+					<td>펑키 몽키</td>
+					<td>Funky Monkey</td>
+					<td>2004</td>
+					<td>미국,독일</td>
+					<td>코미디,가족</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>헐리우드 북쪽</td>
+					<td>Hollywood North</td>
+					<td>2003</td>
+					<td>캐나다</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>속죄</td>
+					<td>Redeemer</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>더 쉬프먼트</td>
+					<td>The Shipment</td>
+					<td>2001</td>
+					<td>캐나다</td>
+					<td>코미디,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>인 더 섀도우</td>
+					<td>In The Shadows</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>잭과 콩나무</td>
+					<td>Jack And The Beanstalk : The Real Story</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>어드벤처,판타지</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>베리 민 멘</td>
+					<td>Very Mean Men</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>코미디,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>블랙아웃</td>
+					<td>The Blackout</td>
+					<td>1997</td>
+					<td>미국,독일</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>5,724</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>리얼 블론드</td>
+					<td>The Real Blonde</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>코미디,드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>플루크 </td>
+					<td>Fluke</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,501</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>컷스로트 아일랜드 </td>
+					<td>The Legend Of Cutthroat Island</td>
+					<td>1995</td>
+					<td>미국,프랑스,이탈리아,독일</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>258,920</td>
+					<td>39,000</td>
+					<td>13</td>
+				</tr>
+			
+				<tr>
+					<td>야곱</td>
+					<td>Jacob</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>사극,드라마,범죄</td>
+					<td>주연-야곱 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>헨리와 후레디의 마지막 비상구</td>
+					<td>Equinox</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>드라마,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,270</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>바람과 야망 </td>
+					<td>Wind</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>8,445</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>갬블</td>
+					<td>The Gamble </td>
+					<td>1991</td>
+					<td>이탈리아</td>
+					<td></td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>퍼시픽 하이츠</td>
+					<td>Pacific Heights</td>
+					<td>1990</td>
+					<td>미국</td>
+					<td>스릴러,드라마,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>151,611</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>멤피스 벨</td>
+					<td>Memphis Belle</td>
+					<td>1989</td>
+					<td>미국</td>
+					<td>액션,전쟁</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>78,810</td>
+					<td>264,000</td>
+					<td>96</td>
+				</tr>
+			
+				<tr>
+					<td>풀 메탈 쟈켓</td>
+					<td>Full Metal Jacket</td>
+					<td>1987</td>
+					<td>미국</td>
+					<td>전쟁,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>65,251</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>버디</td>
+					<td>Birdy</td>
+					<td>1984</td>
+					<td>미국</td>
+					<td>드라마,전쟁</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>프라이빗 스쿨</td>
+					<td>Private School</td>
+					<td>1983</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>67,301</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

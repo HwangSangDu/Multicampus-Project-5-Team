@@ -1,0 +1,164 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '에이쿠라 나나'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>64 파트 1</td>
+					<td>Six Four: part 1</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>미스터리,범죄,드라마</td>
+					<td>조연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>서툴지만, 사랑</td>
+					<td>MIRACLE: Devil Claus&#039; Love and Magic</td>
+					<td>2014</td>
+					<td>일본</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>13,496,000</td>
+					<td>1,591</td>
+					<td>13,496,000</td>
+					<td>1,591</td>
+				</tr>
+			
+				<tr>
+					<td>도서관 전쟁</td>
+					<td>Library Wars</td>
+					<td>2013</td>
+					<td>일본</td>
+					<td>멜로/로맨스,판타지,액션</td>
+					<td>주연</td>
+					<td>2,088,000</td>
+					<td>314</td>
+					<td>2,088,000</td>
+					<td>314</td>
+				</tr>
+			
+				<tr>
+					<td>괜찮아 3반</td>
+					<td>Nobody&#039;s Perfect</td>
+					<td>2013</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>12,091,000</td>
+					<td>1,948</td>
+					<td>12,091,000</td>
+					<td>1,948</td>
+				</tr>
+			
+				<tr>
+					<td>무사 노보우: 최후의 결전</td>
+					<td>The Floating Castle</td>
+					<td>2011</td>
+					<td>일본</td>
+					<td>전쟁,드라마</td>
+					<td>주연</td>
+					<td>12,901,000</td>
+					<td>2,003</td>
+					<td>12,901,000</td>
+					<td>2,003</td>
+				</tr>
+			
+				<tr>
+					<td>동경공원</td>
+					<td>Tokyo Koen</td>
+					<td>2011</td>
+					<td>일본</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>4월의 신부</td>
+					<td>April Bride</td>
+					<td>2009</td>
+					<td>일본</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>레몬일 때</td>
+					<td>The Graduates</td>
+					<td>2007</td>
+					<td>일본</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>나는 여동생을 사랑한다</td>
+					<td>My Sister, My Love</td>
+					<td>2006</td>
+					<td>일본</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

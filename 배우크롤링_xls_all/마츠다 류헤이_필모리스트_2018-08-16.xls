@@ -1,0 +1,372 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '마츠다 류헤이'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>산책하는 침략자</td>
+					<td>Before We Vanish</td>
+					<td>2017</td>
+					<td>일본</td>
+					<td>드라마,SF</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>2,650,500</td>
+					<td>268</td>
+				</tr>
+			
+				<tr>
+					<td>양의 나무</td>
+					<td>The Scythian Lamb</td>
+					<td>2017</td>
+					<td>일본</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>12,693,400</td>
+					<td>1,484</td>
+				</tr>
+			
+				<tr>
+					<td>우리 삼촌</td>
+					<td>My Uncle</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>64,000</td>
+					<td>26</td>
+				</tr>
+			
+				<tr>
+					<td>행복한 사전</td>
+					<td>The Great Passage</td>
+					<td>2013</td>
+					<td>일본</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>120,977,600</td>
+					<td>15,465</td>
+					<td>121,451,600</td>
+					<td>15,526</td>
+				</tr>
+			
+				<tr>
+					<td>마호로역 다다 심부름집</td>
+					<td>Tada&#039;s Do-It-All House</td>
+					<td>2011</td>
+					<td>일본</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>424,000</td>
+					<td>71</td>
+				</tr>
+			
+				<tr>
+					<td>악몽탐정 2</td>
+					<td>Nightmare Detective 2</td>
+					<td>2008</td>
+					<td>일본</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>세상은 가끔 아름답다</td>
+					<td>Life can be so wonderful</td>
+					<td>2007</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연-신지역</td>
+					<td>173,000</td>
+					<td>26</td>
+					<td>370,000</td>
+					<td>61</td>
+				</tr>
+			
+				<tr>
+					<td>전염가</td>
+					<td>The Suicide Song,Gloomy Sunday</td>
+					<td>2007</td>
+					<td>일본</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td>167,632</td>
+					<td>30</td>
+					<td>165,000</td>
+					<td>30</td>
+				</tr>
+			
+				<tr>
+					<td>집오리와 들오리의 코인로커</td>
+					<td>The Foreign Duck, The Native Duck And God In A Coin Locker</td>
+					<td>2007</td>
+					<td>일본</td>
+					<td>미스터리,드라마</td>
+					<td>주연</td>
+					<td>26,377,500</td>
+					<td>3,842</td>
+					<td>27,358,500</td>
+					<td>3,985</td>
+				</tr>
+			
+				<tr>
+					<td>불고기</td>
+					<td>The Yakiniku Movie: Bulgogi</td>
+					<td>2007</td>
+					<td>일본</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사랑하는 마도리</td>
+					<td>Tokyo Serendipity</td>
+					<td>2007</td>
+					<td>일본</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>46억년의 사랑</td>
+					<td>4.6 Billion Years Of Love</td>
+					<td>2006</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>악몽 탐정</td>
+					<td>Nightmare Detective</td>
+					<td>2006</td>
+					<td>일본</td>
+					<td>판타지,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,371,500</td>
+					<td>209</td>
+				</tr>
+			
+				<tr>
+					<td>김미 헤븐</td>
+					<td>Gimmy Heaven</td>
+					<td>2005</td>
+					<td>일본</td>
+					<td>스릴러,미스터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>란포지옥</td>
+					<td>Ranpo Jigoku</td>
+					<td>2005</td>
+					<td>일본</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>219,500</td>
+					<td>34</td>
+				</tr>
+			
+				<tr>
+					<td>사랑의 문</td>
+					<td>Otakus In Love</td>
+					<td>2004</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>52,000</td>
+					<td>8</td>
+				</tr>
+			
+				<tr>
+					<td>이조</td>
+					<td>Izo</td>
+					<td>2004</td>
+					<td>일본</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>연애사진</td>
+					<td>Collage Of Our Life</td>
+					<td>2003</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>12,981</td>
+					<td>40,222,500</td>
+					<td>6,185</td>
+				</tr>
+			
+				<tr>
+					<td>8월의 카리유시</td>
+					<td></td>
+					<td>2003</td>
+					<td>일본</td>
+					<td>드라마,판타지</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>나인 소울즈</td>
+					<td>9 Souls</td>
+					<td>2003</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>쇼와 가요 대전집</td>
+					<td>Big Showa Song Collection</td>
+					<td>2003</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>러브 고스트</td>
+					<td>Love Ghost</td>
+					<td>2001</td>
+					<td>일본</td>
+					<td>공포(호러),판타지</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>우울한 청춘</td>
+					<td>Blue Spring</td>
+					<td>2001</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>고하토</td>
+					<td>Gohatto</td>
+					<td>1999</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>8,789</td>
+					<td>10,632,500</td>
+					<td>1,613</td>
+				</tr>
+			
+				<tr>
+					<td>오시마 ’99</td>
+					<td>Oshima ’99</td>
+					<td>1999</td>
+					<td>일본</td>
+					<td>다큐멘터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

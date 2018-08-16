@@ -1,0 +1,424 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '라이언 레놀즈'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>데드풀 2</td>
+					<td>DEADPOOL 2</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>액션,어드벤처,코미디,SF</td>
+					<td>주연</td>
+					<td>34,175,001,839</td>
+					<td>3,783,375</td>
+					<td>34,185,664,639</td>
+					<td>3,784,602</td>
+				</tr>
+			
+				<tr>
+					<td>킬러의 보디가드</td>
+					<td>The Hitman&#039;s Bodyguard</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>액션,코미디</td>
+					<td>주연-마이클 브라이스 역</td>
+					<td>14,020,395,800</td>
+					<td>1,721,757</td>
+					<td>14,020,488,300</td>
+					<td>1,721,772</td>
+				</tr>
+			
+				<tr>
+					<td>라이프</td>
+					<td>Life </td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>SF,스릴러</td>
+					<td>주연</td>
+					<td>3,791,748,210</td>
+					<td>459,984</td>
+					<td>3,791,748,210</td>
+					<td>459,984</td>
+				</tr>
+			
+				<tr>
+					<td>크리미널</td>
+					<td>Criminal</td>
+					<td>2016</td>
+					<td>영국,미국</td>
+					<td>액션,범죄</td>
+					<td>주연</td>
+					<td>738,985,181</td>
+					<td>92,358</td>
+					<td>738,985,181</td>
+					<td>92,358</td>
+				</tr>
+			
+				<tr>
+					<td>데드풀</td>
+					<td>Deadpool</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,SF</td>
+					<td>주연</td>
+					<td>27,595,618,651</td>
+					<td>3,317,196</td>
+					<td>27,595,618,651</td>
+					<td>3,317,196</td>
+				</tr>
+			
+				<tr>
+					<td>더 보이스</td>
+					<td>The Voices</td>
+					<td>2015</td>
+					<td>미국,독일</td>
+					<td>코미디,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>셀프/리스</td>
+					<td>Self/less</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>SF,액션,스릴러</td>
+					<td>주연</td>
+					<td>874,447,764</td>
+					<td>111,127</td>
+					<td>874,447,764</td>
+					<td>111,127</td>
+				</tr>
+			
+				<tr>
+					<td>우먼 인 골드</td>
+					<td>Woman in Gold</td>
+					<td>2015</td>
+					<td>미국,영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>1,109,776,800</td>
+					<td>144,154</td>
+					<td>1,111,546,800</td>
+					<td>144,744</td>
+				</tr>
+			
+				<tr>
+					<td>R.I.P.D. : 알.아이.피.디.</td>
+					<td>R.I.P.D</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>액션,코미디,범죄</td>
+					<td>주연-닉 워커역</td>
+					<td>725,451,071</td>
+					<td>101,460</td>
+					<td>725,451,071</td>
+					<td>101,460</td>
+				</tr>
+			
+				<tr>
+					<td>크루즈 패밀리</td>
+					<td>The Croods</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>애니메이션,가족,코미디</td>
+					<td>주연(목소리)</td>
+					<td>6,540,060,500</td>
+					<td>941,615</td>
+					<td>6,552,685,700</td>
+					<td>943,806</td>
+				</tr>
+			
+				<tr>
+					<td>터보</td>
+					<td>Turbo</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>애니메이션</td>
+					<td>주연-터보역(목소리)</td>
+					<td>13,113,579,000</td>
+					<td>1,923,748</td>
+					<td>13,121,226,000</td>
+					<td>1,925,154</td>
+				</tr>
+			
+				<tr>
+					<td>세이프 하우스</td>
+					<td>SAFE HOUSE</td>
+					<td>2012</td>
+					<td>미국,남아프리카공화국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>1,223,151,500</td>
+					<td>163,729</td>
+					<td>1,223,156,500</td>
+					<td>163,730</td>
+				</tr>
+			
+				<tr>
+					<td>그린랜턴: 반지의 선택</td>
+					<td>Green Lantern</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>SF,액션</td>
+					<td>주연-할 조던 / 그린 랜턴역</td>
+					<td>1,651,783,500</td>
+					<td>216,676</td>
+					<td>1,651,783,500</td>
+					<td>216,676</td>
+				</tr>
+			
+				<tr>
+					<td>체인지 업</td>
+					<td>The Change-Up</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>베리드</td>
+					<td>Buried</td>
+					<td>2010</td>
+					<td>스페인</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>470,090,587</td>
+					<td>64,449</td>
+					<td>465,167,000</td>
+					<td>63,757</td>
+				</tr>
+			
+				<tr>
+					<td>페이퍼맨</td>
+					<td>Paper Man</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>900,000</td>
+					<td>150</td>
+					<td>900,000</td>
+					<td>150</td>
+				</tr>
+			
+				<tr>
+					<td>프로포즈</td>
+					<td>The Proposal</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디,드라마</td>
+					<td>주연-앤드류 팩스턴역</td>
+					<td>2,481,694,139</td>
+					<td>328,767</td>
+					<td>2,442,083,500</td>
+					<td>323,707</td>
+				</tr>
+			
+				<tr>
+					<td>엑스맨 탄생: 울버린</td>
+					<td>X-Men Origins: Wolverine</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>SF,액션,판타지</td>
+					<td>주연</td>
+					<td>8,560,185,022</td>
+					<td>1,303,452</td>
+					<td>8,408,135,000</td>
+					<td>1,280,734</td>
+				</tr>
+			
+				<tr>
+					<td>반딧불이 정원</td>
+					<td>Fireflies in the Garden</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>가족,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>나의 특별한 사랑이야기</td>
+					<td>Definitely, Maybe</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>코미디,드라마,멜로/로맨스</td>
+					<td>주연-윌 헤이즈 역</td>
+					<td>1,166,701,500</td>
+					<td>186,234</td>
+					<td>1,165,168,500</td>
+					<td>179,336</td>
+				</tr>
+			
+				<tr>
+					<td>더 나인스</td>
+					<td>The Nines</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>판타지,미스터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>카오스 이론</td>
+					<td>Chaos Theory</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>코미디,드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>저스트 프렌드</td>
+					<td>Just Friends</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연-크리스 브랜더역</td>
+					<td>0</td>
+					<td>246,431</td>
+					<td>1,444,893,000</td>
+					<td>236,759</td>
+				</tr>
+			
+				<tr>
+					<td>아미티빌 호러</td>
+					<td>The Amityville Horror</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>92,433</td>
+					<td>527,182,500</td>
+					<td>83,166</td>
+				</tr>
+			
+				<tr>
+					<td>웨이팅...</td>
+					<td>Waiting...</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>블레이드 3</td>
+					<td>Blade: Trinity</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,069,643</td>
+					<td>4,736,231,500</td>
+					<td>728,229</td>
+				</tr>
+			
+				<tr>
+					<td>풀프루프</td>
+					<td>Foolproof</td>
+					<td>2003</td>
+					<td>캐나다</td>
+					<td>액션,코미디,범죄,스릴러</td>
+					<td>주연-케빈역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>엽기캠퍼스</td>
+					<td>Van Wilder</td>
+					<td>2002</td>
+					<td>독일,미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연-밴 와일더역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>화려한 싱글</td>
+					<td>Buying The Cow</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

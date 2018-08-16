@@ -1,0 +1,112 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '박정환'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>바람난 여자들</td>
+					<td></td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>조연-성준1역</td>
+					<td>1,068,000</td>
+					<td>196</td>
+					<td>1,068,000</td>
+					<td>196</td>
+				</tr>
+			
+				<tr>
+					<td>감출 수 없는 본능-몰카</td>
+					<td></td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스,스릴러</td>
+					<td>주연-태주 역</td>
+					<td>1,322,000</td>
+					<td>250</td>
+					<td>1,322,000</td>
+					<td>250</td>
+				</tr>
+			
+				<tr>
+					<td>이웃동서</td>
+					<td></td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연,조연-성식역</td>
+					<td>1,348,000</td>
+					<td>253</td>
+					<td>1,348,000</td>
+					<td>253</td>
+				</tr>
+			
+				<tr>
+					<td>원나잇스탠드</td>
+					<td>One-night Stand</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>스릴러,드라마,멜로/로맨스</td>
+					<td>단역-저택현악3역</td>
+					<td>642,000</td>
+					<td>125</td>
+					<td>642,000</td>
+					<td>125</td>
+				</tr>
+			
+				<tr>
+					<td>P.S. 걸</td>
+					<td>P.S. Girls</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>스릴러,멜로/로맨스</td>
+					<td>단역-거친남역</td>
+					<td>1,673,000</td>
+					<td>285</td>
+					<td>1,673,000</td>
+					<td>285</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

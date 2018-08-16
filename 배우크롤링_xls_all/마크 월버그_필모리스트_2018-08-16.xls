@@ -1,0 +1,463 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '마크 월버그'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>마일22</td>
+					<td>Mile22</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>액션,어드벤처,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>올 더 머니</td>
+					<td>All the Money in the World</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>범죄,드라마,미스터리,스릴러</td>
+					<td>주연</td>
+					<td>568,453,500</td>
+					<td>70,295</td>
+					<td>568,453,500</td>
+					<td>70,295</td>
+				</tr>
+			
+				<tr>
+					<td>패트리어트 데이</td>
+					<td>Patriots Day</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td>593,983,618</td>
+					<td>74,827</td>
+					<td>593,983,618</td>
+					<td>74,827</td>
+				</tr>
+			
+				<tr>
+					<td>트랜스포머: 최후의 기사</td>
+					<td>TRANSFORMERS: THE LAST KNIGHT</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,어드벤처,SF</td>
+					<td>주연</td>
+					<td>21,501,959,228</td>
+					<td>2,614,601</td>
+					<td>21,501,959,228</td>
+					<td>2,614,601</td>
+				</tr>
+			
+				<tr>
+					<td>딥워터 호라이즌</td>
+					<td>Deepwater Horizon</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,드라마</td>
+					<td>주연</td>
+					<td>775,611,543</td>
+					<td>100,021</td>
+					<td>784,555,543</td>
+					<td>101,303</td>
+				</tr>
+			
+				<tr>
+					<td>19곰 테드 2</td>
+					<td>Ted 2</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>1,378,084,400</td>
+					<td>170,647</td>
+					<td>1,378,084,400</td>
+					<td>170,647</td>
+				</tr>
+			
+				<tr>
+					<td>트랜스포머: 사라진 시대</td>
+					<td>Transformers : Age of Extinction</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>액션,SF,어드벤처</td>
+					<td>주연</td>
+					<td>44,012,272,845</td>
+					<td>5,295,801</td>
+					<td>44,012,752,845</td>
+					<td>5,295,836</td>
+				</tr>
+			
+				<tr>
+					<td>겜블러</td>
+					<td>The Gambler</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>범죄,스릴러</td>
+					<td>주연-짐 베넷역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>론 서바이버 </td>
+					<td>Lone Survivor</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>액션,드라마,스릴러</td>
+					<td>주연</td>
+					<td>1,433,147,820</td>
+					<td>190,611</td>
+					<td>1,433,147,820</td>
+					<td>190,611</td>
+				</tr>
+			
+				<tr>
+					<td>투건스</td>
+					<td>2 Guns</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>액션,드라마,코미디</td>
+					<td>주연-스티그역</td>
+					<td>49,731,500</td>
+					<td>7,806</td>
+					<td>49,731,500</td>
+					<td>7,806</td>
+				</tr>
+			
+				<tr>
+					<td>브로큰 시티</td>
+					<td>Broken City</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>범죄,액션</td>
+					<td>주연</td>
+					<td>92,263,000</td>
+					<td>12,771</td>
+					<td>92,263,000</td>
+					<td>12,771</td>
+				</tr>
+			
+				<tr>
+					<td>브로큰시티 무삭제 특별판</td>
+					<td>BROKEN CITY</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>스릴러,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>40,000</td>
+					<td>10</td>
+				</tr>
+			
+				<tr>
+					<td>19곰 테드</td>
+					<td>Ted</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>코미디,판타지</td>
+					<td>주연-존역</td>
+					<td>2,034,959,293</td>
+					<td>266,574</td>
+					<td>2,034,959,293</td>
+					<td>266,574</td>
+				</tr>
+			
+				<tr>
+					<td>페인 앤 게인</td>
+					<td>Pain &amp; Gain</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션,코미디</td>
+					<td>주연-대니얼 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>콘트라밴드</td>
+					<td>Contraband</td>
+					<td>2011</td>
+					<td>미국,영국</td>
+					<td>액션,스릴러</td>
+					<td>주연-크리스 페러데이 역</td>
+					<td>393,549,500</td>
+					<td>52,743</td>
+					<td>393,549,500</td>
+					<td>52,743</td>
+				</tr>
+			
+				<tr>
+					<td>파이터</td>
+					<td>The Fighter</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-미키 워드역</td>
+					<td>1,033,270,000</td>
+					<td>136,946</td>
+					<td>1,033,270,000</td>
+					<td>136,946</td>
+				</tr>
+			
+				<tr>
+					<td>스탠바이 캅</td>
+					<td>The Other Guys</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>액션,코미디</td>
+					<td>주연-테리 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>러블리 본즈</td>
+					<td>The Lovely Bones</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>범죄,드라마,판타지</td>
+					<td>주연</td>
+					<td>1,572,420,641</td>
+					<td>212,035</td>
+					<td>1,547,855,000</td>
+					<td>208,672</td>
+				</tr>
+			
+				<tr>
+					<td>맥스 페인</td>
+					<td>Max Payne</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>범죄,스릴러,액션</td>
+					<td>주연</td>
+					<td>1,629,486,000</td>
+					<td>257,808</td>
+					<td>1,631,146,500</td>
+					<td>258,067</td>
+				</tr>
+			
+				<tr>
+					<td>해프닝</td>
+					<td>The Happening</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>SF,드라마,미스터리</td>
+					<td>주연</td>
+					<td>2,366,614,500</td>
+					<td>348,772</td>
+					<td>2,375,782,500</td>
+					<td>347,791</td>
+				</tr>
+			
+				<tr>
+					<td>위 오운 더 나잇</td>
+					<td>We Own The Night</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>범죄,드라마,스릴러</td>
+					<td>주연-조셉 그루진스키 역</td>
+					<td>471,961,500</td>
+					<td>71,212</td>
+					<td>472,296,500</td>
+					<td>70,769</td>
+				</tr>
+			
+				<tr>
+					<td>더블타겟</td>
+					<td>Shooter</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>액션,드라마,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>518,777</td>
+					<td>3,428,161,000</td>
+					<td>511,190</td>
+				</tr>
+			
+				<tr>
+					<td>인빈서블</td>
+					<td>Invincible</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>4 브라더스</td>
+					<td>Four Brothers</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>액션,드라마,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>94,200</td>
+					<td>519,182,000</td>
+					<td>79,811</td>
+				</tr>
+			
+				<tr>
+					<td>이탈리안 잡</td>
+					<td>The Italian Job</td>
+					<td>2003</td>
+					<td>미국,영국,프랑스</td>
+					<td>범죄,드라마,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>566,800</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>찰리의 진실</td>
+					<td>The Truth About Charlie</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>미스터리,범죄,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>26,361</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>혹성탈출</td>
+					<td>Planet Of The Apes</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>SF,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>369,005</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>록 스타</td>
+					<td>Rock Star</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>퍼펙트 스톰</td>
+					<td>The Perpect Storm</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>액션,드라마,어드벤처</td>
+					<td>주연-바비 샤트포드역</td>
+					<td>0</td>
+					<td>592,768</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>쓰리 킹즈</td>
+					<td>Three Kings</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>전쟁,코미디,액션</td>
+					<td>주연-트로이 바로우역</td>
+					<td>0</td>
+					<td>134,376</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>커럽터</td>
+					<td>The Corruptor</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>범죄,드라마,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>18,222</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>바스켓볼 다이어리</td>
+					<td>Basketball Diaries</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>범죄,드라마</td>
+					<td>주연-미키역</td>
+					<td>0</td>
+					<td>36,953</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

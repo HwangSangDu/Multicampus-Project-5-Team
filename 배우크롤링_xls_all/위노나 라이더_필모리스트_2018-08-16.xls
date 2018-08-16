@@ -1,0 +1,359 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '위노나 라이더'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>밀그램 프로젝트</td>
+					<td>Experimenter</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>422,400</td>
+					<td>68</td>
+					<td>422,400</td>
+					<td>68</td>
+				</tr>
+			
+				<tr>
+					<td>홈프론트-하드액션</td>
+					<td>Homefront</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>액션,범죄,스릴러</td>
+					<td>주연</td>
+					<td>11,016,000</td>
+					<td>1,598</td>
+					<td>11,016,000</td>
+					<td>1,598</td>
+				</tr>
+			
+				<tr>
+					<td>아이스맨</td>
+					<td>The Iceman</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>범죄,드라마,스릴러</td>
+					<td>주연</td>
+					<td>10,518,000</td>
+					<td>10,910</td>
+					<td>10,518,000</td>
+					<td>10,910</td>
+				</tr>
+			
+				<tr>
+					<td>더 레터</td>
+					<td>The Letter</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연-마르티네역</td>
+					<td>949,000</td>
+					<td>124</td>
+					<td>949,000</td>
+					<td>124</td>
+				</tr>
+			
+				<tr>
+					<td>프랑켄위니</td>
+					<td>Frankenweenie</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>애니메이션,코미디,공포(호러)</td>
+					<td>주연-엘사 반 헬싱역(목소리)</td>
+					<td>365,356,000</td>
+					<td>43,978</td>
+					<td>368,357,000</td>
+					<td>44,377</td>
+				</tr>
+			
+				<tr>
+					<td>섹스 앤 데스</td>
+					<td>Sex And Death 101</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>코미디,드라마,멜로/로맨스</td>
+					<td>주연-데스 넬 / 질리안 드 라이스(#101)역</td>
+					<td></td>
+					<td></td>
+					<td>132,000</td>
+					<td>26</td>
+				</tr>
+			
+				<tr>
+					<td>더 텐</td>
+					<td>The Ten</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>다윈 어워드</td>
+					<td>The Darwin Awards</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>어드벤처,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스캐너 다클리</td>
+					<td>A Scanner Darkly</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>범죄,미스터리,애니메이션</td>
+					<td>주연-도나 호손역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>미스터 디즈</td>
+					<td>Mr.Deeds</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>21,093</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>엑소시즘</td>
+					<td>Lost Souls</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>드라마,스릴러,공포(호러)</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>22,983</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>뉴욕의 가을</td>
+					<td>Autumn In New York</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-샬롯역</td>
+					<td>0</td>
+					<td>207,749</td>
+					<td>142,000</td>
+					<td>55</td>
+				</tr>
+			
+				<tr>
+					<td>처음 만나는 자유</td>
+					<td>Girl Interrupted</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-수잔나역</td>
+					<td>0</td>
+					<td>24,596</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>에일리언 4</td>
+					<td>Alien: Resurrection</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>SF,공포(호러),액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>571,751</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>크루서블</td>
+					<td>The Crucible</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>드라마,사극</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>28,807</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아메리칸 퀼트</td>
+					<td>How To Make An American Quilt</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>50,786</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>작은 아씨들 </td>
+					<td>Little Woman</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>24,799</td>
+					<td>366,000</td>
+					<td>135</td>
+				</tr>
+			
+				<tr>
+					<td>청춘 스케치</td>
+					<td>Reality Bites</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>순수의 시대 </td>
+					<td>The Age Of Innocence</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>드라마,사극</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>42,931</td>
+					<td>1,033,000</td>
+					<td>258</td>
+				</tr>
+			
+				<tr>
+					<td>드라큐라</td>
+					<td>Dracula</td>
+					<td>1992</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러,드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>301,184</td>
+					<td>183,000</td>
+					<td>60</td>
+				</tr>
+			
+				<tr>
+					<td>지상의 밤</td>
+					<td>Night On Earth</td>
+					<td>1991</td>
+					<td>일본,미국,독일,이탈리아,핀란드</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>9,471,000</td>
+					<td>1,221</td>
+				</tr>
+			
+				<tr>
+					<td>귀여운 바람둥이</td>
+					<td>Mermaids</td>
+					<td>1990</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,781</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>가위손</td>
+					<td>Edward Scissorhands</td>
+					<td>1990</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>77,114</td>
+					<td>41,870,000</td>
+					<td>5,904</td>
+				</tr>
+			
+				<tr>
+					<td>Y세대</td>
+					<td>Welcome Home, Roxy Carmichael</td>
+					<td>1990</td>
+					<td>미국,영국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

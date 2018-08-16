@@ -1,0 +1,112 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '신재훈'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>왕을 참하라</td>
+					<td></td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-팽이역</td>
+					<td>32,469,800</td>
+					<td>4,237</td>
+					<td>32,469,800</td>
+					<td>4,237</td>
+				</tr>
+			
+				<tr>
+					<td>가을단기방학</td>
+					<td>Change of the Season</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마,가족</td>
+					<td>조연-승민역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사냥</td>
+					<td>Hunting</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td></td>
+					<td>단역-조무래기역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>내 마음의 고향</td>
+					<td>A Hometown In My Heart</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-도성역</td>
+					<td>266,000</td>
+					<td>42</td>
+					<td>992,000</td>
+					<td>248</td>
+				</tr>
+			
+				<tr>
+					<td>수상한 그녀</td>
+					<td>Miss Granny</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-어린 박씨역</td>
+					<td>62,696,639,249</td>
+					<td>8,656,397</td>
+					<td>62,715,946,849</td>
+					<td>8,659,725</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

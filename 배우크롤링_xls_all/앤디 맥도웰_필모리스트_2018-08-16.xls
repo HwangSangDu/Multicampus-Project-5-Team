@@ -1,0 +1,372 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '앤디 맥도웰'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>브레이킹</td>
+					<td>Breaking at the Edge</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>액션,스릴러,공포(호러)</td>
+					<td>주연</td>
+					<td>12,002,000</td>
+					<td>2,474</td>
+					<td>12,002,000</td>
+					<td>2,474</td>
+				</tr>
+			
+				<tr>
+					<td>5쿼터</td>
+					<td>The 5th Quater</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>13,905,500</td>
+					<td>1,909</td>
+					<td>13,905,500</td>
+					<td>1,909</td>
+				</tr>
+			
+				<tr>
+					<td>리스크</td>
+					<td>At Risk</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>미스터리,스릴러</td>
+					<td>주연-모니크 라몬트 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>프론트</td>
+					<td>The Front</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>범죄,미스터리</td>
+					<td>주연-모니크 라몬트 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>뷰티 샵</td>
+					<td>Beauty Shop</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>타운 앤 컨트리</td>
+					<td>Town &amp; Country</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>0</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>크러쉬</td>
+					<td>Crush</td>
+					<td>2001</td>
+					<td>독일,영국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>해리슨의 꽃</td>
+					<td>Harrison&#039;s Flowers</td>
+					<td>2000</td>
+					<td>프랑스</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>뮤즈</td>
+					<td>The Muse</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>5,717</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>별나라에서 온 머펫</td>
+					<td>Muppets From Space</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>어드벤처,코미디,가족</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>저스트 티켓</td>
+					<td>Just The Ticket</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>샤드라크</td>
+					<td>Shadrach</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>가족,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>24</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>엔드 오브 바이오런스</td>
+					<td>The End Of Violence</td>
+					<td>1997</td>
+					<td>프랑스,독일,미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>마이클</td>
+					<td>Michael</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>코미디,드라마,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>22,649</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>멀티플리 시티</td>
+					<td>Multiplicity</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>SF,코미디,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>7,079</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>나쁜 여자들 </td>
+					<td>Bad Girls</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>서부극(웨스턴)</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>6,521</td>
+					<td>156,000</td>
+					<td>61</td>
+				</tr>
+			
+				<tr>
+					<td>숏컷 </td>
+					<td>Short Cut</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>5,411</td>
+					<td>1,602,000</td>
+					<td>283</td>
+				</tr>
+			
+				<tr>
+					<td>네 번의 결혼식과 한 번의 장례식 </td>
+					<td>Four Wedding And A Funeral</td>
+					<td>1993</td>
+					<td>영국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>153,597</td>
+					<td>1,026,000</td>
+					<td>200</td>
+				</tr>
+			
+				<tr>
+					<td>사랑의 블랙홀</td>
+					<td>Groundhog Day</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>8,912</td>
+					<td>740,000</td>
+					<td>172</td>
+				</tr>
+			
+				<tr>
+					<td>허드슨 호크</td>
+					<td>Hudson Hawk</td>
+					<td>1991</td>
+					<td>미국</td>
+					<td>코미디,액션,어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>158,433</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>오브젝 오브 뷰티</td>
+					<td>The Object Of Beauty</td>
+					<td>1991</td>
+					<td>잉글랜드,미국</td>
+					<td>범죄,코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>녹색카드</td>
+					<td>Green Card</td>
+					<td>1990</td>
+					<td>미국</td>
+					<td>코미디,드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>114,229</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>그린카드</td>
+					<td>Green Card</td>
+					<td>1990</td>
+					<td>호주,미국,프랑스</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>섹스 거짓말 그리고 비디오테이프</td>
+					<td>Sex,Lies And Videotape</td>
+					<td>1989</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>147,680</td>
+					<td>463,000</td>
+					<td>78</td>
+				</tr>
+			
+				<tr>
+					<td>타잔-크리스포터 램버트/그레이스 토크</td>
+					<td>Greystoke: The Legend Of Tarzan, Lord Of The Apes</td>
+					<td>1984</td>
+					<td>영국</td>
+					<td>가족,드라마,어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>44,923</td>
+					<td>60,000</td>
+					<td>20</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

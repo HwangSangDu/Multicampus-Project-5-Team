@@ -1,0 +1,177 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '마르티나 게덱'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>나의 산티아고</td>
+					<td>I&#039;m Off Then</td>
+					<td>2015</td>
+					<td>독일</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>721,244,232</td>
+					<td>94,243</td>
+					<td>724,196,232</td>
+					<td>94,610</td>
+				</tr>
+			
+				<tr>
+					<td>리스본행 야간열차</td>
+					<td>Night Train to Lisbon</td>
+					<td>2013</td>
+					<td>독일,스위스,포르투갈</td>
+					<td>미스터리,멜로/로맨스,스릴러</td>
+					<td>주연</td>
+					<td>587,486,536</td>
+					<td>76,047</td>
+					<td>603,847,836</td>
+					<td>78,611</td>
+				</tr>
+			
+				<tr>
+					<td>베일을 쓴 소녀</td>
+					<td>The Nun</td>
+					<td>2013</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>45,841,000</td>
+					<td>6,181</td>
+					<td>45,841,000</td>
+					<td>6,181</td>
+				</tr>
+			
+				<tr>
+					<td>클라라</td>
+					<td>Clara</td>
+					<td>2008</td>
+					<td>독일</td>
+					<td>드라마</td>
+					<td>주연-클라라역</td>
+					<td>99,611,500</td>
+					<td>13,557</td>
+					<td>104,355,600</td>
+					<td>14,207</td>
+				</tr>
+			
+				<tr>
+					<td>바더 마인호프</td>
+					<td>The Baader Meinh Of Complex</td>
+					<td>2008</td>
+					<td>독일</td>
+					<td>범죄,사극,드라마</td>
+					<td>주연</td>
+					<td>29,075,915</td>
+					<td>4,030</td>
+					<td>28,823,500</td>
+					<td>3,996</td>
+				</tr>
+			
+				<tr>
+					<td>미필적 고의에 의한 여름휴가</td>
+					<td>Summer &#039;04,</td>
+					<td>2006</td>
+					<td>독일</td>
+					<td>드라마</td>
+					<td>주연-미리암 역</td>
+					<td>0</td>
+					<td>6,961</td>
+					<td>48,453,000</td>
+					<td>7,052</td>
+				</tr>
+			
+				<tr>
+					<td>타인의 삶</td>
+					<td>The Lives Of Others</td>
+					<td>2006</td>
+					<td>독일</td>
+					<td>드라마</td>
+					<td>주연-크리스타-마리아 실란트역</td>
+					<td>0</td>
+					<td>43,288</td>
+					<td>339,765,000</td>
+					<td>50,607</td>
+				</tr>
+			
+				<tr>
+					<td>소립자</td>
+					<td>The Elementary Particles</td>
+					<td>2006</td>
+					<td>독일</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,488,000</td>
+					<td>272</td>
+				</tr>
+			
+				<tr>
+					<td>마사의 부엌</td>
+					<td>Mostly Martha</td>
+					<td>2001</td>
+					<td>독일,이탈리아,오스트리아 ,스위스</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td>9,966,400</td>
+					<td>1,436</td>
+					<td>10,520,400</td>
+					<td>1,538</td>
+				</tr>
+			
+				<tr>
+					<td>유태인 청년 레비</td>
+					<td>Jew-Boy Levi</td>
+					<td>1999</td>
+					<td>독일,스위스,오스트리아 </td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

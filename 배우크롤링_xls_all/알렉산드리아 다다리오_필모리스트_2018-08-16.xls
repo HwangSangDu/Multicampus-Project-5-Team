@@ -1,0 +1,112 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '알렉산드리아 다다리오'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>베이워치: SOS 해상 구조대</td>
+					<td>Baywatch</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>액션,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>샌 안드레아스</td>
+					<td>San Andreas</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션,드라마,스릴러</td>
+					<td>주연</td>
+					<td>14,433,931,152</td>
+					<td>1,716,306</td>
+					<td>14,435,844,152</td>
+					<td>1,716,455</td>
+				</tr>
+			
+				<tr>
+					<td>퍼시 잭슨과 괴물의 바다</td>
+					<td>Percy Jackson and Sea of Monsters</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>판타지,어드벤처</td>
+					<td>주연-아나베스 체이스역</td>
+					<td>3,791,349,609</td>
+					<td>519,584</td>
+					<td>3,791,349,609</td>
+					<td>519,584</td>
+				</tr>
+			
+				<tr>
+					<td>텍사스 전기톱 연쇄살인사건 3D</td>
+					<td>Texas Chainsaw 3D</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연-헤더역</td>
+					<td></td>
+					<td></td>
+					<td>496,000</td>
+					<td>62</td>
+				</tr>
+			
+				<tr>
+					<td>사이코패스</td>
+					<td>Bereavement </td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

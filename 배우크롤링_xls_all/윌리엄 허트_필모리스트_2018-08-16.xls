@@ -1,0 +1,385 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '윌리엄 허트'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>레이스</td>
+					<td>Race</td>
+					<td>2016</td>
+					<td>캐나다</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>28,867,900</td>
+					<td>3,849</td>
+					<td>28,867,900</td>
+					<td>3,849</td>
+				</tr>
+			
+				<tr>
+					<td>엘리노어 릭비: 그 남자 그 여자</td>
+					<td>The Disappearance of Eleanor Rigby: Them</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>385,681,400</td>
+					<td>47,813</td>
+					<td>385,681,400</td>
+					<td>47,813</td>
+				</tr>
+			
+				<tr>
+					<td>리버 와이</td>
+					<td>The River Why</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연-H2O 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사랑을 위한 여행</td>
+					<td>The Yellow Handkerchief</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>4,050,000</td>
+					<td>810</td>
+					<td>4,050,000</td>
+					<td>810</td>
+				</tr>
+			
+				<tr>
+					<td>카운테스</td>
+					<td>The Countess</td>
+					<td>2008</td>
+					<td>프랑스,독일</td>
+					<td>사극,드라마,스릴러</td>
+					<td>주연-튜르조 백작역</td>
+					<td>35,531,364</td>
+					<td>4,590</td>
+					<td>35,000,500</td>
+					<td>4,522</td>
+				</tr>
+			
+				<tr>
+					<td>노이즈</td>
+					<td>Noise</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연-슈니어 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>더 킹</td>
+					<td>The King</td>
+					<td>2005</td>
+					<td>미국,영국</td>
+					<td>드라마</td>
+					<td>주연-데이빗 목사역</td>
+					<td>17,371,500</td>
+					<td>2,634</td>
+					<td>17,624,500</td>
+					<td>2,588</td>
+				</tr>
+			
+				<tr>
+					<td>천국에 가까이</td>
+					<td>Nearest to Heaven</td>
+					<td>2002</td>
+					<td>프랑스,스페인,캐나다</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>더러운 전쟁</td>
+					<td>Varian&#039;sWar</td>
+					<td>2001</td>
+					<td>영국,미국,캐나다</td>
+					<td>드라마,전쟁</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>두 낫 디스터브</td>
+					<td>Do Not Disturb</td>
+					<td>2000</td>
+					<td>미국,네덜란드</td>
+					<td>액션,범죄</td>
+					<td>주연-월터역</td>
+					<td>0</td>
+					<td>1,229</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>콘테미네이티드 맨</td>
+					<td>Contaminated Man</td>
+					<td>2000</td>
+					<td>미국,영국,독일</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>4층</td>
+					<td>The 4th Floor</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>공포(호러),미스터리,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>킹메이커</td>
+					<td>The Big Brass Ring</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>원 트루 씽</td>
+					<td>One True Thing</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>프로포지션</td>
+					<td>The Proposition</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>로스트 인 스페이스 </td>
+					<td>Lost In Space</td>
+					<td>1997</td>
+					<td>미국,영국</td>
+					<td>SF,액션,어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>281,193</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>마이클</td>
+					<td>Michael</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>코미디,드라마,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>22,649</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>제인 에어 </td>
+					<td>Jane Eyre</td>
+					<td>1996</td>
+					<td>영국,프랑스,이탈리아,미국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>47,804</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>카우치인뉴욕 </td>
+					<td>A Couch In New York</td>
+					<td>1995</td>
+					<td>프랑스</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>3,250</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스모크 </td>
+					<td>Smoke</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>37,100</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>이세상 끝까지 </td>
+					<td>Until the End of the World</td>
+					<td>1991</td>
+					<td>영국</td>
+					<td>SF,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>8,318</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>닥터</td>
+					<td>The Doctor</td>
+					<td>1991</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>거미여인의 키스</td>
+					<td>Kiss of the Spider Woman</td>
+					<td>1985</td>
+					<td>미국,브라질</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>394,000</td>
+					<td>77</td>
+				</tr>
+			
+				<tr>
+					<td>고르키 파크</td>
+					<td>Gorky Park</td>
+					<td>1983</td>
+					<td>미국</td>
+					<td>드라마,스릴러,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>보디히트</td>
+					<td>Body Heat</td>
+					<td>1981</td>
+					<td>미국</td>
+					<td>범죄,드라마,스릴러</td>
+					<td>주연-네드 레이신역</td>
+					<td>0</td>
+					<td>355,098</td>
+					<td>2,382,000</td>
+					<td>1,097</td>
+				</tr>
+			
+				<tr>
+					<td>상태 개조</td>
+					<td>Altered States</td>
+					<td>1980</td>
+					<td>미국</td>
+					<td>SF,공포(호러)</td>
+					<td>주연-에디 제섭 교수 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

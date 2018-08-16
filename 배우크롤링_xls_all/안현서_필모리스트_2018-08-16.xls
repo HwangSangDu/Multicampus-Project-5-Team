@@ -1,0 +1,138 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '안현서'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>꼬마영웅 바비</td>
+					<td>Bobby the Hedgehog</td>
+					<td>2016</td>
+					<td>중국</td>
+					<td>애니메이션,어드벤처,코미디</td>
+					<td>주연-로즈 - 목소리역(목소리)</td>
+					<td>138,295,000</td>
+					<td>18,488</td>
+					<td>138,398,000</td>
+					<td>18,509</td>
+				</tr>
+			
+				<tr>
+					<td>배저로와 친구들: 신비한 모험</td>
+					<td>Two Buddies and a Badger</td>
+					<td>2015</td>
+					<td>노르웨이</td>
+					<td>애니메이션,코미디,가족,어드벤처,뮤지컬,판타지</td>
+					<td>주연-아만다 한국어 목소리 역(목소리)</td>
+					<td>177,884,400</td>
+					<td>26,185</td>
+					<td>177,884,400</td>
+					<td>26,185</td>
+				</tr>
+			
+				<tr>
+					<td>중2병이라도 사랑이 하고 싶어! 극장판</td>
+					<td>Love, Chunibyo and other delusions:Rikka version</td>
+					<td>2013</td>
+					<td>일본</td>
+					<td>애니메이션,멜로/로맨스</td>
+					<td>주연-타카나시 릿카역(목소리)</td>
+					<td>90,261,500</td>
+					<td>14,064</td>
+					<td>90,261,500</td>
+					<td>14,064</td>
+				</tr>
+			
+				<tr>
+					<td>썬더일레븐 극장판 : 최강군단 오우거의 습격</td>
+					<td></td>
+					<td>2010</td>
+					<td>일본</td>
+					<td>애니메이션,어드벤처,액션</td>
+					<td>조연-왕밤톨역(목소리)</td>
+					<td>811,159,500</td>
+					<td>123,363</td>
+					<td>811,924,000</td>
+					<td>123,462</td>
+				</tr>
+			
+				<tr>
+					<td>손오공: 돌원숭이의 탄생</td>
+					<td>MY SON-GOKU</td>
+					<td>2003</td>
+					<td>일본</td>
+					<td>애니메이션</td>
+					<td>주연-손오공역(목소리)</td>
+					<td>69,621,000</td>
+					<td>10,965</td>
+					<td>69,621,000</td>
+					<td>10,965</td>
+				</tr>
+			
+				<tr>
+					<td>밀림의 왕자 레오2</td>
+					<td>Jungle Emperor Leo</td>
+					<td>1997</td>
+					<td>일본</td>
+					<td>애니메이션</td>
+					<td>주연-르네역(목소리)</td>
+					<td>274,928,000</td>
+					<td>44,988</td>
+					<td>274,928,000</td>
+					<td>44,988</td>
+				</tr>
+			
+				<tr>
+					<td>팬더와 친구들의 모험</td>
+					<td>The Adventure of Panda &amp; Friends</td>
+					<td>1973</td>
+					<td>일본</td>
+					<td>애니메이션</td>
+					<td>조연-할머니역(목소리)</td>
+					<td>235,000</td>
+					<td>47</td>
+					<td>235,000</td>
+					<td>47</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

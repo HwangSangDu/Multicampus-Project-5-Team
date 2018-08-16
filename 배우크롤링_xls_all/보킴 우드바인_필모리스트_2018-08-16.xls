@@ -1,0 +1,164 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '보킴 우드바인'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>스파이더맨: 홈 커밍</td>
+					<td>Spider-Man: Homecoming</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>액션,어드벤처,SF</td>
+					<td>조연</td>
+					<td>59,125,813,820</td>
+					<td>7,258,678</td>
+					<td>59,125,813,820</td>
+					<td>7,258,678</td>
+				</tr>
+			
+				<tr>
+					<td>런어웨이-72</td>
+					<td>AWOL-72</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연-마이런역</td>
+					<td>5,000</td>
+					<td>1</td>
+					<td>5,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>데블</td>
+					<td>Devil</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>공포(호러)</td>
+					<td>주연-경비원역</td>
+					<td>868,744,643</td>
+					<td>118,286</td>
+					<td>855,105,000</td>
+					<td>116,403</td>
+				</tr>
+			
+				<tr>
+					<td>스나이퍼 2</td>
+					<td>Sniper 2</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>조연</td>
+					<td>0</td>
+					<td>64</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>브리드</td>
+					<td>The Breed</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>액션,어드벤처</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>블랙 메일</td>
+					<td>BlackMale</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>쎄크리파이스</td>
+					<td>Sacrifice</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>위시마스터 2</td>
+					<td>Wishmaster 2</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>판타지,공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>덤 앤 더머 서부시대로 가다</td>
+					<td>Almost Heroes</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>서부극(웨스턴),코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,164 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '천정명'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>검은 바다</td>
+					<td>Unalterable </td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>목숨 건 연애</td>
+					<td>Life Risking Romance</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>363,098,800</td>
+					<td>48,010</td>
+					<td>363,098,800</td>
+					<td>48,010</td>
+				</tr>
+			
+				<tr>
+					<td>밤의 여왕</td>
+					<td>Queen of the Night</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>1,762,892,500</td>
+					<td>252,475</td>
+					<td>1,762,892,500</td>
+					<td>252,475</td>
+				</tr>
+			
+				<tr>
+					<td>푸른소금</td>
+					<td>Hindsight</td>
+					<td>2011</td>
+					<td>한국,필리핀</td>
+					<td>액션,드라마,멜로/로맨스</td>
+					<td>주연-애꾸역</td>
+					<td>5,739,824,500</td>
+					<td>771,699</td>
+					<td>5,739,824,500</td>
+					<td>771,699</td>
+				</tr>
+			
+				<tr>
+					<td>헨젤과 그레텔</td>
+					<td>Hansel and Gretel</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마,판타지</td>
+					<td>주연-은수역</td>
+					<td>216,613,000</td>
+					<td>312,459</td>
+					<td>1,970,260,500</td>
+					<td>311,539</td>
+				</tr>
+			
+				<tr>
+					<td>강적</td>
+					<td>Les Formidables</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>액션,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>361,155</td>
+					<td>1,956,841,000</td>
+					<td>318,142</td>
+				</tr>
+			
+				<tr>
+					<td>태풍태양</td>
+					<td>The Aggressives</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>55,970</td>
+					<td>304,884,500</td>
+					<td>47,935</td>
+				</tr>
+			
+				<tr>
+					<td>스무고개</td>
+					<td>TwentyQuestions</td>
+					<td>2003</td>
+					<td></td>
+					<td></td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아 유 레디?</td>
+					<td>R. U. Ready?</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>액션,어드벤처,판타지</td>
+					<td>주연</td>
+					<td></td>
+					<td>20,774</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

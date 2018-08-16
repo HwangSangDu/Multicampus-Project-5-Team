@@ -1,0 +1,112 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '임성언'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>미스 푸줏간</td>
+					<td></td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>코미디,멜로/로맨스,드라마</td>
+					<td>조연</td>
+					<td>3,000</td>
+					<td>1</td>
+					<td>1,715,000</td>
+					<td>215</td>
+				</tr>
+			
+				<tr>
+					<td>멜리스</td>
+					<td>Malice</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연-박은정역</td>
+					<td>90,914,800</td>
+					<td>11,484</td>
+					<td>90,914,800</td>
+					<td>11,484</td>
+				</tr>
+			
+				<tr>
+					<td>겨울, 바다</td>
+					<td>Winter Sea</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>돌이킬 수 없는</td>
+					<td>No Doubt</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>미스터리,드라마</td>
+					<td>주연-유인희역</td>
+					<td>472,974,485</td>
+					<td>65,414</td>
+					<td>465,532,500</td>
+					<td>64,371</td>
+				</tr>
+			
+				<tr>
+					<td>소녀X소녀</td>
+					<td>Girl By Girl</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,952</td>
+					<td>12,643,000</td>
+					<td>1,952</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

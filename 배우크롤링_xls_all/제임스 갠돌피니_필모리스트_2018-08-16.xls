@@ -1,0 +1,203 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '제임스 갠돌피니'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>더 드롭</td>
+					<td>The Drop</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>이너프 세드 </td>
+					<td>Enough Said</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연-알버트 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>킬링 소프틀리</td>
+					<td>Killing Them Softly</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션,스릴러,범죄</td>
+					<td>주연</td>
+					<td>45,341,047</td>
+					<td>6,539</td>
+					<td>45,341,047</td>
+					<td>6,539</td>
+				</tr>
+			
+				<tr>
+					<td>바이올렛 앤 데이지</td>
+					<td>Violet &amp; Daisy</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>270,000</td>
+					<td>54</td>
+					<td>270,000</td>
+					<td>54</td>
+				</tr>
+			
+				<tr>
+					<td>웰컴 투 마이 하트</td>
+					<td>Welcome To The Rileys</td>
+					<td>2010</td>
+					<td>영국,미국</td>
+					<td>드라마</td>
+					<td>주연-더그 라일리역</td>
+					<td>47,841,500</td>
+					<td>6,258</td>
+					<td>49,507,500</td>
+					<td>6,589</td>
+				</tr>
+			
+				<tr>
+					<td>로맨스 &amp; 시가렛</td>
+					<td>Romance &amp; Cigarettes</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>코미디,뮤지컬,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>서바이빙 크리스마스</td>
+					<td>Surviving Christmas</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>36,875</td>
+					<td>174,403,000</td>
+					<td>27,088</td>
+				</tr>
+			
+				<tr>
+					<td>라스트 캐슬</td>
+					<td>The Last Castle</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>23,948</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>소프라노스 시즌 2</td>
+					<td>The Sopranos Season 2</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>8미리</td>
+					<td>8MM</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>스릴러,드라마,미스터리</td>
+					<td>조연</td>
+					<td>0</td>
+					<td>129,475</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>소프라노스</td>
+					<td>The Sopranos</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>더 홀</td>
+					<td>She&#039;s so lovely</td>
+					<td>1997</td>
+					<td>미국,프랑스</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

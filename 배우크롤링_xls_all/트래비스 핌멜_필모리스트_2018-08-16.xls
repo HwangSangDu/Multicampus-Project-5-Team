@@ -1,0 +1,86 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '트래비스 핌멜'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>워크래프트: 전쟁의 서막</td>
+					<td>Warcraft</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지</td>
+					<td>주연</td>
+					<td>10,142,271,205</td>
+					<td>1,163,274</td>
+					<td>10,142,271,205</td>
+					<td>1,163,274</td>
+				</tr>
+			
+				<tr>
+					<td>매기스 플랜</td>
+					<td>Maggie&#039;s Plan</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td>382,361,800</td>
+					<td>47,668</td>
+					<td>382,361,800</td>
+					<td>47,668</td>
+				</tr>
+			
+				<tr>
+					<td>테레사 팔머의 감금</td>
+					<td>Restraint</td>
+					<td>2008</td>
+					<td>호주</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>31,659,000</td>
+					<td>5,279</td>
+					<td>31,659,000</td>
+					<td>5,279</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

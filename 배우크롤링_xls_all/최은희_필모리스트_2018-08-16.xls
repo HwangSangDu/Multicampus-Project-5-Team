@@ -1,0 +1,840 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '최은희'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>연인과 독재자</td>
+					<td>The Lovers and the Despot</td>
+					<td>2016</td>
+					<td>영국</td>
+					<td>다큐멘터리</td>
+					<td>주연</td>
+					<td>45,021,073</td>
+					<td>6,765</td>
+					<td>45,021,073</td>
+					<td>6,765</td>
+				</tr>
+			
+				<tr>
+					<td>영화제국 신필름의 역사</td>
+					<td>The Golden Age of Korean Cinema &amp; The History of Shin Film</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>다큐멘터리</td>
+					<td>주연-본인역</td>
+					<td></td>
+					<td></td>
+					<td>5,303,000</td>
+					<td>1,057</td>
+				</tr>
+			
+				<tr>
+					<td>어머니와 아들</td>
+					<td>Mother and Son</td>
+					<td>1976</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td>2,030</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>빨간 구두</td>
+					<td>Red Shoes</td>
+					<td>1975</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td>1,529</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아이 러브 마마</td>
+					<td>I Love Mama</td>
+					<td>1975</td>
+					<td>한국</td>
+					<td>멜로/로맨스,뮤지컬</td>
+					<td>주연</td>
+					<td></td>
+					<td>21,164</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>동거인</td>
+					<td>An Inmate</td>
+					<td>1974</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td>7,010</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>한강</td>
+					<td>The Han river</td>
+					<td>1974</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td>9,827</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>딸부자집</td>
+					<td>A Family With Many Daughters</td>
+					<td>1973</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td>21,304</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>총각선생</td>
+					<td>An unmarried teacher</td>
+					<td>1972</td>
+					<td>한국</td>
+					<td></td>
+					<td>감독</td>
+					<td></td>
+					<td>23,513</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>해 달 별 그리고 사랑</td>
+					<td>Sun, Moon, Star And Love</td>
+					<td>1972</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td>11,346</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>만종</td>
+					<td>An Evening Bell</td>
+					<td>1970</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>510,000</td>
+					<td>255</td>
+				</tr>
+			
+				<tr>
+					<td>물망초</td>
+					<td>Forget-Me-Not</td>
+					<td>1969</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>11,679,000</td>
+					<td>5,154</td>
+				</tr>
+			
+				<tr>
+					<td>여</td>
+					<td>Woman</td>
+					<td>1968</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>무숙자</td>
+					<td>The Homeless Wanderer</td>
+					<td>1968</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>여자의 일생</td>
+					<td>Life of Woman</td>
+					<td>1968</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>15,403,500</td>
+					<td>8,338</td>
+				</tr>
+			
+				<tr>
+					<td>공주님의 짝사랑</td>
+					<td>One-sided Love of Princess</td>
+					<td>1967</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>감독</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>다정불심</td>
+					<td>Tender Heart</td>
+					<td>1967</td>
+					<td>한국</td>
+					<td>사극</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>5,139,000</td>
+					<td>2,567</td>
+				</tr>
+			
+				<tr>
+					<td>문정왕후</td>
+					<td>The queen Moon Jung</td>
+					<td>1967</td>
+					<td>한국</td>
+					<td>사극</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>대폭군</td>
+					<td>The Goddess of Mercy</td>
+					<td>1966</td>
+					<td>한국</td>
+					<td>전쟁,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,218,000</td>
+					<td>609</td>
+				</tr>
+			
+				<tr>
+					<td>서유기</td>
+					<td></td>
+					<td>1966</td>
+					<td>한국</td>
+					<td></td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>민며느리</td>
+					<td>The Girl Raised As A Future Daughter-In-Law</td>
+					<td>1965</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>감독,주연</td>
+					<td></td>
+					<td></td>
+					<td>5,027,000</td>
+					<td>2,512</td>
+				</tr>
+			
+				<tr>
+					<td>날개 부인</td>
+					<td>Madam Wing</td>
+					<td>1965</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마,가족</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>청일전쟁과 여걸 민비</td>
+					<td>The Sino-Japanese War and Queen Min the Heroine</td>
+					<td>1965</td>
+					<td>한국</td>
+					<td>드라마,사극</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>5,269,000</td>
+					<td>2,627</td>
+				</tr>
+			
+				<tr>
+					<td>벙어리 삼룡이</td>
+					<td>Deaf Samryongi</td>
+					<td>1964</td>
+					<td>한국</td>
+					<td>멜로/로맨스,사극</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>10,015,000</td>
+					<td>4,849</td>
+				</tr>
+			
+				<tr>
+					<td>달기</td>
+					<td>The Last Woman Of Shang</td>
+					<td>1964</td>
+					<td>한국,홍콩</td>
+					<td>전쟁,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>5,931,000</td>
+					<td>2,963</td>
+				</tr>
+			
+				<tr>
+					<td>명동에 밤이 오면</td>
+					<td>When Night Falls at Myeongdong</td>
+					<td>1964</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>빨간 마후라</td>
+					<td>The Red Scarf</td>
+					<td>1964</td>
+					<td>한국</td>
+					<td>액션,전쟁</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>14,361,000</td>
+					<td>7,000</td>
+				</tr>
+			
+				<tr>
+					<td>강화도령</td>
+					<td>A Reluctant Prince</td>
+					<td>1963</td>
+					<td>한국</td>
+					<td>사극,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>5,850,000</td>
+					<td>2,925</td>
+				</tr>
+			
+				<tr>
+					<td>로맨스그레이</td>
+					<td>Love Affair </td>
+					<td>1963</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,080,000</td>
+					<td>540</td>
+				</tr>
+			
+				<tr>
+					<td>쌀</td>
+					<td>Rice</td>
+					<td>1963</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,384,000</td>
+					<td>692</td>
+				</tr>
+			
+				<tr>
+					<td>무정</td>
+					<td>Cool And Cold</td>
+					<td>1962</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>3,369,000</td>
+					<td>1,392</td>
+				</tr>
+			
+				<tr>
+					<td>열녀문</td>
+					<td>Bound by Chastity Rule</td>
+					<td>1962</td>
+					<td>한국</td>
+					<td>사극</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>8,926,000</td>
+					<td>4,212</td>
+				</tr>
+			
+				<tr>
+					<td>폭군 연산</td>
+					<td>Tyrant Yeonsan </td>
+					<td>1962</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>2,954,000</td>
+					<td>1,477</td>
+				</tr>
+			
+				<tr>
+					<td>연산군</td>
+					<td>Prince Yeonsan</td>
+					<td>1961</td>
+					<td>한국</td>
+					<td>사극,드라마</td>
+					<td>주연-신비역</td>
+					<td></td>
+					<td></td>
+					<td>12,541,000</td>
+					<td>6,099</td>
+				</tr>
+			
+				<tr>
+					<td>성춘향</td>
+					<td>Seong Chun-Hyang</td>
+					<td>1961</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스,사극</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>15,914,000</td>
+					<td>7,965</td>
+				</tr>
+			
+				<tr>
+					<td>사랑방 손님과 어머니</td>
+					<td>Mother And A Guest</td>
+					<td>1961</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>6,949,000</td>
+					<td>3,472</td>
+				</tr>
+			
+				<tr>
+					<td>상록수</td>
+					<td>Evergreen tree</td>
+					<td>1961</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>7,487,000</td>
+					<td>3,742</td>
+				</tr>
+			
+				<tr>
+					<td>서울의 지붕 밑</td>
+					<td>Under the Sky of Seoul</td>
+					<td>1961</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>4,841,000</td>
+					<td>2,427</td>
+				</tr>
+			
+				<tr>
+					<td>의적 일지매</td>
+					<td>Iljimae the Chivalrous Robber</td>
+					<td>1961</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>6,703,000</td>
+					<td>3,317</td>
+				</tr>
+			
+				<tr>
+					<td>주마등</td>
+					<td>Kaleidoscope</td>
+					<td>1961</td>
+					<td>한국</td>
+					<td>드라마,가족</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>돌아온 사나이</td>
+					<td>A Returned Man</td>
+					<td>1960</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>3,754,000</td>
+					<td>1,877</td>
+				</tr>
+			
+				<tr>
+					<td>백사부인</td>
+					<td>Madam white snake</td>
+					<td>1960</td>
+					<td>한국</td>
+					<td>사극,공포(호러),멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>3,028,000</td>
+					<td>1,514</td>
+				</tr>
+			
+				<tr>
+					<td>청춘의 윤리</td>
+					<td>The Moral Of Youth</td>
+					<td>1960</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사랑의 역사</td>
+					<td>A Love History</td>
+					<td>1960</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>로맨스 빠빠</td>
+					<td>A Romantic Papa</td>
+					<td>1960</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-역</td>
+					<td></td>
+					<td></td>
+					<td>9,119,000</td>
+					<td>4,564</td>
+				</tr>
+			
+				<tr>
+					<td>이 생명 다하도록</td>
+					<td>To The Death</td>
+					<td>1960</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>8,720,000</td>
+					<td>4,355</td>
+				</tr>
+			
+				<tr>
+					<td>동심초</td>
+					<td>Dongsimcho</td>
+					<td>1959</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>10,664,000</td>
+					<td>5,343</td>
+				</tr>
+			
+				<tr>
+					<td>춘희</td>
+					<td>Chun-Hi</td>
+					<td>1959</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>자유 결혼</td>
+					<td>The Love Marriage</td>
+					<td>1958</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>6,053,000</td>
+					<td>2,912</td>
+				</tr>
+			
+				<tr>
+					<td>지옥화</td>
+					<td>The Flower In Hell</td>
+					<td>1958</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>7,504,000</td>
+					<td>3,448</td>
+				</tr>
+			
+				<tr>
+					<td>돈</td>
+					<td>The Money</td>
+					<td>1958</td>
+					<td>한국</td>
+					<td>드라마,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>2,466,000</td>
+					<td>1,233</td>
+				</tr>
+			
+				<tr>
+					<td>어느 여대생의 고백</td>
+					<td>A College Woman&#039;s Confess</td>
+					<td>1958</td>
+					<td>한국</td>
+					<td></td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>5,292,000</td>
+					<td>2,648</td>
+				</tr>
+			
+				<tr>
+					<td>촌색씨</td>
+					<td>A Country Girl</td>
+					<td>1958</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>4,084,000</td>
+					<td>2,042</td>
+				</tr>
+			
+				<tr>
+					<td>가거라 슬픔이여</td>
+					<td>Farewell Sorrow</td>
+					<td>1957</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>다정도 병이런가</td>
+					<td>Love Caused Pain </td>
+					<td>1957</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>젊은 그들</td>
+					<td>The Youth</td>
+					<td>1955</td>
+					<td>한국</td>
+					<td>사극,액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>꿈</td>
+					<td>Dream</td>
+					<td>1955</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,676,000</td>
+					<td>838</td>
+				</tr>
+			
+				<tr>
+					<td>코리아</td>
+					<td>Korea</td>
+					<td>1954</td>
+					<td>한국</td>
+					<td>다큐멘터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>마음의 고향</td>
+					<td>A Hometown in Heart</td>
+					<td>1949</td>
+					<td></td>
+					<td>드라마</td>
+					<td>주연-미망인역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>밤의 태양</td>
+					<td>The Sun Of Night</td>
+					<td>1948</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>새로운 맹서</td>
+					<td>A New Oath</td>
+					<td>1947</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

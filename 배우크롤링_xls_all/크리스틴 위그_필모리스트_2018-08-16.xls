@@ -1,0 +1,203 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '크리스틴 위그'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>다운사이징</td>
+					<td>Downsizing</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>드라마,코미디</td>
+					<td>주연-오드리 사프라넥역</td>
+					<td>1,237,610,004</td>
+					<td>150,345</td>
+					<td>1,237,610,004</td>
+					<td>150,345</td>
+				</tr>
+			
+				<tr>
+					<td>슈퍼배드 3</td>
+					<td>Despicable Me 3</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td>24,216,987,019</td>
+					<td>3,324,861</td>
+					<td>24,217,091,019</td>
+					<td>3,324,874</td>
+				</tr>
+			
+				<tr>
+					<td>쥬랜더 리턴즈</td>
+					<td>Zoolander 2</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>58,151,000</td>
+					<td>7,853</td>
+					<td>58,151,000</td>
+					<td>7,853</td>
+				</tr>
+			
+				<tr>
+					<td>고스트버스터즈</td>
+					<td>Ghostbusters</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,코미디,SF</td>
+					<td>주연</td>
+					<td>4,116,292,075</td>
+					<td>515,522</td>
+					<td>4,116,570,075</td>
+					<td>515,553</td>
+				</tr>
+			
+				<tr>
+					<td>마스터마인드</td>
+					<td>Masterminds</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>마션</td>
+					<td>The Martian </td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션,어드벤처,SF</td>
+					<td>주연</td>
+					<td>39,663,145,295</td>
+					<td>4,880,800</td>
+					<td>39,672,140,595</td>
+					<td>4,881,865</td>
+				</tr>
+			
+				<tr>
+					<td>스켈리턴 트윈스</td>
+					<td>The Skeleton Twins</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-매기 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>월터의 상상은 현실이 된다</td>
+					<td>The Secret Life of Walter Mitty</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>어드벤처,코미디,드라마</td>
+					<td>주연</td>
+					<td>6,877,576,799</td>
+					<td>941,672</td>
+					<td>6,995,634,499</td>
+					<td>956,196</td>
+				</tr>
+			
+				<tr>
+					<td>미워하고 사랑하고</td>
+					<td>Hateship Loveship</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>270,000</td>
+					<td>54</td>
+				</tr>
+			
+				<tr>
+					<td>내 여자친구의 결혼식</td>
+					<td>Bridesmaids</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연-애니 역</td>
+					<td>463,049,500</td>
+					<td>60,788</td>
+					<td>463,049,500</td>
+					<td>60,788</td>
+				</tr>
+			
+				<tr>
+					<td>맥그루버</td>
+					<td>MacGruber</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>액션,코미디</td>
+					<td>주연-빅키 St.엘모역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>못말리는 형제들</td>
+					<td>The Brothers Solomon</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

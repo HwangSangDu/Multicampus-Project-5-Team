@@ -1,0 +1,177 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '제임스 코스모'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>런던 하이스트</td>
+					<td>Gunned Down</td>
+					<td>2017</td>
+					<td>영국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>더 벙커: 프로젝트 12</td>
+					<td>Project12: The Bunker</td>
+					<td>2016</td>
+					<td>스페인</td>
+					<td>액션,어드벤처</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사이코메트리</td>
+					<td>MONOCHROME</td>
+					<td>2016</td>
+					<td>영국</td>
+					<td>범죄,스릴러</td>
+					<td>조연-로저역</td>
+					<td>300,000</td>
+					<td>60</td>
+					<td>300,000</td>
+					<td>60</td>
+				</tr>
+			
+				<tr>
+					<td>벤허</td>
+					<td>Ben-Hur</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>어드벤처,드라마</td>
+					<td>조연</td>
+					<td>11,410,860,395</td>
+					<td>1,400,301</td>
+					<td>11,411,820,395</td>
+					<td>1,400,397</td>
+				</tr>
+			
+				<tr>
+					<td>브레이크다운</td>
+					<td>Breakdown</td>
+					<td>2016</td>
+					<td>영국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>300,000</td>
+					<td>60</td>
+					<td>300,000</td>
+					<td>60</td>
+				</tr>
+			
+				<tr>
+					<td>엘리미네이터</td>
+					<td>Eliminators</td>
+					<td>2015</td>
+					<td>영국,미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>4,000</td>
+					<td>1</td>
+					<td>4,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>엑소시스트: 죽음의 가족</td>
+					<td>Estranged</td>
+					<td>2015</td>
+					<td>영국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>런던잡</td>
+					<td>Get Lucky </td>
+					<td>2013</td>
+					<td>영국</td>
+					<td>액션,범죄</td>
+					<td>주연</td>
+					<td>10,000</td>
+					<td>2</td>
+					<td>10,000</td>
+					<td>2</td>
+				</tr>
+			
+				<tr>
+					<td>시타델</td>
+					<td>Citadel</td>
+					<td>2012</td>
+					<td>아일랜드</td>
+					<td>드라마,공포(호러),스릴러</td>
+					<td>주연-프리스트역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>브레이브 하트 </td>
+					<td>Brave Heart</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>드라마,액션,전쟁,사극</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>500,798</td>
+					<td>11,472,000</td>
+					<td>5,721</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

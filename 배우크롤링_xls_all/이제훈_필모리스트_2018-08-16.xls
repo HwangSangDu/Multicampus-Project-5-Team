@@ -1,0 +1,268 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '이제훈'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>사냥의 시간(가제)</td>
+					<td></td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>지구: 놀라운 하루</td>
+					<td>Earth – One Amazing Day </td>
+					<td>2017</td>
+					<td>영국</td>
+					<td>다큐멘터리,가족</td>
+					<td>주연(목소리)</td>
+					<td>229,998,100</td>
+					<td>30,200</td>
+					<td>229,998,100</td>
+					<td>30,200</td>
+				</tr>
+			
+				<tr>
+					<td>아이 캔 스피크</td>
+					<td>I Can Speak </td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연-민재역</td>
+					<td>25,532,214,986</td>
+					<td>3,280,243</td>
+					<td>25,539,734,986</td>
+					<td>3,281,433</td>
+				</tr>
+			
+				<tr>
+					<td>박열</td>
+					<td>Anarchist from Colony</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>18,093,543,795</td>
+					<td>2,359,174</td>
+					<td>18,094,175,795</td>
+					<td>2,359,273</td>
+				</tr>
+			
+				<tr>
+					<td>탐정 홍길동: 사라진 마을</td>
+					<td>The Phantom Detective </td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>드라마,액션</td>
+					<td>주연-홍길동역</td>
+					<td>11,514,389,845</td>
+					<td>1,430,666</td>
+					<td>11,516,170,845</td>
+					<td>1,430,885</td>
+				</tr>
+			
+				<tr>
+					<td>파파로티</td>
+					<td>My Paparotti</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-이장호역</td>
+					<td>11,825,934,000</td>
+					<td>1,716,429</td>
+					<td>11,826,024,000</td>
+					<td>1,716,438</td>
+				</tr>
+			
+				<tr>
+					<td>분노의 윤리학</td>
+					<td>An Ethics Lesson</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>스릴러,드라마</td>
+					<td>주연-김정훈역</td>
+					<td>1,658,653,000</td>
+					<td>225,618</td>
+					<td>1,658,653,000</td>
+					<td>225,618</td>
+				</tr>
+			
+				<tr>
+					<td>가디언즈</td>
+					<td>Rise of the Guardians</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>애니메이션,어드벤처</td>
+					<td>주연-잭 프로스트역(목소리)</td>
+					<td>8,212,243,000</td>
+					<td>1,075,584</td>
+					<td>8,245,266,000</td>
+					<td>1,081,096</td>
+				</tr>
+			
+				<tr>
+					<td>점쟁이들</td>
+					<td>Ghost Sweepers</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>코미디,공포(호러)</td>
+					<td>주연-석현역</td>
+					<td>6,731,202,500</td>
+					<td>953,682</td>
+					<td>6,731,202,500</td>
+					<td>953,682</td>
+				</tr>
+			
+				<tr>
+					<td>건축학개론</td>
+					<td>Architecture 101</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연-과거 승민역</td>
+					<td>30,219,800,500</td>
+					<td>4,110,645</td>
+					<td>30,238,893,900</td>
+					<td>4,113,446</td>
+				</tr>
+			
+				<tr>
+					<td>고지전</td>
+					<td>The Front Line</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마,전쟁</td>
+					<td>주연-신일영역</td>
+					<td>21,968,557,600</td>
+					<td>2,945,137</td>
+					<td>21,968,680,600</td>
+					<td>2,945,151</td>
+				</tr>
+			
+				<tr>
+					<td>파수꾼</td>
+					<td>Bleak Night</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-기태 역</td>
+					<td>161,915,200</td>
+					<td>20,885</td>
+					<td>203,712,400</td>
+					<td>25,932</td>
+				</tr>
+			
+				<tr>
+					<td>인플루언스</td>
+					<td>The Influence</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-이척(순종)역</td>
+					<td>1,529,006</td>
+					<td>229,610</td>
+					<td>1,505,000</td>
+					<td>201</td>
+				</tr>
+			
+				<tr>
+					<td>귀 鬼</td>
+					<td>Be with Me</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td>96,385,308</td>
+					<td>13,319</td>
+					<td>94,887,000</td>
+					<td>13,110</td>
+				</tr>
+			
+				<tr>
+					<td>몰디브 환상특급</td>
+					<td>Maldives Express</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>드라마,코미디,스릴러,가족</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>미쓰 커뮤니케이션</td>
+					<td>Miss Communication</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>판타지</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>친구사이?</td>
+					<td>Just Friends?</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>32,866,321</td>
+					<td>5,014</td>
+					<td>34,598,536</td>
+					<td>5,249</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

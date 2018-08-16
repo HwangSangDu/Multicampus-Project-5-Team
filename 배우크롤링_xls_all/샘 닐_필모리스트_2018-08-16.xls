@@ -1,0 +1,489 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '샘 닐'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>피터 래빗</td>
+					<td>Peter Rabbit</td>
+					<td>2018</td>
+					<td>미국,영국,호주</td>
+					<td>애니메이션,가족</td>
+					<td>주연</td>
+					<td>3,002,384,600</td>
+					<td>387,795</td>
+					<td>3,006,258,100</td>
+					<td>388,300</td>
+				</tr>
+			
+				<tr>
+					<td>커뮤터</td>
+					<td>The Commuter</td>
+					<td>2017</td>
+					<td>영국,미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>2,286,602,955</td>
+					<td>286,044</td>
+					<td>2,286,702,955</td>
+					<td>286,064</td>
+				</tr>
+			
+				<tr>
+					<td>스위트 컨트리</td>
+					<td>Sweet Country</td>
+					<td>2017</td>
+					<td>호주</td>
+					<td>어드벤처,범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>나의 딸</td>
+					<td>The Daughter</td>
+					<td>2015</td>
+					<td>호주</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>6,113,200</td>
+					<td>953</td>
+					<td>6,113,200</td>
+					<td>953</td>
+				</tr>
+			
+				<tr>
+					<td>백트랙</td>
+					<td>Backtrack</td>
+					<td>2015</td>
+					<td>호주</td>
+					<td>미스터리,스릴러</td>
+					<td>주연</td>
+					<td>61,638,600</td>
+					<td>8,078</td>
+					<td>61,638,600</td>
+					<td>8,078</td>
+				</tr>
+			
+				<tr>
+					<td>마이더스 어드벤쳐</td>
+					<td>The Adventurer: The Curse of the Midas Box</td>
+					<td>2014</td>
+					<td>영국</td>
+					<td>어드벤처,가족,판타지</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>더 헌터</td>
+					<td>The Hunter</td>
+					<td>2011</td>
+					<td>호주</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>드래곤 펄</td>
+					<td>The Dragon Pearl</td>
+					<td>2011</td>
+					<td>호주</td>
+					<td>판타지,어드벤처</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>데이브레이커스</td>
+					<td>Daybreakers</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>드라마,스릴러,액션</td>
+					<td>주연</td>
+					<td>1,046,842,179</td>
+					<td>137,955</td>
+					<td>1,029,911,000</td>
+					<td>135,621</td>
+				</tr>
+			
+				<tr>
+					<td>딘 스팬리</td>
+					<td>Dean Spanley</td>
+					<td>2008</td>
+					<td>뉴질랜드,영국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>이리지스터블</td>
+					<td>Irresistible</td>
+					<td>2006</td>
+					<td>호주</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>리틀 피쉬</td>
+					<td>Little Fish</td>
+					<td>2005</td>
+					<td>호주</td>
+					<td>범죄,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>예스</td>
+					<td>Yes</td>
+					<td>2004</td>
+					<td>영국,미국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>퍼펙트 스트레인저</td>
+					<td>Perfect Strangers</td>
+					<td>2003</td>
+					<td>뉴질랜드</td>
+					<td>스릴러,드라마</td>
+					<td>주연-남자역</td>
+					<td>0</td>
+					<td>37</td>
+					<td>184,000</td>
+					<td>37</td>
+				</tr>
+			
+				<tr>
+					<td>더러운 짓거리</td>
+					<td>Dirty Deeds</td>
+					<td>2002</td>
+					<td>호주,캐나다</td>
+					<td>코미디,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>쥬라기 공원 3</td>
+					<td>Jurassic Park 3 </td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>SF,어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>518,684</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>쥬키퍼</td>
+					<td>The Zookeeper</td>
+					<td>2001</td>
+					<td>덴마크,영국,체코,네덜란드</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>디쉬</td>
+					<td>The Dish</td>
+					<td>2000</td>
+					<td>호주</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>마술 푸딩</td>
+					<td>The Magic Pudding</td>
+					<td>2000</td>
+					<td>호주</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>바이센테니얼 맨</td>
+					<td>Bicentennial Man</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>SF,드라마,멜로/로맨스</td>
+					<td>주연-리차드 마틴 경역</td>
+					<td>0</td>
+					<td>103,464</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>호스 위스퍼러 </td>
+					<td>The Horse Whisperer</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>31,857</td>
+					<td>106,000</td>
+					<td>53</td>
+				</tr>
+			
+				<tr>
+					<td>달콤한 복수</td>
+					<td>The Revengers&#039; Comedies</td>
+					<td>1998</td>
+					<td>영국,프랑스</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>메를린</td>
+					<td>Merlin</td>
+					<td>1998</td>
+					<td>미국,영국</td>
+					<td>어드벤처,드라마,판타지</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>이벤트호라이즌 </td>
+					<td>Event Horizon</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러,SF</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>28,511</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>매드니스 </td>
+					<td>In The Mouth Of Madness</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>공포(호러)</td>
+					<td>주연-존 트렌트역</td>
+					<td>0</td>
+					<td>33,276</td>
+					<td>1,718,482</td>
+					<td>254</td>
+				</tr>
+			
+				<tr>
+					<td>정글북 </td>
+					<td>Jungle Book</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>86,030</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>레스터레이션</td>
+					<td>Restoration</td>
+					<td>1995</td>
+					<td>미국,일본</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-킹 찰스 2세 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>피아노</td>
+					<td>The Piano</td>
+					<td>1993</td>
+					<td>호주,프랑스,뉴질랜드</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>475,870</td>
+					<td>23,583,500</td>
+					<td>4,744</td>
+				</tr>
+			
+				<tr>
+					<td>쥬라기 공원</td>
+					<td>Jurassic Park</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>SF,액션,어드벤처</td>
+					<td>주연-앨런 그랜트 박사역</td>
+					<td>0</td>
+					<td>1,063,352</td>
+					<td>524,340,000</td>
+					<td>43,187</td>
+				</tr>
+			
+				<tr>
+					<td>이세상 끝까지 </td>
+					<td>Until the End of the World</td>
+					<td>1991</td>
+					<td>영국</td>
+					<td>SF,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>8,318</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>죽음의 항해</td>
+					<td>Dead Calm</td>
+					<td>1989</td>
+					<td>호주</td>
+					<td>드라마,스릴러</td>
+					<td>주연-존 잉그램역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>어둠속의 외침</td>
+					<td>A Cry In The Dark</td>
+					<td>1988</td>
+					<td>호주,미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>블루 러브</td>
+					<td>For Love Alone</td>
+					<td>1986</td>
+					<td>호주</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>먼나라에서 온 성자</td>
+					<td>From A Far Country</td>
+					<td>1981</td>
+					<td>이탈리아</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>3,596</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

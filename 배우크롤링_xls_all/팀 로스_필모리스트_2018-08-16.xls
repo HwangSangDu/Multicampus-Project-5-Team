@@ -1,0 +1,398 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '팀 로스'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>하드코어 헨리</td>
+					<td>Hardcore Henry</td>
+					<td>2016</td>
+					<td>미국,러시아</td>
+					<td>액션,어드벤처,SF</td>
+					<td>주연</td>
+					<td>399,211,211</td>
+					<td>46,373</td>
+					<td>399,211,211</td>
+					<td>46,373</td>
+				</tr>
+			
+				<tr>
+					<td>미스터 라잇</td>
+					<td>MR. RIGHT</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션,코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td>92,430,800</td>
+					<td>12,465</td>
+					<td>92,430,800</td>
+					<td>12,465</td>
+				</tr>
+			
+				<tr>
+					<td>크로닉</td>
+					<td>Chronic</td>
+					<td>2015</td>
+					<td>멕시코</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>45,557,200</td>
+					<td>6,067</td>
+					<td>45,605,200</td>
+					<td>6,073</td>
+				</tr>
+			
+				<tr>
+					<td>헤이트풀8</td>
+					<td>The Hateful Eight</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션,스릴러,서부극(웨스턴)</td>
+					<td>주연</td>
+					<td>1,004,048,400</td>
+					<td>121,278</td>
+					<td>1,004,847,900</td>
+					<td>121,400</td>
+				</tr>
+			
+				<tr>
+					<td>그레이스 오브 모나코</td>
+					<td>Grace of Monaco</td>
+					<td>2014</td>
+					<td>프랑스,미국,벨기에,이탈리아</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>1,752,838,200</td>
+					<td>237,147</td>
+					<td>1,753,300,200</td>
+					<td>237,219</td>
+				</tr>
+			
+				<tr>
+					<td>뫼비우스: 위험한 미션</td>
+					<td>Mobius</td>
+					<td>2013</td>
+					<td>프랑스,벨기에,룩셈부르크</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>브로큰</td>
+					<td>Broken</td>
+					<td>2012</td>
+					<td>영국</td>
+					<td>드라마</td>
+					<td>주연-아치역</td>
+					<td>17,884,000</td>
+					<td>2,582</td>
+					<td>19,381,000</td>
+					<td>2,810</td>
+				</tr>
+			
+				<tr>
+					<td>퍼니 게임</td>
+					<td>Funny Games U.S.</td>
+					<td>2007</td>
+					<td>미국,영국,프랑스</td>
+					<td>범죄,스릴러,드라마</td>
+					<td>주연-조지역</td>
+					<td>7,724,557</td>
+					<td>1,080</td>
+					<td>7,609,000</td>
+					<td>1,063</td>
+				</tr>
+			
+				<tr>
+					<td>유스 위드아웃 유스</td>
+					<td>Youth Without Youth</td>
+					<td>2007</td>
+					<td>미국,루마니아,프랑스,이탈리아,독일</td>
+					<td>드라마,판타지,미스터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>다크 워터</td>
+					<td>Dark Water</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>투 킬 어 킹</td>
+					<td>To Kill a King</td>
+					<td>2003</td>
+					<td>영국,독일</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>머스킷티어</td>
+					<td>The Musketeer</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>드라마,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>63,542</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>혹성탈출</td>
+					<td>Planet Of The Apes</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>SF,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>369,005</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>인빈서블</td>
+					<td>Invincible</td>
+					<td>2001</td>
+					<td>영국,독일,아일랜드,미국</td>
+					<td>드라마,전쟁</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>럭키 넘버</td>
+					<td>Lucky Numbers</td>
+					<td>2000</td>
+					<td>프랑스,미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>바텔</td>
+					<td>Vatel</td>
+					<td>2000</td>
+					<td>프랑스,영국,벨기에</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>전쟁 지역</td>
+					<td>The War Zone</td>
+					<td>1999</td>
+					<td>이탈리아,영국</td>
+					<td>드라마</td>
+					<td>감독</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>피아니스트의 전설</td>
+					<td>The Legend Of 1900</td>
+					<td>1998</td>
+					<td>이탈리아</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-대니 부드만 T.D. 레몬 나인틴 헌드러드 1900 역역</td>
+					<td></td>
+					<td></td>
+					<td>75,000</td>
+					<td>25</td>
+				</tr>
+			
+				<tr>
+					<td>후드럼 </td>
+					<td>Hoodlum</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>드라마,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>409</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>나쁜 친구</td>
+					<td>No Way Home</td>
+					<td>1996</td>
+					<td>미국,영국</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>포 룸 </td>
+					<td>Four Rooms</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>36,346</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>롭 로이 </td>
+					<td>Rob Roy</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>사극,드라마,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>25,991</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>샤칼</td>
+					<td>Little Odessa</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>216,000</td>
+					<td>42</td>
+				</tr>
+			
+				<tr>
+					<td>연인들</td>
+					<td>Bodies, Rest &amp; Motion</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>저수지의 개들 </td>
+					<td>Reservoir Dogs</td>
+					<td>1992</td>
+					<td>미국</td>
+					<td>범죄,드라마,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>43,909</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>완벽한 정부</td>
+					<td>The Perfect Husband</td>
+					<td>1992</td>
+					<td>영국</td>
+					<td>사극</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,894</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>빈센트 </td>
+					<td>Vincent &amp; Theo</td>
+					<td>1990</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>163</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

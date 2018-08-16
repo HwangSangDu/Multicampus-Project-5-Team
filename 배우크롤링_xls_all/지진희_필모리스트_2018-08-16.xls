@@ -1,0 +1,268 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '지진희'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>미안해 사랑해 고마워</td>
+					<td>Summer Snow</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>359,247,800</td>
+					<td>51,207</td>
+					<td>359,247,800</td>
+					<td>51,207</td>
+				</tr>
+			
+				<tr>
+					<td>적도</td>
+					<td>Helios</td>
+					<td>2015</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>27,026,500</td>
+					<td>3,679</td>
+					<td>27,427,500</td>
+					<td>3,778</td>
+				</tr>
+			
+				<tr>
+					<td>연애의 발동 : 상해 여자, 부산 남자</td>
+					<td>Bad Sister</td>
+					<td>2014</td>
+					<td>한국,중국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>2,162,000</td>
+					<td>273</td>
+					<td>2,162,000</td>
+					<td>273</td>
+				</tr>
+			
+				<tr>
+					<td>점쟁이들</td>
+					<td>Ghost Sweepers</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>코미디,공포(호러)</td>
+					<td>스토리-원안</td>
+					<td>6,731,202,500</td>
+					<td>953,682</td>
+					<td>6,731,202,500</td>
+					<td>953,682</td>
+				</tr>
+			
+				<tr>
+					<td>러브픽션</td>
+					<td>Love Fiction</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>조연-주로역</td>
+					<td>13,200,412,500</td>
+					<td>1,726,202</td>
+					<td>13,200,551,500</td>
+					<td>1,726,227</td>
+				</tr>
+			
+				<tr>
+					<td>토마스와 친구들 - 극장판 3</td>
+					<td>Thomas &amp; Friends: Misty Island Rescue</td>
+					<td>2010</td>
+					<td>영국</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td>130,641,500</td>
+					<td>18,845</td>
+					<td>130,697,500</td>
+					<td>18,857</td>
+				</tr>
+			
+				<tr>
+					<td>집 나온 남자들</td>
+					<td>Looking For My Wife</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>주연-역</td>
+					<td>189,538,028</td>
+					<td>26,319</td>
+					<td>186,095,500</td>
+					<td>25,773</td>
+				</tr>
+			
+				<tr>
+					<td>평행이론</td>
+					<td>Parallel Life</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>스릴러,액션,드라마,미스터리</td>
+					<td>주연</td>
+					<td>6,905,140,883</td>
+					<td>937,029</td>
+					<td>6,793,066,000</td>
+					<td>921,111</td>
+				</tr>
+			
+				<tr>
+					<td>낙원-파라다이스</td>
+					<td>Paradise</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연-일호 역</td>
+					<td>3,523,191</td>
+					<td>472</td>
+					<td>3,484,500</td>
+					<td>467</td>
+				</tr>
+			
+				<tr>
+					<td>수</td>
+					<td>Soo</td>
+					<td>2007</td>
+					<td>한국,일본</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>218,314</td>
+					<td>1,208,282,000</td>
+					<td>199,709</td>
+				</tr>
+			
+				<tr>
+					<td>오래된 정원</td>
+					<td>The Old Garden</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>296,532</td>
+					<td>1,490,193,500</td>
+					<td>285,381</td>
+				</tr>
+			
+				<tr>
+					<td>여교수의 은밀한 매력</td>
+					<td>Bewitching Attraction</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>691,735</td>
+					<td>3,926,917,300</td>
+					<td>606,398</td>
+				</tr>
+			
+				<tr>
+					<td>퍼햅스 러브</td>
+					<td>Perhaps Love</td>
+					<td>2005</td>
+					<td>홍콩</td>
+					<td>뮤지컬</td>
+					<td>주연-몬티역</td>
+					<td>0</td>
+					<td>95,594</td>
+					<td>534,168,500</td>
+					<td>83,908</td>
+				</tr>
+			
+				<tr>
+					<td>방아쇠</td>
+					<td>Time of Ghost</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td></td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>여섯 개의 시선</td>
+					<td>If You Were Me</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td>31,171</td>
+					<td>322,000</td>
+					<td>57</td>
+				</tr>
+			
+				<tr>
+					<td>얼굴값</td>
+					<td>Face Value  </td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>H(에이치)</td>
+					<td>H</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>90,000</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

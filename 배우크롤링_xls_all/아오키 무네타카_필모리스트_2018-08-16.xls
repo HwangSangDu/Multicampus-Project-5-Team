@@ -1,0 +1,138 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '아오키 무네타카'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>비에 흔들리는 여자</td>
+					<td>A WOMAN WAVERING IN THE RAIN</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>드라마,스릴러,멜로/로맨스</td>
+					<td>주연-이이다 켄지역</td>
+					<td>250,000</td>
+					<td>50</td>
+					<td>250,000</td>
+					<td>50</td>
+				</tr>
+			
+				<tr>
+					<td>타락경찰 모로보시</td>
+					<td>Twisted Justice</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>범죄,드라마</td>
+					<td>조연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>바람의 검심 : 전설의 최후편</td>
+					<td>Rurouni Kenshin: The Legend Ends</td>
+					<td>2014</td>
+					<td>일본</td>
+					<td>액션,어드벤처</td>
+					<td>주연</td>
+					<td>16,916,100</td>
+					<td>2,163</td>
+					<td>16,916,100</td>
+					<td>2,163</td>
+				</tr>
+			
+				<tr>
+					<td>바람의 검심 : 교토 대화재편</td>
+					<td>Rurouni Kenshin - Kyoto Inferno</td>
+					<td>2013</td>
+					<td>일본</td>
+					<td>액션,어드벤처</td>
+					<td>주연</td>
+					<td>25,230,000</td>
+					<td>3,160</td>
+					<td>25,230,000</td>
+					<td>3,160</td>
+				</tr>
+			
+				<tr>
+					<td>프린세스 사쿠라</td>
+					<td>Princess Sakura : Forbidden Pleasure(桜姫)</td>
+					<td>2013</td>
+					<td>일본</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>8,025,000</td>
+					<td>1,601</td>
+					<td>8,025,000</td>
+					<td>1,601</td>
+				</tr>
+			
+				<tr>
+					<td>가슴 배구단</td>
+					<td>Oppai Volleyball</td>
+					<td>2009</td>
+					<td>일본</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>1,208,200</td>
+					<td>159</td>
+					<td>1,208,200</td>
+					<td>159</td>
+				</tr>
+			
+				<tr>
+					<td>위조지폐</td>
+					<td>Counterfeit</td>
+					<td>2009</td>
+					<td>일본</td>
+					<td>코미디,범죄,스릴러,드라마</td>
+					<td>주연-나카가와 테츠야역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

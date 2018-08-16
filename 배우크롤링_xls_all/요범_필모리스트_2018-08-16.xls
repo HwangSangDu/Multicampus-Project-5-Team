@@ -1,0 +1,112 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '요범'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>길티 오브 마인드</td>
+					<td>Guilty of Mind </td>
+					<td>2017</td>
+					<td>중국</td>
+					<td>액션,범죄,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사부: 영춘권 마스터</td>
+					<td>The Master</td>
+					<td>2015</td>
+					<td>중국</td>
+					<td>드라마,액션,스릴러</td>
+					<td>주연</td>
+					<td>80,000</td>
+					<td>12</td>
+					<td>375,000</td>
+					<td>57</td>
+				</tr>
+			
+				<tr>
+					<td>온리 유</td>
+					<td>Only You</td>
+					<td>2015</td>
+					<td>중국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>96,822,200</td>
+					<td>12,990</td>
+					<td>98,164,200</td>
+					<td>13,291</td>
+				</tr>
+			
+				<tr>
+					<td>백일염화</td>
+					<td>Black Coal, Thin Ice</td>
+					<td>2014</td>
+					<td>중국,홍콩</td>
+					<td>드라마,범죄,미스터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>756,500</td>
+					<td>85</td>
+				</tr>
+			
+				<tr>
+					<td>치킨 포에츠</td>
+					<td>Chicken Poets</td>
+					<td>2002</td>
+					<td>중국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

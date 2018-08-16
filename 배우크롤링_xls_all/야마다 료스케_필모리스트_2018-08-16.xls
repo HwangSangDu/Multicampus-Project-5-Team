@@ -1,0 +1,86 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '야마다 료스케'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>나미야 잡화점의 기적</td>
+					<td>The Miracles of the Namiya General Store</td>
+					<td>2017</td>
+					<td>일본</td>
+					<td>판타지,드라마</td>
+					<td>주연</td>
+					<td>1,460,898,885</td>
+					<td>192,495</td>
+					<td>1,461,498,885</td>
+					<td>192,595</td>
+				</tr>
+			
+				<tr>
+					<td>암살교실: 졸업편</td>
+					<td>Assassination Classroom: Graduation</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>액션,코미디</td>
+					<td>주연</td>
+					<td>6,699,500</td>
+					<td>874</td>
+					<td>34,784,500</td>
+					<td>6,491</td>
+				</tr>
+			
+				<tr>
+					<td>암살교실</td>
+					<td>Assassination Classroom</td>
+					<td>2015</td>
+					<td>일본</td>
+					<td>액션,코미디</td>
+					<td>주연</td>
+					<td>40,197,700</td>
+					<td>5,097</td>
+					<td>40,197,700</td>
+					<td>5,097</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

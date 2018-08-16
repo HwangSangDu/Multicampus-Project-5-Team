@@ -1,0 +1,190 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '주디 데이비스'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>드레스메이커</td>
+					<td>The Dressmaker</td>
+					<td>2015</td>
+					<td>호주</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>447,111,000</td>
+					<td>56,275</td>
+					<td>447,353,000</td>
+					<td>56,316</td>
+				</tr>
+			
+				<tr>
+					<td>스피벳: 천재 발명가의 기묘한 여행</td>
+					<td>The Young and Prodigious T.S. Spivet</td>
+					<td>2013</td>
+					<td>프랑스</td>
+					<td>어드벤처,가족</td>
+					<td>주연</td>
+					<td>192,000</td>
+					<td>37</td>
+					<td>707,000</td>
+					<td>95</td>
+				</tr>
+			
+				<tr>
+					<td>아이 오브 더 스톰</td>
+					<td>The Eye of the Storm</td>
+					<td>2011</td>
+					<td>호주</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>28,069,000</td>
+					<td>4,101</td>
+					<td>28,069,000</td>
+					<td>4,101</td>
+				</tr>
+			
+				<tr>
+					<td>더 높은 곳을 향하여</td>
+					<td>Swimming Upstream</td>
+					<td>2003</td>
+					<td>호주</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>가우디 애프터눈</td>
+					<td>Gaudi Afternoon</td>
+					<td>2001</td>
+					<td>스페인</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>신을 고소한 사나이</td>
+					<td>The Man Who Sued God</td>
+					<td>2001</td>
+					<td>호주</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>쿨 라이프</td>
+					<td>A Cooler Climate</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>셀러브리티</td>
+					<td>Celebrity</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>550,000</td>
+					<td>112</td>
+				</tr>
+			
+				<tr>
+					<td>쇼팽의 연인</td>
+					<td>Impromptu</td>
+					<td>1991</td>
+					<td>영국,프랑스</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연-조르쥬 상드/오로라역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>인도로 가는길 </td>
+					<td>A Passage To India</td>
+					<td>1984</td>
+					<td>미국,영국</td>
+					<td>드라마,어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>135,032</td>
+					<td>228,000</td>
+					<td>76</td>
+				</tr>
+			
+				<tr>
+					<td>SAS 특공대</td>
+					<td>Who Dares Wins</td>
+					<td>1982</td>
+					<td>영국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>309,594</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,164 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '브누와 뽀엘부르드'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>이웃집에 신이 산다</td>
+					<td>The Brand New Testament</td>
+					<td>2015</td>
+					<td>벨기에,프랑스,룩셈부르크</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>791,865,650</td>
+					<td>98,018</td>
+					<td>792,403,650</td>
+					<td>98,085</td>
+				</tr>
+			
+				<tr>
+					<td>나쁜 사랑</td>
+					<td>3 Hearts</td>
+					<td>2014</td>
+					<td>프랑스</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>46,875,500</td>
+					<td>6,107</td>
+					<td>46,875,500</td>
+					<td>6,107</td>
+				</tr>
+			
+				<tr>
+					<td>위대한 출발</td>
+					<td>Le grand soir</td>
+					<td>2012</td>
+					<td>프랑스</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>267,000</td>
+					<td>34</td>
+				</tr>
+			
+				<tr>
+					<td>초콜릿 로맨스</td>
+					<td>Romantics Anonymous</td>
+					<td>2010</td>
+					<td>프랑스,벨기에</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>856,000</td>
+					<td>93</td>
+				</tr>
+			
+				<tr>
+					<td>코코 샤넬</td>
+					<td>Coco Before Chanel</td>
+					<td>2009</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연-에띠엔느 발장 역</td>
+					<td>1,559,386,698</td>
+					<td>210,018</td>
+					<td>1,534,300,000</td>
+					<td>206,769</td>
+				</tr>
+			
+				<tr>
+					<td>아스테릭스: 미션 올림픽 게임</td>
+					<td>Asterix At The Olympic Games</td>
+					<td>2008</td>
+					<td>프랑스</td>
+					<td>코미디,어드벤처,가족</td>
+					<td>주연-브루투스역</td>
+					<td>136,849,632</td>
+					<td>21,678</td>
+					<td>134,805,000</td>
+					<td>21,355</td>
+				</tr>
+			
+				<tr>
+					<td>포디움</td>
+					<td>Podium</td>
+					<td>2004</td>
+					<td>벨기에,프랑스</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>블리트</td>
+					<td>Dead Weight</td>
+					<td>2002</td>
+					<td>프랑스</td>
+					<td>액션,어드벤처,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>0</td>
+					<td>6,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>이웃집 지휘관</td>
+					<td>The Carriers Are Waiting</td>
+					<td>1999</td>
+					<td>프랑스,벨기에,스위스</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

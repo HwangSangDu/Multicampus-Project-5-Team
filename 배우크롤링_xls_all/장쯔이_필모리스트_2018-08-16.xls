@@ -1,0 +1,320 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '장쯔이'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>태평륜 완결편</td>
+					<td>The Crossing Final</td>
+					<td>2017</td>
+					<td>중국</td>
+					<td>드라마,멜로/로맨스,전쟁,액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>태평륜 피안</td>
+					<td>The Crossing 2</td>
+					<td>2015</td>
+					<td>중국</td>
+					<td>드라마,액션,전쟁</td>
+					<td>주연</td>
+					<td>265,000</td>
+					<td>53</td>
+					<td>751,000</td>
+					<td>123</td>
+				</tr>
+			
+				<tr>
+					<td>태평륜</td>
+					<td>The Crossing</td>
+					<td>2014</td>
+					<td>중국</td>
+					<td>드라마,액션,전쟁</td>
+					<td>주연</td>
+					<td>730,000</td>
+					<td>146</td>
+					<td>790,000</td>
+					<td>166</td>
+				</tr>
+			
+				<tr>
+					<td>마이 럭키 스타</td>
+					<td>My Lucky Star</td>
+					<td>2013</td>
+					<td>중국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>270,000</td>
+					<td>54</td>
+				</tr>
+			
+				<tr>
+					<td>일대종사</td>
+					<td>The Grandmaster</td>
+					<td>2012</td>
+					<td>중국</td>
+					<td>액션,드라마</td>
+					<td>주연-궁이역</td>
+					<td>734,730,000</td>
+					<td>101,592</td>
+					<td>734,980,000</td>
+					<td>101,642</td>
+				</tr>
+			
+				<tr>
+					<td>위험한 관계</td>
+					<td>Dangerous Liaisons</td>
+					<td>2012</td>
+					<td>중국</td>
+					<td>멜로/로맨스,전쟁,드라마</td>
+					<td>주연-뚜펀위역</td>
+					<td>2,122,666,230</td>
+					<td>298,086</td>
+					<td>2,122,666,230</td>
+					<td>298,086</td>
+				</tr>
+			
+				<tr>
+					<td>소피의 연애 매뉴얼</td>
+					<td>Sophie&#039;S Revenge</td>
+					<td>2009</td>
+					<td>중국,한국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연-소피역</td>
+					<td>896,131,351</td>
+					<td>121,018</td>
+					<td>883,317,500</td>
+					<td>119,338</td>
+				</tr>
+			
+				<tr>
+					<td>호스맨</td>
+					<td>Horsemen</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>범죄,미스터리,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>매란방</td>
+					<td>Forever Enthralled</td>
+					<td>2008</td>
+					<td>중국</td>
+					<td>드라마,사극,멜로/로맨스</td>
+					<td>주연-맹소동역</td>
+					<td>284,904,682</td>
+					<td>44,131</td>
+					<td>275,367,000</td>
+					<td>42,723</td>
+				</tr>
+			
+				<tr>
+					<td>닌자거북이 TMNT</td>
+					<td>Teenage Mutant Ninja Turtles</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>액션,코미디,어드벤처,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>200,016</td>
+					<td>1,168,946,500</td>
+					<td>193,313</td>
+				</tr>
+			
+				<tr>
+					<td>야연</td>
+					<td>The Banquet</td>
+					<td>2006</td>
+					<td>중국</td>
+					<td>사극,멜로/로맨스</td>
+					<td>주연-황후 완 역</td>
+					<td>0</td>
+					<td>436,903</td>
+					<td>2,365,238,200</td>
+					<td>377,110</td>
+				</tr>
+			
+				<tr>
+					<td>게이샤의 추억</td>
+					<td>Memoirs of a Geisha</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-사유리역</td>
+					<td>0</td>
+					<td>983,635</td>
+					<td>5,337,838,000</td>
+					<td>849,277</td>
+				</tr>
+			
+				<tr>
+					<td>오페레타 너구리 저택</td>
+					<td>Princess Raccoon</td>
+					<td>2005</td>
+					<td>일본</td>
+					<td>멜로/로맨스,뮤지컬</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>2046</td>
+					<td>2046</td>
+					<td>2004</td>
+					<td>홍콩</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>149,700</td>
+					<td>797,104,500</td>
+					<td>123,062</td>
+				</tr>
+			
+				<tr>
+					<td>연인</td>
+					<td>Lovers / House Of Flying Daggers</td>
+					<td>2004</td>
+					<td>중국</td>
+					<td>멜로/로맨스,액션</td>
+					<td>주연-메이역</td>
+					<td>0</td>
+					<td>1,416,000</td>
+					<td>6,644,463,500</td>
+					<td>1,027,354</td>
+				</tr>
+			
+				<tr>
+					<td>자스민 우먼</td>
+					<td>Jasmine Women</td>
+					<td>2004</td>
+					<td>중국</td>
+					<td>가족,멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,922,000</td>
+					<td>224</td>
+				</tr>
+			
+				<tr>
+					<td>퍼플 버터플라이</td>
+					<td>Purple Butterfly</td>
+					<td>2003</td>
+					<td>중국,프랑스</td>
+					<td>드라마,전쟁</td>
+					<td>주연-딩후이역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>영웅: 천하의 시작</td>
+					<td>Hero</td>
+					<td>2002</td>
+					<td>중국</td>
+					<td>액션,드라마,전쟁</td>
+					<td>주연</td>
+					<td>44,066,600</td>
+					<td>9,575</td>
+					<td>44,066,600</td>
+					<td>9,575</td>
+				</tr>
+			
+				<tr>
+					<td>무사</td>
+					<td>Musa-The Warrior</td>
+					<td>2001</td>
+					<td>한국</td>
+					<td>드라마,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>857,148</td>
+					<td>249,000</td>
+					<td>48</td>
+				</tr>
+			
+				<tr>
+					<td>와호장룡</td>
+					<td>Crouching Tiger, Hidden Dragon</td>
+					<td>2000</td>
+					<td>중국</td>
+					<td>사극,액션</td>
+					<td>주연-용역</td>
+					<td>0</td>
+					<td>237,234</td>
+					<td>0</td>
+					<td>0</td>
+				</tr>
+			
+				<tr>
+					<td>집으로 가는길</td>
+					<td>The Road Home</td>
+					<td>1999</td>
+					<td>중국</td>
+					<td>드라마</td>
+					<td>주연-쟈오 디 역</td>
+					<td>0</td>
+					<td>30,183</td>
+					<td>0</td>
+					<td>0</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

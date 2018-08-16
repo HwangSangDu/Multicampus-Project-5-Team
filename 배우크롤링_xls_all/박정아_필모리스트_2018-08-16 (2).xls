@@ -1,0 +1,86 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '박정아'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>날나리 종부전</td>
+					<td>The Taming of the Shrew</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연-천연수 역역</td>
+					<td>181,261,000</td>
+					<td>31,522</td>
+					<td>181,323,000</td>
+					<td>31,236</td>
+				</tr>
+			
+				<tr>
+					<td>박수칠 때 떠나라</td>
+					<td>Murder, Take One</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>드라마,코미디,미스터리</td>
+					<td>주연-여대생 한무숙 역역</td>
+					<td>0</td>
+					<td>2,475,291</td>
+					<td>13,181,626,500</td>
+					<td>2,073,641</td>
+				</tr>
+			
+				<tr>
+					<td>마들렌</td>
+					<td>Madeleine</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-홍성혜 역역</td>
+					<td>0</td>
+					<td>365,656</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

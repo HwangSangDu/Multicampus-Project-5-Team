@@ -1,0 +1,229 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '벤 포스터'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>로스트 인 더스트</td>
+					<td>Hell or High Water</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td>633,772,822</td>
+					<td>81,236</td>
+					<td>639,384,322</td>
+					<td>81,966</td>
+				</tr>
+			
+				<tr>
+					<td>인페르노</td>
+					<td>Inferno</td>
+					<td>2016</td>
+					<td>미국,일본,터키,헝가리</td>
+					<td>미스터리,스릴러</td>
+					<td>주연</td>
+					<td>5,656,281,303</td>
+					<td>689,071</td>
+					<td>5,656,281,303</td>
+					<td>689,071</td>
+				</tr>
+			
+				<tr>
+					<td>워크래프트: 전쟁의 서막</td>
+					<td>Warcraft</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지</td>
+					<td>주연</td>
+					<td>10,142,271,205</td>
+					<td>1,163,274</td>
+					<td>10,142,271,205</td>
+					<td>1,163,274</td>
+				</tr>
+			
+				<tr>
+					<td>챔피언 프로그램</td>
+					<td>The Program</td>
+					<td>2015</td>
+					<td>영국,프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>48,323,400</td>
+					<td>6,301</td>
+					<td>48,323,400</td>
+					<td>6,301</td>
+				</tr>
+			
+				<tr>
+					<td>론 서바이버 </td>
+					<td>Lone Survivor</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>액션,드라마,스릴러</td>
+					<td>주연</td>
+					<td>1,433,147,820</td>
+					<td>190,611</td>
+					<td>1,433,147,820</td>
+					<td>190,611</td>
+				</tr>
+			
+				<tr>
+					<td>러브, 마릴린 </td>
+					<td>Love, Marilyn</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>다큐멘터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>램파트</td>
+					<td>RAMPART</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>범죄,드라마</td>
+					<td>주연-제너럴 테리역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>메카닉</td>
+					<td>The Mechanic</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>드라마,액션,스릴러</td>
+					<td>주연</td>
+					<td>1,666,463,000</td>
+					<td>217,077</td>
+					<td>1,666,463,000</td>
+					<td>217,077</td>
+				</tr>
+			
+				<tr>
+					<td>팬도럼</td>
+					<td>Pandorum</td>
+					<td>2009</td>
+					<td>독일,영국</td>
+					<td>액션,공포(호러),SF,스릴러</td>
+					<td>주연-보워 역</td>
+					<td>1,241,613,605</td>
+					<td>163,494</td>
+					<td>1,223,107,000</td>
+					<td>161,070</td>
+				</tr>
+			
+				<tr>
+					<td>버드 오브 아메리카</td>
+					<td>Birds of America</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>알파독</td>
+					<td>Alpha Dog</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>드라마,범죄</td>
+					<td>주연</td>
+					<td>648,950,794</td>
+					<td>99,692</td>
+					<td>655,519,000</td>
+					<td>100,602</td>
+				</tr>
+			
+				<tr>
+					<td>뱅, 뱅, 넌 죽었다</td>
+					<td>Bang, Bang, You&#039;re Dead</td>
+					<td>2002</td>
+					<td>미국,캐나다</td>
+					<td>범죄,드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>겟오버잇</td>
+					<td>Get Over It</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>뮤지컬,코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>리버티 하이츠</td>
+					<td>Liberty Heights</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

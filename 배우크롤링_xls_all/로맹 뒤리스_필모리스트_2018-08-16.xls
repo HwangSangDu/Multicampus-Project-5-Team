@@ -1,0 +1,333 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '로맹 뒤리스'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>인 더 더스트</td>
+					<td>Just a Breath Away</td>
+					<td>2018</td>
+					<td>프랑스</td>
+					<td>SF</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>미세스 하이드</td>
+					<td>Mrs Hyde</td>
+					<td>2017</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>24,599,400</td>
+					<td>2,995</td>
+					<td>24,865,400</td>
+					<td>3,025</td>
+				</tr>
+			
+				<tr>
+					<td>나의 사적인 여자친구</td>
+					<td>The New Girlfriend</td>
+					<td>2014</td>
+					<td>프랑스</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>77,358,155</td>
+					<td>9,755</td>
+					<td>78,123,355</td>
+					<td>9,860</td>
+				</tr>
+			
+				<tr>
+					<td>무드 인디고</td>
+					<td>Mood Indigo</td>
+					<td>2013</td>
+					<td>프랑스,벨기에</td>
+					<td>드라마,판타지</td>
+					<td>주연</td>
+					<td>375,764,100</td>
+					<td>46,666</td>
+					<td>378,103,230</td>
+					<td>46,998</td>
+				</tr>
+			
+				<tr>
+					<td>사랑은 타이핑 중!</td>
+					<td>POPULAIRE</td>
+					<td>2012</td>
+					<td>프랑스</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>88,024,561</td>
+					<td>13,029</td>
+					<td>88,641,561</td>
+					<td>13,115</td>
+				</tr>
+			
+				<tr>
+					<td>빅 픽처</td>
+					<td>The Big Picture</td>
+					<td>2010</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연-폴 엑스벤역</td>
+					<td>182,722,800</td>
+					<td>25,015</td>
+					<td>183,556,800</td>
+					<td>25,120</td>
+				</tr>
+			
+				<tr>
+					<td>하트 브레이커</td>
+					<td>Heartbreaker</td>
+					<td>2010</td>
+					<td>프랑스</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td>297,081,000</td>
+					<td>40,835</td>
+					<td>297,795,000</td>
+					<td>40,975</td>
+				</tr>
+			
+				<tr>
+					<td>고통</td>
+					<td>Persecution</td>
+					<td>2009</td>
+					<td>프랑스,독일</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>678,000</td>
+					<td>107</td>
+				</tr>
+			
+				<tr>
+					<td>사랑을 부르는, 파리</td>
+					<td>Paris</td>
+					<td>2008</td>
+					<td>프랑스</td>
+					<td>코미디,드라마,멜로/로맨스</td>
+					<td>주연-피에르역</td>
+					<td>57,243,256</td>
+					<td>8,330</td>
+					<td>56,141,000</td>
+					<td>8,171</td>
+				</tr>
+			
+				<tr>
+					<td>몰리에르</td>
+					<td>Moliere</td>
+					<td>2007</td>
+					<td>프랑스</td>
+					<td>코미디</td>
+					<td>주연-장-밥티스트 포클랭역</td>
+					<td></td>
+					<td></td>
+					<td>1,215,000</td>
+					<td>185</td>
+				</tr>
+			
+				<tr>
+					<td>파리에서</td>
+					<td>Inside Paris</td>
+					<td>2006</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td>1,626</td>
+					<td>7,336,000</td>
+					<td>1,099</td>
+				</tr>
+			
+				<tr>
+					<td>내 심장이 건너 뛴 박동</td>
+					<td>The Beat That My Heart Skipped</td>
+					<td>2005</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>32,805,600</td>
+					<td>4,273</td>
+					<td>34,933,600</td>
+					<td>4,596</td>
+				</tr>
+			
+				<tr>
+					<td>사랑은 타이밍</td>
+					<td>The Russian Dolls</td>
+					<td>2005</td>
+					<td>프랑스</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,532</td>
+					<td>9,012,000</td>
+					<td>1,488</td>
+				</tr>
+			
+				<tr>
+					<td>추방된 사람들</td>
+					<td>Exiles</td>
+					<td>2004</td>
+					<td>프랑스</td>
+					<td>드라마,어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>3,931</td>
+					<td>23,730,500</td>
+					<td>3,715</td>
+				</tr>
+			
+				<tr>
+					<td>아르센 루팡 </td>
+					<td>Arsene Lupin</td>
+					<td>2004</td>
+					<td>스페인,프랑스,영국,이탈리아</td>
+					<td>액션,어드벤처,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>그렇게 심각하진 않아</td>
+					<td>No Big Deal</td>
+					<td>2003</td>
+					<td>중국,프랑스</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스페니쉬 아파트먼트</td>
+					<td>Spanish Apartment</td>
+					<td>2002</td>
+					<td>스페인</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>8,840</td>
+					<td>100,000</td>
+					<td>25</td>
+				</tr>
+			
+				<tr>
+					<td>세실 카사르, 17번 </td>
+					<td>Seventeen Times Cecile Cassard</td>
+					<td>2002</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아돌프</td>
+					<td>Adolphe</td>
+					<td>2002</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>비잉 라이트</td>
+					<td>Being Light</td>
+					<td>2001</td>
+					<td>프랑스</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아마도</td>
+					<td>Perhaps</td>
+					<td>1999</td>
+					<td>프랑스</td>
+					<td>코미디,드라마,SF</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>가쵸 딜로</td>
+					<td>Gadjo Dilo</td>
+					<td>1997</td>
+					<td>프랑스</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

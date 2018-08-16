@@ -1,0 +1,190 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '진혜림'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>몽키킹2: 서유기 여정의 시작</td>
+					<td>Monkey King The Legend Begins</td>
+					<td>2016</td>
+					<td>중국</td>
+					<td>액션,판타지</td>
+					<td>주연</td>
+					<td>49,077,600</td>
+					<td>11,156</td>
+					<td>49,195,600</td>
+					<td>11,174</td>
+				</tr>
+			
+				<tr>
+					<td>몽키킹: 손오공의 탄생</td>
+					<td>The Monkey King</td>
+					<td>2013</td>
+					<td>중국</td>
+					<td>판타지,액션,어드벤처</td>
+					<td>주연</td>
+					<td>15,954,600</td>
+					<td>2,182</td>
+					<td>15,954,600</td>
+					<td>2,182</td>
+				</tr>
+			
+				<tr>
+					<td>연의 황후</td>
+					<td>An Empress And The Warriors</td>
+					<td>2008</td>
+					<td>홍콩</td>
+					<td>사극,드라마,액션,멜로/로맨스,판타지</td>
+					<td>주연-연비아 역</td>
+					<td>1,283,731,833</td>
+					<td>199,200</td>
+					<td>1,282,975,500</td>
+					<td>197,011</td>
+				</tr>
+			
+				<tr>
+					<td>대사건</td>
+					<td>Breaking News</td>
+					<td>2004</td>
+					<td>홍콩</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>6,000</td>
+					<td>1</td>
+					<td>1,544,000</td>
+					<td>229</td>
+				</tr>
+			
+				<tr>
+					<td>냉정과 열정사이</td>
+					<td>Between Calm And Passion</td>
+					<td>2001</td>
+					<td>일본</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>222,860</td>
+					<td>372,483,000</td>
+					<td>46,599</td>
+				</tr>
+			
+				<tr>
+					<td>소친친</td>
+					<td>And I Hate You So</td>
+					<td>2000</td>
+					<td>홍콩</td>
+					<td>드라마,멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>15,854</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>라벤다</td>
+					<td>Lavender</td>
+					<td>2000</td>
+					<td>홍콩</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>5,220</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>동경공략</td>
+					<td>Tokyo Raiders</td>
+					<td>2000</td>
+					<td>홍콩</td>
+					<td>액션,코미디</td>
+					<td>주연-메이시 역</td>
+					<td>0</td>
+					<td>17,599</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>반지연</td>
+					<td>Metade Fumaca</td>
+					<td>1999</td>
+					<td>홍콩</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>환영특공 </td>
+					<td>Hot War</td>
+					<td>1998</td>
+					<td>중국,홍콩</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>22,061</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>영원한 사랑</td>
+					<td>Lost And Found</td>
+					<td>1996</td>
+					<td>홍콩</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

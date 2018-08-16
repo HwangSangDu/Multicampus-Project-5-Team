@@ -1,0 +1,164 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '김정석'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>한강블루스</td>
+					<td>Han River</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-추자역</td>
+					<td>16,409,100</td>
+					<td>1,937</td>
+					<td>16,555,100</td>
+					<td>1,968</td>
+				</tr>
+			
+				<tr>
+					<td>동주</td>
+					<td>DONGJU; The Portrait of A Poet</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-몽규부역</td>
+					<td>8,870,143,589</td>
+					<td>1,169,335</td>
+					<td>8,909,265,963</td>
+					<td>1,175,737</td>
+				</tr>
+			
+				<tr>
+					<td>조류인간</td>
+					<td>The Avian Kind</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>20,685,500</td>
+					<td>2,738</td>
+					<td>20,685,500</td>
+					<td>2,738</td>
+				</tr>
+			
+				<tr>
+					<td>우리별 일호와 얼룩소</td>
+					<td>The Satellite Girl and Milk Cow</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>애니메이션,판타지,어드벤처</td>
+					<td>제작</td>
+					<td>290,485,500</td>
+					<td>43,888</td>
+					<td>292,344,500</td>
+					<td>44,411</td>
+				</tr>
+			
+				<tr>
+					<td>들개들</td>
+					<td>Stray Dogs</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>조연-박남식역</td>
+					<td>9,795,500</td>
+					<td>1,617</td>
+					<td>9,795,500</td>
+					<td>1,617</td>
+				</tr>
+			
+				<tr>
+					<td>러시안 소설</td>
+					<td>The Russian Novel</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마,미스터리</td>
+					<td>주연</td>
+					<td>43,250,900</td>
+					<td>5,903</td>
+					<td>43,807,400</td>
+					<td>5,992</td>
+				</tr>
+			
+				<tr>
+					<td>모크샤... 나는 혹은 세상은 어떻게 작동하는가</td>
+					<td>Moksha – The world or I, how does that work?</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>해결사</td>
+					<td>Troubleshooter</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>액션,스릴러</td>
+					<td>단역-부장검사 역</td>
+					<td>14,063,913,437</td>
+					<td>1,873,327</td>
+					<td>13,844,624,000</td>
+					<td>1,843,404</td>
+				</tr>
+			
+				<tr>
+					<td>여기는 어디냐?</td>
+					<td></td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>코미디,SF</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

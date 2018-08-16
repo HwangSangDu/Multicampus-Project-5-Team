@@ -1,0 +1,99 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '레이 스티븐슨'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>빅 게임</td>
+					<td>Big Game</td>
+					<td>2015</td>
+					<td>핀란드,영국,독일</td>
+					<td>액션,어드벤처</td>
+					<td>주연</td>
+					<td>270,000</td>
+					<td>54</td>
+					<td>270,000</td>
+					<td>54</td>
+				</tr>
+			
+				<tr>
+					<td>지.아이.조 2</td>
+					<td>G.I. Joe 2: Retaliation</td>
+					<td>2012</td>
+					<td>미국,캐나다</td>
+					<td>액션,어드벤처,SF</td>
+					<td>주연-파이어플라이역</td>
+					<td>14,457,048,500</td>
+					<td>1,855,917</td>
+					<td>14,457,048,500</td>
+					<td>1,855,917</td>
+				</tr>
+			
+				<tr>
+					<td>아웃포스트</td>
+					<td>Outpost</td>
+					<td>2008</td>
+					<td>영국</td>
+					<td>액션,공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>퍼니셔 2</td>
+					<td>The Punisher: War Zone</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>드라마,범죄,액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>44,000</td>
+					<td>7</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

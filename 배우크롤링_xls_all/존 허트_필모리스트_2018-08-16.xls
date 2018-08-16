@@ -1,0 +1,294 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '존 허트'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>재키</td>
+					<td>Jackie</td>
+					<td>2016</td>
+					<td>칠레,프랑스,미국</td>
+					<td>드라마</td>
+					<td>조연</td>
+					<td>209,835,243</td>
+					<td>26,758</td>
+					<td>209,985,243</td>
+					<td>26,788</td>
+				</tr>
+			
+				<tr>
+					<td>레전드 오브 타잔</td>
+					<td>The Legend of Tarzan</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,어드벤처</td>
+					<td>조연</td>
+					<td>7,196,970,717</td>
+					<td>858,402</td>
+					<td>7,196,970,717</td>
+					<td>858,402</td>
+				</tr>
+			
+				<tr>
+					<td>허큘리스</td>
+					<td>Hercules</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>액션,어드벤처</td>
+					<td>주연</td>
+					<td>669,733,800</td>
+					<td>86,528</td>
+					<td>669,882,800</td>
+					<td>86,553</td>
+				</tr>
+			
+				<tr>
+					<td>오직 사랑하는 이들만이 살아남는다</td>
+					<td>Only Lovers Left Alive</td>
+					<td>2013</td>
+					<td>영국,독일,미국,프랑스</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>조연</td>
+					<td>255,170,443</td>
+					<td>33,818</td>
+					<td>266,879,843</td>
+					<td>35,363</td>
+				</tr>
+			
+				<tr>
+					<td>설국열차</td>
+					<td>Snowpiercer</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>SF,액션</td>
+					<td>주연</td>
+					<td>67,010,077,500</td>
+					<td>9,349,991</td>
+					<td>67,012,453,200</td>
+					<td>9,350,351</td>
+				</tr>
+			
+				<tr>
+					<td>내 아내의 행복한 장례식</td>
+					<td>Jayne Mansfield&#039;s Car</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>라비린토스 : 미궁</td>
+					<td>Labyrinth</td>
+					<td>2012</td>
+					<td>미국,독일,영국,체코</td>
+					<td>드라마,어드벤처,판타지</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>44 인치 가슴</td>
+					<td>44 Inch Chest</td>
+					<td>2009</td>
+					<td>영국</td>
+					<td>범죄,드라마,코미디</td>
+					<td>주연-늙은 남자역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>뉴욕 아이 러브 유</td>
+					<td>New York, I Love You</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>코미디,드라마,멜로/로맨스</td>
+					<td>주연-보이 역</td>
+					<td>647,982,325</td>
+					<td>83,600</td>
+					<td>638,301,000</td>
+					<td>82,356</td>
+				</tr>
+			
+				<tr>
+					<td>아웃랜더</td>
+					<td>Outlander</td>
+					<td>2008</td>
+					<td>미국,독일</td>
+					<td>액션,어드벤처,SF</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>옥스포드 살인사건</td>
+					<td>The Oxford Murders</td>
+					<td>2008</td>
+					<td>스페인,영국,프랑스</td>
+					<td>범죄,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>감춰진 전쟁</td>
+					<td>The Hidden Wars Of Desert Storm</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>다큐멘터리,전쟁</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>뉴 블러드</td>
+					<td>New Blood</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>467</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>유 아 데드</td>
+					<td>You&#039;re Dead...</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>314</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>터커와 플린</td>
+					<td>Monolith</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>액션,SF</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,943</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>천국의 문</td>
+					<td>Heaven&#039;s Gate</td>
+					<td>1980</td>
+					<td>미국</td>
+					<td>기타</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>4,249,000</td>
+					<td>654</td>
+				</tr>
+			
+				<tr>
+					<td>에이리언즈 원 </td>
+					<td>Alien One</td>
+					<td>1979</td>
+					<td>미국</td>
+					<td>SF,공포(호러)</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>109,039</td>
+					<td>77,000</td>
+					<td>16</td>
+				</tr>
+			
+				<tr>
+					<td>미드나잇 익스프레스 </td>
+					<td>Midnight Express</td>
+					<td>1978</td>
+					<td>미국</td>
+					<td>드라마,범죄,스릴러</td>
+					<td>주연-맥스역</td>
+					<td>0</td>
+					<td>44,672</td>
+					<td>240,000</td>
+					<td>48</td>
+				</tr>
+			
+				<tr>
+					<td>릴링턴 가의 살인</td>
+					<td>10 Rillington Place</td>
+					<td>1971</td>
+					<td>영국</td>
+					<td></td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>644,000</td>
+					<td>115</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

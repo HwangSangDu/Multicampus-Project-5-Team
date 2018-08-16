@@ -1,0 +1,73 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '이사벨라 모너'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>시카리오: 데이 오브 솔다도</td>
+					<td>Sicario: Day of the Soldado</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>액션,범죄,드라마</td>
+					<td>주연</td>
+					<td>1,004,789,900</td>
+					<td>124,021</td>
+					<td>1,928,294,400</td>
+					<td>228,383</td>
+				</tr>
+			
+				<tr>
+					<td>넛잡 2</td>
+					<td>The Nut Job 2: Nutty by Nature</td>
+					<td>2017</td>
+					<td>한국,캐나다,중국</td>
+					<td>애니메이션,어드벤처,코미디,가족</td>
+					<td>주연-헤더 목소리역(목소리)</td>
+					<td>3,069,388,100</td>
+					<td>411,787</td>
+					<td>3,069,388,100</td>
+					<td>411,787</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

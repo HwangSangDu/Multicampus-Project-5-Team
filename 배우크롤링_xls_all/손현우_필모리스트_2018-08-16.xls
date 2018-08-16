@@ -1,0 +1,151 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '손현우'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>이수아</td>
+					<td>LEE Su-a</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>감독,주연-손우진역,시나리오(각본),제작,기획</td>
+					<td>922,000</td>
+					<td>134</td>
+					<td>1,129,000</td>
+					<td>233</td>
+				</tr>
+			
+				<tr>
+					<td>에스프레소 앤 크림케이크</td>
+					<td>Espresso &amp; Cream Cake</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>감독</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>차형사</td>
+					<td>Runway Cop</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>코미디,액션</td>
+					<td>단역-거래남역</td>
+					<td>9,752,555,296</td>
+					<td>1,346,754</td>
+					<td>9,752,555,296</td>
+					<td>1,346,754</td>
+				</tr>
+			
+				<tr>
+					<td>변신</td>
+					<td>The Metamorphosis</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>공포(호러),판타지</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>35,006</td>
+					<td>22</td>
+				</tr>
+			
+				<tr>
+					<td>설원의 종소리</td>
+					<td></td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>기타</td>
+					<td>감독</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사랑이 무서워</td>
+					<td>Shotgun Love</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>조연-사진사역</td>
+					<td>3,020,062,500</td>
+					<td>402,876</td>
+					<td>3,020,062,500</td>
+					<td>402,876</td>
+				</tr>
+			
+				<tr>
+					<td>야간 비행</td>
+					<td>Fly by Night</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-남자역</td>
+					<td></td>
+					<td></td>
+					<td>476,900</td>
+					<td>383</td>
+				</tr>
+			
+				<tr>
+					<td>퍼펙트</td>
+					<td>Perfect</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>코미디,멜로/로맨스,기타</td>
+					<td>주연-강석구역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

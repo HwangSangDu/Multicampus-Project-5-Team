@@ -1,0 +1,320 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '더못 멀로니'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>우리 사이의 거대한 산</td>
+					<td>The Mountain Between Us</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>액션,어드벤처,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>슬립리스: 크리미널 나이트</td>
+					<td>Sleepless</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,범죄,스릴러</td>
+					<td>주연</td>
+					<td>146,025,800</td>
+					<td>18,740</td>
+					<td>146,025,800</td>
+					<td>18,740</td>
+				</tr>
+			
+				<tr>
+					<td>인시디어스 3</td>
+					<td>Insidious: Chapter 3</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td>6,396,650,620</td>
+					<td>825,517</td>
+					<td>6,396,650,620</td>
+					<td>825,517</td>
+				</tr>
+			
+				<tr>
+					<td>새크리파이스</td>
+					<td>Sacrifice</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td>14,000</td>
+					<td>2</td>
+					<td>14,000</td>
+					<td>2</td>
+				</tr>
+			
+				<tr>
+					<td>한여름 밤의 유혹</td>
+					<td>Careful What You Wish For</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>270,000</td>
+					<td>54</td>
+				</tr>
+			
+				<tr>
+					<td>어거스트: 가족의 초상</td>
+					<td>August: Osage County</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>542,301,500</td>
+					<td>71,747</td>
+					<td>545,341,500</td>
+					<td>72,377</td>
+				</tr>
+			
+				<tr>
+					<td>잡스</td>
+					<td>Jobs</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-마이크 마쿨라역</td>
+					<td>1,594,113,136</td>
+					<td>225,146</td>
+					<td>1,594,901,136</td>
+					<td>225,343</td>
+				</tr>
+			
+				<tr>
+					<td>스토커</td>
+					<td>Stoker</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연-리차드역</td>
+					<td>2,828,301,674</td>
+					<td>378,729</td>
+					<td>2,832,318,674</td>
+					<td>379,241</td>
+				</tr>
+			
+				<tr>
+					<td>더 그레이</td>
+					<td>The Grey</td>
+					<td>2011</td>
+					<td>미국,캐나다</td>
+					<td>액션,드라마,스릴러</td>
+					<td>주연</td>
+					<td>2,198,959,500</td>
+					<td>292,217</td>
+					<td>2,199,109,500</td>
+					<td>292,267</td>
+				</tr>
+			
+				<tr>
+					<td>더 그레이 감독판</td>
+					<td>The Grey</td>
+					<td>2011</td>
+					<td>미국,캐나다</td>
+					<td>액션,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>그레이시 스토리</td>
+					<td>Gracie</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>드라마,기타</td>
+					<td>주연-브라이언 보웬 역</td>
+					<td>85,848,000</td>
+					<td>14,043</td>
+					<td>85,848,000</td>
+					<td>13,925</td>
+				</tr>
+			
+				<tr>
+					<td>라스트 러브 인 뉴욕</td>
+					<td>Griffin &amp; Phoenix</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>코미디,드라마,멜로/로맨스</td>
+					<td>주연-그리핀 역</td>
+					<td>523,000</td>
+					<td>82</td>
+					<td>523,000</td>
+					<td>82</td>
+				</tr>
+			
+				<tr>
+					<td>웨딩 데이트</td>
+					<td>The Wedding Date</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>세이프티 오브 오브젝츠</td>
+					<td>The Safety Of Objects</td>
+					<td>2001</td>
+					<td>영국,미국,캐나다</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>인베스티게이팅 섹스</td>
+					<td>Investigating Sex</td>
+					<td>2001</td>
+					<td>미국,독일</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>트릭시</td>
+					<td>Trixie</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>굿바이 러버</td>
+					<td>Goodbye Lover</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>범죄,스릴러,코미디</td>
+					<td>주연-제이크역</td>
+					<td>0</td>
+					<td>10,307</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>내남자친구의결혼식 </td>
+					<td>My Best Friend&#039;S Wedding</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>멜로/로맨스,드라마,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>333,035</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>미키 루크의 추적자 </td>
+					<td>The Last Outlaw</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>서부극(웨스턴),액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>12,062</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>흔들리는 영웅</td>
+					<td>Where The Day Takes You</td>
+					<td>1992</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>124</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>실수로 태어난 여자</td>
+					<td>Samantha</td>
+					<td>1991</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,731</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

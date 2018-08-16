@@ -1,0 +1,112 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '피터 퍼스'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>스푹스:MI5</td>
+					<td>Spooks: The Greater Good</td>
+					<td>2015</td>
+					<td>영국</td>
+					<td>액션,드라마,스릴러</td>
+					<td>주연</td>
+					<td>316,642,549</td>
+					<td>41,416</td>
+					<td>316,642,549</td>
+					<td>41,416</td>
+				</tr>
+			
+				<tr>
+					<td>매직 마스터</td>
+					<td>The Magicians</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>액션,판타지,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>완벽한 정부</td>
+					<td>The Perfect Husband</td>
+					<td>1992</td>
+					<td>영국</td>
+					<td>사극</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,894</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>뱀파이어 </td>
+					<td>Lifeforce</td>
+					<td>1986</td>
+					<td>영국</td>
+					<td>공포(호러),SF,스릴러</td>
+					<td>주연-콜린 케인 대령 역</td>
+					<td>0</td>
+					<td>179,653</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>테스</td>
+					<td>Tess</td>
+					<td>1979</td>
+					<td>프랑스,영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>268,206</td>
+					<td>28,086,500</td>
+					<td>6,336</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

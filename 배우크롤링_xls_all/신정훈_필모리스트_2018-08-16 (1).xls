@@ -1,0 +1,86 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '신정훈'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>열정같은소리하고있네</td>
+					<td>YOU CALL IT PASSION</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-로미오 멤버역</td>
+					<td>4,761,399,902</td>
+					<td>654,407</td>
+					<td>4,761,399,902</td>
+					<td>654,407</td>
+				</tr>
+			
+				<tr>
+					<td>열여덟, 열아홉</td>
+					<td>Hoya</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>단역-일강세컨보조1역</td>
+					<td>10,665,000</td>
+					<td>1,501</td>
+					<td>10,665,000</td>
+					<td>1,501</td>
+				</tr>
+			
+				<tr>
+					<td>악마를 보았다</td>
+					<td>I Saw The Devil</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>단역-실개천 전경역</td>
+					<td>14,148,937,025</td>
+					<td>1,848,418</td>
+					<td>13,919,462,500</td>
+					<td>1,817,069</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

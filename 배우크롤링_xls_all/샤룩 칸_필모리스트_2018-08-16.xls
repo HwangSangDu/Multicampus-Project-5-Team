@@ -1,0 +1,346 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '샤룩 칸'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>샤룩칸의 팬</td>
+					<td>Fan</td>
+					<td>2015</td>
+					<td>인도,크로아티아</td>
+					<td>액션,스릴러,드라마</td>
+					<td>주연-가라브찬다/아리안칸나 역역</td>
+					<td>386,000</td>
+					<td>109</td>
+					<td>392,000</td>
+					<td>110</td>
+				</tr>
+			
+				<tr>
+					<td>첸나이 익스프레스</td>
+					<td>Chennai Express</td>
+					<td>2013</td>
+					<td>인도</td>
+					<td>액션,코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>천재 사기꾼 돈: 세상을 속여라</td>
+					<td>Don2</td>
+					<td>2011</td>
+					<td>인도</td>
+					<td>액션,스릴러,범죄</td>
+					<td>주연</td>
+					<td>168,000</td>
+					<td>36</td>
+					<td>168,000</td>
+					<td>36</td>
+				</tr>
+			
+				<tr>
+					<td>내 이름은 칸</td>
+					<td>My Name Is Khan</td>
+					<td>2010</td>
+					<td>인도</td>
+					<td>드라마</td>
+					<td>주연-리즈완 칸역</td>
+					<td>2,820,922,500</td>
+					<td>381,243</td>
+					<td>2,821,380,000</td>
+					<td>381,334</td>
+				</tr>
+			
+				<tr>
+					<td>빌루</td>
+					<td>Billu</td>
+					<td>2009</td>
+					<td>인도</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>그 남자의 사랑법</td>
+					<td>A Couple Made By God</td>
+					<td>2008</td>
+					<td>인도</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>31,305,500</td>
+					<td>4,103</td>
+					<td>31,305,500</td>
+					<td>4,103</td>
+				</tr>
+			
+				<tr>
+					<td>옴 샨티 옴</td>
+					<td>Om Shanti Om</td>
+					<td>2007</td>
+					<td>인도</td>
+					<td>멜로/로맨스,액션</td>
+					<td>주연</td>
+					<td>11,958,000</td>
+					<td>1,558</td>
+					<td>12,364,200</td>
+					<td>1,627</td>
+				</tr>
+			
+				<tr>
+					<td>파이팅! 인도 </td>
+					<td>Chak De India</td>
+					<td>2007</td>
+					<td>인도</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>752,000</td>
+					<td>188</td>
+				</tr>
+			
+				<tr>
+					<td>파헬리</td>
+					<td>Paheli</td>
+					<td>2005</td>
+					<td>인도</td>
+					<td>판타지,뮤지컬</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>메후나</td>
+					<td>Main Hoon Na</td>
+					<td>2004</td>
+					<td>인도</td>
+					<td>뮤지컬,액션</td>
+					<td>주연-람 소령 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>비르와 자라</td>
+					<td>Veer-Zaara </td>
+					<td>2004</td>
+					<td>인도</td>
+					<td>드라마,멜로/로맨스,뮤지컬</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>195,000</td>
+					<td>100</td>
+				</tr>
+			
+				<tr>
+					<td>스와데스</td>
+					<td>Swades</td>
+					<td>2004</td>
+					<td>인도</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>우리는 진정한 인도인</td>
+					<td>Chalte Chalte</td>
+					<td>2003</td>
+					<td>인도</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-라즈 마투르 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>나는 그대의 것</td>
+					<td>Hum Tumhare Hain Sanam</td>
+					<td>2002</td>
+					<td>인도</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>데브다스</td>
+					<td>Devdas</td>
+					<td>2002</td>
+					<td>인도</td>
+					<td>뮤지컬,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>까삐꾸씨 까삐깜</td>
+					<td>Sometimes Happy, Sometimes Sad</td>
+					<td>2001</td>
+					<td>인도</td>
+					<td>뮤지컬,코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아소카</td>
+					<td>Asoka</td>
+					<td>2001</td>
+					<td>인도</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>조쉬</td>
+					<td>Josh</td>
+					<td>2000</td>
+					<td>인도</td>
+					<td>액션,드라마,뮤지컬,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>카레가</td>
+					<td>Har Dil Jo Pyar Karega...</td>
+					<td>2000</td>
+					<td>인도</td>
+					<td>드라마,뮤지컬,멜로/로맨스</td>
+					<td>조연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>헤이 람</td>
+					<td>Hey Ram</td>
+					<td>2000</td>
+					<td>인도</td>
+					<td>드라마,사극</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>나는 테러리스트를 사랑했다</td>
+					<td>From The Heart</td>
+					<td>1998</td>
+					<td>인도</td>
+					<td>드라마,멜로/로맨스,뮤지컬</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>코일라</td>
+					<td>Koyla</td>
+					<td>1997</td>
+					<td>인도</td>
+					<td>액션,코미디,범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>용감한 자가 신부를 데려가리</td>
+					<td>The Big-Hearted Will Win the Bride</td>
+					<td>1995</td>
+					<td>인도</td>
+					<td>코미디,가족,멜로/로맨스</td>
+					<td>주연-라즈 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,151 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '히가시데 마사히로'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>데스노트: 더 뉴 월드</td>
+					<td>DEATH NOTE Light up the NEW world</td>
+					<td>2017</td>
+					<td>일본</td>
+					<td>범죄,드라마,스릴러</td>
+					<td>주연</td>
+					<td>220,886,363</td>
+					<td>28,723</td>
+					<td>220,886,363</td>
+					<td>28,723</td>
+				</tr>
+			
+				<tr>
+					<td>나는 내일, 어제의 너와 만난다</td>
+					<td>My tomorrow, your yesterday</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>멜로/로맨스,판타지,SF</td>
+					<td>주연</td>
+					<td>1,345,847,400</td>
+					<td>175,670</td>
+					<td>1,346,791,900</td>
+					<td>175,816</td>
+				</tr>
+			
+				<tr>
+					<td>크리피: 일가족 연쇄 실종 사건</td>
+					<td>Creepy</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>공포(호러),스릴러</td>
+					<td>조연</td>
+					<td>57,037,900</td>
+					<td>7,130</td>
+					<td>58,143,900</td>
+					<td>7,284</td>
+				</tr>
+			
+				<tr>
+					<td>고닌 사가: 5인의 복수</td>
+					<td>GONIN SAGA</td>
+					<td>2015</td>
+					<td>일본</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아오하라이드</td>
+					<td>Blue Spring Ride</td>
+					<td>2014</td>
+					<td>일본</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>5,234,000</td>
+					<td>650</td>
+					<td>5,234,000</td>
+					<td>650</td>
+				</tr>
+			
+				<tr>
+					<td>크로우즈 익스플로드</td>
+					<td>Crows Explode</td>
+					<td>2014</td>
+					<td>일본</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>두근두근, 도쿄!</td>
+					<td>It All Began When I Met You</td>
+					<td>2013</td>
+					<td>일본</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>키리시마가 동아리활동 그만둔대</td>
+					<td>The Kirishima Thing</td>
+					<td>2012</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>6,532,200</td>
+					<td>865</td>
+					<td>8,721,200</td>
+					<td>1,162</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

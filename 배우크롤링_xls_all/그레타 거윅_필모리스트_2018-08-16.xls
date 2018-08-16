@@ -1,0 +1,190 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '그레타 거윅'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>레이디 버드</td>
+					<td>Lady Bird</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>감독</td>
+					<td>828,329,700</td>
+					<td>101,781</td>
+					<td>828,329,700</td>
+					<td>101,781</td>
+				</tr>
+			
+				<tr>
+					<td>우리의 20세기</td>
+					<td>20th Century Women</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>287,148,600</td>
+					<td>35,296</td>
+					<td>287,612,600</td>
+					<td>35,360</td>
+				</tr>
+			
+				<tr>
+					<td>재키</td>
+					<td>Jackie</td>
+					<td>2016</td>
+					<td>칠레,프랑스,미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>209,835,243</td>
+					<td>26,758</td>
+					<td>209,985,243</td>
+					<td>26,788</td>
+				</tr>
+			
+				<tr>
+					<td>매기스 플랜</td>
+					<td>Maggie&#039;s Plan</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td>382,361,800</td>
+					<td>47,668</td>
+					<td>382,361,800</td>
+					<td>47,668</td>
+				</tr>
+			
+				<tr>
+					<td>미스트리스 아메리카</td>
+					<td>Mistress America</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>65,584,200</td>
+					<td>7,995</td>
+					<td>65,584,200</td>
+					<td>7,995</td>
+				</tr>
+			
+				<tr>
+					<td>알파치노의 은밀한 관계</td>
+					<td>The Humbling</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>143,000</td>
+					<td>64</td>
+					<td>143,000</td>
+					<td>64</td>
+				</tr>
+			
+				<tr>
+					<td>에덴: 로스트 인 뮤직</td>
+					<td>Eden</td>
+					<td>2014</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>14,244,300</td>
+					<td>1,769</td>
+					<td>14,244,300</td>
+					<td>1,769</td>
+				</tr>
+			
+				<tr>
+					<td>프란시스 하</td>
+					<td>Frances Ha</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연-프란시스역</td>
+					<td>566,652,570</td>
+					<td>72,372</td>
+					<td>571,481,570</td>
+					<td>73,000</td>
+				</tr>
+			
+				<tr>
+					<td>로라 버서스</td>
+					<td>Lola Versus</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연-로라역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>방황하는 소녀들</td>
+					<td>DAMSELS IN DISTRESS</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>363,000</td>
+					<td>44</td>
+					<td>363,000</td>
+					<td>44</td>
+				</tr>
+			
+				<tr>
+					<td>아서</td>
+					<td>Arthur</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연-나오미 퀸 역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

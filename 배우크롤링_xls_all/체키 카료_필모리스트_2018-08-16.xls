@@ -1,0 +1,216 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '체키 카료'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>벨과 세바스찬</td>
+					<td>Belle and Sebastien</td>
+					<td>2013</td>
+					<td>프랑스</td>
+					<td>어드벤처</td>
+					<td>주연</td>
+					<td>217,537,000</td>
+					<td>30,368</td>
+					<td>220,029,000</td>
+					<td>30,900</td>
+				</tr>
+			
+				<tr>
+					<td>대부 : 끝나지 않은 이야기</td>
+					<td>A Gang Story</td>
+					<td>2011</td>
+					<td>프랑스</td>
+					<td>범죄,액션</td>
+					<td>주연</td>
+					<td>5,225,000</td>
+					<td>1,596</td>
+					<td>5,439,000</td>
+					<td>1,625</td>
+				</tr>
+			
+				<tr>
+					<td>더블 다운</td>
+					<td>Double Down </td>
+					<td>2002</td>
+					<td>프랑스,영국,아일랜드,캐나다</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>자파</td>
+					<td>Arabian Nights</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>가족,판타지,어드벤처</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>백만장자 열대어</td>
+					<td>Like A Fish Out Of Water</td>
+					<td>1999</td>
+					<td>프랑스</td>
+					<td>코미디,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>도베르만 </td>
+					<td>Dobermann</td>
+					<td>1997</td>
+					<td>프랑스</td>
+					<td>범죄,액션</td>
+					<td>주연-크리스티니역</td>
+					<td>0</td>
+					<td>8,102</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>해비태트</td>
+					<td>Habitat</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>SF,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>130</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>노스트라다무스 </td>
+					<td>Nostradamus</td>
+					<td>1994</td>
+					<td>영국</td>
+					<td>드라마,사극</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>199,951</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>검은 천사</td>
+					<td>The Black Angel</td>
+					<td>1994</td>
+					<td>프랑스</td>
+					<td>범죄,드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>302,000</td>
+					<td>57</td>
+				</tr>
+			
+				<tr>
+					<td>하이 아트</td>
+					<td>High Art</td>
+					<td>1991</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,826</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>이자벨 에버하트</td>
+					<td>Isabelle Eberhardt</td>
+					<td>1991</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,144</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>니키타</td>
+					<td>Nikita</td>
+					<td>1990</td>
+					<td>프랑스</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>74,208</td>
+					<td>11,066,000</td>
+					<td>5,407</td>
+				</tr>
+			
+				<tr>
+					<td>격정</td>
+					<td>L&#039;Amour Braque</td>
+					<td>1985</td>
+					<td>프랑스</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,781</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

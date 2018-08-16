@@ -1,0 +1,281 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '에밀리 왓슨'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>몬스터 패밀리</td>
+					<td>Monster Family</td>
+					<td>2017</td>
+					<td>독일</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td>2,941,183,700</td>
+					<td>397,633</td>
+					<td>2,941,183,700</td>
+					<td>397,633</td>
+				</tr>
+			
+				<tr>
+					<td>리틀 보이</td>
+					<td>Little Boy</td>
+					<td>2015</td>
+					<td>미국,멕시코</td>
+					<td>드라마,전쟁</td>
+					<td>주연</td>
+					<td>100,778,300</td>
+					<td>14,343</td>
+					<td>100,778,300</td>
+					<td>14,343</td>
+				</tr>
+			
+				<tr>
+					<td>벨</td>
+					<td>Belle</td>
+					<td>2013</td>
+					<td>영국</td>
+					<td>드라마</td>
+					<td>주연-레이디 맨스필드 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>워 호스</td>
+					<td>War Horse</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>전쟁,드라마</td>
+					<td>조연</td>
+					<td>734,302,500</td>
+					<td>102,195</td>
+					<td>734,302,500</td>
+					<td>102,195</td>
+				</tr>
+			
+				<tr>
+					<td>영혼을 빌려드립니다</td>
+					<td>Cold Souls</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>반딧불이 정원</td>
+					<td>Fireflies in the Garden</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>가족,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>워터호스</td>
+					<td>The Water Horse : Legend Of The Deep</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>어드벤처,가족,판타지</td>
+					<td>주연-앤 맥모로우 역</td>
+					<td>629,620,000</td>
+					<td>106,028</td>
+					<td>629,017,000</td>
+					<td>105,918</td>
+				</tr>
+			
+				<tr>
+					<td>크루세이드 : 타임머신</td>
+					<td>CRUSADE : A MARCH THROUGH TIME</td>
+					<td>2007</td>
+					<td>영국</td>
+					<td>어드벤처,판타지</td>
+					<td>조연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>세퍼레이트 라이즈</td>
+					<td>Separate Lies</td>
+					<td>2005</td>
+					<td>영국</td>
+					<td>멜로/로맨스,스릴러,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>백 투 가야</td>
+					<td>Back To Gaya</td>
+					<td>2004</td>
+					<td>독일</td>
+					<td>애니메이션,판타지</td>
+					<td>주연</td>
+					<td>250,000</td>
+					<td>50</td>
+					<td>250,000</td>
+					<td>50</td>
+				</tr>
+			
+				<tr>
+					<td>피터 셀러스의 삶과 죽음</td>
+					<td>The Life And Death Of Peter Sellers</td>
+					<td>2004</td>
+					<td>미국,영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>이퀼리브리엄</td>
+					<td>Equilibrium</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>액션,드라마,SF,스릴러</td>
+					<td>주연-메리 오브라이언역</td>
+					<td>0</td>
+					<td>261,889</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>펀치 드렁크 러브</td>
+					<td>Punch Drunk Love</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>15,594</td>
+					<td>4,058,000</td>
+					<td>691</td>
+				</tr>
+			
+				<tr>
+					<td>체스왕 루진</td>
+					<td>The Luzhin Defense</td>
+					<td>2000</td>
+					<td>영국,프랑스</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>트릭시</td>
+					<td>Trixie</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>안젤라스 애쉬스</td>
+					<td>Angela&#039;s Ashes</td>
+					<td>1999</td>
+					<td>미국,아일랜드</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>더 복서 </td>
+					<td>The Boxer</td>
+					<td>1998</td>
+					<td>영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,001</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>브레이킹 더 웨이브</td>
+					<td>Breaking The Waves</td>
+					<td>1996</td>
+					<td>덴마크,아이슬란드,프랑스,노르웨이,스웨덴</td>
+					<td>드라마,뮤지컬</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>40,737</td>
+					<td>1,258,000</td>
+					<td>151</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

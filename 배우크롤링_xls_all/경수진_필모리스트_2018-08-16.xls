@@ -1,0 +1,112 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '경수진'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>임금님의 사건수첩</td>
+					<td>The King&#039;s Case Note</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>코미디,어드벤처,액션</td>
+					<td>조연-선화역</td>
+					<td>12,648,793,723</td>
+					<td>1,634,403</td>
+					<td>12,651,193,723</td>
+					<td>1,635,003</td>
+				</tr>
+			
+				<tr>
+					<td>무서운 이야기 3 : 화성에서 온 소녀</td>
+					<td>Horror Stories III</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td>784,148,500</td>
+					<td>97,804</td>
+					<td>784,148,500</td>
+					<td>97,804</td>
+				</tr>
+			
+				<tr>
+					<td>무서운 이야기 3 &#039;로드레이지&#039;</td>
+					<td></td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>남자사용설명서</td>
+					<td>How to Use Guys with Secret Tips</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>조연-김미라역</td>
+					<td>3,606,480,257</td>
+					<td>507,890</td>
+					<td>3,606,654,257</td>
+					<td>507,913</td>
+				</tr>
+			
+				<tr>
+					<td>홀리</td>
+					<td>HOLLY</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연</td>
+					<td>6,538,000</td>
+					<td>1,699</td>
+					<td>6,710,000</td>
+					<td>1,785</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

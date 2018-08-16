@@ -1,0 +1,112 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '킷 해링턴'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>드래곤 길들이기 3</td>
+					<td>How to Train Your Dragon 3</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>애니메이션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>브림스톤</td>
+					<td>Brimstone</td>
+					<td>2016</td>
+					<td>네덜란드,프랑스,독일,벨기에,스웨덴,영국</td>
+					<td>미스터리,스릴러,서부극(웨스턴)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>6,600</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>스푹스:MI5</td>
+					<td>Spooks: The Greater Good</td>
+					<td>2015</td>
+					<td>영국</td>
+					<td>액션,드라마,스릴러</td>
+					<td>주연</td>
+					<td>316,642,549</td>
+					<td>41,416</td>
+					<td>316,642,549</td>
+					<td>41,416</td>
+				</tr>
+			
+				<tr>
+					<td>청춘의 증언</td>
+					<td>Testament of Youth</td>
+					<td>2014</td>
+					<td>영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>60,118,700</td>
+					<td>8,005</td>
+					<td>62,298,100</td>
+					<td>8,622</td>
+				</tr>
+			
+				<tr>
+					<td>폼페이: 최후의 날</td>
+					<td>Pompeii</td>
+					<td>2014</td>
+					<td>미국,독일</td>
+					<td>액션,어드벤처,드라마</td>
+					<td>주연</td>
+					<td>10,303,127,700</td>
+					<td>1,373,873</td>
+					<td>10,303,127,700</td>
+					<td>1,373,873</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,268 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '김민희'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>강변 호텔</td>
+					<td>Hotel by the River</td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-아름역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>그 후</td>
+					<td>The Day After</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>142,319,508</td>
+					<td>18,648</td>
+					<td>142,482,508</td>
+					<td>18,667</td>
+				</tr>
+			
+				<tr>
+					<td>풀잎들</td>
+					<td>Grass</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-아름역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>클레어의 카메라</td>
+					<td>Claire&#039;s Camera</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>75,238,300</td>
+					<td>9,424</td>
+					<td>75,289,300</td>
+					<td>9,430</td>
+				</tr>
+			
+				<tr>
+					<td>밤의 해변에서 혼자</td>
+					<td>On the Beach at Night Alone </td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>438,976,092</td>
+					<td>56,995</td>
+					<td>439,840,592</td>
+					<td>57,110</td>
+				</tr>
+			
+				<tr>
+					<td>아가씨</td>
+					<td>The Handmaiden</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>스릴러,드라마</td>
+					<td>주연-아가씨역</td>
+					<td>35,211,229,991</td>
+					<td>4,287,839</td>
+					<td>35,219,128,991</td>
+					<td>4,288,750</td>
+				</tr>
+			
+				<tr>
+					<td>아가씨(확장판)</td>
+					<td>The Handmaiden</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>스릴러,드라마</td>
+					<td>주연-아가씨역</td>
+					<td></td>
+					<td></td>
+					<td>106,018,200</td>
+					<td>13,828</td>
+				</tr>
+			
+				<tr>
+					<td>지금은맞고그때는틀리다</td>
+					<td>Right Now, Wrong Then</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-윤희정역</td>
+					<td>664,112,100</td>
+					<td>80,614</td>
+					<td>665,149,092</td>
+					<td>80,734</td>
+				</tr>
+			
+				<tr>
+					<td>우는 남자</td>
+					<td>No Tears for the Dead</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>액션,드라마</td>
+					<td>주연</td>
+					<td>4,923,607,800</td>
+					<td>603,409</td>
+					<td>4,924,852,800</td>
+					<td>603,495</td>
+				</tr>
+			
+				<tr>
+					<td>연애의 온도</td>
+					<td>Very Ordinary Couple</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>13,798,864,446</td>
+					<td>1,865,195</td>
+					<td>13,800,120,446</td>
+					<td>1,865,354</td>
+				</tr>
+			
+				<tr>
+					<td>뒷담화: 감독이 미쳤어요</td>
+					<td>Behind the Camera</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>38,535,100</td>
+					<td>5,284</td>
+					<td>38,795,100</td>
+					<td>5,317</td>
+				</tr>
+			
+				<tr>
+					<td>화차</td>
+					<td>Helpless</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>미스터리</td>
+					<td>주연-선영역</td>
+					<td>18,459,203,000</td>
+					<td>2,436,400</td>
+					<td>18,463,007,000</td>
+					<td>2,436,884</td>
+				</tr>
+			
+				<tr>
+					<td>모비딕</td>
+					<td>Moby Dick</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>스릴러,드라마</td>
+					<td>주연</td>
+					<td>3,264,596,000</td>
+					<td>430,936</td>
+					<td>3,264,596,000</td>
+					<td>430,936</td>
+				</tr>
+			
+				<tr>
+					<td>여배우들</td>
+					<td>The Actresses</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연,시나리오(각본)-공동각본</td>
+					<td>3,784,176,467</td>
+					<td>514,052</td>
+					<td>3,778,911,800</td>
+					<td>513,405</td>
+				</tr>
+			
+				<tr>
+					<td>뜨거운 것이 좋아</td>
+					<td>Hellcats</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>3,790,235,833</td>
+					<td>590,409</td>
+					<td>3,790,681,000</td>
+					<td>578,834</td>
+				</tr>
+			
+				<tr>
+					<td>서프라이즈</td>
+					<td>Surprise Party</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td>110,642</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>순애보</td>
+					<td>Asako In Ruby Shoes</td>
+					<td>2000</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>조연</td>
+					<td>0</td>
+					<td>46,148</td>
+					<td>287,000</td>
+					<td>59</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

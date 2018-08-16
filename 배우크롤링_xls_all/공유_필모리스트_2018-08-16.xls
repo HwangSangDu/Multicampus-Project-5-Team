@@ -1,0 +1,203 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '공유'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>밀정</td>
+					<td>The Age of Shadows</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>61,269,783,831</td>
+					<td>7,500,420</td>
+					<td>61,270,079,831</td>
+					<td>7,500,457</td>
+				</tr>
+			
+				<tr>
+					<td>부산행</td>
+					<td>TRAIN TO BUSAN</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>93,178,283,048</td>
+					<td>11,565,479</td>
+					<td>93,182,579,048</td>
+					<td>11,566,862</td>
+				</tr>
+			
+				<tr>
+					<td>남과 여</td>
+					<td>A Man and A Woman</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>1,651,122,533</td>
+					<td>203,775</td>
+					<td>1,651,122,533</td>
+					<td>203,775</td>
+				</tr>
+			
+				<tr>
+					<td>용의자</td>
+					<td>The Suspect</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>액션,스릴러</td>
+					<td>주연-지동철역</td>
+					<td>30,037,161,000</td>
+					<td>4,131,248</td>
+					<td>30,037,521,000</td>
+					<td>4,131,338</td>
+				</tr>
+			
+				<tr>
+					<td>도가니</td>
+					<td>Silenced</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>35,566,854,800</td>
+					<td>4,662,822</td>
+					<td>35,567,476,000</td>
+					<td>4,662,926</td>
+				</tr>
+			
+				<tr>
+					<td>김종욱 찾기</td>
+					<td>Finding Mr. Destiny</td>
+					<td>2010</td>
+					<td>한국,인도</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연-기준역</td>
+					<td>8,271,660,983</td>
+					<td>1,130,638</td>
+					<td>8,209,024,000</td>
+					<td>1,122,225</td>
+				</tr>
+			
+				<tr>
+					<td>용이간다</td>
+					<td>Like A Dragon</td>
+					<td>2007</td>
+					<td>일본</td>
+					<td>액션</td>
+					<td>주연-박철역</td>
+					<td>0</td>
+					<td>833</td>
+					<td>5,472,000</td>
+					<td>833</td>
+				</tr>
+			
+				<tr>
+					<td>잠복근무</td>
+					<td>She&#039;s on Duty</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>코미디,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,914,941</td>
+					<td>9,590,663,500</td>
+					<td>1,533,225</td>
+				</tr>
+			
+				<tr>
+					<td>S 다이어리</td>
+					<td>S Diary</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,531,840</td>
+					<td>7,024,070,500</td>
+					<td>1,098,583</td>
+				</tr>
+			
+				<tr>
+					<td>슈퍼스타 감사용</td>
+					<td>Mr. Gam’s Victory</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>834,706</td>
+					<td>4,073,017,000</td>
+					<td>627,199</td>
+				</tr>
+			
+				<tr>
+					<td>그녀를 모르면 간첩</td>
+					<td>A Spy Girl</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>137,413</td>
+					<td>187,798,000</td>
+					<td>30,435</td>
+				</tr>
+			
+				<tr>
+					<td>동갑내기 과외하기</td>
+					<td>My Tutor Friend</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연-이종수역</td>
+					<td></td>
+					<td>4,937,573</td>
+					<td>727,000</td>
+					<td>118</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

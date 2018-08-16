@@ -1,0 +1,307 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '엠마누엘 베아르'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>마이 미스트리스</td>
+					<td>My Mistress</td>
+					<td>2014</td>
+					<td>호주</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>5,000</td>
+					<td>1</td>
+					<td>5,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>파리, 사랑한 날들</td>
+					<td>It Begins with the End</td>
+					<td>2010</td>
+					<td>프랑스</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>25,860,000</td>
+					<td>3,369</td>
+					<td>25,902,000</td>
+					<td>3,379</td>
+				</tr>
+			
+				<tr>
+					<td>크라임</td>
+					<td>A Crime</td>
+					<td>2006</td>
+					<td>프랑스,미국</td>
+					<td>범죄,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>랑페르</td>
+					<td>The Hell</td>
+					<td>2005</td>
+					<td>프랑스,벨기에,일본,이탈리아</td>
+					<td>드라마</td>
+					<td>주연-소피역</td>
+					<td>0</td>
+					<td>6,952</td>
+					<td>47,159,500</td>
+					<td>6,777</td>
+				</tr>
+			
+				<tr>
+					<td>나탈리</td>
+					<td>Nathalie...</td>
+					<td>2003</td>
+					<td>프랑스,스페인</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>마리와 줄리앙 이야기</td>
+					<td>The Story Of Marie And Julien</td>
+					<td>2003</td>
+					<td>프랑스,이탈리아</td>
+					<td>멜로/로맨스,미스터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>666,000</td>
+					<td>106</td>
+				</tr>
+			
+				<tr>
+					<td>스트레이드</td>
+					<td>Strayed</td>
+					<td>2003</td>
+					<td>프랑스,영국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>리허설</td>
+					<td>Replay</td>
+					<td>2000</td>
+					<td>캐나다,프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>운명</td>
+					<td>Les Destinees Sentimentales</td>
+					<td>2000</td>
+					<td>프랑스,스위스</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>562,000</td>
+					<td>98</td>
+				</tr>
+			
+				<tr>
+					<td>잃어버린 시간을 찾아서</td>
+					<td>Time Regained</td>
+					<td>1999</td>
+					<td>프랑스,이탈리아</td>
+					<td>드라마,멜로/로맨스,전쟁</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>크리스마스 트리</td>
+					<td>Season&#039;s Beatings</td>
+					<td>1999</td>
+					<td>프랑스</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>544,000</td>
+					<td>78</td>
+				</tr>
+			
+				<tr>
+					<td>미션 임파서블 </td>
+					<td>Mission Impossible</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>액션,어드벤처,미스터리</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>622,237</td>
+					<td>575,000</td>
+					<td>90</td>
+				</tr>
+			
+				<tr>
+					<td>넬리 앤 아르노 </td>
+					<td>Nelly And Mr. Arnaud</td>
+					<td>1995</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>9</td>
+					<td>275,000</td>
+					<td>64</td>
+				</tr>
+			
+				<tr>
+					<td>프랑스 여인 </td>
+					<td>A French Woman</td>
+					<td>1995</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>55</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>지옥</td>
+					<td>Hell</td>
+					<td>1994</td>
+					<td>프랑스</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,513,000</td>
+					<td>270</td>
+				</tr>
+			
+				<tr>
+					<td>금지된 사랑</td>
+					<td>A Heart In Winter</td>
+					<td>1993</td>
+					<td>프랑스</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>20,825</td>
+					<td>576,000</td>
+					<td>112</td>
+				</tr>
+			
+				<tr>
+					<td>누드 모델 </td>
+					<td>The Beautiful Troublemaker</td>
+					<td>1991</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>14,046</td>
+					<td>876,000</td>
+					<td>133</td>
+				</tr>
+			
+				<tr>
+					<td>엘리베이터를 내려서 왼쪽으로</td>
+					<td>A Geuche En Sortant De L&#039;Ascenseur</td>
+					<td>1988</td>
+					<td>프랑스</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>49,005</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>마농의 샘</td>
+					<td>Manon Of The Spring</td>
+					<td>1986</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연-마농역</td>
+					<td>0</td>
+					<td>247,639</td>
+					<td>404,000</td>
+					<td>80</td>
+				</tr>
+			
+				<tr>
+					<td>마농의 샘 2</td>
+					<td>Manon Of The Spring</td>
+					<td>1986</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

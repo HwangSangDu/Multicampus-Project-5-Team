@@ -1,0 +1,281 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '캐시 베이츠'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>위풍당당 질리 홉킨스</td>
+					<td>The Great Gilly Hopkins </td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>코미디,가족,드라마</td>
+					<td>주연</td>
+					<td>14,192,500</td>
+					<td>2,153</td>
+					<td>14,208,500</td>
+					<td>2,157</td>
+				</tr>
+			
+				<tr>
+					<td>컴플리트 언노운</td>
+					<td>Complete Unknown</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>드라마,미스터리,스릴러</td>
+					<td>조연-니나 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>리틀 빗 오브 헤븐</td>
+					<td>A Little Bit Of Heaven</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>발렌타인 데이</td>
+					<td>Valentine&#039;S Day</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>1,337,699,931</td>
+					<td>172,997</td>
+					<td>1,314,085,500</td>
+					<td>169,529</td>
+				</tr>
+			
+				<tr>
+					<td>뷰티풀 프렌즈</td>
+					<td>Bonneville</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>576,000</td>
+					<td>52</td>
+					<td>576,000</td>
+					<td>52</td>
+				</tr>
+			
+				<tr>
+					<td>렐러티브 스트레인저스</td>
+					<td>Relative Strangers</td>
+					<td>2006</td>
+					<td>미국,독일</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>산 루이스 레이의 다리</td>
+					<td>The Bridge of San Luis Rey</td>
+					<td>2004</td>
+					<td>스페인,영국,프랑스</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>어바웃 슈미트</td>
+					<td>About Schmidt</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>176,948</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>러브 리자</td>
+					<td>Love Liza</td>
+					<td>2002</td>
+					<td>미국,프랑스,독일</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>조건 없는 사랑</td>
+					<td>Unconditional Love</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>드라마,코미디,뮤지컬</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>워터보이</td>
+					<td>The Waterboy</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>조연</td>
+					<td>0</td>
+					<td>9,974</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>디아볼릭 </td>
+					<td>Diabolique</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>드라마,공포(호러),스릴러,미스터리</td>
+					<td>주연-셜리 보겔역</td>
+					<td>0</td>
+					<td>188,328</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>돌로레스 클레이븐 </td>
+					<td>Dolores Claiborne</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>미스터리,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>116,822</td>
+					<td>96,000</td>
+					<td>32</td>
+				</tr>
+			
+				<tr>
+					<td>꿈이 지나간 자리</td>
+					<td>Curse Of The Starving Class</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,085</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>우리들만의 집</td>
+					<td>A Home Of Our Own</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>드라마,가족</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>후라이드 그린 토마토</td>
+					<td>Fried Green Tomatoes At The Whistle Stop Cafe</td>
+					<td>1991</td>
+					<td>미국</td>
+					<td>드라마,코미디</td>
+					<td>주연-에블린 코치역</td>
+					<td>0</td>
+					<td>111,972</td>
+					<td>927,000</td>
+					<td>206</td>
+				</tr>
+			
+				<tr>
+					<td>미저리</td>
+					<td>Misery</td>
+					<td>1990</td>
+					<td>미국</td>
+					<td>스릴러,공포(호러),드라마</td>
+					<td>주연-애니 윌키스역</td>
+					<td>0</td>
+					<td>99,753</td>
+					<td>300,000</td>
+					<td>100</td>
+				</tr>
+			
+				<tr>
+					<td>미궁의 살인 사건</td>
+					<td>Murder Ordained</td>
+					<td>1987</td>
+					<td>미국</td>
+					<td>범죄</td>
+					<td>주연-바비 버크 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,203 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '도미닉 쿠퍼'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>맘마미아!2</td>
+					<td>MAMMA MIA! HERE WE GO AGAIN</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>뮤지컬</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>10,405,491,188</td>
+					<td>1,218,382</td>
+				</tr>
+			
+				<tr>
+					<td>워크래프트: 전쟁의 서막</td>
+					<td>Warcraft</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지</td>
+					<td>주연</td>
+					<td>10,142,271,205</td>
+					<td>1,163,274</td>
+					<td>10,142,271,205</td>
+					<td>1,163,274</td>
+				</tr>
+			
+				<tr>
+					<td>스트라튼</td>
+					<td>Stratton</td>
+					<td>2016</td>
+					<td>영국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>미스 유 올레디</td>
+					<td>Miss You Already</td>
+					<td>2015</td>
+					<td>영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>36,295,200</td>
+					<td>4,885</td>
+					<td>36,295,200</td>
+					<td>4,885</td>
+				</tr>
+			
+				<tr>
+					<td>드라큘라: 전설의 시작</td>
+					<td>Dracula Untold</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>판타지,액션</td>
+					<td>주연</td>
+					<td>10,607,703,908</td>
+					<td>1,321,751</td>
+					<td>10,607,703,908</td>
+					<td>1,321,751</td>
+				</tr>
+			
+				<tr>
+					<td>니드 포 스피드</td>
+					<td>Need for Speed</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>액션,범죄,드라마,스릴러</td>
+					<td>주연</td>
+					<td>835,859,900</td>
+					<td>105,340</td>
+					<td>835,859,900</td>
+					<td>105,340</td>
+				</tr>
+			
+				<tr>
+					<td>리저너블 다우트</td>
+					<td>Reasonable Doubt</td>
+					<td>2013</td>
+					<td>독일</td>
+					<td>범죄,스릴러</td>
+					<td>주연</td>
+					<td>9,510,500</td>
+					<td>1,435</td>
+					<td>9,510,500</td>
+					<td>1,435</td>
+				</tr>
+			
+				<tr>
+					<td>퍼펙트</td>
+					<td>Dead man down</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>액션,범죄,드라마</td>
+					<td>조연-다시역</td>
+					<td>118,503,500</td>
+					<td>18,179</td>
+					<td>118,503,500</td>
+					<td>18,179</td>
+				</tr>
+			
+				<tr>
+					<td>섬머 인 페브러리</td>
+					<td>Summer in February</td>
+					<td>2013</td>
+					<td>영국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-AJ 머닝스역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>링컨: 뱀파이어 헌터</td>
+					<td>Abraham Lincoln: Vampire Hunter</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션,스릴러,공포(호러)</td>
+					<td>주연</td>
+					<td>2,750,911,500</td>
+					<td>344,876</td>
+					<td>2,753,130,000</td>
+					<td>345,175</td>
+				</tr>
+			
+				<tr>
+					<td>데블스 더블</td>
+					<td>The Devil&#039;s Double</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>액션,스릴러,드라마</td>
+					<td>주연</td>
+					<td>9,537,500</td>
+					<td>1,397</td>
+					<td>9,537,500</td>
+					<td>1,397</td>
+				</tr>
+			
+				<tr>
+					<td>언 애듀케이션</td>
+					<td>An Education</td>
+					<td>2009</td>
+					<td>영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>21,358,842</td>
+					<td>2,794</td>
+					<td>21,023,500</td>
+					<td>2,750</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

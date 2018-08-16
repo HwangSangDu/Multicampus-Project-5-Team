@@ -1,0 +1,268 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '박보영'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>너의 결혼식</td>
+					<td>On Your Wedding Day</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>140,730,000</td>
+					<td>15,613</td>
+				</tr>
+			
+				<tr>
+					<td>열정같은소리하고있네</td>
+					<td>YOU CALL IT PASSION</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-도라희역</td>
+					<td>4,761,399,902</td>
+					<td>654,407</td>
+					<td>4,761,399,902</td>
+					<td>654,407</td>
+				</tr>
+			
+				<tr>
+					<td>돌연변이</td>
+					<td>Collective Invention</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>주연-주진역</td>
+					<td>748,936,684</td>
+					<td>100,543</td>
+					<td>748,936,684</td>
+					<td>100,543</td>
+				</tr>
+			
+				<tr>
+					<td>경성학교: 사라진 소녀들</td>
+					<td>The Silenced</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>미스터리,드라마</td>
+					<td>주연-차주란역</td>
+					<td>2,749,027,700</td>
+					<td>356,342</td>
+					<td>2,749,755,100</td>
+					<td>356,436</td>
+				</tr>
+			
+				<tr>
+					<td>피끓는 청춘</td>
+					<td>Hot Young Bloods</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>코미디,멜로/로맨스,드라마</td>
+					<td>주연-박영숙역</td>
+					<td>11,688,382,888</td>
+					<td>1,676,040</td>
+					<td>11,688,382,888</td>
+					<td>1,676,040</td>
+				</tr>
+			
+				<tr>
+					<td>눈의 여왕</td>
+					<td>The Snow Queen</td>
+					<td>2012</td>
+					<td>러시아</td>
+					<td>애니메이션</td>
+					<td>주연-겔다역(목소리)</td>
+					<td>1,846,221,000</td>
+					<td>276,913</td>
+					<td>1,848,244,000</td>
+					<td>277,260</td>
+				</tr>
+			
+				<tr>
+					<td>늑대소년-확장판</td>
+					<td>A Werewolf Boy-Director&#039;s Cut</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마,판타지</td>
+					<td>주연-소녀역</td>
+					<td>2,868,302,500</td>
+					<td>414,083</td>
+					<td>2,869,918,500</td>
+					<td>414,285</td>
+				</tr>
+			
+				<tr>
+					<td>늑대소년</td>
+					<td>A Werewolf Boy</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마,판타지</td>
+					<td>주연-소녀역</td>
+					<td>46,593,107,500</td>
+					<td>6,654,837</td>
+					<td>46,594,814,400</td>
+					<td>6,655,068</td>
+				</tr>
+			
+				<tr>
+					<td>미확인 동영상 : 절대클릭금지</td>
+					<td>Don&#039;t Click</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>공포(호러)</td>
+					<td>주연-세희역</td>
+					<td>5,939,840,500</td>
+					<td>867,386</td>
+					<td>5,939,840,500</td>
+					<td>867,386</td>
+				</tr>
+			
+				<tr>
+					<td>리오</td>
+					<td>Rio</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>애니메이션,어드벤처,코미디</td>
+					<td>주연-쥬엘역(목소리)</td>
+					<td>5,022,007,500</td>
+					<td>645,191</td>
+					<td>5,021,719,500</td>
+					<td>645,151</td>
+				</tr>
+			
+				<tr>
+					<td>정글피쉬</td>
+					<td></td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-이은수 역역</td>
+					<td></td>
+					<td></td>
+					<td>44,000</td>
+					<td>11</td>
+				</tr>
+			
+				<tr>
+					<td>릴레이</td>
+					<td>If You Were Me 4</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-김희수역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>시선 1318</td>
+					<td>If You Were Me 4</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-김희수역</td>
+					<td>30,076,796</td>
+					<td>4,707</td>
+					<td>29,866,500</td>
+					<td>4,681</td>
+				</tr>
+			
+				<tr>
+					<td>과속스캔들</td>
+					<td>Scandal Makers</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연-황정남역</td>
+					<td>53,940,101,534</td>
+					<td>8,245,523</td>
+					<td>53,801,341,400</td>
+					<td>8,223,342</td>
+				</tr>
+			
+				<tr>
+					<td>초감각 커플</td>
+					<td>The ESP Couple</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>멜로/로맨스,미스터리</td>
+					<td>주연-현진역</td>
+					<td>24,646,130</td>
+					<td>3,733</td>
+					<td>24,641,500</td>
+					<td>3,732</td>
+				</tr>
+			
+				<tr>
+					<td>울학교 이티</td>
+					<td>Our School&#039;s E.T.</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>주연-한송이역</td>
+					<td>4,156,170,833</td>
+					<td>651,439</td>
+					<td>4,159,767,500</td>
+					<td>652,178</td>
+				</tr>
+			
+				<tr>
+					<td>이퀄</td>
+					<td>Equal</td>
+					<td>2005</td>
+					<td></td>
+					<td></td>
+					<td>주연-김다미역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

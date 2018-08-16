@@ -1,0 +1,177 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '마일즈 텔러'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>온리 더 브레이브</td>
+					<td>Only the Brave</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>390,912,300</td>
+					<td>49,612</td>
+					<td>390,912,300</td>
+					<td>49,612</td>
+				</tr>
+			
+				<tr>
+					<td>땡큐 포 유어 서비스</td>
+					<td>Thank You for Your Service</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>드라마,전쟁</td>
+					<td>주연</td>
+					<td>14,249,000</td>
+					<td>1,965</td>
+					<td>14,249,000</td>
+					<td>1,965</td>
+				</tr>
+			
+				<tr>
+					<td>블리드 포 디스</td>
+					<td>Bleed for This</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>68,551,300</td>
+					<td>8,655</td>
+					<td>68,551,300</td>
+					<td>8,655</td>
+				</tr>
+			
+				<tr>
+					<td>다이버전트 시리즈: 얼리전트</td>
+					<td>The Divergent Series: Allegiant</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,어드벤처,SF</td>
+					<td>주연</td>
+					<td>818,897,545</td>
+					<td>103,556</td>
+					<td>818,897,545</td>
+					<td>103,556</td>
+				</tr>
+			
+				<tr>
+					<td>판타스틱 4</td>
+					<td>Fantastic 4</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션,판타지,SF</td>
+					<td>주연</td>
+					<td>3,029,310,600</td>
+					<td>399,667</td>
+					<td>3,029,310,600</td>
+					<td>399,667</td>
+				</tr>
+			
+				<tr>
+					<td>인서전트</td>
+					<td>Insurgent</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>SF,액션</td>
+					<td>주연</td>
+					<td>2,158,449,889</td>
+					<td>282,662</td>
+					<td>2,158,719,844</td>
+					<td>282,707</td>
+				</tr>
+			
+				<tr>
+					<td>댓 어쿼드 모먼트-그 어색한 순간</td>
+					<td>That Awkward Moment</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연-다니엘역</td>
+					<td>270,000</td>
+					<td>54</td>
+					<td>270,000</td>
+					<td>54</td>
+				</tr>
+			
+				<tr>
+					<td>투 나잇 스탠드</td>
+					<td>Two Night Stand</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>41,721,500</td>
+					<td>5,108</td>
+					<td>41,721,500</td>
+					<td>5,108</td>
+				</tr>
+			
+				<tr>
+					<td>위플래쉬</td>
+					<td>Whiplash</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>12,656,715,045</td>
+					<td>1,589,048</td>
+					<td>12,656,715,045</td>
+					<td>1,589,048</td>
+				</tr>
+			
+				<tr>
+					<td>21 앤드 오버</td>
+					<td>21 and over</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연-밀러역</td>
+					<td>1,000,000</td>
+					<td>200</td>
+					<td>1,000,000</td>
+					<td>200</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

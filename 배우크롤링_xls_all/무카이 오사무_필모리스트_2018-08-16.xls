@@ -1,0 +1,112 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '무카이 오사무'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>오 브라더, 오 시스터!</td>
+					<td>Oh Brother, Oh Sister!</td>
+					<td>2014</td>
+					<td>일본</td>
+					<td>코미디,멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>469,000</td>
+					<td>75</td>
+					<td>469,000</td>
+					<td>75</td>
+				</tr>
+			
+				<tr>
+					<td>모모세, 여기를 봐</td>
+					<td>My Pretend Girlfriend</td>
+					<td>2014</td>
+					<td>일본</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>24,662,500</td>
+					<td>3,144</td>
+					<td>24,716,500</td>
+					<td>3,152</td>
+				</tr>
+			
+				<tr>
+					<td>노란 코끼리</td>
+					<td>Yellow Elephant</td>
+					<td>2013</td>
+					<td>일본</td>
+					<td>멜로/로맨스</td>
+					<td>주연-무코 아유무역</td>
+					<td>12,299,500</td>
+					<td>2,317</td>
+					<td>12,299,500</td>
+					<td>2,317</td>
+				</tr>
+			
+				<tr>
+					<td>새 구두를 사야해</td>
+					<td>I Have To Buy New Shoes</td>
+					<td>2013</td>
+					<td>일본</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>92,332,000</td>
+					<td>12,845</td>
+					<td>92,919,000</td>
+					<td>12,934</td>
+				</tr>
+			
+				<tr>
+					<td>파라다이스 키스</td>
+					<td>Paradise Kiss</td>
+					<td>2011</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>11,012,000</td>
+					<td>1,572</td>
+					<td>11,012,000</td>
+					<td>1,572</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

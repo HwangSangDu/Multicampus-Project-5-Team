@@ -1,0 +1,320 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '이미숙'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>특종: 량첸살인기</td>
+					<td>The Exclusive : Beat the Devil&#039;s Tattoo</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>주연-백국장역</td>
+					<td>4,754,763,118</td>
+					<td>616,481</td>
+					<td>4,754,763,118</td>
+					<td>616,481</td>
+				</tr>
+			
+				<tr>
+					<td>배꼽</td>
+					<td>Horny Family</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>가족,코미디</td>
+					<td>주연</td>
+					<td>300,000</td>
+					<td>50</td>
+					<td>300,000</td>
+					<td>50</td>
+				</tr>
+			
+				<tr>
+					<td>꽃 : 나비의 습격</td>
+					<td></td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>사극</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>빛나는 졸업장</td>
+					<td></td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>여배우들</td>
+					<td>The Actresses</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-이미숙 역 역,시나리오(각본)-각본</td>
+					<td>3,784,176,467</td>
+					<td>514,052</td>
+					<td>3,778,911,800</td>
+					<td>513,405</td>
+				</tr>
+			
+				<tr>
+					<td>뜨거운 것이 좋아</td>
+					<td>Hellcats</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-김영미 역역</td>
+					<td>3,790,235,833</td>
+					<td>590,409</td>
+					<td>3,790,681,000</td>
+					<td>578,834</td>
+				</tr>
+			
+				<tr>
+					<td>...ing</td>
+					<td>...ing</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-미숙 역 역</td>
+					<td></td>
+					<td>483,828</td>
+					<td>217,487,000</td>
+					<td>34,308</td>
+				</tr>
+			
+				<tr>
+					<td>스캔들-조선남녀상열지사</td>
+					<td>Untold Scandal</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>사극</td>
+					<td>주연-조씨부인 역역</td>
+					<td></td>
+					<td>3,522,747</td>
+					<td>10,662,000</td>
+					<td>1,200</td>
+				</tr>
+			
+				<tr>
+					<td>울랄라씨스터즈</td>
+					<td>Oh! Lala Sisters</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연-조은자 역 역</td>
+					<td></td>
+					<td>245,970</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>베사메무쵸</td>
+					<td>Besa Me Mucho</td>
+					<td>2001</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-영희 역 역</td>
+					<td>0</td>
+					<td>245,455</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>단적비연수</td>
+					<td>The Legend Of Gingko</td>
+					<td>2000</td>
+					<td>한국</td>
+					<td>멜로/로맨스,사극,액션,전쟁,판타지</td>
+					<td>주연-수 역역</td>
+					<td>0</td>
+					<td>616,349</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>정사</td>
+					<td>An Affair</td>
+					<td>1998</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-서현 역 역</td>
+					<td>0</td>
+					<td>304,666</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>겨울나그네</td>
+					<td>Winter Wanderer</td>
+					<td>1986</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>220,809</td>
+					<td>6,904,000</td>
+					<td>3,449</td>
+				</tr>
+			
+				<tr>
+					<td>뽕</td>
+					<td>Mulberry</td>
+					<td>1986</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스,사극,성인물(에로)</td>
+					<td>주연-안협집 역 역</td>
+					<td>0</td>
+					<td>137,331</td>
+					<td>706,000</td>
+					<td>353</td>
+				</tr>
+			
+				<tr>
+					<td>졸업여행</td>
+					<td>Graduation Journey</td>
+					<td>1985</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-미선역</td>
+					<td>0</td>
+					<td>33,503</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>그대 눈물이 마를 때</td>
+					<td>When Your Tears Dry</td>
+					<td>1984</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>357</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>그 해 겨울은 따뜻했네</td>
+					<td>The Winter That Year Was Warm</td>
+					<td>1984</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스,전쟁</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>128,450</td>
+					<td>451,000</td>
+					<td>83</td>
+				</tr>
+			
+				<tr>
+					<td>고래사냥</td>
+					<td>Whale Hunting</td>
+					<td>1984</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>426,221</td>
+					<td>1,272,000</td>
+					<td>224</td>
+				</tr>
+			
+				<tr>
+					<td>외박</td>
+					<td>Sleeping Out</td>
+					<td>1983</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>10,870</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>불새</td>
+					<td>The Bird Of Fire</td>
+					<td>1980</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td>87,269</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>모모는 철부지</td>
+					<td>Thoughtless Mo-Mo</td>
+					<td>1979</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td>77,807</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

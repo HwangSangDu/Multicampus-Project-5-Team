@@ -1,0 +1,567 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '까뜨린느 드뇌브'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>더 미드와이프</td>
+					<td>The Midwife</td>
+					<td>2017</td>
+					<td>프랑스</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>84,973,500</td>
+					<td>11,116</td>
+					<td>84,973,500</td>
+					<td>11,116</td>
+				</tr>
+			
+				<tr>
+					<td>말로니의 두 번째 이야기</td>
+					<td>Standing Tall</td>
+					<td>2015</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>73,000</td>
+					<td>12</td>
+					<td>73,000</td>
+					<td>12</td>
+				</tr>
+			
+				<tr>
+					<td>이웃집에 신이 산다</td>
+					<td>The Brand New Testament</td>
+					<td>2015</td>
+					<td>벨기에,프랑스,룩셈부르크</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>791,865,650</td>
+					<td>98,018</td>
+					<td>792,403,650</td>
+					<td>98,085</td>
+				</tr>
+			
+				<tr>
+					<td>나쁜 사랑</td>
+					<td>3 Hearts</td>
+					<td>2014</td>
+					<td>프랑스</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>46,875,500</td>
+					<td>6,107</td>
+					<td>46,875,500</td>
+					<td>6,107</td>
+				</tr>
+			
+				<tr>
+					<td>해적: 위대한 영웅</td>
+					<td>THE PIRATE</td>
+					<td>2012</td>
+					<td>그리스,러시아</td>
+					<td>어드벤처</td>
+					<td>조연</td>
+					<td>5,000</td>
+					<td>1</td>
+					<td>5,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>비러브드</td>
+					<td>Beloved</td>
+					<td>2011</td>
+					<td>프랑스,네덜란드</td>
+					<td>뮤지컬,드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>33,610,800</td>
+					<td>4,558</td>
+					<td>33,874,800</td>
+					<td>4,588</td>
+				</tr>
+			
+				<tr>
+					<td>빅 픽처</td>
+					<td>The Big Picture</td>
+					<td>2010</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연-앤 다마조역</td>
+					<td>182,722,800</td>
+					<td>25,015</td>
+					<td>183,556,800</td>
+					<td>25,120</td>
+				</tr>
+			
+				<tr>
+					<td>현모양처</td>
+					<td>Potiche</td>
+					<td>2010</td>
+					<td>프랑스</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>401,000</td>
+					<td>45</td>
+				</tr>
+			
+				<tr>
+					<td>크리스마스 이야기</td>
+					<td>A Christmas Tale</td>
+					<td>2008</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>200,000</td>
+					<td>29</td>
+				</tr>
+			
+				<tr>
+					<td>페르세폴리스</td>
+					<td>Persepolis</td>
+					<td>2007</td>
+					<td>프랑스,미국</td>
+					<td>애니메이션,드라마,전쟁</td>
+					<td>주연(목소리)</td>
+					<td>78,643,600</td>
+					<td>11,575</td>
+					<td>78,643,600</td>
+					<td>11,394</td>
+				</tr>
+			
+				<tr>
+					<td>그가 떠난 후</td>
+					<td>After Him</td>
+					<td>2007</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>시간은 흘러도</td>
+					<td>Changing Times</td>
+					<td>2004</td>
+					<td>프랑스</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>8명의 여인들</td>
+					<td>8 Women</td>
+					<td>2002</td>
+					<td>프랑스</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>824</td>
+					<td>117,515,000</td>
+					<td>17,951</td>
+				</tr>
+			
+				<tr>
+					<td>천국에 가까이</td>
+					<td>Nearest to Heaven</td>
+					<td>2002</td>
+					<td>프랑스,스페인,캐나다</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>머스킷티어</td>
+					<td>The Musketeer</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>드라마,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>63,542</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>나는 집으로 돌아가리라</td>
+					<td>I&#039;m Going Home</td>
+					<td>2001</td>
+					<td>프랑스,포르투갈</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>742,000</td>
+					<td>127</td>
+				</tr>
+			
+				<tr>
+					<td>어둠속의 댄서</td>
+					<td>Dancer In The Dark</td>
+					<td>2000</td>
+					<td>덴마크</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>165,821</td>
+					<td>2,133,300</td>
+					<td>322</td>
+				</tr>
+			
+				<tr>
+					<td>폴라X </td>
+					<td>Pola X</td>
+					<td>1999</td>
+					<td>프랑스</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>81,629</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>동쪽 서쪽</td>
+					<td>East-West</td>
+					<td>1999</td>
+					<td>불가리아,프랑스,러시아,스페인</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>밤의 바람</td>
+					<td>Night Wind</td>
+					<td>1999</td>
+					<td>프랑스,이탈리아,스위스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>잃어버린 시간을 찾아서</td>
+					<td>Time Regained</td>
+					<td>1999</td>
+					<td>프랑스,이탈리아</td>
+					<td>드라마,멜로/로맨스,전쟁</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>방돔 광장</td>
+					<td>Place Vendome</td>
+					<td>1998</td>
+					<td>프랑스</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>도둑들</td>
+					<td>Thieves</td>
+					<td>1996</td>
+					<td>프랑스</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>까뜨린느 드뇌브의 상류사회</td>
+					<td>The Murri Affair</td>
+					<td>1993</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,097</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>인도차이나</td>
+					<td>Indochina</td>
+					<td>1992</td>
+					<td>프랑스</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>300,865</td>
+					<td>4,121,000</td>
+					<td>1,492</td>
+				</tr>
+			
+				<tr>
+					<td>까뜨린느 드느브의 추억</td>
+					<td>White Queen</td>
+					<td>1991</td>
+					<td>프랑스</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>3,955</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사랑할 때와 이별할 때</td>
+					<td>Love Songs</td>
+					<td>1984</td>
+					<td>프랑스</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>59,896</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>마농</td>
+					<td>Manon</td>
+					<td>1980</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,547</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>마지막 지하철</td>
+					<td>The Last Metro </td>
+					<td>1980</td>
+					<td>프랑스</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연-마리온역</td>
+					<td></td>
+					<td></td>
+					<td>1,693,000</td>
+					<td>296</td>
+				</tr>
+			
+				<tr>
+					<td>라스트 부르맨</td>
+					<td>March Or Die</td>
+					<td>1977</td>
+					<td>영국</td>
+					<td>드라마,전쟁</td>
+					<td>주연</td>
+					<td></td>
+					<td>101,998</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>허슬</td>
+					<td>Hustle</td>
+					<td>1975</td>
+					<td>미국</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>259,000</td>
+					<td>40</td>
+				</tr>
+			
+				<tr>
+					<td>리스본특급</td>
+					<td>Dirty Money</td>
+					<td>1971</td>
+					<td>프랑스,이탈리아</td>
+					<td>드라마,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>88,514</td>
+					<td>983,000</td>
+					<td>153</td>
+				</tr>
+			
+				<tr>
+					<td>당나귀 공주</td>
+					<td>Donkey Skin</td>
+					<td>1970</td>
+					<td>프랑스</td>
+					<td>뮤지컬</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>523,000</td>
+					<td>89</td>
+				</tr>
+			
+				<tr>
+					<td>애로</td>
+					<td>The April Fools</td>
+					<td>1969</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>109,675</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>미시시피의 인어</td>
+					<td>La sirene du Mississipi / Mississippi Mermaid</td>
+					<td>1969</td>
+					<td>프랑스,이탈리아</td>
+					<td>멜로/로맨스,범죄</td>
+					<td>주연-줄리 루세/마리온 베르가노역</td>
+					<td></td>
+					<td></td>
+					<td>1,605,000</td>
+					<td>297</td>
+				</tr>
+			
+				<tr>
+					<td>세브린느</td>
+					<td>Belle de Jour</td>
+					<td>1967</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>159,192</td>
+					<td>2,090,000</td>
+					<td>402</td>
+				</tr>
+			
+				<tr>
+					<td>로슈포르의 숙녀들</td>
+					<td>The Young Girls of Rochefort</td>
+					<td>1967</td>
+					<td>프랑스</td>
+					<td>코미디,드라마,뮤지컬</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>3,505,600</td>
+					<td>490</td>
+				</tr>
+			
+				<tr>
+					<td>멋진 인생</td>
+					<td>Gracious Living</td>
+					<td>1966</td>
+					<td>프랑스</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>창조물들</td>
+					<td>The Creatures </td>
+					<td>1966</td>
+					<td>프랑스,스웨덴</td>
+					<td>판타지,드라마</td>
+					<td>주연-밀레네역</td>
+					<td></td>
+					<td></td>
+					<td>266,000</td>
+					<td>54</td>
+				</tr>
+			
+				<tr>
+					<td>쉘부르의 우산</td>
+					<td>The Umbrellas Of Cherbourg</td>
+					<td>1964</td>
+					<td>프랑스,독일</td>
+					<td>멜로/로맨스,뮤지컬</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>0</td>
+					<td>3,834,600</td>
+					<td>796</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

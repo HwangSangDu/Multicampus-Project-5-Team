@@ -1,0 +1,216 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '에이미 스마트'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>플라이트 7500</td>
+					<td>7500</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>미스터리,공포(호러)</td>
+					<td>주연</td>
+					<td>8,000</td>
+					<td>1</td>
+					<td>8,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>배드 컨트리</td>
+					<td>Bad Country</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>액션,범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>콜럼버스 서클</td>
+					<td>Columbus Circle</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>스릴러,범죄,미스터리</td>
+					<td>주연-릴리안 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>라이징 썬</td>
+					<td>House Of The Rising Sun</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>액션,범죄</td>
+					<td>주연-제니 포터역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>러브 앤 댄싱</td>
+					<td>Love N&#039; Dancing</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>63,000</td>
+					<td>9</td>
+					<td>63,000</td>
+					<td>9</td>
+				</tr>
+			
+				<tr>
+					<td>아드레날린24 2</td>
+					<td>Crank: High Voltage</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>저스트 프렌드</td>
+					<td>Just Friends</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연-제이미 팰라미노역</td>
+					<td>0</td>
+					<td>246,431</td>
+					<td>1,444,893,000</td>
+					<td>236,759</td>
+				</tr>
+			
+				<tr>
+					<td>비거 댄 더 스카이</td>
+					<td>Bigger Than The Sky</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>나비효과</td>
+					<td>The Butterfly Effect</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-에반역</td>
+					<td>0</td>
+					<td>1,239,079</td>
+					<td>6,263,521,000</td>
+					<td>957,728</td>
+				</tr>
+			
+				<tr>
+					<td>배틀 오브 쉐이커 하이츠</td>
+					<td>The Battle Of Shaker Heights</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>로드 트립</td>
+					<td>Road Trip</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>코미디,어드벤처</td>
+					<td>주연-베스 와그너 역</td>
+					<td>0</td>
+					<td>44,667</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>그들만의 계절</td>
+					<td>Varsity Blues</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>코미디,드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,742</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>헨드릭스</td>
+					<td>Hendricks</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>365</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

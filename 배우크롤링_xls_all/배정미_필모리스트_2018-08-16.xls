@@ -1,0 +1,99 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '배정미'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>스퀴시랜드</td>
+					<td>The Squishees</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td>38,111,300</td>
+					<td>5,473</td>
+					<td>38,111,300</td>
+					<td>5,473</td>
+				</tr>
+			
+				<tr>
+					<td>로코왕국의 전설: 엘프킹을 찾아서</td>
+					<td>Roco Kingdom : The Desire of Dragon</td>
+					<td>2013</td>
+					<td>중국</td>
+					<td>애니메이션,액션,어드벤처</td>
+					<td>주연(목소리)</td>
+					<td>105,367,100</td>
+					<td>15,846</td>
+					<td>107,159,100</td>
+					<td>16,070</td>
+				</tr>
+			
+				<tr>
+					<td>극장판 썬더일레븐GO : 궁극의 우정 그리폰</td>
+					<td>Inazuma Eleven Go The Movie</td>
+					<td>2011</td>
+					<td>일본</td>
+					<td>애니메이션</td>
+					<td>주연</td>
+					<td>574,947,000</td>
+					<td>84,255</td>
+					<td>574,947,000</td>
+					<td>84,255</td>
+				</tr>
+			
+				<tr>
+					<td>신암행어사</td>
+					<td>Phantom Master  ~Dark Hero From The Ruined Empire (Working Title)</td>
+					<td>2004</td>
+					<td>한국,일본</td>
+					<td>애니메이션,판타지,SF</td>
+					<td>주연(목소리)</td>
+					<td>0</td>
+					<td>56,709</td>
+					<td>251,089,500</td>
+					<td>41,825</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

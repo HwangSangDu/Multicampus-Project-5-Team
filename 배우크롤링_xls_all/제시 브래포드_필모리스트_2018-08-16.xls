@@ -1,0 +1,164 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '제시 브래포드'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>돈 슬립</td>
+					<td>Dead Awake</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td>14,378,500</td>
+					<td>1,839</td>
+					<td>14,378,500</td>
+					<td>1,839</td>
+				</tr>
+			
+				<tr>
+					<td>유혹의 기술</td>
+					<td>10 Rules for Sleeping Around</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td>10,194,000</td>
+					<td>5,017</td>
+					<td>10,264,000</td>
+					<td>5,031</td>
+				</tr>
+			
+				<tr>
+					<td>에코</td>
+					<td>The Echo</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>드라마,공포(호러),미스터리,스릴러</td>
+					<td>주연-바비역</td>
+					<td>302,933,039</td>
+					<td>46,884</td>
+					<td>298,384,000</td>
+					<td>46,183</td>
+				</tr>
+			
+				<tr>
+					<td>마이 쎄시 걸</td>
+					<td>My Sassy Girl</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>69,825,500</td>
+					<td>10,448</td>
+					<td>69,825,500</td>
+					<td>10,448</td>
+				</tr>
+			
+				<tr>
+					<td>아버지의 깃발</td>
+					<td>Flags Of Our Fathers</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>드라마,사극,전쟁</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>207,500</td>
+					<td>1,269,091,600</td>
+					<td>200,988</td>
+				</tr>
+			
+				<tr>
+					<td>해피 엔딩</td>
+					<td>Happy Endings</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>유러지</td>
+					<td>Eulogy</td>
+					<td>2004</td>
+					<td>미국,영국,독일</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>위험한 유혹</td>
+					<td>Swimfan</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,600</td>
+					<td>0</td>
+					<td>0</td>
+				</tr>
+			
+				<tr>
+					<td>타임머신: 클락스토퍼</td>
+					<td>Clockstoppers</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>SF,어드벤처</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,567 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '더스틴 호프만'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>쿵푸팬더3</td>
+					<td>Kung Fu Panda 3</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>애니메이션,액션,어드벤처</td>
+					<td>주연-시푸역(목소리)</td>
+					<td>31,340,798,156</td>
+					<td>3,984,812</td>
+					<td>31,340,813,156</td>
+					<td>3,984,814</td>
+				</tr>
+			
+				<tr>
+					<td>에시오 트롯: 거북아 거북아</td>
+					<td>Esio Trot</td>
+					<td>2015</td>
+					<td>영국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>코블러</td>
+					<td>The Cobbler</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>판타지,코미디</td>
+					<td>주연</td>
+					<td>318,637,732</td>
+					<td>41,444</td>
+					<td>318,637,732</td>
+					<td>41,444</td>
+				</tr>
+			
+				<tr>
+					<td>아메리칸 셰프</td>
+					<td>Chef</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>1,255,831,929</td>
+					<td>153,794</td>
+					<td>1,262,572,429</td>
+					<td>154,689</td>
+				</tr>
+			
+				<tr>
+					<td>콰르텟</td>
+					<td>Quartet</td>
+					<td>2012</td>
+					<td>영국</td>
+					<td>코미디,드라마</td>
+					<td>감독</td>
+					<td>90,236,000</td>
+					<td>12,717</td>
+					<td>91,138,000</td>
+					<td>12,894</td>
+				</tr>
+			
+				<tr>
+					<td>쿵푸팬더 2</td>
+					<td>Kung Fu Panda 2</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>애니메이션,액션,어드벤처,코미디,가족</td>
+					<td>주연-렛서팬더/사부, 시푸 역</td>
+					<td>44,298,724,500</td>
+					<td>5,062,722</td>
+					<td>44,310,427,500</td>
+					<td>5,064,796</td>
+				</tr>
+			
+				<tr>
+					<td>세 번째 사랑</td>
+					<td>Barney’s Version</td>
+					<td>2010</td>
+					<td>캐나다,이탈리아</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>82,559,000</td>
+					<td>10,456</td>
+					<td>84,274,000</td>
+					<td>11,025</td>
+				</tr>
+			
+				<tr>
+					<td>미트 페어런츠 3</td>
+					<td>Little Fockers</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연-버니 퍼커역</td>
+					<td>517,805,000</td>
+					<td>70,053</td>
+					<td>517,805,000</td>
+					<td>70,053</td>
+				</tr>
+			
+				<tr>
+					<td>하비의 마지막 로맨스</td>
+					<td>Last Chance Harvey</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연-하비 샤인역</td>
+					<td>251,907,697</td>
+					<td>34,670</td>
+					<td>248,197,000</td>
+					<td>34,184</td>
+				</tr>
+			
+				<tr>
+					<td>작은 영웅 데스페로</td>
+					<td>The Tale Of Despereaux</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>애니메이션,어드벤처,판타지,코미디,가족</td>
+					<td>주연(목소리)</td>
+					<td>2,549,164,359</td>
+					<td>441,525</td>
+					<td>2,517,672,500</td>
+					<td>436,167</td>
+				</tr>
+			
+				<tr>
+					<td>쿵푸 팬더</td>
+					<td>Kung Fu Panda</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>애니메이션,코미디,액션,가족</td>
+					<td>주연(목소리)</td>
+					<td>30,000,965,000</td>
+					<td>4,673,009</td>
+					<td>29,998,150,000</td>
+					<td>4,654,266</td>
+				</tr>
+			
+				<tr>
+					<td>마고리엄의 장난감 백화점</td>
+					<td>Mr. Magorium`S Wonder Emporium</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>가족,코미디,판타지</td>
+					<td>주연</td>
+					<td></td>
+					<td>635,341</td>
+					<td>3,847,002,000</td>
+					<td>626,322</td>
+				</tr>
+			
+				<tr>
+					<td>향수 : 어느 살인자의 이야기</td>
+					<td>Perfume: The Story Of A Murderer</td>
+					<td>2007</td>
+					<td>영국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,011,710</td>
+					<td>5,921,122,000</td>
+					<td>979,344</td>
+				</tr>
+			
+				<tr>
+					<td>스트레인저 댄 픽션</td>
+					<td>Stranger Than Fiction</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>판타지,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>0</td>
+					<td>0</td>
+				</tr>
+			
+				<tr>
+					<td>로스트 시티</td>
+					<td>The Lost City</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>미트 페어런츠2</td>
+					<td>Meet The Fockers</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>253,383</td>
+					<td>1,532,798,500</td>
+					<td>235,418</td>
+				</tr>
+			
+				<tr>
+					<td>네버랜드를 찾아서</td>
+					<td>Finding Neverland</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>234,427</td>
+					<td>1,287,392,500</td>
+					<td>200,339</td>
+				</tr>
+			
+				<tr>
+					<td>아이 러브 허커비</td>
+					<td>I Heart Huckabees</td>
+					<td>2004</td>
+					<td>미국,독일</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>런어웨이</td>
+					<td>Runaway Jury</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>80,030</td>
+					<td>149,954,000</td>
+					<td>23,415</td>
+				</tr>
+			
+				<tr>
+					<td>컨피던스</td>
+					<td>Confidence</td>
+					<td>2003</td>
+					<td>미국,캐나다,독일</td>
+					<td>범죄,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>문라이트 마일</td>
+					<td>Moonlight Mile</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>쟌다르크</td>
+					<td>The Messenger: The Story Of Joan Of Arc</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>사극,드라마,전쟁</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>220,986</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>왝 더 독 </td>
+					<td>Wag The Dog</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연-스탠리 모트스역</td>
+					<td>0</td>
+					<td>28,091</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아웃브레이크 </td>
+					<td>Outbreak</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>159,844</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>리틀 빅 히어로</td>
+					<td>Accidental Hero</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>33,021</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>빌리 배스게이트</td>
+					<td>Billy Bathgate</td>
+					<td>1991</td>
+					<td>미국</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>49,099</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>후크</td>
+					<td>Hook</td>
+					<td>1991</td>
+					<td>미국</td>
+					<td>가족,어드벤처,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>281,084</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>패밀리 비즈니스</td>
+					<td>Family Business</td>
+					<td>1989</td>
+					<td>미국</td>
+					<td>범죄,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>7,678</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>일레븐데이 일레븐나잇</td>
+					<td>11 Day 11 Night</td>
+					<td>1988</td>
+					<td>이탈리아</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,480</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>레인맨</td>
+					<td>Rain Man</td>
+					<td>1987</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-레이몬드 배빗역</td>
+					<td>0</td>
+					<td>333,571</td>
+					<td>862,000</td>
+					<td>173</td>
+				</tr>
+			
+				<tr>
+					<td>세일즈맨의 죽음</td>
+					<td>Death Of A Salesman</td>
+					<td>1985</td>
+					<td>미국,서독</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>투씨</td>
+					<td>Tootsie</td>
+					<td>1982</td>
+					<td>미국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>257,818</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>크레이머 크레이머</td>
+					<td>Kramer Vs Kramer</td>
+					<td>1979</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>267,922</td>
+					<td>720,000</td>
+					<td>185</td>
+				</tr>
+			
+				<tr>
+					<td>마라톤맨</td>
+					<td>Marathon Man</td>
+					<td>1976</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>216,340</td>
+					<td>448,000</td>
+					<td>87</td>
+				</tr>
+			
+				<tr>
+					<td>빠삐용</td>
+					<td>Papillon</td>
+					<td>1973</td>
+					<td>미국,프랑스</td>
+					<td>드라마,어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>343,597</td>
+					<td>27,990,000</td>
+					<td>13,687</td>
+				</tr>
+			
+				<tr>
+					<td>어둠의 표적</td>
+					<td>Straw Dogs</td>
+					<td>1971</td>
+					<td>영국,미국</td>
+					<td>드라마,범죄,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>83,832</td>
+					<td>28,000</td>
+					<td>4</td>
+				</tr>
+			
+				<tr>
+					<td>작은거인</td>
+					<td>Little Big Man</td>
+					<td>1970</td>
+					<td>미국</td>
+					<td>드라마,서부극(웨스턴),어드벤처,전쟁</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>113,260</td>
+					<td>250,000</td>
+					<td>53</td>
+				</tr>
+			
+				<tr>
+					<td>미드나잇 카우보이</td>
+					<td>Midnight Cowboy</td>
+					<td>1969</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-랫소역</td>
+					<td>0</td>
+					<td>179,826</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>영 러버</td>
+					<td>John and Mary</td>
+					<td>1969</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>109,098</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>졸업</td>
+					<td>The Graduate</td>
+					<td>1967</td>
+					<td>미국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>284,142</td>
+					<td>2,116,000</td>
+					<td>673</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

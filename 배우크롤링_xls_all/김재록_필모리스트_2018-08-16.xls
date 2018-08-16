@@ -1,0 +1,164 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '김재록'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>대립군</td>
+					<td>WARRIORS OF THE DAWN</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마,사극</td>
+					<td>단역-피난민1역</td>
+					<td>6,276,963,402</td>
+					<td>837,500</td>
+					<td>6,276,963,402</td>
+					<td>837,500</td>
+				</tr>
+			
+				<tr>
+					<td>컴, 투게더</td>
+					<td>Come, Together</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-호준역</td>
+					<td>18,125,100</td>
+					<td>2,379</td>
+					<td>18,146,100</td>
+					<td>2,382</td>
+				</tr>
+			
+				<tr>
+					<td>꿈꾸는 나비</td>
+					<td>A Dreaming Butterfly</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>미스터리,스릴러</td>
+					<td>주연</td>
+					<td>752,000</td>
+					<td>135</td>
+					<td>752,000</td>
+					<td>135</td>
+				</tr>
+			
+				<tr>
+					<td>장기왕 : 가락시장 레볼루션</td>
+					<td>Garak Market Revolution</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>조연-고선배역</td>
+					<td>9,889,000</td>
+					<td>1,250</td>
+					<td>9,889,000</td>
+					<td>1,250</td>
+				</tr>
+			
+				<tr>
+					<td>윤희</td>
+					<td>Yoon hee</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>4,354,000</td>
+					<td>561</td>
+					<td>4,354,000</td>
+					<td>561</td>
+				</tr>
+			
+				<tr>
+					<td>붉은 바캉스 검은 웨딩 2</td>
+					<td>Red Vacance Black Wedding 2</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>10,500,000</td>
+					<td>5,100</td>
+					<td>10,500,000</td>
+					<td>5,100</td>
+				</tr>
+			
+				<tr>
+					<td>레인보우</td>
+					<td>Passerby #3</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-상우역</td>
+					<td>20,582,634</td>
+					<td>2,800</td>
+					<td>20,305,100</td>
+					<td>2,775</td>
+				</tr>
+			
+				<tr>
+					<td>빗자루, 금붕어 되다</td>
+					<td>A Broom Becomes a Goldfish</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-윤호역</td>
+					<td>4,899,424</td>
+					<td>694</td>
+					<td>5,140,500</td>
+					<td>742</td>
+				</tr>
+			
+				<tr>
+					<td>방문자</td>
+					<td>Host &amp; Guest</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>3,201</td>
+					<td>34,705,200</td>
+					<td>5,150</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

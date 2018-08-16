@@ -1,0 +1,268 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '조한선'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>데자뷰</td>
+					<td>DEJA VU</td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>미스터리,스릴러</td>
+					<td>단역</td>
+					<td>360,882,100</td>
+					<td>48,287</td>
+					<td>360,833,100</td>
+					<td>48,279</td>
+				</tr>
+			
+				<tr>
+					<td>질투의 역사</td>
+					<td></td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연-선기역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>질투의 역사</td>
+					<td></td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연-선기역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>돌아와요 부산항애(愛)</td>
+					<td>BROTHERS IN HEAVEN</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>범죄,액션,드라마</td>
+					<td>주연-태주역</td>
+					<td>53,622,300</td>
+					<td>6,954</td>
+					<td>53,622,300</td>
+					<td>6,954</td>
+				</tr>
+			
+				<tr>
+					<td>마차 타고 고래고래</td>
+					<td>Blue Busking</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>74,943,500</td>
+					<td>8,971</td>
+					<td>74,943,500</td>
+					<td>8,971</td>
+				</tr>
+			
+				<tr>
+					<td>멜리스</td>
+					<td>Malice</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>공포(호러),스릴러</td>
+					<td>단역-김 사장(특별출연)역</td>
+					<td>90,914,800</td>
+					<td>11,484</td>
+					<td>90,914,800</td>
+					<td>11,484</td>
+				</tr>
+			
+				<tr>
+					<td>함정</td>
+					<td>Deep Trap </td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>스릴러,범죄</td>
+					<td>주연</td>
+					<td>2,090,877,200</td>
+					<td>257,990</td>
+					<td>2,090,877,200</td>
+					<td>257,990</td>
+				</tr>
+			
+				<tr>
+					<td>따라지: 비열한 거리 무삭제판</td>
+					<td>The Outsider: Mean Streets</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>4,000</td>
+					<td>1</td>
+					<td>4,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>따라지 : 비열한 거리</td>
+					<td>The Outsider: Mean Streets</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>103,000</td>
+					<td>11</td>
+					<td>103,000</td>
+					<td>11</td>
+				</tr>
+			
+				<tr>
+					<td>무적자</td>
+					<td>A Better Tomorrow</td>
+					<td>2010</td>
+					<td>한국,홍콩,일본,태국</td>
+					<td>드라마,액션</td>
+					<td>주연-태민역</td>
+					<td>11,816,488,677</td>
+					<td>1,571,432</td>
+					<td>11,629,780,500</td>
+					<td>1,546,132</td>
+				</tr>
+			
+				<tr>
+					<td>주유소 습격사건 2</td>
+					<td>Attack The Gas Station 2</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>액션,코미디</td>
+					<td>주연-하이킥역</td>
+					<td>5,466,499,511</td>
+					<td>742,475</td>
+					<td>5,379,208,500</td>
+					<td>729,834</td>
+				</tr>
+			
+				<tr>
+					<td>특별시 사람들</td>
+					<td>Where Are You Going?</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-일남역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>달콤한 거짓말</td>
+					<td>Lost &amp; Found</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연-박동식역</td>
+					<td>3,116,983,744</td>
+					<td>470,256</td>
+					<td>3,122,965,500</td>
+					<td>471,310</td>
+				</tr>
+			
+				<tr>
+					<td>마이 뉴 파트너</td>
+					<td>My New Partner</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>액션,코미디</td>
+					<td>주연-아들 강영준역</td>
+					<td>1,696,902,333</td>
+					<td>265,323</td>
+					<td>1,699,031,500</td>
+					<td>260,734</td>
+				</tr>
+			
+				<tr>
+					<td>열혈남아</td>
+					<td>Cruel Winter Blues</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>드라마,범죄,액션</td>
+					<td>주연-문치국역</td>
+					<td>0</td>
+					<td>570,059</td>
+					<td>2,834,973,800</td>
+					<td>466,107</td>
+				</tr>
+			
+				<tr>
+					<td>연리지</td>
+					<td>Now And Forever</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연-민수역</td>
+					<td>0</td>
+					<td>136,088</td>
+					<td>696,954,300</td>
+					<td>114,641</td>
+				</tr>
+			
+				<tr>
+					<td>늑대의 유혹</td>
+					<td>Romance Of Their Own</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-반해원역</td>
+					<td>0</td>
+					<td>2,189,453</td>
+					<td>8,025,959,500</td>
+					<td>1,297,296</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,216 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '마이클 쉰'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>러브, 어게인</td>
+					<td>Home Again</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>드라마,코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td>89,873,800</td>
+					<td>11,628</td>
+					<td>89,873,800</td>
+					<td>11,628</td>
+				</tr>
+			
+				<tr>
+					<td>괜찮아요, 미스터 브래드</td>
+					<td>Brad&#039;s status</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>134,945,900</td>
+					<td>17,691</td>
+					<td>135,297,900</td>
+					<td>17,747</td>
+				</tr>
+			
+				<tr>
+					<td>녹터널 애니멀스</td>
+					<td>Nocturnal Animals</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>조연</td>
+					<td>295,934,079</td>
+					<td>35,881</td>
+					<td>295,934,079</td>
+					<td>35,881</td>
+				</tr>
+			
+				<tr>
+					<td>패신저스</td>
+					<td>PASSENGERS</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>어드벤처,SF</td>
+					<td>주연</td>
+					<td>5,470,674,918</td>
+					<td>668,977</td>
+					<td>5,470,674,918</td>
+					<td>668,977</td>
+				</tr>
+			
+				<tr>
+					<td>거울나라의 앨리스</td>
+					<td>Alice Through the Looking Glass</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>어드벤처,가족,판타지</td>
+					<td>주연</td>
+					<td>4,145,733,267</td>
+					<td>513,202</td>
+					<td>4,145,733,267</td>
+					<td>513,202</td>
+				</tr>
+			
+				<tr>
+					<td>마이더스 어드벤쳐</td>
+					<td>The Adventurer: The Curse of the Midas Box</td>
+					<td>2014</td>
+					<td>영국</td>
+					<td>어드벤처,가족,판타지</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>어드미션</td>
+					<td>Admission</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연-마크역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>언싱커블</td>
+					<td>Unthinkable</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td>344,000</td>
+					<td>43</td>
+					<td>344,000</td>
+					<td>43</td>
+				</tr>
+			
+				<tr>
+					<td>뷰티풀 보이</td>
+					<td>Beautiful Boy</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>55,000</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>팅커벨 3 : 위대한 요정 구조대</td>
+					<td>Tinker Bell and the Great Fairy Rescue</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>애니메이션,판타지</td>
+					<td>주연-닥터 그리피스 (목소리) 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>언더월드: 라이칸의 반란</td>
+					<td>Underworld: Rise Of The Lycans</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>판타지,액션,스릴러,SF</td>
+					<td>주연-루시안역</td>
+					<td>273,265,789</td>
+					<td>36,737</td>
+					<td>269,183,000</td>
+					<td>36,190</td>
+				</tr>
+			
+				<tr>
+					<td>프로스트 VS 닉슨</td>
+					<td>Frost/Nixon</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-데이빗 프로스트 역</td>
+					<td>150,586,369</td>
+					<td>22,464</td>
+					<td>148,227,500</td>
+					<td>22,114</td>
+				</tr>
+			
+				<tr>
+					<td>더 퀸</td>
+					<td>The Queen</td>
+					<td>2006</td>
+					<td>영국</td>
+					<td>다큐멘터리,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>80,769</td>
+					<td>498,432,900</td>
+					<td>76,769</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

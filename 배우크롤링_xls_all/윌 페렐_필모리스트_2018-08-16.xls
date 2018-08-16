@@ -1,0 +1,372 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '윌 페렐'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>쥬랜더 리턴즈</td>
+					<td>Zoolander 2</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>58,151,000</td>
+					<td>7,853</td>
+					<td>58,151,000</td>
+					<td>7,853</td>
+				</tr>
+			
+				<tr>
+					<td>겟하드</td>
+					<td>Get Hard</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>레고 무비</td>
+					<td>The Lego Movie</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>애니메이션,코미디,액션,가족</td>
+					<td>주연(목소리)</td>
+					<td>1,601,300,200</td>
+					<td>236,129</td>
+					<td>1,679,825,800</td>
+					<td>246,126</td>
+				</tr>
+			
+				<tr>
+					<td>앵커맨: 더 레전드 컨티뉴</td>
+					<td>Anchorman 2: The Legend Continues</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연-론 버건디역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>알바레즈 형제: 마약왕을 제거하라</td>
+					<td>House of My Father</td>
+					<td>2012</td>
+					<td>미국,멕시코</td>
+					<td>서부극(웨스턴),코미디,액션</td>
+					<td>주연-아르만도역</td>
+					<td>8,000</td>
+					<td>1</td>
+					<td>8,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>더 캠페인</td>
+					<td>The Campaign</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연-캠 브래디 역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>에브리씽 머스트 고</td>
+					<td>Everything Must Go</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>6,047,500</td>
+					<td>887</td>
+					<td>6,047,500</td>
+					<td>887</td>
+				</tr>
+			
+				<tr>
+					<td>메가마인드</td>
+					<td>Megamind</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>애니메이션</td>
+					<td>주연</td>
+					<td>8,688,175,500</td>
+					<td>875,481</td>
+					<td>8,688,842,000</td>
+					<td>875,631</td>
+				</tr>
+			
+				<tr>
+					<td>스탠바이 캅</td>
+					<td>The Other Guys</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>액션,코미디</td>
+					<td>주연-알렌 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>로스트 랜드 : 공룡 왕국</td>
+					<td>Land of the Lost</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>어드벤처,SF,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>세미-프로</td>
+					<td>Semi-Pro</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스텝 브라더스</td>
+					<td>Step Brothers</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>영광의 날</td>
+					<td>Blades of Glory</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스트레인저 댄 픽션</td>
+					<td>Stranger Than Fiction</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>판타지,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>0</td>
+					<td>0</td>
+				</tr>
+			
+				<tr>
+					<td>텔라데가 나이트 : 리키 바비의 발라드</td>
+					<td>Talladega Nights: The Ballad Of Ricky Bobby</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>액션,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>호기심 많은 조지</td>
+					<td>Curious George</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>애니메이션,어드벤처,코미디</td>
+					<td>주연(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>그녀는 요술쟁이</td>
+					<td>Bewitched</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>262,893</td>
+					<td>1,501,346,500</td>
+					<td>234,899</td>
+				</tr>
+			
+				<tr>
+					<td>윈터 패싱</td>
+					<td>Winter Passing</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>키킹 앤 스크리밍</td>
+					<td>Kicking &amp; Screaming</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>코미디,가족</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>엘프</td>
+					<td>Elf</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연-버디역</td>
+					<td>0</td>
+					<td>85,614</td>
+					<td>344,242,500</td>
+					<td>57,377</td>
+				</tr>
+			
+				<tr>
+					<td>멜린다와 멜린다</td>
+					<td>Melinda and Melinda</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>0</td>
+					<td>0</td>
+				</tr>
+			
+				<tr>
+					<td>앵커맨</td>
+					<td>Anchorman: The Legend Of Ron Burgundy</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>올드 스쿨</td>
+					<td>Old School</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>27,750</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>수퍼스타</td>
+					<td>Superstar</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>록스베리 나이트</td>
+					<td>A Night At The Roxbury</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

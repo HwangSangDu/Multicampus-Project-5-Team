@@ -1,0 +1,203 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '김정균'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>위선자들: 감독판</td>
+					<td>The Hypocrites</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>1,750,000</td>
+					<td>340</td>
+					<td>1,750,000</td>
+					<td>340</td>
+				</tr>
+			
+				<tr>
+					<td>지렁이</td>
+					<td>MY LITTLE BABY, JAYA</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>14,581,600</td>
+					<td>1,921</td>
+					<td>14,581,600</td>
+					<td>1,921</td>
+				</tr>
+			
+				<tr>
+					<td>위선자들</td>
+					<td>The Hypocrites</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>65,152,600</td>
+					<td>9,566</td>
+					<td>65,152,600</td>
+					<td>9,566</td>
+				</tr>
+			
+				<tr>
+					<td>설해</td>
+					<td>Snow In Sea Breeze</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>단역-김광섭 실장역</td>
+					<td>29,770,500</td>
+					<td>3,933</td>
+					<td>29,770,500</td>
+					<td>3,933</td>
+				</tr>
+			
+				<tr>
+					<td>야관문: 욕망의 꽃</td>
+					<td>Door to the Night</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>미스터리,멜로/로맨스</td>
+					<td>조연-형석역</td>
+					<td>42,470,500</td>
+					<td>6,085</td>
+					<td>42,470,500</td>
+					<td>6,085</td>
+				</tr>
+			
+				<tr>
+					<td>철가방 우수氏</td>
+					<td>WOOSOOSSI</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-동일역</td>
+					<td>604,032,500</td>
+					<td>92,404</td>
+					<td>604,032,500</td>
+					<td>92,404</td>
+				</tr>
+			
+				<tr>
+					<td>7월 32일</td>
+					<td>July 32nd</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-장 형사역</td>
+					<td>4,678,963</td>
+					<td>754</td>
+					<td>4,605,500</td>
+					<td>742</td>
+				</tr>
+			
+				<tr>
+					<td>싸이렌</td>
+					<td>The Siren</td>
+					<td>2000</td>
+					<td>한국</td>
+					<td>드라마,범죄,액션</td>
+					<td>단역-김 대원역</td>
+					<td>0</td>
+					<td>62,135</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>바리케이드</td>
+					<td>Barricade</td>
+					<td>1997</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>3,194</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>꼬리치는 남자</td>
+					<td>The Man Wagging Tail</td>
+					<td>1995</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>조연-최대리역</td>
+					<td>0</td>
+					<td>46,385</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>엄마에게 애인이 생겼어요</td>
+					<td>Mom Has A New Boyfriend</td>
+					<td>1995</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>조연-승환역</td>
+					<td>0</td>
+					<td>62,660</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>시라소니</td>
+					<td>Sirasoni</td>
+					<td>1992</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>주연-깃대역</td>
+					<td>0</td>
+					<td>83,996</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

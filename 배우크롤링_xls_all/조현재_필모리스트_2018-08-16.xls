@@ -1,0 +1,99 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '조현재'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>여배우는 너무해</td>
+					<td>One Thing She Doesn&#039;t Have</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>19,836,400</td>
+					<td>2,673</td>
+					<td>19,836,400</td>
+					<td>2,673</td>
+				</tr>
+			
+				<tr>
+					<td>GP 506</td>
+					<td>The Guard Post</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>공포(호러),미스터리,스릴러</td>
+					<td>주연</td>
+					<td>6,316,842,000</td>
+					<td>945,185</td>
+					<td>6,316,842,000</td>
+					<td>936,945</td>
+				</tr>
+			
+				<tr>
+					<td>나와 통하는 다음검색 : 사랑의 기쁨</td>
+					<td></td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스캔들-조선남녀상열지사</td>
+					<td>Untold Scandal</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>사극</td>
+					<td>조연</td>
+					<td></td>
+					<td>3,522,747</td>
+					<td>10,662,000</td>
+					<td>1,200</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

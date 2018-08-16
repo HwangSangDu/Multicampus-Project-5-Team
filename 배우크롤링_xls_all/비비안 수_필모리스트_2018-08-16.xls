@@ -1,0 +1,151 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '비비안 수'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>워리어스 레인보우2: 최후의 결전</td>
+					<td>Seediq Bale</td>
+					<td>2011</td>
+					<td>대만</td>
+					<td>전쟁,드라마</td>
+					<td>주연</td>
+					<td>40,000</td>
+					<td>10</td>
+					<td>40,000</td>
+					<td>10</td>
+				</tr>
+			
+				<tr>
+					<td>워리어스 레인보우: 항전의 시작</td>
+					<td>Seediq Bale</td>
+					<td>2011</td>
+					<td>대만</td>
+					<td>드라마,액션</td>
+					<td>주연</td>
+					<td>5,070,000</td>
+					<td>7,640</td>
+					<td>5,070,000</td>
+					<td>7,640</td>
+				</tr>
+			
+				<tr>
+					<td>운수요</td>
+					<td>The Knot</td>
+					<td>2006</td>
+					<td>중국,대만</td>
+					<td>멜로/로맨스,전쟁,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>원 라스트 댄스</td>
+					<td>One Last Dance</td>
+					<td>2005</td>
+					<td>싱가포르</td>
+					<td>액션,코미디,범죄,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>인어공주와 구두</td>
+					<td>The Shoe Fairy</td>
+					<td>2005</td>
+					<td>대만</td>
+					<td>판타지,멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>매일 매일 8시간 너를 사랑해</td>
+					<td>Your Place Or Mine</td>
+					<td>1998</td>
+					<td>홍콩</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>협도정전</td>
+					<td>Chivalrous Legend</td>
+					<td>1998</td>
+					<td>홍콩</td>
+					<td>액션,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>용재소림(소림칠금강)</td>
+					<td>Dragon In Shaolin</td>
+					<td>1996</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

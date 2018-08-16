@@ -1,0 +1,164 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '엘자 질버스타인'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>사랑이 이끄는 대로</td>
+					<td>Un Plus Une</td>
+					<td>2015</td>
+					<td>프랑스</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>87,786,900</td>
+					<td>11,491</td>
+					<td>87,786,900</td>
+					<td>11,491</td>
+				</tr>
+			
+				<tr>
+					<td>당신을 오랫동안 사랑했어요</td>
+					<td>I&#039;Ve Loved You So Long</td>
+					<td>2008</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>20,401,309</td>
+					<td>2,858</td>
+					<td>23,246,000</td>
+					<td>3,295</td>
+				</tr>
+			
+				<tr>
+					<td>누신젠 하우스</td>
+					<td>Nucingen Haus</td>
+					<td>2008</td>
+					<td>루마니아,프랑스,칠레</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>모딜리아니</td>
+					<td>Modigliani</td>
+					<td>2004</td>
+					<td>미국,프랑스,독일,이탈리아,루마니아,영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>그날</td>
+					<td>That Day</td>
+					<td>2003</td>
+					<td>프랑스,스위스</td>
+					<td>판타지</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>메시어 N.</td>
+					<td>Monsieur N.</td>
+					<td>2003</td>
+					<td>프랑스,영국</td>
+					<td>드라마,미스터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>킬러 &amp; 엔젤</td>
+					<td>Un Ange</td>
+					<td>1999</td>
+					<td>프랑스</td>
+					<td>액션,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>로트렉</td>
+					<td>Lautrec</td>
+					<td>1998</td>
+					<td>프랑스,스페인</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>미나 타넨바움 </td>
+					<td>Mina Tannenbaum</td>
+					<td>1994</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>10,708</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

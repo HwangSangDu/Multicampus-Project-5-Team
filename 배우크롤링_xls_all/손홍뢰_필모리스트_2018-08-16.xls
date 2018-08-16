@@ -1,0 +1,151 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '손홍뢰'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>우리가 풀지 못한 날들</td>
+					<td>The Ark of Mr.Chow</td>
+					<td>2015</td>
+					<td>중국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>12,000</td>
+					<td>2</td>
+				</tr>
+			
+				<tr>
+					<td>침묵의 목격자</td>
+					<td>Silent Witness</td>
+					<td>2013</td>
+					<td>중국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>3,046,000</td>
+					<td>414</td>
+					<td>3,185,000</td>
+					<td>446</td>
+				</tr>
+			
+				<tr>
+					<td>마약전쟁</td>
+					<td>Drug War</td>
+					<td>2013</td>
+					<td>홍콩</td>
+					<td>범죄,액션,드라마,스릴러</td>
+					<td>주연</td>
+					<td>2,055,000</td>
+					<td>322</td>
+					<td>2,319,000</td>
+					<td>372</td>
+				</tr>
+			
+				<tr>
+					<td>전국: 천하영웅의 시대</td>
+					<td>The Warring States</td>
+					<td>2011</td>
+					<td>중국</td>
+					<td>액션,드라마,전쟁</td>
+					<td>주연</td>
+					<td>13,958,000</td>
+					<td>2,938</td>
+					<td>13,958,000</td>
+					<td>2,938</td>
+				</tr>
+			
+				<tr>
+					<td>쉬즈 더 원 2</td>
+					<td>If You Are The One 2</td>
+					<td>2010</td>
+					<td>중국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>2,411,500</td>
+					<td>314</td>
+				</tr>
+			
+				<tr>
+					<td>몽골</td>
+					<td>Mongol: The Rise of Genghis Khan</td>
+					<td>2007</td>
+					<td>카자흐스탄,독일,러시아</td>
+					<td>드라마,멜로/로맨스,전쟁</td>
+					<td>주연</td>
+					<td>1,072,500</td>
+					<td>168</td>
+					<td>1,072,500</td>
+					<td>168</td>
+				</tr>
+			
+				<tr>
+					<td>트라이 앵글</td>
+					<td>The Iron Triangle</td>
+					<td>2007</td>
+					<td>중국,홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>집으로 가는길</td>
+					<td>The Road Home</td>
+					<td>1999</td>
+					<td>중국</td>
+					<td>드라마</td>
+					<td>주연-루오 유셍역</td>
+					<td>0</td>
+					<td>30,183</td>
+					<td>0</td>
+					<td>0</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

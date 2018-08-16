@@ -1,0 +1,112 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '문석범'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>눈꺼풀</td>
+					<td>Eyelids</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>7,647,200</td>
+					<td>1,026</td>
+					<td>8,786,200</td>
+					<td>1,200</td>
+				</tr>
+			
+				<tr>
+					<td>하늘의 황금마차</td>
+					<td>Golden Chariot in the Sky</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>15,444,300</td>
+					<td>2,079</td>
+					<td>20,051,300</td>
+					<td>2,703</td>
+				</tr>
+			
+				<tr>
+					<td>지슬 - 끝나지 않은 세월2</td>
+					<td>Jiseul</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>986,098,100</td>
+					<td>143,715</td>
+					<td>996,969,200</td>
+					<td>145,302</td>
+				</tr>
+			
+				<tr>
+					<td>어이그 저 귓것</td>
+					<td>Nostalghia</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>5,367,200</td>
+					<td>713</td>
+					<td>5,486,200</td>
+					<td>732</td>
+				</tr>
+			
+				<tr>
+					<td>설문대 할망 큰 솥에 빠져죽다</td>
+					<td></td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

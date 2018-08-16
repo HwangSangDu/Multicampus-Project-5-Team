@@ -1,0 +1,203 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '류선영'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>연애담</td>
+					<td>Our Love Story</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연-지수역</td>
+					<td>191,778,100</td>
+					<td>23,631</td>
+					<td>195,366,100</td>
+					<td>24,102</td>
+				</tr>
+			
+				<tr>
+					<td>파스타</td>
+					<td></td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>간신</td>
+					<td>The Treacherous</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>사극</td>
+					<td>조연-대사성 부인역</td>
+					<td>8,946,842,910</td>
+					<td>1,110,246</td>
+					<td>8,947,046,910</td>
+					<td>1,110,274</td>
+				</tr>
+			
+				<tr>
+					<td>베테랑</td>
+					<td>Veteran</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>액션,드라마</td>
+					<td>단역-중개소 여직원역</td>
+					<td>105,168,155,250</td>
+					<td>13,414,009</td>
+					<td>105,169,264,250</td>
+					<td>13,414,200</td>
+				</tr>
+			
+				<tr>
+					<td>개를 훔치는 완벽한 방법</td>
+					<td>How To Steal A Dog</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마,가족</td>
+					<td>단역-스쿠터언니역</td>
+					<td>2,327,822,465</td>
+					<td>306,119</td>
+					<td>2,330,217,965</td>
+					<td>306,642</td>
+				</tr>
+			
+				<tr>
+					<td>용순, 열 여덟 번째 여름</td>
+					<td>Yong-soon&#039;s Summer</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>가족,드라마,코미디</td>
+					<td>주연-영어 선생역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>네버다이 버터플라이</td>
+					<td>Neverdie Butterfly</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-세진 친구역</td>
+					<td>11,002,000</td>
+					<td>1,571</td>
+					<td>11,128,000</td>
+					<td>1,585</td>
+				</tr>
+			
+				<tr>
+					<td>그림자도 없다</td>
+					<td>No Shadow</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>마이 로맨스</td>
+					<td>My Romance</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>초능력자</td>
+					<td>Haunters</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>SF,드라마</td>
+					<td>단역-주민2역</td>
+					<td>15,618,440,958</td>
+					<td>2,164,805</td>
+					<td>15,374,798,000</td>
+					<td>2,130,645</td>
+				</tr>
+			
+				<tr>
+					<td>푸른 강은 흘러라</td>
+					<td>Let The Blue River Run</td>
+					<td>2008</td>
+					<td>한국,중국</td>
+					<td>드라마</td>
+					<td>조연-미옥역</td>
+					<td>1,789,770</td>
+					<td>323</td>
+					<td>2,079,000</td>
+					<td>385</td>
+				</tr>
+			
+				<tr>
+					<td>원나잇스탠드(Episode 2.)</td>
+					<td></td>
+					<td></td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-Episode 2 - 카페 여자 역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

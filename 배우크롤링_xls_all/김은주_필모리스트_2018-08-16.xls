@@ -1,0 +1,177 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '김은주'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>아들에게 가는 길</td>
+					<td>Agagil (Journey to my boy)</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>가족,드라마</td>
+					<td>주연</td>
+					<td>44,440,500</td>
+					<td>6,668</td>
+					<td>45,199,500</td>
+					<td>6,822</td>
+				</tr>
+			
+				<tr>
+					<td>메이드 인 차이나</td>
+					<td>Made in China</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-용의 아녀역</td>
+					<td>3,135,100</td>
+					<td>419</td>
+					<td>3,135,100</td>
+					<td>419</td>
+				</tr>
+			
+				<tr>
+					<td>만신</td>
+					<td>MANSHIN: Ten Thousand Spirits</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>다큐멘터리,드라마</td>
+					<td>단역-가이드 나레이션역(목소리)-제자만신역</td>
+					<td>271,945,300</td>
+					<td>36,303</td>
+					<td>273,755,300</td>
+					<td>36,535</td>
+				</tr>
+			
+				<tr>
+					<td>그림자도 없다</td>
+					<td>No Shadow</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>산책</td>
+					<td>A Walk</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>별일아니다</td>
+					<td>Ordinary Days</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-미소역</td>
+					<td>1,555,200</td>
+					<td>202</td>
+					<td>1,757,200</td>
+					<td>236</td>
+				</tr>
+			
+				<tr>
+					<td>할 수 있는 자가 구하라</td>
+					<td>Read My Lips</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>단역</td>
+					<td></td>
+					<td></td>
+					<td>107,000</td>
+					<td>16</td>
+				</tr>
+			
+				<tr>
+					<td>서울</td>
+					<td>Seoul</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>조연-채만 후배역</td>
+					<td>2,481,968</td>
+					<td>374</td>
+					<td>2,443,000</td>
+					<td>368</td>
+				</tr>
+			
+				<tr>
+					<td>황금시대</td>
+					<td>Short! Short! Short! 2009: Show Me The Money</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-seg. 담뱃값역</td>
+					<td>27,121,339</td>
+					<td>3,779</td>
+					<td>26,839,500</td>
+					<td>3,739</td>
+				</tr>
+			
+				<tr>
+					<td>은하해방전선</td>
+					<td>Milky Way Liberation Front</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>코미디,드라마,멜로/로맨스</td>
+					<td>단역-주변 학생역</td>
+					<td>9,019,500</td>
+					<td>5,841</td>
+					<td>32,675,000</td>
+					<td>5,228</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

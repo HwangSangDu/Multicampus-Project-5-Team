@@ -1,0 +1,229 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '제임스 마스던'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>충격과 공포</td>
+					<td>SHOCK and AWE</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>디 트레인</td>
+					<td>The D Train</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>더 로프트 : 비밀의 방</td>
+					<td>The Loft</td>
+					<td>2014</td>
+					<td>미국,벨기에</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>40,892,300</td>
+					<td>5,441</td>
+					<td>40,892,300</td>
+					<td>5,441</td>
+				</tr>
+			
+				<tr>
+					<td>베스트 오브 미</td>
+					<td>The Best of Me</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>100,915,600</td>
+					<td>13,399</td>
+					<td>100,915,600</td>
+					<td>13,399</td>
+				</tr>
+			
+				<tr>
+					<td>쿨하니까 괜찮아</td>
+					<td>As Cool As I Am</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>3,000</td>
+					<td>1</td>
+					<td>3,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>로봇 앤 프랭크</td>
+					<td>Robot and Frank</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>코미디,드라마,SF</td>
+					<td>주연</td>
+					<td>69,243,000</td>
+					<td>10,379</td>
+					<td>69,243,000</td>
+					<td>10,379</td>
+				</tr>
+			
+				<tr>
+					<td>바니버디</td>
+					<td>Hop</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>애니메이션</td>
+					<td>주연</td>
+					<td>1,207,951,000</td>
+					<td>181,841</td>
+					<td>1,207,921,000</td>
+					<td>181,837</td>
+				</tr>
+			
+				<tr>
+					<td>캣츠 앤 독스 2</td>
+					<td>Cats &amp; Dogs: The Revenge Of Kitty Galore</td>
+					<td>2010</td>
+					<td>미국,오스트리아 </td>
+					<td>가족,코미디,액션</td>
+					<td>주연(목소리)</td>
+					<td>810,563,678</td>
+					<td>109,667</td>
+					<td>797,837,500</td>
+					<td>107,921</td>
+				</tr>
+			
+				<tr>
+					<td>더 박스</td>
+					<td>The Box</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>23,544,000</td>
+					<td>3,276</td>
+					<td>23,544,000</td>
+					<td>3,276</td>
+				</tr>
+			
+				<tr>
+					<td>27번의 결혼리허설</td>
+					<td>27 Dresses</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>1,592,159,556</td>
+					<td>239,674</td>
+					<td>1,602,927,500</td>
+					<td>239,739</td>
+				</tr>
+			
+				<tr>
+					<td>10번째 &amp; 늑대</td>
+					<td>10th &amp; Wolf</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>인터스테이트</td>
+					<td>Interstate 60</td>
+					<td>2002</td>
+					<td>미국,캐나다</td>
+					<td>어드벤처,판타지,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>12,084</td>
+					<td>1,007,500</td>
+					<td>135</td>
+				</tr>
+			
+				<tr>
+					<td>가십</td>
+					<td>Gossip</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>크레들 베이</td>
+					<td>Disturbing Behavior</td>
+					<td>1998</td>
+					<td>호주,미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

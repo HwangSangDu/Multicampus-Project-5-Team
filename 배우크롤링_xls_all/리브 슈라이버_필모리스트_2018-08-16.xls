@@ -1,0 +1,203 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '리브 슈라이버'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>마이 리틀 포니 - 더 무비</td>
+					<td>My Little Pony: The Movie</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>세기의 매치</td>
+					<td>Pawn Sacrifice</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>155,570,400</td>
+					<td>20,448</td>
+					<td>155,570,400</td>
+					<td>20,448</td>
+				</tr>
+			
+				<tr>
+					<td>지골로 인 뉴욕</td>
+					<td>Fading Gigolo</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>226,048,755</td>
+					<td>30,140</td>
+					<td>226,048,755</td>
+					<td>30,140</td>
+				</tr>
+			
+				<tr>
+					<td>플래닛 바이러스</td>
+					<td>The Last Days on Mars</td>
+					<td>2013</td>
+					<td>영국,아일랜드</td>
+					<td>공포(호러),SF,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>로봇 앤 프랭크</td>
+					<td>Robot and Frank</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>코미디,드라마,SF</td>
+					<td>주연</td>
+					<td>69,243,000</td>
+					<td>10,379</td>
+					<td>69,243,000</td>
+					<td>10,379</td>
+				</tr>
+			
+				<tr>
+					<td>엑스맨 탄생: 울버린</td>
+					<td>X-Men Origins: Wolverine</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>SF,액션,판타지</td>
+					<td>주연</td>
+					<td>8,560,185,022</td>
+					<td>1,303,452</td>
+					<td>8,408,135,000</td>
+					<td>1,280,734</td>
+				</tr>
+			
+				<tr>
+					<td>디파이언스</td>
+					<td>Defiance</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>드라마,전쟁</td>
+					<td>주연</td>
+					<td>1,551,731,322</td>
+					<td>232,532</td>
+					<td>1,528,139,000</td>
+					<td>229,157</td>
+				</tr>
+			
+				<tr>
+					<td>오멘</td>
+					<td>The Omen</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>공포(호러)</td>
+					<td>주연-로버트 쏜역</td>
+					<td>0</td>
+					<td>318,350</td>
+					<td>1,857,061,800</td>
+					<td>292,333</td>
+				</tr>
+			
+				<tr>
+					<td>우크라이나에서 온 편지</td>
+					<td>Everything Is Illuminated</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>감독</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>RKO 281</td>
+					<td>RKO 281</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>워크 온 더 문</td>
+					<td>A Walk On The Moon</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>벤 애플렉의 팬텀</td>
+					<td>Phantoms</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>스릴러,공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

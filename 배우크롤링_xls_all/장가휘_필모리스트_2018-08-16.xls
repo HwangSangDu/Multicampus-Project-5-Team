@@ -1,0 +1,372 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '장가휘'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>사도행자: 특별수사대</td>
+					<td>Line Walker</td>
+					<td>2016</td>
+					<td>중국</td>
+					<td>액션,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,264,000</td>
+					<td>158</td>
+				</tr>
+			
+				<tr>
+					<td>도성풍운 2</td>
+					<td>The Man From Macao II</td>
+					<td>2015</td>
+					<td>홍콩</td>
+					<td>액션,코미디</td>
+					<td>주연</td>
+					<td>191,000</td>
+					<td>52</td>
+					<td>191,000</td>
+					<td>52</td>
+				</tr>
+			
+				<tr>
+					<td>적도</td>
+					<td>Helios</td>
+					<td>2015</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>27,026,500</td>
+					<td>3,679</td>
+					<td>27,427,500</td>
+					<td>3,778</td>
+				</tr>
+			
+				<tr>
+					<td>마경</td>
+					<td>That Demon Within</td>
+					<td>2014</td>
+					<td>홍콩</td>
+					<td>범죄,액션,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>우란신공</td>
+					<td>Hungry Ghost Ritual</td>
+					<td>2014</td>
+					<td>홍콩,말레이시아</td>
+					<td>공포(호러)</td>
+					<td>감독,주연</td>
+					<td></td>
+					<td></td>
+					<td>7,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>음모자들</td>
+					<td>Conspirators</td>
+					<td>2013</td>
+					<td>홍콩,중국</td>
+					<td>액션,스릴러,범죄</td>
+					<td>주연</td>
+					<td>6,934,000</td>
+					<td>1,385</td>
+					<td>7,068,000</td>
+					<td>1,407</td>
+				</tr>
+			
+				<tr>
+					<td>화이트 스톰</td>
+					<td>The White Storm</td>
+					<td>2013</td>
+					<td>홍콩</td>
+					<td>액션,범죄,스릴러</td>
+					<td>주연</td>
+					<td>6,187,000</td>
+					<td>1,046</td>
+					<td>6,187,000</td>
+					<td>1,046</td>
+				</tr>
+			
+				<tr>
+					<td>격전</td>
+					<td>Unbeatable</td>
+					<td>2013</td>
+					<td>홍콩,중국</td>
+					<td>액션,드라마</td>
+					<td>주연</td>
+					<td>100,000</td>
+					<td>10</td>
+					<td>100,000</td>
+					<td>10</td>
+				</tr>
+			
+				<tr>
+					<td>나이트폴</td>
+					<td>Night Fall</td>
+					<td>2012</td>
+					<td>홍콩,중국</td>
+					<td>액션,스릴러,범죄</td>
+					<td>주연</td>
+					<td>99,076,000</td>
+					<td>13,307</td>
+					<td>99,076,000</td>
+					<td>13,307</td>
+				</tr>
+			
+				<tr>
+					<td>비스트 스토커 2 - &lt;증인&gt; 두 번째 이야기</td>
+					<td>Stool Pigeon</td>
+					<td>2010</td>
+					<td>홍콩</td>
+					<td>액션,드라마,스릴러</td>
+					<td>주연</td>
+					<td>287,514</td>
+					<td>49</td>
+					<td>283,000</td>
+					<td>48</td>
+				</tr>
+			
+				<tr>
+					<td>커넥트</td>
+					<td>Connected</td>
+					<td>2008</td>
+					<td>홍콩</td>
+					<td>액션,스릴러,범죄</td>
+					<td>주연</td>
+					<td>1,145,569,333</td>
+					<td>188,807</td>
+					<td>1,147,879,500</td>
+					<td>189,315</td>
+				</tr>
+			
+				<tr>
+					<td>비스트 스토커</td>
+					<td>The Beast Stalker</td>
+					<td>2008</td>
+					<td>홍콩</td>
+					<td>액션,스릴러</td>
+					<td>주연-장일동 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>흑사회 2</td>
+					<td>Election 2</td>
+					<td>2006</td>
+					<td>홍콩</td>
+					<td>드라마,범죄,액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>2,474,000</td>
+					<td>364</td>
+				</tr>
+			
+				<tr>
+					<td>제방노천</td>
+					<td>Wise Guys Never Die</td>
+					<td>2006</td>
+					<td>홍콩</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>흑백도</td>
+					<td>On the Edge</td>
+					<td>2006</td>
+					<td>홍콩</td>
+					<td>범죄,액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>대사건</td>
+					<td>Breaking News</td>
+					<td>2004</td>
+					<td>홍콩</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>6,000</td>
+					<td>1</td>
+					<td>1,544,000</td>
+					<td>229</td>
+				</tr>
+			
+				<tr>
+					<td>신도협</td>
+					<td>Fate Fighter</td>
+					<td>2003</td>
+					<td>홍콩</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>육도심한</td>
+					<td>Shiver</td>
+					<td>2003</td>
+					<td>홍콩</td>
+					<td>미스터리,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>풍류가족</td>
+					<td>Happy Family</td>
+					<td>2002</td>
+					<td>홍콩</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>주투유로</td>
+					<td>Runaway</td>
+					<td>2001</td>
+					<td>홍콩</td>
+					<td>액션,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>강간 4 - 최후고양</td>
+					<td>Raped By An Angel 4: The Raper&#039;s Union</td>
+					<td>1999</td>
+					<td>홍콩</td>
+					<td>코미디,공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>수수왕</td>
+					<td>The King Of Debt Collecting Agent</td>
+					<td>1999</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>오악지왕</td>
+					<td>The Lord Of Amusement</td>
+					<td>1999</td>
+					<td>홍콩</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>흑마왕자</td>
+					<td>Prince Charming</td>
+					<td>1999</td>
+					<td>홍콩</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>강력반장 3</td>
+					<td></td>
+					<td>1997</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

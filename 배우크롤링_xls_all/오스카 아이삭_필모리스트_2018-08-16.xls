@@ -1,0 +1,216 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '오스카 아이삭'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>서버비콘</td>
+					<td>Suburbicon</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>범죄,미스터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>105,927,500</td>
+					<td>12,676</td>
+				</tr>
+			
+				<tr>
+					<td>스타워즈: 라스트 제다이</td>
+					<td>Star Wars: The Last Jedi</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지,SF</td>
+					<td>주연</td>
+					<td>8,666,693,961</td>
+					<td>959,578</td>
+					<td>8,666,693,961</td>
+					<td>959,578</td>
+				</tr>
+			
+				<tr>
+					<td>엑스맨: 아포칼립스</td>
+					<td>X-Men: Apocalypse</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지,SF</td>
+					<td>주연</td>
+					<td>24,467,887,950</td>
+					<td>2,938,818</td>
+					<td>24,467,887,950</td>
+					<td>2,938,818</td>
+				</tr>
+			
+				<tr>
+					<td>더 프로미스</td>
+					<td>The Promise</td>
+					<td>2016</td>
+					<td>스페인,미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스타워즈: 깨어난 포스</td>
+					<td>Star Wars : The Force Awakens</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지</td>
+					<td>주연</td>
+					<td>28,353,796,331</td>
+					<td>3,273,879</td>
+					<td>28,353,796,331</td>
+					<td>3,273,879</td>
+				</tr>
+			
+				<tr>
+					<td>모스트 바이어런트</td>
+					<td>A Most Violent Year</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>범죄</td>
+					<td>주연</td>
+					<td>78,857,425</td>
+					<td>10,048</td>
+					<td>79,886,925</td>
+					<td>10,175</td>
+				</tr>
+			
+				<tr>
+					<td>엑스 마키나</td>
+					<td>Ex Machina</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>SF,스릴러</td>
+					<td>주연</td>
+					<td>629,716,963</td>
+					<td>78,049</td>
+					<td>633,809,363</td>
+					<td>78,521</td>
+				</tr>
+			
+				<tr>
+					<td>1월의 두 얼굴</td>
+					<td>The Two Faces of January</td>
+					<td>2014</td>
+					<td>영국,미국,프랑스</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>33,706,300</td>
+					<td>4,715</td>
+					<td>33,706,300</td>
+					<td>4,715</td>
+				</tr>
+			
+				<tr>
+					<td>테레즈 라캥</td>
+					<td>In Secret</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>범죄,드라마,스릴러</td>
+					<td>주연</td>
+					<td>108,674,700</td>
+					<td>14,385</td>
+					<td>109,707,700</td>
+					<td>14,510</td>
+				</tr>
+			
+				<tr>
+					<td>인사이드 르윈 </td>
+					<td>Inside Lewyn Davis</td>
+					<td>2013</td>
+					<td>미국,프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>817,359,200</td>
+					<td>105,592</td>
+					<td>824,583,700</td>
+					<td>106,729</td>
+				</tr>
+			
+				<tr>
+					<td>리벤지 포 졸리</td>
+					<td>Revenge for Jolly!</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>5,000</td>
+					<td>1</td>
+					<td>5,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>원 나잇 리멤버</td>
+					<td>10 Years</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>45,000</td>
+					<td>37</td>
+					<td>45,000</td>
+					<td>37</td>
+				</tr>
+			
+				<tr>
+					<td>위대한 탄생</td>
+					<td>The Nativity Story</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-요셉역</td>
+					<td>0</td>
+					<td>72,574</td>
+					<td>384,078,700</td>
+					<td>63,332</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,333 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '제시카 비엘'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>충격과 공포</td>
+					<td>SHOCK and AWE</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스파키</td>
+					<td>Spark : A Space Tail</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>애니메이션,어드벤처,코미디</td>
+					<td>주연</td>
+					<td>257,040,200</td>
+					<td>35,436</td>
+					<td>257,040,200</td>
+					<td>35,436</td>
+				</tr>
+			
+				<tr>
+					<td>카인드 오브 머더</td>
+					<td>A Kind of Murder</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>스릴러,드라마</td>
+					<td>주연</td>
+					<td>285,000</td>
+					<td>50</td>
+					<td>285,000</td>
+					<td>50</td>
+				</tr>
+			
+				<tr>
+					<td>엑시덴탈 러브</td>
+					<td>Accidental Love</td>
+					<td>2015</td>
+					<td>미국,영국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td>73,820,847</td>
+					<td>9,454</td>
+					<td>73,820,847</td>
+					<td>9,454</td>
+				</tr>
+			
+				<tr>
+					<td>여동생의 비밀</td>
+					<td>Bleeding Heart</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>트루스 어바웃 엠마누엘</td>
+					<td>The Truth About Emanuel</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td>4,632,500</td>
+					<td>611</td>
+					<td>4,632,500</td>
+					<td>611</td>
+				</tr>
+			
+				<tr>
+					<td>당신에게도 사랑이 다시 찾아올까요?</td>
+					<td>Playing for keeps</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>70,430,500</td>
+					<td>10,328</td>
+					<td>70,430,500</td>
+					<td>10,328</td>
+				</tr>
+			
+				<tr>
+					<td>토탈 리콜</td>
+					<td>Total Recall</td>
+					<td>2012</td>
+					<td>미국,캐나다</td>
+					<td>SF,액션</td>
+					<td>주연</td>
+					<td>8,958,236,000</td>
+					<td>1,219,637</td>
+					<td>8,958,236,000</td>
+					<td>1,219,637</td>
+				</tr>
+			
+				<tr>
+					<td>톨 맨</td>
+					<td>The Tall Man</td>
+					<td>2012</td>
+					<td>프랑스,미국,캐나다</td>
+					<td>미스터리,공포(호러),스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>뉴욕의 연인들</td>
+					<td>New Year&#039;s Eve</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연-테스 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>A-특공대</td>
+					<td>The A-Team</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>5,890,424,042</td>
+					<td>791,173</td>
+					<td>5,795,794,000</td>
+					<td>777,985</td>
+				</tr>
+			
+				<tr>
+					<td>네일드</td>
+					<td>Nailed</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>플래닛 51</td>
+					<td>Planet 51</td>
+					<td>2009</td>
+					<td>스페인,영국</td>
+					<td>애니메이션,코미디,어드벤처,가족</td>
+					<td>주연-니라역(목소리)</td>
+					<td>292,826,223</td>
+					<td>46,330</td>
+					<td>288,235,500</td>
+					<td>45,594</td>
+				</tr>
+			
+				<tr>
+					<td>발렌타인 데이</td>
+					<td>Valentine&#039;S Day</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>1,337,699,931</td>
+					<td>172,997</td>
+					<td>1,314,085,500</td>
+					<td>169,529</td>
+				</tr>
+			
+				<tr>
+					<td>파우더 블루</td>
+					<td>Powder Blue</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>이지 버츄</td>
+					<td>Easy Virtue</td>
+					<td>2008</td>
+					<td>영국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>715,737</td>
+					<td>98</td>
+					<td>704,500</td>
+					<td>96</td>
+				</tr>
+			
+				<tr>
+					<td>일루셔니스트</td>
+					<td>The Illusionist</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>597,174</td>
+					<td>3,453,406,800</td>
+					<td>567,729</td>
+				</tr>
+			
+				<tr>
+					<td>홈 오브 더 브레이브</td>
+					<td>Home Of The Brave</td>
+					<td>2006</td>
+					<td>미국,모로코</td>
+					<td>액션,전쟁,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스텔스</td>
+					<td>Stealth</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>액션,어드벤처,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>650,160</td>
+					<td>3,364,375,000</td>
+					<td>532,360</td>
+				</tr>
+			
+				<tr>
+					<td>런던</td>
+					<td>London</td>
+					<td>2005</td>
+					<td>영국,미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>텍사스 전기톱 연쇄살인사건</td>
+					<td>The Texas Chainsaw Massacre</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>236,661</td>
+					<td>1,296,227,000</td>
+					<td>202,244</td>
+				</tr>
+			
+				<tr>
+					<td>썸머 캐치</td>
+					<td>Summer Catch</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

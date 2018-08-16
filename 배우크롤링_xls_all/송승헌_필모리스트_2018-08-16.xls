@@ -1,0 +1,216 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '송승헌'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>대장 김창수</td>
+					<td>MAN OF WILL </td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-강형식 역</td>
+					<td>2,879,121,115</td>
+					<td>381,483</td>
+					<td>2,879,121,115</td>
+					<td>381,483</td>
+				</tr>
+			
+				<tr>
+					<td>미쓰 와이프</td>
+					<td>Wonderful Nightmare</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>7,387,086,869</td>
+					<td>988,451</td>
+					<td>7,387,086,869</td>
+					<td>988,451</td>
+				</tr>
+			
+				<tr>
+					<td>제3의 사랑</td>
+					<td>The Third Way of Love</td>
+					<td>2014</td>
+					<td>중국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>58,347,400</td>
+					<td>8,108</td>
+					<td>58,467,400</td>
+					<td>8,128</td>
+				</tr>
+			
+				<tr>
+					<td>인간중독</td>
+					<td>Obsessed</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>11,284,787,400</td>
+					<td>1,441,964</td>
+					<td>11,285,050,400</td>
+					<td>1,441,990</td>
+				</tr>
+			
+				<tr>
+					<td>고스트: 보이지 않는 사랑</td>
+					<td>GHOST: In Your Arms Again</td>
+					<td>2010</td>
+					<td>일본,한국</td>
+					<td>멜로/로맨스,판타지</td>
+					<td>주연-준호역</td>
+					<td>50,310,394</td>
+					<td>6,726</td>
+					<td>49,540,500</td>
+					<td>6,624</td>
+				</tr>
+			
+				<tr>
+					<td>무적자</td>
+					<td>A Better Tomorrow</td>
+					<td>2010</td>
+					<td>한국,홍콩,일본,태국</td>
+					<td>드라마,액션</td>
+					<td>주연-영춘역</td>
+					<td>11,816,488,677</td>
+					<td>1,571,432</td>
+					<td>11,629,780,500</td>
+					<td>1,546,132</td>
+				</tr>
+			
+				<tr>
+					<td>숙명</td>
+					<td>Fate</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>드라마,액션</td>
+					<td>주연</td>
+					<td>5,680,873,500</td>
+					<td>858,215</td>
+					<td>5,680,873,500</td>
+					<td>846,903</td>
+				</tr>
+			
+				<tr>
+					<td>그놈은 멋있었다</td>
+					<td>He was cool</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>800,000</td>
+					<td>2,309,055,500</td>
+					<td>372,591</td>
+				</tr>
+			
+				<tr>
+					<td>빙우</td>
+					<td>Ice Rain</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>216,676</td>
+					<td>363,240,500</td>
+					<td>55,656</td>
+				</tr>
+			
+				<tr>
+					<td>버추얼 웨폰</td>
+					<td>So Close</td>
+					<td>2002</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>24,959</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>일단뛰어</td>
+					<td>Make It Big</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>액션,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td>220,205</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>팝콘</td>
+					<td></td>
+					<td>2000</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>카라</td>
+					<td>Calla</td>
+					<td>1999</td>
+					<td>한국</td>
+					<td>멜로/로맨스,판타지</td>
+					<td>주연-김선우역</td>
+					<td>0</td>
+					<td>64,347</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

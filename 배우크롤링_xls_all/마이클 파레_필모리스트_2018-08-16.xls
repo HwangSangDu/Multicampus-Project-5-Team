@@ -1,0 +1,476 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '마이클 파레'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>배틀 드론</td>
+					<td>Battle Drone</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>액션,전쟁</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>쉘터</td>
+					<td>The Shelter</td>
+					<td>2015</td>
+					<td>캐나다</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td>8,000</td>
+					<td>1</td>
+					<td>8,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>타임트랩 워</td>
+					<td>The Philadelphia Experiment</td>
+					<td>2012</td>
+					<td>캐나다</td>
+					<td>어드벤처,미스터리,SF</td>
+					<td>주연</td>
+					<td>21,000</td>
+					<td>13</td>
+					<td>21,000</td>
+					<td>13</td>
+				</tr>
+			
+				<tr>
+					<td>맥시멈 컨빅션</td>
+					<td>Maximum Conviction</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션,어드벤처,스릴러</td>
+					<td>주연</td>
+					<td>3,165,000</td>
+					<td>1,500</td>
+					<td>3,165,000</td>
+					<td>1,500</td>
+				</tr>
+			
+				<tr>
+					<td>스워드 2 </td>
+					<td>Tales of an Ancient Empire</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>액션,어드벤처</td>
+					<td>주연-오다 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>램페이지 : 더 테러리스트</td>
+					<td>Rampage 1</td>
+					<td>2009</td>
+					<td>캐나다,독일</td>
+					<td>액션,스릴러,범죄,드라마</td>
+					<td>주연-보안관 멜보이 역역</td>
+					<td>270,000</td>
+					<td>54</td>
+					<td>270,000</td>
+					<td>54</td>
+				</tr>
+			
+				<tr>
+					<td>특수부대: 정글의 전쟁</td>
+					<td>Tunnel Rats</td>
+					<td>2008</td>
+					<td>캐나다,독일</td>
+					<td>액션,전쟁,드라마</td>
+					<td>주연</td>
+					<td>100,000</td>
+					<td>10</td>
+					<td>100,000</td>
+					<td>10</td>
+				</tr>
+			
+				<tr>
+					<td>다크 월드</td>
+					<td>Dark World</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>코모도 대 코브라</td>
+					<td>Komodo Vs. Cobra</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>공포(호러),SF</td>
+					<td>주연</td>
+					<td>14,000</td>
+					<td>2</td>
+					<td>14,000</td>
+					<td>2</td>
+				</tr>
+			
+				<tr>
+					<td>가고일</td>
+					<td>Gargoyle</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>액션,판타지,공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>블랙우즈</td>
+					<td>Blackwoods</td>
+					<td>2002</td>
+					<td>캐나다,독일</td>
+					<td>스릴러,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>하트 오브 아메리카</td>
+					<td>Heart Of America</td>
+					<td>2002</td>
+					<td>캐나다,독일</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>하트 오브 아메리카</td>
+					<td>Heart Of America</td>
+					<td>2002</td>
+					<td>캐나다,독일</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>레저렉션 2</td>
+					<td>Sanctimony</td>
+					<td>2000</td>
+					<td>미국,독일</td>
+					<td>공포(호러),스릴러,범죄</td>
+					<td>주연-짐 르노역</td>
+					<td>0</td>
+					<td>87</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스페이스</td>
+					<td>Space Fury</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>SF</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>페릴</td>
+					<td>Peril</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>맨 오브 액션</td>
+					<td>Men Of Means</td>
+					<td>1999</td>
+					<td>캐나다</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>브로큰 하트</td>
+					<td>October 22</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>적색지대</td>
+					<td>Back To Even</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>액션,드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>머천트데쓰 </td>
+					<td>Merchant Of Death</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>액션,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>445</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>폴링화이어 </td>
+					<td>Falling Fire</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>SF</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>627</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>2103 데들리웨이크 </td>
+					<td>2103: The Deadly Wake</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>SF</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>259</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>크라임서치 </td>
+					<td>Strip Search</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>드라마,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>122</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>코요테 </td>
+					<td>Coyote Run</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>액션,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,192</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>네트 </td>
+					<td>The Net</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>시나리오(각본)</td>
+					<td>0</td>
+					<td>115,636</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>배반의 사랑</td>
+					<td>Triplecross</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>액션,범죄,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>워리어스</td>
+					<td>Warriors</td>
+					<td>1994</td>
+					<td>캐나다,이스라엘</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>에바의 유혹</td>
+					<td>Spanish Rose</td>
+					<td>1993</td>
+					<td>이탈리아</td>
+					<td>드라마,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>4,483</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>특수요원 샘</td>
+					<td>First Light</td>
+					<td>1993</td>
+					<td>영국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,376</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>미드나잇 대결전</td>
+					<td>Midnight Heat</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>3,774</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>샷건</td>
+					<td>Into The Sun</td>
+					<td>1992</td>
+					<td>미국</td>
+					<td>액션,어드벤처,코미디</td>
+					<td>주연,시나리오(각본)</td>
+					<td>0</td>
+					<td>6,654</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>크레크</td>
+					<td>Killing Streets</td>
+					<td>1990</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>3,340</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>에디</td>
+					<td>Eddie Lives</td>
+					<td>1989</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>12,224</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

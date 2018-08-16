@@ -1,0 +1,203 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '장 마크 바'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>그 여름의 정사</td>
+					<td>And They Call It Summer</td>
+					<td>2012</td>
+					<td>이탈리아</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>30,000</td>
+					<td>3</td>
+					<td>30,000</td>
+					<td>3</td>
+				</tr>
+			
+				<tr>
+					<td>밝히는 가족의 섹스 스토리</td>
+					<td>Sexual Chronicles of a French Family</td>
+					<td>2011</td>
+					<td>프랑스</td>
+					<td>코미디</td>
+					<td>감독</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>어메리칸 트렌슬레이션</td>
+					<td>American Translation </td>
+					<td>2011</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>감독</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>누신젠 하우스</td>
+					<td>Nucingen Haus</td>
+					<td>2008</td>
+					<td>루마니아,프랑스,칠레</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>CQ2</td>
+					<td>CQ2: Seek You Too</td>
+					<td>2004</td>
+					<td></td>
+					<td></td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>살팀뱅크</td>
+					<td>Saltimbank</td>
+					<td>2003</td>
+					<td>프랑스</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>비잉 라이트</td>
+					<td>Being Light</td>
+					<td>2001</td>
+					<td>프랑스</td>
+					<td>코미디</td>
+					<td>감독,주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>육체의 향연</td>
+					<td>Too Much Flesh</td>
+					<td>2000</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>감독,조연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>연인들</td>
+					<td>Lovers</td>
+					<td>1999</td>
+					<td>프랑스</td>
+					<td>멜로/로맨스</td>
+					<td>감독</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>하얀 외침 검은 태양 </td>
+					<td>La Brasier</td>
+					<td>1991</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>744</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>유로파</td>
+					<td>Europa</td>
+					<td>1991</td>
+					<td>덴마크</td>
+					<td>스릴러,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>13,585</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>그랑블루 리마스터링 감독판</td>
+					<td>Le Grand Bleu</td>
+					<td>1988</td>
+					<td>프랑스,이탈리아</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연-자크역</td>
+					<td>162,955,000</td>
+					<td>21,306</td>
+					<td>170,917,479</td>
+					<td>22,379</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

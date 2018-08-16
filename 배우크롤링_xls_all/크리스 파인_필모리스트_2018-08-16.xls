@@ -1,0 +1,255 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '크리스 파인'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>시간의 주름</td>
+					<td>A Wrinkle In Time</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>어드벤처,판타지,가족</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>원더 우먼</td>
+					<td>Wonder Woman</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지,SF</td>
+					<td>주연</td>
+					<td>17,468,588,886</td>
+					<td>2,165,401</td>
+					<td>17,468,588,886</td>
+					<td>2,165,401</td>
+				</tr>
+			
+				<tr>
+					<td>로스트 인 더스트</td>
+					<td>Hell or High Water</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td>633,772,822</td>
+					<td>81,236</td>
+					<td>639,384,322</td>
+					<td>81,966</td>
+				</tr>
+			
+				<tr>
+					<td>스타트렉 비욘드</td>
+					<td>Star Trek Beyond</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,SF</td>
+					<td>주연</td>
+					<td>10,193,232,820</td>
+					<td>1,157,472</td>
+					<td>10,193,232,820</td>
+					<td>1,157,472</td>
+				</tr>
+			
+				<tr>
+					<td>최후의 Z</td>
+					<td>Z for Zachariah</td>
+					<td>2015</td>
+					<td>아이슬란드,미국</td>
+					<td>드라마,SF,스릴러</td>
+					<td>주연</td>
+					<td>19,439,500</td>
+					<td>3,449</td>
+					<td>19,439,500</td>
+					<td>3,449</td>
+				</tr>
+			
+				<tr>
+					<td>숲속으로</td>
+					<td>Into the Woods</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>뮤지컬</td>
+					<td>주연</td>
+					<td>2,596,533,288</td>
+					<td>341,882</td>
+					<td>2,596,533,288</td>
+					<td>341,882</td>
+				</tr>
+			
+				<tr>
+					<td>잭 라이언 : 코드네임 쉐도우</td>
+					<td>Jack Ryan: Shadow Recruit</td>
+					<td>2014</td>
+					<td>미국,러시아</td>
+					<td>액션,드라마,스릴러</td>
+					<td>주연</td>
+					<td>2,395,409,500</td>
+					<td>327,591</td>
+					<td>2,395,391,500</td>
+					<td>327,589</td>
+				</tr>
+			
+				<tr>
+					<td>스타트렉 다크니스</td>
+					<td>Star Trek Into Darkness</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>액션,SF,어드벤처</td>
+					<td>주연</td>
+					<td>12,964,828,000</td>
+					<td>1,605,271</td>
+					<td>12,986,689,500</td>
+					<td>1,607,555</td>
+				</tr>
+			
+				<tr>
+					<td>가디언즈</td>
+					<td>Rise of the Guardians</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>애니메이션,어드벤처</td>
+					<td>주연-잭 프로스트역(목소리)</td>
+					<td>8,212,243,000</td>
+					<td>1,075,584</td>
+					<td>8,245,266,000</td>
+					<td>1,081,096</td>
+				</tr>
+			
+				<tr>
+					<td>디스 민즈 워</td>
+					<td>This Means War</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션,코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td>6,661,435,000</td>
+					<td>873,396</td>
+					<td>6,661,435,000</td>
+					<td>873,396</td>
+				</tr>
+			
+				<tr>
+					<td>피플 라이크 어스 </td>
+					<td>People Like Us</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-샘 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>언스토퍼블</td>
+					<td>Unstoppable</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>액션,스릴러,드라마</td>
+					<td>주연</td>
+					<td>3,325,136,489</td>
+					<td>459,535</td>
+					<td>3,273,318,500</td>
+					<td>452,320</td>
+				</tr>
+			
+				<tr>
+					<td>스타 트렉: 더 비기닝</td>
+					<td>Star Trek</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>SF,액션,어드벤처</td>
+					<td>주연-제임스 커크역</td>
+					<td>7,425,754,645</td>
+					<td>1,111,865</td>
+					<td>7,249,558,500</td>
+					<td>1,085,447</td>
+				</tr>
+			
+				<tr>
+					<td>캐리어스</td>
+					<td>Carriers</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>행운을 돌려줘!</td>
+					<td>Just My Luck</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연-제이크 하딘역</td>
+					<td>0</td>
+					<td>44,000</td>
+					<td>194,735,800</td>
+					<td>31,213</td>
+				</tr>
+			
+				<tr>
+					<td>블라인드 가이</td>
+					<td>Blind Dating</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

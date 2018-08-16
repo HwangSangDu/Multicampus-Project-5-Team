@@ -1,0 +1,476 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '스칼렛 요한슨'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>개들의 섬</td>
+					<td>Isle of Dogs</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>코미디,애니메이션,다큐멘터리</td>
+					<td>주연(목소리)</td>
+					<td>204,327,000</td>
+					<td>23,709</td>
+					<td>288,331,100</td>
+					<td>33,192</td>
+				</tr>
+			
+				<tr>
+					<td>어벤져스: 인피니티 워</td>
+					<td>Avengers: Infinity War</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지,SF</td>
+					<td>주연</td>
+					<td>99,825,741,869</td>
+					<td>11,202,737</td>
+					<td>99,918,419,769</td>
+					<td>11,211,798</td>
+				</tr>
+			
+				<tr>
+					<td>공각기동대 : 고스트 인 더 쉘</td>
+					<td>Ghost In The Shell</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>SF,범죄,액션</td>
+					<td>주연</td>
+					<td>6,285,970,884</td>
+					<td>764,072</td>
+					<td>6,285,970,884</td>
+					<td>764,072</td>
+				</tr>
+			
+				<tr>
+					<td>씽</td>
+					<td>Sing</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>애니메이션,뮤지컬</td>
+					<td>주연(목소리)</td>
+					<td>13,265,525,389</td>
+					<td>1,730,688</td>
+					<td>13,266,175,589</td>
+					<td>1,730,773</td>
+				</tr>
+			
+				<tr>
+					<td>헤일, 시저!</td>
+					<td>Hail, Caesar!</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>271,122,300</td>
+					<td>34,295</td>
+					<td>271,444,300</td>
+					<td>34,331</td>
+				</tr>
+			
+				<tr>
+					<td>정글북</td>
+					<td>The Jungle Book</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>어드벤처,드라마</td>
+					<td>주연</td>
+					<td>21,517,513,134</td>
+					<td>2,537,419</td>
+					<td>21,517,647,134</td>
+					<td>2,537,438</td>
+				</tr>
+			
+				<tr>
+					<td>캡틴 아메리카: 시빌 워</td>
+					<td>Captain America: Civil War</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션,SF,스릴러</td>
+					<td>주연</td>
+					<td>72,672,111,827</td>
+					<td>8,677,249</td>
+					<td>72,675,171,827</td>
+					<td>8,677,555</td>
+				</tr>
+			
+				<tr>
+					<td>어벤져스: 에이지 오브 울트론</td>
+					<td>The Avengers: Age of Ultron</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지,SF</td>
+					<td>주연</td>
+					<td>88,582,586,366</td>
+					<td>10,494,499</td>
+					<td>88,582,586,366</td>
+					<td>10,494,499</td>
+				</tr>
+			
+				<tr>
+					<td>아메리칸 셰프</td>
+					<td>Chef</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>1,255,831,929</td>
+					<td>153,794</td>
+					<td>1,262,572,429</td>
+					<td>154,689</td>
+				</tr>
+			
+				<tr>
+					<td>루시</td>
+					<td>LUCY</td>
+					<td>2014</td>
+					<td>미국,프랑스</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>16,468,076,039</td>
+					<td>1,974,893</td>
+					<td>16,468,076,039</td>
+					<td>1,974,893</td>
+				</tr>
+			
+				<tr>
+					<td>캡틴 아메리카: 윈터 솔져</td>
+					<td>Captain America: The Winter Soldier</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>액션,어드벤처,SF</td>
+					<td>주연</td>
+					<td>31,710,585,385</td>
+					<td>3,963,220</td>
+					<td>31,711,040,385</td>
+					<td>3,963,251</td>
+				</tr>
+			
+				<tr>
+					<td>언더 더 스킨</td>
+					<td>Under The Skin</td>
+					<td>2013</td>
+					<td>영국</td>
+					<td>SF,드라마</td>
+					<td>주연</td>
+					<td>14,167,000</td>
+					<td>2,750</td>
+					<td>23,037,600</td>
+					<td>3,993</td>
+				</tr>
+			
+				<tr>
+					<td>그녀</td>
+					<td>Her</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>2,861,230,000</td>
+					<td>351,091</td>
+					<td>2,895,053,541</td>
+					<td>355,885</td>
+				</tr>
+			
+				<tr>
+					<td>돈 존</td>
+					<td>Don Jon</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>코미디,드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>96,323,000</td>
+					<td>12,044</td>
+					<td>96,323,000</td>
+					<td>12,044</td>
+				</tr>
+			
+				<tr>
+					<td>어벤져스</td>
+					<td>The Avengers</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션,SF</td>
+					<td>주연-나타샤 로마노프/블랙 위도우역</td>
+					<td>59,557,853,478</td>
+					<td>7,074,867</td>
+					<td>59,558,111,478</td>
+					<td>7,074,891</td>
+				</tr>
+			
+				<tr>
+					<td>히치콕</td>
+					<td>Hitchcock</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연-자넷 리 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>우리는 동물원을 샀다</td>
+					<td>We Bought a Zoo</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>가족,코미디</td>
+					<td>주연-켈리 포스터역</td>
+					<td>1,993,190,500</td>
+					<td>276,334</td>
+					<td>1,993,190,500</td>
+					<td>276,334</td>
+				</tr>
+			
+				<tr>
+					<td>아이언맨 2</td>
+					<td>Iron Man 2</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>SF,액션,어드벤처</td>
+					<td>주연</td>
+					<td>33,161,943,100</td>
+					<td>4,498,335</td>
+					<td>32,635,195,500</td>
+					<td>4,425,003</td>
+				</tr>
+			
+				<tr>
+					<td>내 남자의 아내도 좋아</td>
+					<td>Vicky Cristina Barcelona</td>
+					<td>2008</td>
+					<td>스페인,미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-크리스티나역</td>
+					<td>454,199,063</td>
+					<td>67,202</td>
+					<td>451,244,000</td>
+					<td>66,884</td>
+				</tr>
+			
+				<tr>
+					<td>천일의 스캔들</td>
+					<td>The Other Boleyn Girl</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>사극,멜로/로맨스</td>
+					<td>주연-메리 볼린 역</td>
+					<td>4,599,546,001</td>
+					<td>700,095</td>
+					<td>4,597,058,500</td>
+					<td>693,836</td>
+				</tr>
+			
+				<tr>
+					<td>스피릿</td>
+					<td>The Spirit</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>액션,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>내니 다이어리</td>
+					<td>The Nanny Diaries</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연-애니 브래독역</td>
+					<td>0</td>
+					<td>477,513</td>
+					<td>3,121,316,500</td>
+					<td>477,602</td>
+				</tr>
+			
+				<tr>
+					<td>블랙 달리아</td>
+					<td>The Black Dahlia</td>
+					<td>2006</td>
+					<td>독일,미국,프랑스</td>
+					<td>드라마,미스터리,범죄</td>
+					<td>주연-케이 레이크역</td>
+					<td>0</td>
+					<td>136,451</td>
+					<td>831,712,000</td>
+					<td>123,589</td>
+				</tr>
+			
+				<tr>
+					<td>스쿠프</td>
+					<td>Scoop</td>
+					<td>2006</td>
+					<td>미국,영국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>61,993</td>
+					<td>393,057,052</td>
+					<td>61,455</td>
+				</tr>
+			
+				<tr>
+					<td>매치 포인트</td>
+					<td>Match Point</td>
+					<td>2005</td>
+					<td>영국,미국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연-노라 라이스역</td>
+					<td>0</td>
+					<td>128,958</td>
+					<td>879,984,048</td>
+					<td>132,606</td>
+				</tr>
+			
+				<tr>
+					<td>굿 우먼</td>
+					<td>A Good Woman</td>
+					<td>2004</td>
+					<td>미국,스페인,룩셈부르크,영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>345</td>
+					<td>2,132,500</td>
+					<td>345</td>
+				</tr>
+			
+				<tr>
+					<td>러브 송 포 바비 롱</td>
+					<td>A Love Song For Bobby Long</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>퍼펙트 스코어</td>
+					<td>The Perfect Score</td>
+					<td>2004</td>
+					<td>미국,독일</td>
+					<td>범죄,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>진주 귀걸이를 한 소녀</td>
+					<td>Girl With A Pearl Earring</td>
+					<td>2003</td>
+					<td>영국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>95,000</td>
+					<td>419,580,100</td>
+					<td>60,770</td>
+				</tr>
+			
+				<tr>
+					<td>사랑도 통역이 되나요?</td>
+					<td>Lost In Translation</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>멜로/로맨스,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>112,127</td>
+					<td>222,375,000</td>
+					<td>33,859</td>
+				</tr>
+			
+				<tr>
+					<td>아메리칸 랩소디</td>
+					<td>An American Rhapsody</td>
+					<td>2001</td>
+					<td>미국,헝가리</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>판타스틱 소녀백서</td>
+					<td>Ghost World</td>
+					<td>2000</td>
+					<td>영국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>12,331</td>
+					<td>1,171,500</td>
+					<td>182</td>
+				</tr>
+			
+				<tr>
+					<td>베이브는 외출 중</td>
+					<td>My Brother The Pig</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>코미디,가족</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

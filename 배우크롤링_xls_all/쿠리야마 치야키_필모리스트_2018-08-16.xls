@@ -1,0 +1,138 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '쿠리야마 치야키'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>도서관 전쟁</td>
+					<td>Library Wars</td>
+					<td>2013</td>
+					<td>일본</td>
+					<td>멜로/로맨스,판타지,액션</td>
+					<td>주연</td>
+					<td>2,088,000</td>
+					<td>314</td>
+					<td>2,088,000</td>
+					<td>314</td>
+				</tr>
+			
+				<tr>
+					<td>스카이 크롤러</td>
+					<td>The Sky Crawlers</td>
+					<td>2008</td>
+					<td>일본</td>
+					<td>애니메이션,드라마,액션,어드벤처</td>
+					<td>주연(목소리)</td>
+					<td>13,792,041</td>
+					<td>1,833</td>
+					<td>15,277,500</td>
+					<td>1,991</td>
+				</tr>
+			
+				<tr>
+					<td>키즈</td>
+					<td>Kids</td>
+					<td>2008</td>
+					<td>일본</td>
+					<td>드라마,판타지</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스크랩 헤븐</td>
+					<td>Scrap Heaven</td>
+					<td>2005</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,132,000</td>
+					<td>188</td>
+				</tr>
+			
+				<tr>
+					<td>메일</td>
+					<td>Mail</td>
+					<td>2004</td>
+					<td>일본</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>하현의 달 라스트 쿼터</td>
+					<td></td>
+					<td>2004</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>주온 - 비디오판</td>
+					<td>JUON (ORIGINAL VIDEO))</td>
+					<td>1999</td>
+					<td>일본</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연-타무라 미즈호 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

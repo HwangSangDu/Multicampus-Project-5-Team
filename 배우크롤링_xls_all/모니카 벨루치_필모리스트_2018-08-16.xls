@@ -1,0 +1,398 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '모니카 벨루치'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>빌 마리</td>
+					<td>Ville-Marie</td>
+					<td>2017</td>
+					<td>캐나다</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>007 스펙터</td>
+					<td>Spectre</td>
+					<td>2015</td>
+					<td>영국,미국</td>
+					<td>액션,어드벤처,범죄,스릴러</td>
+					<td>주연</td>
+					<td>14,302,132,030</td>
+					<td>1,820,842</td>
+					<td>14,302,132,030</td>
+					<td>1,820,842</td>
+				</tr>
+			
+				<tr>
+					<td>코뿔소의 계절</td>
+					<td>Rhino Season</td>
+					<td>2012</td>
+					<td>이란,터키</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>845,000</td>
+					<td>133</td>
+					<td>845,000</td>
+					<td>133</td>
+				</tr>
+			
+				<tr>
+					<td>뜨거운 여름</td>
+					<td>THAT SUMMER </td>
+					<td>2011</td>
+					<td>프랑스</td>
+					<td>기타</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>내부고발자</td>
+					<td>The Whistleblower</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>범죄,스릴러</td>
+					<td>주연-로라 레비아니역</td>
+					<td>11,065,000</td>
+					<td>5,108</td>
+					<td>11,065,000</td>
+					<td>5,108</td>
+				</tr>
+			
+				<tr>
+					<td>마법사의 제자</td>
+					<td>The Sorcerer&#039;S Apprentice</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>드라마,액션,판타지,어드벤처</td>
+					<td>조연</td>
+					<td>4,132,049,517</td>
+					<td>582,698</td>
+					<td>4,057,522,000</td>
+					<td>570,775</td>
+				</tr>
+			
+				<tr>
+					<td>돈 룩 백</td>
+					<td>NE TE RETOURNE PAS</td>
+					<td>2009</td>
+					<td>프랑스</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>300,000</td>
+					<td>38</td>
+				</tr>
+			
+				<tr>
+					<td>매뉴얼 오브 러브</td>
+					<td>Manuale D&#039;Amore 2</td>
+					<td>2007</td>
+					<td>이탈리아</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연-루시아 역</td>
+					<td>34,462,500</td>
+					<td>5,036</td>
+					<td>34,462,500</td>
+					<td>5,036</td>
+				</tr>
+			
+				<tr>
+					<td>거침없이 쏴라! 슛뎀업 </td>
+					<td>Shoot `Em Up</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>102,152</td>
+					<td>662,430,500</td>
+					<td>99,477</td>
+				</tr>
+			
+				<tr>
+					<td>두번째 숨결</td>
+					<td>The Second Wind</td>
+					<td>2007</td>
+					<td>프랑스</td>
+					<td>범죄,미스터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>나폴레옹의 연인</td>
+					<td>N: Napoleon &amp; Me,</td>
+					<td>2006</td>
+					<td>프랑스</td>
+					<td>전쟁,코미디</td>
+					<td>주연-마티노역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스톤 카운실</td>
+					<td>The Stone Council</td>
+					<td>2006</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사랑도 흥정이 되나요?</td>
+					<td>How Much Do You Love Me</td>
+					<td>2005</td>
+					<td>프랑스,이탈리아</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연-다니엘라역</td>
+					<td>0</td>
+					<td>19,434</td>
+					<td>66,053,500</td>
+					<td>10,070</td>
+				</tr>
+			
+				<tr>
+					<td>패션 오브 크라이스트</td>
+					<td>The Passion Of Christ</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>조연</td>
+					<td>0</td>
+					<td>2,523,700</td>
+					<td>5,518,901,500</td>
+					<td>865,018</td>
+				</tr>
+			
+				<tr>
+					<td>위대한 질문</td>
+					<td>The Big Question</td>
+					<td>2004</td>
+					<td>이탈리아</td>
+					<td>다큐멘터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>태양의 눈물</td>
+					<td>Tears Of The Sun</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>액션,범죄,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>471,818</td>
+					<td>148,000</td>
+					<td>74</td>
+				</tr>
+			
+				<tr>
+					<td>돌이킬 수 없는</td>
+					<td>Irreversible</td>
+					<td>2002</td>
+					<td>프랑스</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>65,419</td>
+					<td>763,000</td>
+					<td>85</td>
+				</tr>
+			
+				<tr>
+					<td>아스테릭스 : 미션 클레오파트라</td>
+					<td>Asterix And Obelix Mission Cleopatre</td>
+					<td>2002</td>
+					<td>프랑스</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>58,611</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>늑대의 후예들</td>
+					<td>Le Pacte Des Loups</td>
+					<td>2001</td>
+					<td>프랑스</td>
+					<td>공포(호러),미스터리,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>287,948</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>언더 서스피션</td>
+					<td>Under Suspicion</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>20</td>
+					<td>120,000</td>
+					<td>20</td>
+				</tr>
+			
+				<tr>
+					<td>말레나</td>
+					<td>Malena</td>
+					<td>2000</td>
+					<td>이탈리아,미국</td>
+					<td>코미디,드라마,멜로/로맨스,전쟁</td>
+					<td>주연-말레나역</td>
+					<td>0</td>
+					<td>25,729</td>
+					<td>213,000</td>
+					<td>74</td>
+				</tr>
+			
+				<tr>
+					<td>모니카 벨루치의 스트리퍼</td>
+					<td>Franck Spadone</td>
+					<td>2000</td>
+					<td>프랑스</td>
+					<td>스릴러</td>
+					<td>주연-로라역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>백만장자 열대어</td>
+					<td>Like A Fish Out Of Water</td>
+					<td>1999</td>
+					<td>프랑스</td>
+					<td>코미디,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>모니카 벨루치의 줄리아</td>
+					<td>L&#039;ultimo capodanno</td>
+					<td>1998</td>
+					<td>이탈리아</td>
+					<td>드라마,성인물(에로)</td>
+					<td>주연-줄리아역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>도베르만 </td>
+					<td>Dobermann</td>
+					<td>1997</td>
+					<td>프랑스</td>
+					<td>범죄,액션</td>
+					<td>주연-나트역</td>
+					<td>0</td>
+					<td>8,102</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>라빠르망</td>
+					<td>The Apartment</td>
+					<td>1997</td>
+					<td>프랑스</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연-리자역</td>
+					<td>0</td>
+					<td>40,555</td>
+					<td>65,339,500</td>
+					<td>10,921</td>
+				</tr>
+			
+				<tr>
+					<td>라리파</td>
+					<td>La Riffa</td>
+					<td>1991</td>
+					<td>이탈리아</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,940</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

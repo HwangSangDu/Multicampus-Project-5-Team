@@ -1,0 +1,242 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '매즈 미켈슨'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>로그 원: 스타워즈 스토리</td>
+					<td>ROGUE ONE: A STAR WARS STORY</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지,SF</td>
+					<td>주연</td>
+					<td>9,047,995,594</td>
+					<td>1,019,309</td>
+					<td>9,047,995,594</td>
+					<td>1,019,309</td>
+				</tr>
+			
+				<tr>
+					<td>닥터 스트레인지</td>
+					<td>Doctor Strange</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지</td>
+					<td>주연</td>
+					<td>47,482,530,396</td>
+					<td>5,446,379</td>
+					<td>47,485,590,396</td>
+					<td>5,446,685</td>
+				</tr>
+			
+				<tr>
+					<td>맨 앤 치킨</td>
+					<td>Men and chicken</td>
+					<td>2015</td>
+					<td>덴마크,독일</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>11,571,000</td>
+					<td>2,316</td>
+					<td>11,571,000</td>
+					<td>2,316</td>
+				</tr>
+			
+				<tr>
+					<td>웨스턴 리벤지</td>
+					<td>The Salvation</td>
+					<td>2014</td>
+					<td>덴마크,영국,남아프리카공화국</td>
+					<td>액션,서부극(웨스턴)</td>
+					<td>주연</td>
+					<td>119,414,000</td>
+					<td>15,671</td>
+					<td>119,414,000</td>
+					<td>15,671</td>
+				</tr>
+			
+				<tr>
+					<td>찰리 컨트리맨</td>
+					<td>The Necessary Death of Charlie Countryman</td>
+					<td>2013</td>
+					<td>미국,루마니아</td>
+					<td>코미디,멜로/로맨스,액션</td>
+					<td>주연</td>
+					<td>34,601,538</td>
+					<td>4,692</td>
+					<td>34,601,538</td>
+					<td>4,692</td>
+				</tr>
+			
+				<tr>
+					<td>미하엘 콜하스의 선택</td>
+					<td>Michael Kohlhaas</td>
+					<td>2013</td>
+					<td>프랑스,독일</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>51,852,200</td>
+					<td>6,822</td>
+					<td>51,952,200</td>
+					<td>6,842</td>
+				</tr>
+			
+				<tr>
+					<td>더 헌트</td>
+					<td>The Hunt</td>
+					<td>2012</td>
+					<td>덴마크</td>
+					<td>드라마</td>
+					<td>주연-루카스역</td>
+					<td>266,626,000</td>
+					<td>35,124</td>
+					<td>274,871,500</td>
+					<td>36,503</td>
+				</tr>
+			
+				<tr>
+					<td>로얄 어페어</td>
+					<td>A Royal Affair</td>
+					<td>2012</td>
+					<td>덴마크,스웨덴,독일,체코</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>157,728,100</td>
+					<td>20,371</td>
+					<td>159,137,600</td>
+					<td>20,545</td>
+				</tr>
+			
+				<tr>
+					<td>샤넬과 스트라빈스키</td>
+					<td>Coco Chanel &amp; Igor Stravinsky</td>
+					<td>2009</td>
+					<td>프랑스,일본,스위스</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>96,159,500</td>
+					<td>12,439</td>
+					<td>97,954,500</td>
+					<td>12,762</td>
+				</tr>
+			
+				<tr>
+					<td>더 도어</td>
+					<td>The Door</td>
+					<td>2009</td>
+					<td>독일</td>
+					<td>드라마,미스터리,SF,스릴러</td>
+					<td>주연-다비드 역</td>
+					<td>103,443,099</td>
+					<td>13,283</td>
+					<td>103,019,000</td>
+					<td>13,241</td>
+				</tr>
+			
+				<tr>
+					<td>발할라 라이징</td>
+					<td>VALHALLA RISING</td>
+					<td>2009</td>
+					<td>덴마크</td>
+					<td>액션,어드벤처</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>애프터 웨딩</td>
+					<td>After The Wedding</td>
+					<td>2006</td>
+					<td>덴마크,스웨덴</td>
+					<td>드라마</td>
+					<td>주연-제이콥 역</td>
+					<td>600,500</td>
+					<td>86</td>
+					<td>620,500</td>
+					<td>90</td>
+				</tr>
+			
+				<tr>
+					<td>아담스 애플</td>
+					<td>Adam&#039;s Apples</td>
+					<td>2005</td>
+					<td>덴마크,독일</td>
+					<td>코미디,범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>정육점의 비밀</td>
+					<td>The Green Butchers</td>
+					<td>2003</td>
+					<td>덴마크</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>엔젤 오브 나이트</td>
+					<td>Angel Of Night</td>
+					<td>1998</td>
+					<td>덴마크</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

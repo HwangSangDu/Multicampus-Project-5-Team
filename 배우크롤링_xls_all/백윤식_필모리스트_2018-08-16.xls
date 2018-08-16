@@ -1,0 +1,346 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '백윤식'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>명당</td>
+					<td></td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>사극</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>반드시 잡는다</td>
+					<td>The Chase</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>주연-심덕수역</td>
+					<td>3,326,439,772</td>
+					<td>446,780</td>
+					<td>3,326,439,772</td>
+					<td>446,780</td>
+				</tr>
+			
+				<tr>
+					<td>덕혜옹주</td>
+					<td>The Last Princess</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>사극,드라마</td>
+					<td>단역-고종역</td>
+					<td>44,393,828,109</td>
+					<td>5,599,229</td>
+					<td>44,395,967,609</td>
+					<td>5,599,665</td>
+				</tr>
+			
+				<tr>
+					<td>내부자들: 디 오리지널</td>
+					<td>Inside Men: The Original</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td>16,973,885,275</td>
+					<td>2,083,999</td>
+					<td>16,979,714,975</td>
+					<td>2,084,868</td>
+				</tr>
+			
+				<tr>
+					<td>내부자들</td>
+					<td>Inside Men</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>범죄,드라마</td>
+					<td>주연-이강희역</td>
+					<td>56,598,130,057</td>
+					<td>7,072,021</td>
+					<td>56,599,221,057</td>
+					<td>7,072,507</td>
+				</tr>
+			
+				<tr>
+					<td>관상</td>
+					<td>The Face Reader</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>사극,드라마</td>
+					<td>주연-김종서역</td>
+					<td>66,005,451,500</td>
+					<td>9,134,586</td>
+					<td>66,009,826,500</td>
+					<td>9,135,806</td>
+				</tr>
+			
+				<tr>
+					<td>나는 왕이로소이다</td>
+					<td>I am the King</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>사극,코미디</td>
+					<td>주연-황희역</td>
+					<td>5,455,343,404</td>
+					<td>790,181</td>
+					<td>5,455,343,404</td>
+					<td>790,181</td>
+				</tr>
+			
+				<tr>
+					<td>돈의 맛</td>
+					<td>The Taste of Money</td>
+					<td>2012</td>
+					<td>한국,필리핀</td>
+					<td>드라마</td>
+					<td>주연-윤회장역</td>
+					<td>8,780,178,611</td>
+					<td>1,166,018</td>
+					<td>8,780,225,611</td>
+					<td>1,166,025</td>
+				</tr>
+			
+				<tr>
+					<td>헤드</td>
+					<td>Head</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>462,025,000</td>
+					<td>61,414</td>
+					<td>462,025,000</td>
+					<td>61,414</td>
+				</tr>
+			
+				<tr>
+					<td>위험한 상견례</td>
+					<td>Meet the In-Laws</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td>19,174,920,500</td>
+					<td>2,595,625</td>
+					<td>19,174,920,500</td>
+					<td>2,595,625</td>
+				</tr>
+			
+				<tr>
+					<td>연인</td>
+					<td>Lovers</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>마을금고 연쇄습격사건</td>
+					<td>Bank Attack</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연-형사 구 반장역</td>
+					<td>0</td>
+					<td>123,770</td>
+					<td>728,085,000</td>
+					<td>115,637</td>
+				</tr>
+			
+				<tr>
+					<td>브라보 마이 라이프</td>
+					<td>Bravo My Life</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>73,034</td>
+					<td>460,596,500</td>
+					<td>71,409</td>
+				</tr>
+			
+				<tr>
+					<td>서핑 업</td>
+					<td>Surf`s Up</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>애니메이션,드라마,액션,가족</td>
+					<td>주연-아찌 (한국어 목소리)역(목소리)</td>
+					<td>0</td>
+					<td>294,702</td>
+					<td>1,672,015,500</td>
+					<td>282,862</td>
+				</tr>
+			
+				<tr>
+					<td>애정결핍이 두 남자에게 미치는 영향</td>
+					<td>How The Lack Of Love Affects Two Men</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>593,277</td>
+					<td>2,928,135,400</td>
+					<td>499,612</td>
+				</tr>
+			
+				<tr>
+					<td>타짜</td>
+					<td>Tazza: The High Rollers</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-평경장역</td>
+					<td>0</td>
+					<td>6,847,777</td>
+					<td>36,182,617,500</td>
+					<td>5,685,715</td>
+				</tr>
+			
+				<tr>
+					<td>천하장사 마돈나</td>
+					<td>Like A Virgin</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>678,930</td>
+					<td>3,552,450,700</td>
+					<td>575,373</td>
+				</tr>
+			
+				<tr>
+					<td>싸움의 기술</td>
+					<td>The Art Of Fighting</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,313,727</td>
+					<td>7,331,140,000</td>
+					<td>1,146,463</td>
+				</tr>
+			
+				<tr>
+					<td>그때 그 사람들</td>
+					<td>The President&#039;s Last Bang</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>미스터리,코미디</td>
+					<td>주연-김 부장역</td>
+					<td>0</td>
+					<td>1,083,962</td>
+					<td>5,777,895,500</td>
+					<td>890,601</td>
+				</tr>
+			
+				<tr>
+					<td>범죄의 재구성</td>
+					<td>The Big Swindle</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,129,358</td>
+					<td>6,133,498,700</td>
+					<td>942,303</td>
+				</tr>
+			
+				<tr>
+					<td>지구를 지켜라</td>
+					<td>Save the Green Planet</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연-강사장역</td>
+					<td></td>
+					<td>73,132</td>
+					<td>859,500</td>
+					<td>145</td>
+				</tr>
+			
+				<tr>
+					<td>불후의 명작</td>
+					<td>A Masterpiece in My Life</td>
+					<td>2000</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>조연-양사장역</td>
+					<td>0</td>
+					<td>133,531</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>단둘이서</td>
+					<td>Only With You</td>
+					<td>1976</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

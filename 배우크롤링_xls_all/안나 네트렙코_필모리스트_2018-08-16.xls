@@ -1,0 +1,229 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '안나 네트렙코'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>아이다</td>
+					<td>Aida</td>
+					<td>2017</td>
+					<td>독일</td>
+					<td>공연,드라마,멜로/로맨스</td>
+					<td>주연-아이다역</td>
+					<td>46,091,500</td>
+					<td>2,002</td>
+					<td>46,091,500</td>
+					<td>2,002</td>
+				</tr>
+			
+				<tr>
+					<td>일 트로바토레</td>
+					<td>Trovatore</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>공연</td>
+					<td>주연</td>
+					<td>45,900,000</td>
+					<td>1,854</td>
+					<td>63,645,000</td>
+					<td>2,578</td>
+				</tr>
+			
+				<tr>
+					<td>욜란타 &amp; 푸른 수염의 성</td>
+					<td>IOLANTA &amp; BLUEBEARD&#039;S CASTLE</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>공연</td>
+					<td>주연</td>
+					<td>13,431,000</td>
+					<td>551</td>
+					<td>13,431,000</td>
+					<td>551</td>
+				</tr>
+			
+				<tr>
+					<td>일 트로바토레 잘츠부르크 페스티벌</td>
+					<td>IL TROVATORE Salzburg Festival</td>
+					<td>2014</td>
+					<td>독일</td>
+					<td>공연</td>
+					<td>주연-레오노라역</td>
+					<td>23,993,500</td>
+					<td>945</td>
+					<td>35,178,000</td>
+					<td>1,673</td>
+				</tr>
+			
+				<tr>
+					<td>일 트로바토레</td>
+					<td>Il Trovatore</td>
+					<td>2013</td>
+					<td>독일</td>
+					<td>공연</td>
+					<td>주연</td>
+					<td>16,438,000</td>
+					<td>1,022</td>
+					<td>16,593,000</td>
+					<td>1,053</td>
+				</tr>
+			
+				<tr>
+					<td>사랑의 묘약</td>
+					<td>LELISIR DAMORE</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>공연,드라마,멜로/로맨스</td>
+					<td>주연-아디나역</td>
+					<td>37,944,500</td>
+					<td>1,408</td>
+					<td>38,419,500</td>
+					<td>1,503</td>
+				</tr>
+			
+				<tr>
+					<td>마농</td>
+					<td>MANON</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>공연</td>
+					<td>주연</td>
+					<td>12,530,000</td>
+					<td>457</td>
+					<td>12,530,000</td>
+					<td>457</td>
+				</tr>
+			
+				<tr>
+					<td>안나 볼레나</td>
+					<td>Anna Bolena</td>
+					<td>2011</td>
+					<td>독일</td>
+					<td>공연</td>
+					<td>주연-안나 볼레나역</td>
+					<td>20,674,500</td>
+					<td>806</td>
+					<td>21,029,500</td>
+					<td>860</td>
+				</tr>
+			
+				<tr>
+					<td>안나볼레나</td>
+					<td>Anna Bolena</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>공연</td>
+					<td>주연</td>
+					<td>11,929,000</td>
+					<td>420</td>
+					<td>11,929,000</td>
+					<td>420</td>
+				</tr>
+			
+				<tr>
+					<td>오페라-호프만의 이야기</td>
+					<td>Opera-The Tales Of Hoffmann</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>뮤지컬</td>
+					<td>주연</td>
+					<td>24,325,927</td>
+					<td>1,229</td>
+					<td>26,335,000</td>
+					<td>1,409</td>
+				</tr>
+			
+				<tr>
+					<td>라보엠</td>
+					<td>La Boheme</td>
+					<td>2008</td>
+					<td>독일</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>28,246,000</td>
+					<td>1,835</td>
+					<td>57,319,000</td>
+					<td>3,846</td>
+				</tr>
+			
+				<tr>
+					<td>라 보엠 </td>
+					<td>La Bohème</td>
+					<td>2008</td>
+					<td>오스트리아 ,독일</td>
+					<td>뮤지컬,멜로/로맨스</td>
+					<td>주연-미미 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>베르디 - 라 트라비아타</td>
+					<td>La Traviata</td>
+					<td>2005</td>
+					<td>독일</td>
+					<td>공연</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>잔다르크</td>
+					<td>Joan of Arc</td>
+					<td></td>
+					<td>이탈리아</td>
+					<td>공연</td>
+					<td>주연-잔 다르크역</td>
+					<td></td>
+					<td></td>
+					<td>0</td>
+					<td>0</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

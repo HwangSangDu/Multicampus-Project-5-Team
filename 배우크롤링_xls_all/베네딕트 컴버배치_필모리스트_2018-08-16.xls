@@ -1,0 +1,320 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '베네딕트 컴버배치'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>어벤져스: 인피니티 워</td>
+					<td>Avengers: Infinity War</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지,SF</td>
+					<td>주연</td>
+					<td>99,825,741,869</td>
+					<td>11,202,737</td>
+					<td>99,918,419,769</td>
+					<td>11,211,798</td>
+				</tr>
+			
+				<tr>
+					<td>그린치</td>
+					<td>The Grinch</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>애니메이션,코미디</td>
+					<td>주연(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>커런트 워</td>
+					<td>The Current War</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-토머스 에디슨 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>쥬랜더 리턴즈</td>
+					<td>Zoolander 2</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>58,151,000</td>
+					<td>7,853</td>
+					<td>58,151,000</td>
+					<td>7,853</td>
+				</tr>
+			
+				<tr>
+					<td>햄릿</td>
+					<td>Hamlet</td>
+					<td>2015</td>
+					<td>영국</td>
+					<td>공연</td>
+					<td>주연</td>
+					<td>114,395,000</td>
+					<td>8,657</td>
+					<td>114,395,000</td>
+					<td>8,657</td>
+				</tr>
+			
+				<tr>
+					<td>닥터 스트레인지</td>
+					<td>Doctor Strange</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지</td>
+					<td>주연</td>
+					<td>47,482,530,396</td>
+					<td>5,446,379</td>
+					<td>47,485,590,396</td>
+					<td>5,446,685</td>
+				</tr>
+			
+				<tr>
+					<td>셜록: 유령신부</td>
+					<td>SHERLOCK</td>
+					<td>2015</td>
+					<td>영국</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td>9,992,425,049</td>
+					<td>1,278,894</td>
+					<td>9,992,425,049</td>
+					<td>1,278,894</td>
+				</tr>
+			
+				<tr>
+					<td>이미테이션 게임</td>
+					<td>The Imitation Game</td>
+					<td>2014</td>
+					<td>영국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td>13,655,718,120</td>
+					<td>1,743,936</td>
+					<td>13,657,844,120</td>
+					<td>1,744,213</td>
+				</tr>
+			
+				<tr>
+					<td>마다가스카의 펭귄</td>
+					<td>The Penguins of Madagascar</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>애니메이션,코미디,어드벤처,가족</td>
+					<td>주연(목소리)</td>
+					<td>12,498,978,959</td>
+					<td>1,661,230</td>
+					<td>12,499,765,959</td>
+					<td>1,661,388</td>
+				</tr>
+			
+				<tr>
+					<td>어거스트: 가족의 초상</td>
+					<td>August: Osage County</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>542,301,500</td>
+					<td>71,747</td>
+					<td>545,341,500</td>
+					<td>72,377</td>
+				</tr>
+			
+				<tr>
+					<td>노예 12년</td>
+					<td>12 Years a Slave</td>
+					<td>2013</td>
+					<td>미국,영국</td>
+					<td>드라마</td>
+					<td>주연-포드역</td>
+					<td>3,644,201,200</td>
+					<td>498,004</td>
+					<td>3,647,631,400</td>
+					<td>498,976</td>
+				</tr>
+			
+				<tr>
+					<td>호빗: 스마우그의 폐허</td>
+					<td>The Hobbit: The Desolation of Smaug</td>
+					<td>2013</td>
+					<td>미국,뉴질랜드</td>
+					<td>어드벤처,드라마,판타지</td>
+					<td>주연</td>
+					<td>17,850,613,316</td>
+					<td>2,282,744</td>
+					<td>17,850,613,316</td>
+					<td>2,282,744</td>
+				</tr>
+			
+				<tr>
+					<td>스타트렉 다크니스</td>
+					<td>Star Trek Into Darkness</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>액션,SF,어드벤처</td>
+					<td>주연</td>
+					<td>12,964,828,000</td>
+					<td>1,605,271</td>
+					<td>12,986,689,500</td>
+					<td>1,607,555</td>
+				</tr>
+			
+				<tr>
+					<td>제5계급</td>
+					<td>The Fifth Estate</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>호빗: 뜻밖의 여정</td>
+					<td>The Hobbit: An Unexpected Journey</td>
+					<td>2012</td>
+					<td>미국,뉴질랜드</td>
+					<td>어드벤처,판타지</td>
+					<td>주연</td>
+					<td>23,436,820,716</td>
+					<td>2,818,993</td>
+					<td>23,436,820,716</td>
+					<td>2,818,993</td>
+				</tr>
+			
+				<tr>
+					<td>레커스</td>
+					<td>Wreckers</td>
+					<td>2011</td>
+					<td>영국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>16,066,000</td>
+					<td>2,263</td>
+					<td>16,066,000</td>
+					<td>2,263</td>
+				</tr>
+			
+				<tr>
+					<td>워 호스</td>
+					<td>War Horse</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>전쟁,드라마</td>
+					<td>주연</td>
+					<td>734,302,500</td>
+					<td>102,195</td>
+					<td>734,302,500</td>
+					<td>102,195</td>
+				</tr>
+			
+				<tr>
+					<td>팅커 테일러 솔저 스파이</td>
+					<td>Tinker, Tailor, Soldier, Spy</td>
+					<td>2011</td>
+					<td>영국,프랑스,독일</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>648,304,500</td>
+					<td>87,155</td>
+					<td>663,163,200</td>
+					<td>88,986</td>
+				</tr>
+			
+				<tr>
+					<td>써드 스타</td>
+					<td>Third Star</td>
+					<td>2010</td>
+					<td>영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>4,050,000</td>
+					<td>810</td>
+					<td>4,050,000</td>
+					<td>810</td>
+				</tr>
+			
+				<tr>
+					<td>네 얼간이</td>
+					<td>Four Lions</td>
+					<td>2010</td>
+					<td>영국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>어메이징 그레이스</td>
+					<td>Amazing Grace</td>
+					<td>2006</td>
+					<td>미국,영국</td>
+					<td>사극,드라마</td>
+					<td>주연</td>
+					<td>321,802,167</td>
+					<td>52,544</td>
+					<td>319,696,000</td>
+					<td>50,745</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

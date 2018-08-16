@@ -1,0 +1,372 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '팀 로빈스'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>당신과 함께한 순간들</td>
+					<td>Marjorie Prime</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>41,057,300</td>
+					<td>5,453</td>
+					<td>41,288,300</td>
+					<td>5,486</td>
+				</tr>
+			
+				<tr>
+					<td>어 퍼펙트 데이</td>
+					<td>A Perfect Day</td>
+					<td>2016</td>
+					<td>스페인</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>73,150,400</td>
+					<td>10,488</td>
+					<td>73,150,400</td>
+					<td>10,488</td>
+				</tr>
+			
+				<tr>
+					<td>땡스 포 쉐어링</td>
+					<td>Thanks for Sharing</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td>44,022,000</td>
+					<td>7,132</td>
+					<td>44,022,000</td>
+					<td>7,132</td>
+				</tr>
+			
+				<tr>
+					<td>1942</td>
+					<td>Back to 1942</td>
+					<td>2012</td>
+					<td>중국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,534,000</td>
+					<td>175</td>
+				</tr>
+			
+				<tr>
+					<td>럭키 원스</td>
+					<td>The Lucky Ones</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>노이즈</td>
+					<td>Noise</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연-데이빗 오웬 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>캐치 어 파이어</td>
+					<td>Catch A Fire</td>
+					<td>2006</td>
+					<td>프랑스,영국,남아프리카공화국,미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>자투라:스페이스 어드벤쳐</td>
+					<td>Zathura : A Space Adventure</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>SF,어드벤처,판타지</td>
+					<td>주연-아빠역</td>
+					<td>0</td>
+					<td>55,257</td>
+					<td>277,369,000</td>
+					<td>50,217</td>
+				</tr>
+			
+				<tr>
+					<td>코드 46</td>
+					<td>Code 46</td>
+					<td>2003</td>
+					<td>영국</td>
+					<td>SF,드라마,멜로/로맨스</td>
+					<td>주연-윌리엄 겔드역</td>
+					<td>0</td>
+					<td>590</td>
+					<td>3,764,000</td>
+					<td>542</td>
+				</tr>
+			
+				<tr>
+					<td>미스틱 리버</td>
+					<td>Mystic River</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>미스터리,드라마,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>29,400</td>
+					<td>14,897,000</td>
+					<td>2,379</td>
+				</tr>
+			
+				<tr>
+					<td>찰리의 진실</td>
+					<td>The Truth About Charlie</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>미스터리,범죄,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>26,361</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>휴먼 네이쳐</td>
+					<td>Human Nature</td>
+					<td>2001</td>
+					<td>미국,프랑스</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>7,058</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>미션 투 마스</td>
+					<td>Mission To Mars</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>SF,액션,어드벤처</td>
+					<td>조연-우드로 우디 블레이크역</td>
+					<td>0</td>
+					<td>126,633</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>크레이들 윌 락</td>
+					<td>Cradle Will Rock</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>감독</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>함정</td>
+					<td>Arlington Road</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>스릴러,미스터리</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>54,577</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>낫씽 투 루즈</td>
+					<td>Nothing to Lose</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>범죄,액션,어드벤처,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>31,544</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>데드맨 워킹 </td>
+					<td>Deadman Walking</td>
+					<td>1995</td>
+					<td>영국,미국</td>
+					<td>드라마,범죄</td>
+					<td>감독,시나리오(각본)</td>
+					<td>0</td>
+					<td>138,080</td>
+					<td>0</td>
+					<td>0</td>
+				</tr>
+			
+				<tr>
+					<td>아이큐 </td>
+					<td>I.Q</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>96,164</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>허드서커 대리인 </td>
+					<td>Hudsucker Proxy</td>
+					<td>1994</td>
+					<td>영국,독일,미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>49,621</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>쇼생크 탈출</td>
+					<td>The Showshank Redemption</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>132,711</td>
+					<td>73,409,800</td>
+					<td>11,386</td>
+				</tr>
+			
+				<tr>
+					<td>플레이어</td>
+					<td>The Player</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>60,713</td>
+					<td>934,000</td>
+					<td>168</td>
+				</tr>
+			
+				<tr>
+					<td>밥 로버츠</td>
+					<td>Bob Roberts</td>
+					<td>1992</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>감독,주연,시나리오(각본)</td>
+					<td>0</td>
+					<td>7,960</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>야곱의 사다리</td>
+					<td>Jacob&#039;S Ladder</td>
+					<td>1990</td>
+					<td>미국</td>
+					<td>미스터리,공포(호러),스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>39,527</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>바이킹</td>
+					<td>Erik The Viking</td>
+					<td>1989</td>
+					<td>영국,스웨덴</td>
+					<td>코미디,어드벤처,판타지</td>
+					<td>주연-에릭역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>비디오테이프 대소동</td>
+					<td>Tapeheads</td>
+					<td>1988</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연-조쉬 테이거역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

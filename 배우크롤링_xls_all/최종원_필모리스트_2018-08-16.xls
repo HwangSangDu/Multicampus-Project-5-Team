@@ -1,0 +1,866 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '최종원'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>광화문 만세전</td>
+					<td></td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>여자전쟁: 봉천동 혈투</td>
+					<td></td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>1,534,000</td>
+					<td>291</td>
+					<td>1,534,000</td>
+					<td>291</td>
+				</tr>
+			
+				<tr>
+					<td>늙은 자전거</td>
+					<td>Old Bicycle</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마,가족</td>
+					<td>주연</td>
+					<td>23,988,800</td>
+					<td>4,687</td>
+					<td>25,655,800</td>
+					<td>4,963</td>
+				</tr>
+			
+				<tr>
+					<td>의뢰인</td>
+					<td>The Client</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>조연-안교수역(목소리)</td>
+					<td>17,797,042,500</td>
+					<td>2,393,086</td>
+					<td>17,797,131,500</td>
+					<td>2,393,103</td>
+				</tr>
+			
+				<tr>
+					<td>식객2 : 김치전쟁</td>
+					<td>Le Grand Chef 2: Kimchi Battle</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-자운역</td>
+					<td>3,298,814,209</td>
+					<td>471,103</td>
+					<td>3,243,969,500</td>
+					<td>462,714</td>
+				</tr>
+			
+				<tr>
+					<td>여름, 속삭임</td>
+					<td>Summer Whispers</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>조연-교수역</td>
+					<td>9,054,500</td>
+					<td>1,351</td>
+					<td>14,241,500</td>
+					<td>2,092</td>
+				</tr>
+			
+				<tr>
+					<td>잘못된 만남</td>
+					<td>Santamaria</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>주연-신영감(호철 부친)역</td>
+					<td>308,898,000</td>
+					<td>47,557</td>
+					<td>308,882,000</td>
+					<td>47,555</td>
+				</tr>
+			
+				<tr>
+					<td>가을로</td>
+					<td>Traces of Love</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>조연-민주 부친역</td>
+					<td>0</td>
+					<td>707,820</td>
+					<td>3,653,445,400</td>
+					<td>601,733</td>
+				</tr>
+			
+				<tr>
+					<td>한반도</td>
+					<td>Hanbando</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>드라마,액션</td>
+					<td>조연-고종 제1내관역</td>
+					<td>0</td>
+					<td>3,880,308</td>
+					<td>20,597,497,600</td>
+					<td>3,331,593</td>
+				</tr>
+			
+				<tr>
+					<td>가족 연애사</td>
+					<td>Family Love</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>오로라 공주</td>
+					<td>Princess Aurora</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>범죄,스릴러</td>
+					<td>조연-형사반장역</td>
+					<td>0</td>
+					<td>946,372</td>
+					<td>5,365,343,000</td>
+					<td>830,538</td>
+				</tr>
+			
+				<tr>
+					<td>혈의 누</td>
+					<td>Blood Rain</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>조연-최 차사역</td>
+					<td>0</td>
+					<td>2,274,995</td>
+					<td>12,367,924,506</td>
+					<td>1,926,681</td>
+				</tr>
+			
+				<tr>
+					<td>그녀에게 잠들다</td>
+					<td>Love Her</td>
+					<td>2001</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연-선주역</td>
+					<td>0</td>
+					<td>8,205</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>파라다이스빌라</td>
+					<td>Paradise Villa</td>
+					<td>2000</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>주연-택시기사역</td>
+					<td>0</td>
+					<td>3,333</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>물고기자리</td>
+					<td>Pisces</td>
+					<td>2000</td>
+					<td>한국</td>
+					<td>드라마,미스터리</td>
+					<td>조연-최실장역</td>
+					<td>0</td>
+					<td>15,674</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>기막힌 사내들</td>
+					<td>The Happenings</td>
+					<td>1998</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>주연-장덕배역</td>
+					<td>0</td>
+					<td>14,389</td>
+					<td>0</td>
+					<td>0</td>
+				</tr>
+			
+				<tr>
+					<td>인연</td>
+					<td>Destiny</td>
+					<td>1997</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연-최부장역</td>
+					<td>0</td>
+					<td>74,875</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>할렐루야</td>
+					<td>Hallelujah</td>
+					<td>1997</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>310,920</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아버지</td>
+					<td>Father</td>
+					<td>1997</td>
+					<td>한국</td>
+					<td>가족,드라마</td>
+					<td>주연-박씨역</td>
+					<td>0</td>
+					<td>33,860</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>로케트는 발사됐다</td>
+					<td>The Rocket Was Launched</td>
+					<td>1997</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>693</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>오디션</td>
+					<td>Audition</td>
+					<td>1996</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>주연-진감독역</td>
+					<td>0</td>
+					<td>937</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>박봉곤 가출사건</td>
+					<td>The Adventure of Mrs. Park</td>
+					<td>1996</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연-특별출연역</td>
+					<td>0</td>
+					<td>170,328</td>
+					<td>0</td>
+					<td>0</td>
+				</tr>
+			
+				<tr>
+					<td>정글스토리</td>
+					<td>Jungle Story</td>
+					<td>1996</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-선배역</td>
+					<td>0</td>
+					<td>6,621</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>러브 스토리</td>
+					<td>Love Story</td>
+					<td>1996</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연-성우 이야기 속 사매역</td>
+					<td>0</td>
+					<td>5,769</td>
+					<td>870,000</td>
+					<td>161</td>
+				</tr>
+			
+				<tr>
+					<td>1996 뽕</td>
+					<td>1996 Mulberry</td>
+					<td>1996</td>
+					<td>한국</td>
+					<td>성인물(에로)</td>
+					<td>주연-삼보역</td>
+					<td>0</td>
+					<td>14,971</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>카루나</td>
+					<td>Karuna</td>
+					<td>1996</td>
+					<td>한국</td>
+					<td>드라마,전쟁</td>
+					<td>주연-양천수역</td>
+					<td>0</td>
+					<td>20,583</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>맥주가 애인보다 좋은 7가지 이유</td>
+					<td>Seven Reasons Beer Is Better Than Love</td>
+					<td>1996</td>
+					<td>한국</td>
+					<td>멜로/로맨스,성인물(에로)</td>
+					<td>주연-비디오 샵 주인역</td>
+					<td>0</td>
+					<td>86,597</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>돈을 갖고 튀어라</td>
+					<td>Millions In My Account</td>
+					<td>1995</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연-서실장역</td>
+					<td>0</td>
+					<td>167,108</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>누가 나를 미치게 하는가</td>
+					<td>Who Makes Me Crazy</td>
+					<td>1995</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>103,768</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>헤어드레서</td>
+					<td>The Hair Dresser</td>
+					<td>1995</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연-로젠리역</td>
+					<td>0</td>
+					<td>105,863</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>총잡이</td>
+					<td>Gun And Gun</td>
+					<td>1995</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연-김눈석역</td>
+					<td>0</td>
+					<td>110,743</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>남자는 괴로워</td>
+					<td>Affliction Of Man</td>
+					<td>1995</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연-대리 최종원역</td>
+					<td>0</td>
+					<td>53,618</td>
+					<td>403,000</td>
+					<td>58</td>
+				</tr>
+			
+				<tr>
+					<td>영원한 제국</td>
+					<td>Eternal Empire</td>
+					<td>1995</td>
+					<td>한국</td>
+					<td>미스터리,사극</td>
+					<td>주연-심환지역</td>
+					<td>0</td>
+					<td>46,767</td>
+					<td>1,768,000</td>
+					<td>884</td>
+				</tr>
+			
+				<tr>
+					<td>마누라 죽이기</td>
+					<td>How To Top My Wife</td>
+					<td>1994</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>주연-킬러역</td>
+					<td>0</td>
+					<td>344,900</td>
+					<td>5,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>태백산맥</td>
+					<td>The Tae Baek Mountains</td>
+					<td>1994</td>
+					<td>한국</td>
+					<td>드라마,전쟁</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>227,813</td>
+					<td>499,000</td>
+					<td>250</td>
+				</tr>
+			
+				<tr>
+					<td>장미빛 인생</td>
+					<td>Rosy Life</td>
+					<td>1994</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-한사장역</td>
+					<td>0</td>
+					<td>37,979</td>
+					<td>4,219,000</td>
+					<td>2,108</td>
+				</tr>
+			
+				<tr>
+					<td>49일의 남자</td>
+					<td>The Man Of 49 Days</td>
+					<td>1994</td>
+					<td>한국</td>
+					<td>드라마,미스터리</td>
+					<td>주연-형사1역</td>
+					<td>0</td>
+					<td>3,619</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>투캅스</td>
+					<td>Two Cops</td>
+					<td>1993</td>
+					<td>한국</td>
+					<td>코미디,액션,드라마</td>
+					<td>조연-태성역</td>
+					<td>0</td>
+					<td>860,433</td>
+					<td>220,000</td>
+					<td>41</td>
+				</tr>
+			
+				<tr>
+					<td>서편제</td>
+					<td>Seopyeonje</td>
+					<td>1993</td>
+					<td>한국</td>
+					<td>드라마,사극</td>
+					<td>주연-천가역</td>
+					<td>0</td>
+					<td>1,035,741</td>
+					<td>4,052,000</td>
+					<td>1,603</td>
+				</tr>
+			
+				<tr>
+					<td>첫사랑</td>
+					<td>First Lover</td>
+					<td>1993</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-영신 부역</td>
+					<td>0</td>
+					<td>5,856</td>
+					<td>920,000</td>
+					<td>148</td>
+				</tr>
+			
+				<tr>
+					<td>마음의 파수꾼</td>
+					<td>A Keeper Of The Heart</td>
+					<td>1992</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,831</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>김의 전쟁</td>
+					<td>Kim&#039;s War</td>
+					<td>1992</td>
+					<td>한국</td>
+					<td>드라마,액션</td>
+					<td>주연-담임선생역</td>
+					<td>0</td>
+					<td>16,979</td>
+					<td>702,000</td>
+					<td>351</td>
+				</tr>
+			
+				<tr>
+					<td>나의 아내를 슬프게 하는 것들</td>
+					<td>Things That Sadden My Wife</td>
+					<td>1991</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-검사역</td>
+					<td>0</td>
+					<td>7,882</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>세상은 살만큼 아름답다</td>
+					<td>The World Is Beautiful Enough To Live In</td>
+					<td>1991</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-춘식역</td>
+					<td>0</td>
+					<td>392</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>천국의 계단</td>
+					<td>Stairways Of Heaven</td>
+					<td>1991</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-흥신소직원역</td>
+					<td></td>
+					<td></td>
+					<td>704,000</td>
+					<td>297</td>
+				</tr>
+			
+				<tr>
+					<td>뽕밭나그네</td>
+					<td>The Mulberry Field Traveler</td>
+					<td>1991</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스,성인물(에로)</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,622</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>나의 사랑, 나의 신부</td>
+					<td>My Love, My Bride</td>
+					<td>1990</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>주연-의사역</td>
+					<td>0</td>
+					<td>187,116</td>
+					<td>2,940,500</td>
+					<td>384</td>
+				</tr>
+			
+				<tr>
+					<td>꿈</td>
+					<td>The Dream</td>
+					<td>1990</td>
+					<td>한국</td>
+					<td>멜로/로맨스,사극</td>
+					<td>주연-평목역</td>
+					<td>0</td>
+					<td>28,498</td>
+					<td>1,693,000</td>
+					<td>685</td>
+				</tr>
+			
+				<tr>
+					<td>꼭지딴</td>
+					<td>Kokchittan</td>
+					<td>1990</td>
+					<td>한국</td>
+					<td>드라마,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>4,106</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>마유미</td>
+					<td>Ma Yumi</td>
+					<td>1990</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-최강일역</td>
+					<td>0</td>
+					<td>50,919</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>오세암(극영화)</td>
+					<td>Ose-Am Temple</td>
+					<td>1990</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-행운스님역</td>
+					<td>0</td>
+					<td>12,433</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>그후로도 오랫동안</td>
+					<td>Shock Continues Long</td>
+					<td>1989</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>192,061</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아제아제 바라아제</td>
+					<td>Come, Come, Come Upward</td>
+					<td>1989</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-비구역</td>
+					<td>0</td>
+					<td>145,241</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>개그맨</td>
+					<td>Gagman</td>
+					<td>1988</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>주연-택시기사역</td>
+					<td>0</td>
+					<td>33,944</td>
+					<td>858,000</td>
+					<td>152</td>
+				</tr>
+			
+				<tr>
+					<td>애마부인 3</td>
+					<td>Ae-Ma Woman 3</td>
+					<td>1985</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스,성인물(에로)</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>85,965</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>부나비는 황혼이 슬프다</td>
+					<td>The Tiger Butterfly Is Lonely At Dusk</td>
+					<td>1985</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>15,022</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>저하늘에도 슬픔이</td>
+					<td>Sadness Even In The Sky</td>
+					<td>1984</td>
+					<td>한국</td>
+					<td>가족,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>15,842</td>
+					<td>0</td>
+					<td>0</td>
+				</tr>
+			
+				<tr>
+					<td>제4의 공포</td>
+					<td>The Fear Of Ancestral Rites</td>
+					<td>1984</td>
+					<td>한국</td>
+					<td>공포(호러),미스터리,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>34,105</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>여자는 남자를 쏘았다</td>
+					<td>The Woman Shot The Man</td>
+					<td>1984</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>19,176</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>삐에로와 국화</td>
+					<td>The Chrysanthemum and The Clown</td>
+					<td>1982</td>
+					<td>한국</td>
+					<td>가족,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>7,575</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>하얀 미소</td>
+					<td>White Smile</td>
+					<td>1980</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,382</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>제3한강교</td>
+					<td>The Third Han-Gang Bridge</td>
+					<td>1979</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td>47,364</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>비목(碑木)</td>
+					<td>Grave Wood</td>
+					<td>1978</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td>282</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

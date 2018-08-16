@@ -1,0 +1,242 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '클레어 데인즈'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>쿨하니까 괜찮아</td>
+					<td>As Cool As I Am</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>3,000</td>
+					<td>1</td>
+					<td>3,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>나와 오손 웰스</td>
+					<td>Me and Orson Welles</td>
+					<td>2008</td>
+					<td>영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>트랩</td>
+					<td>The Flock</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>범죄,스릴러,액션</td>
+					<td>주연</td>
+					<td>490,065,432</td>
+					<td>71,294</td>
+					<td>494,741,500</td>
+					<td>71,979</td>
+				</tr>
+			
+				<tr>
+					<td>이브닝</td>
+					<td>Evening</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>22,921</td>
+					<td>83,383,000</td>
+					<td>12,894</td>
+				</tr>
+			
+				<tr>
+					<td>스타더스트</td>
+					<td>Stardust</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>판타지,액션,어드벤처,SF</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>853,441</td>
+					<td>5,504,267,500</td>
+					<td>847,766</td>
+				</tr>
+			
+				<tr>
+					<td>쇼핑걸</td>
+					<td>Shopgirl</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연-미라벨역</td>
+					<td>0</td>
+					<td>1,125</td>
+					<td>7,753,000</td>
+					<td>1,125</td>
+				</tr>
+			
+				<tr>
+					<td>우리, 사랑해도 되나요?</td>
+					<td>The Family Stone</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>멜로/로맨스,드라마,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>80,900</td>
+					<td>419,663,500</td>
+					<td>64,914</td>
+				</tr>
+			
+				<tr>
+					<td>스테이지 뷰티</td>
+					<td>Stage Beauty</td>
+					<td>2004</td>
+					<td>영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>20,976</td>
+					<td>141,693,000</td>
+					<td>21,114</td>
+				</tr>
+			
+				<tr>
+					<td>올 어바웃 러브</td>
+					<td>It’S All About Love</td>
+					<td>2003</td>
+					<td>덴마크</td>
+					<td>드라마,멜로/로맨스,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>410</td>
+					<td>2,314,000</td>
+					<td>355</td>
+				</tr>
+			
+				<tr>
+					<td>터미네이터 3</td>
+					<td>Terminator 3: The Rise of the Machines </td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>SF,액션,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,491,354</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>비트 시티 </td>
+					<td>The Mod Squad</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>액션,스릴러,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>5,600</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>브로크다운 펠리스 </td>
+					<td>Brokedown Palace</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>11,435</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>레미제라블</td>
+					<td>Les Miserables</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>드라마,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>5,383</td>
+					<td>610,000</td>
+					<td>238</td>
+				</tr>
+			
+				<tr>
+					<td>질리안의 서른일곱번째 생일에</td>
+					<td>To Gillian On Her 37Th Birthday</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>52</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>로미오와 줄리엣</td>
+					<td>Romeo And Juliet</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>멜로/로맨스,액션,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>491,435</td>
+					<td>89,416,400</td>
+					<td>13,310</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

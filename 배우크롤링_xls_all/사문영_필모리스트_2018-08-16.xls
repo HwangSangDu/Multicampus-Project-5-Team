@@ -1,0 +1,164 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '사문영'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>극장판 헬로카봇 : 백악기 시대</td>
+					<td>Hello Carbot the Movie: The Cretaceous Period</td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>애니메이션</td>
+					<td>주연-수지 목소리역(목소리)</td>
+					<td></td>
+					<td></td>
+					<td>6,173,368,300</td>
+					<td>824,191</td>
+				</tr>
+			
+				<tr>
+					<td>레오나르도 다 빈치</td>
+					<td>Leo Da Vinci: Mission Mona Lisa</td>
+					<td>2018</td>
+					<td>이탈리아</td>
+					<td>애니메이션</td>
+					<td>조연-리사 목소리역(목소리)</td>
+					<td>509,942,200</td>
+					<td>64,405</td>
+					<td>511,192,200</td>
+					<td>64,655</td>
+				</tr>
+			
+				<tr>
+					<td>딥</td>
+					<td>Deep</td>
+					<td>2017</td>
+					<td>스페인</td>
+					<td>애니메이션,뮤지컬,어드벤처</td>
+					<td>주연-앨리/노마 목소리역(목소리)</td>
+					<td>1,772,272,000</td>
+					<td>230,068</td>
+					<td>1,772,272,000</td>
+					<td>230,068</td>
+				</tr>
+			
+				<tr>
+					<td>리틀 프린세스 소피아 : 신비한 섬</td>
+					<td>Sofia the First: The Mystic Isles</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>애니메이션,어드벤처,가족,판타지,뮤지컬</td>
+					<td>조연-프리즈마 (한국어 목소리)역(목소리)</td>
+					<td>441,475,500</td>
+					<td>62,454</td>
+					<td>441,475,500</td>
+					<td>62,454</td>
+				</tr>
+			
+				<tr>
+					<td>꼬마참새 리차드: 아프리카 원정대</td>
+					<td>Richard the Stork</td>
+					<td>2017</td>
+					<td>독일,벨기에,룩셈부르크,노르웨이</td>
+					<td>애니메이션</td>
+					<td>조연-오로라 목소리 역(목소리)</td>
+					<td>599,076,600</td>
+					<td>81,136</td>
+					<td>599,076,600</td>
+					<td>81,136</td>
+				</tr>
+			
+				<tr>
+					<td>개구리왕국 2</td>
+					<td>Frog Kingdom : Sub-Zero Mission</td>
+					<td>2015</td>
+					<td>중국</td>
+					<td>애니메이션</td>
+					<td>주연-재키역(목소리)</td>
+					<td>99,741,700</td>
+					<td>14,236</td>
+					<td>99,741,700</td>
+					<td>14,236</td>
+				</tr>
+			
+				<tr>
+					<td>백설공주 : 사라진 아빠를 찾아서</td>
+					<td>Snow white : The mysterious father</td>
+					<td>2015</td>
+					<td>중국</td>
+					<td>애니메이션,가족</td>
+					<td>주연-한나역(목소리)</td>
+					<td>425,994,300</td>
+					<td>55,355</td>
+					<td>426,354,300</td>
+					<td>55,425</td>
+				</tr>
+			
+				<tr>
+					<td>극장판 빰바라빤쮸: 바나나 왕국의 비밀</td>
+					<td></td>
+					<td>2014</td>
+					<td>일본</td>
+					<td>애니메이션,어드벤처</td>
+					<td>주연-엄마페즈/개아내/도기엄마 역역(목소리)</td>
+					<td>76,934,800</td>
+					<td>10,681</td>
+					<td>76,934,800</td>
+					<td>10,681</td>
+				</tr>
+			
+				<tr>
+					<td>헬로 카봇</td>
+					<td></td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td></td>
+					<td></td>
+					<td>0</td>
+					<td>0</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

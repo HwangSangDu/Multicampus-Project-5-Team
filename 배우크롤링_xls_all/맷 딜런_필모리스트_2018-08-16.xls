@@ -1,0 +1,398 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '맷 딜런'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>폰조</td>
+					<td>Fonzo</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>드림 쏭</td>
+					<td>Rock Dog</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td>1,826,269,700</td>
+					<td>234,387</td>
+					<td>1,826,269,700</td>
+					<td>234,387</td>
+				</tr>
+			
+				<tr>
+					<td>선라이트 주니어</td>
+					<td>Sunlight Jr.</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>3,245,000</td>
+					<td>399</td>
+					<td>3,245,000</td>
+					<td>399</td>
+				</tr>
+			
+				<tr>
+					<td>아트 오브 더 스틸</td>
+					<td>The Art of the Steal</td>
+					<td>2013</td>
+					<td>캐나다</td>
+					<td>코미디</td>
+					<td>주연-니키 칼훈 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>테이커스</td>
+					<td>Takers</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>액션,범죄,스릴러</td>
+					<td>주연-잭 웰스 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아머드</td>
+					<td>Armored</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>액션,범죄,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>더 트루스: 무언의 제보자</td>
+					<td>Nothing But The Truth</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td>270,000</td>
+					<td>54</td>
+					<td>270,000</td>
+					<td>54</td>
+				</tr>
+			
+				<tr>
+					<td>허니문크래셔</td>
+					<td>You, Me and Dupree</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연-칼 피터슨역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>허비</td>
+					<td>Herbie: Fully Loaded</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>코미디,가족,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>60,643</td>
+					<td>295,949,000</td>
+					<td>50,040</td>
+				</tr>
+			
+				<tr>
+					<td>삶의 가장자리</td>
+					<td>Factotum</td>
+					<td>2005</td>
+					<td>노르웨이,미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>크래쉬</td>
+					<td>Crash</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>드라마,범죄,미스터리</td>
+					<td>주연-백인 경찰 - 라이언역</td>
+					<td>0</td>
+					<td>152,617</td>
+					<td>907,041,100</td>
+					<td>142,833</td>
+				</tr>
+			
+				<tr>
+					<td>임플로이 오브 더 먼스</td>
+					<td>Employee Of The Month</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연-데이빗 월쉬역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>시티 오브 고스트</td>
+					<td>City Of Ghosts</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>범죄,스릴러</td>
+					<td>감독,주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>맥쿨에서의 하룻밤</td>
+					<td>One Night At McCool&#039;s</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>코미디,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>와일드씽</td>
+					<td>Wild Things</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>미스터리,범죄,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>33,891</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>메리에겐 뭔가 특별한 것이 있다 </td>
+					<td>There&#039;s Something About Mary</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>273,170</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>인 앤 아웃 </td>
+					<td>In &amp; Out</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>52,147</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>뷰티풀 걸</td>
+					<td>Beautiful Girls</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연-토미 `버드맨` 로랜드역</td>
+					<td>0</td>
+					<td>392</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>알비노 앨리게이터</td>
+					<td>Albino Alligator</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>스릴러,드라마,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>102</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>그레이스 하트</td>
+					<td>Grace Of My Heart</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>투 다이 포 </td>
+					<td>To Die For</td>
+					<td>1995</td>
+					<td>영국,미국</td>
+					<td>드라마,코미디,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>100,411</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>골든 게이트 </td>
+					<td>Golden Gate</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>3,145</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>미스터 원더풀 </td>
+					<td>Mr. Wonderful</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>3,749</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>세인트 오브 뉴욕 </td>
+					<td>The Saint Of Fort Washington</td>
+					<td>1992</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>9,573</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>죽음전의 키스</td>
+					<td>A Kiss Before Dying</td>
+					<td>1991</td>
+					<td>미국</td>
+					<td>스릴러,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>41,580</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아웃사이더</td>
+					<td>The Outsiders</td>
+					<td>1984</td>
+					<td>미국</td>
+					<td>액션,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>59,873</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>라이어스 문 </td>
+					<td>Matt Dillon In Liar&#039;S Moon</td>
+					<td>1981</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>83,500</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

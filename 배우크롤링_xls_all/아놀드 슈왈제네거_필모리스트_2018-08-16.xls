@@ -1,0 +1,463 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '아놀드 슈왈제네거'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>킬링 군터</td>
+					<td>Killing Gunther</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>액션,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>908,900</td>
+					<td>115</td>
+				</tr>
+			
+				<tr>
+					<td>애프터매스</td>
+					<td>Aftermath</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td>5,547,600</td>
+					<td>669</td>
+					<td>5,547,600</td>
+					<td>669</td>
+				</tr>
+			
+				<tr>
+					<td>터미네이터 제니시스</td>
+					<td>Terminator Genisys</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션,어드벤처,SF,스릴러</td>
+					<td>주연</td>
+					<td>26,556,715,129</td>
+					<td>3,240,370</td>
+					<td>26,556,715,129</td>
+					<td>3,240,370</td>
+				</tr>
+			
+				<tr>
+					<td>매기</td>
+					<td>Maggie</td>
+					<td>2015</td>
+					<td>미국,스위스</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>익스펜더블 3</td>
+					<td>The Expendables 3</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>액션,어드벤처,스릴러</td>
+					<td>주연</td>
+					<td>1,158,358,800</td>
+					<td>152,025</td>
+					<td>1,158,398,800</td>
+					<td>152,033</td>
+				</tr>
+			
+				<tr>
+					<td>사보타지</td>
+					<td>Sabotage</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>범죄,액션,스릴러</td>
+					<td>주연</td>
+					<td>50,277,100</td>
+					<td>6,591</td>
+					<td>50,277,100</td>
+					<td>6,591</td>
+				</tr>
+			
+				<tr>
+					<td>이스케이프 플랜</td>
+					<td>Escape Plan</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연-에밀 로트마이어역</td>
+					<td>2,106,946,679</td>
+					<td>292,893</td>
+					<td>2,106,938,679</td>
+					<td>292,892</td>
+				</tr>
+			
+				<tr>
+					<td>라스트 스탠드</td>
+					<td>The Last Stand</td>
+					<td>2013</td>
+					<td>미국,영국</td>
+					<td>액션</td>
+					<td>주연-레이 오웬즈역</td>
+					<td>492,135,000</td>
+					<td>66,698</td>
+					<td>492,763,000</td>
+					<td>66,790</td>
+				</tr>
+			
+				<tr>
+					<td>익스펜더블 2</td>
+					<td>The Expendables II</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션,어드벤처</td>
+					<td>주연</td>
+					<td>3,208,867,228</td>
+					<td>444,434</td>
+					<td>3,209,043,228</td>
+					<td>444,456</td>
+				</tr>
+			
+				<tr>
+					<td>캐피탈리즘</td>
+					<td>Capitalism : A Love Story</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>다큐멘터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>터미네이터 3</td>
+					<td>Terminator 3: The Rise of the Machines </td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>SF,액션,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,491,354</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>콜래트럴 데미지</td>
+					<td>Collateral Damage</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>196,520</td>
+					<td>0</td>
+					<td>0</td>
+				</tr>
+			
+				<tr>
+					<td>6번째 날</td>
+					<td>The 6th Day</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>SF,액션,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>347,487</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>엔드 오브 데이즈</td>
+					<td>End Of Days</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>액션,스릴러,미스터리,공포(호러)</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>437,292</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>배트맨 앤 로빈</td>
+					<td>Batman &amp; Robin</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>액션,스릴러,어드벤처,범죄,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>172,959</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>솔드 아웃 </td>
+					<td>Jingle All The Way</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>가족,액션,어드벤처,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>69,360</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>이레이저 </td>
+					<td>Eraser</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>액션,스릴러,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>516,721</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>쥬니어 </td>
+					<td>Junior</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>SF,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>111,164</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>트루 라이즈 </td>
+					<td>True Lies</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>스릴러,액션,어드벤처,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>874,664</td>
+					<td>194,000</td>
+					<td>76</td>
+				</tr>
+			
+				<tr>
+					<td>크리스마스 인 코네티컷</td>
+					<td>Christmas In Connecticut</td>
+					<td>1992</td>
+					<td>미국</td>
+					<td>코미디,드라마,가족</td>
+					<td>감독</td>
+					<td>0</td>
+					<td>0</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>터미네이터 2 : 심판의 날 감독판</td>
+					<td>Terminator II : Judgment Day Extended Special Edition</td>
+					<td>1991</td>
+					<td>미국</td>
+					<td>액션,SF,스릴러</td>
+					<td>주연-터미네이터역</td>
+					<td>98,683,000</td>
+					<td>13,664</td>
+					<td>98,683,000</td>
+					<td>13,664</td>
+				</tr>
+			
+				<tr>
+					<td>터미네이터 2</td>
+					<td>Terminator II</td>
+					<td>1991</td>
+					<td>미국</td>
+					<td>액션,SF,스릴러</td>
+					<td>주연-터미네이터역</td>
+					<td>0</td>
+					<td>919,444</td>
+					<td>1,368,500</td>
+					<td>154</td>
+				</tr>
+			
+				<tr>
+					<td>유치원에 간 사나이</td>
+					<td>Kindergarten Cop</td>
+					<td>1990</td>
+					<td>미국</td>
+					<td>액션,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>149,304</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>토탈리콜</td>
+					<td>Total Recall</td>
+					<td>1990</td>
+					<td>미국</td>
+					<td>SF,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>410,076</td>
+					<td>496,000</td>
+					<td>72</td>
+				</tr>
+			
+				<tr>
+					<td>런닝맨</td>
+					<td>The Running Man</td>
+					<td>1987</td>
+					<td>미국</td>
+					<td>SF,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>125,908</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>고릴라 </td>
+					<td>Gorilla</td>
+					<td>1986</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>103,484</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>고릴라 </td>
+					<td>Gorilla</td>
+					<td>1986</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>103,484</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>코만도 </td>
+					<td>Commando</td>
+					<td>1985</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>357,615</td>
+					<td>5,255,500</td>
+					<td>718</td>
+				</tr>
+			
+				<tr>
+					<td>레드 소냐 </td>
+					<td>Red Sonja</td>
+					<td>1985</td>
+					<td>네덜란드,미국</td>
+					<td>액션,어드벤처,판타지</td>
+					<td>주연-칼리도르 역</td>
+					<td>0</td>
+					<td>202,770</td>
+					<td>248,000</td>
+					<td>91</td>
+				</tr>
+			
+				<tr>
+					<td>코난2-디스트로이어</td>
+					<td>The Destroyer/Conan The Destroyer</td>
+					<td>1984</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>107,141</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>터미네이터 </td>
+					<td>Terminator</td>
+					<td>1984</td>
+					<td>미국</td>
+					<td>SF,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>318,828</td>
+					<td>108,000</td>
+					<td>24</td>
+				</tr>
+			
+				<tr>
+					<td>코난-바바리안</td>
+					<td>Conan The Barbarian</td>
+					<td>1982</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>272,185</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

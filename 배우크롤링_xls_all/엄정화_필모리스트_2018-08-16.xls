@@ -1,0 +1,320 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '엄정화'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>미쓰 와이프</td>
+					<td>Wonderful Nightmare</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>7,387,086,869</td>
+					<td>988,451</td>
+					<td>7,387,086,869</td>
+					<td>988,451</td>
+				</tr>
+			
+				<tr>
+					<td>관능의 법칙</td>
+					<td>Venus Talk</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>5,858,771,500</td>
+					<td>781,516</td>
+					<td>5,858,771,500</td>
+					<td>781,516</td>
+				</tr>
+			
+				<tr>
+					<td>몽타주</td>
+					<td>Montage</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>주연-하경역</td>
+					<td>15,002,458,500</td>
+					<td>2,095,592</td>
+					<td>15,002,458,500</td>
+					<td>2,095,592</td>
+				</tr>
+			
+				<tr>
+					<td>댄싱퀸</td>
+					<td>Dancing Queen</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>30,129,259,500</td>
+					<td>4,057,546</td>
+					<td>30,130,775,500</td>
+					<td>4,058,225</td>
+				</tr>
+			
+				<tr>
+					<td>마마</td>
+					<td>Mama</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>1,642,407,500</td>
+					<td>243,209</td>
+					<td>1,642,407,500</td>
+					<td>243,209</td>
+				</tr>
+			
+				<tr>
+					<td>베스트셀러</td>
+					<td>Bestseller</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>미스터리,스릴러,드라마</td>
+					<td>주연</td>
+					<td>8,110,824,681</td>
+					<td>1,099,665</td>
+					<td>7,983,184,500</td>
+					<td>1,081,752</td>
+				</tr>
+			
+				<tr>
+					<td>끝과 시작</td>
+					<td>In My End Is My Beginning</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연-정하역</td>
+					<td>274,964,000</td>
+					<td>38,809</td>
+					<td>274,964,000</td>
+					<td>38,809</td>
+				</tr>
+			
+				<tr>
+					<td>해운대</td>
+					<td>Haeundae</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>액션,드라마,어드벤처</td>
+					<td>주연-이유진역</td>
+					<td>81,934,638,201</td>
+					<td>11,453,338</td>
+					<td>81,025,841,000</td>
+					<td>11,324,561</td>
+				</tr>
+			
+				<tr>
+					<td>오감도</td>
+					<td>Five Senses Of Eros</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-이정하역</td>
+					<td>3,107,441,952</td>
+					<td>443,462</td>
+					<td>3,074,373,500</td>
+					<td>438,808</td>
+				</tr>
+			
+				<tr>
+					<td>인사동 스캔들</td>
+					<td>Insadong Scandal</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마,범죄,액션</td>
+					<td>주연-배태진역</td>
+					<td>7,900,084,842</td>
+					<td>1,206,101</td>
+					<td>7,780,811,000</td>
+					<td>1,187,684</td>
+				</tr>
+			
+				<tr>
+					<td>지금 사랑하는 사람과 살고 있습니까?</td>
+					<td>Love Now</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,095,119</td>
+					<td>7,004,658,500</td>
+					<td>1,042,955</td>
+				</tr>
+			
+				<tr>
+					<td>Mr.로빈 꼬시기</td>
+					<td>Seducing Mr. Perfect</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>730,443</td>
+					<td>3,990,360,200</td>
+					<td>680,241</td>
+				</tr>
+			
+				<tr>
+					<td>호로비츠를 위하여</td>
+					<td>For Horowitz</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>544,656</td>
+					<td>2,813,074,600</td>
+					<td>462,623</td>
+				</tr>
+			
+				<tr>
+					<td>오로라 공주</td>
+					<td>Princess Aurora</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>범죄,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>946,372</td>
+					<td>5,365,343,000</td>
+					<td>830,538</td>
+				</tr>
+			
+				<tr>
+					<td>내 생애 가장 아름다운 일주일</td>
+					<td>All For Love</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,533,103</td>
+					<td>14,710,541,000</td>
+					<td>2,290,709</td>
+				</tr>
+			
+				<tr>
+					<td>어디선가 누군가에 무슨일이 생기면 틀림없이 나타난다 홍반장</td>
+					<td>Mr. Handy</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>830,000</td>
+					<td>1,158,210,500</td>
+					<td>181,510</td>
+				</tr>
+			
+				<tr>
+					<td>싱글즈</td>
+					<td>Singles</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td>2,203,042</td>
+					<td>234,500</td>
+					<td>42</td>
+				</tr>
+			
+				<tr>
+					<td>결혼은, 미친짓이다</td>
+					<td>Marriage Is a Crazy Thing</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td>422,939</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>마누라 죽이기</td>
+					<td>How To Top My Wife</td>
+					<td>1994</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>344,900</td>
+					<td>5,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>블루 시걸</td>
+					<td>The Blueseagull</td>
+					<td>1994</td>
+					<td>한국</td>
+					<td>범죄,애니메이션,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>202,751</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>바람부는 날이면 압구정동에 가야 한다</td>
+					<td>We Must Go To Apgujung-Dong On Windy Days</td>
+					<td>1992</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>24,692</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

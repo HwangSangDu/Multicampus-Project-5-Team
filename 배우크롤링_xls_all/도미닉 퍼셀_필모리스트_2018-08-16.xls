@@ -1,0 +1,242 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '도미닉 퍼셀'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>다이하드 스왓</td>
+					<td>Gridlocked</td>
+					<td>2015</td>
+					<td>캐나다</td>
+					<td>액션</td>
+					<td>주연-데이빗 헨드릭스역</td>
+					<td>2,000</td>
+					<td>1</td>
+					<td>1,937,000</td>
+					<td>179</td>
+				</tr>
+			
+				<tr>
+					<td>런 라이크 헬</td>
+					<td>Isolation</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>300,000</td>
+					<td>60</td>
+					<td>300,000</td>
+					<td>60</td>
+				</tr>
+			
+				<tr>
+					<td>프레지던트 테러 라이브</td>
+					<td>Suddenly</td>
+					<td>2015</td>
+					<td>캐나다,미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>7,000</td>
+					<td>1</td>
+					<td>7,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>어밴던드</td>
+					<td>Abandoned</td>
+					<td>2015</td>
+					<td>뉴질랜드</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>5,000</td>
+					<td>1</td>
+					<td>5,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>엑스터시 나이트</td>
+					<td>Experiment Night</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td>100,000</td>
+					<td>10</td>
+					<td>100,000</td>
+					<td>10</td>
+				</tr>
+			
+				<tr>
+					<td>파이팅 맨</td>
+					<td>A FIGHTING MAN</td>
+					<td>2014</td>
+					<td>캐나다</td>
+					<td>드라마</td>
+					<td>주연-세일러 오코너 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>왕의 이름으로 3</td>
+					<td>In the Name of the King 3</td>
+					<td>2013</td>
+					<td>캐나다,불가리아</td>
+					<td>액션,어드벤처,판타지,드라마</td>
+					<td>주연</td>
+					<td>60,000</td>
+					<td>10</td>
+					<td>60,000</td>
+					<td>10</td>
+				</tr>
+			
+				<tr>
+					<td>바이킹덤-신과의 전쟁 무삭제판</td>
+					<td>Vikingdom</td>
+					<td>2013</td>
+					<td>말레이시아,미국</td>
+					<td>액션,판타지,어드벤처</td>
+					<td>주연</td>
+					<td>4,000</td>
+					<td>1</td>
+					<td>4,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>월 스트리트: 분노의 복수</td>
+					<td>Assault On Wall Street</td>
+					<td>2013</td>
+					<td>캐나다</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>180,000</td>
+					<td>30</td>
+					<td>180,000</td>
+					<td>30</td>
+				</tr>
+			
+				<tr>
+					<td>오피서 다운</td>
+					<td>Officer Down</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td>7,599,000</td>
+					<td>1,513</td>
+					<td>7,599,000</td>
+					<td>1,513</td>
+				</tr>
+			
+				<tr>
+					<td>브레이크 아웃</td>
+					<td>Breakout</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연-토미 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아이스 솔저스</td>
+					<td>Ice Soldiers</td>
+					<td>2013</td>
+					<td>캐나다</td>
+					<td>SF,액션</td>
+					<td>주연-말루스 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>프라이미벌</td>
+					<td>Primeval</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>그레이브댄서</td>
+					<td>The Gravedancers</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>쓰리 웨이</td>
+					<td>Three Way</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>범죄,드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

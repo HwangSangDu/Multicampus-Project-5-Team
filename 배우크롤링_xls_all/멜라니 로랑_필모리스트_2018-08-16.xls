@@ -1,0 +1,229 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '멜라니 로랑'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>다이빙</td>
+					<td>Plonger</td>
+					<td>2017</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>감독</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>이터너티</td>
+					<td>Eternite</td>
+					<td>2016</td>
+					<td>프랑스</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>34,559,100</td>
+					<td>4,647</td>
+					<td>34,559,100</td>
+					<td>4,647</td>
+				</tr>
+			
+				<tr>
+					<td>내일</td>
+					<td>Tomorrow</td>
+					<td>2015</td>
+					<td>프랑스</td>
+					<td>다큐멘터리</td>
+					<td>감독</td>
+					<td>4,412,000</td>
+					<td>730</td>
+					<td>5,141,000</td>
+					<td>820</td>
+				</tr>
+			
+				<tr>
+					<td>리스본행 야간열차</td>
+					<td>Night Train to Lisbon</td>
+					<td>2013</td>
+					<td>독일,스위스,포르투갈</td>
+					<td>미스터리,멜로/로맨스,스릴러</td>
+					<td>주연</td>
+					<td>587,486,536</td>
+					<td>76,047</td>
+					<td>603,847,836</td>
+					<td>78,611</td>
+				</tr>
+			
+				<tr>
+					<td>에너미</td>
+					<td>Enemy </td>
+					<td>2013</td>
+					<td>캐나다,스페인</td>
+					<td>미스터리,스릴러</td>
+					<td>주연</td>
+					<td>62,206,200</td>
+					<td>7,967</td>
+					<td>62,206,200</td>
+					<td>7,967</td>
+				</tr>
+			
+				<tr>
+					<td>나우 유 씨 미 : 마술사기단</td>
+					<td>Now You See Me </td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>범죄,액션,스릴러</td>
+					<td>주연-알마 바르가스역</td>
+					<td>19,146,691,869</td>
+					<td>2,718,227</td>
+					<td>19,146,757,869</td>
+					<td>2,718,237</td>
+				</tr>
+			
+				<tr>
+					<td>레퀴엠 포 어 킬러</td>
+					<td>Requiem for a Killer</td>
+					<td>2011</td>
+					<td>프랑스</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>100,000</td>
+					<td>10</td>
+					<td>100,000</td>
+					<td>10</td>
+				</tr>
+			
+				<tr>
+					<td>마린</td>
+					<td>The Adopted</td>
+					<td>2011</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>감독,주연-리사 역</td>
+					<td>33,925,500</td>
+					<td>4,679</td>
+					<td>33,925,500</td>
+					<td>4,679</td>
+				</tr>
+			
+				<tr>
+					<td>에로틱 컴필레이션</td>
+					<td>X-Femmes</td>
+					<td>2010</td>
+					<td>프랑스</td>
+					<td>멜로/로맨스</td>
+					<td>감독</td>
+					<td>5,000</td>
+					<td>1</td>
+					<td>5,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>라운드 업</td>
+					<td>The Round Up</td>
+					<td>2010</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>2,383,000</td>
+					<td>358</td>
+					<td>2,383,000</td>
+					<td>358</td>
+				</tr>
+			
+				<tr>
+					<td>에브리 잭 해즈 어 질</td>
+					<td>Every Jack Has a Jill</td>
+					<td>2009</td>
+					<td>프랑스</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>100,000</td>
+					<td>10</td>
+					<td>100,000</td>
+					<td>10</td>
+				</tr>
+			
+				<tr>
+					<td>바스터즈: 거친 녀석들</td>
+					<td>Inglourious Basterds</td>
+					<td>2009</td>
+					<td>미국,독일</td>
+					<td>액션,드라마,전쟁</td>
+					<td>주연-쇼샤나 드레이퍼스역</td>
+					<td>2,547,650,425</td>
+					<td>336,312</td>
+					<td>2,513,029,000</td>
+					<td>331,827</td>
+				</tr>
+			
+				<tr>
+					<td>멜로디의 미소</td>
+					<td>Melody&#039;S Smile</td>
+					<td>2007</td>
+					<td>프랑스</td>
+					<td>범죄,스릴러,미스터리</td>
+					<td>주연-루시 역</td>
+					<td>91,000</td>
+					<td>13</td>
+					<td>91,000</td>
+					<td>13</td>
+				</tr>
+			
+				<tr>
+					<td>잘있으니까 걱정말아요</td>
+					<td>Don&#039;t Worry, I&#039;m Fine</td>
+					<td>2006</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

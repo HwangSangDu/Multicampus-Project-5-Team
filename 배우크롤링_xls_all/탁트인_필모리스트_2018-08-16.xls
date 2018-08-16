@@ -1,0 +1,177 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '탁트인'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>내비게이션</td>
+					<td>NAVIGATION</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td>4,414,000</td>
+					<td>703</td>
+					<td>4,414,000</td>
+					<td>703</td>
+				</tr>
+			
+				<tr>
+					<td>통통한 혁명</td>
+					<td>Chubby Revolution</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>조연-윤학역</td>
+					<td>3,748,000</td>
+					<td>557</td>
+					<td>3,748,000</td>
+					<td>557</td>
+				</tr>
+			
+				<tr>
+					<td>무법자</td>
+					<td>The Outlaw</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>드라마,범죄,스릴러</td>
+					<td>조연-조역</td>
+					<td>1,241,201,107</td>
+					<td>163,334</td>
+					<td>1,221,713,500</td>
+					<td>160,734</td>
+				</tr>
+			
+				<tr>
+					<td>주유소 습격사건 2</td>
+					<td>Attack The Gas Station 2</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>액션,코미디</td>
+					<td>조연-벌구역</td>
+					<td>5,466,499,511</td>
+					<td>742,475</td>
+					<td>5,379,208,500</td>
+					<td>729,834</td>
+				</tr>
+			
+				<tr>
+					<td>서양 골동 양과자점 앤티크</td>
+					<td>Antique</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-진혁 고등학교 친구역</td>
+					<td>7,367,880,833</td>
+					<td>1,173,310</td>
+					<td>7,420,479,500</td>
+					<td>1,181,332</td>
+				</tr>
+			
+				<tr>
+					<td>강철중: 공공의 적 1-1</td>
+					<td>Public Enemy Returns</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>드라마,액션</td>
+					<td>조연-면접아이3역</td>
+					<td>28,465,757,767</td>
+					<td>4,300,670</td>
+					<td>28,638,465,100</td>
+					<td>4,313,102</td>
+				</tr>
+			
+				<tr>
+					<td>아버지와 마리와 나</td>
+					<td>Like Father, Like Son</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-명호 패거리 1 역</td>
+					<td>28,278,000</td>
+					<td>4,162</td>
+					<td>28,278,000</td>
+					<td>4,162</td>
+				</tr>
+			
+				<tr>
+					<td>대한이, 민국씨</td>
+					<td>Love Is Beautiful</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>조연-건달2역</td>
+					<td>1,192,710,500</td>
+					<td>212,854</td>
+					<td>1,188,129,500</td>
+					<td>208,695</td>
+				</tr>
+			
+				<tr>
+					<td>스카우트</td>
+					<td>Scout</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>주연-K 덩치 2역</td>
+					<td>0</td>
+					<td>315,187</td>
+					<td>1,899,792,000</td>
+					<td>292,462</td>
+				</tr>
+			
+				<tr>
+					<td>민요 삼총사</td>
+					<td>Young-gil&#039;s Angles</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

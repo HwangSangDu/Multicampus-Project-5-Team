@@ -1,0 +1,112 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '마틴 헨더슨'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>미라클 프롬 헤븐</td>
+					<td>Miracles from Heaven</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>119,875,500</td>
+					<td>17,625</td>
+					<td>120,155,500</td>
+					<td>17,665</td>
+				</tr>
+			
+				<tr>
+					<td>사랑해도 참을 수 없는 101가지</td>
+					<td>Perfect Opposites</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>멜로/로맨스,드라마,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>8,486</td>
+					<td>52,766,000</td>
+					<td>8,483</td>
+				</tr>
+			
+				<tr>
+					<td>신부와 편견</td>
+					<td>Bride &amp; Prejudice</td>
+					<td>2004</td>
+					<td>영국</td>
+					<td>멜로/로맨스,코미디,뮤지컬</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>964</td>
+					<td>0</td>
+					<td>0</td>
+				</tr>
+			
+				<tr>
+					<td>토크</td>
+					<td>Torque</td>
+					<td>2004</td>
+					<td>미국,호주</td>
+					<td>액션,범죄,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>더 링</td>
+					<td>The Ring</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>365,518</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

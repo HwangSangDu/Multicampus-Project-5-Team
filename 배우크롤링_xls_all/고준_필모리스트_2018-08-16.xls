@@ -1,0 +1,268 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '고준'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>변산</td>
+					<td>Sunset in My Hometown</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연</td>
+					<td>128,019,800</td>
+					<td>15,896</td>
+					<td>4,013,832,273</td>
+					<td>489,993</td>
+				</tr>
+			
+				<tr>
+					<td>바람 바람 바람</td>
+					<td>What a Man Wants</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>조연</td>
+					<td>9,784,445,375</td>
+					<td>1,194,239</td>
+					<td>9,784,385,375</td>
+					<td>1,194,229</td>
+				</tr>
+			
+				<tr>
+					<td>청년경찰</td>
+					<td>Midnight Runners</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>조연-영춘역</td>
+					<td>44,381,150,516</td>
+					<td>5,653,270</td>
+					<td>44,382,020,516</td>
+					<td>5,653,444</td>
+				</tr>
+			
+				<tr>
+					<td>밀정</td>
+					<td>The Age of Shadows</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>조연-심상도역</td>
+					<td>61,269,783,831</td>
+					<td>7,500,420</td>
+					<td>61,270,079,831</td>
+					<td>7,500,457</td>
+				</tr>
+			
+				<tr>
+					<td>미씽: 사라진 여자</td>
+					<td>MISSING</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>미스터리</td>
+					<td>조연-진혁역</td>
+					<td>8,881,616,256</td>
+					<td>1,153,109</td>
+					<td>8,882,181,256</td>
+					<td>1,153,201</td>
+				</tr>
+			
+				<tr>
+					<td>럭키</td>
+					<td>LUCK-KEY</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>조연-권희락역</td>
+					<td>56,444,461,256</td>
+					<td>6,975,290</td>
+					<td>56,445,023,256</td>
+					<td>6,975,571</td>
+				</tr>
+			
+				<tr>
+					<td>대배우</td>
+					<td>THE GREAT ACTOR</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>단역-미지 부역</td>
+					<td>1,245,426,228</td>
+					<td>169,855</td>
+					<td>1,246,200,228</td>
+					<td>169,984</td>
+				</tr>
+			
+				<tr>
+					<td>BiFan2015 판타스틱 단편 걸작선 6</td>
+					<td>BiFan2015 Fantastic Short Films 6</td>
+					<td>2015</td>
+					<td>기타</td>
+					<td>기타</td>
+					<td>감독</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>현도가</td>
+					<td>Frog</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>감독</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>타짜-신의 손</td>
+					<td>Tazza-The Hidden Card</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-유령역</td>
+					<td>32,373,120,927</td>
+					<td>4,015,361</td>
+					<td>32,373,120,927</td>
+					<td>4,015,361</td>
+				</tr>
+			
+				<tr>
+					<td>내비게이션</td>
+					<td>NAVIGATION</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td>4,414,000</td>
+					<td>703</td>
+					<td>4,414,000</td>
+					<td>703</td>
+				</tr>
+			
+				<tr>
+					<td>미안해, 고마워</td>
+					<td>Sorry and Thank You</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-변호사역</td>
+					<td>73,843,000</td>
+					<td>9,998</td>
+					<td>73,935,000</td>
+					<td>10,011</td>
+				</tr>
+			
+				<tr>
+					<td>써니</td>
+					<td>Sunny</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>단역-현재 형사역</td>
+					<td>54,034,235,100</td>
+					<td>7,362,467</td>
+					<td>54,038,534,700</td>
+					<td>7,363,139</td>
+				</tr>
+			
+				<tr>
+					<td>밥, 상</td>
+					<td>The Last Meal</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마,판타지</td>
+					<td>주연-정원역</td>
+					<td></td>
+					<td></td>
+					<td>496,250</td>
+					<td>397</td>
+				</tr>
+			
+				<tr>
+					<td>그림자 살인</td>
+					<td>Private eye</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>미스터리,스릴러,사극,범죄</td>
+					<td>단역-의생역</td>
+					<td>12,805,808,556</td>
+					<td>1,914,779</td>
+					<td>12,659,065,000</td>
+					<td>1,892,467</td>
+				</tr>
+			
+				<tr>
+					<td>과속스캔들</td>
+					<td>Scandal Makers</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>단역-CF 감독역</td>
+					<td>53,940,101,534</td>
+					<td>8,245,523</td>
+					<td>53,801,341,400</td>
+					<td>8,223,342</td>
+				</tr>
+			
+				<tr>
+					<td>와니와 준하</td>
+					<td>Wanee And Junah</td>
+					<td>2001</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-동화부원역</td>
+					<td>0</td>
+					<td>101,879</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

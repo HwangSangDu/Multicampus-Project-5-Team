@@ -1,0 +1,99 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '진도명'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>5일의 마중</td>
+					<td>Coming Home</td>
+					<td>2014</td>
+					<td>중국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>409,337,100</td>
+					<td>54,670</td>
+					<td>411,147,100</td>
+					<td>54,960</td>
+				</tr>
+			
+				<tr>
+					<td>대지진</td>
+					<td>After Shock</td>
+					<td>2010</td>
+					<td>중국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>379,043,639</td>
+					<td>55,000</td>
+					<td>373,543,500</td>
+					<td>54,198</td>
+				</tr>
+			
+				<tr>
+					<td>속 서태후 </td>
+					<td>The Empress Dowager</td>
+					<td>1992</td>
+					<td>홍콩</td>
+					<td>사극</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>833</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>남경대학살</td>
+					<td>Massacre In Namjing</td>
+					<td>1991</td>
+					<td>중국</td>
+					<td>드라마,전쟁</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>910</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,203 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '서태지'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>서태지밴드 콘서트투어 &#039;콰이어트나이트&#039;</td>
+					<td>Seotaiji Band Concert Tour &#039;Quiet Night&#039;</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>공연</td>
+					<td>감독,주연</td>
+					<td>52,669,600</td>
+					<td>5,908</td>
+					<td>52,669,600</td>
+					<td>5,908</td>
+				</tr>
+			
+				<tr>
+					<td>이티피 페스티벌 08X09 서태지</td>
+					<td>ETP FESTIVAL 08X09 SEOTAIJI</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>공연</td>
+					<td>감독,주연</td>
+					<td>26,632,000</td>
+					<td>2,764</td>
+					<td>26,632,000</td>
+					<td>2,764</td>
+				</tr>
+			
+				<tr>
+					<td>서태지 8집: 398일의 기록</td>
+					<td>SEOTAIJI RECORD OF THE 8TH [398]</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>다큐멘터리</td>
+					<td>감독,주연,제작</td>
+					<td>43,754,500</td>
+					<td>5,326</td>
+					<td>43,754,500</td>
+					<td>5,326</td>
+				</tr>
+			
+				<tr>
+					<td>서태지 모아이 : 더 필름</td>
+					<td>SEOTAIJI MOAI : THE FILM</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>다큐멘터리</td>
+					<td>감독,주연</td>
+					<td></td>
+					<td></td>
+					<td>76,396,000</td>
+					<td>7,680</td>
+				</tr>
+			
+				<tr>
+					<td>서태지밴드 라이브 투어 &lt;더 뫼비우스&gt;</td>
+					<td>SEOTAIJIBAND LIVE TOUR The Mobius</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>다큐멘터리,공연</td>
+					<td>감독,프로듀서,시나리오(각본)</td>
+					<td>259,638,481</td>
+					<td>34,688</td>
+					<td>267,716,000</td>
+					<td>35,514</td>
+				</tr>
+			
+				<tr>
+					<td>2008 서태지 심포니 앙코르</td>
+					<td>2008 Seotaiji Symphony Encore</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>기타</td>
+					<td>감독</td>
+					<td></td>
+					<td></td>
+					<td>6,887,000</td>
+					<td>837</td>
+				</tr>
+			
+				<tr>
+					<td>2008 서태지 심포니 위드 톨가 카쉬프 로열필하모닉</td>
+					<td>2008 Seotaiji Symphony with Tolga Kashif Royal Philharmonic</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>공연,다큐멘터리</td>
+					<td>감독,주연,시나리오(각본),프로듀서</td>
+					<td>138,299,384</td>
+					<td>17,563</td>
+					<td>136,585,000</td>
+					<td>17,264</td>
+				</tr>
+			
+				<tr>
+					<td>2004 서태지 라이브 투어 제로</td>
+					<td>2004 Seotaiji Live Tour Zero</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>공연</td>
+					<td>감독,주연</td>
+					<td></td>
+					<td></td>
+					<td>27,786,000</td>
+					<td>3,148</td>
+				</tr>
+			
+				<tr>
+					<td>이것은 서태지가 아니다!</td>
+					<td>This Is Not Seotaiji</td>
+					<td>2001</td>
+					<td>한국</td>
+					<td>다큐멘터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>2000-2001 서태지밴드 라이브 콘서트 ‘태지의 화’ </td>
+					<td></td>
+					<td></td>
+					<td>한국</td>
+					<td>공연,다큐멘터리</td>
+					<td>감독</td>
+					<td></td>
+					<td></td>
+					<td>18,295,500</td>
+					<td>2,144</td>
+				</tr>
+			
+				<tr>
+					<td>서태지와 아이들 ’93 마지막 축제</td>
+					<td></td>
+					<td></td>
+					<td>한국</td>
+					<td>다큐멘터리</td>
+					<td>감독</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>서태지와 아이들 ’95 다른 하늘이 열리고</td>
+					<td></td>
+					<td></td>
+					<td>한국</td>
+					<td>다큐멘터리</td>
+					<td>감독</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

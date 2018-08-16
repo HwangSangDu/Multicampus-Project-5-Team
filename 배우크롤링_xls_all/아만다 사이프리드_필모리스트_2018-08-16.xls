@@ -1,0 +1,320 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '아만다 사이프리드'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>맘마미아!2</td>
+					<td>MAMMA MIA! HERE WE GO AGAIN</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>뮤지컬</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>10,405,495,188</td>
+					<td>1,218,382</td>
+				</tr>
+			
+				<tr>
+					<td>내가 죽기 전에 가장 듣고 싶은 말</td>
+					<td>The Last Word</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>332,742,600</td>
+					<td>45,347</td>
+					<td>332,742,600</td>
+					<td>45,347</td>
+				</tr>
+			
+				<tr>
+					<td>파더 앤 도터</td>
+					<td>Fathers and Daughters</td>
+					<td>2015</td>
+					<td>미국,이탈리아</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>465,781,100</td>
+					<td>61,046</td>
+					<td>466,831,100</td>
+					<td>61,196</td>
+				</tr>
+			
+				<tr>
+					<td>팬</td>
+					<td>PAN</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>판타지,어드벤처</td>
+					<td>주연-메리역</td>
+					<td>1,425,325,592</td>
+					<td>186,174</td>
+					<td>1,425,325,592</td>
+					<td>186,174</td>
+				</tr>
+			
+				<tr>
+					<td>19곰 테드 2</td>
+					<td>Ted 2</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>1,378,084,400</td>
+					<td>170,647</td>
+					<td>1,378,084,400</td>
+					<td>170,647</td>
+				</tr>
+			
+				<tr>
+					<td>위아영</td>
+					<td>While We&#039;re Young</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>495,343,360</td>
+					<td>62,016</td>
+					<td>495,668,860</td>
+					<td>62,069</td>
+				</tr>
+			
+				<tr>
+					<td>밀리언 웨이즈</td>
+					<td>A Million Ways to Die in the West</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>135,460,300</td>
+					<td>17,546</td>
+					<td>135,460,300</td>
+					<td>17,546</td>
+				</tr>
+			
+				<tr>
+					<td>에픽 : 숲속의 전설 </td>
+					<td>Epic</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>애니메이션,어드벤처</td>
+					<td>주연-MK 역(목소리)</td>
+					<td>6,748,089,000</td>
+					<td>978,788</td>
+					<td>6,748,072,000</td>
+					<td>978,785</td>
+				</tr>
+			
+				<tr>
+					<td>빅 웨딩</td>
+					<td>The Big Wedding </td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연-미시역</td>
+					<td>231,885,500</td>
+					<td>33,993</td>
+					<td>233,303,500</td>
+					<td>34,466</td>
+				</tr>
+			
+				<tr>
+					<td>개를 찾습니다</td>
+					<td>Dog Food</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>드라마,공포(호러),스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>러브레이스</td>
+					<td>Lovelace</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-린다 러브레이스역</td>
+					<td>139,215,138</td>
+					<td>19,933</td>
+					<td>139,215,138</td>
+					<td>19,933</td>
+				</tr>
+			
+				<tr>
+					<td>레미제라블</td>
+					<td>Les Miserables</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>43,044,999,000</td>
+					<td>5,911,890</td>
+					<td>43,090,556,000</td>
+					<td>5,920,977</td>
+				</tr>
+			
+				<tr>
+					<td>로스트</td>
+					<td>gone</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>미스터리,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>인 타임</td>
+					<td>In Time</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>SF,스릴러,액션</td>
+					<td>주연</td>
+					<td>4,579,554,500</td>
+					<td>616,943</td>
+					<td>4,579,554,500</td>
+					<td>616,943</td>
+				</tr>
+			
+				<tr>
+					<td>레드 라이딩 후드</td>
+					<td>Red Riding Hood</td>
+					<td>2011</td>
+					<td>미국,캐나다</td>
+					<td>드라마,판타지,멜로/로맨스</td>
+					<td>주연-발레리역</td>
+					<td>2,728,562,500</td>
+					<td>362,572</td>
+					<td>2,728,562,500</td>
+					<td>362,572</td>
+				</tr>
+			
+				<tr>
+					<td>레터스 투 줄리엣</td>
+					<td>Letters To Juliet,</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연-소피역</td>
+					<td>4,343,347,481</td>
+					<td>593,630</td>
+					<td>4,273,595,500</td>
+					<td>583,354</td>
+				</tr>
+			
+				<tr>
+					<td>디어 존</td>
+					<td>Dear John</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스,전쟁</td>
+					<td>주연-사바나 커티스역</td>
+					<td>1,440,264,401</td>
+					<td>192,530</td>
+					<td>1,416,569,000</td>
+					<td>189,142</td>
+				</tr>
+			
+				<tr>
+					<td>클로이</td>
+					<td>Chloe</td>
+					<td>2010</td>
+					<td>프랑스</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td>989,894,071</td>
+					<td>129,633</td>
+					<td>972,575,000</td>
+					<td>127,082</td>
+				</tr>
+			
+				<tr>
+					<td>부기우기: 상위 1%의 섹스</td>
+					<td>Boogie Woogie</td>
+					<td>2009</td>
+					<td>영국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>6,064,000</td>
+					<td>1,514</td>
+					<td>6,064,000</td>
+					<td>1,514</td>
+				</tr>
+			
+				<tr>
+					<td>죽여줘! 제니퍼</td>
+					<td>Jennifer&#039;s Body</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>SF,공포(호러),스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>맘마미아!</td>
+					<td>Mamma Mia!</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>멜로/로맨스,뮤지컬</td>
+					<td>주연</td>
+					<td>29,570,784,560</td>
+					<td>4,554,785</td>
+					<td>29,688,925,850</td>
+					<td>4,578,239</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

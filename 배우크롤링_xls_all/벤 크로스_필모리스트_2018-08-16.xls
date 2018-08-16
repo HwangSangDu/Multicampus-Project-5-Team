@@ -1,0 +1,216 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '벤 크로스'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>잭과 자이언트 킬러 2014</td>
+					<td>Jack the Giant Killer</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>SF,액션,판타지</td>
+					<td>주연</td>
+					<td>40,000</td>
+					<td>10</td>
+					<td>40,000</td>
+					<td>10</td>
+				</tr>
+			
+				<tr>
+					<td>라이브 테러</td>
+					<td>A Common Man</td>
+					<td>2013</td>
+					<td>미국,기타</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>슈퍼 탱커</td>
+					<td>Super Tanker</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>SF,액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>그렌델</td>
+					<td>Grendel</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>드라마,판타지,SF</td>
+					<td>주연-흐로스가 왕 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스피시즈 4</td>
+					<td>Species : The Awakening </td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>공포(호러),SF,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>레드 리벤져</td>
+					<td>The Mechanik</td>
+					<td>2005</td>
+					<td>독일,미국</td>
+					<td>액션,드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>솔로몬</td>
+					<td>Solomon</td>
+					<td>1997</td>
+					<td>영국,체코,프랑스,이탈리아,독일,미국</td>
+					<td>어드벤처,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>인베이더</td>
+					<td>The Invader</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>SF,액션,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,087</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>카멜롯의 전설 </td>
+					<td>First Knight</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>사극,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>137,852</td>
+					<td>174,000</td>
+					<td>58</td>
+				</tr>
+			
+				<tr>
+					<td>아내의 남자친구</td>
+					<td>Cold Sweat</td>
+					<td>1993</td>
+					<td>캐나다</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>5,154</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>SAS미망인의 눈</td>
+					<td>Eye Of The Widow</td>
+					<td>1991</td>
+					<td>프랑스</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>26,886</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>관심</td>
+					<td>The Lie</td>
+					<td>1984</td>
+					<td>이탈리아</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>15,315</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>불의 전차</td>
+					<td>Chariots Of Fire</td>
+					<td>1981</td>
+					<td>영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>393,622,100</td>
+					<td>58,197</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

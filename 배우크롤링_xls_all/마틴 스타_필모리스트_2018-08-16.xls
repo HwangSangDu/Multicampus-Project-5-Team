@@ -1,0 +1,86 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '마틴 스타'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>스파이더맨: 홈 커밍</td>
+					<td>Spider-Man: Homecoming</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>액션,어드벤처,SF</td>
+					<td>조연</td>
+					<td>59,125,813,820</td>
+					<td>7,258,678</td>
+					<td>59,125,813,820</td>
+					<td>7,258,678</td>
+				</tr>
+			
+				<tr>
+					<td>데드 스노우 2</td>
+					<td>Dead Snow 2: Red vs Dead</td>
+					<td>2014</td>
+					<td>노르웨이</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,120,000</td>
+					<td>130</td>
+				</tr>
+			
+				<tr>
+					<td>추격</td>
+					<td>Deep Dark Canyon</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>액션,드라마,스릴러</td>
+					<td>주연</td>
+					<td>50,000</td>
+					<td>10</td>
+					<td>50,000</td>
+					<td>10</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

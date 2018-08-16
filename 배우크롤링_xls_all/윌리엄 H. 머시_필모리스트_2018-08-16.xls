@@ -1,0 +1,294 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '윌리엄 H. 머시'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>더 매니저</td>
+					<td>Trust Me</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>드라마,코미디</td>
+					<td>조연-게리 역역</td>
+					<td>200,000</td>
+					<td>20</td>
+					<td>200,000</td>
+					<td>20</td>
+				</tr>
+			
+				<tr>
+					<td>러덜리스</td>
+					<td>Rudderless</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>감독</td>
+					<td>613,113,720</td>
+					<td>77,867</td>
+					<td>615,574,220</td>
+					<td>78,193</td>
+				</tr>
+			
+				<tr>
+					<td>세션 : 이 남자가 사랑하는 법   </td>
+					<td>The Sessions</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>98,352,500</td>
+					<td>12,430</td>
+					<td>98,352,500</td>
+					<td>12,430</td>
+				</tr>
+			
+				<tr>
+					<td>싱글 샷 </td>
+					<td>A Single Shot</td>
+					<td>2012</td>
+					<td>미국,캐나다,영국</td>
+					<td>범죄,스릴러</td>
+					<td>주연-피트역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>박물관을 털어라</td>
+					<td>The Maiden Heist </td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>코미디,액션,범죄</td>
+					<td>주연</td>
+					<td>270,000</td>
+					<td>54</td>
+					<td>270,000</td>
+					<td>54</td>
+				</tr>
+			
+				<tr>
+					<td>멕라이언의 프로포즈</td>
+					<td>The Deal</td>
+					<td>2008</td>
+					<td>캐나다,미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>바비</td>
+					<td>Bobby</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-폴역</td>
+					<td>22,454,545</td>
+					<td>2,867</td>
+					<td>22,102,000</td>
+					<td>2,821</td>
+				</tr>
+			
+				<tr>
+					<td>에브리원 히어로</td>
+					<td>Everyone&#039;s Hero</td>
+					<td>2006</td>
+					<td>캐나다,미국</td>
+					<td>애니메이션,어드벤처,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>에드몬드의 범죄</td>
+					<td>Edmond</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>셀룰러</td>
+					<td>Cellular</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>액션,범죄</td>
+					<td>주연-밥 무니역</td>
+					<td>0</td>
+					<td>45</td>
+					<td>311,000</td>
+					<td>47</td>
+				</tr>
+			
+				<tr>
+					<td>인 에너미 핸즈</td>
+					<td>In Enemy Hands</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>전쟁,드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>러브 인 카지노</td>
+					<td>The Cooler</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>쥬라기 공원 3</td>
+					<td>Jurassic Park 3 </td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>SF,어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>518,684</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>포커스</td>
+					<td>Focus</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스테이트 앤 메인</td>
+					<td>State and Main</td>
+					<td>2000</td>
+					<td>프랑스,미국</td>
+					<td>코미디,드라마</td>
+					<td>조연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>머더 게임</td>
+					<td>A Slight Case Of Murder</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>코미디,범죄,미스터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>미스테리 맨</td>
+					<td>Mystery Men</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>액션,코미디,판타지</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>마우스 킹 2</td>
+					<td>The Secret Of NIMH 2: Timmy To The Rescue</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>미녀 사기꾼</td>
+					<td>The Con</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>코미디,범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

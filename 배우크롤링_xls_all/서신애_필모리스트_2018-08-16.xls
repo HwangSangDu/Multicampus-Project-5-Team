@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '서신애'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>당신의 부탁</td>
+					<td>Mothers</td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-주미 역</td>
+					<td>206,762,428</td>
+					<td>25,787</td>
+					<td>206,762,428</td>
+					<td>25,787</td>
+				</tr>
+			
+				<tr>
+					<td>스타박&#039;스 다방</td>
+					<td>Bittersweet Brew</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>주연-최연서역</td>
+					<td>13,220,000</td>
+					<td>1,886</td>
+					<td>13,220,000</td>
+					<td>1,886</td>
+				</tr>
+			
+				<tr>
+					<td>미쓰 와이프</td>
+					<td>Wonderful Nightmare</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>7,387,086,869</td>
+					<td>988,451</td>
+					<td>7,387,086,869</td>
+					<td>988,451</td>
+				</tr>
+			
+				<tr>
+					<td>요나요나 펭귄</td>
+					<td>Yonayona Pengin</td>
+					<td>2009</td>
+					<td>일본,프랑스</td>
+					<td>애니메이션,어드벤처,가족</td>
+					<td>주연(목소리)</td>
+					<td>31,231,500</td>
+					<td>4,805</td>
+					<td>31,487,500</td>
+					<td>4,869</td>
+				</tr>
+			
+				<tr>
+					<td>내 사랑</td>
+					<td>Love, First</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>조연</td>
+					<td>432,940,833</td>
+					<td>977,401</td>
+					<td>6,315,244,000</td>
+					<td>962,134</td>
+				</tr>
+			
+				<tr>
+					<td>눈부신 날에</td>
+					<td>Meet Mr. Daddy</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>285,825</td>
+					<td>1,729,412,500</td>
+					<td>272,101</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,190 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '파브리스 루치니'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>슬랙 베이: 바닷가 마을의 비밀</td>
+					<td>SLACK BAY</td>
+					<td>2016</td>
+					<td>프랑스</td>
+					<td>미스터리,코미디</td>
+					<td>주연</td>
+					<td>7,332,600</td>
+					<td>1,019</td>
+					<td>10,164,700</td>
+					<td>1,372</td>
+				</tr>
+			
+				<tr>
+					<td>마이 맨</td>
+					<td>My Men</td>
+					<td>2015</td>
+					<td>프랑스</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>마담 보바리</td>
+					<td>Gemma Bovery</td>
+					<td>2014</td>
+					<td>프랑스</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>18,469,500</td>
+					<td>2,483</td>
+					<td>18,469,500</td>
+					<td>2,483</td>
+				</tr>
+			
+				<tr>
+					<td>인 더 하우스</td>
+					<td>In the House</td>
+					<td>2012</td>
+					<td>프랑스</td>
+					<td>스릴러,드라마</td>
+					<td>주연-제르망역</td>
+					<td>128,871,000</td>
+					<td>17,700</td>
+					<td>130,275,700</td>
+					<td>17,884</td>
+				</tr>
+			
+				<tr>
+					<td>몰리에르</td>
+					<td>Moliere</td>
+					<td>2007</td>
+					<td>프랑스</td>
+					<td>코미디</td>
+					<td>주연-마담 주르댕역</td>
+					<td></td>
+					<td></td>
+					<td>1,215,000</td>
+					<td>185</td>
+				</tr>
+			
+				<tr>
+					<td>친밀한 타인들</td>
+					<td>Intimate Strangers</td>
+					<td>2004</td>
+					<td>프랑스</td>
+					<td>멜로/로맨스</td>
+					<td>주연-윌리엄 역</td>
+					<td>0</td>
+					<td>7,386</td>
+					<td>49,291,100</td>
+					<td>7,337</td>
+				</tr>
+			
+				<tr>
+					<td>문제없음</td>
+					<td>Pas De Scandale</td>
+					<td>1999</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>보마르셰</td>
+					<td>Beaumarchais The Scoundrel</td>
+					<td>1996</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>476,000</td>
+					<td>97</td>
+				</tr>
+			
+				<tr>
+					<td>갈루아인 페르스발</td>
+					<td>Perceval</td>
+					<td>1978</td>
+					<td>프랑스,이탈리아,서독</td>
+					<td>사극</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>220,000</td>
+					<td>47</td>
+				</tr>
+			
+				<tr>
+					<td>부도덕한 이야기 </td>
+					<td>Immoral Tales</td>
+					<td>1973</td>
+					<td>프랑스</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,430,000</td>
+					<td>209</td>
+				</tr>
+			
+				<tr>
+					<td>클레르의 무릎</td>
+					<td>Claire&#039;s Knee</td>
+					<td>1970</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>조연</td>
+					<td></td>
+					<td></td>
+					<td>2,821,000</td>
+					<td>385</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

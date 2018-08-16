@@ -1,0 +1,86 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '샤니 빈슨'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>베이트</td>
+					<td>Bait</td>
+					<td>2012</td>
+					<td>호주</td>
+					<td>공포(호러)</td>
+					<td>주연-티나역</td>
+					<td>108,522,500</td>
+					<td>16,091</td>
+					<td>108,522,500</td>
+					<td>16,091</td>
+				</tr>
+			
+				<tr>
+					<td>유아 넥스트</td>
+					<td>You&#039;re Next</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>공포(호러),액션</td>
+					<td>주연</td>
+					<td>104,015,900</td>
+					<td>12,714</td>
+					<td>104,015,900</td>
+					<td>12,714</td>
+				</tr>
+			
+				<tr>
+					<td>스텝 업 3D</td>
+					<td>Step Up 3-D</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>7,462,604,919</td>
+					<td>682,712</td>
+					<td>7,345,439,000</td>
+					<td>671,845</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

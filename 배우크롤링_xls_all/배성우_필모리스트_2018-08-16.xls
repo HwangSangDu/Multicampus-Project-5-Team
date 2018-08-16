@@ -1,0 +1,541 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '배성우'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>안시성</td>
+					<td>The Great Battle</td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>사극,액션</td>
+					<td>조연-추수지역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>꾼</td>
+					<td>The Swindlers</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>범죄</td>
+					<td>조연</td>
+					<td>31,313,568,795</td>
+					<td>4,018,341</td>
+					<td>31,313,568,795</td>
+					<td>4,018,341</td>
+				</tr>
+			
+				<tr>
+					<td>더 킹</td>
+					<td>The King </td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>범죄,드라마</td>
+					<td>주연-양동철역</td>
+					<td>43,486,078,535</td>
+					<td>5,316,325</td>
+					<td>43,488,814,535</td>
+					<td>5,317,693</td>
+				</tr>
+			
+				<tr>
+					<td>사랑하기 때문에</td>
+					<td>BECAUSE I LOVE YOU</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>조연-안여돈역</td>
+					<td>2,672,853,440</td>
+					<td>340,830</td>
+					<td>2,673,489,440</td>
+					<td>340,936</td>
+				</tr>
+			
+				<tr>
+					<td>엽기적인 그녀 2</td>
+					<td>My New Sassy Girl</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>594,260,900</td>
+					<td>77,124</td>
+					<td>594,260,900</td>
+					<td>77,124</td>
+				</tr>
+			
+				<tr>
+					<td>섬. 사라진 사람들</td>
+					<td>NO TOMORROW</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>162,450,200</td>
+					<td>20,163</td>
+					<td>162,450,200</td>
+					<td>20,163</td>
+				</tr>
+			
+				<tr>
+					<td>나를 잊지 말아요</td>
+					<td>Remember You</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>조연-오권호역</td>
+					<td>3,409,535,000</td>
+					<td>427,197</td>
+					<td>3,409,535,000</td>
+					<td>427,197</td>
+				</tr>
+			
+				<tr>
+					<td>내부자들: 디 오리지널</td>
+					<td>Inside Men: The Original</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>범죄,드라마</td>
+					<td>조연</td>
+					<td>16,973,885,275</td>
+					<td>2,083,999</td>
+					<td>16,979,714,975</td>
+					<td>2,084,868</td>
+				</tr>
+			
+				<tr>
+					<td>열정같은소리하고있네</td>
+					<td>YOU CALL IT PASSION</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-한선우역</td>
+					<td>4,761,399,902</td>
+					<td>654,407</td>
+					<td>4,761,399,902</td>
+					<td>654,407</td>
+				</tr>
+			
+				<tr>
+					<td>내부자들</td>
+					<td>Inside Men</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>범죄,드라마</td>
+					<td>조연-박종팔 사장역</td>
+					<td>56,598,130,057</td>
+					<td>7,072,021</td>
+					<td>56,599,221,057</td>
+					<td>7,072,507</td>
+				</tr>
+			
+				<tr>
+					<td>더 폰</td>
+					<td>The Phone</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>스릴러,액션</td>
+					<td>주연</td>
+					<td>12,309,164,568</td>
+					<td>1,593,694</td>
+					<td>12,309,164,568</td>
+					<td>1,593,694</td>
+				</tr>
+			
+				<tr>
+					<td>특종: 량첸살인기</td>
+					<td>The Exclusive : Beat the Devil&#039;s Tattoo</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>조연</td>
+					<td>4,754,763,118</td>
+					<td>616,481</td>
+					<td>4,754,763,118</td>
+					<td>616,481</td>
+				</tr>
+			
+				<tr>
+					<td>뷰티 인사이드</td>
+					<td>The Beauty Inside</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>판타지,멜로/로맨스</td>
+					<td>주연-우진33역</td>
+					<td>16,155,795,131</td>
+					<td>2,054,297</td>
+					<td>16,184,831,031</td>
+					<td>2,057,896</td>
+				</tr>
+			
+				<tr>
+					<td>고백할 수 없는</td>
+					<td>Unconfessional</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>2,301,000</td>
+					<td>318</td>
+					<td>2,301,000</td>
+					<td>318</td>
+				</tr>
+			
+				<tr>
+					<td>오피스</td>
+					<td>Office</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>스릴러,미스터리</td>
+					<td>조연-김병국역</td>
+					<td>3,460,460,230</td>
+					<td>441,208</td>
+					<td>3,460,460,230</td>
+					<td>441,208</td>
+				</tr>
+			
+				<tr>
+					<td>베테랑</td>
+					<td>Veteran</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>액션,드라마</td>
+					<td>조연-중고차 매장 업주역</td>
+					<td>105,168,155,250</td>
+					<td>13,414,009</td>
+					<td>105,169,264,250</td>
+					<td>13,414,200</td>
+				</tr>
+			
+				<tr>
+					<td>워킹걸</td>
+					<td>Casa Amor; Exclusive for Ladies</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>조연-석수범역</td>
+					<td>1,201,963,479</td>
+					<td>151,550</td>
+					<td>1,201,963,479</td>
+					<td>151,550</td>
+				</tr>
+			
+				<tr>
+					<td>상의원</td>
+					<td>The Royal Tailor</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>사극,드라마</td>
+					<td>조연</td>
+					<td>6,202,433,964</td>
+					<td>790,158</td>
+					<td>6,204,129,964</td>
+					<td>790,370</td>
+				</tr>
+			
+				<tr>
+					<td>빅매치</td>
+					<td>Big Match</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>조연-도끼역</td>
+					<td>8,952,096,578</td>
+					<td>1,177,438</td>
+					<td>8,952,096,578</td>
+					<td>1,177,438</td>
+				</tr>
+			
+				<tr>
+					<td>나의 독재자</td>
+					<td>My Dictator</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-백사장역</td>
+					<td>2,906,692,546</td>
+					<td>385,934</td>
+					<td>2,907,311,546</td>
+					<td>386,072</td>
+				</tr>
+			
+				<tr>
+					<td>나의 사랑 나의 신부</td>
+					<td>My Love, My Bride</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>조연-달수역</td>
+					<td>16,636,404,305</td>
+					<td>2,141,155</td>
+					<td>16,636,404,305</td>
+					<td>2,141,155</td>
+				</tr>
+			
+				<tr>
+					<td>인간중독</td>
+					<td>Obsessed</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>조연-조학수역</td>
+					<td>11,284,787,400</td>
+					<td>1,441,964</td>
+					<td>11,285,050,400</td>
+					<td>1,441,990</td>
+				</tr>
+			
+				<tr>
+					<td>보호자</td>
+					<td>Guardian</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>범죄,드라마</td>
+					<td>주연-성혁역</td>
+					<td>3,561,500</td>
+					<td>458</td>
+					<td>3,561,500</td>
+					<td>458</td>
+				</tr>
+			
+				<tr>
+					<td>몬스터</td>
+					<td>Monster</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>조연-성문역</td>
+					<td>4,138,057,515</td>
+					<td>526,547</td>
+					<td>4,138,207,515</td>
+					<td>526,557</td>
+				</tr>
+			
+				<tr>
+					<td>캐치미</td>
+					<td>Steal My Heart</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>조연-박경사역</td>
+					<td>3,396,292,000</td>
+					<td>494,126</td>
+					<td>3,396,292,000</td>
+					<td>494,126</td>
+				</tr>
+			
+				<tr>
+					<td>집으로 가는 길</td>
+					<td>Way Back Home</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-추과장역</td>
+					<td>13,048,519,745</td>
+					<td>1,854,625</td>
+					<td>13,049,026,745</td>
+					<td>1,854,711</td>
+				</tr>
+			
+				<tr>
+					<td>파파로티</td>
+					<td>My Paparotti</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-경찬역</td>
+					<td>11,825,934,000</td>
+					<td>1,716,429</td>
+					<td>11,826,024,000</td>
+					<td>1,716,438</td>
+				</tr>
+			
+				<tr>
+					<td>공정사회</td>
+					<td>Azooma</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td>97,516,000</td>
+					<td>14,482</td>
+					<td>97,703,000</td>
+					<td>14,537</td>
+				</tr>
+			
+				<tr>
+					<td>남자사용설명서</td>
+					<td>How to Use Guys with Secret Tips</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>조연-진대표역</td>
+					<td>3,606,480,257</td>
+					<td>507,890</td>
+					<td>3,606,654,257</td>
+					<td>507,913</td>
+				</tr>
+			
+				<tr>
+					<td>범죄소년</td>
+					<td>Juvenile Offender</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-서울 보호관찰소 주무관역</td>
+					<td>82,327,800</td>
+					<td>11,868</td>
+					<td>94,526,800</td>
+					<td>14,190</td>
+				</tr>
+			
+				<tr>
+					<td>내가 살인범이다</td>
+					<td>Confession of Murder</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>액션,스릴러</td>
+					<td>조연</td>
+					<td>20,392,346,000</td>
+					<td>2,729,808</td>
+					<td>20,392,518,000</td>
+					<td>2,729,827</td>
+				</tr>
+			
+				<tr>
+					<td>사랑의 묘약</td>
+					<td>Love Potion</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마,코미디,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>313,250</td>
+					<td>247</td>
+				</tr>
+			
+				<tr>
+					<td>의뢰인</td>
+					<td>The Client</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>조연-박검사역</td>
+					<td>17,797,042,500</td>
+					<td>2,393,086</td>
+					<td>17,797,131,500</td>
+					<td>2,393,103</td>
+				</tr>
+			
+				<tr>
+					<td>카운트다운</td>
+					<td>Countdown</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마,액션</td>
+					<td>단역-안박사역</td>
+					<td>3,630,557,000</td>
+					<td>471,547</td>
+					<td>3,630,557,000</td>
+					<td>471,547</td>
+				</tr>
+			
+				<tr>
+					<td>모비딕</td>
+					<td>Moby Dick</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>스릴러,드라마</td>
+					<td>조연-맹사장역</td>
+					<td>3,264,596,000</td>
+					<td>430,936</td>
+					<td>3,264,596,000</td>
+					<td>430,936</td>
+				</tr>
+			
+				<tr>
+					<td>오늘 뭐해?</td>
+					<td>What the...?</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마,가족,코미디,미스터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>김복남 살인사건의 전말</td>
+					<td>Bedevilled</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>스릴러,드라마</td>
+					<td>조연-철종역</td>
+					<td>1,272,487,471</td>
+					<td>164,450</td>
+					<td>1,251,601,200</td>
+					<td>161,722</td>
+				</tr>
+			
+				<tr>
+					<td>미쓰 홍당무</td>
+					<td>Crush And Blush</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>조연-피부과 의사역</td>
+					<td>3,564,401,608</td>
+					<td>532,324</td>
+					<td>3,604,178,500</td>
+					<td>539,110</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

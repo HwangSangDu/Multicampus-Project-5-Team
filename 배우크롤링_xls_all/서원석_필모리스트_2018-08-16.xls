@@ -1,0 +1,164 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '서원석'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>벅스 프렌즈</td>
+					<td>The Ladybug</td>
+					<td>2018</td>
+					<td>중국</td>
+					<td>애니메이션</td>
+					<td>주연-코끼리벌레 / 말벌부하1 / 빈대 목소리역(목소리)</td>
+					<td>281,174,700</td>
+					<td>36,516</td>
+					<td>283,664,600</td>
+					<td>36,905</td>
+				</tr>
+			
+				<tr>
+					<td>오즈: 신기한 마법가루</td>
+					<td>Urfin and His Wooden Soldiers</td>
+					<td>2017</td>
+					<td>러시아</td>
+					<td>애니메이션,어드벤처,가족</td>
+					<td>조연-나무꾼 목소리역(목소리)</td>
+					<td>565,456,600</td>
+					<td>78,440</td>
+					<td>565,456,600</td>
+					<td>78,440</td>
+				</tr>
+			
+				<tr>
+					<td>극장판 파워레인저: 닌자포스 VS 트레인포스 닌자 인 원더랜드</td>
+					<td>Shuriken Sentai Ninninja tai Ressha Sentai Tokkyuja Za Mubi Ninja In Wandarando</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>액션</td>
+					<td>조연-무현/트레인6호역(목소리)</td>
+					<td>504,023,800</td>
+					<td>64,642</td>
+					<td>504,023,800</td>
+					<td>64,642</td>
+				</tr>
+			
+				<tr>
+					<td>리틀 폭스</td>
+					<td>Little Fox</td>
+					<td>2016</td>
+					<td>중국</td>
+					<td>애니메이션</td>
+					<td>주연-날쌘돌이역(목소리)</td>
+					<td>119,098,500</td>
+					<td>16,204</td>
+					<td>119,699,500</td>
+					<td>16,314</td>
+				</tr>
+			
+				<tr>
+					<td>플래그 더 문</td>
+					<td>Capture the Flag</td>
+					<td>2015</td>
+					<td>스페인</td>
+					<td>애니메이션,어드벤처</td>
+					<td>조연-스캇역(목소리)</td>
+					<td>327,288,000</td>
+					<td>44,572</td>
+					<td>327,298,000</td>
+					<td>44,574</td>
+				</tr>
+			
+				<tr>
+					<td>붕붕 달려라 깜이</td>
+					<td>Raven the Little Rascal - The Big Race</td>
+					<td>2015</td>
+					<td>독일</td>
+					<td>애니메이션</td>
+					<td>주연</td>
+					<td>53,398,100</td>
+					<td>7,556</td>
+					<td>53,398,100</td>
+					<td>7,556</td>
+				</tr>
+			
+				<tr>
+					<td>꼬마 잠수함 올리 2</td>
+					<td>Dive Olly Dive : Happy Little Submarines</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td>213,155,700</td>
+					<td>33,668</td>
+					<td>213,155,700</td>
+					<td>33,668</td>
+				</tr>
+			
+				<tr>
+					<td>날으는 돼지 - 해적 마테오</td>
+					<td>MATEO</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>애니메이션</td>
+					<td>단역-경비병/조타수/보초 역(목소리)-팅고 역</td>
+					<td>0</td>
+					<td>125,000</td>
+					<td>39,599,000</td>
+					<td>6,495</td>
+				</tr>
+			
+				<tr>
+					<td>드래곤볼Z 4th : 손오공은 슈퍼사이어인</td>
+					<td></td>
+					<td>1991</td>
+					<td>일본</td>
+					<td>액션,애니메이션</td>
+					<td>주연-피콜로 목소리 역 역(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

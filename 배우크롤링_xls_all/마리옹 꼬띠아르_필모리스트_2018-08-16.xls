@@ -1,0 +1,359 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '마리옹 꼬띠아르'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>얼라이드</td>
+					<td>Allied</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>스릴러,드라마,멜로/로맨스</td>
+					<td>주연-매리앤역</td>
+					<td>4,290,805,179</td>
+					<td>520,448</td>
+					<td>4,290,805,179</td>
+					<td>520,448</td>
+				</tr>
+			
+				<tr>
+					<td>단지 세상의 끝</td>
+					<td>It&#039;s Only the End of the World</td>
+					<td>2016</td>
+					<td>캐나다,프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>247,540,173</td>
+					<td>31,497</td>
+					<td>248,323,173</td>
+					<td>31,586</td>
+				</tr>
+			
+				<tr>
+					<td>어쌔신 크리드</td>
+					<td>Assassin&#039;s Creed</td>
+					<td>2016</td>
+					<td>미국,영국,프랑스</td>
+					<td>액션,어드벤처,판타지,SF</td>
+					<td>주연</td>
+					<td>2,899,784,921</td>
+					<td>355,913</td>
+					<td>2,899,784,921</td>
+					<td>355,913</td>
+				</tr>
+			
+				<tr>
+					<td>달나라에 사는 여인</td>
+					<td>From the Land of the Moon</td>
+					<td>2016</td>
+					<td>프랑스</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>어린왕자</td>
+					<td>The Little Prince</td>
+					<td>2015</td>
+					<td>프랑스</td>
+					<td>애니메이션,판타지,어드벤처</td>
+					<td>주연(목소리)</td>
+					<td>4,336,252,627</td>
+					<td>579,130</td>
+					<td>4,337,674,627</td>
+					<td>579,367</td>
+				</tr>
+			
+				<tr>
+					<td>맥베스</td>
+					<td>Macbeth</td>
+					<td>2015</td>
+					<td>영국,프랑스,미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>745,585,853</td>
+					<td>98,237</td>
+					<td>747,493,853</td>
+					<td>98,516</td>
+				</tr>
+			
+				<tr>
+					<td>디올 앤 아이</td>
+					<td>Dior and I</td>
+					<td>2014</td>
+					<td>프랑스</td>
+					<td>다큐멘터리</td>
+					<td>주연</td>
+					<td>82,214,000</td>
+					<td>10,085</td>
+					<td>82,214,000</td>
+					<td>10,085</td>
+				</tr>
+			
+				<tr>
+					<td>내일을 위한 시간</td>
+					<td>Two Days, One Night</td>
+					<td>2014</td>
+					<td>벨기에,프랑스,이탈리아</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>333,951,900</td>
+					<td>41,557</td>
+					<td>341,231,900</td>
+					<td>42,468</td>
+				</tr>
+			
+				<tr>
+					<td>랜드 오브 베어스</td>
+					<td>Land of the Bears</td>
+					<td>2014</td>
+					<td>프랑스</td>
+					<td>다큐멘터리</td>
+					<td>주연-내레이션역(목소리)</td>
+					<td>8,000</td>
+					<td>1</td>
+					<td>8,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>이민자</td>
+					<td>The Immigrant</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>드라마,미스터리,멜로/로맨스</td>
+					<td>주연</td>
+					<td>130,809,123</td>
+					<td>16,667</td>
+					<td>133,461,123</td>
+					<td>16,994</td>
+				</tr>
+			
+				<tr>
+					<td>블러드 타이즈 </td>
+					<td>Blood Ties</td>
+					<td>2013</td>
+					<td>프랑스,미국</td>
+					<td>범죄,액션,드라마</td>
+					<td>주연</td>
+					<td>41,526,500</td>
+					<td>5,828</td>
+					<td>41,526,500</td>
+					<td>5,828</td>
+				</tr>
+			
+				<tr>
+					<td>러스트 앤 본</td>
+					<td>Rust &amp; Bone</td>
+					<td>2012</td>
+					<td>프랑스</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>239,980,900</td>
+					<td>31,766</td>
+					<td>243,290,900</td>
+					<td>32,165</td>
+				</tr>
+			
+				<tr>
+					<td>미드나잇 인 파리</td>
+					<td>Midnight In Paris</td>
+					<td>2011</td>
+					<td>미국,스페인</td>
+					<td>코미디,멜로/로맨스,판타지</td>
+					<td>주연</td>
+					<td>2,638,444,898</td>
+					<td>355,851</td>
+					<td>2,786,600,517</td>
+					<td>376,307</td>
+				</tr>
+			
+				<tr>
+					<td>프렌즈 : 하얀 거짓말</td>
+					<td>Little White Lies</td>
+					<td>2010</td>
+					<td>프랑스</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>35,658,700</td>
+					<td>5,073</td>
+					<td>35,658,700</td>
+					<td>5,073</td>
+				</tr>
+			
+				<tr>
+					<td>인셉션</td>
+					<td>Inception</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>드라마,미스터리</td>
+					<td>조연</td>
+					<td>44,106,546,302</td>
+					<td>5,926,948</td>
+					<td>43,481,471,000</td>
+					<td>5,835,017</td>
+				</tr>
+			
+				<tr>
+					<td>오션월드 3D</td>
+					<td>Ocean World 3D</td>
+					<td>2009</td>
+					<td>영국</td>
+					<td>다큐멘터리,어드벤처</td>
+					<td>주연(목소리)</td>
+					<td>1,394,663,380</td>
+					<td>132,602</td>
+					<td>1,372,766,600</td>
+					<td>130,491</td>
+				</tr>
+			
+				<tr>
+					<td>나인</td>
+					<td>Nine</td>
+					<td>2009</td>
+					<td>미국,이탈리아</td>
+					<td>멜로/로맨스,뮤지컬</td>
+					<td>주연</td>
+					<td>3,790,050,942</td>
+					<td>499,838</td>
+					<td>3,729,452,500</td>
+					<td>491,162</td>
+				</tr>
+			
+				<tr>
+					<td>라 비 앙 로즈</td>
+					<td>La Vie En Rose</td>
+					<td>2007</td>
+					<td>프랑스,영국,체코</td>
+					<td>드라마</td>
+					<td>주연-에디트 피아프역</td>
+					<td>0</td>
+					<td>111,048</td>
+					<td>718,774,500</td>
+					<td>111,249</td>
+				</tr>
+			
+				<tr>
+					<td>어느 멋진 순간</td>
+					<td>A Good Year</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-페니역</td>
+					<td>0</td>
+					<td>248,711</td>
+					<td>1,206,230,500</td>
+					<td>193,013</td>
+				</tr>
+			
+				<tr>
+					<td>검은상자</td>
+					<td>The Black Box</td>
+					<td>2005</td>
+					<td>프랑스</td>
+					<td>스릴러,미스터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>러브 미 이프 유 대어</td>
+					<td>Love Me If You Dare(Jeux D&#039;Enfants)</td>
+					<td>2004</td>
+					<td>프랑스</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>54,000</td>
+					<td>72,375,500</td>
+					<td>11,266</td>
+				</tr>
+			
+				<tr>
+					<td>리자</td>
+					<td>Lisa</td>
+					<td>2001</td>
+					<td>프랑스,스위스</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아름다운 기억</td>
+					<td>Les Jolies Choses</td>
+					<td>2001</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>강대국의 전쟁</td>
+					<td>War In The Highlands</td>
+					<td>1999</td>
+					<td>스위스,프랑스,벨기에</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

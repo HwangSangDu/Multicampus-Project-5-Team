@@ -1,0 +1,164 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '레이첼 니콜스'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>더 게스트</td>
+					<td>Inside </td>
+					<td>2017</td>
+					<td>스페인</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>판더믹</td>
+					<td>Pandemic</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>2,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>토카레브</td>
+					<td>Tokarev </td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>액션,범죄,스릴러</td>
+					<td>주연</td>
+					<td>17,706,000</td>
+					<td>3,375</td>
+					<td>17,706,000</td>
+					<td>3,375</td>
+				</tr>
+			
+				<tr>
+					<td>알렉스 크로스</td>
+					<td>Alex Cross</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>164,165,000</td>
+					<td>22,978</td>
+					<td>164,165,000</td>
+					<td>22,978</td>
+				</tr>
+			
+				<tr>
+					<td>레이즈:데스매치</td>
+					<td>Raze</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션,공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>코난: 암흑의 시대</td>
+					<td>Conan the barbarian</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>판타지,액션</td>
+					<td>주연-타마라역</td>
+					<td>260,491,000</td>
+					<td>33,683</td>
+					<td>260,491,000</td>
+					<td>33,683</td>
+				</tr>
+			
+				<tr>
+					<td>메스카다</td>
+					<td>MESKADA</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>범죄,드라마,스릴러</td>
+					<td>조연</td>
+					<td>600,000</td>
+					<td>40</td>
+					<td>600,000</td>
+					<td>40</td>
+				</tr>
+			
+				<tr>
+					<td>P2</td>
+					<td>P2</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>덤 앤 더머러: 해리가 로이드를 만났을 때 </td>
+					<td>Dumb and Dumberer: When Harry Met Lloyd</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

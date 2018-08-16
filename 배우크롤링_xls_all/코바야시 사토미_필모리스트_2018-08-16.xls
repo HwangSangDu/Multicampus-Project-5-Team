@@ -1,0 +1,164 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '코바야시 사토미'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>개에게 처음 이름을 지어준 날</td>
+					<td>Dogs Without Names</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>드라마,다큐멘터리</td>
+					<td>주연</td>
+					<td>14,306,000</td>
+					<td>2,008</td>
+					<td>14,306,000</td>
+					<td>2,008</td>
+				</tr>
+			
+				<tr>
+					<td>태풍이 지나가고</td>
+					<td>After the Storm</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>772,484,972</td>
+					<td>93,005</td>
+					<td>775,662,972</td>
+					<td>93,394</td>
+				</tr>
+			
+				<tr>
+					<td>산의 톰씨</td>
+					<td>Mountain days with Tom-san</td>
+					<td>2015</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>33,000</td>
+					<td>11</td>
+					<td>33,000</td>
+					<td>11</td>
+				</tr>
+			
+				<tr>
+					<td>종이 달</td>
+					<td>Pale Moon</td>
+					<td>2014</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>197,236,200</td>
+					<td>24,381</td>
+					<td>197,445,216</td>
+					<td>24,418</td>
+				</tr>
+			
+				<tr>
+					<td>도쿄 오아시스</td>
+					<td>Tokyo Oasis</td>
+					<td>2011</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>26,521,200</td>
+					<td>3,352</td>
+					<td>26,869,200</td>
+					<td>3,403</td>
+				</tr>
+			
+				<tr>
+					<td>수영장</td>
+					<td>Pool</td>
+					<td>2009</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>51,216,500</td>
+					<td>6,587</td>
+					<td>52,081,500</td>
+					<td>6,711</td>
+				</tr>
+			
+				<tr>
+					<td>두꺼비 기름</td>
+					<td>Toad&#039;s Oil</td>
+					<td>2009</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>안경</td>
+					<td>Glasses</td>
+					<td>2007</td>
+					<td>일본</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>9,997</td>
+					<td>74,620,500</td>
+					<td>10,710</td>
+				</tr>
+			
+				<tr>
+					<td>카모메 식당</td>
+					<td>Kamome Diner</td>
+					<td>2006</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>6,997</td>
+					<td>41,594,000</td>
+					<td>6,361</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

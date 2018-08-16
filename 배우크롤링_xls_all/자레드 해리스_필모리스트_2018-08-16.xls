@@ -1,0 +1,190 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '자레드 해리스'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>얼라이드</td>
+					<td>Allied</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>스릴러,드라마,멜로/로맨스</td>
+					<td>조연</td>
+					<td>4,290,805,179</td>
+					<td>520,448</td>
+					<td>4,290,805,179</td>
+					<td>520,448</td>
+				</tr>
+			
+				<tr>
+					<td>라스트 페이스</td>
+					<td>THE LAST FACE</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>폴터가이스트</td>
+					<td>Poltergeist</td>
+					<td>2015</td>
+					<td>미국,캐나다</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연-캐리건 버크 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>콰이어트 원</td>
+					<td>The Quiet Ones</td>
+					<td>2014</td>
+					<td>영국,미국</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td>75,213,500</td>
+					<td>9,736</td>
+					<td>75,213,500</td>
+					<td>9,736</td>
+				</tr>
+			
+				<tr>
+					<td>폼페이: 최후의 날</td>
+					<td>Pompeii</td>
+					<td>2014</td>
+					<td>미국,독일</td>
+					<td>액션,어드벤처,드라마</td>
+					<td>조연</td>
+					<td>10,303,127,700</td>
+					<td>1,373,873</td>
+					<td>10,303,127,700</td>
+					<td>1,373,873</td>
+				</tr>
+			
+				<tr>
+					<td>파가니니: 악마의 바이올리니스트</td>
+					<td>Paganini: The Devil’s Violinist</td>
+					<td>2013</td>
+					<td>독일,이탈리아</td>
+					<td>드라마,뮤지컬</td>
+					<td>주연</td>
+					<td>270,820,700</td>
+					<td>36,808</td>
+					<td>270,820,700</td>
+					<td>36,808</td>
+				</tr>
+			
+				<tr>
+					<td>더 워드</td>
+					<td>The Ward</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,000,000</td>
+					<td>200</td>
+				</tr>
+			
+				<tr>
+					<td>이웃집 개 죽이는 법</td>
+					<td>How To Kill Your Neighbor&#039;s Dog</td>
+					<td>2000</td>
+					<td>독일,미국</td>
+					<td>코미디,드라마</td>
+					<td>조연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>서양경</td>
+					<td>Shadow Magic</td>
+					<td>1999</td>
+					<td>중국,독일,대만,미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>일요일</td>
+					<td>Sunday</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-레이역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>올리버 스톤의 킬러 </td>
+					<td>Natural Born Killer</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>57,913</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

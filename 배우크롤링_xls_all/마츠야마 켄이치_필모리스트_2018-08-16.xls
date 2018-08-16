@@ -1,0 +1,281 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '마츠야마 켄이치'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>분노</td>
+					<td>RAGE</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>234,732,537</td>
+					<td>29,061</td>
+					<td>235,703,037</td>
+					<td>29,224</td>
+				</tr>
+			
+				<tr>
+					<td>썸씽 라이크 썸씽 라이크 잇</td>
+					<td>Something Like Something Like It</td>
+					<td>2015</td>
+					<td>일본</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>집으로 간다</td>
+					<td>Homeland</td>
+					<td>2014</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>603,000</td>
+					<td>99</td>
+					<td>603,000</td>
+					<td>99</td>
+				</tr>
+			
+				<tr>
+					<td>버니드롭</td>
+					<td>Usagi doroppu</td>
+					<td>2011</td>
+					<td>일본</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>55,046,000</td>
+					<td>7,305</td>
+					<td>55,046,000</td>
+					<td>7,305</td>
+				</tr>
+			
+				<tr>
+					<td>마이 백 페이지</td>
+					<td>My Back Pages</td>
+					<td>2011</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>18,360,600</td>
+					<td>2,422</td>
+					<td>18,944,600</td>
+					<td>2,543</td>
+				</tr>
+			
+				<tr>
+					<td>간츠: 퍼펙트 앤서</td>
+					<td>Gantz: Perfect Answer</td>
+					<td>2011</td>
+					<td>일본</td>
+					<td>SF,공포(호러),액션</td>
+					<td>주연-카토 마사루역</td>
+					<td>34,376,500</td>
+					<td>4,247</td>
+					<td>34,376,500</td>
+					<td>4,247</td>
+				</tr>
+			
+				<tr>
+					<td>간츠</td>
+					<td>GANTZ</td>
+					<td>2011</td>
+					<td>일본</td>
+					<td>액션,SF</td>
+					<td>주연</td>
+					<td>42,883,500</td>
+					<td>5,798</td>
+					<td>42,892,500</td>
+					<td>5,802</td>
+				</tr>
+			
+				<tr>
+					<td>상실의 시대</td>
+					<td>Norwegian Wood</td>
+					<td>2010</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연-와타나베역</td>
+					<td>144,737,800</td>
+					<td>18,872</td>
+					<td>145,553,800</td>
+					<td>18,967</td>
+				</tr>
+			
+				<tr>
+					<td>울트라 미라클 러브 스토리</td>
+					<td>Ultra Miracle Lovestory</td>
+					<td>2009</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연-미즈키 아키토 역</td>
+					<td>4,473,600</td>
+					<td>647</td>
+					<td>4,473,600</td>
+					<td>647</td>
+				</tr>
+			
+				<tr>
+					<td>카무이 외전</td>
+					<td>Kamui</td>
+					<td>2009</td>
+					<td>일본</td>
+					<td>액션,사극</td>
+					<td>주연</td>
+					<td>1,633,500</td>
+					<td>207</td>
+					<td>1,633,500</td>
+					<td>207</td>
+				</tr>
+			
+				<tr>
+					<td>디트로이트 메탈 시티</td>
+					<td>Detroit Metal City</td>
+					<td>2008</td>
+					<td>일본</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>55,529,146</td>
+					<td>8,202</td>
+					<td>55,255,500</td>
+					<td>8,162</td>
+				</tr>
+			
+				<tr>
+					<td>데스노트 L: 새로운 시작</td>
+					<td>L : Change The World</td>
+					<td>2008</td>
+					<td>일본</td>
+					<td>스릴러,판타지</td>
+					<td>주연-L역</td>
+					<td>2,174,665,500</td>
+					<td>358,046</td>
+					<td>2,171,448,000</td>
+					<td>355,158</td>
+				</tr>
+			
+				<tr>
+					<td>열흘 밤의 꿈</td>
+					<td>Ten Nights Of Dreams</td>
+					<td>2007</td>
+					<td>일본</td>
+					<td>판타지,코미디,드라마</td>
+					<td>주연</td>
+					<td>4,159,435</td>
+					<td>640</td>
+					<td>4,776,500</td>
+					<td>781</td>
+				</tr>
+			
+				<tr>
+					<td>남의 섹스를 비웃지마</td>
+					<td>Don&#039;t Laugh At My Romance</td>
+					<td>2007</td>
+					<td>일본</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연-미루메역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>돌핀 블루</td>
+					<td>Dolphin Blue</td>
+					<td>2007</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연-카즈야역</td>
+					<td></td>
+					<td></td>
+					<td>375,000</td>
+					<td>51</td>
+				</tr>
+			
+				<tr>
+					<td>신동</td>
+					<td>Genius</td>
+					<td>2007</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>데스노트 : 라스트 네임</td>
+					<td>Death Note: The Last Name</td>
+					<td>2006</td>
+					<td>일본</td>
+					<td>범죄,드라마,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>596,484</td>
+					<td>3,171,417,500</td>
+					<td>563,165</td>
+				</tr>
+			
+				<tr>
+					<td>데스노트</td>
+					<td>Death Note</td>
+					<td>2006</td>
+					<td>일본</td>
+					<td>범죄,스릴러,드라마</td>
+					<td>주연-L역</td>
+					<td>0</td>
+					<td>777,230</td>
+					<td>3,704,184,000</td>
+					<td>646,687</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,190 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '수애'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>상류사회</td>
+					<td>High Society</td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-오수연역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>국가대표 2</td>
+					<td>RUN OFF</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-리지원역</td>
+					<td>5,482,232,042</td>
+					<td>709,929</td>
+					<td>5,483,360,042</td>
+					<td>710,117</td>
+				</tr>
+			
+				<tr>
+					<td>감기</td>
+					<td>Flu</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>드라마,어드벤처,액션</td>
+					<td>주연-인혜역</td>
+					<td>21,784,202,000</td>
+					<td>3,119,023</td>
+					<td>21,774,884,000</td>
+					<td>3,117,859</td>
+				</tr>
+			
+				<tr>
+					<td>아테나: 전쟁의 여신</td>
+					<td>Athena : The Movie</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>주연-NTS 특수요원, 윤혜인역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>심야의 F.M.</td>
+					<td>Midnight F.M.</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>스릴러,범죄</td>
+					<td>주연-DJ, 고선영역</td>
+					<td>9,328,562,568</td>
+					<td>1,228,673</td>
+					<td>9,179,188,500</td>
+					<td>1,208,310</td>
+				</tr>
+			
+				<tr>
+					<td>불꽃처럼 나비처럼</td>
+					<td>The Sword With No Name</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>멜로/로맨스,사극</td>
+					<td>주연-명성황후, 민자영 역</td>
+					<td>12,447,633,504</td>
+					<td>1,690,294</td>
+					<td>12,302,961,500</td>
+					<td>1,670,652</td>
+				</tr>
+			
+				<tr>
+					<td>티파니에서 아침을</td>
+					<td></td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>님은 먼 곳에</td>
+					<td>Sunny</td>
+					<td>2008</td>
+					<td>한국,태국</td>
+					<td>드라마,전쟁</td>
+					<td>주연-시골 아낙, 순이｜가수, 써니역</td>
+					<td>11,211,235,000</td>
+					<td>1,706,576</td>
+					<td>11,206,382,000</td>
+					<td>1,706,495</td>
+				</tr>
+			
+				<tr>
+					<td>그해 여름</td>
+					<td>Once in a Summer</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연-서정인역</td>
+					<td>0</td>
+					<td>336,065</td>
+					<td>1,744,090,200</td>
+					<td>290,564</td>
+				</tr>
+			
+				<tr>
+					<td>나의 결혼원정기</td>
+					<td>My Wedding Campaign</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-우즈베키스탄 현지 통역관 김라라역</td>
+					<td>0</td>
+					<td>767,657</td>
+					<td>3,860,195,500</td>
+					<td>632,553</td>
+				</tr>
+			
+				<tr>
+					<td>가족</td>
+					<td>A Family</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-이정은역</td>
+					<td>0</td>
+					<td>1,932,304</td>
+					<td>8,051,239,500</td>
+					<td>1,270,581</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '에드 스크레인'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>알리타: 배틀 엔젤</td>
+					<td>Alita: Battle Angel</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>액션,어드벤처,멜로/로맨스,SF,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>인 다크니스</td>
+					<td>In Darkness</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>더 모델</td>
+					<td>The Model</td>
+					<td>2016</td>
+					<td>덴마크</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>224,000</td>
+					<td>55</td>
+					<td>224,000</td>
+					<td>55</td>
+				</tr>
+			
+				<tr>
+					<td>데드풀</td>
+					<td>Deadpool</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,SF</td>
+					<td>주연</td>
+					<td>27,595,618,651</td>
+					<td>3,317,196</td>
+					<td>27,595,618,651</td>
+					<td>3,317,196</td>
+				</tr>
+			
+				<tr>
+					<td>트랜스포터: 리퓰드</td>
+					<td>The Transporter Refueled</td>
+					<td>2015</td>
+					<td>프랑스,중국</td>
+					<td>액션,범죄,스릴러</td>
+					<td>주연</td>
+					<td>1,263,319,115</td>
+					<td>161,245</td>
+					<td>1,263,319,115</td>
+					<td>161,245</td>
+				</tr>
+			
+				<tr>
+					<td>노스맨: 바이킹과 늑대군단</td>
+					<td>Northmen: A Viking Saga</td>
+					<td>2014</td>
+					<td>스위스,독일,남아프리카공화국</td>
+					<td>액션,어드벤처</td>
+					<td>주연</td>
+					<td>300,000</td>
+					<td>60</td>
+					<td>300,000</td>
+					<td>60</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

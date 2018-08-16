@@ -1,0 +1,255 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '페이 더너웨이'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>예수는 역사다</td>
+					<td>The Case for Christ</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>1,242,169,400</td>
+					<td>172,414</td>
+					<td>1,245,454,400</td>
+					<td>173,001</td>
+				</tr>
+			
+				<tr>
+					<td>더 야드</td>
+					<td>The Yards</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>범죄,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>455</td>
+					<td>214,000</td>
+					<td>42</td>
+				</tr>
+			
+				<tr>
+					<td>쟌다르크</td>
+					<td>The Messenger: The Story Of Joan Of Arc</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>사극,드라마,전쟁</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>220,986</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>알비노 앨리게이터</td>
+					<td>Albino Alligator</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>스릴러,드라마,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>102</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>내 이름은 던스턴</td>
+					<td>Dunston Check In</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>코미디,어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>8,032</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>핸드 메이즈</td>
+					<td>The Handmaid&#039;S Tale</td>
+					<td>1991</td>
+					<td>미국</td>
+					<td>드라마,SF</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>30,193</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>갬블</td>
+					<td>The Gamble </td>
+					<td>1991</td>
+					<td>이탈리아</td>
+					<td></td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>타버린 비밀</td>
+					<td>Burning Secret</td>
+					<td>1988</td>
+					<td>오스트리아 </td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>20,865</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>챔프</td>
+					<td>The Champ</td>
+					<td>1979</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>559,691</td>
+					<td>5,178,000</td>
+					<td>2,535</td>
+				</tr>
+			
+				<tr>
+					<td>타워링</td>
+					<td>The Towering Inferno</td>
+					<td>1974</td>
+					<td>미국</td>
+					<td>드라마,스릴러,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>678,233</td>
+					<td>12,984,000</td>
+					<td>6,299</td>
+				</tr>
+			
+				<tr>
+					<td>차이나타운</td>
+					<td>Chinatown</td>
+					<td>1974</td>
+					<td>미국</td>
+					<td>범죄,미스터리,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>2,934,000</td>
+					<td>530</td>
+				</tr>
+			
+				<tr>
+					<td>파리는 안개에 젖어</td>
+					<td>House Under The Tree</td>
+					<td>1971</td>
+					<td>프랑스,이탈리아</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>199,264</td>
+					<td>379,000</td>
+					<td>91</td>
+				</tr>
+			
+				<tr>
+					<td>작은거인</td>
+					<td>Little Big Man</td>
+					<td>1970</td>
+					<td>미국</td>
+					<td>드라마,서부극(웨스턴),어드벤처,전쟁</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>113,260</td>
+					<td>250,000</td>
+					<td>53</td>
+				</tr>
+			
+				<tr>
+					<td>열망</td>
+					<td>The Arrangement</td>
+					<td>1969</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>316,000</td>
+					<td>68</td>
+				</tr>
+			
+				<tr>
+					<td>연인들의 장소</td>
+					<td>A Place For Lovers</td>
+					<td>1968</td>
+					<td>프랑스,이탈리아</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>102,030</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>우리에게 내일은 없다</td>
+					<td>Bonnie And Clyde</td>
+					<td>1967</td>
+					<td>미국</td>
+					<td>범죄,드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>518,000</td>
+					<td>99</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

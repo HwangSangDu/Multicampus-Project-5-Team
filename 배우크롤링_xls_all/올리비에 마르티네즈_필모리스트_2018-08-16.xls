@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '올리비에 마르티네즈'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>다크 타이드</td>
+					<td>Dark Tide</td>
+					<td>2012</td>
+					<td>미국,남아프리카공화국</td>
+					<td>어드벤처,스릴러</td>
+					<td>주연</td>
+					<td>10,000</td>
+					<td>1</td>
+					<td>10,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>언페이스풀</td>
+					<td>Unfaithful</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>121,619</td>
+					<td>114,000</td>
+					<td>38</td>
+				</tr>
+			
+				<tr>
+					<td>천사의 살인</td>
+					<td>Semana Santa</td>
+					<td>2002</td>
+					<td>독일,영국,프랑스,이탈리아,스페인,덴마크</td>
+					<td>스릴러,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>비포 나잇 폴스</td>
+					<td>Before Night Falls</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>3,022</td>
+					<td>6,567,000</td>
+					<td>948</td>
+				</tr>
+			
+				<tr>
+					<td>불 파이터</td>
+					<td>Bullfighter</td>
+					<td>2000</td>
+					<td>스페인</td>
+					<td>액션,판타지</td>
+					<td>주연-쟈끄 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>지붕 위의 기병 </td>
+					<td>Le Hussard Sur Le Toit</td>
+					<td>1996</td>
+					<td>프랑스</td>
+					<td>사극,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>10,174</td>
+					<td>151,000</td>
+					<td>19</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

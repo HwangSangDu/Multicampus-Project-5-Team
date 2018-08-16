@@ -1,0 +1,229 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '담요문'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>무림신공: 벽력화</td>
+					<td>Qin Ming</td>
+					<td>2015</td>
+					<td>중국</td>
+					<td>액션,어드벤처</td>
+					<td>주연</td>
+					<td>132,000</td>
+					<td>58</td>
+					<td>132,000</td>
+					<td>58</td>
+				</tr>
+			
+				<tr>
+					<td>정 검-금의위</td>
+					<td>The Spirit of the Swords</td>
+					<td>2015</td>
+					<td>중국</td>
+					<td>액션,드라마</td>
+					<td>조연</td>
+					<td>313,000</td>
+					<td>70</td>
+					<td>313,000</td>
+					<td>70</td>
+				</tr>
+			
+				<tr>
+					<td>엽문3: 최후의 대결</td>
+					<td>Ip Man 3</td>
+					<td>2015</td>
+					<td>홍콩</td>
+					<td>액션,드라마</td>
+					<td>주연</td>
+					<td>393,068,600</td>
+					<td>46,970</td>
+					<td>393,844,600</td>
+					<td>47,108</td>
+				</tr>
+			
+				<tr>
+					<td>기항지</td>
+					<td>Port of Call</td>
+					<td>2015</td>
+					<td>홍콩</td>
+					<td>범죄,드라마,미스터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>열혈강도: 위장 경찰 사기단</td>
+					<td>Two Thumbs Up</td>
+					<td>2015</td>
+					<td>홍콩</td>
+					<td>액션,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>지옥제19층</td>
+					<td>Naraka 19 </td>
+					<td>2007</td>
+					<td>홍콩</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>비호웅사</td>
+					<td>The New Option</td>
+					<td>2002</td>
+					<td>홍콩</td>
+					<td>액션,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>구용병</td>
+					<td>Killers from Beijing</td>
+					<td>2000</td>
+					<td>홍콩</td>
+					<td>액션,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>천유안</td>
+					<td>Comeuppance</td>
+					<td>2000</td>
+					<td>홍콩</td>
+					<td></td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>퍼플 스톰</td>
+					<td>Purple Storm</td>
+					<td>1999</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>13,541</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>천왕지왕 2000</td>
+					<td>The Tricky Master</td>
+					<td>1999</td>
+					<td>홍콩</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>60</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>777 너를 사랑한 스파이</td>
+					<td>My Loving Trouble 7</td>
+					<td>1999</td>
+					<td>홍콩</td>
+					<td>액션,코미디</td>
+					<td>주연-제임스역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>분소해</td>
+					<td>Crying Heart</td>
+					<td>1999</td>
+					<td>홍콩</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>지존무명</td>
+					<td>Point Of No Return</td>
+					<td>1990</td>
+					<td>홍콩</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>15,262</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

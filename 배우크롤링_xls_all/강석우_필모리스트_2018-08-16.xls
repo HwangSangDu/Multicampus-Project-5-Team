@@ -1,0 +1,268 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '강석우'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>그 사람 그 사랑 그 세상</td>
+					<td>He Who Loves the World</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>다큐멘터리</td>
+					<td>주연(목소리)</td>
+					<td>189,858,500</td>
+					<td>25,649</td>
+					<td>302,923,000</td>
+					<td>42,337</td>
+				</tr>
+			
+				<tr>
+					<td>피아노가 있는 겨울</td>
+					<td>Piano In The Winter</td>
+					<td>1995</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>5,791</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>연애는 프로,결혼은 아마츄어</td>
+					<td>Love-Pro, Marriage-Amateur</td>
+					<td>1993</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>7,704</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>째즈빠 히로시마</td>
+					<td>Jazz Bar Hiroshima</td>
+					<td>1992</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,299</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>걸어서 하늘까지</td>
+					<td>Walking All The Way To Heaven</td>
+					<td>1992</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>30,038</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>잃어버린 너</td>
+					<td>Lost Love</td>
+					<td>1991</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>179,859</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>1990년 자유부인</td>
+					<td>Liberated Madame 1990</td>
+					<td>1990</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>16,925</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>새벽외출</td>
+					<td>Going Out At Dawn</td>
+					<td>1989</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,494</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>25불의 인간</td>
+					<td>25 Dollar People</td>
+					<td>1989</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>15,062</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>상처</td>
+					<td>Wound</td>
+					<td>1989</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>86,541</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>위험한 향기(부부)</td>
+					<td>Dangerous Scent (Married Couple)</td>
+					<td>1988</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>41,425</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>두 여자의 집</td>
+					<td></td>
+					<td>1987</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스,성인물(에로)</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>75,189</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>키위새의 겨울</td>
+					<td></td>
+					<td>1987</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>6,163</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>겨울나그네</td>
+					<td>Winter Wanderer</td>
+					<td>1986</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>220,809</td>
+					<td>6,904,000</td>
+					<td>3,449</td>
+				</tr>
+			
+				<tr>
+					<td>이방인</td>
+					<td>The Stranger</td>
+					<td>1985</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>614</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>탄야</td>
+					<td>Tan-Ya</td>
+					<td>1982</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>63,167</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>여수</td>
+					<td>The Loneliness Of The Journey</td>
+					<td>1978</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td>63,508</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

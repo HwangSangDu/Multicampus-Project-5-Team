@@ -1,0 +1,138 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '알리슨 브리'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>더 포스트</td>
+					<td>The Post</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>조연</td>
+					<td>1,090,246,148</td>
+					<td>137,841</td>
+					<td>1,090,246,148</td>
+					<td>137,841</td>
+				</tr>
+			
+				<tr>
+					<td>더 리틀 아워즈</td>
+					<td>The Little Hours</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>타임 투게더</td>
+					<td>A Family Man</td>
+					<td>2016</td>
+					<td>캐나다</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>60,502,900</td>
+					<td>8,693</td>
+					<td>60,702,900</td>
+					<td>8,733</td>
+				</tr>
+			
+				<tr>
+					<td>겟하드</td>
+					<td>Get Hard</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>슬리핑 위드 아더 피플</td>
+					<td>Sleeping With Other People</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td>65,868,300</td>
+					<td>8,252</td>
+					<td>65,868,300</td>
+					<td>8,252</td>
+				</tr>
+			
+				<tr>
+					<td>더티 파티</td>
+					<td>Search Party</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>300,000</td>
+					<td>60</td>
+				</tr>
+			
+				<tr>
+					<td>깊은 관계</td>
+					<td>Save the Date</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td>23,000</td>
+					<td>23</td>
+					<td>33,000</td>
+					<td>33</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

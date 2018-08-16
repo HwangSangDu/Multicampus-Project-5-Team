@@ -1,0 +1,294 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '윤세웅'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>벅스 프렌즈</td>
+					<td>The Ladybug</td>
+					<td>2018</td>
+					<td>중국</td>
+					<td>애니메이션</td>
+					<td>주연-빅워터 목소리역(목소리)</td>
+					<td>281,174,700</td>
+					<td>36,516</td>
+					<td>283,664,600</td>
+					<td>36,905</td>
+				</tr>
+			
+				<tr>
+					<td>커다랗고 커다랗고 커다란 배</td>
+					<td>The Incredible Story of the Giant Pear</td>
+					<td>2017</td>
+					<td>덴마크</td>
+					<td>애니메이션</td>
+					<td>주연-JB 목소리역(목소리)</td>
+					<td>745,687,900</td>
+					<td>94,765</td>
+					<td>747,029,900</td>
+					<td>95,324</td>
+				</tr>
+			
+				<tr>
+					<td>마야2</td>
+					<td>Maya the Bee: The Honey Games</td>
+					<td>2017</td>
+					<td>독일</td>
+					<td>애니메이션</td>
+					<td>조연-비굿, 크레이그역(목소리)</td>
+					<td>695,357,700</td>
+					<td>96,992</td>
+					<td>695,357,700</td>
+					<td>96,992</td>
+				</tr>
+			
+				<tr>
+					<td>리틀 폭스</td>
+					<td>Little Fox</td>
+					<td>2016</td>
+					<td>중국</td>
+					<td>애니메이션</td>
+					<td>주연-할아버지, 안경역(목소리)</td>
+					<td>119,098,500</td>
+					<td>16,204</td>
+					<td>119,699,500</td>
+					<td>16,314</td>
+				</tr>
+			
+				<tr>
+					<td>빅샤크: 매직체인지</td>
+					<td>Happy Little Submarine : MagicBox of Time </td>
+					<td>2015</td>
+					<td>중국</td>
+					<td>애니메이션</td>
+					<td>주연-하부 목소리역(목소리)</td>
+					<td>237,960,500</td>
+					<td>31,624</td>
+					<td>1,006,650,700</td>
+					<td>137,645</td>
+				</tr>
+			
+				<tr>
+					<td>부니베어: 나무 도둑의 습격</td>
+					<td>Boonie Bears : Robo Rumble</td>
+					<td>2015</td>
+					<td>중국</td>
+					<td>애니메이션</td>
+					<td>주연-로거빅역(목소리)</td>
+					<td>129,228,400</td>
+					<td>19,267</td>
+					<td>129,228,400</td>
+					<td>19,267</td>
+				</tr>
+			
+				<tr>
+					<td>부니베어: 로거빅 컴백홈 프로젝트</td>
+					<td>Boonie Bears : Homeward Journey</td>
+					<td>2015</td>
+					<td>중국</td>
+					<td>애니메이션</td>
+					<td>주연-로거빅 목소리역(목소리)</td>
+					<td>177,914,300</td>
+					<td>25,903</td>
+					<td>177,955,300</td>
+					<td>25,908</td>
+				</tr>
+			
+				<tr>
+					<td>부니베어: 브램블의 신비한 모험</td>
+					<td>Boonie Bears : A Mystical Winter</td>
+					<td>2015</td>
+					<td>중국</td>
+					<td>애니메이션</td>
+					<td>주연-로거빅 목소리역(목소리)</td>
+					<td>63,195,500</td>
+					<td>9,544</td>
+					<td>63,195,500</td>
+					<td>9,544</td>
+				</tr>
+			
+				<tr>
+					<td>개구리왕국 2</td>
+					<td>Frog Kingdom : Sub-Zero Mission</td>
+					<td>2015</td>
+					<td>중국</td>
+					<td>애니메이션</td>
+					<td>주연-애꾸눈/아빠빠역(목소리)</td>
+					<td>99,741,700</td>
+					<td>14,236</td>
+					<td>99,741,700</td>
+					<td>14,236</td>
+				</tr>
+			
+				<tr>
+					<td>노아의 방주: 남겨진 녀석들</td>
+					<td>Ooops! Noah is Gone</td>
+					<td>2015</td>
+					<td>독일,벨기에,룩셈부르크,아일랜드</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td>1,586,417,300</td>
+					<td>219,621</td>
+					<td>1,589,433,800</td>
+					<td>220,189</td>
+				</tr>
+			
+				<tr>
+					<td>극장판 빰바라빤쮸: 바나나 왕국의 비밀</td>
+					<td></td>
+					<td>2014</td>
+					<td>일본</td>
+					<td>애니메이션,어드벤처</td>
+					<td>주연-도기/진행자/개남편/게2 역역(목소리)</td>
+					<td>76,934,800</td>
+					<td>10,681</td>
+					<td>76,934,800</td>
+					<td>10,681</td>
+				</tr>
+			
+				<tr>
+					<td>윈드랜드</td>
+					<td>Pet Pals in Windland</td>
+					<td>2014</td>
+					<td>이탈리아</td>
+					<td>애니메이션</td>
+					<td>주연-모비/ 거북이 할아버지 (한국어 목소리)역(목소리)</td>
+					<td>173,018,200</td>
+					<td>24,441</td>
+					<td>176,978,200</td>
+					<td>24,936</td>
+				</tr>
+			
+				<tr>
+					<td>부니 베어: 롤라 구출 대모험</td>
+					<td>Boonie Bears: To the Rescue</td>
+					<td>2014</td>
+					<td>중국</td>
+					<td>애니메이션,어드벤처</td>
+					<td>주연(목소리)</td>
+					<td>309,876,900</td>
+					<td>45,250</td>
+					<td>310,331,900</td>
+					<td>45,341</td>
+				</tr>
+			
+				<tr>
+					<td>이디야와 얼음왕국의 전설</td>
+					<td>The Legend of Sarila</td>
+					<td>2013</td>
+					<td>캐나다</td>
+					<td>애니메이션,어드벤처</td>
+					<td>주연-푸툴릭 (한국어 목소리)역(목소리)</td>
+					<td>119,383,200</td>
+					<td>18,157</td>
+					<td>119,493,200</td>
+					<td>18,179</td>
+				</tr>
+			
+				<tr>
+					<td>유고와 라라: 하늘고래와 구름섬 대모험</td>
+					<td>Yugo &amp; Lala</td>
+					<td>2012</td>
+					<td>중국</td>
+					<td>애니메이션</td>
+					<td>주연-여우역(목소리)</td>
+					<td>291,706,400</td>
+					<td>40,374</td>
+					<td>291,706,400</td>
+					<td>40,374</td>
+				</tr>
+			
+				<tr>
+					<td>꼬마 잠수함 올리 2</td>
+					<td>Dive Olly Dive : Happy Little Submarines</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td>213,155,700</td>
+					<td>33,668</td>
+					<td>213,155,700</td>
+					<td>33,668</td>
+				</tr>
+			
+				<tr>
+					<td>프렌즈: 몬스터섬의비밀 </td>
+					<td>Friends : Naki on the Monster island</td>
+					<td>2011</td>
+					<td>일본</td>
+					<td>애니메이션,어드벤처</td>
+					<td>주연-오동동 한국어 목소리역(목소리)</td>
+					<td>3,745,986,000</td>
+					<td>510,996</td>
+					<td>4,028,284,500</td>
+					<td>549,900</td>
+				</tr>
+			
+				<tr>
+					<td>샌드맨과 꿈나라 모험</td>
+					<td>The Sandman and the Lost Sand of Dreams</td>
+					<td>2010</td>
+					<td>독일,프랑스</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td>40,000</td>
+					<td>10</td>
+					<td>40,000</td>
+					<td>10</td>
+				</tr>
+			
+				<tr>
+					<td>퀵맨</td>
+					<td>Quick Man</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,320 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '조슈 브롤린'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>시카리오: 데이 오브 솔다도</td>
+					<td>Sicario: Day of the Soldado</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>액션,범죄,드라마</td>
+					<td>주연</td>
+					<td>1,004,789,900</td>
+					<td>124,021</td>
+					<td>1,928,294,400</td>
+					<td>228,383</td>
+				</tr>
+			
+				<tr>
+					<td>데드풀 2</td>
+					<td>DEADPOOL 2</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>액션,어드벤처,코미디,SF</td>
+					<td>주연</td>
+					<td>34,175,001,839</td>
+					<td>3,783,375</td>
+					<td>34,185,664,639</td>
+					<td>3,784,602</td>
+				</tr>
+			
+				<tr>
+					<td>어벤져스: 인피니티 워</td>
+					<td>Avengers: Infinity War</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지,SF</td>
+					<td>주연</td>
+					<td>99,825,741,869</td>
+					<td>11,202,737</td>
+					<td>99,918,419,769</td>
+					<td>11,211,798</td>
+				</tr>
+			
+				<tr>
+					<td>온리 더 브레이브</td>
+					<td>Only the Brave</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>390,912,300</td>
+					<td>49,612</td>
+					<td>390,912,300</td>
+					<td>49,612</td>
+				</tr>
+			
+				<tr>
+					<td>헤일, 시저!</td>
+					<td>Hail, Caesar!</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>271,122,300</td>
+					<td>34,295</td>
+					<td>271,444,300</td>
+					<td>34,331</td>
+				</tr>
+			
+				<tr>
+					<td>시카리오: 암살자의 도시</td>
+					<td>Sicario</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>범죄,미스터리,스릴러</td>
+					<td>주연</td>
+					<td>1,237,950,192</td>
+					<td>153,009</td>
+					<td>1,241,147,392</td>
+					<td>153,510</td>
+				</tr>
+			
+				<tr>
+					<td>에베레스트</td>
+					<td>Everest</td>
+					<td>2015</td>
+					<td>미국,영국</td>
+					<td>어드벤처,드라마,스릴러</td>
+					<td>주연</td>
+					<td>3,055,119,748</td>
+					<td>332,180</td>
+					<td>3,055,119,748</td>
+					<td>332,180</td>
+				</tr>
+			
+				<tr>
+					<td>씬 시티: 다크히어로의 부활</td>
+					<td>Sin City: A dame to kill for</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>액션,범죄,스릴러</td>
+					<td>주연</td>
+					<td>656,718,748</td>
+					<td>83,182</td>
+					<td>656,718,748</td>
+					<td>83,182</td>
+				</tr>
+			
+				<tr>
+					<td>올드보이</td>
+					<td>Oldboy</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>56,281,683</td>
+					<td>7,471</td>
+					<td>60,248,683</td>
+					<td>7,979</td>
+				</tr>
+			
+				<tr>
+					<td>레이버 데이</td>
+					<td>Labor Day</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-프랭크 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>맨 인 블랙 3</td>
+					<td>Men In Black III</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션,코미디,SF</td>
+					<td>주연-젊은 케이역</td>
+					<td>27,301,520,070</td>
+					<td>3,379,762</td>
+					<td>27,301,520,070</td>
+					<td>3,379,762</td>
+				</tr>
+			
+				<tr>
+					<td>갱스터 스쿼드</td>
+					<td>Gangster Squad</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>더 브레이브</td>
+					<td>True Grit</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>드라마,서부극(웨스턴)</td>
+					<td>주연-톰 채니역</td>
+					<td>240,423,500</td>
+					<td>31,152</td>
+					<td>240,912,000</td>
+					<td>31,217</td>
+				</tr>
+			
+				<tr>
+					<td>환상의 그대</td>
+					<td>You Will Meet a Tall Dark Stranger</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>198,216,500</td>
+					<td>24,579</td>
+					<td>207,940,000</td>
+					<td>25,968</td>
+				</tr>
+			
+				<tr>
+					<td>조나 헥스</td>
+					<td>Jonah Hex</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>액션,드라마,스릴러,서부극(웨스턴)</td>
+					<td>주연-조나 헥스역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>밀크</td>
+					<td>Milk</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>97,068,007</td>
+					<td>13,372</td>
+					<td>96,102,000</td>
+					<td>13,250</td>
+				</tr>
+			
+				<tr>
+					<td>더블유</td>
+					<td>W.</td>
+					<td>2008</td>
+					<td>미국,호주,홍콩,스위스,중국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>플래닛 테러</td>
+					<td>Planet Terror</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>액션,공포(호러),SF</td>
+					<td>주연-윌리엄 박사역</td>
+					<td>124,562,500</td>
+					<td>19,324</td>
+					<td>124,562,500</td>
+					<td>19,324</td>
+				</tr>
+			
+				<tr>
+					<td>노인을 위한 나라는 없다</td>
+					<td>No Country For Old Men</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>스릴러,드라마,범죄</td>
+					<td>주연- 를르윈 모스 역</td>
+					<td>435,417,500</td>
+					<td>64,078</td>
+					<td>598,962,400</td>
+					<td>82,402</td>
+				</tr>
+			
+				<tr>
+					<td>씨크릿</td>
+					<td>Best Laid Plans</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>범죄,드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>구니스 </td>
+					<td>The Goonies</td>
+					<td>1985</td>
+					<td>미국</td>
+					<td>어드벤처,코미디,가족,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>337,866</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

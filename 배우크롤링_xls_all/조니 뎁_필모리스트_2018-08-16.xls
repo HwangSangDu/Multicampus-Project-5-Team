@@ -1,0 +1,606 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '조니 뎁'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>셜록 놈즈</td>
+					<td>Sherlock Gnomes</td>
+					<td>2018</td>
+					<td>미국,영국</td>
+					<td>애니메이션,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>신비한 동물들과 그린델왈드의 범죄</td>
+					<td>Fantastic Beasts: The Crimes of Grindelwald</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>판타지</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>오리엔트 특급 살인</td>
+					<td>Murder on the Orient Express</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>드라마,미스터리,범죄</td>
+					<td>주연</td>
+					<td>6,645,385,163</td>
+					<td>864,757</td>
+					<td>6,645,385,163</td>
+					<td>864,757</td>
+				</tr>
+			
+				<tr>
+					<td>캐리비안의 해적: 죽은 자는 말이 없다</td>
+					<td>Pirates of the Caribbean: Dead Men Tell No</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지,코미디</td>
+					<td>주연</td>
+					<td>24,975,495,122</td>
+					<td>3,049,894</td>
+					<td>24,975,495,122</td>
+					<td>3,049,894</td>
+				</tr>
+			
+				<tr>
+					<td>거울나라의 앨리스</td>
+					<td>Alice Through the Looking Glass</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>어드벤처,가족,판타지</td>
+					<td>주연</td>
+					<td>4,145,733,267</td>
+					<td>513,202</td>
+					<td>4,145,733,267</td>
+					<td>513,202</td>
+				</tr>
+			
+				<tr>
+					<td>모데카이</td>
+					<td>Mortdecai</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션,코미디</td>
+					<td>주연</td>
+					<td>624,513,020</td>
+					<td>78,070</td>
+					<td>624,513,020</td>
+					<td>78,070</td>
+				</tr>
+			
+				<tr>
+					<td>숲속으로</td>
+					<td>Into the Woods</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>뮤지컬</td>
+					<td>주연</td>
+					<td>2,596,533,288</td>
+					<td>341,882</td>
+					<td>2,596,533,288</td>
+					<td>341,882</td>
+				</tr>
+			
+				<tr>
+					<td>트랜센던스</td>
+					<td>Transcendence</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>SF,액션,드라마</td>
+					<td>주연</td>
+					<td>5,478,201,500</td>
+					<td>696,412</td>
+					<td>5,478,536,500</td>
+					<td>696,436</td>
+				</tr>
+			
+				<tr>
+					<td>터스크</td>
+					<td>Tusk</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>미스터리,스릴러,공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>랄프 스테드먼 스토리: 이상한 나라의 친구들</td>
+					<td>For No Good Reason</td>
+					<td>2012</td>
+					<td>영국,미국</td>
+					<td>다큐멘터리</td>
+					<td>주연</td>
+					<td>31,556,300</td>
+					<td>4,204</td>
+					<td>31,556,300</td>
+					<td>4,204</td>
+				</tr>
+			
+				<tr>
+					<td>론 레인저</td>
+					<td>The Lone Ranger</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션,어드벤처</td>
+					<td>주연-톤토 역</td>
+					<td>2,750,149,500</td>
+					<td>387,527</td>
+					<td>2,751,549,500</td>
+					<td>388,235</td>
+				</tr>
+			
+				<tr>
+					<td>럼 다이어리</td>
+					<td>The Rum Diary</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td>91,844,000</td>
+					<td>12,685</td>
+					<td>91,844,000</td>
+					<td>12,685</td>
+				</tr>
+			
+				<tr>
+					<td>다크 섀도우</td>
+					<td>Dark Shadows</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>드라마,공포(호러),스릴러,미스터리</td>
+					<td>주연</td>
+					<td>4,326,459,000</td>
+					<td>582,126</td>
+					<td>4,326,459,000</td>
+					<td>582,126</td>
+				</tr>
+			
+				<tr>
+					<td>21 점프 스트리트</td>
+					<td>21 Jump Street</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션,코미디</td>
+					<td>조연-톰 핸슨역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>캐리비안의 해적: 낯선 조류</td>
+					<td>Pirates Of The Caribbean: On Stranger Tides</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>액션,판타지</td>
+					<td>주연</td>
+					<td>27,279,967,500</td>
+					<td>3,130,046</td>
+					<td>27,279,967,500</td>
+					<td>3,130,046</td>
+				</tr>
+			
+				<tr>
+					<td>랭고</td>
+					<td>Rango</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>애니메이션,액션</td>
+					<td>주연(목소리)</td>
+					<td>3,043,816,000</td>
+					<td>430,001</td>
+					<td>3,043,816,000</td>
+					<td>430,001</td>
+				</tr>
+			
+				<tr>
+					<td>투어리스트</td>
+					<td>The Tourist</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td>6,834,421,095</td>
+					<td>915,359</td>
+					<td>6,760,023,000</td>
+					<td>905,624</td>
+				</tr>
+			
+				<tr>
+					<td>이상한 나라의 앨리스</td>
+					<td>Alice In Wonderland</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>판타지,어드벤처,가족</td>
+					<td>주연-모자 장수역</td>
+					<td>20,661,000,236</td>
+					<td>2,182,365</td>
+					<td>20,334,399,500</td>
+					<td>2,147,012</td>
+				</tr>
+			
+				<tr>
+					<td>왠 유어 스트레인지</td>
+					<td>When You’re Strange: A Film about THE DOORS</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>다큐멘터리</td>
+					<td>주연(목소리)</td>
+					<td>10,736,748</td>
+					<td>1,438</td>
+					<td>11,428,000</td>
+					<td>1,534</td>
+				</tr>
+			
+				<tr>
+					<td>파르나서스 박사의 상상극장</td>
+					<td>The Imaginarium Of Doctor Parnassus</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>판타지,어드벤처,미스터리</td>
+					<td>주연</td>
+					<td>3,364,788,919</td>
+					<td>462,999</td>
+					<td>3,330,119,500</td>
+					<td>458,243</td>
+				</tr>
+			
+				<tr>
+					<td>퍼블릭 에너미</td>
+					<td>Public Enemies</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>범죄,액션</td>
+					<td>주연-존 딜린저 역</td>
+					<td>3,424,720,129</td>
+					<td>464,076</td>
+					<td>3,367,855,000</td>
+					<td>456,742</td>
+				</tr>
+			
+				<tr>
+					<td>스위니 토드 : 어느 잔혹한 이발사 이야기</td>
+					<td>Sweeney Todd : The Demon Barber Of Fleet Street</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>뮤지컬,범죄,스릴러</td>
+					<td>주연-스위니 토드역</td>
+					<td>4,761,820,000</td>
+					<td>704,058</td>
+					<td>4,757,200,500</td>
+					<td>698,306</td>
+				</tr>
+			
+				<tr>
+					<td>캐리비안의 해적: 세상의 끝에서</td>
+					<td>Pirates Of The Caribbean: At Worlds End</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>액션,코미디,어드벤처,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>4,966,571</td>
+					<td>29,133,447,500</td>
+					<td>4,571,229</td>
+				</tr>
+			
+				<tr>
+					<td>캐리비안의 해적 : 망자의 함</td>
+					<td>Pirates Of The Caribbean: Dead Man`S Chest</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>액션,코미디,어드벤처,판타지</td>
+					<td>주연-캡틴 잭 스패로우역</td>
+					<td>0</td>
+					<td>4,628,903</td>
+					<td>23,832,939,000</td>
+					<td>3,911,617</td>
+				</tr>
+			
+				<tr>
+					<td>유령신부(애니)</td>
+					<td>Corpse Bride</td>
+					<td>2005</td>
+					<td>영국</td>
+					<td>애니메이션,드라마,멜로/로맨스,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>462,800</td>
+					<td>2,738,143,000</td>
+					<td>433,751</td>
+				</tr>
+			
+				<tr>
+					<td>찰리와 초콜릿 공장</td>
+					<td>Charlie And The Chocolate Factory</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>코미디,가족,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,372,700</td>
+					<td>7,831,016,503</td>
+					<td>1,282,348</td>
+				</tr>
+			
+				<tr>
+					<td>리버틴</td>
+					<td>The Libertine</td>
+					<td>2004</td>
+					<td>영국,호주</td>
+					<td>드라마</td>
+					<td>주연-로체스터 역</td>
+					<td>0</td>
+					<td>16,624</td>
+					<td>110,843,000</td>
+					<td>16,381</td>
+				</tr>
+			
+				<tr>
+					<td>네버랜드를 찾아서</td>
+					<td>Finding Neverland</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>234,427</td>
+					<td>1,287,392,500</td>
+					<td>200,339</td>
+				</tr>
+			
+				<tr>
+					<td>시크릿 윈도우</td>
+					<td>Secret Window</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>535</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>원스 어폰 어 타임 인 멕시코 </td>
+					<td>Once Upon A Time In Mexico</td>
+					<td>2003</td>
+					<td>미국,멕시코</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>107,789</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>캐리비안의 해적 : 블랙펄의 저주</td>
+					<td>Pirates of the Caribbean: The Curse of the Black Pearl </td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>어드벤처,액션,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,010,460</td>
+					<td>0</td>
+					<td>0</td>
+				</tr>
+			
+				<tr>
+					<td>로스트 인 라만차</td>
+					<td>Lost In La Mancha</td>
+					<td>2002</td>
+					<td>미국,영국</td>
+					<td>다큐멘터리</td>
+					<td>단역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>프롬 헬</td>
+					<td>From Hell</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>19,800</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>블로우</td>
+					<td>Blow</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>범죄,드라마</td>
+					<td>주연-조지 정역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>피아노 2</td>
+					<td>The Man Who Cried</td>
+					<td>2000</td>
+					<td>영국,프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>나인스 게이트</td>
+					<td>Ninth Gate</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>공포(호러),미스터리,스릴러</td>
+					<td>주연-딘 코소 역</td>
+					<td>0</td>
+					<td>4,667</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>애스트로넛</td>
+					<td>The Astronaut&#039;s Wife</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러,SF</td>
+					<td>주연-스펜서 아마코스트역</td>
+					<td>0</td>
+					<td>4,691</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>슬리피 할로우</td>
+					<td>Sleepy Hollow</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>공포(호러),멜로/로맨스,미스터리</td>
+					<td>주연-이카보드 크레인역</td>
+					<td>0</td>
+					<td>269,055</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>라스베가스의 공포와 혐오</td>
+					<td>Fear And Loathing In Las Vegas</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>도니 브래스코 </td>
+					<td>Donnie Brasco</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>드라마,범죄,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>33,473</td>
+					<td>348,000</td>
+					<td>80</td>
+				</tr>
+			
+				<tr>
+					<td>조니 뎁의 돈 쥬앙 </td>
+					<td>Don Juan Demarco</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>코미디,드라마,멜로/로맨스</td>
+					<td>주연-돈 쥬앙 역</td>
+					<td>0</td>
+					<td>36,329</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>길버트 그레이프</td>
+					<td>What&#039;S Eating Gilbert Grape</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>드라마,코미디</td>
+					<td>주연-길버트 그레이프 역</td>
+					<td>0</td>
+					<td>37,304</td>
+					<td>2,060,000</td>
+					<td>370</td>
+				</tr>
+			
+				<tr>
+					<td>가위손</td>
+					<td>Edward Scissorhands</td>
+					<td>1990</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>77,114</td>
+					<td>41,870,000</td>
+					<td>5,904</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

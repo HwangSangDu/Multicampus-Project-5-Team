@@ -1,0 +1,164 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '마이크 보겔'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>예수는 역사다</td>
+					<td>The Case for Christ</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>1,242,169,400</td>
+					<td>172,414</td>
+					<td>1,245,454,400</td>
+					<td>173,001</td>
+				</tr>
+			
+				<tr>
+					<td>맥카닉: 마지막 추격</td>
+					<td>McCanick</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>미스터리,범죄,액션,드라마</td>
+					<td>주연</td>
+					<td>100,000</td>
+					<td>10</td>
+					<td>100,000</td>
+					<td>10</td>
+				</tr>
+			
+				<tr>
+					<td>헬프</td>
+					<td>The Help</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>1,131,348,500</td>
+					<td>155,070</td>
+					<td>1,131,972,500</td>
+					<td>155,148</td>
+				</tr>
+			
+				<tr>
+					<td>왓츠 유어 넘버</td>
+					<td>What&#039;s Your Number?</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>조연-데이브 역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>오픈 그래이브스</td>
+					<td>Open Graves</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>268,000</td>
+					<td>79</td>
+					<td>268,000</td>
+					<td>79</td>
+				</tr>
+			
+				<tr>
+					<td>어크로스 더 홀</td>
+					<td>Across the Hall</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연-줄리언 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>이안 스톤의 죽음</td>
+					<td>The Deaths of Ian Stone</td>
+					<td>2007</td>
+					<td>영국,미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>슈퍼크로스</td>
+					<td>Supercross</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>액션,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>그라인드</td>
+					<td>Grind</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>어드벤처,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

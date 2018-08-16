@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '제인 마치'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>잭과 자이언트 킬러 2014</td>
+					<td>Jack the Giant Killer</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>SF,액션,판타지</td>
+					<td>주연</td>
+					<td>40,000</td>
+					<td>10</td>
+					<td>40,000</td>
+					<td>10</td>
+				</tr>
+			
+				<tr>
+					<td>백설공주: 또 다른 이야기</td>
+					<td>Grimm’s Snow White</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>판타지,어드벤처</td>
+					<td>주연</td>
+					<td>12,095,000</td>
+					<td>5,501</td>
+					<td>12,095,000</td>
+					<td>5,501</td>
+				</tr>
+			
+				<tr>
+					<td>다크 프린스</td>
+					<td>Vlad</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>782</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>로스트 시티</td>
+					<td>Tarzan And The Lost City</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>가족,액션,어드벤처,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>716</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>컬러 오브 나이트</td>
+					<td>Color Of Night</td>
+					<td>1994</td>
+					<td>헝가리</td>
+					<td>드라마,미스터리,성인물(에로),스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>439,391</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>연인</td>
+					<td>The Lover</td>
+					<td>1991</td>
+					<td>프랑스</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>337,233</td>
+					<td>120,809,691</td>
+					<td>16,147</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

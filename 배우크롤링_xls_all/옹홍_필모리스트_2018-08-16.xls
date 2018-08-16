@@ -1,0 +1,164 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '옹홍'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>쌍성계: 고대전설의 부활</td>
+					<td>SCHEME WITH ME</td>
+					<td>2012</td>
+					<td>중국</td>
+					<td>액션,코미디</td>
+					<td>주연</td>
+					<td>1,885,000</td>
+					<td>920</td>
+					<td>1,885,000</td>
+					<td>920</td>
+				</tr>
+			
+				<tr>
+					<td>건륭대제</td>
+					<td>War And Remembrance</td>
+					<td>1997</td>
+					<td>홍콩</td>
+					<td>사극,액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>홍콩 투캅스 3 : 천생절배</td>
+					<td>The Kid Vs The Cop</td>
+					<td>1997</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>여란대혹형</td>
+					<td>Chinese Torture Chamber Story</td>
+					<td>1995</td>
+					<td>홍콩</td>
+					<td>사극,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>8,671</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>천년금애</td>
+					<td>Sex And The Emperor</td>
+					<td>1995</td>
+					<td>홍콩</td>
+					<td>드라마,사극</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>11,211</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>현대 고혹자 </td>
+					<td>Black Dream</td>
+					<td>1995</td>
+					<td>홍콩</td>
+					<td>액션,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>0</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>후궁 : 천년금애 무삭제 감독판</td>
+					<td>Sex And The Emperor</td>
+					<td>1994</td>
+					<td>홍콩</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>160,000</td>
+					<td>47</td>
+					<td>160,000</td>
+					<td>47</td>
+				</tr>
+			
+				<tr>
+					<td>청루십이방 </td>
+					<td>靑樓十二房</td>
+					<td>1994</td>
+					<td>홍콩</td>
+					<td>성인물(에로)</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>8,440</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>취생몽사</td>
+					<td>The Tiger of Waichai</td>
+					<td>1994</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

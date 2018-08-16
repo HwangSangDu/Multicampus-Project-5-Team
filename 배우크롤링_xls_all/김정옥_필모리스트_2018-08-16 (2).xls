@@ -1,0 +1,229 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '김정옥'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>추격자</td>
+					<td>The Chaser</td>
+					<td>1979</td>
+					<td>한국,미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>족보</td>
+					<td>A Family Tree</td>
+					<td>1971</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td>35,931</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>청산에 우는 새야</td>
+					<td>The Crying Bird In Cheongsan</td>
+					<td>1971</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td>7,446</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>만나봐도 지금은</td>
+					<td>When We Meet Again</td>
+					<td>1971</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>먼데서 온 여자</td>
+					<td></td>
+					<td>1970</td>
+					<td></td>
+					<td></td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>소라 부인</td>
+					<td></td>
+					<td>1970</td>
+					<td></td>
+					<td></td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>독짓는 늙은이</td>
+					<td>An Old Potter</td>
+					<td>1969</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,178,000</td>
+					<td>648</td>
+				</tr>
+			
+				<tr>
+					<td>명동 나그네</td>
+					<td>A Wonderer in Myeong-dong</td>
+					<td>1969</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>조연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>미워도 다시 한번 2</td>
+					<td>Bitter But Once Again</td>
+					<td>1969</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>7,282,000</td>
+					<td>3,636</td>
+				</tr>
+			
+				<tr>
+					<td>재생</td>
+					<td>Rebirth </td>
+					<td>1969</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>미워도 다시 한번</td>
+					<td>Love Me Once Again</td>
+					<td>1968</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>14,737,000</td>
+					<td>7,310</td>
+				</tr>
+			
+				<tr>
+					<td>죽어도 한은 없다</td>
+					<td></td>
+					<td>1968</td>
+					<td></td>
+					<td></td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>춘향</td>
+					<td>Chunhyang </td>
+					<td>1968</td>
+					<td>한국</td>
+					<td>사극</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>3,980,000</td>
+					<td>1,990</td>
+				</tr>
+			
+				<tr>
+					<td>견우직녀</td>
+					<td>The Altair and the Vega</td>
+					<td>1960</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

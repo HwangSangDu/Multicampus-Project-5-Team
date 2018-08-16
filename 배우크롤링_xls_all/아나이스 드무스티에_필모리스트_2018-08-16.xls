@@ -1,0 +1,151 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '아나이스 드무스티에'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>마가렛 앤 줄리앙:금지된 사랑</td>
+					<td>Marguerite et Julien</td>
+					<td>2015</td>
+					<td>프랑스</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>두 여자의 남자</td>
+					<td>Relationship Status : It’s Complicated</td>
+					<td>2014</td>
+					<td>프랑스</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>270,000</td>
+					<td>54</td>
+					<td>270,000</td>
+					<td>54</td>
+				</tr>
+			
+				<tr>
+					<td>나의 사적인 여자친구</td>
+					<td>The New Girlfriend</td>
+					<td>2014</td>
+					<td>프랑스</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>77,358,155</td>
+					<td>9,755</td>
+					<td>78,123,355</td>
+					<td>9,860</td>
+				</tr>
+			
+				<tr>
+					<td>테레즈 데케루</td>
+					<td>Therese Desqueyroux</td>
+					<td>2012</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>9,716,500</td>
+					<td>1,334</td>
+					<td>9,716,500</td>
+					<td>1,334</td>
+				</tr>
+			
+				<tr>
+					<td>엘르</td>
+					<td>Elles</td>
+					<td>2011</td>
+					<td>프랑스,폴란드,독일</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>43,477,000</td>
+					<td>5,752</td>
+					<td>44,355,000</td>
+					<td>5,934</td>
+				</tr>
+			
+				<tr>
+					<td>디어 프루던스 </td>
+					<td>Dear Prudence</td>
+					<td>2010</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연-소니아 역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>리빙 온 러브 얼론</td>
+					<td> Living On Love Alone</td>
+					<td>2010</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연-줄리역</td>
+					<td></td>
+					<td></td>
+					<td>197,000</td>
+					<td>25</td>
+				</tr>
+			
+				<tr>
+					<td>착한 소녀</td>
+					<td>Be Good</td>
+					<td>2008</td>
+					<td>프랑스,덴마크</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

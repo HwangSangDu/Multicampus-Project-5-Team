@@ -1,0 +1,112 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '레니 제임스'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>블레이드 러너 2049</td>
+					<td>Blade Runner 2049</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>SF,액션</td>
+					<td>조연-미스터 코튼역</td>
+					<td>2,764,093,365</td>
+					<td>321,424</td>
+					<td>2,774,970,765</td>
+					<td>322,664</td>
+				</tr>
+			
+				<tr>
+					<td>거리의 보안관</td>
+					<td>Swelter</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>268,000</td>
+					<td>47</td>
+					<td>268,000</td>
+					<td>47</td>
+				</tr>
+			
+				<tr>
+					<td>더 틱</td>
+					<td>Tic</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연-씨-노트 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아웃로</td>
+					<td>Outlaw</td>
+					<td>2007</td>
+					<td>영국</td>
+					<td>액션,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>24시간 파티하는 사람들</td>
+					<td>24 Hour Party People</td>
+					<td>2002</td>
+					<td>영국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,214,000</td>
+					<td>149</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

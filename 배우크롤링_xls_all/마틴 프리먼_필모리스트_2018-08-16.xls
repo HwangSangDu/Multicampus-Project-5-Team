@@ -1,0 +1,242 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '마틴 프리먼'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>블랙 팬서</td>
+					<td>Black Panther</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>액션,드라마,SF</td>
+					<td>조연</td>
+					<td>45,883,573,457</td>
+					<td>5,399,070</td>
+					<td>45,883,143,457</td>
+					<td>5,398,994</td>
+				</tr>
+			
+				<tr>
+					<td>귀신 이야기</td>
+					<td>GHOST STORIES</td>
+					<td>2017</td>
+					<td>영국</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>위스키 탱고 폭스트롯</td>
+					<td>Whiskey Tango Foxtrot</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>전쟁,드라마,코미디</td>
+					<td>주연</td>
+					<td>35,228,370</td>
+					<td>4,682</td>
+					<td>35,228,370</td>
+					<td>4,682</td>
+				</tr>
+			
+				<tr>
+					<td>아이히만 쇼</td>
+					<td>The Eichmann Show</td>
+					<td>2015</td>
+					<td>영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>17,028,000</td>
+					<td>2,240</td>
+					<td>17,028,000</td>
+					<td>2,240</td>
+				</tr>
+			
+				<tr>
+					<td>셜록: 유령신부</td>
+					<td>SHERLOCK</td>
+					<td>2015</td>
+					<td>영국</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td>9,992,425,049</td>
+					<td>1,278,894</td>
+					<td>9,992,425,049</td>
+					<td>1,278,894</td>
+				</tr>
+			
+				<tr>
+					<td>호빗: 다섯 군대 전투</td>
+					<td>The Hobbit: The Battle of the Five Armies</td>
+					<td>2014</td>
+					<td>미국,뉴질랜드</td>
+					<td>어드벤처,판타지</td>
+					<td>주연</td>
+					<td>24,268,487,685</td>
+					<td>2,836,774</td>
+					<td>24,268,487,685</td>
+					<td>2,836,774</td>
+				</tr>
+			
+				<tr>
+					<td>세이빙 산타</td>
+					<td>Saving Santa</td>
+					<td>2013</td>
+					<td>영국</td>
+					<td>애니메이션,코미디,가족</td>
+					<td>주연(목소리)</td>
+					<td>1,520,048,000</td>
+					<td>235,688</td>
+					<td>1,520,024,000</td>
+					<td>235,684</td>
+				</tr>
+			
+				<tr>
+					<td>호빗: 스마우그의 폐허</td>
+					<td>The Hobbit: The Desolation of Smaug</td>
+					<td>2013</td>
+					<td>미국,뉴질랜드</td>
+					<td>어드벤처,드라마,판타지</td>
+					<td>주연</td>
+					<td>17,850,613,316</td>
+					<td>2,282,744</td>
+					<td>17,850,613,316</td>
+					<td>2,282,744</td>
+				</tr>
+			
+				<tr>
+					<td>애니멀즈</td>
+					<td>ANIMALS</td>
+					<td>2012</td>
+					<td>스페인</td>
+					<td>판타지,드라마,미스터리</td>
+					<td>주연</td>
+					<td>6,000</td>
+					<td>1</td>
+					<td>6,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>호빗: 뜻밖의 여정</td>
+					<td>The Hobbit: An Unexpected Journey</td>
+					<td>2012</td>
+					<td>미국,뉴질랜드</td>
+					<td>어드벤처,판타지</td>
+					<td>주연-빌보 배긴스역</td>
+					<td>23,436,820,716</td>
+					<td>2,818,993</td>
+					<td>23,436,820,716</td>
+					<td>2,818,993</td>
+				</tr>
+			
+				<tr>
+					<td>크리스마스 스타!</td>
+					<td>Nativity!</td>
+					<td>2009</td>
+					<td>영국</td>
+					<td>코미디,가족</td>
+					<td>주연-폴 마든스역</td>
+					<td>53,142,269</td>
+					<td>7,309</td>
+					<td>56,086,500</td>
+					<td>7,699</td>
+				</tr>
+			
+				<tr>
+					<td>굿나잇</td>
+					<td>The Good Night</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>코미디,판타지,멜로/로맨스</td>
+					<td>주연</td>
+					<td>37,319,570</td>
+					<td>5,263</td>
+					<td>36,315,500</td>
+					<td>5,263</td>
+				</tr>
+			
+				<tr>
+					<td>야경</td>
+					<td>Nightwatching </td>
+					<td>2007</td>
+					<td>캐나다,프랑스,독일,폴란드,네덜란드,영국</td>
+					<td>드라마,미스터리</td>
+					<td>주연-역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>웨딩 콘테스트</td>
+					<td>Confetti</td>
+					<td>2006</td>
+					<td>영국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>은하수를 여행하는 히치하이커를 위한 안내서</td>
+					<td>The Hitchhiker`S Guide To The Galaxy</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>SF,어드벤처,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>20,430</td>
+					<td>138,314,500</td>
+					<td>20,292</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

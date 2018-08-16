@@ -1,0 +1,489 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '벤 스틸러'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>괜찮아요, 미스터 브래드</td>
+					<td>Brad&#039;s status</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>134,945,900</td>
+					<td>17,691</td>
+					<td>135,297,900</td>
+					<td>17,747</td>
+				</tr>
+			
+				<tr>
+					<td>쥬랜더 리턴즈</td>
+					<td>Zoolander 2</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>감독,주연</td>
+					<td>58,151,000</td>
+					<td>7,853</td>
+					<td>58,151,000</td>
+					<td>7,853</td>
+				</tr>
+			
+				<tr>
+					<td>위아영</td>
+					<td>While We&#039;re Young</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>495,343,360</td>
+					<td>62,016</td>
+					<td>495,668,860</td>
+					<td>62,069</td>
+				</tr>
+			
+				<tr>
+					<td>박물관이 살아있다 : 비밀의 무덤</td>
+					<td>Night at the Museum: Secret of the Tomb</td>
+					<td>2014</td>
+					<td>미국,영국</td>
+					<td>어드벤처,코미디,가족</td>
+					<td>주연</td>
+					<td>8,170,784,606</td>
+					<td>1,101,678</td>
+					<td>8,170,784,606</td>
+					<td>1,101,678</td>
+				</tr>
+			
+				<tr>
+					<td>월터의 상상은 현실이 된다</td>
+					<td>The Secret Life of Walter Mitty</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>어드벤처,코미디,드라마</td>
+					<td>감독,주연,제작</td>
+					<td>6,877,576,799</td>
+					<td>941,672</td>
+					<td>6,995,634,499</td>
+					<td>956,196</td>
+				</tr>
+			
+				<tr>
+					<td>마다가스카3 : 이번엔 서커스다!</td>
+					<td>Madagascar3 : Europe’s Most Wanted</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>애니메이션,어드벤처,코미디</td>
+					<td>주연-알렉스역(목소리)</td>
+					<td>12,514,939,500</td>
+					<td>1,628,563</td>
+					<td>12,552,588,900</td>
+					<td>1,635,088</td>
+				</tr>
+			
+				<tr>
+					<td>왓치</td>
+					<td>The Watch</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>코미디,SF</td>
+					<td>주연-에반 역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>타워 하이스트</td>
+					<td>Tower Heist</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>액션,코미디,범죄</td>
+					<td>주연-조시 역</td>
+					<td>631,715,500</td>
+					<td>90,840</td>
+					<td>631,715,500</td>
+					<td>90,840</td>
+				</tr>
+			
+				<tr>
+					<td>미트 페어런츠 3</td>
+					<td>Little Fockers</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연-그레그 퍼커역</td>
+					<td>517,805,000</td>
+					<td>70,053</td>
+					<td>517,805,000</td>
+					<td>70,053</td>
+				</tr>
+			
+				<tr>
+					<td>마크 피즈 익스피리언스</td>
+					<td>The Marc Pease Experience</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>박물관이 살아있다 2</td>
+					<td>Night At The Museum 2: Battle Of The Smithsonian</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>어드벤처,코미디,액션</td>
+					<td>주연-래리 댈리역</td>
+					<td>12,591,000,149</td>
+					<td>2,002,526</td>
+					<td>12,399,745,500</td>
+					<td>1,972,440</td>
+				</tr>
+			
+				<tr>
+					<td>마다가스카 2</td>
+					<td>Madagascar : Escape 2 Africa</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>애니메이션,어드벤처,가족,액션</td>
+					<td>주연(목소리)</td>
+					<td>7,644,143,364</td>
+					<td>1,247,015</td>
+					<td>7,541,496,500</td>
+					<td>1,230,470</td>
+				</tr>
+			
+				<tr>
+					<td>트로픽 썬더 </td>
+					<td>Tropic Thunder</td>
+					<td>2008</td>
+					<td>미국,독일</td>
+					<td>액션,코미디,어드벤처,전쟁</td>
+					<td>감독,주연</td>
+					<td>465,953,500</td>
+					<td>67,267</td>
+					<td>465,953,500</td>
+					<td>67,267</td>
+				</tr>
+			
+				<tr>
+					<td>하트브레이크 키드</td>
+					<td>The Heartbreak Kid</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>박물관이 살아있다!</td>
+					<td>Night At The Museum</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>코미디,어드벤처</td>
+					<td>주연-래리 데일리역</td>
+					<td>0</td>
+					<td>4,612,831</td>
+					<td>24,401,542,200</td>
+					<td>4,245,247</td>
+				</tr>
+			
+				<tr>
+					<td>마다가스카</td>
+					<td>Madagascar</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>애니메이션,코미디,어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,620,031</td>
+					<td>8,663,925,000</td>
+					<td>1,392,684</td>
+				</tr>
+			
+				<tr>
+					<td>미트 페어런츠2</td>
+					<td>Meet The Fockers</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>253,383</td>
+					<td>1,532,798,500</td>
+					<td>235,418</td>
+				</tr>
+			
+				<tr>
+					<td>피구의 제왕</td>
+					<td>Dodgeball: A True Underdog Story</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>10,320</td>
+					<td>50,122,500</td>
+					<td>7,901</td>
+				</tr>
+			
+				<tr>
+					<td>스타스키와 허치</td>
+					<td>Starsky &amp; Hutch</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>35,908</td>
+					<td>93,939,500</td>
+					<td>14,212</td>
+				</tr>
+			
+				<tr>
+					<td>폴리와 함께</td>
+					<td>Along Came Polly</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>170,000</td>
+					<td>252,615,500</td>
+					<td>37,807</td>
+				</tr>
+			
+				<tr>
+					<td>엔비</td>
+					<td>Envy</td>
+					<td>2004</td>
+					<td>미국,호주</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>듀플렉스</td>
+					<td>Duplex</td>
+					<td>2003</td>
+					<td>미국,독일</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>폴리 쇼어 이즈 데드</td>
+					<td>Pauly Shore Is Dead</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>로얄 테넌바움</td>
+					<td>The Royal Tenenbaums</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>23,347</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>쥬랜더</td>
+					<td>Zoolander</td>
+					<td>2001</td>
+					<td>미국,호주,독일</td>
+					<td>코미디</td>
+					<td>감독,주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>미트 페어런츠</td>
+					<td>Meet The Parents</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>190,953</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>키핑 더 페이스</td>
+					<td>Keeping The Faith</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연-제이크역</td>
+					<td>0</td>
+					<td>21,189</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>미스테리 맨</td>
+					<td>Mystery Men</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>액션,코미디,판타지</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>메리에겐 뭔가 특별한 것이 있다 </td>
+					<td>There&#039;s Something About Mary</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>273,170</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>제로 이펙트</td>
+					<td>Zero Effect</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>코미디,스릴러,미스터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>케이블 가이 </td>
+					<td>Cable Guy</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>코미디,드라마,스릴러</td>
+					<td>감독</td>
+					<td>0</td>
+					<td>48,177</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>디제스터</td>
+					<td>Flirthing With Disaster</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>친구와 애인사이</td>
+					<td>If lucy Fell</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>청춘 스케치</td>
+					<td>Reality Bites</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>감독,주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

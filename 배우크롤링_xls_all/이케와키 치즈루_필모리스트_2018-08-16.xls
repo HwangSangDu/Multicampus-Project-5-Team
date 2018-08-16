@@ -1,0 +1,294 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '이케와키 치즈루'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>분노</td>
+					<td>RAGE</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>스릴러</td>
+					<td>조연</td>
+					<td>234,732,537</td>
+					<td>29,061</td>
+					<td>235,703,037</td>
+					<td>29,224</td>
+				</tr>
+			
+				<tr>
+					<td>너는 착한 아이</td>
+					<td>Being Good</td>
+					<td>2015</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>35,354,800</td>
+					<td>4,707</td>
+					<td>42,067,300</td>
+					<td>5,702</td>
+				</tr>
+			
+				<tr>
+					<td>그곳에서만 빛난다</td>
+					<td>The Light Shines Only There</td>
+					<td>2014</td>
+					<td>일본</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>159,000</td>
+					<td>41</td>
+					<td>159,000</td>
+					<td>41</td>
+				</tr>
+			
+				<tr>
+					<td>흉악-어느 사형수의 고발</td>
+					<td>The Devil&#039;s Path</td>
+					<td>2013</td>
+					<td>일본</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>270,000</td>
+					<td>54</td>
+					<td>270,000</td>
+					<td>54</td>
+				</tr>
+			
+				<tr>
+					<td>행복한 사전</td>
+					<td>The Great Passage</td>
+					<td>2013</td>
+					<td>일본</td>
+					<td>드라마,코미디</td>
+					<td>조연</td>
+					<td>120,977,600</td>
+					<td>15,465</td>
+					<td>121,451,600</td>
+					<td>15,526</td>
+				</tr>
+			
+				<tr>
+					<td>속죄</td>
+					<td>Penance</td>
+					<td>2012</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,430,000</td>
+					<td>132</td>
+				</tr>
+			
+				<tr>
+					<td>블레임 : 인류멸망 2011</td>
+					<td>Pandemic</td>
+					<td>2009</td>
+					<td>일본</td>
+					<td>SF,액션,스릴러</td>
+					<td>주연-마나베 마미역</td>
+					<td>265,974,349</td>
+					<td>41,209</td>
+					<td>261,959,500</td>
+					<td>40,595</td>
+				</tr>
+			
+				<tr>
+					<td>오이시맨</td>
+					<td>Oishii Man</td>
+					<td>2008</td>
+					<td>한국,일본</td>
+					<td>드라마</td>
+					<td>주연-메구미역</td>
+					<td>57,946,352</td>
+					<td>8,569</td>
+					<td>58,068,000</td>
+					<td>8,611</td>
+				</tr>
+			
+				<tr>
+					<td>언덕을 넘어</td>
+					<td>Over the Hill</td>
+					<td>2008</td>
+					<td>일본</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>음표와 다시마</td>
+					<td>The Musical Note And The Seaweed</td>
+					<td>2008</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>홈리스 중학생</td>
+					<td>The Homeless Student</td>
+					<td>2008</td>
+					<td>일본</td>
+					<td>드라마,가족</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스트로베리 쇼트케이크</td>
+					<td>Strawberry Shortcakes</td>
+					<td>2006</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연-사토코 역</td>
+					<td></td>
+					<td></td>
+					<td>146,000</td>
+					<td>23</td>
+				</tr>
+			
+				<tr>
+					<td>기동전사 Z 건담 2: 연인들</td>
+					<td>Mobile Suit Z Gundam 2: A New Translation - Lovers</td>
+					<td>2005</td>
+					<td>일본</td>
+					<td>애니메이션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>나이스의 숲: 퍼스트 컨택트</td>
+					<td>Naisu No Mori: The First Contact</td>
+					<td>2005</td>
+					<td>일본</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>조제, 호랑이 그리고 물고기들</td>
+					<td>Josee, The Tiger And The Fish</td>
+					<td>2003</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>37,258</td>
+					<td>504,304,108</td>
+					<td>73,396</td>
+				</tr>
+			
+				<tr>
+					<td>고양이의 보은</td>
+					<td>The Cat Returns</td>
+					<td>2002</td>
+					<td>일본</td>
+					<td>애니메이션,판타지,코미디,어드벤처</td>
+					<td>주연(목소리)</td>
+					<td>0</td>
+					<td>531,544</td>
+					<td>2,536,000</td>
+					<td>583</td>
+				</tr>
+			
+				<tr>
+					<td>화장사</td>
+					<td>Kewaishi</td>
+					<td>2001</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>금발의 초원</td>
+					<td>Across A Gold Prairie</td>
+					<td>2000</td>
+					<td>일본</td>
+					<td>멜로/로맨스</td>
+					<td>주연-나리스역</td>
+					<td>0</td>
+					<td>6,033</td>
+					<td>38,322,000</td>
+					<td>5,547</td>
+				</tr>
+			
+				<tr>
+					<td>오사카 이야기</td>
+					<td>Osaka Monogatari</td>
+					<td>1999</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

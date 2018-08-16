@@ -1,0 +1,528 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '서영화'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>죄 많은 소녀</td>
+					<td>After My Death</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마,미스터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>3,948,000</td>
+					<td>570</td>
+				</tr>
+			
+				<tr>
+					<td>풀잎들</td>
+					<td>Grass</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>밤의 해변에서 혼자</td>
+					<td>On the Beach at Night Alone </td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연</td>
+					<td>438,976,092</td>
+					<td>56,995</td>
+					<td>439,840,592</td>
+					<td>57,110</td>
+				</tr>
+			
+				<tr>
+					<td>시선 사이</td>
+					<td>If You Were Me</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>17,660,200</td>
+					<td>2,344</td>
+					<td>17,660,200</td>
+					<td>2,344</td>
+				</tr>
+			
+				<tr>
+					<td>나의 기념일 </td>
+					<td>My anniversary</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-엄마 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>초인</td>
+					<td>Overman</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연-연희역</td>
+					<td>52,072,600</td>
+					<td>6,769</td>
+					<td>52,324,600</td>
+					<td>6,805</td>
+				</tr>
+			
+				<tr>
+					<td>지금은맞고그때는틀리다</td>
+					<td>Right Now, Wrong Then</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-주영실역</td>
+					<td>664,112,100</td>
+					<td>80,614</td>
+					<td>665,149,092</td>
+					<td>80,734</td>
+				</tr>
+			
+				<tr>
+					<td>성실한 나라의 앨리스</td>
+					<td>Alice In Earnestland</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-경숙역</td>
+					<td>349,482,500</td>
+					<td>43,964</td>
+					<td>350,231,500</td>
+					<td>44,074</td>
+				</tr>
+			
+				<tr>
+					<td>꿈보다 해몽</td>
+					<td>A Matter of Interpretation</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>조연-누나역</td>
+					<td>32,497,900</td>
+					<td>4,322</td>
+					<td>33,515,900</td>
+					<td>4,801</td>
+				</tr>
+			
+				<tr>
+					<td>자유의 언덕</td>
+					<td>Hill of Freedom</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-권역</td>
+					<td>316,769,827</td>
+					<td>39,091</td>
+					<td>318,681,827</td>
+					<td>39,317</td>
+				</tr>
+			
+				<tr>
+					<td>화이: 괴물을 삼킨 아이</td>
+					<td>Hwayi: A Monster Boy</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>액션,스릴러</td>
+					<td>조연</td>
+					<td>17,695,516,795</td>
+					<td>2,394,466</td>
+					<td>17,695,683,795</td>
+					<td>2,394,487</td>
+				</tr>
+			
+				<tr>
+					<td>마이 라띠마</td>
+					<td>Mai Ratima</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>단역-옥수수 아줌마역</td>
+					<td>49,305,300</td>
+					<td>7,172</td>
+					<td>49,305,300</td>
+					<td>7,172</td>
+				</tr>
+			
+				<tr>
+					<td>사이코메트리</td>
+					<td>The Gifted Hands</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>미스터리</td>
+					<td>주연-준의 모역</td>
+					<td>3,978,107,129</td>
+					<td>534,176</td>
+					<td>3,978,495,129</td>
+					<td>534,273</td>
+				</tr>
+			
+				<tr>
+					<td>범죄소년</td>
+					<td>Juvenile Offender</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-판사역</td>
+					<td>82,327,800</td>
+					<td>11,868</td>
+					<td>94,526,800</td>
+					<td>14,190</td>
+				</tr>
+			
+				<tr>
+					<td>로맨스 조</td>
+					<td>Romance Joe</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>조연-초희 어머니역</td>
+					<td>26,682,600</td>
+					<td>3,526</td>
+					<td>26,960,600</td>
+					<td>3,591</td>
+				</tr>
+			
+				<tr>
+					<td>아이들...</td>
+					<td>Children...</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>범죄,스릴러</td>
+					<td>조연-동필 모역</td>
+					<td>13,579,712,500</td>
+					<td>1,867,849</td>
+					<td>13,579,712,500</td>
+					<td>1,867,849</td>
+				</tr>
+			
+				<tr>
+					<td>옥희의 영화</td>
+					<td>Oki&#039;s Movie</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>조연-주문을 외울 날 - 장수양역</td>
+					<td>285,316,525</td>
+					<td>37,086</td>
+					<td>285,930,900</td>
+					<td>37,122</td>
+				</tr>
+			
+				<tr>
+					<td>우리 집에 왜 왔니</td>
+					<td>On The Way Home</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스,코미디</td>
+					<td>단역-처제 1역</td>
+					<td>1,427,488,305</td>
+					<td>219,962</td>
+					<td>1,411,607,500</td>
+					<td>217,478</td>
+				</tr>
+			
+				<tr>
+					<td>암초가 있는 곳</td>
+					<td>The Submerged Rock</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>잘 알지도 못하면서</td>
+					<td>Like You Know It All</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>조연-제천 - 여배우 심사위원역</td>
+					<td>276,548,483</td>
+					<td>39,914</td>
+					<td>277,419,600</td>
+					<td>39,984</td>
+				</tr>
+			
+				<tr>
+					<td>크로싱</td>
+					<td>Crossing</td>
+					<td>2008</td>
+					<td>한국,중국,몽고</td>
+					<td>드라마</td>
+					<td>조연-용수처 역</td>
+					<td>5,657,365,667</td>
+					<td>907,255</td>
+					<td>5,651,660,500</td>
+					<td>898,000</td>
+				</tr>
+			
+				<tr>
+					<td>비스티 보이즈</td>
+					<td>Beastie Boys</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-승우 모역</td>
+					<td>4,785,372,500</td>
+					<td>727,409</td>
+					<td>4,785,493,000</td>
+					<td>719,587</td>
+				</tr>
+			
+				<tr>
+					<td>슈퍼맨이었던 사나이</td>
+					<td>A Man Who Was Superman</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>조연-희정 모/슈퍼맨 아내역</td>
+					<td>3,688,309,333</td>
+					<td>559,705</td>
+					<td>3,642,192,500</td>
+					<td>550,284</td>
+				</tr>
+			
+				<tr>
+					<td>리턴</td>
+					<td>Wide Awake</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>미스터리,스릴러</td>
+					<td>조연-상우 모역</td>
+					<td>0</td>
+					<td>677,939</td>
+					<td>4,271,881,500</td>
+					<td>641,852</td>
+				</tr>
+			
+				<tr>
+					<td>해부학 교실</td>
+					<td>Cadaver</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>공포(호러),스릴러</td>
+					<td>단역-선화 모역</td>
+					<td>0</td>
+					<td>622,400</td>
+					<td>3,627,352,500</td>
+					<td>574,302</td>
+				</tr>
+			
+				<tr>
+					<td>마음이...</td>
+					<td>Hearty Paws</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-고모역</td>
+					<td>0</td>
+					<td>1,042,166</td>
+					<td>4,639,709,300</td>
+					<td>817,939</td>
+				</tr>
+			
+				<tr>
+					<td>연애의 목적</td>
+					<td>Rules Of Dating</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>드라마,코미디,멜로/로맨스</td>
+					<td>단역-국어선생역</td>
+					<td>0</td>
+					<td>1,735,977</td>
+					<td>9,846,423,390</td>
+					<td>1,524,898</td>
+				</tr>
+			
+				<tr>
+					<td>임성옥 자살기</td>
+					<td>Let Me Die</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td></td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>세 개의 멜로</td>
+					<td>Melo</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>기타</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>핑거프린트</td>
+					<td>Fingerprint</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>미스터리,공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>9,000</td>
+					<td>2</td>
+				</tr>
+			
+				<tr>
+					<td>흡연모녀</td>
+					<td>Smoke-flavored Life</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td></td>
+					<td>주연-엄마역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>살인의 추억</td>
+					<td>Memories Of Murder</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>단역-언덕 여역</td>
+					<td></td>
+					<td>5,255,376</td>
+					<td>23,573,997</td>
+					<td>3,833</td>
+				</tr>
+			
+				<tr>
+					<td>사물의 기억</td>
+					<td>Memoriy of things</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>기타</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>원 파인 데이</td>
+					<td>One Fine Day</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>기타</td>
+					<td>주연-H의 아내 역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>뽀삐</td>
+					<td>Popee</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td>1,533</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>휴가</td>
+					<td>A Vacation</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-창희역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>더 먼 곳</td>
+					<td>So long</td>
+					<td></td>
+					<td>한국</td>
+					<td>기타</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>120,000</td>
+					<td>60</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,619 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '유청운'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>경심파</td>
+					<td>Heartfall Arises</td>
+					<td>2016</td>
+					<td>홍콩</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>132,000</td>
+					<td>59</td>
+					<td>132,000</td>
+					<td>59</td>
+				</tr>
+			
+				<tr>
+					<td>사랑: 세 도시 이야기</td>
+					<td>A Tale Of Three Cities</td>
+					<td>2015</td>
+					<td>중국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>183,000</td>
+					<td>49</td>
+					<td>403,000</td>
+					<td>83</td>
+				</tr>
+			
+				<tr>
+					<td>무간지옥 - 아웃 오브 인페르노</td>
+					<td>Out Of Inferno</td>
+					<td>2013</td>
+					<td>홍콩,중국</td>
+					<td>드라마,액션,스릴러</td>
+					<td>주연</td>
+					<td>1,040,000</td>
+					<td>130</td>
+					<td>1,040,000</td>
+					<td>130</td>
+				</tr>
+			
+				<tr>
+					<td>중화 명탐정</td>
+					<td>The Bullet Vanishes</td>
+					<td>2013</td>
+					<td>중국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>10,368,000</td>
+					<td>2,673</td>
+					<td>10,368,000</td>
+					<td>2,673</td>
+				</tr>
+			
+				<tr>
+					<td>대마술사</td>
+					<td>The Great Magician</td>
+					<td>2011</td>
+					<td>홍콩,중국</td>
+					<td>액션,판타지</td>
+					<td>주연</td>
+					<td>3,517,000</td>
+					<td>1,661</td>
+					<td>3,517,000</td>
+					<td>1,661</td>
+				</tr>
+			
+				<tr>
+					<td>탈명금: 사라진 천만 달러의 행방</td>
+					<td>Life Without Principle</td>
+					<td>2011</td>
+					<td>홍콩</td>
+					<td>스릴러,액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>재생호</td>
+					<td>Written by</td>
+					<td>2009</td>
+					<td>홍콩</td>
+					<td>드라마,판타지</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>절청풍운</td>
+					<td>Overheard</td>
+					<td>2009</td>
+					<td>홍콩,싱가포르,중국</td>
+					<td>액션,스릴러,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>포커킹</td>
+					<td>Poker King</td>
+					<td>2009</td>
+					<td>홍콩</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>매드 디텍티브</td>
+					<td>Mad Detective</td>
+					<td>2007</td>
+					<td>홍콩</td>
+					<td>액션,스릴러,범죄</td>
+					<td>주연</td>
+					<td>27,285,000</td>
+					<td>4,020</td>
+					<td>27,923,500</td>
+					<td>4,117</td>
+				</tr>
+			
+				<tr>
+					<td>마술 조롱박의 비밀</td>
+					<td>The Secret of the Magic Gourd</td>
+					<td>2007</td>
+					<td>중국,홍콩,미국</td>
+					<td>드라마,가족</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아요성명</td>
+					<td>My Name Is Fame</td>
+					<td>2006</td>
+					<td>홍콩</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>최애여인구물광</td>
+					<td>The Shopaholics</td>
+					<td>2006</td>
+					<td>홍콩</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>신교육귀</td>
+					<td>The Attractive One</td>
+					<td>2004</td>
+					<td>홍콩</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>전양삼보</td>
+					<td>Three Of A Kind</td>
+					<td>2004</td>
+					<td>홍콩</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>절세호빈</td>
+					<td>Driving Miss Wealthy</td>
+					<td>2004</td>
+					<td>홍콩</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>칠년흔양</td>
+					<td>Itchy Heart</td>
+					<td>2004</td>
+					<td>홍콩</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>망불료</td>
+					<td>Lost In Time</td>
+					<td>2003</td>
+					<td>홍콩</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>역고력고신년재</td>
+					<td>Fat Choi Spirit</td>
+					<td>2002</td>
+					<td>홍콩</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>암전 2</td>
+					<td>Running Out Of Time 2</td>
+					<td>2001</td>
+					<td>홍콩</td>
+					<td>범죄,액션</td>
+					<td>주연</td>
+					<td>1,410,000</td>
+					<td>872</td>
+					<td>1,410,000</td>
+					<td>872</td>
+				</tr>
+			
+				<tr>
+					<td>런치 위드 찰스</td>
+					<td>Lunch With Charles</td>
+					<td>2001</td>
+					<td>홍콩,캐나다</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>절세호브라</td>
+					<td>La Brassiere</td>
+					<td>2001</td>
+					<td>홍콩</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>우견아랑 2</td>
+					<td>Where A Good Man Goes</td>
+					<td>1999</td>
+					<td>홍콩</td>
+					<td>액션,범죄</td>
+					<td>주연-마이클역</td>
+					<td>0</td>
+					<td>32</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>암전</td>
+					<td>Running Out Of Time</td>
+					<td>1999</td>
+					<td>홍콩</td>
+					<td>범죄,액션</td>
+					<td>주연-아랑역</td>
+					<td>0</td>
+					<td>361</td>
+					<td>2,640,000</td>
+					<td>2,620</td>
+				</tr>
+			
+				<tr>
+					<td>목로흉광</td>
+					<td>The Victim</td>
+					<td>1999</td>
+					<td>홍콩</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>삼합회</td>
+					<td>The H.K. Triad</td>
+					<td>1999</td>
+					<td>홍콩</td>
+					<td>액션,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>더 히어로 </td>
+					<td>A Hero Never Dies</td>
+					<td>1998</td>
+					<td>중국,홍콩</td>
+					<td>범죄,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>4,442</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>비상돌연</td>
+					<td>Expect The Unexpected</td>
+					<td>1998</td>
+					<td>홍콩</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>화급</td>
+					<td>Lifeline</td>
+					<td>1997</td>
+					<td>홍콩</td>
+					<td>스릴러,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>99</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>넘버 원이 되는 법</td>
+					<td>Too Many Ways To Be No. 1</td>
+					<td>1997</td>
+					<td>홍콩</td>
+					<td>액션,코미디,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>서기의 빅대디</td>
+					<td>My Dad Is A Jerk</td>
+					<td>1997</td>
+					<td>홍콩</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>최후판결</td>
+					<td>Final Justice</td>
+					<td>1997</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>보로배수 </td>
+					<td>Only Fools Fall In Love</td>
+					<td>1996</td>
+					<td>홍콩</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,252</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>노화가두</td>
+					<td>Emergency Unit: Angry Fire Street Corner</td>
+					<td>1996</td>
+					<td>홍콩</td>
+					<td>액션,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>50</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>언픽스</td>
+					<td>Unfix</td>
+					<td>1996</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>31,170</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>대삼원 </td>
+					<td>Tristar</td>
+					<td>1996</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,187</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>양조위의 유망의생 </td>
+					<td>Doctor Mack</td>
+					<td>1995</td>
+					<td>홍콩</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,605</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>신탐마루 </td>
+					<td>I Wanna Be Your Man</td>
+					<td>1995</td>
+					<td>홍콩</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>124</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>무미신탐 </td>
+					<td>Loving You</td>
+					<td>1995</td>
+					<td>홍콩</td>
+					<td>액션,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>719</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>용호신풍운</td>
+					<td></td>
+					<td>1995</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>480</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>신불료정 </td>
+					<td>That&#039;S Life My Darling</td>
+					<td>1994</td>
+					<td>홍콩</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>6,344</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>대부지가</td>
+					<td>It&#039;s A Wonderful Life</td>
+					<td>1994</td>
+					<td>홍콩</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>취생몽사</td>
+					<td>The Tiger of Waichai</td>
+					<td>1994</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>부시맨 3-크레이지 홍콩</td>
+					<td>Bush Man 3 Crazy Hongkong</td>
+					<td>1993</td>
+					<td>홍콩</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>5,510</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

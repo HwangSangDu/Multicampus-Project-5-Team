@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '공명'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>극한직업</td>
+					<td></td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>수색역</td>
+					<td>Su saek</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마,액션,범죄</td>
+					<td>주연-상우역</td>
+					<td>14,192,700</td>
+					<td>1,851</td>
+					<td>14,224,700</td>
+					<td>1,859</td>
+				</tr>
+			
+				<tr>
+					<td>도희야</td>
+					<td>A Girl at My Door</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-권의경역</td>
+					<td>830,948,100</td>
+					<td>106,511</td>
+					<td>831,731,100</td>
+					<td>106,658</td>
+				</tr>
+			
+				<tr>
+					<td>이것이 우리의 끝이다</td>
+					<td>Futureless Things </td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-기철역</td>
+					<td>21,283,800</td>
+					<td>2,898</td>
+					<td>21,451,800</td>
+					<td>2,926</td>
+				</tr>
+			
+				<tr>
+					<td>어떤 시선</td>
+					<td>If You Were Me 6</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-선재역</td>
+					<td>204,028,800</td>
+					<td>31,048</td>
+					<td>207,460,800</td>
+					<td>31,483</td>
+				</tr>
+			
+				<tr>
+					<td>얼음강</td>
+					<td>Ice River</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>368,000</td>
+					<td>61</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

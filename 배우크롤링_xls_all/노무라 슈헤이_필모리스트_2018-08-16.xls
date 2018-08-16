@@ -1,0 +1,138 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '노무라 슈헤이'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>사쿠라다 리셋 –전편-</td>
+					<td>Sakurada Reset 1</td>
+					<td>2017</td>
+					<td>일본</td>
+					<td>SF,판타지</td>
+					<td>주연</td>
+					<td>5,815,000</td>
+					<td>1,107</td>
+					<td>6,015,000</td>
+					<td>1,132</td>
+				</tr>
+			
+				<tr>
+					<td>사쿠라다 리셋 –후편-</td>
+					<td>Sakurada Reset 2</td>
+					<td>2017</td>
+					<td>일본</td>
+					<td>SF,판타지</td>
+					<td>주연</td>
+					<td>5,716,000</td>
+					<td>1,091</td>
+					<td>5,907,000</td>
+					<td>1,116</td>
+				</tr>
+			
+				<tr>
+					<td>치하야후루 상편</td>
+					<td>Chihayafuru Part 1</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>290,000</td>
+					<td>36</td>
+					<td>290,000</td>
+					<td>36</td>
+				</tr>
+			
+				<tr>
+					<td>치하야후루 하편</td>
+					<td>Chihayafuru Part 2</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>290,000</td>
+					<td>36</td>
+					<td>290,000</td>
+					<td>36</td>
+				</tr>
+			
+				<tr>
+					<td>불량소녀, 너를 응원해!</td>
+					<td>Flying Colors</td>
+					<td>2015</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>조연-모리 레이지 역역</td>
+					<td>140,509,000</td>
+					<td>17,875</td>
+					<td>140,509,000</td>
+					<td>17,875</td>
+				</tr>
+			
+				<tr>
+					<td>비밀결사: 라이치 히카리 클럽</td>
+					<td>Litchi Hikari Club</td>
+					<td>2015</td>
+					<td>일본</td>
+					<td>미스터리,공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>퍼즐</td>
+					<td>Puzzle</td>
+					<td>2014</td>
+					<td>일본</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td>1,170,000</td>
+					<td>130</td>
+					<td>1,170,000</td>
+					<td>130</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

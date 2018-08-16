@@ -1,0 +1,255 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '줄리아 스타일즈'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>위풍당당 질리 홉킨스</td>
+					<td>The Great Gilly Hopkins </td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>코미디,가족,드라마</td>
+					<td>주연-코트니 러더포드 홉킨스 역역</td>
+					<td>14,192,500</td>
+					<td>2,153</td>
+					<td>14,208,500</td>
+					<td>2,157</td>
+				</tr>
+			
+				<tr>
+					<td>제이슨 본</td>
+					<td>Jason Bourne</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>21,253,434,663</td>
+					<td>2,611,966</td>
+					<td>21,253,434,663</td>
+					<td>2,611,966</td>
+				</tr>
+			
+				<tr>
+					<td>비트윈 어스</td>
+					<td>Between Us</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>5,000</td>
+					<td>1</td>
+					<td>5,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>본 얼티메이텀</td>
+					<td>The Bourne Ultimatum</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>액션,스릴러,미스터리,어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,052,800</td>
+					<td>13,316,615,000</td>
+					<td>2,005,155</td>
+				</tr>
+			
+				<tr>
+					<td>오멘</td>
+					<td>The Omen</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>공포(호러)</td>
+					<td>주연-캐서린 쏜역</td>
+					<td>0</td>
+					<td>318,350</td>
+					<td>1,857,061,800</td>
+					<td>292,333</td>
+				</tr>
+			
+				<tr>
+					<td>에드몬드의 범죄</td>
+					<td>Edmond</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>천국으로 가는 초라한 여행</td>
+					<td>A Little Trip To Heaven</td>
+					<td>2005</td>
+					<td>아이슬란드,미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>내 남자 친구는 왕자님</td>
+					<td>The Prince &amp; Me</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>72,694</td>
+					<td>344,187,000</td>
+					<td>52,261</td>
+				</tr>
+			
+				<tr>
+					<td>모나리자 스마일</td>
+					<td>Mona Lisa Smile</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>120,995</td>
+					<td>238,920,500</td>
+					<td>37,280</td>
+				</tr>
+			
+				<tr>
+					<td>총각은 어려워</td>
+					<td>A Guy Thing</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>비지니스 오브 스트레인저스</td>
+					<td>The Business Of Strangers</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>세이브 더 라스트 댄스</td>
+					<td>Save The Last Dance</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>오</td>
+					<td>O</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>멜로/로맨스,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>다운 투 유</td>
+					<td>Down To You</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연-이모겐역</td>
+					<td>0</td>
+					<td>1,181</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>내가 널 사랑할 수 없는 10가지 이유</td>
+					<td>10 Things I Hate About You</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>위키드</td>
+					<td>Wicked</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

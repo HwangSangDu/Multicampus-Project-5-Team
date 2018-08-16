@@ -1,0 +1,489 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '송강호'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>나랏말싸미</td>
+					<td></td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>사극</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>패러사이트</td>
+					<td></td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>택시운전사</td>
+					<td>A Taxi Driver</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-김만섭역</td>
+					<td>95,855,737,149</td>
+					<td>12,186,684</td>
+					<td>95,868,830,649</td>
+					<td>12,189,195</td>
+				</tr>
+			
+				<tr>
+					<td>마약왕</td>
+					<td>DRUG KING</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>제5열</td>
+					<td></td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>밀정</td>
+					<td>The Age of Shadows</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>61,269,783,831</td>
+					<td>7,500,420</td>
+					<td>61,270,079,831</td>
+					<td>7,500,457</td>
+				</tr>
+			
+				<tr>
+					<td>사도</td>
+					<td>The Throne</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>사극</td>
+					<td>주연</td>
+					<td>48,842,902,501</td>
+					<td>6,246,849</td>
+					<td>48,846,045,501</td>
+					<td>6,247,651</td>
+				</tr>
+			
+				<tr>
+					<td>변호인</td>
+					<td>The Attorney</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-송우석역</td>
+					<td>82,871,759,300</td>
+					<td>11,374,610</td>
+					<td>82,872,378,788</td>
+					<td>11,374,879</td>
+				</tr>
+			
+				<tr>
+					<td>관상</td>
+					<td>The Face Reader</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>사극,드라마</td>
+					<td>주연-내경역</td>
+					<td>66,005,451,500</td>
+					<td>9,134,586</td>
+					<td>66,009,826,500</td>
+					<td>9,135,806</td>
+				</tr>
+			
+				<tr>
+					<td>설국열차</td>
+					<td>Snowpiercer</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>SF,액션</td>
+					<td>주연</td>
+					<td>67,010,077,500</td>
+					<td>9,349,991</td>
+					<td>67,012,453,200</td>
+					<td>9,350,351</td>
+				</tr>
+			
+				<tr>
+					<td>청출어람</td>
+					<td>DAY TRIP</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마,판타지</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>5,094,000</td>
+					<td>594</td>
+				</tr>
+			
+				<tr>
+					<td>하울링</td>
+					<td>HOWLING</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>범죄,드라마</td>
+					<td>주연-조상길역</td>
+					<td>11,765,293,500</td>
+					<td>1,612,554</td>
+					<td>11,765,293,500</td>
+					<td>1,612,554</td>
+				</tr>
+			
+				<tr>
+					<td>푸른소금</td>
+					<td>Hindsight</td>
+					<td>2011</td>
+					<td>한국,필리핀</td>
+					<td>액션,드라마,멜로/로맨스</td>
+					<td>주연-윤두헌역</td>
+					<td>5,739,824,500</td>
+					<td>771,699</td>
+					<td>5,739,824,500</td>
+					<td>771,699</td>
+				</tr>
+			
+				<tr>
+					<td>의형제</td>
+					<td>Secret Reunion</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마,액션</td>
+					<td>주연-이한규역</td>
+					<td>40,800,867,602</td>
+					<td>5,507,106</td>
+					<td>40,153,817,000</td>
+					<td>5,416,829</td>
+				</tr>
+			
+				<tr>
+					<td>박쥐</td>
+					<td>Thirst</td>
+					<td>2008</td>
+					<td>한국,미국,호주</td>
+					<td>공포(호러),드라마</td>
+					<td>주연-상현역</td>
+					<td>15,051,788,827</td>
+					<td>2,237,271</td>
+					<td>14,846,847,500</td>
+					<td>2,206,948</td>
+				</tr>
+			
+				<tr>
+					<td>좋은 놈, 나쁜 놈, 이상한 놈 </td>
+					<td>The Good, The Bad, And The Weird</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>서부극(웨스턴),액션,어드벤처</td>
+					<td>주연-이상한 놈, 윤태구역</td>
+					<td>43,768,628,939</td>
+					<td>6,686,912</td>
+					<td>43,755,789,000</td>
+					<td>6,686,054</td>
+				</tr>
+			
+				<tr>
+					<td>좋은 놈, 나쁜 놈, 이상한 놈(칸버전)</td>
+					<td>The Good, the Bad, and the Weird(Cannes Version)</td>
+					<td>2008</td>
+					<td>한국,중국,홍콩</td>
+					<td>서부극(웨스턴),액션,어드벤처</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>228,000</td>
+					<td>37</td>
+				</tr>
+			
+				<tr>
+					<td>밀양</td>
+					<td>Secret Sunshine</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-카센터 사장, 김종찬 역</td>
+					<td>0</td>
+					<td>1,710,364</td>
+					<td>10,270,292,500</td>
+					<td>1,604,439</td>
+				</tr>
+			
+				<tr>
+					<td>우아한 세계</td>
+					<td>The Show Must Go On</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,025,781</td>
+					<td>6,161,685,500</td>
+					<td>960,658</td>
+				</tr>
+			
+				<tr>
+					<td>괴물</td>
+					<td>The Host</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>SF,가족,드라마</td>
+					<td>주연-강두역</td>
+					<td>0</td>
+					<td>13,019,740</td>
+					<td>66,716,119,300</td>
+					<td>10,917,224</td>
+				</tr>
+			
+				<tr>
+					<td>친절한 금자씨</td>
+					<td>Sympathy For Lady Vengeance</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>조연-납치범 1(우정출연) 역</td>
+					<td>0</td>
+					<td>3,650,000</td>
+					<td>20,491,973,593</td>
+					<td>3,120,784</td>
+				</tr>
+			
+				<tr>
+					<td>남극일기</td>
+					<td>Antarctic Journal</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,057,311</td>
+					<td>5,478,113,500</td>
+					<td>871,235</td>
+				</tr>
+			
+				<tr>
+					<td>효자동 이발사</td>
+					<td>The President&#039;s Barber</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,972,377</td>
+					<td>4,855,872,900</td>
+					<td>748,380</td>
+				</tr>
+			
+				<tr>
+					<td>살인의 추억</td>
+					<td>Memories Of Murder</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td>5,255,376</td>
+					<td>23,573,997</td>
+					<td>3,833</td>
+				</tr>
+			
+				<tr>
+					<td>사랑의 힘</td>
+					<td>The Power Of Love</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>기타</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>YMCA야구단</td>
+					<td>YMCA Baseball Team</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td>560,000</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>복수는 나의 것</td>
+					<td>Sympathy for Mr. Vengeance</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>범죄,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td>162,517</td>
+					<td>10,456,500</td>
+					<td>1,421</td>
+				</tr>
+			
+				<tr>
+					<td>공동경비구역 JSA</td>
+					<td>Joint Security Area /JSA</td>
+					<td>2000</td>
+					<td>한국</td>
+					<td>드라마,미스터리</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,513,540</td>
+					<td>8,924,700</td>
+					<td>1,179</td>
+				</tr>
+			
+				<tr>
+					<td>반칙왕</td>
+					<td>The Foul King</td>
+					<td>2000</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연-대호역</td>
+					<td>0</td>
+					<td>787,423</td>
+					<td>602,000</td>
+					<td>80</td>
+				</tr>
+			
+				<tr>
+					<td>쉬리</td>
+					<td>Swiri</td>
+					<td>1999</td>
+					<td>한국</td>
+					<td>액션,드라마,멜로/로맨스,미스터리</td>
+					<td>주연-이장길역</td>
+					<td>0</td>
+					<td>5,820,000</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>조용한 가족</td>
+					<td>The Quiet Family</td>
+					<td>1998</td>
+					<td>한국</td>
+					<td>드라마,미스터리,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>343,946</td>
+					<td>314,500</td>
+					<td>41</td>
+				</tr>
+			
+				<tr>
+					<td>넘버 3</td>
+					<td>No. 3</td>
+					<td>1997</td>
+					<td>한국</td>
+					<td>코미디,액션,범죄</td>
+					<td>주연-조필역</td>
+					<td>0</td>
+					<td>297,617</td>
+					<td>620,500</td>
+					<td>82</td>
+				</tr>
+			
+				<tr>
+					<td>초록물고기</td>
+					<td>Green Fish</td>
+					<td>1997</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>163,655</td>
+					<td>1,087,000</td>
+					<td>161</td>
+				</tr>
+			
+				<tr>
+					<td>돼지가 우물에 빠진 날</td>
+					<td>The Day A Pig Fell Into A Well</td>
+					<td>1996</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역</td>
+					<td>0</td>
+					<td>37,103</td>
+					<td>606,000</td>
+					<td>95</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

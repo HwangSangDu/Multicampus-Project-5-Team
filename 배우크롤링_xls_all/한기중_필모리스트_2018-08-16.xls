@@ -1,0 +1,307 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '한기중'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>타투</td>
+					<td>Tattoo</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>조연-반장역</td>
+					<td>99,263,100</td>
+					<td>12,103</td>
+					<td>99,263,100</td>
+					<td>12,103</td>
+				</tr>
+			
+				<tr>
+					<td>외계인들</td>
+					<td></td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>코미디,미스터리,SF</td>
+					<td>주연-최면술사 에코역</td>
+					<td>270,000</td>
+					<td>54</td>
+					<td>270,000</td>
+					<td>54</td>
+				</tr>
+			
+				<tr>
+					<td>제보자</td>
+					<td>The Whistleblower</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-국정원장역</td>
+					<td>13,515,762,802</td>
+					<td>1,755,181</td>
+					<td>13,515,762,802</td>
+					<td>1,755,181</td>
+				</tr>
+			
+				<tr>
+					<td>변호인</td>
+					<td>The Attorney</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-이흥기역</td>
+					<td>82,871,759,300</td>
+					<td>11,374,610</td>
+					<td>82,872,378,788</td>
+					<td>11,374,879</td>
+				</tr>
+			
+				<tr>
+					<td>부러진 화살</td>
+					<td>Unbowed</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-재단 이사장역</td>
+					<td>25,936,754,000</td>
+					<td>3,459,780</td>
+					<td>25,938,096,000</td>
+					<td>3,460,212</td>
+				</tr>
+			
+				<tr>
+					<td>풍산개</td>
+					<td>Poongsan</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-과장역</td>
+					<td>5,395,019,500</td>
+					<td>714,102</td>
+					<td>5,395,201,500</td>
+					<td>714,136</td>
+				</tr>
+			
+				<tr>
+					<td>적과의 동침</td>
+					<td>In Love And the War</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>조연-정웅 아버지역</td>
+					<td>1,740,340,000</td>
+					<td>243,094</td>
+					<td>1,740,340,000</td>
+					<td>243,094</td>
+				</tr>
+			
+				<tr>
+					<td>피의 수확</td>
+					<td>Red Harvest</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>드라마,판타지</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>0</td>
+					<td>0</td>
+				</tr>
+			
+				<tr>
+					<td>비몽</td>
+					<td>Dream</td>
+					<td>2008</td>
+					<td>한국,일본</td>
+					<td>드라마,멜로/로맨스,판타지</td>
+					<td>단역-강력계 조서경찰역</td>
+					<td>585,055,618</td>
+					<td>87,963</td>
+					<td>595,407,500</td>
+					<td>89,858</td>
+				</tr>
+			
+				<tr>
+					<td>영화는 영화다</td>
+					<td>Rough Cut</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>액션,드라마,범죄</td>
+					<td>조연-박 사장역</td>
+					<td>8,943,849,000</td>
+					<td>1,307,688</td>
+					<td>8,967,441,000</td>
+					<td>1,311,118</td>
+				</tr>
+			
+				<tr>
+					<td>오프 로드</td>
+					<td>Off Road</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>프로듀서</td>
+					<td>0</td>
+					<td>561</td>
+					<td>3,108,000</td>
+					<td>517</td>
+				</tr>
+			
+				<tr>
+					<td>키로기</td>
+					<td>kirogi</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-반장역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>강적</td>
+					<td>Les Formidables</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>액션,드라마</td>
+					<td>조연-장 검사역</td>
+					<td>0</td>
+					<td>361,155</td>
+					<td>1,956,841,000</td>
+					<td>318,142</td>
+				</tr>
+			
+				<tr>
+					<td>역전의 명수</td>
+					<td>The Twins</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>단역-반장역</td>
+					<td>0</td>
+					<td>602,078</td>
+					<td>3,222,783,000</td>
+					<td>510,290</td>
+				</tr>
+			
+				<tr>
+					<td>로드무비</td>
+					<td>Road Movie</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-석원 선배역</td>
+					<td></td>
+					<td>16,039</td>
+					<td>325,000</td>
+					<td>61</td>
+				</tr>
+			
+				<tr>
+					<td>정글쥬스</td>
+					<td>Jungle Juice</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>액션,코미디</td>
+					<td>조연-김 형사역</td>
+					<td></td>
+					<td>286,270</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>신 도시인</td>
+					<td>Living in New Town</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>버스, 정류장</td>
+					<td>L’Abri</td>
+					<td>2001</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>단역-원장역</td>
+					<td></td>
+					<td>37,704</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>와이키키 브라더스</td>
+					<td>Waikiki Brothers</td>
+					<td>2001</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-민수역</td>
+					<td>0</td>
+					<td>88,214</td>
+					<td>1,648,900</td>
+					<td>263</td>
+				</tr>
+			
+				<tr>
+					<td>인디안 썸머</td>
+					<td>Indian Summer</td>
+					<td>2001</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-신경외과 의사역</td>
+					<td>0</td>
+					<td>388,865</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,359 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '마틴 쉰'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>트래쉬</td>
+					<td>Trash</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>어드벤처,드라마,스릴러</td>
+					<td>주연</td>
+					<td>182,102,913</td>
+					<td>25,260</td>
+					<td>183,546,913</td>
+					<td>25,532</td>
+				</tr>
+			
+				<tr>
+					<td>어메이징 스파이더맨</td>
+					<td>The Amazing Spider - Man</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>41,163,951,235</td>
+					<td>4,853,123</td>
+					<td>41,165,656,235</td>
+					<td>4,853,273</td>
+				</tr>
+			
+				<tr>
+					<td>더블</td>
+					<td>The Double</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>범죄,드라마,미스터리,스릴러,액션</td>
+					<td>주연</td>
+					<td>28,004,500</td>
+					<td>4,068</td>
+					<td>28,004,500</td>
+					<td>4,068</td>
+				</tr>
+			
+				<tr>
+					<td>누가 전기자동차를 죽였나?</td>
+					<td>Who Killed the Electric Car?</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>다큐멘터리</td>
+					<td>주연-나레이터역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>마틴 쉰의 데들리포스</td>
+					<td>D.R.E.A.M.Team</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>액션,어드벤처</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스톰체이서</td>
+					<td>Storm</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>텍사스 퓨너럴</td>
+					<td>A Texas Funeral</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>코미디,드라마,판타지</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>샤드라크</td>
+					<td>Shadrach</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>가족,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>24</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>코드제로 </td>
+					<td>No Code Of Conduct</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>액션,스릴러,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>3,893</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>죽은 자의 청구서</td>
+					<td>A Letter From Death Row</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>범죄,드라마,미스터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>매치 포인트</td>
+					<td>THE BREAK</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>86</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>대통령의 연인</td>
+					<td>The American President</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>168,346</td>
+					<td>441,000</td>
+					<td>150</td>
+				</tr>
+			
+				<tr>
+					<td>천사의 침묵 </td>
+					<td>When The Bough Breaks</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>67,462</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>게티스버그</td>
+					<td>Gettysburg</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>전쟁,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>파리에서 생긴 일</td>
+					<td>The Maid</td>
+					<td>1992</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>8,652</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>저지먼트 인 베를린</td>
+					<td>Judgment in Berlin </td>
+					<td>1988</td>
+					<td>서독,미국</td>
+					<td>드라마</td>
+					<td>주연-허버트 J 스턴 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>고독한 수호자</td>
+					<td>The Guardian</td>
+					<td>1984</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>7일간의 사랑 </td>
+					<td>Man Woman And Childs</td>
+					<td>1983</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-밥 백워드역</td>
+					<td>0</td>
+					<td>174,146</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>최후의 카운트다운</td>
+					<td>The Final Countdown</td>
+					<td>1980</td>
+					<td>미국</td>
+					<td>SF,어드벤처,전쟁</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>지옥의 묵시록 : 리덕스</td>
+					<td>Apocalypse Now Redux</td>
+					<td>1979</td>
+					<td>미국</td>
+					<td>전쟁,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>61,726</td>
+					<td>15,162,800</td>
+					<td>2,808</td>
+				</tr>
+			
+				<tr>
+					<td>지옥의 묵시록</td>
+					<td>Apocalypse Now</td>
+					<td>1979</td>
+					<td>미국</td>
+					<td>전쟁,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>305,029</td>
+					<td>827,000</td>
+					<td>396</td>
+				</tr>
+			
+				<tr>
+					<td>카산드라 크로스</td>
+					<td>THE CASSANDRA CROSSING</td>
+					<td>1976</td>
+					<td>미국</td>
+					<td>액션,스릴러,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td>156,549</td>
+					<td>211,000</td>
+					<td>79</td>
+				</tr>
+			
+				<tr>
+					<td>리틀 걸</td>
+					<td>The Little Girl Who Lives Down The Lane</td>
+					<td>1976</td>
+					<td>캐나다,미국,프랑스</td>
+					<td>공포(호러),미스터리,스릴러</td>
+					<td>주연-프랭크 핼릿 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>물망초</td>
+					<td>Forget me never</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

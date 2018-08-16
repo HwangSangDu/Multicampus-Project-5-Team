@@ -1,0 +1,229 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '윌리엄 포사이스'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>킬러</td>
+					<td>Laugh Killer Laugh</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션,범죄,스릴러</td>
+					<td>주연</td>
+					<td>15,000</td>
+					<td>2</td>
+					<td>15,000</td>
+					<td>2</td>
+				</tr>
+			
+				<tr>
+					<td>에코스 오브 워</td>
+					<td>Echoes of War</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>드라마,스릴러,서부극(웨스턴)</td>
+					<td>주연</td>
+					<td>14,000</td>
+					<td>2</td>
+					<td>14,000</td>
+					<td>2</td>
+				</tr>
+			
+				<tr>
+					<td>히든 인 더 우즈</td>
+					<td>Hidden in the Woods</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>스릴러,공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>5,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>L.A.아이 헤이트 유</td>
+					<td>L.A., I Hate You</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>제시 </td>
+					<td>Jesse</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연-빈스 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>8광구: 몬스터의 부활</td>
+					<td>The Rig</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>SF,공포(호러)</td>
+					<td>주연</td>
+					<td>1,060,000</td>
+					<td>294</td>
+					<td>1,060,000</td>
+					<td>294</td>
+				</tr>
+			
+				<tr>
+					<td>새벽의 저주-악령의 부활</td>
+					<td>Southern Gothic</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>공포(호러)</td>
+					<td>조연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>마지막 편지</td>
+					<td>The Last Letter</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>스릴러,드라마,미스터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>UC: 언더커버</td>
+					<td>UC: Undercover</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>드라마,액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>듀스 비갈로</td>
+					<td>Deuce Bigalow : Male Gigolo</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연-척 포울러역</td>
+					<td>0</td>
+					<td>4,769</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>헬스 키친</td>
+					<td>Hell&#039;s Kitchen</td>
+					<td>1998</td>
+					<td>캐나다</td>
+					<td>드라마,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>고티 </td>
+					<td>Gotti</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>드라마,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>30</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>야망의 그림자 </td>
+					<td>Beyond Desire</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>972</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>더 네일</td>
+					<td>The Nail: The Story of Joey Nardone</td>
+					<td></td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-Massimo 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

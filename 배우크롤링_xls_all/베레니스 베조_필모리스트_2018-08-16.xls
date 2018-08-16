@@ -1,0 +1,164 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '베레니스 베조'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>이터너티</td>
+					<td>Eternite</td>
+					<td>2016</td>
+					<td>프랑스</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>34,559,100</td>
+					<td>4,647</td>
+					<td>34,559,100</td>
+					<td>4,647</td>
+				</tr>
+			
+				<tr>
+					<td>더 서치</td>
+					<td>The Search</td>
+					<td>2014</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아무도 머물지 않았다</td>
+					<td>The Past</td>
+					<td>2013</td>
+					<td>프랑스,이탈리아</td>
+					<td>드라마,미스터리</td>
+					<td>주연-마리역</td>
+					<td>117,038,500</td>
+					<td>15,519</td>
+					<td>118,103,500</td>
+					<td>15,753</td>
+				</tr>
+			
+				<tr>
+					<td>사랑은 타이핑 중!</td>
+					<td>POPULAIRE</td>
+					<td>2012</td>
+					<td>프랑스</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>조연</td>
+					<td>88,024,561</td>
+					<td>13,029</td>
+					<td>88,641,561</td>
+					<td>13,115</td>
+				</tr>
+			
+				<tr>
+					<td>아티스트</td>
+					<td>The Artist</td>
+					<td>2011</td>
+					<td>미국,프랑스</td>
+					<td>멜로/로맨스,코미디,드라마</td>
+					<td>주연-페피 역</td>
+					<td>919,719,100</td>
+					<td>120,155</td>
+					<td>923,407,600</td>
+					<td>120,634</td>
+				</tr>
+			
+				<tr>
+					<td>OSS 117 스파이의 둥지 </td>
+					<td>OSS 117: Cairo, Nest of Spies</td>
+					<td>2006</td>
+					<td>프랑스</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>237,000</td>
+					<td>30</td>
+				</tr>
+			
+				<tr>
+					<td>그랑 롤</td>
+					<td>The Great Role</td>
+					<td>2004</td>
+					<td>프랑스</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>여성 삶의 24시</td>
+					<td>24 Hours In The Life Of A Woman</td>
+					<td>2002</td>
+					<td>프랑스,독일,영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>최우수 여자 신인배우상</td>
+					<td>Meilleur Espoir Feminin</td>
+					<td>2000</td>
+					<td>프랑스</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

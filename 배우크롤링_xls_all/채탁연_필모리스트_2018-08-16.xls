@@ -1,0 +1,268 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '채탁연'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>비취명주	</td>
+					<td>The Jade and The Pearl</td>
+					<td>2010</td>
+					<td>홍콩</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>용의자</td>
+					<td>Triple Tap</td>
+					<td>2010</td>
+					<td>홍콩</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>무협양축 검접</td>
+					<td>Butterfly Lovers</td>
+					<td>2008</td>
+					<td>홍콩,중국</td>
+					<td>액션,멜로/로맨스</td>
+					<td>주연</td>
+					<td>3,000</td>
+					<td>1</td>
+					<td>3,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>쿵푸 덩크</td>
+					<td>Kung Fu Dunk</td>
+					<td>2008</td>
+					<td>대만</td>
+					<td>코미디,액션</td>
+					<td>주연-릴리역</td>
+					<td>326,514,500</td>
+					<td>52,688</td>
+					<td>325,883,000</td>
+					<td>51,422</td>
+				</tr>
+			
+				<tr>
+					<td>쌍자신투</td>
+					<td>Twins Mission</td>
+					<td>2007</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>2,859,000</td>
+					<td>1,407</td>
+					<td>2,859,000</td>
+					<td>1,407</td>
+				</tr>
+			
+				<tr>
+					<td>첨심분사왕</td>
+					<td>Super Fans</td>
+					<td>2007</td>
+					<td>홍콩</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>희왕지왕</td>
+					<td>Simply Actors</td>
+					<td>2007</td>
+					<td>홍콩</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>다이어리</td>
+					<td>Diary</td>
+					<td>2006</td>
+					<td>홍콩</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>다시 한번 사랑한다 말해줘</td>
+					<td>All About Love</td>
+					<td>2005</td>
+					<td>홍콩</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>삼장법사의 모험</td>
+					<td>A Chinese Tall Story</td>
+					<td>2005</td>
+					<td>홍콩,중국</td>
+					<td>액션,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>화도대전 </td>
+					<td>The Huadu Chronicles: Blade Of The Rose</td>
+					<td>2004</td>
+					<td>중국</td>
+					<td>액션,어드벤처,코미디</td>
+					<td>주연</td>
+					<td>3,600,000</td>
+					<td>1,480</td>
+					<td>3,600,000</td>
+					<td>1,480</td>
+				</tr>
+			
+				<tr>
+					<td>아저씨 우리 결혼할까요?</td>
+					<td>My Wife Is 18</td>
+					<td>2004</td>
+					<td>홍콩</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>17,362</td>
+					<td>21,000</td>
+					<td>4</td>
+				</tr>
+			
+				<tr>
+					<td>아자유난</td>
+					<td>Leave Me Alone</td>
+					<td>2004</td>
+					<td>홍콩</td>
+					<td>코미디,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>연정고급</td>
+					<td>Love On The Rocks</td>
+					<td>2004</td>
+					<td>홍콩</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>추격 8월 15</td>
+					<td>Hidden Heroes</td>
+					<td>2004</td>
+					<td>홍콩</td>
+					<td>코미디,SF</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>고택심황황</td>
+					<td>The Death Curse</td>
+					<td>2003</td>
+					<td>홍콩</td>
+					<td>코미디,스릴러,공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>히어로즈 인 러브</td>
+					<td>Heroes In Love</td>
+					<td>2001</td>
+					<td>홍콩</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,112 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '아이사 마이가'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>아프리칸 닥터</td>
+					<td>The African Doctor</td>
+					<td>2016</td>
+					<td>프랑스</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>13,841,500</td>
+					<td>2,177</td>
+					<td>16,129,500</td>
+					<td>2,518</td>
+				</tr>
+			
+				<tr>
+					<td>무드 인디고</td>
+					<td>Mood Indigo</td>
+					<td>2013</td>
+					<td>프랑스,벨기에</td>
+					<td>드라마,판타지</td>
+					<td>주연</td>
+					<td>375,764,100</td>
+					<td>46,666</td>
+					<td>378,103,230</td>
+					<td>46,998</td>
+				</tr>
+			
+				<tr>
+					<td>아야의 밤엔 사랑이 필요해</td>
+					<td>Aya Of Yop City</td>
+					<td>2013</td>
+					<td>프랑스</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td>8,645,100</td>
+					<td>1,094</td>
+					<td>9,411,100</td>
+					<td>1,228</td>
+				</tr>
+			
+				<tr>
+					<td>법정</td>
+					<td>Bamako</td>
+					<td>2006</td>
+					<td>프랑스,미국,기타</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>내일이 올 때까지</td>
+					<td>Jona And Lilla, Till Tomorrow</td>
+					<td>1999</td>
+					<td>스위스</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

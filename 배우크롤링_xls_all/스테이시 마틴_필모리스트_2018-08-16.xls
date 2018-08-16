@@ -1,0 +1,112 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '스테이시 마틴'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>올 더 머니</td>
+					<td>All the Money in the World</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>범죄,드라마,미스터리,스릴러</td>
+					<td>주연</td>
+					<td>568,453,500</td>
+					<td>70,295</td>
+					<td>568,453,500</td>
+					<td>70,295</td>
+				</tr>
+			
+				<tr>
+					<td>테일 오브 테일즈</td>
+					<td>Tale of Tales</td>
+					<td>2015</td>
+					<td>이탈리아,프랑스</td>
+					<td>판타지</td>
+					<td>주연</td>
+					<td>237,098,700</td>
+					<td>30,249</td>
+					<td>237,252,700</td>
+					<td>30,276</td>
+				</tr>
+			
+				<tr>
+					<td>님포매니악 감독판 볼룸 1&amp;2</td>
+					<td>Nymphomaniac Director’s Cut Vol. 1&amp;2</td>
+					<td>2014</td>
+					<td>덴마크,벨기에,프랑스,영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,183,400</td>
+					<td>180</td>
+				</tr>
+			
+				<tr>
+					<td>님포매니악 볼륨2</td>
+					<td>Nymphomaniac vol.2</td>
+					<td>2013</td>
+					<td>덴마크,벨기에,프랑스,독일,영국</td>
+					<td>드라마,미스터리</td>
+					<td>주연</td>
+					<td>201,869,933</td>
+					<td>24,380</td>
+					<td>202,108,933</td>
+					<td>24,424</td>
+				</tr>
+			
+				<tr>
+					<td>님포매니악 볼륨1</td>
+					<td>Nymphomaniac vol.1 </td>
+					<td>2013</td>
+					<td>덴마크,독일,프랑스,벨기에,영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>479,242,383</td>
+					<td>60,265</td>
+					<td>479,491,383</td>
+					<td>60,311</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

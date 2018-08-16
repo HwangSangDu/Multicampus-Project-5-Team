@@ -1,0 +1,242 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '레아 세이두'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>단지 세상의 끝</td>
+					<td>It&#039;s Only the End of the World</td>
+					<td>2016</td>
+					<td>캐나다,프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>247,540,173</td>
+					<td>31,497</td>
+					<td>248,323,173</td>
+					<td>31,586</td>
+				</tr>
+			
+				<tr>
+					<td>007 스펙터</td>
+					<td>Spectre</td>
+					<td>2015</td>
+					<td>영국,미국</td>
+					<td>액션,어드벤처,범죄,스릴러</td>
+					<td>주연</td>
+					<td>14,302,132,030</td>
+					<td>1,820,842</td>
+					<td>14,302,132,030</td>
+					<td>1,820,842</td>
+				</tr>
+			
+				<tr>
+					<td>더 랍스터</td>
+					<td>The Lobster</td>
+					<td>2015</td>
+					<td>영국,그리스,아일랜드,네덜란드,프랑스</td>
+					<td>판타지,멜로/로맨스</td>
+					<td>주연</td>
+					<td>476,877,300</td>
+					<td>57,721</td>
+					<td>478,713,300</td>
+					<td>57,983</td>
+				</tr>
+			
+				<tr>
+					<td>어느 하녀의 일기</td>
+					<td>Diary Of A Chambermaid</td>
+					<td>2015</td>
+					<td>프랑스,벨기에</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>114,051,900</td>
+					<td>14,891</td>
+					<td>114,255,900</td>
+					<td>14,919</td>
+				</tr>
+			
+				<tr>
+					<td>생 로랑</td>
+					<td>Saint Laurent</td>
+					<td>2014</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>63,649,900</td>
+					<td>7,975</td>
+					<td>64,627,300</td>
+					<td>8,109</td>
+				</tr>
+			
+				<tr>
+					<td>그랜드 부다페스트 호텔</td>
+					<td>The Grand Budapest Hotel</td>
+					<td>2014</td>
+					<td>미국,독일</td>
+					<td>미스터리,어드벤처</td>
+					<td>주연</td>
+					<td>6,014,299,982</td>
+					<td>773,887</td>
+					<td>6,049,062,782</td>
+					<td>778,493</td>
+				</tr>
+			
+				<tr>
+					<td>그랜드 센트럴</td>
+					<td>Grand Central</td>
+					<td>2013</td>
+					<td>프랑스,오스트리아 </td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>13,530,500</td>
+					<td>1,917</td>
+					<td>13,558,500</td>
+					<td>1,921</td>
+				</tr>
+			
+				<tr>
+					<td>미녀와 야수</td>
+					<td>Beauty And The Beast</td>
+					<td>2013</td>
+					<td>프랑스</td>
+					<td>판타지,멜로/로맨스</td>
+					<td>주연</td>
+					<td>2,385,847,300</td>
+					<td>315,348</td>
+					<td>2,393,631,300</td>
+					<td>316,334</td>
+				</tr>
+			
+				<tr>
+					<td>가장 따뜻한 색, 블루</td>
+					<td>Blue Is The Warmest Color</td>
+					<td>2013</td>
+					<td>프랑스</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>386,134,200</td>
+					<td>50,100</td>
+					<td>407,495,900</td>
+					<td>53,030</td>
+				</tr>
+			
+				<tr>
+					<td>페어웰, 마이 퀸</td>
+					<td>Farewell, My Queen</td>
+					<td>2012</td>
+					<td>프랑스,스페인</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>69,625,000</td>
+					<td>9,581</td>
+					<td>70,009,000</td>
+					<td>9,677</td>
+				</tr>
+			
+				<tr>
+					<td>시스터 </td>
+					<td>Sister</td>
+					<td>2012</td>
+					<td>프랑스,스위스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>90,192,000</td>
+					<td>12,107</td>
+					<td>92,132,000</td>
+					<td>12,366</td>
+				</tr>
+			
+				<tr>
+					<td>디어 프루던스 </td>
+					<td>Dear Prudence</td>
+					<td>2010</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연-프루던스 역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>리스본의 미스터리</td>
+					<td>Mysteries Of Lisbon</td>
+					<td>2010</td>
+					<td>포르투갈,프랑스,브라질</td>
+					<td>드라마,미스터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,170,000</td>
+					<td>213</td>
+				</tr>
+			
+				<tr>
+					<td>리틀 테일러</td>
+					<td>The Little Tailor</td>
+					<td>2010</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>루르드</td>
+					<td>Lourdes</td>
+					<td>2009</td>
+					<td>오스트리아 ,프랑스,독일</td>
+					<td>드라마</td>
+					<td>주연-마리아역</td>
+					<td>63,419,500</td>
+					<td>9,792</td>
+					<td>64,682,500</td>
+					<td>10,005</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

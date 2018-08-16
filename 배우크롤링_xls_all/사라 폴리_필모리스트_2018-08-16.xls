@@ -1,0 +1,229 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '사라 폴리'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>우리가 들려줄 이야기 </td>
+					<td>Stories We Tell</td>
+					<td>2012</td>
+					<td>캐나다</td>
+					<td>다큐멘터리</td>
+					<td>감독,주연</td>
+					<td>22,604,400</td>
+					<td>3,192</td>
+					<td>23,015,400</td>
+					<td>3,254</td>
+				</tr>
+			
+				<tr>
+					<td>우리도 사랑일까</td>
+					<td>Take This Waltz</td>
+					<td>2011</td>
+					<td>캐나다</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>감독</td>
+					<td>530,615,800</td>
+					<td>66,650</td>
+					<td>588,761,419</td>
+					<td>74,191</td>
+				</tr>
+			
+				<tr>
+					<td>미스터 노바디</td>
+					<td>Mr. Nobody</td>
+					<td>2009</td>
+					<td>캐나다,벨기에,프랑스,독일</td>
+					<td>판타지,멜로/로맨스</td>
+					<td>주연</td>
+					<td>127,022,500</td>
+					<td>16,969</td>
+					<td>127,102,500</td>
+					<td>16,985</td>
+				</tr>
+			
+				<tr>
+					<td>스플라이스</td>
+					<td>Splice</td>
+					<td>2009</td>
+					<td>캐나다</td>
+					<td>SF,공포(호러),스릴러</td>
+					<td>주연</td>
+					<td>1,284,084,141</td>
+					<td>165,393</td>
+					<td>1,263,923,500</td>
+					<td>162,760</td>
+				</tr>
+			
+				<tr>
+					<td>어웨이 프롬 허</td>
+					<td>Away From Her</td>
+					<td>2006</td>
+					<td>캐나다</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>감독</td>
+					<td>105,612,657</td>
+					<td>15,997</td>
+					<td>106,918,000</td>
+					<td>16,143</td>
+				</tr>
+			
+				<tr>
+					<td>킹덤 오브 헤븐 2</td>
+					<td>Beowulf &amp; Grendel</td>
+					<td>2005</td>
+					<td>아이슬란드,캐나다,영국</td>
+					<td>드라마,판타지</td>
+					<td>주연-셀마역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>새벽의 저주</td>
+					<td>Dawn Of The Dead</td>
+					<td>2004</td>
+					<td>미국,캐나다,일본,프랑스</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연-안나역</td>
+					<td>0</td>
+					<td>300,000</td>
+					<td>694,533,500</td>
+					<td>106,515</td>
+				</tr>
+			
+				<tr>
+					<td>나 없는 내 인생</td>
+					<td>My Life Without Me</td>
+					<td>2003</td>
+					<td>스페인,캐나다</td>
+					<td>멜로/로맨스</td>
+					<td>주연-앤역</td>
+					<td>0</td>
+					<td>7,078</td>
+					<td>52,982,800</td>
+					<td>7,904</td>
+				</tr>
+			
+				<tr>
+					<td>아이 인사이드</td>
+					<td>The I Inside</td>
+					<td>2003</td>
+					<td>영국,미국</td>
+					<td>미스터리,SF,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>세상에 없는 것</td>
+					<td>No Such Thing</td>
+					<td>2001</td>
+					<td>미국,아이슬란드</td>
+					<td>코미디,드라마,판타지</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>더 클레임</td>
+					<td>The Claim</td>
+					<td>2000</td>
+					<td>영국,프랑스,캐나다</td>
+					<td>서부극(웨스턴),멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>엔클로저 법</td>
+					<td>The Law Of Enclosures</td>
+					<td>2000</td>
+					<td>캐나다</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>기네비어</td>
+					<td>Guinevere</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>라스트 나잇 </td>
+					<td>Last Night</td>
+					<td>1998</td>
+					<td>캐나다</td>
+					<td>SF,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>6</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

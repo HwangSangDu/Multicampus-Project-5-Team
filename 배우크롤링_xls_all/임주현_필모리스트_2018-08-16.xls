@@ -1,0 +1,112 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '임주현'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>개구리왕국 2</td>
+					<td>Frog Kingdom : Sub-Zero Mission</td>
+					<td>2015</td>
+					<td>중국</td>
+					<td>애니메이션</td>
+					<td>주연-베스티역(목소리)</td>
+					<td>99,741,700</td>
+					<td>14,236</td>
+					<td>99,741,700</td>
+					<td>14,236</td>
+				</tr>
+			
+				<tr>
+					<td>부니 베어: 롤라 구출 대모험</td>
+					<td>Boonie Bears: To the Rescue</td>
+					<td>2014</td>
+					<td>중국</td>
+					<td>애니메이션,어드벤처</td>
+					<td>주연(목소리)</td>
+					<td>309,876,900</td>
+					<td>45,250</td>
+					<td>310,331,900</td>
+					<td>45,341</td>
+				</tr>
+			
+				<tr>
+					<td>로보싸커</td>
+					<td>Robosoccer</td>
+					<td>2013</td>
+					<td>말레이시아</td>
+					<td>애니메이션,어드벤처</td>
+					<td>주연(목소리)</td>
+					<td>64,639,200</td>
+					<td>9,541</td>
+					<td>64,639,200</td>
+					<td>9,541</td>
+				</tr>
+			
+				<tr>
+					<td>로코왕국의 전설: 엘프킹을 찾아서</td>
+					<td>Roco Kingdom : The Desire of Dragon</td>
+					<td>2013</td>
+					<td>중국</td>
+					<td>애니메이션,액션,어드벤처</td>
+					<td>주연(목소리)</td>
+					<td>105,367,100</td>
+					<td>15,846</td>
+					<td>107,159,100</td>
+					<td>16,070</td>
+				</tr>
+			
+				<tr>
+					<td>임피 원더랜드 가다</td>
+					<td>Impy&#039;S Wonderland</td>
+					<td>2008</td>
+					<td>독일</td>
+					<td>애니메이션,어드벤처,가족</td>
+					<td>주연-임피 (한국어 목소리)역(목소리)</td>
+					<td>214,695,202</td>
+					<td>34,995</td>
+					<td>211,487,500</td>
+					<td>34,474</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

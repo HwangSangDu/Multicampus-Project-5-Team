@@ -1,0 +1,567 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '로빈 윌리엄스'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>앱솔루틀리 애니씽</td>
+					<td>Absolutely Anything</td>
+					<td>2015</td>
+					<td>미국,영국</td>
+					<td>코미디,SF</td>
+					<td>주연</td>
+					<td>54,445,800</td>
+					<td>7,052</td>
+					<td>54,492,800</td>
+					<td>7,059</td>
+				</tr>
+			
+				<tr>
+					<td>블러바드</td>
+					<td>Boulevard</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>86,642,300</td>
+					<td>11,048</td>
+					<td>87,223,300</td>
+					<td>11,126</td>
+				</tr>
+			
+				<tr>
+					<td>박물관이 살아있다 : 비밀의 무덤</td>
+					<td>Night at the Museum: Secret of the Tomb</td>
+					<td>2014</td>
+					<td>미국,영국</td>
+					<td>어드벤처,코미디,가족</td>
+					<td>주연</td>
+					<td>8,170,784,606</td>
+					<td>1,101,678</td>
+					<td>8,170,784,606</td>
+					<td>1,101,678</td>
+				</tr>
+			
+				<tr>
+					<td>앵그리스트 맨</td>
+					<td>The Angriest Man in Brooklyn</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>229,523,200</td>
+					<td>30,656</td>
+					<td>229,649,200</td>
+					<td>30,673</td>
+				</tr>
+			
+				<tr>
+					<td>메리 프리긴 크리스마스 </td>
+					<td>Merry Friggin&#039; Christmas</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연-미치 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>페이스 오브 러브</td>
+					<td>The Face of Love</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>597,286,405</td>
+					<td>80,699</td>
+					<td>597,286,405</td>
+					<td>80,699</td>
+				</tr>
+			
+				<tr>
+					<td>버틀러: 대통령의 집사</td>
+					<td>Lee Daniels’ The Butler</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>드라마,기타</td>
+					<td>주연</td>
+					<td>884,709,000</td>
+					<td>126,870</td>
+					<td>884,709,000</td>
+					<td>126,870</td>
+				</tr>
+			
+				<tr>
+					<td>빅 웨딩</td>
+					<td>The Big Wedding </td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연-모나한 신부역</td>
+					<td>231,885,500</td>
+					<td>33,993</td>
+					<td>233,303,500</td>
+					<td>34,466</td>
+				</tr>
+			
+				<tr>
+					<td>해피 피트 2</td>
+					<td>Happy Feet 2 In 3D</td>
+					<td>2011</td>
+					<td>호주</td>
+					<td>애니메이션,코미디,가족</td>
+					<td>주연-레이몬 / 로브러스 목소리 역(목소리)</td>
+					<td>1,463,939,000</td>
+					<td>185,744</td>
+					<td>1,463,939,000</td>
+					<td>185,744</td>
+				</tr>
+			
+				<tr>
+					<td>지상 최고의 아빠</td>
+					<td>World&#039;s Greatest Dad</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-렌스역</td>
+					<td>12,000</td>
+					<td>2</td>
+					<td>12,000</td>
+					<td>2</td>
+				</tr>
+			
+				<tr>
+					<td>박물관이 살아있다 2</td>
+					<td>Night At The Museum 2: Battle Of The Smithsonian</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>어드벤처,코미디,액션</td>
+					<td>주연-테디 루즈벨트역</td>
+					<td>12,591,000,149</td>
+					<td>2,002,526</td>
+					<td>12,399,745,500</td>
+					<td>1,972,440</td>
+				</tr>
+			
+				<tr>
+					<td>올드 독스</td>
+					<td>Old Dogs</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>코미디,가족</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>결혼 면허 따기</td>
+					<td>License to Wed</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>박물관이 살아있다!</td>
+					<td>Night At The Museum</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>코미디,어드벤처</td>
+					<td>주연-테디 루즈벨트역</td>
+					<td>0</td>
+					<td>4,612,831</td>
+					<td>24,401,542,200</td>
+					<td>4,245,247</td>
+				</tr>
+			
+				<tr>
+					<td>해피 피트</td>
+					<td>Happy Feet</td>
+					<td>2006</td>
+					<td>미국,호주</td>
+					<td>애니메이션,코미디</td>
+					<td>주연-레이몬/러브레이스/클리터스역(목소리)</td>
+					<td>0</td>
+					<td>584,900</td>
+					<td>3,464,203,000</td>
+					<td>574,916</td>
+				</tr>
+			
+				<tr>
+					<td>나이트 리스너</td>
+					<td>The Night Listener</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>미스터리,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>런어웨이 버케이션</td>
+					<td>RV </td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>어드벤처,코미디,가족</td>
+					<td>주연-밥 먼로 역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>맨 오브 더 이어</td>
+					<td>Man of the Year</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>빅 화이트</td>
+					<td>The Big White</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>코미디,드라마,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>6,430</td>
+					<td>44,578,500</td>
+					<td>6,769</td>
+				</tr>
+			
+				<tr>
+					<td>하우스 오브 디</td>
+					<td>House Of D</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>1,163,000</td>
+					<td>180</td>
+					<td>1,163,000</td>
+					<td>180</td>
+				</tr>
+			
+				<tr>
+					<td>파이널컷</td>
+					<td>The Final Cut</td>
+					<td>2004</td>
+					<td>캐나다,독일</td>
+					<td>SF,스릴러</td>
+					<td>주연-앨런 W. 해크먼역</td>
+					<td>0</td>
+					<td>434</td>
+					<td>2,934,000</td>
+					<td>434</td>
+				</tr>
+			
+				<tr>
+					<td>스토커</td>
+					<td>One Hour Photo</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>39,200</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>인썸니아</td>
+					<td>Insomnia</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>194,724</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>로빈 윌리엄스의 스무치 죽이기</td>
+					<td>Death To Smoochy</td>
+					<td>2002</td>
+					<td>미국,영국,독일</td>
+					<td>코미디,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>제이콥의 거짓말</td>
+					<td>Jakob The Liar</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>드라마,코미디</td>
+					<td>주연-제이콥역</td>
+					<td>0</td>
+					<td>5,368</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>바이센테니얼 맨</td>
+					<td>Bicentennial Man</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>SF,드라마,멜로/로맨스</td>
+					<td>주연-앤드류 마틴역</td>
+					<td>0</td>
+					<td>103,464</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>패치 아담스</td>
+					<td>Patch Adams</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>83,563</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>굿 윌 헌팅</td>
+					<td>Good Will Hunting</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>165,079</td>
+					<td>363,925,300</td>
+					<td>48,228</td>
+				</tr>
+			
+				<tr>
+					<td>플러버 </td>
+					<td>Flubber</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>코미디,가족,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>170,774</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>파더스데이</td>
+					<td>Fathers&#039; Day</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>6,746</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>잭 </td>
+					<td>Jack</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>84,161</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>버드케이지 </td>
+					<td>The Birdcage</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>53,979</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>쥬만지 </td>
+					<td>Jumanji</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>어드벤처,판타지,가족,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>540,402</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>미세스 다웃파이어 </td>
+					<td>Mrs. Doubtfire</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>드라마,가족</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>468,229</td>
+					<td>671,000</td>
+					<td>235</td>
+				</tr>
+			
+				<tr>
+					<td>알라딘</td>
+					<td>Aladdin</td>
+					<td>1992</td>
+					<td>미국</td>
+					<td>드라마,뮤지컬,어드벤처,가족,판타지</td>
+					<td>주연-지니 역(목소리)</td>
+					<td>0</td>
+					<td>647,266</td>
+					<td>11,545,000</td>
+					<td>1,496</td>
+				</tr>
+			
+				<tr>
+					<td>후크</td>
+					<td>Hook</td>
+					<td>1991</td>
+					<td>미국</td>
+					<td>가족,어드벤처,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>281,084</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사랑의 기적</td>
+					<td>Awakenings</td>
+					<td>1990</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>55,991</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>죽은 시인의 사회</td>
+					<td>Dead Poets Society</td>
+					<td>1989</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>381,925</td>
+					<td>440,665,900</td>
+					<td>58,655</td>
+				</tr>
+			
+				<tr>
+					<td>굿모닝 베트남</td>
+					<td>Good Morning, Vietnam</td>
+					<td>1987</td>
+					<td>미국</td>
+					<td>코미디,드라마,전쟁</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>가프</td>
+					<td>The World According to Garp</td>
+					<td>1982</td>
+					<td>미국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

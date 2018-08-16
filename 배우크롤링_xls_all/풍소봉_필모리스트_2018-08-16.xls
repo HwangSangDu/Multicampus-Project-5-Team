@@ -1,0 +1,138 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '풍소봉'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>몽키킹2: 서유기 여정의 시작</td>
+					<td>Monkey King The Legend Begins</td>
+					<td>2016</td>
+					<td>중국</td>
+					<td>액션,판타지</td>
+					<td>주연</td>
+					<td>49,077,600</td>
+					<td>11,156</td>
+					<td>49,195,600</td>
+					<td>11,174</td>
+				</tr>
+			
+				<tr>
+					<td>울프 토템</td>
+					<td>Wolf Totem</td>
+					<td>2015</td>
+					<td>중국,프랑스</td>
+					<td>어드벤처</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>859,000</td>
+					<td>91</td>
+				</tr>
+			
+				<tr>
+					<td>황금시대</td>
+					<td>The Golden Era</td>
+					<td>2014</td>
+					<td>중국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>98,582,100</td>
+					<td>13,371</td>
+					<td>101,176,600</td>
+					<td>14,073</td>
+				</tr>
+			
+				<tr>
+					<td>적인걸2 : 신도해왕의 비밀</td>
+					<td>Young Detective Dee : Rise of the sea dragon</td>
+					<td>2013</td>
+					<td>중국</td>
+					<td>미스터리,액션</td>
+					<td>주연</td>
+					<td>329,905,000</td>
+					<td>47,060</td>
+					<td>330,553,000</td>
+					<td>47,179</td>
+				</tr>
+			
+				<tr>
+					<td>2차 노출</td>
+					<td>Double Xposure</td>
+					<td>2013</td>
+					<td>중국</td>
+					<td>드라마,멜로/로맨스,미스터리</td>
+					<td>주연</td>
+					<td>89,000</td>
+					<td>14</td>
+					<td>89,000</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>초한지 - 천하대전 감독판</td>
+					<td>White Vengeance</td>
+					<td>2011</td>
+					<td>중국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>215,000</td>
+					<td>43</td>
+					<td>215,000</td>
+					<td>43</td>
+				</tr>
+			
+				<tr>
+					<td>초한지 - 천하대전</td>
+					<td>White Vengeance</td>
+					<td>2011</td>
+					<td>중국,홍콩</td>
+					<td>액션</td>
+					<td>주연-항우 역</td>
+					<td>710,375,000</td>
+					<td>94,652</td>
+					<td>710,375,000</td>
+					<td>94,652</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

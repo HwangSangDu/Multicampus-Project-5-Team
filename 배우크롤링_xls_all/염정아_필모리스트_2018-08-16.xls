@@ -1,0 +1,359 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '염정아'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>도청(가제)</td>
+					<td></td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>미성년</td>
+					<td></td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>뺑반</td>
+					<td></td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>범죄,액션</td>
+					<td>조연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>완벽한 타인</td>
+					<td>Intimate Strangers</td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>장산범</td>
+					<td>The Mimic</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>미스터리,스릴러</td>
+					<td>주연</td>
+					<td>10,341,783,083</td>
+					<td>1,306,438</td>
+					<td>10,341,783,083</td>
+					<td>1,306,438</td>
+				</tr>
+			
+				<tr>
+					<td>카트</td>
+					<td>Cart</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-선희역</td>
+					<td>5,926,917,433</td>
+					<td>814,233</td>
+					<td>5,929,106,933</td>
+					<td>814,570</td>
+				</tr>
+			
+				<tr>
+					<td>간첩</td>
+					<td>The Spies</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마,코미디,액션</td>
+					<td>주연-강 대리역</td>
+					<td>9,316,548,500</td>
+					<td>1,310,895</td>
+					<td>9,316,548,500</td>
+					<td>1,310,895</td>
+				</tr>
+			
+				<tr>
+					<td>사랑의 묘약</td>
+					<td>Love Potion</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마,코미디,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>313,250</td>
+					<td>247</td>
+				</tr>
+			
+				<tr>
+					<td>전우치</td>
+					<td>Woochi</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>액션,코미디,판타지</td>
+					<td>단역-여배우역</td>
+					<td>44,605,437,017</td>
+					<td>6,136,928</td>
+					<td>44,093,407,200</td>
+					<td>6,065,474</td>
+				</tr>
+			
+				<tr>
+					<td>내 생애 최악의 남자</td>
+					<td>The Worst Guy Ever</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-주연역</td>
+					<td>0</td>
+					<td>470,548</td>
+					<td>2,877,614,000</td>
+					<td>438,009</td>
+				</tr>
+			
+				<tr>
+					<td>이장과 군수</td>
+					<td>Small Town Rivals</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>단역-다방 마담역</td>
+					<td>0</td>
+					<td>1,269,142</td>
+					<td>7,594,186,000</td>
+					<td>1,179,661</td>
+				</tr>
+			
+				<tr>
+					<td>톰과 제리 </td>
+					<td></td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>오래된 정원</td>
+					<td>The Old Garden</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-한윤희역</td>
+					<td>0</td>
+					<td>296,532</td>
+					<td>1,490,193,500</td>
+					<td>285,381</td>
+				</tr>
+			
+				<tr>
+					<td>소년, 천국에 가다</td>
+					<td>A Boy Who Went To Heaven</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-부자역</td>
+					<td>0</td>
+					<td>242,053</td>
+					<td>1,258,000,500</td>
+					<td>207,189</td>
+				</tr>
+			
+				<tr>
+					<td>새드무비</td>
+					<td>Sad Movie</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-염주영역</td>
+					<td>0</td>
+					<td>1,066,765</td>
+					<td>5,628,200,500</td>
+					<td>902,077</td>
+				</tr>
+			
+				<tr>
+					<td>여선생 VS 여제자</td>
+					<td>Lovely Rivals</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연-노처녀 여선생 여미옥역</td>
+					<td>0</td>
+					<td>1,175,580</td>
+					<td>5,265,267,506</td>
+					<td>846,683</td>
+				</tr>
+			
+				<tr>
+					<td>범죄의 재구성</td>
+					<td>The Big Swindle</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>주연-서인경역</td>
+					<td>0</td>
+					<td>2,129,358</td>
+					<td>6,133,498,700</td>
+					<td>942,303</td>
+				</tr>
+			
+				<tr>
+					<td>쓰리, 몬스터 &#039;컷&#039;</td>
+					<td>cut</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>기타</td>
+					<td>단역-여배우역</td>
+					<td></td>
+					<td></td>
+					<td>144,000</td>
+					<td>144</td>
+				</tr>
+			
+				<tr>
+					<td>장화, 홍련</td>
+					<td>A Tale Of Two Sisters</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>공포(호러)</td>
+					<td>주연-은주역</td>
+					<td>0</td>
+					<td>3,146,217</td>
+					<td>146,000</td>
+					<td>25</td>
+				</tr>
+			
+				<tr>
+					<td>이공</td>
+					<td>Twentidentity</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-segment 20mm 두꺼운...역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>H(에이치)</td>
+					<td>H</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>주연-미연역</td>
+					<td>0</td>
+					<td>90,000</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>텔미썸딩</td>
+					<td>Tell Me Something</td>
+					<td>1999</td>
+					<td>한국</td>
+					<td>스릴러,미스터리</td>
+					<td>주연-오승민역</td>
+					<td>0</td>
+					<td>1,230,000</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>테러리스트</td>
+					<td>The Terrorist</td>
+					<td>1995</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>주연-채은역</td>
+					<td>0</td>
+					<td>320,919</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>째즈빠 히로시마</td>
+					<td>Jazz Bar Hiroshima</td>
+					<td>1992</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,299</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

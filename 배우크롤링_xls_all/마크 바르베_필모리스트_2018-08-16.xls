@@ -1,0 +1,112 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '마크 바르베'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>완벽한 거짓말</td>
+					<td>A Perfect Man</td>
+					<td>2014</td>
+					<td>프랑스</td>
+					<td>스릴러</td>
+					<td>조연</td>
+					<td>22,442,600</td>
+					<td>3,112</td>
+					<td>25,555,800</td>
+					<td>3,581</td>
+				</tr>
+			
+				<tr>
+					<td>어레스트 미</td>
+					<td>Arrest me</td>
+					<td>2014</td>
+					<td>프랑스</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>3,407,000</td>
+					<td>487</td>
+					<td>3,407,000</td>
+					<td>487</td>
+				</tr>
+			
+				<tr>
+					<td>알마이에르가의 광기</td>
+					<td>Almayer&#039;s Folly</td>
+					<td>2011</td>
+					<td>프랑스,벨기에</td>
+					<td>드라마</td>
+					<td>조연-링가르역</td>
+					<td></td>
+					<td></td>
+					<td>1,202,000</td>
+					<td>196</td>
+				</tr>
+			
+				<tr>
+					<td>나넬 모차르트</td>
+					<td>Nannerl</td>
+					<td>2010</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>32,900,000</td>
+					<td>4,475</td>
+					<td>33,800,000</td>
+					<td>4,624</td>
+				</tr>
+			
+				<tr>
+					<td>솜브르</td>
+					<td>Sombre</td>
+					<td>1998</td>
+					<td>프랑스</td>
+					<td>공포(호러),드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>616,000</td>
+					<td>119</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

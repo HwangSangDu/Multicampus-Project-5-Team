@@ -1,0 +1,151 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '유관성'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>절대 무림 신공</td>
+					<td>Castle of the White Horse</td>
+					<td>2016</td>
+					<td>중국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>134,000</td>
+					<td>59</td>
+					<td>134,000</td>
+					<td>59</td>
+				</tr>
+			
+				<tr>
+					<td>소림사 무림쟁패</td>
+					<td>At the Generals Manor</td>
+					<td>2016</td>
+					<td>중국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>134,000</td>
+					<td>58</td>
+					<td>134,000</td>
+					<td>58</td>
+				</tr>
+			
+				<tr>
+					<td>소림사 : 무림 절대고수</td>
+					<td>OF MONKS AND MASTERS : WOOES AT THE WINERY</td>
+					<td>2015</td>
+					<td>중국</td>
+					<td>액션,스릴러,사극</td>
+					<td>주연</td>
+					<td>4,000</td>
+					<td>1</td>
+					<td>4,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>소림사 무림 탐정-대흥도방</td>
+					<td>OF MONKS AND MASTERS : CURSE OF THE GAMBLING HOUSE</td>
+					<td>2015</td>
+					<td>중국</td>
+					<td>액션,스릴러,사극</td>
+					<td>주연</td>
+					<td>4,000</td>
+					<td>1</td>
+					<td>4,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>소림사 무림 탐정-취의전장</td>
+					<td>Murger at the Lending House</td>
+					<td>2014</td>
+					<td>중국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>196,000</td>
+					<td>58</td>
+					<td>196,000</td>
+					<td>58</td>
+				</tr>
+			
+				<tr>
+					<td>소림사 무림탐정 : 황제의 옥패 </td>
+					<td>OF MONKS AND MASTERS : THE YECHAN CLAN</td>
+					<td>2014</td>
+					<td>중국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>1,785,000</td>
+					<td>357</td>
+					<td>1,785,000</td>
+					<td>357</td>
+				</tr>
+			
+				<tr>
+					<td>소림사 - 죽음의 객잔</td>
+					<td>Of Monks and Masters: Spell of Death</td>
+					<td>2014</td>
+					<td>중국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>810,000</td>
+					<td>162</td>
+					<td>810,000</td>
+					<td>162</td>
+				</tr>
+			
+				<tr>
+					<td>소림사: 무림적팔방</td>
+					<td>OF MONKS AND MASTERS : TROUBLE AT THE CENTRAL OFFICE</td>
+					<td>2014</td>
+					<td>중국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>890,000</td>
+					<td>178</td>
+					<td>890,000</td>
+					<td>178</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

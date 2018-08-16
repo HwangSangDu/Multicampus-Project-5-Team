@@ -1,0 +1,268 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '니시지마 히데토시'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>크리피: 일가족 연쇄 실종 사건</td>
+					<td>Creepy</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td>57,037,900</td>
+					<td>7,130</td>
+					<td>58,143,900</td>
+					<td>7,284</td>
+				</tr>
+			
+				<tr>
+					<td>여자가 잠들 때</td>
+					<td>While the Women Are Sleeping</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>미스터리,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>모즈</td>
+					<td>MOZU THE MOVIE</td>
+					<td>2015</td>
+					<td>일본</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>18,000</td>
+					<td>5</td>
+					<td>18,000</td>
+					<td>5</td>
+				</tr>
+			
+				<tr>
+					<td>내 머릿속의 포이즌베리</td>
+					<td>Poison Berry in My Brain</td>
+					<td>2015</td>
+					<td>일본</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연-요시다 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>무명인</td>
+					<td>Genome Hazard</td>
+					<td>2013</td>
+					<td>한국,일본</td>
+					<td>미스터리,스릴러,액션</td>
+					<td>주연</td>
+					<td>25,063,600</td>
+					<td>3,199</td>
+					<td>25,063,600</td>
+					<td>3,199</td>
+				</tr>
+			
+				<tr>
+					<td>세이지: 육지의 물고기</td>
+					<td>FISH ON LAND</td>
+					<td>2011</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>871,000</td>
+					<td>113</td>
+					<td>5,186,000</td>
+					<td>654</td>
+				</tr>
+			
+				<tr>
+					<td>컷</td>
+					<td>Cut</td>
+					<td>2011</td>
+					<td>일본,프랑스,미국,터키,한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>18,443,900</td>
+					<td>2,287</td>
+					<td>18,443,900</td>
+					<td>2,287</td>
+				</tr>
+			
+				<tr>
+					<td>사요나라 이츠카</td>
+					<td>Sayonara Itsuka</td>
+					<td>2010</td>
+					<td>한국,태국,일본</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-히가시가이토 유타카역</td>
+					<td>181,970,548</td>
+					<td>23,605</td>
+					<td>179,113,500</td>
+					<td>23,229</td>
+				</tr>
+			
+				<tr>
+					<td>도쿄 랑데뷰</td>
+					<td>Tokyo Rendezvous</td>
+					<td>2008</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연-노가미 타카시 역</td>
+					<td>1,840,903</td>
+					<td>276</td>
+					<td>2,496,000</td>
+					<td>348</td>
+				</tr>
+			
+				<tr>
+					<td>좋아해</td>
+					<td>Su-Ki-Da</td>
+					<td>2005</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연-성인, 요스케역</td>
+					<td>0</td>
+					<td>1,465</td>
+					<td>11,946,500</td>
+					<td>1,715</td>
+				</tr>
+			
+				<tr>
+					<td>우메즈 카즈오 공포극장 1-곤충의 집</td>
+					<td>Umezu Kazuo</td>
+					<td>2005</td>
+					<td>일본</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>카나리아</td>
+					<td>Kanaria</td>
+					<td>2005</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>귀향</td>
+					<td>Going Home</td>
+					<td>2004</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>618,000</td>
+					<td>132</td>
+				</tr>
+			
+				<tr>
+					<td>라스트 씬</td>
+					<td>Last Scene</td>
+					<td>2002</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>170</td>
+					<td>1,314,000</td>
+					<td>200</td>
+				</tr>
+			
+				<tr>
+					<td>돌스</td>
+					<td>Dolls</td>
+					<td>2002</td>
+					<td>일본</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>3,535</td>
+					<td>948,000</td>
+					<td>146</td>
+				</tr>
+			
+				<tr>
+					<td>사랑이란</td>
+					<td>A Painful Pair</td>
+					<td>2001</td>
+					<td>일본</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>러브/쥬스</td>
+					<td>Love/Juice</td>
+					<td>2000</td>
+					<td>일본</td>
+					<td>드라마,코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

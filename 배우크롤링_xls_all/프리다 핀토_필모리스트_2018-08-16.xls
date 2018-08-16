@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '프리다 핀토'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>건 파이터</td>
+					<td>Blunt Force Trauma</td>
+					<td>2015</td>
+					<td>콜롬비아</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>데저트 댄서</td>
+					<td>Desert Dancer</td>
+					<td>2014</td>
+					<td>영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>트리쉬나</td>
+					<td>Trishna</td>
+					<td>2011</td>
+					<td>영국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>3,510,000</td>
+					<td>556</td>
+					<td>3,510,000</td>
+					<td>556</td>
+				</tr>
+			
+				<tr>
+					<td>신들의 전쟁</td>
+					<td>Immortals</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>드라마,액션,판타지</td>
+					<td>주연-페드라 역</td>
+					<td>11,726,682,000</td>
+					<td>1,338,411</td>
+					<td>11,726,682,000</td>
+					<td>1,338,411</td>
+				</tr>
+			
+				<tr>
+					<td>혹성탈출: 진화의 시작</td>
+					<td>Rise of the Planet of the Apes</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>액션,SF,드라마</td>
+					<td>주연-캐롤라인역</td>
+					<td>20,629,757,000</td>
+					<td>2,773,794</td>
+					<td>20,629,757,000</td>
+					<td>2,773,794</td>
+				</tr>
+			
+				<tr>
+					<td>슬럼독 밀리어네어</td>
+					<td>Slumdog Millionaire</td>
+					<td>2008</td>
+					<td>영국,미국</td>
+					<td>드라마,멜로/로맨스,범죄</td>
+					<td>주연-라티카역</td>
+					<td>7,468,302,846</td>
+					<td>1,125,032</td>
+					<td>7,344,640,500</td>
+					<td>1,106,899</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

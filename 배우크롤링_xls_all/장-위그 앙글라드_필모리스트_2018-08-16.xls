@@ -1,0 +1,203 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '장-위그 앙글라드'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>보더라인</td>
+					<td>Borderline</td>
+					<td>2008</td>
+					<td>캐나다</td>
+					<td>드라마</td>
+					<td>주연-체키역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>낙타에겐 더 쉬운 일</td>
+					<td>It&#039;s Easier For A Camel...</td>
+					<td>2003</td>
+					<td>프랑스,이탈리아</td>
+					<td>어드벤처,코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스웻</td>
+					<td>Sweat</td>
+					<td>2002</td>
+					<td>프랑스</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>모탈 트랜스퍼</td>
+					<td>Mortal Transfer</td>
+					<td>2000</td>
+					<td>프랑스</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,305</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>페이싱</td>
+					<td>Facing</td>
+					<td>2000</td>
+					<td>프랑스</td>
+					<td>미스터리,스릴러</td>
+					<td>주연-장역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>맥시멈 리스크 </td>
+					<td>Maxium Risk</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>스릴러,액션,어드벤처</td>
+					<td>조연</td>
+					<td>0</td>
+					<td>65,429</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>세이 예스 </td>
+					<td>Say Yes</td>
+					<td>1996</td>
+					<td>프랑스</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>14,568</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>라이어 </td>
+					<td>Les Menteurs The Liars</td>
+					<td>1996</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>13,902</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>킬링 조이</td>
+					<td>Crack Brain</td>
+					<td>1994</td>
+					<td>프랑스,미국</td>
+					<td>범죄,드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>니키타</td>
+					<td>Nikita</td>
+					<td>1990</td>
+					<td>프랑스</td>
+					<td>액션</td>
+					<td>주연-마르코역</td>
+					<td>0</td>
+					<td>74,208</td>
+					<td>11,066,000</td>
+					<td>5,407</td>
+				</tr>
+			
+				<tr>
+					<td>베티블루 37.2 디오리지널</td>
+					<td>Betty Blue</td>
+					<td>1986</td>
+					<td>프랑스</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>14,061,000</td>
+					<td>1,868</td>
+					<td>14,633,000</td>
+					<td>1,932</td>
+				</tr>
+			
+				<tr>
+					<td>베티 블루 </td>
+					<td>37.2 Degrees in the Morning</td>
+					<td>1986</td>
+					<td>프랑스</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연-조르그역</td>
+					<td>0</td>
+					<td>81,208</td>
+					<td>709,000</td>
+					<td>79</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

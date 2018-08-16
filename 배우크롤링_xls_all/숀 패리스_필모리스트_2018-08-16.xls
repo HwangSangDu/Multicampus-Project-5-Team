@@ -1,0 +1,138 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '숀 패리스'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>알 카포네 스카페이스의 전설</td>
+					<td>GANGSTER LAND</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>범죄,액션</td>
+					<td>주연</td>
+					<td>31,000</td>
+					<td>18</td>
+					<td>31,000</td>
+					<td>18</td>
+				</tr>
+			
+				<tr>
+					<td>익스트림 파이트 클럽</td>
+					<td>Female Fight Club</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,드라마</td>
+					<td>주연</td>
+					<td>3,000</td>
+					<td>1</td>
+					<td>3,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>상간녀</td>
+					<td>The Adulterers</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>스릴러,드라마,범죄</td>
+					<td>주연-사무엘역</td>
+					<td>270,000</td>
+					<td>54</td>
+					<td>270,000</td>
+					<td>54</td>
+				</tr>
+			
+				<tr>
+					<td>프리러너 </td>
+					<td>Freerunner</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>킹 오브 파이터</td>
+					<td>The King Of Fighters</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>28,000</td>
+					<td>4</td>
+					<td>28,000</td>
+					<td>4</td>
+				</tr>
+			
+				<tr>
+					<td>포에버 스트롱</td>
+					<td>FOREVER STRONG</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>600,000</td>
+					<td>40</td>
+					<td>600,000</td>
+					<td>40</td>
+				</tr>
+			
+				<tr>
+					<td>겟 썸</td>
+					<td>Never Back Down</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>액션,드라마</td>
+					<td>주연-제이크 타일러역</td>
+					<td>783,743,000</td>
+					<td>122,410</td>
+					<td>783,743,000</td>
+					<td>119,124</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

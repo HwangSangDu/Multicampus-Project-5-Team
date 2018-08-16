@@ -1,0 +1,463 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '산드라 블록'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>오션스8</td>
+					<td>Ocean&#039;s 8</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>액션,범죄</td>
+					<td>주연</td>
+					<td>10,978,328,166</td>
+					<td>1,252,385</td>
+					<td>11,700,157,266</td>
+					<td>1,335,829</td>
+				</tr>
+			
+				<tr>
+					<td>미니언즈</td>
+					<td>Minions</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td>18,997,911,278</td>
+					<td>2,625,572</td>
+					<td>18,998,384,278</td>
+					<td>2,625,636</td>
+				</tr>
+			
+				<tr>
+					<td>그래비티</td>
+					<td>Gravity</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>SF,드라마</td>
+					<td>주연</td>
+					<td>31,484,135,600</td>
+					<td>3,227,452</td>
+					<td>31,498,764,600</td>
+					<td>3,228,271</td>
+				</tr>
+			
+				<tr>
+					<td>더 히트</td>
+					<td>The Heat </td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>액션,코미디,범죄</td>
+					<td>주연-사라 애쉬번 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>엄청나게 시끄럽고 믿을 수 없게 가까운</td>
+					<td>Extremely Loud and Incredibly Close</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>블라인드 사이드</td>
+					<td>The Blind Side</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>2,643,699,147</td>
+					<td>359,899</td>
+					<td>2,613,051,000</td>
+					<td>355,516</td>
+				</tr>
+			
+				<tr>
+					<td>프로포즈</td>
+					<td>The Proposal</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디,드라마</td>
+					<td>주연-마가렛 테이트역</td>
+					<td>2,481,694,139</td>
+					<td>328,767</td>
+					<td>2,442,083,500</td>
+					<td>323,707</td>
+				</tr>
+			
+				<tr>
+					<td>올 어바웃 스티브</td>
+					<td>All About Steve</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>프리모니션</td>
+					<td>Premonition</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>레이크 하우스</td>
+					<td>The Lake House</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연-케이트 포스터역</td>
+					<td>0</td>
+					<td>152,670</td>
+					<td>850,334,000</td>
+					<td>133,961</td>
+				</tr>
+			
+				<tr>
+					<td>인퍼머스</td>
+					<td>Infamous</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>미스 에이전트2 : 라스베가스 잠입사건</td>
+					<td>Miss Congeniality 2: Armed And Fabulous</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>액션,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>150,300</td>
+					<td>890,738,500</td>
+					<td>139,358</td>
+				</tr>
+			
+				<tr>
+					<td>크래쉬</td>
+					<td>Crash</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>드라마,범죄,미스터리</td>
+					<td>주연-백인 지방 검사의 아내 - 진 카봇역</td>
+					<td>0</td>
+					<td>152,617</td>
+					<td>907,041,100</td>
+					<td>142,833</td>
+				</tr>
+			
+				<tr>
+					<td>투 윅스 노티스</td>
+					<td>Two Weeks Notice</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>362,000</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>머더 바이 넘버</td>
+					<td>Murder By Numbers</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>64,200</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>산드라 블록의 행복한 비밀</td>
+					<td>Divine Secrets Of The Ya-Ya Sisterhood</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>미스 에이전트</td>
+					<td>Miss Congeniality</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>액션,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>182,909</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>건 샤이</td>
+					<td>Gun Shy</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>코미디,범죄,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>28일동안</td>
+					<td>28 Days</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-그웬 커밍스역</td>
+					<td>0</td>
+					<td>9,605</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>포스 오브 네이처 </td>
+					<td>Forces Of Nature</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>100,572</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>이집트 왕자</td>
+					<td>THe Prince Of Egypt</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>애니메이션,드라마,가족</td>
+					<td>주연-미리암역(목소리)</td>
+					<td>0</td>
+					<td>613,973</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>프랙티컬 매직</td>
+					<td>Practical Magic</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>드라마,미스터리,판타지,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>72,170</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사랑이 다시 올 때</td>
+					<td>Hope Floats</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>28,018</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스피드 2 </td>
+					<td>Speed 2 : Cruise Control</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>250,819</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>러브앤워 </td>
+					<td>In Love And War</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>멜로/로맨스,전쟁</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>42,865</td>
+					<td>255,000</td>
+					<td>85</td>
+				</tr>
+			
+				<tr>
+					<td>타임 투 킬 </td>
+					<td>A Time To Kill</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>스릴러,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>269,408</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>투 이프 바이 씨 </td>
+					<td>Two If By Sea</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>22,137</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>네트 </td>
+					<td>The Net</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>115,636</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>당신이 잠든 사이에 </td>
+					<td>While You Were Sleeping</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>201,119</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스피드 </td>
+					<td>Speed</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>스릴러,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>874,225</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>러브 포션 넘버9</td>
+					<td>Love Potion #9</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,873</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>화이어 아마존</td>
+					<td>Fire On The Amazon</td>
+					<td>1991</td>
+					<td>미국</td>
+					<td>액션,어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>127</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

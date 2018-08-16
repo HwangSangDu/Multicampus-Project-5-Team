@@ -1,0 +1,216 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '케빈 제임스'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>몬스터 호텔 3</td>
+					<td>Hotel Transylvania 3: A Monster Vacation</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>애니메이션,코미디,가족,판타지</td>
+					<td>주연(목소리)</td>
+					<td></td>
+					<td></td>
+					<td>5,373,547,100</td>
+					<td>730,866</td>
+				</tr>
+			
+				<tr>
+					<td>몬스터 호텔 2</td>
+					<td>Hotel Transylvania 2</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>애니메이션</td>
+					<td>주연-프랑켄슈타인 목소리역(목소리)</td>
+					<td>11,088,271,276</td>
+					<td>1,515,104</td>
+					<td>11,088,271,276</td>
+					<td>1,515,104</td>
+				</tr>
+			
+				<tr>
+					<td>리틀 보이</td>
+					<td>Little Boy</td>
+					<td>2015</td>
+					<td>미국,멕시코</td>
+					<td>드라마,전쟁</td>
+					<td>주연</td>
+					<td>100,778,300</td>
+					<td>14,343</td>
+					<td>100,778,300</td>
+					<td>14,343</td>
+				</tr>
+			
+				<tr>
+					<td>픽셀</td>
+					<td>Pixels</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션,어드벤처</td>
+					<td>주연</td>
+					<td>5,390,909,947</td>
+					<td>681,945</td>
+					<td>5,390,909,947</td>
+					<td>681,945</td>
+				</tr>
+			
+				<tr>
+					<td>폴 블라트 : 몰 캅 2</td>
+					<td>Paul Blart: Mall Cop 2</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>코미디,액션</td>
+					<td>주연-폴 블라트역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>히어 컴스 더 붐 </td>
+					<td>Here Comes the Boom </td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>코미디,액션</td>
+					<td>주연-스콧 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>딜레마</td>
+					<td>The Dilemma</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>드라마,코미디</td>
+					<td>주연-닉 브래넌 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>로맨틱 정글</td>
+					<td>Zookeeper</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>코미디,가족</td>
+					<td>주연-그리핀 키스 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>그로운업스</td>
+					<td>Grown Ups</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-에릭 라몬소프 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>쇼핑몰 캅</td>
+					<td>Paul Blart: Mall Cop</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>코미디,액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>척 앤 래리</td>
+					<td>I Now Pronounce You Chuck And Larry</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>66,753</td>
+					<td>374,965,500</td>
+					<td>55,875</td>
+				</tr>
+			
+				<tr>
+					<td>신나는 동물농장(애니)</td>
+					<td>Barnyard: The Original Party Animals</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>애니메이션,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>149,086</td>
+					<td>744,049,500</td>
+					<td>137,630</td>
+				</tr>
+			
+				<tr>
+					<td>그릴드</td>
+					<td>Grilled</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,424 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '우피 골드버그'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>9/11</td>
+					<td>9/11</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>액션,드라마</td>
+					<td>주연</td>
+					<td>490,000</td>
+					<td>46</td>
+					<td>490,000</td>
+					<td>46</td>
+				</tr>
+			
+				<tr>
+					<td>리틀 빗 오브 헤븐</td>
+					<td>A Little Bit Of Heaven</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>컬러드 걸스</td>
+					<td>For colored girls</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>460,000</td>
+					<td>92</td>
+					<td>460,000</td>
+					<td>92</td>
+				</tr>
+			
+				<tr>
+					<td>에브리원 히어로</td>
+					<td>Everyone&#039;s Hero</td>
+					<td>2006</td>
+					<td>캐나다,미국</td>
+					<td>애니메이션,어드벤처,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>두갈: 마법의 회전목마</td>
+					<td>The Magic Roundabout</td>
+					<td>2005</td>
+					<td>영국</td>
+					<td>애니메이션,코미디,어드벤처,가족,판타지</td>
+					<td>주연</td>
+					<td>56,374,700</td>
+					<td>8,297</td>
+					<td>56,374,700</td>
+					<td>8,297</td>
+				</tr>
+			
+				<tr>
+					<td>피노키오 3000</td>
+					<td>Pinocchio 3000</td>
+					<td>2004</td>
+					<td>캐나다,프랑스,스페인</td>
+					<td>애니메이션,가족,SF</td>
+					<td>주연(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>노 브레인 레이스</td>
+					<td>Rat Race</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>조연</td>
+					<td>0</td>
+					<td>81,423</td>
+					<td>382,766,500</td>
+					<td>62,026</td>
+				</tr>
+			
+				<tr>
+					<td>콜 미 산타클로스</td>
+					<td>Call Me Claus</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>코미디,가족</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>겟 브루스</td>
+					<td>Get Bruce</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>다큐멘터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>레전드</td>
+					<td>The Magical Legend Of The Leprechauns</td>
+					<td>1999</td>
+					<td>영국,미국,독일</td>
+					<td>어드벤처,코미디,판타지</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>우리 친구 마틴</td>
+					<td>Our Friend, Martin</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>애니메이션,드라마,가족</td>
+					<td>주연(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>이상한 나라의 앨리스</td>
+					<td>Alice In Wonderland</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>어드벤처,코미디,판타지</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>레게 파티</td>
+					<td>How Stella Got Her Groove Back</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>야! 러그래츠</td>
+					<td>The Rugrats Movie</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>애니메이션,어드벤처,코미디</td>
+					<td>주연(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>신데렐라</td>
+					<td>Cinderella</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>뮤지컬,멜로/로맨스,판타지</td>
+					<td>조연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>심판</td>
+					<td>Ghosts Of Mississippi</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>미스터 커티</td>
+					<td>The Associate</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>3,544</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>보거스 </td>
+					<td>Bogus</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>가족,드라마,코미디,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>28,512</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>에디 </td>
+					<td>Eddie</td>
+					<td>1996</td>
+					<td>영국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>80,415</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>미시시피</td>
+					<td>GHOSTS OF MISSISSIPPI</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>넥서스 트랙 </td>
+					<td>Star Trek:Generations</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>SF</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>5,593</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>보이즈 온 더 사이드 </td>
+					<td>Boys On The Side</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>8,176</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>코리나 코리나 </td>
+					<td>Corrina Corrina</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>14,814</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>씨스터 액트 2 </td>
+					<td>Sister Act 2</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>150,107</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>메이드 인 아메리카</td>
+					<td>Made In America</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>13,219</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사라피나</td>
+					<td>Sarafina</td>
+					<td>1993</td>
+					<td>미국,영국,프랑스,남아프리카공화국</td>
+					<td>드라마,뮤지컬</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>22,481</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>씨스터 액트</td>
+					<td>Sister Act</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>코미디,액션,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>303,996</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사랑과 영혼</td>
+					<td>Ghost</td>
+					<td>1990</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,532,589</td>
+					<td>66,163,200</td>
+					<td>15,905</td>
+				</tr>
+			
+				<tr>
+					<td>컬러퍼플</td>
+					<td>The Color Puple</td>
+					<td>1985</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>136,748</td>
+					<td>315,000</td>
+					<td>105</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

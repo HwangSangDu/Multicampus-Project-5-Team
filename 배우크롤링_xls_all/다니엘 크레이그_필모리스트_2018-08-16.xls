@@ -1,0 +1,385 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '다니엘 크레이그'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>로건 럭키</td>
+					<td>Logan Lucky</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>코미디,범죄,드라마,액션</td>
+					<td>주연-조 뱅역</td>
+					<td>180,242,600</td>
+					<td>23,339</td>
+					<td>180,226,600</td>
+					<td>23,336</td>
+				</tr>
+			
+				<tr>
+					<td>007 스펙터</td>
+					<td>Spectre</td>
+					<td>2015</td>
+					<td>영국,미국</td>
+					<td>액션,어드벤처,범죄,스릴러</td>
+					<td>주연</td>
+					<td>14,302,132,030</td>
+					<td>1,820,842</td>
+					<td>14,302,132,030</td>
+					<td>1,820,842</td>
+				</tr>
+			
+				<tr>
+					<td>007 스카이폴</td>
+					<td>SKYFALL</td>
+					<td>2011</td>
+					<td>미국,영국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>17,487,213,000</td>
+					<td>2,376,145</td>
+					<td>17,487,818,000</td>
+					<td>2,376,266</td>
+				</tr>
+			
+				<tr>
+					<td>밀레니엄 : 여자를 증오한 남자들</td>
+					<td>The Girl With The Dragon Tattoo</td>
+					<td>2011</td>
+					<td>미국,스웨덴,영국,독일</td>
+					<td>스릴러,드라마</td>
+					<td>주연</td>
+					<td>3,504,509,000</td>
+					<td>443,889</td>
+					<td>3,504,237,000</td>
+					<td>443,855</td>
+				</tr>
+			
+				<tr>
+					<td>틴틴 : 유니콘호의 비밀</td>
+					<td>Adventure of Tintin: The Secret of the Unicorn</td>
+					<td>2011</td>
+					<td>미국,뉴질랜드,벨기에</td>
+					<td>애니메이션,가족,어드벤처</td>
+					<td>주연</td>
+					<td>6,737,564,500</td>
+					<td>815,991</td>
+					<td>6,737,564,500</td>
+					<td>815,991</td>
+				</tr>
+			
+				<tr>
+					<td>원라이프</td>
+					<td>One Life</td>
+					<td>2011</td>
+					<td>영국</td>
+					<td>다큐멘터리</td>
+					<td>주연(목소리)</td>
+					<td>163,408,600</td>
+					<td>24,348</td>
+					<td>163,408,600</td>
+					<td>24,348</td>
+				</tr>
+			
+				<tr>
+					<td>카우보이 &amp; 에이리언</td>
+					<td>Cowboys &amp; Aliens</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>액션,SF,스릴러</td>
+					<td>주연-제이크 역</td>
+					<td>1,930,249,000</td>
+					<td>256,346</td>
+					<td>1,930,249,000</td>
+					<td>256,346</td>
+				</tr>
+			
+				<tr>
+					<td>드림 하우스</td>
+					<td>Dream House </td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,140,800</td>
+					<td>213</td>
+				</tr>
+			
+				<tr>
+					<td>아이, 루시퍼</td>
+					<td>I, Lucifer</td>
+					<td>2009</td>
+					<td>영국</td>
+					<td>코미디,판타지</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>디파이언스</td>
+					<td>Defiance</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>드라마,전쟁</td>
+					<td>주연</td>
+					<td>1,551,731,322</td>
+					<td>232,532</td>
+					<td>1,528,139,000</td>
+					<td>229,157</td>
+				</tr>
+			
+				<tr>
+					<td>007 퀀텀 오브 솔러스</td>
+					<td>Quantum Of Solace</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>액션,어드벤처</td>
+					<td>주연</td>
+					<td>14,366,688,333</td>
+					<td>2,201,300</td>
+					<td>14,389,322,000</td>
+					<td>2,205,160</td>
+				</tr>
+			
+				<tr>
+					<td>다니엘 크레이그의 플래시백</td>
+					<td>Flashbacks Of A Fool</td>
+					<td>2008</td>
+					<td>영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>293,000</td>
+					<td>44</td>
+				</tr>
+			
+				<tr>
+					<td>황금 나침반</td>
+					<td>His Dark Materials: The Golden Compass</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>판타지,드라마,액션,어드벤처</td>
+					<td>주연</td>
+					<td></td>
+					<td>2,979,838</td>
+					<td>18,336,681,000</td>
+					<td>2,906,958</td>
+				</tr>
+			
+				<tr>
+					<td>인베이젼</td>
+					<td>The Invasion</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>SF,공포(호러),스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>520,800</td>
+					<td>3,732,360,000</td>
+					<td>556,157</td>
+				</tr>
+			
+				<tr>
+					<td>007 카지노 로얄</td>
+					<td>Casino Royale</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연-제임스 본드역</td>
+					<td>0</td>
+					<td>1,088,307</td>
+					<td>6,267,161,700</td>
+					<td>1,012,085</td>
+				</tr>
+			
+				<tr>
+					<td>르네상스</td>
+					<td>Renaissance</td>
+					<td>2006</td>
+					<td>프랑스,영국,룩셈부르크</td>
+					<td>애니메이션,액션,SF</td>
+					<td>주연(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>뮌헨</td>
+					<td>Munich</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>스릴러,드라마,범죄</td>
+					<td>주연-스티브 역</td>
+					<td>0</td>
+					<td>817,155</td>
+					<td>4,861,581,300</td>
+					<td>763,078</td>
+				</tr>
+			
+				<tr>
+					<td>아크엔젤</td>
+					<td>Archangel</td>
+					<td>2005</td>
+					<td>영국</td>
+					<td>범죄,드라마,미스터리,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>레이어 케이크</td>
+					<td>Layer Cake</td>
+					<td>2004</td>
+					<td>영국</td>
+					<td>드라마,액션,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,379</td>
+					<td>9,532,000</td>
+					<td>1,377</td>
+				</tr>
+			
+				<tr>
+					<td>사랑을 견뎌내기</td>
+					<td>Enduring Love</td>
+					<td>2004</td>
+					<td>영국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>마더</td>
+					<td>The Mother</td>
+					<td>2003</td>
+					<td>영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,354</td>
+					<td>15,902,800</td>
+					<td>2,384</td>
+				</tr>
+			
+				<tr>
+					<td>실비아</td>
+					<td>Sylvia</td>
+					<td>2003</td>
+					<td>영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>3,464</td>
+					<td>29,280,000</td>
+					<td>4,372</td>
+				</tr>
+			
+				<tr>
+					<td>사랑의 목소리</td>
+					<td>Some Voices</td>
+					<td>2000</td>
+					<td>영국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>호텔 스플렌디드</td>
+					<td>Hotel Splendide</td>
+					<td>2000</td>
+					<td>프랑스,영국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>러브 앤 레이지</td>
+					<td>Love &amp; Rage</td>
+					<td>1998</td>
+					<td>아일랜드,영국,독일</td>
+					<td>드라마</td>
+					<td>주연-제임스 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사랑의 악마</td>
+					<td>Love Is The Devil</td>
+					<td>1998</td>
+					<td>영국,프랑스,일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>320,000</td>
+					<td>32</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,138 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '스쿳 맥네이리'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>슬립리스: 크리미널 나이트</td>
+					<td>Sleepless</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,범죄,스릴러</td>
+					<td>조연</td>
+					<td>146,025,800</td>
+					<td>18,740</td>
+					<td>146,025,800</td>
+					<td>18,740</td>
+				</tr>
+			
+				<tr>
+					<td>프랭크</td>
+					<td>Frank</td>
+					<td>2014</td>
+					<td>영국,아일랜드</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>410,015,145</td>
+					<td>52,488</td>
+					<td>415,046,145</td>
+					<td>53,149</td>
+				</tr>
+			
+				<tr>
+					<td>마블원샷: 올 헤일 더 킹</td>
+					<td>Marvel One-Shot: All Hail the King</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>액션,SF</td>
+					<td>주연-잭슨 노리스 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>블랙 씨</td>
+					<td>Black Sea</td>
+					<td>2014</td>
+					<td>영국,미국,러시아</td>
+					<td>어드벤처,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>논스톱</td>
+					<td>Non-Stop</td>
+					<td>2013</td>
+					<td>미국,프랑스</td>
+					<td>액션</td>
+					<td>조연</td>
+					<td>16,066,174,940</td>
+					<td>2,084,457</td>
+					<td>16,066,549,940</td>
+					<td>2,084,482</td>
+				</tr>
+			
+				<tr>
+					<td>몬스터즈</td>
+					<td>Monsters</td>
+					<td>2010</td>
+					<td>영국</td>
+					<td>SF,드라마,스릴러</td>
+					<td>주연</td>
+					<td>6,480,000</td>
+					<td>1,080</td>
+					<td>6,480,000</td>
+					<td>1,080</td>
+				</tr>
+			
+				<tr>
+					<td>인 서치 오브 어 미드나잇 키스</td>
+					<td>In Search of a Midnight Kiss</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

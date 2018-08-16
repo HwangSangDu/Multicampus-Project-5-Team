@@ -1,0 +1,515 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '오언조'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>툼레이더</td>
+					<td>TOMB RAIDER</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>액션,어드벤처</td>
+					<td>주연</td>
+					<td>4,500,905,762</td>
+					<td>540,410</td>
+					<td>4,500,905,762</td>
+					<td>540,410</td>
+				</tr>
+			
+				<tr>
+					<td>꺼져버려 종양군 </td>
+					<td>Go away Mr. tumour</td>
+					<td>2015</td>
+					<td>중국</td>
+					<td>드라마,코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td>20,091,000</td>
+					<td>2,519</td>
+					<td>20,783,000</td>
+					<td>2,600</td>
+				</tr>
+			
+				<tr>
+					<td>마경</td>
+					<td>That Demon Within</td>
+					<td>2014</td>
+					<td>홍콩</td>
+					<td>범죄,액션,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>컨트롤</td>
+					<td>Control</td>
+					<td>2013</td>
+					<td>홍콩,중국</td>
+					<td>액션,범죄,스릴러</td>
+					<td>주연</td>
+					<td>2,990,000</td>
+					<td>740</td>
+					<td>2,990,000</td>
+					<td>740</td>
+				</tr>
+			
+				<tr>
+					<td>영웅이 되고 싶은 남자</td>
+					<td>Inseparable</td>
+					<td>2013</td>
+					<td>대만,미국</td>
+					<td>코미디,스릴러</td>
+					<td>주연</td>
+					<td>1,039,000</td>
+					<td>496</td>
+					<td>1,039,000</td>
+					<td>496</td>
+				</tr>
+			
+				<tr>
+					<td>타이치0 3D</td>
+					<td>Taichi Zero</td>
+					<td>2012</td>
+					<td>홍콩</td>
+					<td>코미디,액션</td>
+					<td>주연</td>
+					<td>119,998,000</td>
+					<td>17,437</td>
+					<td>120,385,000</td>
+					<td>17,480</td>
+				</tr>
+			
+				<tr>
+					<td>초한지: 영웅의 부활</td>
+					<td>The Last Supper</td>
+					<td>2012</td>
+					<td>중국</td>
+					<td>액션,사극</td>
+					<td>주연</td>
+					<td>60,679,500</td>
+					<td>8,722</td>
+					<td>60,679,500</td>
+					<td>8,722</td>
+				</tr>
+			
+				<tr>
+					<td>용의자</td>
+					<td>Triple Tap</td>
+					<td>2010</td>
+					<td>홍콩</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>절청풍운</td>
+					<td>Overheard</td>
+					<td>2009</td>
+					<td>홍콩,싱가포르,중국</td>
+					<td>액션,스릴러,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>무간도 4 - 문도</td>
+					<td>Protege</td>
+					<td>2007</td>
+					<td>홍콩</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>천당구</td>
+					<td>Blood Brothers</td>
+					<td>2007</td>
+					<td>홍콩,대만,중국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>야연</td>
+					<td>The Banquet</td>
+					<td>2006</td>
+					<td>중국</td>
+					<td>사극,멜로/로맨스</td>
+					<td>주연-황태자 ‘우 루안’역</td>
+					<td>0</td>
+					<td>436,903</td>
+					<td>2,365,238,200</td>
+					<td>377,110</td>
+				</tr>
+			
+				<tr>
+					<td>밍밍</td>
+					<td>Ming Ming</td>
+					<td>2006</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사대천왕</td>
+					<td>The Heavenly Kings</td>
+					<td>2006</td>
+					<td>홍콩</td>
+					<td>코미디,드라마</td>
+					<td>감독,주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>정무가정</td>
+					<td>House Of Fury</td>
+					<td>2005</td>
+					<td>중국</td>
+					<td>액션,코미디</td>
+					<td>주연</td>
+					<td>6,000</td>
+					<td>1</td>
+					<td>6,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>드래곤블레이드</td>
+					<td>DragonBlade</td>
+					<td>2005</td>
+					<td>홍콩</td>
+					<td>애니메이션,액션</td>
+					<td>주연(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>천배불취</td>
+					<td>Drink, Drank, Drunk</td>
+					<td>2005</td>
+					<td>홍콩</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>공주복구기</td>
+					<td>Beyond Our Ken</td>
+					<td>2004</td>
+					<td>홍콩</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>대료애미려</td>
+					<td>Enter The Phoenix</td>
+					<td>2004</td>
+					<td>홍콩</td>
+					<td>액션,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>왕각흑야</td>
+					<td>One Nite In Mongkok</td>
+					<td>2004</td>
+					<td>홍콩</td>
+					<td>액션,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>98,000</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>미스 두십낭</td>
+					<td>Miss Du Shi Niang</td>
+					<td>2003</td>
+					<td>홍콩</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>신찰사매 2 : 미려임무</td>
+					<td>Love Undercover 2: Love Mission</td>
+					<td>2003</td>
+					<td>홍콩</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>심조주걸륜</td>
+					<td>Hidden Track</td>
+					<td>2003</td>
+					<td>홍콩</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>요야회랑</td>
+					<td>Night Corridor</td>
+					<td>2003</td>
+					<td>홍콩</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>변검미정</td>
+					<td>Devil Face, Angel Heart</td>
+					<td>2002</td>
+					<td>홍콩</td>
+					<td>액션,범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>상비</td>
+					<td>Princess D</td>
+					<td>2002</td>
+					<td>홍콩,대만</td>
+					<td>멜로/로맨스,SF</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>투규무죄</td>
+					<td>The Peeping</td>
+					<td>2002</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>공포의 파이터</td>
+					<td>Born Wild</td>
+					<td>2001</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>두호인물</td>
+					<td>Headlines</td>
+					<td>2001</td>
+					<td>홍콩</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>베이징 락</td>
+					<td>Beijing Rocks</td>
+					<td>2001</td>
+					<td>홍콩</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>0</td>
+					<td>0</td>
+				</tr>
+			
+				<tr>
+					<td>유원경몽</td>
+					<td>Peony Pavilion</td>
+					<td>2001</td>
+					<td>홍콩</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>95,000</td>
+					<td>12</td>
+				</tr>
+			
+				<tr>
+					<td>트라이어드</td>
+					<td>Cop on a Mission</td>
+					<td>2001</td>
+					<td>홍콩</td>
+					<td>액션,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>퍼플 스톰 2</td>
+					<td>Hit Team</td>
+					<td>2001</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>형</td>
+					<td>Undercover Blues</td>
+					<td>2000</td>
+					<td>홍콩</td>
+					<td>범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>퍼플 스톰</td>
+					<td>Purple Storm</td>
+					<td>1999</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연-토드 그로스역</td>
+					<td>0</td>
+					<td>13,541</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>미소년지련</td>
+					<td>Bishonen</td>
+					<td>1998</td>
+					<td>홍콩</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>33,000</td>
+					<td>4</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,112 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '지현우'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>살인소설</td>
+					<td>TRUE FICTION</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>주연-순태역</td>
+					<td>392,609,200</td>
+					<td>49,685</td>
+					<td>392,591,200</td>
+					<td>49,682</td>
+				</tr>
+			
+				<tr>
+					<td>Mr.아이돌</td>
+					<td>Mr. Idol</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-이유진역</td>
+					<td>515,508,500</td>
+					<td>74,261</td>
+					<td>515,508,500</td>
+					<td>74,261</td>
+				</tr>
+			
+				<tr>
+					<td>주유소 습격사건 2</td>
+					<td>Attack The Gas Station 2</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>액션,코미디</td>
+					<td>주연</td>
+					<td>5,466,499,511</td>
+					<td>742,475</td>
+					<td>5,379,208,500</td>
+					<td>729,834</td>
+				</tr>
+			
+				<tr>
+					<td>올드미스다이어리</td>
+					<td>Old Miss Diary</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>856,090</td>
+					<td>4,750,247,000</td>
+					<td>800,083</td>
+				</tr>
+			
+				<tr>
+					<td>사랑하니까, 괜찮아</td>
+					<td>Fly High</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>254,887</td>
+					<td>1,296,756,200</td>
+					<td>219,824</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

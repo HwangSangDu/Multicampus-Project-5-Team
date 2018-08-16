@@ -1,0 +1,229 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '이유미'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>박화영</td>
+					<td>Park Hwa-young</td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>23,188,500</td>
+					<td>2,909</td>
+				</tr>
+			
+				<tr>
+					<td>속닥속닥</td>
+					<td>The Whispering</td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>공포(호러),미스터리</td>
+					<td>조연-변지은역</td>
+					<td></td>
+					<td></td>
+					<td>1,900,914,300</td>
+					<td>217,444</td>
+				</tr>
+			
+				<tr>
+					<td>아웃도어 비긴즈</td>
+					<td>Outdoor Begins</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>코미디,스릴러,공포(호러)</td>
+					<td>조연-마리역</td>
+					<td>175,000</td>
+					<td>45</td>
+					<td>175,000</td>
+					<td>45</td>
+				</tr>
+			
+				<tr>
+					<td>능력소녀</td>
+					<td>Superpower Girl</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-맹주리역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>당신, 거기 있어줄래요</td>
+					<td>Will You Be There?</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>판타지,드라마</td>
+					<td>단역-연아 동물협회 직원역</td>
+					<td>9,361,133,648</td>
+					<td>1,168,625</td>
+					<td>9,362,086,648</td>
+					<td>1,168,782</td>
+				</tr>
+			
+				<tr>
+					<td>심장박동 조작극</td>
+					<td></td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>405,000</td>
+					<td>76</td>
+					<td>405,000</td>
+					<td>76</td>
+				</tr>
+			
+				<tr>
+					<td>프랑스 영화처럼</td>
+					<td>Like a French Film</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-수빈역</td>
+					<td>37,782,300</td>
+					<td>4,881</td>
+					<td>37,786,300</td>
+					<td>4,885</td>
+				</tr>
+			
+				<tr>
+					<td>조류인간</td>
+					<td>The Avian Kind</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-소녀역</td>
+					<td>20,685,500</td>
+					<td>2,738</td>
+					<td>20,685,500</td>
+					<td>2,738</td>
+				</tr>
+			
+				<tr>
+					<td>배우는 배우다</td>
+					<td>Rough Play</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-광고소녀1역</td>
+					<td>811,031,000</td>
+					<td>111,927</td>
+					<td>811,844,000</td>
+					<td>112,029</td>
+				</tr>
+			
+				<tr>
+					<td>화이: 괴물을 삼킨 아이</td>
+					<td>Hwayi: A Monster Boy</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>액션,스릴러</td>
+					<td>단역-유경 친구역</td>
+					<td>17,695,516,795</td>
+					<td>2,394,466</td>
+					<td>17,695,683,795</td>
+					<td>2,394,487</td>
+				</tr>
+			
+				<tr>
+					<td>현수 이야기</td>
+					<td>Hyun Soo Story</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>120,000</td>
+					<td>20</td>
+				</tr>
+			
+				<tr>
+					<td>러시안 소설</td>
+					<td>The Russian Novel</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마,미스터리</td>
+					<td>조연-유미역</td>
+					<td>43,250,900</td>
+					<td>5,903</td>
+					<td>43,807,400</td>
+					<td>5,992</td>
+				</tr>
+			
+				<tr>
+					<td>청포도 사탕: 17년 전의 약속</td>
+					<td>Grape Candy</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마,미스터리</td>
+					<td>조연</td>
+					<td>11,294,500</td>
+					<td>1,600</td>
+					<td>11,545,500</td>
+					<td>1,637</td>
+				</tr>
+			
+				<tr>
+					<td>황해</td>
+					<td>The Yellow Sea</td>
+					<td>2010</td>
+					<td>한국,미국,중국</td>
+					<td>스릴러,액션,범죄</td>
+					<td>단역-태원 딸역</td>
+					<td>16,765,970,362</td>
+					<td>2,167,426</td>
+					<td>17,497,165,500</td>
+					<td>2,260,512</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

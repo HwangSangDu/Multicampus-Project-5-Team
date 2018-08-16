@@ -1,0 +1,177 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '비르지니 르도엥'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>미친개들</td>
+					<td>Rabid Dogs</td>
+					<td>2015</td>
+					<td>프랑스,캐나다</td>
+					<td>액션,드라마,스릴러</td>
+					<td>주연</td>
+					<td>16,830,100</td>
+					<td>2,112</td>
+					<td>16,830,100</td>
+					<td>2,112</td>
+				</tr>
+			
+				<tr>
+					<td>범죄의 군대</td>
+					<td>The Army Of Crime</td>
+					<td>2009</td>
+					<td>프랑스</td>
+					<td>드라마,전쟁</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>174,000</td>
+					<td>22</td>
+				</tr>
+			
+				<tr>
+					<td>쉘 위 키스</td>
+					<td>Kiss Please</td>
+					<td>2007</td>
+					<td>프랑스</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연-주디트역</td>
+					<td>166,150,915</td>
+					<td>23,639</td>
+					<td>164,426,000</td>
+					<td>23,392</td>
+				</tr>
+			
+				<tr>
+					<td>백우즈</td>
+					<td>BackWoods</td>
+					<td>2006</td>
+					<td>영국,프랑스,스페인</td>
+					<td>스릴러,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>할리</td>
+					<td>Holly</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>천사의 속삭임</td>
+					<td>Saint Ange</td>
+					<td>2004</td>
+					<td>프랑스</td>
+					<td>드라마,판타지,공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>즐거운 여행</td>
+					<td>Bon Voyage</td>
+					<td>2003</td>
+					<td>프랑스</td>
+					<td>코미디,드라마,미스터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>8월말, 9월초</td>
+					<td>Late August, Early September</td>
+					<td>1998</td>
+					<td>프랑스</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>군인의 딸은 울지 않는다</td>
+					<td>A Soldier&#039;s Daughter Never Cries</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>차가운 물</td>
+					<td>Cold Water</td>
+					<td>1994</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,513,000</td>
+					<td>219</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

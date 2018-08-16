@@ -1,0 +1,346 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '스티브 카렐'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>빌리 진 킹: 세기의 대결</td>
+					<td>Battle Of The Sexes</td>
+					<td>2017</td>
+					<td>미국,영국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>159,850,000</td>
+					<td>20,138</td>
+					<td>159,850,000</td>
+					<td>20,138</td>
+				</tr>
+			
+				<tr>
+					<td>슈퍼배드 3</td>
+					<td>Despicable Me 3</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td>24,216,987,019</td>
+					<td>3,324,861</td>
+					<td>24,217,091,019</td>
+					<td>3,324,874</td>
+				</tr>
+			
+				<tr>
+					<td>카페 소사이어티</td>
+					<td>Cafe Society</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>1,047,223,666</td>
+					<td>126,439</td>
+					<td>1,048,530,166</td>
+					<td>126,621</td>
+				</tr>
+			
+				<tr>
+					<td>로렐</td>
+					<td>Laurel</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>62,368,400</td>
+					<td>8,289</td>
+					<td>64,499,400</td>
+					<td>8,509</td>
+				</tr>
+			
+				<tr>
+					<td>빅쇼트</td>
+					<td>The Big Short</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>3,622,268,707</td>
+					<td>446,664</td>
+					<td>3,626,567,707</td>
+					<td>447,220</td>
+				</tr>
+			
+				<tr>
+					<td>폭스캐처</td>
+					<td>Foxcatcher</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td>203,263,521</td>
+					<td>25,618</td>
+					<td>207,764,621</td>
+					<td>26,199</td>
+				</tr>
+			
+				<tr>
+					<td>난 지구 반대편 나라로 가버릴테야</td>
+					<td>Alexander and the Terrible, Horrible, No Good, Very Bad Day</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>코미디,가족</td>
+					<td>주연-벤역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>슈퍼배드 2</td>
+					<td>Despicable Me 2</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td>6,605,668,500</td>
+					<td>962,865</td>
+					<td>6,611,503,500</td>
+					<td>963,763</td>
+				</tr>
+			
+				<tr>
+					<td>더 웨이, 웨이 백</td>
+					<td>The Way, Way Back</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연-트렌트역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>앵커맨: 더 레전드 컨티뉴</td>
+					<td>Anchorman 2: The Legend Continues</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연-브릭 탐랜드역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>인크레더블 버트 원더스톤 </td>
+					<td>The Incredible Burt Wonderstone</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연-버트 원더스톤 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>세상의 끝까지 21일</td>
+					<td>Seeking a Friend for the End of the World</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>드라마,코미디,멜로/로맨스</td>
+					<td>주연-도지역</td>
+					<td>147,141,500</td>
+					<td>19,897</td>
+					<td>147,134,500</td>
+					<td>19,896</td>
+				</tr>
+			
+				<tr>
+					<td>호프 스프링즈</td>
+					<td>Hope Springs</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>388,432,500</td>
+					<td>55,273</td>
+					<td>388,432,500</td>
+					<td>55,273</td>
+				</tr>
+			
+				<tr>
+					<td>크레이지 스투피드 러브</td>
+					<td>Crazy Stupid Love</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>슈퍼  배드</td>
+					<td>Despicable Me</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>애니메이션,가족</td>
+					<td>주연-그루역(목소리)</td>
+					<td>9,873,975,412</td>
+					<td>1,043,904</td>
+					<td>9,717,463,000</td>
+					<td>1,027,050</td>
+				</tr>
+			
+				<tr>
+					<td>브로큰 데이트</td>
+					<td>Date Night</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>멜로/로맨스,액션,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>디너게임</td>
+					<td>Dinner for Schmucks</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>겟 스마트</td>
+					<td>Get Smart</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>범죄,액션,코미디</td>
+					<td>주연</td>
+					<td>1,152,676,500</td>
+					<td>176,852</td>
+					<td>1,149,843,500</td>
+					<td>175,390</td>
+				</tr>
+			
+				<tr>
+					<td>호튼</td>
+					<td>Horton Hears A Who!</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>애니메이션,어드벤처,가족</td>
+					<td>주연(목소리)</td>
+					<td>3,802,813,334</td>
+					<td>638,598</td>
+					<td>3,801,884,000</td>
+					<td>635,579</td>
+				</tr>
+			
+				<tr>
+					<td>댄 인 러브</td>
+					<td>Dan In Real Life</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>코미디,드라마,멜로/로맨스</td>
+					<td>주연-댄 번스역</td>
+					<td>1,151,134,167</td>
+					<td>179,680</td>
+					<td>1,149,348,500</td>
+					<td>175,417</td>
+				</tr>
+			
+				<tr>
+					<td>에반 올마이티</td>
+					<td>Evan Almighty</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>코미디,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>262,291</td>
+					<td>1,487,273,600</td>
+					<td>236,687</td>
+				</tr>
+			
+				<tr>
+					<td>40살까지 못해본 사람</td>
+					<td>The 40 Year-Old Virgin</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>58,800</td>
+					<td>325,572,000</td>
+					<td>50,339</td>
+				</tr>
+			
+				<tr>
+					<td>오피스</td>
+					<td>The Office</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

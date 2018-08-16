@@ -1,0 +1,411 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '제프 다니엘스'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>마션</td>
+					<td>The Martian </td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션,어드벤처,SF</td>
+					<td>주연</td>
+					<td>39,663,145,295</td>
+					<td>4,880,800</td>
+					<td>39,672,140,595</td>
+					<td>4,881,865</td>
+				</tr>
+			
+				<tr>
+					<td>덤 앤 더머 투</td>
+					<td>Dumb and Dumber To</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>1,436,861,585</td>
+					<td>192,726</td>
+					<td>1,436,861,585</td>
+					<td>192,726</td>
+				</tr>
+			
+				<tr>
+					<td>페이퍼맨</td>
+					<td>Paper Man</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>900,000</td>
+					<td>150</td>
+					<td>900,000</td>
+					<td>150</td>
+				</tr>
+			
+				<tr>
+					<td>앤서 맨</td>
+					<td>The Answer Man</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>룩아웃</td>
+					<td>The Lookout</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>범죄,드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>플럼 썸머</td>
+					<td>A Plumm Summer</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>어드벤처,가족</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>굿나잇 앤 굿럭</td>
+					<td>Good Night, and Good Luck</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-시그 미켈슨역</td>
+					<td>0</td>
+					<td>8,618</td>
+					<td>73,892,900</td>
+					<td>11,346</td>
+				</tr>
+			
+				<tr>
+					<td>오징어와 고래</td>
+					<td>The Squid and the Whale</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>웨인왕의 윈-딕시</td>
+					<td>Because Of Winn-Dixie</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>가족,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>가공의 영웅</td>
+					<td>Imaginary Heroes</td>
+					<td>2004</td>
+					<td>미국,독일,벨기에</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>신의 영웅들</td>
+					<td>Gods And Generals</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>전쟁,드라마,액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>블러드 워크</td>
+					<td>Blood Work</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>드라마,스릴러,액션,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>델라웨어 전투</td>
+					<td>The Crossing</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>치터스</td>
+					<td>Cheaters</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>레이즈</td>
+					<td>All The Rage</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>화성인 마틴</td>
+					<td>My Favorite Martian</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>SF,가족,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>플레전트빌 </td>
+					<td>Pleasantville</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>코미디,드라마,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>8,693</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>트라이얼 쇼 </td>
+					<td>Trial And Error</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>487</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>48시간의킬링게임 </td>
+					<td>2 Days in the Valley</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>드라마,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>157</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아름다운 비행 </td>
+					<td>Fly Away Home</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>가족,드라마,어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>35,509</td>
+					<td>349,000</td>
+					<td>127</td>
+				</tr>
+			
+				<tr>
+					<td>101 달마시안</td>
+					<td>101 Dalmatians</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>가족,어드벤처,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>283,807</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>덤 앤 더머 </td>
+					<td>Dumb And Dumber</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연-해리 던역</td>
+					<td>0</td>
+					<td>168,049</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>그냥 파봤어 </td>
+					<td>There Goes The Neighborhood</td>
+					<td>1992</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,791</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>타임 스케이프</td>
+					<td>Time Scape</td>
+					<td>1992</td>
+					<td>미국</td>
+					<td>SF,미스터리</td>
+					<td>감독</td>
+					<td>0</td>
+					<td>524</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사랑의 기쁨</td>
+					<td>The Butcher&#039;S Wife</td>
+					<td>1991</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>95,056</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아라크네의 비밀</td>
+					<td>Arachnophobia</td>
+					<td>1990</td>
+					<td>미국</td>
+					<td>공포(호러),코미디,SF</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>36,978</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>Y세대</td>
+					<td>Welcome Home, Roxy Carmichael</td>
+					<td>1990</td>
+					<td>미국,영국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>애정의 조건 </td>
+					<td>Terms Of Endearment</td>
+					<td>1983</td>
+					<td>미국</td>
+					<td>가족,드라마,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>249,550</td>
+					<td>2,518,000</td>
+					<td>545</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

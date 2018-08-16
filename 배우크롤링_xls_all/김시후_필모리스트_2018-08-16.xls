@@ -1,0 +1,151 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '김시후'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>커터</td>
+					<td>Eclipse</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>범죄,드라마</td>
+					<td>주연-윤재역</td>
+					<td>151,165,500</td>
+					<td>19,405</td>
+					<td>151,165,500</td>
+					<td>19,405</td>
+				</tr>
+			
+				<tr>
+					<td>베테랑</td>
+					<td>Veteran</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>액션,드라마</td>
+					<td>조연-윤 형사역</td>
+					<td>105,168,155,250</td>
+					<td>13,414,009</td>
+					<td>105,169,264,250</td>
+					<td>13,414,200</td>
+				</tr>
+			
+				<tr>
+					<td>소녀</td>
+					<td>Steel Cold Winter</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>멜로/로맨스,미스터리</td>
+					<td>주연-윤수역</td>
+					<td>153,877,000</td>
+					<td>20,594</td>
+					<td>153,915,000</td>
+					<td>20,599</td>
+				</tr>
+			
+				<tr>
+					<td>마이 웨이</td>
+					<td>My Way</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>전쟁,액션,드라마</td>
+					<td>조연-츠카모토역</td>
+					<td>15,994,803,000</td>
+					<td>2,142,622</td>
+					<td>15,995,187,000</td>
+					<td>2,142,670</td>
+				</tr>
+			
+				<tr>
+					<td>써니</td>
+					<td>Sunny</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>조연-과거 준호 / 준호 아들 역</td>
+					<td>54,034,235,100</td>
+					<td>7,362,467</td>
+					<td>54,038,534,700</td>
+					<td>7,363,139</td>
+				</tr>
+			
+				<tr>
+					<td>구타유발자들</td>
+					<td>A Bloody Aria</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>코미디,범죄</td>
+					<td>조연-현재역</td>
+					<td>0</td>
+					<td>164,606</td>
+					<td>934,380,300</td>
+					<td>143,061</td>
+				</tr>
+			
+				<tr>
+					<td>짝패</td>
+					<td>The City Of Violence</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>조연-10대 석환역</td>
+					<td>0</td>
+					<td>1,196,520</td>
+					<td>6,585,376,300</td>
+					<td>1,021,638</td>
+				</tr>
+			
+				<tr>
+					<td>친절한 금자씨</td>
+					<td>Sympathy For Lady Vengeance</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>조연-근식 역</td>
+					<td>0</td>
+					<td>3,650,000</td>
+					<td>20,491,973,593</td>
+					<td>3,120,784</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

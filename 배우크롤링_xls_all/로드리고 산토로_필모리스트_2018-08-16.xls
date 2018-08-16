@@ -1,0 +1,151 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '로드리고 산토로'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>벤허</td>
+					<td>Ben-Hur</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>어드벤처,드라마</td>
+					<td>주연</td>
+					<td>11,410,860,395</td>
+					<td>1,400,301</td>
+					<td>11,411,820,395</td>
+					<td>1,400,397</td>
+				</tr>
+			
+				<tr>
+					<td>펠레: 버스 오브 어 레전드</td>
+					<td>Pele: Birth of a Legend</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>33</td>
+					<td>The 33</td>
+					<td>2015</td>
+					<td>미국,칠레</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>318,282,400</td>
+					<td>41,269</td>
+					<td>318,282,400</td>
+					<td>41,269</td>
+				</tr>
+			
+				<tr>
+					<td>포커스</td>
+					<td>Focus</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>코미디,범죄,멜로/로맨스</td>
+					<td>주연</td>
+					<td>702,878,700</td>
+					<td>91,164</td>
+					<td>702,878,700</td>
+					<td>91,164</td>
+				</tr>
+			
+				<tr>
+					<td>300: 제국의 부활</td>
+					<td>300: Rise of an Empire</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>액션,드라마,전쟁</td>
+					<td>주연</td>
+					<td>13,395,159,700</td>
+					<td>1,593,116</td>
+					<td>13,395,159,700</td>
+					<td>1,593,116</td>
+				</tr>
+			
+				<tr>
+					<td>라스트 스탠드</td>
+					<td>The Last Stand</td>
+					<td>2013</td>
+					<td>미국,영국</td>
+					<td>액션</td>
+					<td>조연-프랭크 마르티네스역</td>
+					<td>492,135,000</td>
+					<td>66,698</td>
+					<td>492,763,000</td>
+					<td>66,790</td>
+				</tr>
+			
+				<tr>
+					<td>엘레노</td>
+					<td>Heleno</td>
+					<td>2011</td>
+					<td>브라질</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>0</td>
+					<td>0</td>
+				</tr>
+			
+				<tr>
+					<td>우연 혹은 필연</td>
+					<td>Not By Chance</td>
+					<td>2007</td>
+					<td>브라질</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

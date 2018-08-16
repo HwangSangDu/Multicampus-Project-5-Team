@@ -1,0 +1,99 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '토비 켑벨'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>허리케인 하이스트</td>
+					<td>The Hurricane Heist</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>액션,범죄</td>
+					<td>주연</td>
+					<td>1,730,262,848</td>
+					<td>214,949</td>
+					<td>1,730,262,848</td>
+					<td>214,949</td>
+				</tr>
+			
+				<tr>
+					<td>벤허</td>
+					<td>Ben-Hur</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>어드벤처,드라마</td>
+					<td>주연</td>
+					<td>11,410,860,395</td>
+					<td>1,400,301</td>
+					<td>11,411,820,395</td>
+					<td>1,400,397</td>
+				</tr>
+			
+				<tr>
+					<td>워크래프트: 전쟁의 서막</td>
+					<td>Warcraft</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지</td>
+					<td>주연</td>
+					<td>10,142,271,205</td>
+					<td>1,163,274</td>
+					<td>10,142,271,205</td>
+					<td>1,163,274</td>
+				</tr>
+			
+				<tr>
+					<td>블러디 아일랜드</td>
+					<td>Wilderness</td>
+					<td>2006</td>
+					<td>영국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연-캘럼역</td>
+					<td></td>
+					<td></td>
+					<td>1,225,500</td>
+					<td>181</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,359 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '이재용'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>돌아와요 부산항애(愛)</td>
+					<td>BROTHERS IN HEAVEN</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>범죄,액션,드라마</td>
+					<td>단역-경찰팀장역</td>
+					<td>53,622,300</td>
+					<td>6,954</td>
+					<td>53,622,300</td>
+					<td>6,954</td>
+				</tr>
+			
+				<tr>
+					<td>실종: 사라진아내</td>
+					<td></td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>스릴러,멜로/로맨스,액션</td>
+					<td>주연</td>
+					<td>974,000</td>
+					<td>185</td>
+					<td>974,000</td>
+					<td>185</td>
+				</tr>
+			
+				<tr>
+					<td>순수의 시대</td>
+					<td>Empire of Lust</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>사극,드라마</td>
+					<td>조연-정도전역</td>
+					<td>3,740,948,828</td>
+					<td>469,891</td>
+					<td>3,743,046,828</td>
+					<td>470,308</td>
+				</tr>
+			
+				<tr>
+					<td>극비수사</td>
+					<td>The Classified File</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마,범죄</td>
+					<td>단역-백도사역</td>
+					<td>22,389,535,897</td>
+					<td>2,860,786</td>
+					<td>22,389,535,897</td>
+					<td>2,860,786</td>
+				</tr>
+			
+				<tr>
+					<td>파파로티</td>
+					<td>My Paparotti</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-보스역</td>
+					<td>11,825,934,000</td>
+					<td>1,716,429</td>
+					<td>11,826,024,000</td>
+					<td>1,716,438</td>
+				</tr>
+			
+				<tr>
+					<td>조선명탐정 : 각시투구꽃의 비밀</td>
+					<td>Detective K : Secret of Virtuous Widow</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>코미디,액션</td>
+					<td>조연-임 판서역</td>
+					<td>35,841,769,500</td>
+					<td>4,786,259</td>
+					<td>35,841,769,500</td>
+					<td>4,786,259</td>
+				</tr>
+			
+				<tr>
+					<td>4요일: 자살을 부르는 요일</td>
+					<td>Day of Death</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연-사업실패 빚쟁이, 고경태 역</td>
+					<td>182,233,000</td>
+					<td>26,840</td>
+					<td>182,990,000</td>
+					<td>26,962</td>
+				</tr>
+			
+				<tr>
+					<td>그 남자의 책 198쪽</td>
+					<td>Heartbreak Library</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마,애니메이션</td>
+					<td>단역-송 회장역</td>
+					<td>575,174,333</td>
+					<td>91,387</td>
+					<td>587,173,500</td>
+					<td>93,445</td>
+				</tr>
+			
+				<tr>
+					<td>저수지에서 건진 치타</td>
+					<td>Who’S That Knocking At My Door?</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-상인 2역</td>
+					<td>0</td>
+					<td>2,551</td>
+					<td>16,331,000</td>
+					<td>2,500</td>
+				</tr>
+			
+				<tr>
+					<td>바르게 살자</td>
+					<td>Going By The Book</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>조연-윤과장 역</td>
+					<td>0</td>
+					<td>2,190,250</td>
+					<td>13,944,930,000</td>
+					<td>2,135,606</td>
+				</tr>
+			
+				<tr>
+					<td>다세포소녀</td>
+					<td>Dasepo Naughty Girls</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>조연-모든 선생님역</td>
+					<td>0</td>
+					<td>561,803</td>
+					<td>2,862,531,600</td>
+					<td>476,732</td>
+				</tr>
+			
+				<tr>
+					<td>플라이 대디</td>
+					<td>Fly. Daddy, Fly</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-교감역</td>
+					<td>0</td>
+					<td>510,604</td>
+					<td>2,560,456,300</td>
+					<td>431,231</td>
+				</tr>
+			
+				<tr>
+					<td>모노폴리</td>
+					<td>Monopoly</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>범죄</td>
+					<td>단역</td>
+					<td>0</td>
+					<td>394,935</td>
+					<td>2,195,709,100</td>
+					<td>358,299</td>
+				</tr>
+			
+				<tr>
+					<td>도마뱀</td>
+					<td>Love Phobia</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>조연-서정 스님역</td>
+					<td>0</td>
+					<td>397,913</td>
+					<td>2,307,824,200</td>
+					<td>364,848</td>
+				</tr>
+			
+				<tr>
+					<td>굿럭</td>
+					<td>Good Luck</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-조 회장역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>화성으로 간 사나이</td>
+					<td>A Letter From Mars</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-승재 아버지역</td>
+					<td>0</td>
+					<td>53,838</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>지구를 지켜라</td>
+					<td>Save the Green Planet</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>조연-추 형사역</td>
+					<td></td>
+					<td>73,132</td>
+					<td>859,500</td>
+					<td>145</td>
+				</tr>
+			
+				<tr>
+					<td>유아독존</td>
+					<td>Baby Alone</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>조연-동철역</td>
+					<td></td>
+					<td>37,649</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>뚫어야 산다</td>
+					<td>Dig Or Die</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>조연</td>
+					<td></td>
+					<td>20,283</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>묻지마 패밀리</td>
+					<td>Nocomment</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>액션,코미디</td>
+					<td>단역-segment 교회 누나 - 카페 점원역</td>
+					<td></td>
+					<td>208,360</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>친구</td>
+					<td>Friend</td>
+					<td>2001</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-눈칼자욱역</td>
+					<td>0</td>
+					<td>2,678,846</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>새는 폐곡선을 그린다</td>
+					<td>The Bird Who Stops In The Air</td>
+					<td>1999</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-이 교수역</td>
+					<td></td>
+					<td>1,078</td>
+					<td>716,000</td>
+					<td>130</td>
+				</tr>
+			
+				<tr>
+					<td>닥터 K</td>
+					<td>Dr.K</td>
+					<td>1998</td>
+					<td>한국</td>
+					<td>드라마,미스터리</td>
+					<td>단역-정신병원 환자역</td>
+					<td>0</td>
+					<td>30,843</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>억수탕(3pm Paradise)</td>
+					<td>3Pm Paradise Bath House</td>
+					<td>1997</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>단역-만화방 주인역</td>
+					<td>0</td>
+					<td>16,258</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

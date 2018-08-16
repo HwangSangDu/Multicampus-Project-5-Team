@@ -1,0 +1,164 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '켈란 루츠'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>킬러 더 머니</td>
+					<td>Money</td>
+					<td>2016</td>
+					<td>스페인</td>
+					<td>범죄,미스터리,스릴러</td>
+					<td>주연-마크역</td>
+					<td>82,000</td>
+					<td>34</td>
+					<td>82,000</td>
+					<td>34</td>
+				</tr>
+			
+				<tr>
+					<td>행성탈출: 반란의 서막</td>
+					<td>Science Fiction Volume One: The Osiris Child</td>
+					<td>2016</td>
+					<td>호주</td>
+					<td>액션,SF</td>
+					<td>주연</td>
+					<td>1,904,000</td>
+					<td>238</td>
+					<td>1,904,000</td>
+					<td>238</td>
+				</tr>
+			
+				<tr>
+					<td>익스트랙션</td>
+					<td>Extraction</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>134,000</td>
+					<td>54</td>
+					<td>134,000</td>
+					<td>54</td>
+				</tr>
+			
+				<tr>
+					<td>밀그램 프로젝트</td>
+					<td>Experimenter</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>422,400</td>
+					<td>68</td>
+					<td>422,400</td>
+					<td>68</td>
+				</tr>
+			
+				<tr>
+					<td>헤라클레스 : 레전드 비긴즈</td>
+					<td>The legend of Hercules</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>액션,판타지</td>
+					<td>주연</td>
+					<td>1,662,172,151</td>
+					<td>221,327</td>
+					<td>1,662,357,151</td>
+					<td>221,340</td>
+				</tr>
+			
+				<tr>
+					<td>자바히트: 살인면허</td>
+					<td>Java Heat</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>액션,드라마,범죄</td>
+					<td>주연</td>
+					<td>250,000</td>
+					<td>50</td>
+					<td>250,000</td>
+					<td>50</td>
+				</tr>
+			
+				<tr>
+					<td>타잔 3D</td>
+					<td>TARZAN 3D</td>
+					<td>2013</td>
+					<td>독일</td>
+					<td>애니메이션,액션,어드벤처</td>
+					<td>주연(목소리)</td>
+					<td>4,462,749,000</td>
+					<td>597,945</td>
+					<td>4,464,566,000</td>
+					<td>598,204</td>
+				</tr>
+			
+				<tr>
+					<td>아레나 : 더 파이터 </td>
+					<td>Arena</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연-데이빗 역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>나이트메어</td>
+					<td>A Nightmare On Elm Street</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td>1,073,229,640</td>
+					<td>139,140</td>
+					<td>1,056,379,500</td>
+					<td>136,925</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

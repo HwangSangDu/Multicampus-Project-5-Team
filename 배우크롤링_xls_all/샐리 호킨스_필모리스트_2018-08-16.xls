@@ -1,0 +1,164 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '샐리 호킨스'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>셰이프 오브 워터: 사랑의 모양</td>
+					<td>The Shape of Water</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>어드벤처,판타지</td>
+					<td>주연</td>
+					<td>4,211,385,400</td>
+					<td>506,408</td>
+					<td>4,212,093,600</td>
+					<td>506,487</td>
+				</tr>
+			
+				<tr>
+					<td>패딩턴 2</td>
+					<td>Paddington 2</td>
+					<td>2017</td>
+					<td>프랑스,영국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>2,554,560,200</td>
+					<td>338,899</td>
+					<td>2,555,480,200</td>
+					<td>339,014</td>
+				</tr>
+			
+				<tr>
+					<td>내 사랑</td>
+					<td>Maudie</td>
+					<td>2016</td>
+					<td>아일랜드,캐나다</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>2,461,815,625</td>
+					<td>336,694</td>
+					<td>2,464,143,625</td>
+					<td>336,997</td>
+				</tr>
+			
+				<tr>
+					<td>네이든</td>
+					<td>X Plus Y</td>
+					<td>2014</td>
+					<td>영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>106,072,400</td>
+					<td>13,936</td>
+					<td>106,437,400</td>
+					<td>13,984</td>
+				</tr>
+			
+				<tr>
+					<td>패딩턴</td>
+					<td>Paddington</td>
+					<td>2014</td>
+					<td>영국,프랑스,캐나다</td>
+					<td>코미디,가족,어드벤처</td>
+					<td>주연</td>
+					<td>2,327,198,729</td>
+					<td>314,780</td>
+					<td>2,328,639,729</td>
+					<td>315,004</td>
+				</tr>
+			
+				<tr>
+					<td>데저트 플라워</td>
+					<td>Desert Flower</td>
+					<td>2009</td>
+					<td>영국,독일,오스트리아 </td>
+					<td>드라마</td>
+					<td>주연-마릴린 역</td>
+					<td>72,995,560</td>
+					<td>9,898</td>
+					<td>71,849,500</td>
+					<td>9,740</td>
+				</tr>
+			
+				<tr>
+					<td>해피 고 럭키</td>
+					<td>Happy-Go-Lucky</td>
+					<td>2008</td>
+					<td>영국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>36,209,539</td>
+					<td>5,373</td>
+					<td>38,347,500</td>
+					<td>5,742</td>
+				</tr>
+			
+				<tr>
+					<td>설득</td>
+					<td>Persuasion</td>
+					<td>2007</td>
+					<td>영국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-앤 엘리어트역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>핑거스미스</td>
+					<td>Fingersmith</td>
+					<td>2005</td>
+					<td>영국</td>
+					<td>범죄,드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

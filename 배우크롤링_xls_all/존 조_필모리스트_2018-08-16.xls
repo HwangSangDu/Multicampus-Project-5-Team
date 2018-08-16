@@ -1,0 +1,138 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '존 조'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>서치</td>
+					<td>Searching</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>3,654,000</td>
+					<td>406</td>
+				</tr>
+			
+				<tr>
+					<td>콜럼버스</td>
+					<td>Columbus</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>67,013,000</td>
+					<td>8,068</td>
+					<td>67,013,000</td>
+					<td>8,068</td>
+				</tr>
+			
+				<tr>
+					<td>스타트렉 비욘드</td>
+					<td>Star Trek Beyond</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,SF</td>
+					<td>주연</td>
+					<td>10,193,232,820</td>
+					<td>1,157,472</td>
+					<td>10,193,232,820</td>
+					<td>1,157,472</td>
+				</tr>
+			
+				<tr>
+					<td>해롤드 앤 쿠마 3 : 크리스마스 대작전</td>
+					<td>A Very Harold &amp; Kumar 3D Christmas </td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연-해롤드 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>해롤드와 쿠마 2</td>
+					<td>Harold &amp; Kumar Escape From Guantanamo Bay</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>어드벤처,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>웨스트 32번가</td>
+					<td>West 32Nd</td>
+					<td>2007</td>
+					<td>한국,미국</td>
+					<td>범죄,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>8,321</td>
+					<td>56,277,500</td>
+					<td>8,321</td>
+				</tr>
+			
+				<tr>
+					<td>해롤드와 쿠마</td>
+					<td>Harold and Kumar Go to White Castle</td>
+					<td>2004</td>
+					<td>미국,캐나다,독일</td>
+					<td>코미디,어드벤처</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

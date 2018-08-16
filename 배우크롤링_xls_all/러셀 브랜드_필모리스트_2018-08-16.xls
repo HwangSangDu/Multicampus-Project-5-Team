@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '러셀 브랜드'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>트롤</td>
+					<td>Trolls</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>애니메이션</td>
+					<td>조연-크릭 역역(목소리)</td>
+					<td>5,011,161,500</td>
+					<td>675,966</td>
+					<td>5,011,161,500</td>
+					<td>675,966</td>
+				</tr>
+			
+				<tr>
+					<td>파라다이스</td>
+					<td>Paradise</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>8,000</td>
+					<td>1</td>
+					<td>8,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>락 오브 에이지</td>
+					<td>Rock of Ages</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>뮤지컬,드라마</td>
+					<td>주연</td>
+					<td>659,124,496</td>
+					<td>90,926</td>
+					<td>659,124,496</td>
+					<td>90,926</td>
+				</tr>
+			
+				<tr>
+					<td>바니버디</td>
+					<td>Hop</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>애니메이션</td>
+					<td>주연</td>
+					<td>1,207,951,000</td>
+					<td>181,841</td>
+					<td>1,207,921,000</td>
+					<td>181,837</td>
+				</tr>
+			
+				<tr>
+					<td>아서</td>
+					<td>Arthur</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연-아서 역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>컴 백 록스타</td>
+					<td>Get Him To The Greek</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연-알도우스 스노우 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

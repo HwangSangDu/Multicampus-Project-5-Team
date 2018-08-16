@@ -1,0 +1,502 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '고은아'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>무거운 새</td>
+					<td>A Heavy Bird</td>
+					<td>1994</td>
+					<td>한국</td>
+					<td>드라마,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>34,799</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>O녀</td>
+					<td>Zero Woman</td>
+					<td>1979</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스,미스터리,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td>45,649</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>과부</td>
+					<td>Widow</td>
+					<td>1979</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td>3,616</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>비둘기의 합창</td>
+					<td></td>
+					<td>1978</td>
+					<td></td>
+					<td></td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>어딘가에 엄마가</td>
+					<td>There Must Be Mother Somewhere</td>
+					<td>1978</td>
+					<td>한국</td>
+					<td>가족,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>율곡과 신사임당</td>
+					<td>Scholar Yul-Gok And His Mother Shin Sa-Im-Dang</td>
+					<td>1978</td>
+					<td>한국</td>
+					<td>드라마,사극</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>저 높은 곳을 향하여</td>
+					<td>Towards The High Place</td>
+					<td>1977</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>201,418</td>
+					<td>62,000</td>
+					<td>13</td>
+				</tr>
+			
+				<tr>
+					<td>캘리포니아 90006</td>
+					<td>California 90006</td>
+					<td>1976</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td>7,898</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>흑야</td>
+					<td>Black Night</td>
+					<td>1975</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td>1,089</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>새벽에 온 방문객</td>
+					<td>Visitor in Dawn</td>
+					<td>1975</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td>9,459</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>속 연화</td>
+					<td>Yeonhwa 2</td>
+					<td>1974</td>
+					<td>한국</td>
+					<td>사극</td>
+					<td>주연</td>
+					<td></td>
+					<td>9,350</td>
+					<td>0</td>
+					<td>0</td>
+				</tr>
+			
+				<tr>
+					<td>연화</td>
+					<td>Yeonhwa</td>
+					<td>1974</td>
+					<td>한국</td>
+					<td>사극</td>
+					<td>주연</td>
+					<td></td>
+					<td>9,350</td>
+					<td>0</td>
+					<td>0</td>
+				</tr>
+			
+				<tr>
+					<td>동거인</td>
+					<td>An Inmate</td>
+					<td>1974</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td>7,010</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>달래</td>
+					<td>Dalrae</td>
+					<td>1974</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td>2,235</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>황비</td>
+					<td>The Skyhawk</td>
+					<td>1974</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td>19,913</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>수선화</td>
+					<td>A narcissus</td>
+					<td>1973</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td>6,268</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>홍의 장군</td>
+					<td>General In Red</td>
+					<td>1973</td>
+					<td>한국</td>
+					<td>사극</td>
+					<td>주연</td>
+					<td></td>
+					<td>8,636</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>야간 비행</td>
+					<td>Night Flight</td>
+					<td>1973</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td>6,691</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>천사의 메아리</td>
+					<td>An Echo Of An Angel</td>
+					<td>1973</td>
+					<td>한국</td>
+					<td>뮤지컬</td>
+					<td>주연</td>
+					<td></td>
+					<td>12,889</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>쥐띠부인</td>
+					<td>A Lady Born In The Year Of Rat</td>
+					<td>1972</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td>34,975</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>며느리</td>
+					<td>Daughters-In-Law</td>
+					<td>1972</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td>19,113</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>속 쥐띠부인</td>
+					<td>A lady born in the year of rat 2</td>
+					<td>1972</td>
+					<td>한국</td>
+					<td></td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>어느부부</td>
+					<td>A Young Couple</td>
+					<td>1971</td>
+					<td>한국</td>
+					<td></td>
+					<td>주연</td>
+					<td></td>
+					<td>40,557</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>애</td>
+					<td>Love</td>
+					<td>1971</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td>27,654</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>고백</td>
+					<td>Confession</td>
+					<td>1971</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td>30,358</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>세 남매</td>
+					<td>A brother-and-sister threesome</td>
+					<td>1971</td>
+					<td>한국</td>
+					<td></td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>귀부인</td>
+					<td>Noble Lady</td>
+					<td>1968</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>순정</td>
+					<td>Pure Love</td>
+					<td>1968</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>춘풍</td>
+					<td>Spring Breeze </td>
+					<td>1968</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>까치소리</td>
+					<td>Sound of Magpies</td>
+					<td>1967</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-정순 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>비련</td>
+					<td>Tragic love</td>
+					<td>1967</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>청춘극장</td>
+					<td>Sorrowful Youth</td>
+					<td>1967</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>물레방아</td>
+					<td>A Water Mill</td>
+					<td>1966</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,962,000</td>
+					<td>981</td>
+				</tr>
+			
+				<tr>
+					<td>불사조</td>
+					<td></td>
+					<td>1966</td>
+					<td></td>
+					<td></td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>갯마을</td>
+					<td>The Seashore Village</td>
+					<td>1965</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

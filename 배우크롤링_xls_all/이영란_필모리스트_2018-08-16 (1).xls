@@ -1,0 +1,294 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '이영란'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>어떻게 헤어질까</td>
+					<td>How to Break up with My Cat</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>판타지,드라마</td>
+					<td>주연</td>
+					<td>8,909,600</td>
+					<td>1,154</td>
+					<td>8,909,600</td>
+					<td>1,154</td>
+				</tr>
+			
+				<tr>
+					<td>철원기행</td>
+					<td>End of Winter</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-어머니역</td>
+					<td>26,063,600</td>
+					<td>3,714</td>
+					<td>29,518,600</td>
+					<td>4,227</td>
+				</tr>
+			
+				<tr>
+					<td>프랑스 영화처럼</td>
+					<td>Like a French Film</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-엄마역</td>
+					<td>37,782,300</td>
+					<td>4,881</td>
+					<td>37,786,300</td>
+					<td>4,885</td>
+				</tr>
+			
+				<tr>
+					<td>우는 남자</td>
+					<td>No Tears for the Dead</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>액션,드라마</td>
+					<td>조연-옥순역</td>
+					<td>4,923,607,800</td>
+					<td>603,409</td>
+					<td>4,924,852,800</td>
+					<td>603,495</td>
+				</tr>
+			
+				<tr>
+					<td>한공주</td>
+					<td>HAN Gong-ju</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-조 여사역</td>
+					<td>1,784,536,300</td>
+					<td>224,978</td>
+					<td>1,790,631,300</td>
+					<td>225,839</td>
+				</tr>
+			
+				<tr>
+					<td>늑대소년</td>
+					<td>A Werewolf Boy</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마,판타지</td>
+					<td>조연-현재 순이역</td>
+					<td>46,593,107,500</td>
+					<td>6,654,837</td>
+					<td>46,594,814,400</td>
+					<td>6,655,068</td>
+				</tr>
+			
+				<tr>
+					<td>청춘그루브</td>
+					<td>The Beat Goes On</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-창대 엄마역</td>
+					<td>6,922,500</td>
+					<td>864</td>
+					<td>6,952,500</td>
+					<td>868</td>
+				</tr>
+			
+				<tr>
+					<td>불량남녀</td>
+					<td>Romantic Debtors</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>조연-무령 모역</td>
+					<td>3,619,026,909</td>
+					<td>491,207</td>
+					<td>3,562,190,000</td>
+					<td>483,387</td>
+				</tr>
+			
+				<tr>
+					<td>딱정벌레</td>
+					<td>Beetles</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-명진 어머니역</td>
+					<td></td>
+					<td></td>
+					<td>42,000</td>
+					<td>6</td>
+				</tr>
+			
+				<tr>
+					<td>어깨 너머의 연인</td>
+					<td>Love Exposure</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>조연-정완엄마역</td>
+					<td>0</td>
+					<td>301,153</td>
+					<td>1,974,664,500</td>
+					<td>295,394</td>
+				</tr>
+			
+				<tr>
+					<td>청춘만화</td>
+					<td>Almost Love</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>단역-여교수역</td>
+					<td>0</td>
+					<td>2,066,354</td>
+					<td>9,785,168,000</td>
+					<td>1,567,514</td>
+				</tr>
+			
+				<tr>
+					<td>태극기 휘날리며</td>
+					<td>TaeGukGi: Brotherhood Of War</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>전쟁,드라마</td>
+					<td>조연-어머니역</td>
+					<td>0</td>
+					<td>11,746,135</td>
+					<td>15,688,614,500</td>
+					<td>2,545,566</td>
+				</tr>
+			
+				<tr>
+					<td>스물넷</td>
+					<td>My Beautiful Days</td>
+					<td>2001</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>조연-엘렌 김역</td>
+					<td></td>
+					<td>794</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>하피</td>
+					<td>Harpy</td>
+					<td>2000</td>
+					<td>한국</td>
+					<td>공포(호러),스릴러</td>
+					<td>단역-소리역</td>
+					<td>0</td>
+					<td>26,591</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>돌아갈 귀</td>
+					<td>Gui : A Space between Two Deaths</td>
+					<td>2000</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-늙은 일화역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>연풍연가</td>
+					<td>Love Wind, Love Song</td>
+					<td>1998</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>조연-영서 모역</td>
+					<td>0</td>
+					<td>92,574</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>정사</td>
+					<td>An Affair</td>
+					<td>1998</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>단역</td>
+					<td>0</td>
+					<td>304,666</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>꽃잎</td>
+					<td>A Petal</td>
+					<td>1996</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>213,979</td>
+					<td>0</td>
+					<td>0</td>
+				</tr>
+			
+				<tr>
+					<td>둘빼기 셋</td>
+					<td>Two Minus Three</td>
+					<td>1977</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>8,947</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

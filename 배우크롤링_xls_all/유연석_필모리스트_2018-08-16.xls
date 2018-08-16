@@ -1,0 +1,294 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '유연석'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>춘몽</td>
+					<td>A Quiet Dream</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역</td>
+					<td>114,343,700</td>
+					<td>14,423</td>
+					<td>115,715,700</td>
+					<td>14,648</td>
+				</tr>
+			
+				<tr>
+					<td>해어화</td>
+					<td>LOVE, LIES</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>사극,드라마</td>
+					<td>주연</td>
+					<td>3,768,200,759</td>
+					<td>485,695</td>
+					<td>3,768,200,759</td>
+					<td>485,695</td>
+				</tr>
+			
+				<tr>
+					<td>그날의 분위기</td>
+					<td>Mood of the Day</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>5,142,899,612</td>
+					<td>652,453</td>
+					<td>5,149,571,612</td>
+					<td>653,287</td>
+				</tr>
+			
+				<tr>
+					<td>뷰티 인사이드</td>
+					<td>The Beauty Inside</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>판타지,멜로/로맨스</td>
+					<td>주연-우진123 / 나레이션역</td>
+					<td>16,155,795,131</td>
+					<td>2,054,297</td>
+					<td>16,184,831,031</td>
+					<td>2,057,896</td>
+				</tr>
+			
+				<tr>
+					<td>은밀한 유혹</td>
+					<td>Perfect Proposal</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>멜로/로맨스,범죄</td>
+					<td>주연</td>
+					<td>1,137,666,247</td>
+					<td>145,547</td>
+					<td>1,138,017,247</td>
+					<td>145,664</td>
+				</tr>
+			
+				<tr>
+					<td>상의원</td>
+					<td>The Royal Tailor</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>사극,드라마</td>
+					<td>주연</td>
+					<td>6,202,433,964</td>
+					<td>790,158</td>
+					<td>6,204,129,964</td>
+					<td>790,370</td>
+				</tr>
+			
+				<tr>
+					<td>제보자</td>
+					<td>The Whistleblower</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-심민호역</td>
+					<td>13,515,762,802</td>
+					<td>1,755,181</td>
+					<td>13,515,762,802</td>
+					<td>1,755,181</td>
+				</tr>
+			
+				<tr>
+					<td>화이: 괴물을 삼킨 아이</td>
+					<td>Hwayi: A Monster Boy</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>액션,스릴러</td>
+					<td>조연-박지원 역</td>
+					<td>17,695,516,795</td>
+					<td>2,394,466</td>
+					<td>17,695,683,795</td>
+					<td>2,394,487</td>
+				</tr>
+			
+				<tr>
+					<td>전국노래자랑</td>
+					<td>Born to Sing</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>6,685,476,000</td>
+					<td>977,873</td>
+					<td>6,687,636,000</td>
+					<td>978,413</td>
+				</tr>
+			
+				<tr>
+					<td>늑대소년-확장판</td>
+					<td>A Werewolf Boy-Director&#039;s Cut</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마,판타지</td>
+					<td>조연-지태역</td>
+					<td>2,868,302,500</td>
+					<td>414,083</td>
+					<td>2,869,918,500</td>
+					<td>414,285</td>
+				</tr>
+			
+				<tr>
+					<td>늑대소년</td>
+					<td>A Werewolf Boy</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마,판타지</td>
+					<td>조연-지태역</td>
+					<td>46,593,107,500</td>
+					<td>6,654,837</td>
+					<td>46,594,814,400</td>
+					<td>6,655,068</td>
+				</tr>
+			
+				<tr>
+					<td>무서운 이야기</td>
+					<td>Horror Stories</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td>2,452,368,566</td>
+					<td>331,760</td>
+					<td>2,452,368,566</td>
+					<td>331,760</td>
+				</tr>
+			
+				<tr>
+					<td>건축학개론</td>
+					<td>Architecture 101</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>조연-재욱역</td>
+					<td>30,219,800,500</td>
+					<td>4,110,645</td>
+					<td>30,238,893,900</td>
+					<td>4,113,446</td>
+				</tr>
+			
+				<tr>
+					<td>착한 살인자들</td>
+					<td>Homicide Sonate</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>101,000</td>
+					<td>19</td>
+				</tr>
+			
+				<tr>
+					<td>열여덟, 열아홉</td>
+					<td>Hoya</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>10,665,000</td>
+					<td>1,501</td>
+					<td>10,665,000</td>
+					<td>1,501</td>
+				</tr>
+			
+				<tr>
+					<td>혜화, 동</td>
+					<td>Re-encounter</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-한수역</td>
+					<td>83,116,600</td>
+					<td>11,079</td>
+					<td>88,747,400</td>
+					<td>11,880</td>
+				</tr>
+			
+				<tr>
+					<td>황금시대</td>
+					<td>Short! Short! Short! 2009: Show Me The Money</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-철물점 남자역</td>
+					<td>27,121,339</td>
+					<td>3,779</td>
+					<td>26,839,500</td>
+					<td>3,739</td>
+				</tr>
+			
+				<tr>
+					<td>톱</td>
+					<td>Saw</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td></td>
+					<td>주연-철물점 남자역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>올드보이</td>
+					<td>Old Boy</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>조연-소년 우진 역</td>
+					<td>0</td>
+					<td>3,269,000</td>
+					<td>2,007,208,000</td>
+					<td>310,021</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

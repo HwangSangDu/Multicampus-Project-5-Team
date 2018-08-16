@@ -1,0 +1,554 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '장 끌로드 반담'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>킥복서 더 레전드</td>
+					<td>kickboxer  the legend </td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>킥복서 리턴즈</td>
+					<td>Kickboxer: Vengeance</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연-듀란드 역역</td>
+					<td>300,000</td>
+					<td>60</td>
+					<td>300,000</td>
+					<td>60</td>
+				</tr>
+			
+				<tr>
+					<td>파괴자</td>
+					<td>Pound of Flesh</td>
+					<td>2015</td>
+					<td>캐나다</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>5,000</td>
+					<td>1</td>
+					<td>5,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>거리의 보안관</td>
+					<td>Swelter</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>268,000</td>
+					<td>47</td>
+					<td>268,000</td>
+					<td>47</td>
+				</tr>
+			
+				<tr>
+					<td>웰컴 투 더 정글</td>
+					<td>Welcome to the Jungle</td>
+					<td>2013</td>
+					<td>미국,영국</td>
+					<td>코미디</td>
+					<td>주연-스톰역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>식스 블릿츠: 분노의 추적</td>
+					<td>SIX BULLETS</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>스릴러,액션,범죄</td>
+					<td>주연</td>
+					<td>3,501,000</td>
+					<td>1,648</td>
+					<td>3,501,000</td>
+					<td>1,648</td>
+				</tr>
+			
+				<tr>
+					<td>유니버셜 솔저4: 클론의 반란</td>
+					<td>Universal Soldier: Day of Reckoning</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션,SF</td>
+					<td>주연</td>
+					<td>5,903,000</td>
+					<td>1,552</td>
+					<td>5,903,000</td>
+					<td>1,552</td>
+				</tr>
+			
+				<tr>
+					<td>드래곤 아이즈</td>
+					<td>Dragon Eyes</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션,범죄,드라마</td>
+					<td>주연</td>
+					<td>3,786,000</td>
+					<td>1,628</td>
+					<td>3,786,000</td>
+					<td>1,628</td>
+				</tr>
+			
+				<tr>
+					<td>익스펜더블 2</td>
+					<td>The Expendables II</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션,어드벤처</td>
+					<td>주연</td>
+					<td>3,208,867,228</td>
+					<td>444,434</td>
+					<td>3,209,043,228</td>
+					<td>444,456</td>
+				</tr>
+			
+				<tr>
+					<td>장 클로드 반담의 암살게임 </td>
+					<td>Assassination Games</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연-빈센트 브라질역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>유니버셜 솔저 3 : 리제너레이션 </td>
+					<td>Universal Soldier: Regeneration</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>액션,SF</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>쉐퍼드</td>
+					<td>The Shepherd</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>액션,범죄,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>장 클로드 반담</td>
+					<td>JCVD</td>
+					<td>2008</td>
+					<td>벨기에,룩셈부르크,프랑스</td>
+					<td>액션,코미디,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>8,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>언틸 데스</td>
+					<td>Until Death</td>
+					<td>2007</td>
+					<td>영국,불가리아,독일,미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>세컨드 인 코맨드</td>
+					<td>Second In Command</td>
+					<td>2006</td>
+					<td></td>
+					<td></td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>하드코 : 라스트 미션  </td>
+					<td>The Hard Corps</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연-필립 소베이지역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>웨이크 오브 데쓰</td>
+					<td>Wake of Death</td>
+					<td>2004</td>
+					<td>영국,독일,프랑스,남아프리카공화국</td>
+					<td>액션,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>헬</td>
+					<td>The Savage</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>490</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>디레일드</td>
+					<td>Derailed</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>인페르노 </td>
+					<td>Inferno</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>821</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>유니버설 솔저:그 두번째 임무</td>
+					<td>Universal Soldier: The Return</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>SF,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>28,906</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>리전에어</td>
+					<td>Legionnaire</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>액션,어드벤처,전쟁</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,703</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>넉오프</td>
+					<td>Knock Off</td>
+					<td>1998</td>
+					<td>미국,홍콩</td>
+					<td>범죄,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>19,363</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>더블팀 </td>
+					<td>Double Team</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>78,258</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>맥시멈 리스크 </td>
+					<td>Maxium Risk</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>스릴러,액션,어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>65,429</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>서든 데쓰 </td>
+					<td>Sudden Death</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>액션,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>106,943</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>퀘스트 </td>
+					<td>The Quest</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>액션,스릴러,어드벤처</td>
+					<td>감독,주연</td>
+					<td>0</td>
+					<td>21,901</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스트리트 파이터</td>
+					<td>STREET FIGHTER</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>액션,어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>89,633</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>하드 타겟</td>
+					<td>Hard Target</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>35,672</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>탈주자</td>
+					<td>Nowhere To Run</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>멜로/로맨스,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>51,987</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>유니버설 솔져</td>
+					<td>Universal Soldier</td>
+					<td>1992</td>
+					<td>미국</td>
+					<td>액션,SF</td>
+					<td>주연-뤽 데버로/ GR44역</td>
+					<td>0</td>
+					<td>308,429</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>더블반담</td>
+					<td>Double Impact</td>
+					<td>1991</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연,시나리오(각본)</td>
+					<td>0</td>
+					<td>101,720</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>지옥의 반담</td>
+					<td>Death Warrant</td>
+					<td>1990</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>55,065</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>이탈자</td>
+					<td>A.W.O.L.</td>
+					<td>1989</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>37,804</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>어벤저 </td>
+					<td>Avenger</td>
+					<td>1989</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>90,330</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사이보그</td>
+					<td>Cyborg</td>
+					<td>1989</td>
+					<td>미국</td>
+					<td>액션,SF</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>60,000</td>
+					<td>10</td>
+				</tr>
+			
+				<tr>
+					<td>죽음의 승부</td>
+					<td>Blood Sport</td>
+					<td>1988</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>72,543</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>블랙 이글 </td>
+					<td>Black Eagl</td>
+					<td>1988</td>
+					<td>미국</td>
+					<td>액션,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>썬더</td>
+					<td>Raging Thunder</td>
+					<td>1987</td>
+					<td>홍콩</td>
+					<td>액션,어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>43,002</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

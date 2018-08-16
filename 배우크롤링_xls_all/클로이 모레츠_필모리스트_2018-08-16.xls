@@ -1,0 +1,255 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '클로이 모레츠'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>브레인 온 파이어</td>
+					<td>Brain on fire</td>
+					<td>2017</td>
+					<td>영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>12,036,000</td>
+					<td>1,564</td>
+					<td>12,036,000</td>
+					<td>1,564</td>
+				</tr>
+			
+				<tr>
+					<td>제 5침공</td>
+					<td>THE 5th WAVE</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션,어드벤처,SF</td>
+					<td>주연</td>
+					<td>1,041,049,900</td>
+					<td>135,874</td>
+					<td>1,041,049,900</td>
+					<td>135,874</td>
+				</tr>
+			
+				<tr>
+					<td>다크 플레이스</td>
+					<td>Dark Places </td>
+					<td>2015</td>
+					<td>미국,영국,프랑스</td>
+					<td>드라마,미스터리,스릴러</td>
+					<td>주연</td>
+					<td>530,282,654</td>
+					<td>66,075</td>
+					<td>530,596,654</td>
+					<td>66,127</td>
+				</tr>
+			
+				<tr>
+					<td>더 이퀄라이저</td>
+					<td>The Equalizer</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>액션,범죄,스릴러</td>
+					<td>주연</td>
+					<td>639,464,500</td>
+					<td>82,779</td>
+					<td>639,464,500</td>
+					<td>82,779</td>
+				</tr>
+			
+				<tr>
+					<td>클라우즈 오브 실스마리아</td>
+					<td>Clouds of Sils Maria</td>
+					<td>2014</td>
+					<td>프랑스,스위스,독일</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>263,302,599</td>
+					<td>33,009</td>
+					<td>264,488,599</td>
+					<td>33,168</td>
+				</tr>
+			
+				<tr>
+					<td>래기스</td>
+					<td>Laggies</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>이프 아이 스테이</td>
+					<td>If I Stay</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-미아 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>킥 애스 2 : 겁없는 녀석들</td>
+					<td>Kick-Ass 2</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>액션,코미디,범죄</td>
+					<td>주연</td>
+					<td>92,028,000</td>
+					<td>12,827</td>
+					<td>92,028,000</td>
+					<td>12,827</td>
+				</tr>
+			
+				<tr>
+					<td>캐리</td>
+					<td>Carrie</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>공포(호러),드라마</td>
+					<td>주연-캐리 화이트 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>런어웨이 걸</td>
+					<td>Hick</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>4,758,000</td>
+					<td>1,010</td>
+					<td>4,758,000</td>
+					<td>1,010</td>
+				</tr>
+			
+				<tr>
+					<td>휴고</td>
+					<td>HUGO</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>가족</td>
+					<td>주연-이자벨 역</td>
+					<td>637,621,000</td>
+					<td>60,520</td>
+					<td>637,946,000</td>
+					<td>60,561</td>
+				</tr>
+			
+				<tr>
+					<td>텍사스 킬링 필드 </td>
+					<td>Texas Killing Fields</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>렛 미 인</td>
+					<td>Let Me In</td>
+					<td>2010</td>
+					<td>영국,미국</td>
+					<td>드라마,판타지,공포(호러),미스터리</td>
+					<td>주연-애비역</td>
+					<td>1,158,654,342</td>
+					<td>169,072</td>
+					<td>1,141,186,000</td>
+					<td>166,503</td>
+				</tr>
+			
+				<tr>
+					<td>킥 애스: 영웅의 탄생</td>
+					<td>Kick-Ass</td>
+					<td>2010</td>
+					<td>영국,미국</td>
+					<td>액션,어드벤처,코미디</td>
+					<td>주연-민디/힛 걸역</td>
+					<td>1,167,536,970</td>
+					<td>153,849</td>
+					<td>1,148,869,500</td>
+					<td>151,159</td>
+				</tr>
+			
+				<tr>
+					<td>500일의 썸머</td>
+					<td>500Days Of Summer</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>조연-레이첼 핸슨역</td>
+					<td>1,064,051,540</td>
+					<td>140,458</td>
+					<td>2,277,004,000</td>
+					<td>286,828</td>
+				</tr>
+			
+				<tr>
+					<td>위키드 리틀 씽스</td>
+					<td>Wicked Little Things</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>드라마,공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,138 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '박지윤'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>눈의 여왕 3: 눈과 불의 마법대결</td>
+					<td>The Snow Queen3: Fire and Ice</td>
+					<td>2016</td>
+					<td>러시아</td>
+					<td>애니메이션,어드벤처,가족,판타지</td>
+					<td>주연-겔다역(목소리)</td>
+					<td>2,704,798,700</td>
+					<td>367,919</td>
+					<td>2,706,728,700</td>
+					<td>368,195</td>
+				</tr>
+			
+				<tr>
+					<td>사랑하기 때문에</td>
+					<td>BECAUSE I LOVE YOU</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>단역-라디오 DJ역(목소리),뉴스 아나운서 목소리역</td>
+					<td>2,672,853,440</td>
+					<td>340,830</td>
+					<td>2,673,489,440</td>
+					<td>340,936</td>
+				</tr>
+			
+				<tr>
+					<td>타이밍</td>
+					<td>Timing</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td>290,147,800</td>
+					<td>38,436</td>
+					<td>291,240,500</td>
+					<td>38,629</td>
+				</tr>
+			
+				<tr>
+					<td>유고와 라라 : 신비의 숲 어드벤처</td>
+					<td>Yugo &amp; Lala </td>
+					<td>2014</td>
+					<td>중국</td>
+					<td>애니메이션,판타지,어드벤처</td>
+					<td>주연(목소리)</td>
+					<td>188,535,000</td>
+					<td>26,292</td>
+					<td>188,589,000</td>
+					<td>26,302</td>
+				</tr>
+			
+				<tr>
+					<td>고스트 메신저 극장판</td>
+					<td>Ghost Messenger</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>애니메이션,SF,판타지</td>
+					<td>조연-마고할미역(목소리)</td>
+					<td>184,033,000</td>
+					<td>23,721</td>
+					<td>184,194,000</td>
+					<td>23,802</td>
+				</tr>
+			
+				<tr>
+					<td>디노타샤: 공룡대탐험</td>
+					<td>Dinotasia</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>애니메이션,어드벤처</td>
+					<td>주연-준 (한국어 목소리)역</td>
+					<td>165,071,000</td>
+					<td>23,530</td>
+					<td>165,071,000</td>
+					<td>23,530</td>
+				</tr>
+			
+				<tr>
+					<td>로망은 없다</td>
+					<td>What Is Not Romance</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>애니메이션,드라마,가족</td>
+					<td>주연-황현지 역(목소리)</td>
+					<td>942,465</td>
+					<td>158</td>
+					<td>994,000</td>
+					<td>170</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

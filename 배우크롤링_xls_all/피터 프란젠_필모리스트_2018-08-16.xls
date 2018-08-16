@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '피터 프란젠'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>에로 사리넨, 미래를 짓다</td>
+					<td>Eero Saarinen: The Architect Who Saw the Future</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>다큐멘터리</td>
+					<td>주연(목소리)</td>
+					<td></td>
+					<td></td>
+					<td>888,000</td>
+					<td>148</td>
+				</tr>
+			
+				<tr>
+					<td>퍼지</td>
+					<td>Purge</td>
+					<td>2012</td>
+					<td>핀란드,에스토니아</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>500,000</td>
+					<td>79</td>
+					<td>500,000</td>
+					<td>79</td>
+				</tr>
+			
+				<tr>
+					<td>세 남자</td>
+					<td>Three Wise Men</td>
+					<td>2008</td>
+					<td>핀란드</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>나쁜 자식들</td>
+					<td>Bad Boys: A True Story</td>
+					<td>2003</td>
+					<td>핀란드</td>
+					<td>액션,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>롤리</td>
+					<td>Rollo And The Woods Sprite</td>
+					<td>2001</td>
+					<td>핀란드</td>
+					<td>판타지</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>침묵의 사선</td>
+					<td>Ambush</td>
+					<td>1999</td>
+					<td>핀란드</td>
+					<td>전쟁,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

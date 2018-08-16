@@ -1,0 +1,151 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '빌리 보이드'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>글렌, 플라잉 로봇</td>
+					<td>Glenn, The Flying Robot</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>SF</td>
+					<td>주연-잭역</td>
+					<td>500,000</td>
+					<td>100</td>
+					<td>500,000</td>
+					<td>100</td>
+				</tr>
+			
+				<tr>
+					<td>에브리 잭 해즈 어 질</td>
+					<td>Every Jack Has a Jill</td>
+					<td>2009</td>
+					<td>프랑스</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>100,000</td>
+					<td>10</td>
+					<td>100,000</td>
+					<td>10</td>
+				</tr>
+			
+				<tr>
+					<td>플라잉 스코츠맨</td>
+					<td>The Flying Scotsman</td>
+					<td>2006</td>
+					<td>독일,영국</td>
+					<td>드라마</td>
+					<td>주연-맬키 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사탄의 인형 5 - 사탄의 씨앗 처키 </td>
+					<td>Seed Of Chucky</td>
+					<td>2004</td>
+					<td>루마니아,미국,영국</td>
+					<td>코미디,공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>반지의 제왕 : 왕의 귀환 (확장판)</td>
+					<td>The Lord of the Rings: The Return of the King </td>
+					<td>2003</td>
+					<td>뉴질랜드,미국</td>
+					<td>판타지,어드벤처,액션</td>
+					<td>주연-핍핀 역역</td>
+					<td>370,268,000</td>
+					<td>30,349</td>
+					<td>370,268,000</td>
+					<td>30,349</td>
+				</tr>
+			
+				<tr>
+					<td>반지의 제왕 : 두개의 탑 (확장판)</td>
+					<td>The Lord Of The Rings : The Two Towers</td>
+					<td>2002</td>
+					<td>뉴질랜드,미국</td>
+					<td>판타지,어드벤처,액션</td>
+					<td>주연-핍핀 역역</td>
+					<td>350,183,800</td>
+					<td>27,440</td>
+					<td>350,183,800</td>
+					<td>27,440</td>
+				</tr>
+			
+				<tr>
+					<td>반지의 제왕 : 반지원정대 (확장판)</td>
+					<td>The Lord Of The Rings : The Fellowship Of The Rings</td>
+					<td>2001</td>
+					<td>뉴질랜드,미국</td>
+					<td>판타지,어드벤처,액션</td>
+					<td>주연-핍핀 역역</td>
+					<td>470,027,900</td>
+					<td>35,758</td>
+					<td>470,027,900</td>
+					<td>35,758</td>
+				</tr>
+			
+				<tr>
+					<td>도시괴담</td>
+					<td>Urban Ghost Story</td>
+					<td>1998</td>
+					<td>영국</td>
+					<td>드라마,공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

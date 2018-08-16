@@ -1,0 +1,229 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '키타무라 카즈키'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>고양이 사무라이 2</td>
+					<td>Samurai Cat 2</td>
+					<td>2015</td>
+					<td>일본</td>
+					<td>코미디,드라마,액션</td>
+					<td>주연</td>
+					<td>2,311,500</td>
+					<td>294</td>
+					<td>2,311,500</td>
+					<td>294</td>
+				</tr>
+			
+				<tr>
+					<td>기생수 파트1</td>
+					<td>Parasyte: Part 1</td>
+					<td>2014</td>
+					<td>일본</td>
+					<td>스릴러,SF</td>
+					<td>주연</td>
+					<td>1,534,923,185</td>
+					<td>186,184</td>
+					<td>1,543,452,126</td>
+					<td>187,310</td>
+				</tr>
+			
+				<tr>
+					<td>킬러스</td>
+					<td>Killers</td>
+					<td>2014</td>
+					<td>인도네시아,일본</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>250,000</td>
+					<td>50</td>
+					<td>250,000</td>
+					<td>50</td>
+				</tr>
+			
+				<tr>
+					<td>고양이 사무라이</td>
+					<td>Samurai Cat</td>
+					<td>2014</td>
+					<td>일본</td>
+					<td>코미디,액션</td>
+					<td>주연</td>
+					<td>42,257,600</td>
+					<td>5,029</td>
+					<td>42,257,600</td>
+					<td>5,029</td>
+				</tr>
+			
+				<tr>
+					<td>좋은 친구들 </td>
+					<td>Good Friends</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>주연-타츠야역</td>
+					<td>9,709,500</td>
+					<td>1,258</td>
+					<td>10,654,500</td>
+					<td>1,393</td>
+				</tr>
+			
+				<tr>
+					<td>어떤 방문</td>
+					<td>Visitors</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>14,783,954</td>
+					<td>2,079</td>
+					<td>14,761,600</td>
+					<td>2,084</td>
+				</tr>
+			
+				<tr>
+					<td>돈주</td>
+					<td>Dumbeast</td>
+					<td>2009</td>
+					<td>일본</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>코마</td>
+					<td>Koma</td>
+					<td>2009</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>용이간다</td>
+					<td>Like A Dragon</td>
+					<td>2007</td>
+					<td>일본</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>833</td>
+					<td>5,472,000</td>
+					<td>833</td>
+				</tr>
+			
+				<tr>
+					<td>괴담신이대 극장판 </td>
+					<td>Tales Of Terror</td>
+					<td>2004</td>
+					<td>일본</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>완전한 사육 5: 미용사의 사랑</td>
+					<td>The Perfect Education 5 : Amazing Story</td>
+					<td>2004</td>
+					<td>일본</td>
+					<td>스릴러,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>잼 필름스</td>
+					<td>Jam Films</td>
+					<td>2002</td>
+					<td>일본</td>
+					<td>코미디,판타지,SF,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>프리즈 미</td>
+					<td>Freeze Me</td>
+					<td>2000</td>
+					<td>일본</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>미나즈키</td>
+					<td>Minazuki</td>
+					<td>1999</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

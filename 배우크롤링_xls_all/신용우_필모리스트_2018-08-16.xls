@@ -1,0 +1,229 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '신용우'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>극장판 헬로카봇 : 백악기 시대</td>
+					<td>Hello Carbot the Movie: The Cretaceous Period</td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>애니메이션</td>
+					<td>주연-티라클레스 목소리역(목소리)</td>
+					<td></td>
+					<td></td>
+					<td>6,173,352,300</td>
+					<td>824,189</td>
+				</tr>
+			
+				<tr>
+					<td>신비아파트: 금빛 도깨비와 비밀의 동굴</td>
+					<td>The Haunted House: The Secret of the Cave</td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>애니메이션,판타지,어드벤처</td>
+					<td>주연-강림 목소리역(목소리)</td>
+					<td></td>
+					<td></td>
+					<td>4,966,239,500</td>
+					<td>673,457</td>
+				</tr>
+			
+				<tr>
+					<td>극장판 포켓몬스터DP - 디아루가 VS 펄기아 VS 다크라이</td>
+					<td></td>
+					<td>2018</td>
+					<td>일본</td>
+					<td>애니메이션</td>
+					<td>주연-토니오 한국어 목소리역(목소리)</td>
+					<td>1,388,620,900</td>
+					<td>182,550</td>
+					<td>1,394,555,400</td>
+					<td>183,421</td>
+				</tr>
+			
+				<tr>
+					<td>미니특공대X</td>
+					<td>Mini Force X</td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>애니메이션</td>
+					<td>주연-맥스 목소리역(목소리)</td>
+					<td>744,892,200</td>
+					<td>99,958</td>
+					<td>745,801,200</td>
+					<td>100,087</td>
+				</tr>
+			
+				<tr>
+					<td>극장판 요괴워치 섀도사이드: 도깨비왕의 부활</td>
+					<td>Yo-Kai Watch 4</td>
+					<td>2017</td>
+					<td>일본</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>극장판 요괴워치: 하늘을 나는 고래와 더블세계다냥!</td>
+					<td>Yo-Kai Watch Movie 3</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>애니메이션</td>
+					<td>주연-염라대왕/기웅 한국어 목소리역(목소리)</td>
+					<td>1,581,375,300</td>
+					<td>215,203</td>
+					<td>1,581,375,300</td>
+					<td>215,203</td>
+				</tr>
+			
+				<tr>
+					<td>트롤</td>
+					<td>Trolls</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>애니메이션</td>
+					<td>조연-구름 아저씨 한국어 목소리 역역(목소리)</td>
+					<td>5,011,161,500</td>
+					<td>675,966</td>
+					<td>5,011,161,500</td>
+					<td>675,966</td>
+				</tr>
+			
+				<tr>
+					<td>터닝메카드W: 블랙미러의 부활</td>
+					<td>Turning Mecards W: Resurrection of the Black Mirror</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>애니메이션</td>
+					<td>주연-에반 목소리역(목소리)</td>
+					<td>3,213,263,000</td>
+					<td>429,569</td>
+					<td>3,215,588,500</td>
+					<td>429,933</td>
+				</tr>
+			
+				<tr>
+					<td>루돌프와 많이있어</td>
+					<td>Rudolf the Black Cat</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>애니메이션</td>
+					<td>주연-많이있어 목소리역(목소리)</td>
+					<td>1,627,646,800</td>
+					<td>215,993</td>
+					<td>1,627,646,800</td>
+					<td>215,993</td>
+				</tr>
+			
+				<tr>
+					<td>달빛궁궐</td>
+					<td>Lost in the moonlight</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>애니메이션,판타지,어드벤처</td>
+					<td>조연-백악산신 목소리역(목소리)</td>
+					<td>1,147,863,700</td>
+					<td>153,097</td>
+					<td>1,148,146,700</td>
+					<td>153,145</td>
+				</tr>
+			
+				<tr>
+					<td>파워배틀 와치카 미니카 배틀리그: 불꽃의 질주</td>
+					<td></td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td>270,014,820</td>
+					<td>35,569</td>
+					<td>270,545,320</td>
+					<td>35,666</td>
+				</tr>
+			
+				<tr>
+					<td>극장판 아이엠스타 : 꿈의 오디션!</td>
+					<td>AIKATSU! THE MOVIE</td>
+					<td>2014</td>
+					<td>일본</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td>1,048,246,100</td>
+					<td>141,351</td>
+					<td>1,048,246,100</td>
+					<td>141,351</td>
+				</tr>
+			
+				<tr>
+					<td>최강전사 미니특공대 : 새로운 악당의 습격</td>
+					<td>Mini Force : Justice Defender</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td>1,171,479,200</td>
+					<td>155,348</td>
+					<td>1,172,297,200</td>
+					<td>155,503</td>
+				</tr>
+			
+				<tr>
+					<td>점박이:한반도의 공룡3D</td>
+					<td>Speckles: The Tarbosaurus</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>애니메이션,어드벤처,액션</td>
+					<td>주연(목소리)</td>
+					<td>9,621,468,000</td>
+					<td>1,040,636</td>
+					<td>9,683,484,500</td>
+					<td>1,051,257</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

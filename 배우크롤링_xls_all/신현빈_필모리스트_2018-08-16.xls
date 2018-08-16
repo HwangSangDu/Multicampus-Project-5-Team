@@ -1,0 +1,99 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '신현빈'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>변산</td>
+					<td>Sunset in My Hometown</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연</td>
+					<td>128,019,800</td>
+					<td>15,896</td>
+					<td>4,013,832,273</td>
+					<td>489,993</td>
+				</tr>
+			
+				<tr>
+					<td>어떤살인</td>
+					<td>The Lost Choices</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>주연-채지은역</td>
+					<td>137,025,800</td>
+					<td>17,190</td>
+					<td>137,025,800</td>
+					<td>17,190</td>
+				</tr>
+			
+				<tr>
+					<td>강철대오:구국의 철가방</td>
+					<td>Almost Che</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>단역-현장 기자역</td>
+					<td>1,614,867,156</td>
+					<td>233,211</td>
+					<td>1,614,867,156</td>
+					<td>233,211</td>
+				</tr>
+			
+				<tr>
+					<td>방가? 방가!</td>
+					<td>He&#039;s on Duty</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>주연-장미역</td>
+					<td>7,129,363,141</td>
+					<td>989,021</td>
+					<td>7,013,842,000</td>
+					<td>972,431</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

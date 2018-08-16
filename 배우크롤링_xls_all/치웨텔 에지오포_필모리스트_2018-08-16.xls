@@ -1,0 +1,229 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '치웨텔 에지오포'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>라이온 킹</td>
+					<td>The Lion King</td>
+					<td>2019</td>
+					<td>미국</td>
+					<td>애니메이션,어드벤처,드라마,가족,뮤지컬</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>막달라 마리아: 부활의 증인</td>
+					<td>Mary Magdalene</td>
+					<td>2018</td>
+					<td>영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>214,751,200</td>
+					<td>30,827</td>
+					<td>214,792,200</td>
+					<td>30,833</td>
+				</tr>
+			
+				<tr>
+					<td>셜록 놈즈</td>
+					<td>Sherlock Gnomes</td>
+					<td>2018</td>
+					<td>미국,영국</td>
+					<td>애니메이션,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>트리플 9</td>
+					<td>Triple 9</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>범죄,스릴러</td>
+					<td>주연</td>
+					<td>365,164,300</td>
+					<td>47,197</td>
+					<td>365,164,300</td>
+					<td>47,197</td>
+				</tr>
+			
+				<tr>
+					<td>최후의 Z</td>
+					<td>Z for Zachariah</td>
+					<td>2015</td>
+					<td>아이슬란드,미국</td>
+					<td>드라마,SF,스릴러</td>
+					<td>주연</td>
+					<td>19,439,500</td>
+					<td>3,449</td>
+					<td>19,439,500</td>
+					<td>3,449</td>
+				</tr>
+			
+				<tr>
+					<td>닥터 스트레인지</td>
+					<td>Doctor Strange</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지</td>
+					<td>주연</td>
+					<td>47,482,530,396</td>
+					<td>5,446,379</td>
+					<td>47,485,590,396</td>
+					<td>5,446,685</td>
+				</tr>
+			
+				<tr>
+					<td>시크릿 인 데어 아이즈</td>
+					<td>Secret in Their Eyes</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>미스터리,스릴러</td>
+					<td>주연</td>
+					<td>162,031,200</td>
+					<td>21,692</td>
+					<td>162,031,200</td>
+					<td>21,692</td>
+				</tr>
+			
+				<tr>
+					<td>노예 12년</td>
+					<td>12 Years a Slave</td>
+					<td>2013</td>
+					<td>미국,영국</td>
+					<td>드라마</td>
+					<td>주연-솔로몬 노섭역</td>
+					<td>3,644,201,200</td>
+					<td>498,004</td>
+					<td>3,647,631,400</td>
+					<td>498,976</td>
+				</tr>
+			
+				<tr>
+					<td>2012</td>
+					<td>2012</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>SF,액션,어드벤처</td>
+					<td>주연-애드리언 헬슬리 역</td>
+					<td>39,415,166,660</td>
+					<td>5,462,953</td>
+					<td>38,941,723,000</td>
+					<td>5,397,597</td>
+				</tr>
+			
+				<tr>
+					<td>레드벨트</td>
+					<td>Redbelt</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>액션,드라마</td>
+					<td>주연</td>
+					<td>3,500,000</td>
+					<td>500</td>
+					<td>3,500,000</td>
+					<td>500</td>
+				</tr>
+			
+				<tr>
+					<td>톡투미</td>
+					<td>Talk To Me</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-듀이 허그스 역</td>
+					<td>23,370,500</td>
+					<td>3,493</td>
+					<td>23,370,500</td>
+					<td>3,493</td>
+				</tr>
+			
+				<tr>
+					<td>킨키 부츠</td>
+					<td>Kinky Boots</td>
+					<td>2005</td>
+					<td>영국,미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>멜린다와 멜린다</td>
+					<td>Melinda and Melinda</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>0</td>
+					<td>0</td>
+				</tr>
+			
+				<tr>
+					<td>더티 프리티 씽</td>
+					<td>Dirty Pretty Things</td>
+					<td>2002</td>
+					<td>영국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

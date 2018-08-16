@@ -1,0 +1,320 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '브누와 마지멜'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>카본</td>
+					<td>Carbone</td>
+					<td>2017</td>
+					<td>프랑스</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>패스트 콘보이</td>
+					<td>Fast Convoy</td>
+					<td>2016</td>
+					<td>프랑스</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>84,000</td>
+					<td>17</td>
+					<td>84,000</td>
+					<td>17</td>
+				</tr>
+			
+				<tr>
+					<td>브로맨스 인 파리</td>
+					<td>On Voulait Tout Casser</td>
+					<td>2015</td>
+					<td>프랑스</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>끌로끌로</td>
+					<td>My Way</td>
+					<td>2012</td>
+					<td>프랑스,벨기에</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>8,913,000</td>
+					<td>1,218</td>
+					<td>9,217,000</td>
+					<td>1,258</td>
+				</tr>
+			
+				<tr>
+					<td>스페셜 포스</td>
+					<td>Special forces</td>
+					<td>2011</td>
+					<td>프랑스</td>
+					<td>액션,어드벤처,드라마</td>
+					<td>주연-틱- 탁역</td>
+					<td>3,102,000</td>
+					<td>416</td>
+					<td>3,102,000</td>
+					<td>416</td>
+				</tr>
+			
+				<tr>
+					<td>프렌즈 : 하얀 거짓말</td>
+					<td>Little White Lies</td>
+					<td>2010</td>
+					<td>프랑스</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>35,658,700</td>
+					<td>5,073</td>
+					<td>35,658,700</td>
+					<td>5,073</td>
+				</tr>
+			
+				<tr>
+					<td>인주</td>
+					<td>Inju: The Beast in the Shadow</td>
+					<td>2008</td>
+					<td>프랑스</td>
+					<td>미스터리,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>친밀한 적</td>
+					<td>Intimate Enemies</td>
+					<td>2007</td>
+					<td>프랑스</td>
+					<td>드라마,전쟁</td>
+					<td>주연</td>
+					<td>100,000</td>
+					<td>10</td>
+					<td>100,000</td>
+					<td>10</td>
+				</tr>
+			
+				<tr>
+					<td>마하 2.6: 풀스피드</td>
+					<td>Night Of Sky</td>
+					<td>2006</td>
+					<td>프랑스</td>
+					<td>액션,어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>51,917</td>
+					<td>306,920,000</td>
+					<td>50,443</td>
+				</tr>
+			
+				<tr>
+					<td>둘로 잘린 소녀</td>
+					<td>A Girl Cut in two</td>
+					<td>2006</td>
+					<td>프랑스,독일</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,369,000</td>
+					<td>247</td>
+				</tr>
+			
+				<tr>
+					<td>찰리가 말하길...</td>
+					<td>Charlie Says...</td>
+					<td>2006</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>크림슨 리버2</td>
+					<td>Crimson Rivers 2: Angels Of The Apocalypse</td>
+					<td>2005</td>
+					<td>프랑스,영국,이탈리아</td>
+					<td>범죄,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>180,022</td>
+					<td>883,701,500</td>
+					<td>140,692</td>
+				</tr>
+			
+				<tr>
+					<td>신부 들러리</td>
+					<td>The Bridesmaid</td>
+					<td>2004</td>
+					<td>프랑스,독일,이탈리아</td>
+					<td>스릴러,드라마,멜로/로맨스</td>
+					<td>주연-필립 타르듀 역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>트러블</td>
+					<td>Trouble</td>
+					<td>2004</td>
+					<td>프랑스,벨기에</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>악의 꽃</td>
+					<td>The Flower Of Evil</td>
+					<td>2003</td>
+					<td>프랑스</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,244,000</td>
+					<td>233</td>
+				</tr>
+			
+				<tr>
+					<td>네스트</td>
+					<td>The Nest</td>
+					<td>2002</td>
+					<td>프랑스</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>14,914</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>피아니스트</td>
+					<td>The Piano Teacher</td>
+					<td>2001</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>12,564</td>
+					<td>35,502,450</td>
+					<td>6,246</td>
+				</tr>
+			
+				<tr>
+					<td>리자</td>
+					<td>Lisa</td>
+					<td>2001</td>
+					<td>프랑스,스위스</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>왕의 춤</td>
+					<td>The King Is Dancing</td>
+					<td>2000</td>
+					<td>프랑스</td>
+					<td>드라마,뮤지컬</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>18,961</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>마띠유</td>
+					<td>Selon Matthieu</td>
+					<td>2000</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>파리에서의 마지막 키스</td>
+					<td>The Children Of The Century</td>
+					<td>1999</td>
+					<td>프랑스</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,072,000</td>
+					<td>207</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

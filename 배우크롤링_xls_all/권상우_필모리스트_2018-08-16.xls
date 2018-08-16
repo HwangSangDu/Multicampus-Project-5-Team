@@ -1,0 +1,268 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '권상우'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>탐정: 리턴즈</td>
+					<td>The Accidental Detective 2: In Action</td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>코미디,범죄</td>
+					<td>주연-강대만역</td>
+					<td>22,895,877,220</td>
+					<td>2,677,442</td>
+					<td>26,909,481,678</td>
+					<td>3,152,872</td>
+				</tr>
+			
+				<tr>
+					<td>두번 할까요?(가제)</td>
+					<td></td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>탐정 : 더 비기닝</td>
+					<td>THE ACCIDENTAL DETECTIVE</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>코미디,범죄</td>
+					<td>주연</td>
+					<td>20,463,956,973</td>
+					<td>2,625,686</td>
+					<td>20,463,956,973</td>
+					<td>2,625,686</td>
+				</tr>
+			
+				<tr>
+					<td>그림자 애인</td>
+					<td>SHADOWS OF LOVE</td>
+					<td>2012</td>
+					<td>중국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>6,546,500</td>
+					<td>1,013</td>
+					<td>6,546,500</td>
+					<td>1,013</td>
+				</tr>
+			
+				<tr>
+					<td>차이니즈 조디악</td>
+					<td>12 Chinese Zodiac Heads</td>
+					<td>2012</td>
+					<td>중국</td>
+					<td>액션,어드벤처</td>
+					<td>주연</td>
+					<td>2,211,711,500</td>
+					<td>315,305</td>
+					<td>2,211,770,500</td>
+					<td>315,314</td>
+				</tr>
+			
+				<tr>
+					<td>통증</td>
+					<td>Pain</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연-남순역</td>
+					<td>5,246,996,000</td>
+					<td>700,272</td>
+					<td>5,246,996,000</td>
+					<td>700,272</td>
+				</tr>
+			
+				<tr>
+					<td>포화속으로</td>
+					<td>71-Into The Fire</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>드라마,전쟁</td>
+					<td>주연-가짜 학도병, 구갑조역</td>
+					<td>24,217,600,897</td>
+					<td>3,385,706</td>
+					<td>23,831,968,600</td>
+					<td>3,330,326</td>
+				</tr>
+			
+				<tr>
+					<td>슬픔보다 더 슬픈 이야기</td>
+					<td>More Than Blue</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연-케이역</td>
+					<td>4,774,850,499</td>
+					<td>724,107</td>
+					<td>4,724,214,000</td>
+					<td>715,800</td>
+				</tr>
+			
+				<tr>
+					<td>숙명</td>
+					<td>Fate</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>드라마,액션</td>
+					<td>주연</td>
+					<td>5,680,873,500</td>
+					<td>858,215</td>
+					<td>5,680,873,500</td>
+					<td>846,903</td>
+				</tr>
+			
+				<tr>
+					<td>청춘만화</td>
+					<td>Almost Love</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,066,354</td>
+					<td>9,785,168,000</td>
+					<td>1,567,514</td>
+				</tr>
+			
+				<tr>
+					<td>야수</td>
+					<td>Running Wild</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,016,152</td>
+					<td>5,339,725,500</td>
+					<td>837,011</td>
+				</tr>
+			
+				<tr>
+					<td>신부수업</td>
+					<td>Love, So Divine</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,242,476</td>
+					<td>4,255,753,000</td>
+					<td>675,521</td>
+				</tr>
+			
+				<tr>
+					<td>말죽거리 잔혹사</td>
+					<td>Spirit Of Jeet Keun Do - Once Upon A Time In High School</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>액션,멜로/로맨스</td>
+					<td>주연-현수역</td>
+					<td>0</td>
+					<td>3,115,767</td>
+					<td>3,837,152,000</td>
+					<td>604,969</td>
+				</tr>
+			
+				<tr>
+					<td>동갑내기 과외하기</td>
+					<td>My Tutor Friend</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연-지훈역</td>
+					<td></td>
+					<td>4,937,573</td>
+					<td>727,000</td>
+					<td>118</td>
+				</tr>
+			
+				<tr>
+					<td>데우스 마키나 기계의 신</td>
+					<td>Deus Machina God of Machine</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>SF</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>일단뛰어</td>
+					<td>Make It Big</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>액션,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td>220,205</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>화산고</td>
+					<td>Volcano High</td>
+					<td>2001</td>
+					<td>한국</td>
+					<td>액션,코미디,판타지</td>
+					<td>주연-송학림  역</td>
+					<td>0</td>
+					<td>586,576</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

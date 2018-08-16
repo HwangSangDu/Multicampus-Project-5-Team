@@ -1,0 +1,177 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '윤기원'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>신 전래동화</td>
+					<td>New Old Story</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>86,000</td>
+					<td>36</td>
+					<td>86,000</td>
+					<td>36</td>
+				</tr>
+			
+				<tr>
+					<td>이파니의 시크릿 관음클럽</td>
+					<td></td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>960,000</td>
+					<td>183</td>
+					<td>960,000</td>
+					<td>183</td>
+				</tr>
+			
+				<tr>
+					<td>나는 왕이로소이다</td>
+					<td>I am the King</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>사극,코미디</td>
+					<td>단역-한양 사또역</td>
+					<td>5,455,343,404</td>
+					<td>790,181</td>
+					<td>5,455,343,404</td>
+					<td>790,181</td>
+				</tr>
+			
+				<tr>
+					<td>누가 그녀와 잤을까?</td>
+					<td>Hot For Teacher</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>단역</td>
+					<td>0</td>
+					<td>434,877</td>
+					<td>2,068,632,100</td>
+					<td>353,360</td>
+				</tr>
+			
+				<tr>
+					<td>살결</td>
+					<td>Texture Of Skin</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-박기자 역</td>
+					<td>0</td>
+					<td>840</td>
+					<td>5,522,500</td>
+					<td>813</td>
+				</tr>
+			
+				<tr>
+					<td>여고생 시집가기</td>
+					<td>Marrying High School Girl</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>단역-장의사역</td>
+					<td>0</td>
+					<td>85,840</td>
+					<td>357,352,000</td>
+					<td>57,943</td>
+				</tr>
+			
+				<tr>
+					<td>보스 상륙 작전(Boss X File)</td>
+					<td>Boss X File</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>조연-박사 역</td>
+					<td></td>
+					<td>343,256</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>댄스댄스</td>
+					<td>Dance Dance</td>
+					<td>1999</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>조연-기철역</td>
+					<td>0</td>
+					<td>27,920</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>화려한 본능</td>
+					<td></td>
+					<td>1994</td>
+					<td></td>
+					<td></td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아들나라</td>
+					<td>The Country Of Sons</td>
+					<td>1991</td>
+					<td>한국</td>
+					<td>드라마,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>7,317</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

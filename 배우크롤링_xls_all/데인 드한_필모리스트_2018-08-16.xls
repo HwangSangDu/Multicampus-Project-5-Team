@@ -1,0 +1,216 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '데인 드한'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>튤립 피버</td>
+					<td>Tulip Fever</td>
+					<td>2017</td>
+					<td>영국,미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>425,521,049</td>
+					<td>53,121</td>
+					<td>425,521,049</td>
+					<td>53,121</td>
+				</tr>
+			
+				<tr>
+					<td>발레리안: 천 개 행성의 도시</td>
+					<td>VALERIAN : The City of A Thousand Planets</td>
+					<td>2017</td>
+					<td>프랑스</td>
+					<td>액션,어드벤처,SF</td>
+					<td>주연</td>
+					<td>4,047,756,408</td>
+					<td>511,931</td>
+					<td>4,047,756,408</td>
+					<td>511,931</td>
+				</tr>
+			
+				<tr>
+					<td>투 러버스 앤 베어</td>
+					<td>Two Lovers and A Bear</td>
+					<td>2016</td>
+					<td>캐나다</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>26,655,200</td>
+					<td>3,364</td>
+					<td>26,655,200</td>
+					<td>3,364</td>
+				</tr>
+			
+				<tr>
+					<td>더 큐어</td>
+					<td>A Cure For Wellness</td>
+					<td>2016</td>
+					<td>미국,독일</td>
+					<td>미스터리,스릴러</td>
+					<td>주연</td>
+					<td>1,331,883,200</td>
+					<td>159,948</td>
+					<td>1,331,883,200</td>
+					<td>159,948</td>
+				</tr>
+			
+				<tr>
+					<td>발레리나</td>
+					<td>Ballerina</td>
+					<td>2016</td>
+					<td>프랑스,캐나다</td>
+					<td>애니메이션,어드벤처,가족,뮤지컬</td>
+					<td>주연(목소리)</td>
+					<td>1,517,736,400</td>
+					<td>202,411</td>
+					<td>1,521,253,600</td>
+					<td>203,185</td>
+				</tr>
+			
+				<tr>
+					<td>라이프</td>
+					<td>Life</td>
+					<td>2015</td>
+					<td>캐나다,독일,오스트리아 ,미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>155,668,185</td>
+					<td>19,596</td>
+					<td>155,800,185</td>
+					<td>19,616</td>
+				</tr>
+			
+				<tr>
+					<td>어메이징 스파이더맨 2</td>
+					<td>The Amazing Spider-Man 2</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>액션,판타지</td>
+					<td>주연</td>
+					<td>34,869,056,800</td>
+					<td>4,168,350</td>
+					<td>34,869,101,800</td>
+					<td>4,168,353</td>
+				</tr>
+			
+				<tr>
+					<td>라이프 애프터 베스</td>
+					<td>Life After Beth</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>코미디,판타지,공포(호러),멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>538,600</td>
+					<td>63</td>
+				</tr>
+			
+				<tr>
+					<td>데빌스 노트</td>
+					<td>Devil&#039;s Knot</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>범죄,스릴러</td>
+					<td>주연</td>
+					<td>8,000</td>
+					<td>1</td>
+					<td>8,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>킬 유어 달링</td>
+					<td>Kill Your Darlings</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>256,352,020</td>
+					<td>32,794</td>
+					<td>259,355,020</td>
+					<td>33,157</td>
+				</tr>
+			
+				<tr>
+					<td>메탈리카 스루 더 네버</td>
+					<td>Metallica Through The Never</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>뮤지컬,액션</td>
+					<td>주연-트립역</td>
+					<td>105,842,800</td>
+					<td>9,662</td>
+					<td>110,124,800</td>
+					<td>10,270</td>
+				</tr>
+			
+				<tr>
+					<td>로우리스: 나쁜 영웅들</td>
+					<td>Lawless</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션,범죄</td>
+					<td>주연</td>
+					<td>468,141,666</td>
+					<td>66,468</td>
+					<td>468,390,166</td>
+					<td>66,504</td>
+				</tr>
+			
+				<tr>
+					<td>크로니클</td>
+					<td>Chronicle</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연-앤드류 디트머 역</td>
+					<td>2,884,776,000</td>
+					<td>384,398</td>
+					<td>2,884,776,000</td>
+					<td>384,398</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

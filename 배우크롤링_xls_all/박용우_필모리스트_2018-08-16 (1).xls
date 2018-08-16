@@ -1,0 +1,359 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '박용우'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>순정</td>
+					<td>UNFORGETTABLE</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연</td>
+					<td>1,738,293,033</td>
+					<td>240,484</td>
+					<td>1,739,006,033</td>
+					<td>240,592</td>
+				</tr>
+			
+				<tr>
+					<td>봄</td>
+					<td>Late Spring</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>111,094,100</td>
+					<td>14,780</td>
+					<td>111,094,100</td>
+					<td>14,780</td>
+				</tr>
+			
+				<tr>
+					<td>시간의 숲</td>
+					<td>Forest of Time</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>다큐멘터리</td>
+					<td>주연</td>
+					<td>12,000,000</td>
+					<td>1,556</td>
+					<td>12,000,000</td>
+					<td>1,556</td>
+				</tr>
+			
+				<tr>
+					<td>파파</td>
+					<td>Papa</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>가족,코미디</td>
+					<td>주연-춘섭역</td>
+					<td>3,999,992,000</td>
+					<td>587,279</td>
+					<td>4,000,072,000</td>
+					<td>587,291</td>
+				</tr>
+			
+				<tr>
+					<td>아이들...</td>
+					<td>Children...</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>범죄,스릴러</td>
+					<td>주연-강지승역</td>
+					<td>13,579,712,500</td>
+					<td>1,867,849</td>
+					<td>13,579,712,500</td>
+					<td>1,867,849</td>
+				</tr>
+			
+				<tr>
+					<td>평양성</td>
+					<td>Battlefield Heroes</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>전쟁,코미디,드라마</td>
+					<td>단역-무기 나르는 고구려 병사역</td>
+					<td>12,684,530,500</td>
+					<td>1,717,566</td>
+					<td>12,684,530,500</td>
+					<td>1,717,566</td>
+				</tr>
+			
+				<tr>
+					<td>핸드폰</td>
+					<td>Handphone</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>주연-정이규역</td>
+					<td>4,271,780,582</td>
+					<td>630,049</td>
+					<td>4,221,938,000</td>
+					<td>622,486</td>
+				</tr>
+			
+				<tr>
+					<td>원스어폰어타임</td>
+					<td>Once Upon A Time</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>액션,코미디</td>
+					<td>주연</td>
+					<td>10,180,143,111</td>
+					<td>1,562,486</td>
+					<td>10,136,738,500</td>
+					<td>1,544,486</td>
+				</tr>
+			
+				<tr>
+					<td>지금 사랑하는 사람과 살고 있습니까?</td>
+					<td>Love Now</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,095,119</td>
+					<td>7,004,658,500</td>
+					<td>1,042,955</td>
+				</tr>
+			
+				<tr>
+					<td>뷰티풀 선데이</td>
+					<td>Beautiful Sunday</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>180,178</td>
+					<td>1,123,934,000</td>
+					<td>169,036</td>
+				</tr>
+			
+				<tr>
+					<td>조용한 세상</td>
+					<td>The World Of Silence</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>드라마,미스터리,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>178,434</td>
+					<td>937,877,400</td>
+					<td>161,142</td>
+				</tr>
+			
+				<tr>
+					<td>호로비츠를 위하여</td>
+					<td>For Horowitz</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>544,656</td>
+					<td>2,813,074,600</td>
+					<td>462,623</td>
+				</tr>
+			
+				<tr>
+					<td>달콤, 살벌한 연인</td>
+					<td>My Scary Girl</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>스릴러,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,286,745</td>
+					<td>13,426,707,100</td>
+					<td>2,077,590</td>
+				</tr>
+			
+				<tr>
+					<td>작업의 정석</td>
+					<td>The Art Of Seduction</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>조연</td>
+					<td>0</td>
+					<td>2,342,232</td>
+					<td>11,706,585,100</td>
+					<td>1,853,623</td>
+				</tr>
+			
+				<tr>
+					<td>혈의 누</td>
+					<td>Blood Rain</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>주연-김인권역</td>
+					<td>0</td>
+					<td>2,274,995</td>
+					<td>12,367,924,506</td>
+					<td>1,926,681</td>
+				</tr>
+			
+				<tr>
+					<td>스턴트맨</td>
+					<td>Stunt Man</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>연애소설</td>
+					<td>Lover&#039;s Concerto</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td>589,743</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>무사</td>
+					<td>Musa-The Warrior</td>
+					<td>2001</td>
+					<td>한국</td>
+					<td>드라마,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>857,148</td>
+					<td>249,000</td>
+					<td>48</td>
+				</tr>
+			
+				<tr>
+					<td>동감</td>
+					<td>Ditto</td>
+					<td>2000</td>
+					<td>한국</td>
+					<td>멜로/로맨스,판타지</td>
+					<td>조연</td>
+					<td>0</td>
+					<td>346,279</td>
+					<td>1,299,000</td>
+					<td>422</td>
+				</tr>
+			
+				<tr>
+					<td>쉬리</td>
+					<td>Swiri</td>
+					<td>1999</td>
+					<td>한국</td>
+					<td>액션,드라마,멜로/로맨스,미스터리</td>
+					<td>조연-어성식역</td>
+					<td>0</td>
+					<td>5,820,000</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>까</td>
+					<td>Naked Being</td>
+					<td>1998</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>16,448</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>투캅스 3</td>
+					<td>Two Cops 3</td>
+					<td>1998</td>
+					<td>한국</td>
+					<td>액션,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>117,186</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>올가미</td>
+					<td>The Hole</td>
+					<td>1997</td>
+					<td>한국</td>
+					<td>공포(호러),드라마,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>141,717</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>전자인간 337</td>
+					<td>Electronic Man 337</td>
+					<td>1977</td>
+					<td>한국</td>
+					<td>SF,애니메이션,액션</td>
+					<td>프로듀서</td>
+					<td>0</td>
+					<td>33,924</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

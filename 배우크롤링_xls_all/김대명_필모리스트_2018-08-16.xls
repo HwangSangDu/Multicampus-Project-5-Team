@@ -1,0 +1,229 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '김대명'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>패키지</td>
+					<td></td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>코미디,범죄,액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>골든슬럼버</td>
+					<td>Golden Slumber</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>범죄,드라마</td>
+					<td>주연-동규역</td>
+					<td>11,413,087,798</td>
+					<td>1,387,562</td>
+					<td>11,412,768,798</td>
+					<td>1,387,508</td>
+				</tr>
+			
+				<tr>
+					<td>해빙</td>
+					<td>Bluebeard</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>주연-성근역</td>
+					<td>9,905,406,822</td>
+					<td>1,204,600</td>
+					<td>9,905,406,822</td>
+					<td>1,204,600</td>
+				</tr>
+			
+				<tr>
+					<td>마약왕</td>
+					<td>DRUG KING</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>범죄,드라마</td>
+					<td>조연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>판도라</td>
+					<td>Pandora</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td>36,064,461,064</td>
+					<td>4,583,645</td>
+					<td>36,067,171,064</td>
+					<td>4,584,800</td>
+				</tr>
+			
+				<tr>
+					<td>덕혜옹주</td>
+					<td>The Last Princess</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>사극,드라마</td>
+					<td>단역</td>
+					<td>44,393,828,109</td>
+					<td>5,599,229</td>
+					<td>44,395,967,609</td>
+					<td>5,599,665</td>
+				</tr>
+			
+				<tr>
+					<td>내부자들: 디 오리지널</td>
+					<td>Inside Men: The Original</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>범죄,드라마</td>
+					<td>조연</td>
+					<td>16,973,885,275</td>
+					<td>2,083,999</td>
+					<td>16,979,714,975</td>
+					<td>2,084,868</td>
+				</tr>
+			
+				<tr>
+					<td>내부자들</td>
+					<td>Inside Men</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>범죄,드라마</td>
+					<td>조연-고 기자역</td>
+					<td>56,598,130,057</td>
+					<td>7,072,021</td>
+					<td>56,599,221,057</td>
+					<td>7,072,507</td>
+				</tr>
+			
+				<tr>
+					<td>특종: 량첸살인기</td>
+					<td>The Exclusive : Beat the Devil&#039;s Tattoo</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>조연</td>
+					<td>4,754,763,118</td>
+					<td>616,481</td>
+					<td>4,754,763,118</td>
+					<td>616,481</td>
+				</tr>
+			
+				<tr>
+					<td>뷰티 인사이드</td>
+					<td>The Beauty Inside</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>판타지,멜로/로맨스</td>
+					<td>주연-우진1역</td>
+					<td>16,155,795,131</td>
+					<td>2,054,297</td>
+					<td>16,184,831,031</td>
+					<td>2,057,896</td>
+				</tr>
+			
+				<tr>
+					<td>역린</td>
+					<td>The Fatal Encounter</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>사극</td>
+					<td>조연-강용휘역</td>
+					<td>29,893,297,890</td>
+					<td>3,849,433</td>
+					<td>29,895,031,890</td>
+					<td>3,849,700</td>
+				</tr>
+			
+				<tr>
+					<td>표적</td>
+					<td>The Target</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>액션,드라마</td>
+					<td>주연-장규호역</td>
+					<td>22,256,359,300</td>
+					<td>2,841,788</td>
+					<td>22,256,769,300</td>
+					<td>2,841,828</td>
+				</tr>
+			
+				<tr>
+					<td>방황하는 칼날</td>
+					<td>Broken</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>범죄,스릴러</td>
+					<td>조연-양태섭역</td>
+					<td>7,828,526,800</td>
+					<td>989,881</td>
+					<td>7,828,891,800</td>
+					<td>989,906</td>
+				</tr>
+			
+				<tr>
+					<td>더 테러 라이브</td>
+					<td>The Terror, LIVE</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>범죄,기타</td>
+					<td>조연-박신우 목소리역(목소리)</td>
+					<td>39,866,712,881</td>
+					<td>5,583,596</td>
+					<td>39,869,706,381</td>
+					<td>5,584,139</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

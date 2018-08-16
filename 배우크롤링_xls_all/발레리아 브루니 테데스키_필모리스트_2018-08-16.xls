@@ -1,0 +1,203 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '발레리아 브루니 테데스키'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>슬랙 베이: 바닷가 마을의 비밀</td>
+					<td>SLACK BAY</td>
+					<td>2016</td>
+					<td>프랑스</td>
+					<td>미스터리,코미디</td>
+					<td>주연</td>
+					<td>7,332,600</td>
+					<td>1,019</td>
+					<td>10,164,700</td>
+					<td>1,372</td>
+				</tr>
+			
+				<tr>
+					<td>마카담 스토리</td>
+					<td>Macadam Stories</td>
+					<td>2015</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>70,384,000</td>
+					<td>8,942</td>
+					<td>70,384,000</td>
+					<td>8,942</td>
+				</tr>
+			
+				<tr>
+					<td>휴먼 캐피탈</td>
+					<td>Human Capital</td>
+					<td>2013</td>
+					<td>이탈리아,프랑스</td>
+					<td>범죄,드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>3,236,000</td>
+					<td>493</td>
+				</tr>
+			
+				<tr>
+					<td>키스 미 어게인</td>
+					<td>Kiss Me Again</td>
+					<td>2010</td>
+					<td>이탈리아,프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>2,290,000</td>
+					<td>301</td>
+					<td>2,290,000</td>
+					<td>301</td>
+				</tr>
+			
+				<tr>
+					<td>핸즈 업</td>
+					<td>Hands Up</td>
+					<td>2010</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연-센드린 역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>리그렛</td>
+					<td>Les Regrets</td>
+					<td>2009</td>
+					<td>프랑스</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>46,573,500</td>
+					<td>6,000</td>
+					<td>46,573,500</td>
+					<td>6,000</td>
+				</tr>
+			
+				<tr>
+					<td>퍼펙트 커플</td>
+					<td>A Perfect Couple</td>
+					<td>2005</td>
+					<td>일본,프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,325,000</td>
+					<td>267</td>
+				</tr>
+			
+				<tr>
+					<td>5x2</td>
+					<td>Five times two</td>
+					<td>2004</td>
+					<td>프랑스</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-마리온역</td>
+					<td>0</td>
+					<td>3,792</td>
+					<td>23,558,500</td>
+					<td>3,458</td>
+				</tr>
+			
+				<tr>
+					<td>낙타에겐 더 쉬운 일</td>
+					<td>It&#039;s Easier For A Camel...</td>
+					<td>2003</td>
+					<td>프랑스,이탈리아</td>
+					<td>어드벤처,코미디,드라마</td>
+					<td>감독,주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아! 내가 부자라면</td>
+					<td>If I Were A Rich Man</td>
+					<td>2002</td>
+					<td>프랑스</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>난 인생이 두렵지 않아</td>
+					<td>La Vie Ne Me Fait Pas Peur</td>
+					<td>1999</td>
+					<td>프랑스,스위스</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>거짓말의 한가운데</td>
+					<td>The Color Of Lies</td>
+					<td>1998</td>
+					<td>프랑스</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,033,000</td>
+					<td>196</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

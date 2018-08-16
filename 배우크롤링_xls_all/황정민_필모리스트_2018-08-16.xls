@@ -1,0 +1,528 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '황정민'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>공작</td>
+					<td>The Spy Gone North</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>26,572,917,886</td>
+					<td>3,099,024</td>
+				</tr>
+			
+				<tr>
+					<td>군함도</td>
+					<td>The Battleship Island</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>액션,드라마</td>
+					<td>주연-이강옥역</td>
+					<td>50,510,565,168</td>
+					<td>6,592,151</td>
+					<td>50,510,565,168</td>
+					<td>6,592,151</td>
+				</tr>
+			
+				<tr>
+					<td>군함도 감독판</td>
+					<td>The Battleship Island: Director&#039;s Cut</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>액션,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,050,000</td>
+					<td>210</td>
+				</tr>
+			
+				<tr>
+					<td>아수라</td>
+					<td>Asura : The City of Madness</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>범죄,액션</td>
+					<td>주연-박성배역</td>
+					<td>20,576,226,662</td>
+					<td>2,594,028</td>
+					<td>20,579,716,662</td>
+					<td>2,594,420</td>
+				</tr>
+			
+				<tr>
+					<td>곡성</td>
+					<td>THE WAILING</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>미스터리,스릴러,드라마</td>
+					<td>주연-일광역</td>
+					<td>55,863,520,382</td>
+					<td>6,879,908</td>
+					<td>55,864,308,382</td>
+					<td>6,879,989</td>
+				</tr>
+			
+				<tr>
+					<td>검사외전</td>
+					<td>A Violent Prosecutor</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>범죄,코미디</td>
+					<td>주연-변재욱역</td>
+					<td>77,319,445,264</td>
+					<td>9,707,158</td>
+					<td>77,320,403,264</td>
+					<td>9,707,581</td>
+				</tr>
+			
+				<tr>
+					<td>히말라야</td>
+					<td>The Himalayas</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>60,173,583,015</td>
+					<td>7,759,473</td>
+					<td>60,175,363,015</td>
+					<td>7,759,761</td>
+				</tr>
+			
+				<tr>
+					<td>베테랑</td>
+					<td>Veteran</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>액션,드라마</td>
+					<td>주연-서도철역</td>
+					<td>105,168,155,250</td>
+					<td>13,414,009</td>
+					<td>105,169,264,250</td>
+					<td>13,414,200</td>
+				</tr>
+			
+				<tr>
+					<td>국제시장</td>
+					<td>Ode to My Father</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-덕수역</td>
+					<td>110,913,469,630</td>
+					<td>14,257,115</td>
+					<td>110,937,282,730</td>
+					<td>14,262,766</td>
+				</tr>
+			
+				<tr>
+					<td>남자가 사랑할 때</td>
+					<td>Man In Love</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>14,510,222,300</td>
+					<td>1,979,311</td>
+					<td>14,515,828,300</td>
+					<td>1,980,050</td>
+				</tr>
+			
+				<tr>
+					<td>전설의 주먹</td>
+					<td>Fists of Legend</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마,액션</td>
+					<td>주연-덕규역</td>
+					<td>12,777,314,500</td>
+					<td>1,744,585</td>
+					<td>12,777,314,500</td>
+					<td>1,744,585</td>
+				</tr>
+			
+				<tr>
+					<td>신세계</td>
+					<td>New World</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>범죄,액션</td>
+					<td>주연-정청역</td>
+					<td>34,881,330,905</td>
+					<td>4,682,492</td>
+					<td>34,882,073,905</td>
+					<td>4,682,614</td>
+				</tr>
+			
+				<tr>
+					<td>댄싱퀸</td>
+					<td>Dancing Queen</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>30,129,259,500</td>
+					<td>4,057,546</td>
+					<td>30,130,775,500</td>
+					<td>4,058,225</td>
+				</tr>
+			
+				<tr>
+					<td>모비딕</td>
+					<td>Moby Dick</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>스릴러,드라마</td>
+					<td>주연</td>
+					<td>3,264,596,000</td>
+					<td>430,936</td>
+					<td>3,264,596,000</td>
+					<td>430,936</td>
+				</tr>
+			
+				<tr>
+					<td>평양성</td>
+					<td>Battlefield Heroes</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>전쟁,코미디,드라마</td>
+					<td>단역-신라왕역</td>
+					<td>12,684,530,500</td>
+					<td>1,717,566</td>
+					<td>12,684,530,500</td>
+					<td>1,717,566</td>
+				</tr>
+			
+				<tr>
+					<td>부당거래</td>
+					<td>The Unjust</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>범죄,드라마</td>
+					<td>주연-최철기역</td>
+					<td>21,326,977,937</td>
+					<td>2,766,436</td>
+					<td>20,996,584,500</td>
+					<td>2,723,028</td>
+				</tr>
+			
+				<tr>
+					<td>끝과 시작</td>
+					<td>In My End Is My Beginning</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연-재인역</td>
+					<td>274,964,000</td>
+					<td>38,809</td>
+					<td>274,964,000</td>
+					<td>38,809</td>
+				</tr>
+			
+				<tr>
+					<td>구르믈 버서난 달처럼</td>
+					<td>Blades of Blood</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>사극,액션</td>
+					<td>주연-황정학역</td>
+					<td>10,408,565,262</td>
+					<td>1,407,681</td>
+					<td>10,241,716,500</td>
+					<td>1,383,867</td>
+				</tr>
+			
+				<tr>
+					<td>오감도</td>
+					<td>Five Senses Of Eros</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-민재인역</td>
+					<td>3,107,441,952</td>
+					<td>443,462</td>
+					<td>3,074,373,500</td>
+					<td>438,808</td>
+				</tr>
+			
+				<tr>
+					<td>그림자 살인</td>
+					<td>Private eye</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>미스터리,스릴러,사극,범죄</td>
+					<td>주연-홍진호역</td>
+					<td>12,805,808,556</td>
+					<td>1,914,779</td>
+					<td>12,659,065,000</td>
+					<td>1,892,467</td>
+				</tr>
+			
+				<tr>
+					<td>슈퍼맨이었던 사나이</td>
+					<td>A Man Who Was Superman</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>3,688,309,333</td>
+					<td>559,705</td>
+					<td>3,642,192,500</td>
+					<td>550,284</td>
+				</tr>
+			
+				<tr>
+					<td>행복</td>
+					<td>Happiness</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,239,789</td>
+					<td>7,737,684,000</td>
+					<td>1,174,495</td>
+				</tr>
+			
+				<tr>
+					<td>검은 집</td>
+					<td>Black House</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>스릴러,미스터리,공포(호러)</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,408,882</td>
+					<td>8,842,295,700</td>
+					<td>1,322,196</td>
+				</tr>
+			
+				<tr>
+					<td>사생결단</td>
+					<td>Bloody Tie</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,104,716</td>
+					<td>10,934,307,100</td>
+					<td>1,724,709</td>
+				</tr>
+			
+				<tr>
+					<td>내 생애 가장 아름다운 일주일</td>
+					<td>All For Love</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연-나두철 역</td>
+					<td>0</td>
+					<td>2,533,103</td>
+					<td>14,710,541,000</td>
+					<td>2,290,709</td>
+				</tr>
+			
+				<tr>
+					<td>너는 내 운명</td>
+					<td>You Are My Sunshine</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연-김석중역</td>
+					<td>0</td>
+					<td>3,051,134</td>
+					<td>17,655,244,500</td>
+					<td>2,701,851</td>
+				</tr>
+			
+				<tr>
+					<td>천군</td>
+					<td>Heaven’s Soldiers</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,232,992</td>
+					<td>5,852,391,000</td>
+					<td>933,147</td>
+				</tr>
+			
+				<tr>
+					<td>달콤한 인생</td>
+					<td>A Bittersweet Life</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>단역-백 사장역</td>
+					<td>0</td>
+					<td>1,271,595</td>
+					<td>7,235,539,100</td>
+					<td>1,112,950</td>
+				</tr>
+			
+				<tr>
+					<td>여자, 정혜</td>
+					<td>This Charming Girl</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>43,457</td>
+					<td>273,765,000</td>
+					<td>41,943</td>
+				</tr>
+			
+				<tr>
+					<td>마지막 늑대</td>
+					<td>The Wolf Returns</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>158,727</td>
+					<td>303,851,500</td>
+					<td>47,731</td>
+				</tr>
+			
+				<tr>
+					<td>바람난 가족</td>
+					<td>A Good Lawyer&#039;s Wife</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-주영작역</td>
+					<td></td>
+					<td>1,748,258</td>
+					<td>222,000</td>
+					<td>31</td>
+				</tr>
+			
+				<tr>
+					<td>이공</td>
+					<td>Twentidentity</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>로드무비</td>
+					<td>Road Movie</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td>16,039</td>
+					<td>325,000</td>
+					<td>61</td>
+				</tr>
+			
+				<tr>
+					<td>YMCA야구단</td>
+					<td>YMCA Baseball Team</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td>560,000</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>와이키키 브라더스</td>
+					<td>Waikiki Brothers</td>
+					<td>2001</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-강수역</td>
+					<td>0</td>
+					<td>88,214</td>
+					<td>1,648,900</td>
+					<td>263</td>
+				</tr>
+			
+				<tr>
+					<td>그녀</td>
+					<td>The She</td>
+					<td>2001</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>쉬리</td>
+					<td>Swiri</td>
+					<td>1999</td>
+					<td>한국</td>
+					<td>액션,드라마,멜로/로맨스,미스터리</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>5,820,000</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

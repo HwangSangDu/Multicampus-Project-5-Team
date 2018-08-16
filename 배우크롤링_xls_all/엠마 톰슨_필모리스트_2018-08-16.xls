@@ -1,0 +1,398 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '엠마 톰슨'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>미녀와 야수</td>
+					<td>Beauty and the Beast</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>멜로/로맨스,판타지,뮤지컬</td>
+					<td>주연</td>
+					<td>42,132,589,579</td>
+					<td>5,138,193</td>
+					<td>42,133,751,579</td>
+					<td>5,138,328</td>
+				</tr>
+			
+				<tr>
+					<td>칠드런 액트</td>
+					<td>The Children Act</td>
+					<td>2017</td>
+					<td>영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>더 셰프</td>
+					<td>Burnt</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>1,487,172,148</td>
+					<td>187,122</td>
+					<td>1,487,412,148</td>
+					<td>187,152</td>
+				</tr>
+			
+				<tr>
+					<td>러브 펀치</td>
+					<td>Love Punch</td>
+					<td>2013</td>
+					<td>프랑스</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>1,209,000</td>
+					<td>155</td>
+					<td>1,209,000</td>
+					<td>155</td>
+				</tr>
+			
+				<tr>
+					<td>세이빙 미스터 뱅크스</td>
+					<td>Saving Mr. Banks</td>
+					<td>2013</td>
+					<td>미국,영국,호주</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>101,282,300</td>
+					<td>12,957</td>
+					<td>101,282,300</td>
+					<td>12,957</td>
+				</tr>
+			
+				<tr>
+					<td>뷰티풀 크리처스</td>
+					<td>Beautiful Creatures</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>스릴러,액션,판타지,멜로/로맨스</td>
+					<td>주연</td>
+					<td>582,030,544</td>
+					<td>82,995</td>
+					<td>582,030,544</td>
+					<td>82,995</td>
+				</tr>
+			
+				<tr>
+					<td>메리다와 마법의 숲</td>
+					<td>Brave</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>애니메이션</td>
+					<td>주연-엘리노 여왕역(목소리)</td>
+					<td>9,024,766,000</td>
+					<td>1,231,024</td>
+					<td>9,026,947,000</td>
+					<td>1,231,261</td>
+				</tr>
+			
+				<tr>
+					<td>내니맥피 2: 유모와마법소동</td>
+					<td>Nanny Mcphee And The Big Bang</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>가족,코미디,판타지</td>
+					<td>주연</td>
+					<td>1,378,611,255</td>
+					<td>210,493</td>
+					<td>1,355,256,500</td>
+					<td>206,674</td>
+				</tr>
+			
+				<tr>
+					<td>언 애듀케이션</td>
+					<td>An Education</td>
+					<td>2009</td>
+					<td>영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>21,358,842</td>
+					<td>2,794</td>
+					<td>21,023,500</td>
+					<td>2,750</td>
+				</tr>
+			
+				<tr>
+					<td>하비의 마지막 로맨스</td>
+					<td>Last Chance Harvey</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연-케이트 월커역</td>
+					<td>251,907,697</td>
+					<td>34,670</td>
+					<td>248,197,000</td>
+					<td>34,184</td>
+				</tr>
+			
+				<tr>
+					<td>브라이즈헤드 리비지티드</td>
+					<td>Brideshead Revisited</td>
+					<td>2008</td>
+					<td>영국,이탈리아,모로코</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>내니맥피-우리 유모는 마법사</td>
+					<td>Nanny Mcphee</td>
+					<td>2004</td>
+					<td>영국</td>
+					<td>코미디,가족</td>
+					<td>주연-내니 맥피역</td>
+					<td>0</td>
+					<td>247,858</td>
+					<td>1,295,880,000</td>
+					<td>216,138</td>
+				</tr>
+			
+				<tr>
+					<td>러브액츄얼리: 크리스마스 에디션</td>
+					<td>Love Actually</td>
+					<td>2003</td>
+					<td>미국,영국</td>
+					<td>멜로/로맨스,드라마,코미디</td>
+					<td>주연</td>
+					<td>236,604,147</td>
+					<td>31,032</td>
+					<td>250,177,647</td>
+					<td>32,740</td>
+				</tr>
+			
+				<tr>
+					<td>러브 액츄얼리</td>
+					<td>Love Actually</td>
+					<td>2003</td>
+					<td>미국,영국</td>
+					<td>멜로/로맨스,드라마,코미디</td>
+					<td>주연-캐런역</td>
+					<td>0</td>
+					<td>1,887,000</td>
+					<td>2,144,629,708</td>
+					<td>307,303</td>
+				</tr>
+			
+				<tr>
+					<td>실종: 충격적 사실들</td>
+					<td>Imagining Argentina</td>
+					<td>2003</td>
+					<td>스페인,영국,미국</td>
+					<td>스릴러,드라마</td>
+					<td>주연-세실리아 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>엔젤스 인 아메리카</td>
+					<td>Angels In America</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>위트</td>
+					<td>Wit</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>프라이머리 컬러스</td>
+					<td>Primary Colors</td>
+					<td>1998</td>
+					<td>미국,영국,프랑스,독일,일본</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>5,257</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>분노의 브루시에트</td>
+					<td>Judas Kiss</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>범죄,드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>캐링턴 </td>
+					<td>Carrington</td>
+					<td>1995</td>
+					<td>영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>3,202</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>센스 앤 센서빌리티 </td>
+					<td>Sense &amp; Sensibility</td>
+					<td>1995</td>
+					<td>미국,영국</td>
+					<td>드라마</td>
+					<td>주연,시나리오(각본)</td>
+					<td>0</td>
+					<td>91,499</td>
+					<td>766,000</td>
+					<td>292</td>
+				</tr>
+			
+				<tr>
+					<td>쥬니어 </td>
+					<td>Junior</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>SF,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>111,164</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>남아있는 나날 </td>
+					<td>Remains Of The Day</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-메리 켄튼역</td>
+					<td>0</td>
+					<td>7,513</td>
+					<td>414,000</td>
+					<td>138</td>
+				</tr>
+			
+				<tr>
+					<td>아버지의 이름으로 </td>
+					<td>In The Name Of The Father</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-가레스 페어스역</td>
+					<td>0</td>
+					<td>50,114</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>헛소동</td>
+					<td>Much Ado About Nothing</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>20,649</td>
+					<td>532,000</td>
+					<td>70</td>
+				</tr>
+			
+				<tr>
+					<td>하워즈 엔드</td>
+					<td>Hawards End</td>
+					<td>1993</td>
+					<td>영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>76,778</td>
+					<td>168,000</td>
+					<td>56</td>
+				</tr>
+			
+				<tr>
+					<td>헨리 5세</td>
+					<td>Henry 5</td>
+					<td>1989</td>
+					<td>영국</td>
+					<td>액션,드라마,전쟁</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>21,176</td>
+					<td>564,000</td>
+					<td>282</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

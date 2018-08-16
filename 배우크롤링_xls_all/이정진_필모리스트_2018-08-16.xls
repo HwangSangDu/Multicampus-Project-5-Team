@@ -1,0 +1,190 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '이정진'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>은하</td>
+					<td></td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연-한서준역</td>
+					<td>67,000</td>
+					<td>13</td>
+					<td>67,000</td>
+					<td>13</td>
+				</tr>
+			
+				<tr>
+					<td>대결</td>
+					<td>Duel:The Final Round</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>251,176,500</td>
+					<td>32,278</td>
+					<td>251,176,500</td>
+					<td>32,278</td>
+				</tr>
+			
+				<tr>
+					<td>트릭</td>
+					<td>Trick</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>스릴러,드라마</td>
+					<td>주연</td>
+					<td>297,957,300</td>
+					<td>38,262</td>
+					<td>297,957,300</td>
+					<td>38,262</td>
+				</tr>
+			
+				<tr>
+					<td>피에타</td>
+					<td>Pieta</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-강도역</td>
+					<td>4,355,592,500</td>
+					<td>603,283</td>
+					<td>4,355,592,500</td>
+					<td>603,283</td>
+				</tr>
+			
+				<tr>
+					<td>원더풀 라디오</td>
+					<td>Love On-Air </td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-이재혁역</td>
+					<td>7,255,598,000</td>
+					<td>986,287</td>
+					<td>7,255,598,000</td>
+					<td>986,287</td>
+				</tr>
+			
+				<tr>
+					<td>돌이킬 수 없는</td>
+					<td>No Doubt</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>미스터리,드라마</td>
+					<td>주연-유세진역</td>
+					<td>472,974,485</td>
+					<td>65,414</td>
+					<td>465,532,500</td>
+					<td>64,371</td>
+				</tr>
+			
+				<tr>
+					<td>해결사</td>
+					<td>Troubleshooter</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>액션,스릴러</td>
+					<td>주연-형사, 장필호역</td>
+					<td>14,063,913,437</td>
+					<td>1,873,327</td>
+					<td>13,844,624,000</td>
+					<td>1,843,404</td>
+				</tr>
+			
+				<tr>
+					<td>마파도</td>
+					<td>Mapado: Island of Fortunes</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연-엄재철 역</td>
+					<td>0</td>
+					<td>3,090,467</td>
+					<td>16,751,202,503</td>
+					<td>2,636,857</td>
+				</tr>
+			
+				<tr>
+					<td>말죽거리 잔혹사</td>
+					<td>Spirit Of Jeet Keun Do - Once Upon A Time In High School</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>액션,멜로/로맨스</td>
+					<td>주연-우식역</td>
+					<td>0</td>
+					<td>3,115,767</td>
+					<td>3,837,152,000</td>
+					<td>604,969</td>
+				</tr>
+			
+				<tr>
+					<td>해적 디스코왕 되다</td>
+					<td>Bet On My Disco</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td>411,513</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>해변으로가다</td>
+					<td>Bloody Beach</td>
+					<td>2000</td>
+					<td>한국</td>
+					<td>공포(호러),미스터리,스릴러</td>
+					<td>주연-상태역</td>
+					<td>0</td>
+					<td>84,227</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

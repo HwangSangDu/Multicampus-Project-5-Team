@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '전혜빈'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>힘을 내요, 미스터 리(가제)</td>
+					<td></td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>조연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>인어전설</td>
+					<td>Mermaid Unlimited</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>럭키</td>
+					<td>LUCK-KEY</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>조연</td>
+					<td>56,444,461,256</td>
+					<td>6,975,290</td>
+					<td>56,445,023,256</td>
+					<td>6,975,571</td>
+				</tr>
+			
+				<tr>
+					<td>우리 연애의 이력</td>
+					<td>With or Without You</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>24,084,800</td>
+					<td>3,043</td>
+					<td>24,084,800</td>
+					<td>3,043</td>
+				</tr>
+			
+				<tr>
+					<td>몽정기2</td>
+					<td>Wet Dreams 2</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,188,815</td>
+					<td>5,110,555,000</td>
+					<td>813,164</td>
+				</tr>
+			
+				<tr>
+					<td>령</td>
+					<td>The Ghost</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>공포(호러)</td>
+					<td>조연</td>
+					<td>0</td>
+					<td>1,108,769</td>
+					<td>3,554,937,000</td>
+					<td>558,807</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,320 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '김시은'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>행복의 나라</td>
+					<td>Land of Happiness</td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>드라마,가족</td>
+					<td>주연-지영역</td>
+					<td></td>
+					<td></td>
+					<td>6,559,800</td>
+					<td>998</td>
+				</tr>
+			
+				<tr>
+					<td>내가 사는 세상</td>
+					<td>Back from the Beat</td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>너와 극장에서</td>
+					<td>Cinema with You</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-혜진역</td>
+					<td>6,271,500</td>
+					<td>913</td>
+					<td>14,180,600</td>
+					<td>2,032</td>
+				</tr>
+			
+				<tr>
+					<td>골든슬럼버</td>
+					<td>Golden Slumber</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>범죄,드라마</td>
+					<td>단역-주호 처역</td>
+					<td>11,413,087,798</td>
+					<td>1,387,562</td>
+					<td>11,412,768,798</td>
+					<td>1,387,508</td>
+				</tr>
+			
+				<tr>
+					<td>1987</td>
+					<td>1987: When the Day Comes</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-강경사 아내역</td>
+					<td>58,166,310,145</td>
+					<td>7,231,770</td>
+					<td>58,166,910,145</td>
+					<td>7,231,830</td>
+				</tr>
+			
+				<tr>
+					<td>귀향, 끝나지 않은 이야기</td>
+					<td>Spirits&#039; Homecoming, Unfinished Story</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마,다큐멘터리</td>
+					<td>주연</td>
+					<td>105,487,200</td>
+					<td>14,490</td>
+					<td>105,487,200</td>
+					<td>14,490</td>
+				</tr>
+			
+				<tr>
+					<td>김녕회관</td>
+					<td>The PUB</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스,판타지</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>당신도 주성치를 좋아하시나요? </td>
+					<td>Do you like Chow Shing Chi?</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>기타</td>
+					<td>주연-시은시역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>백 프롬 더 비트</td>
+					<td></td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-시은역</td>
+					<td></td>
+					<td></td>
+					<td>92,000</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>에이다시</td>
+					<td>A&#039;</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마,판타지,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아가씨</td>
+					<td>The Handmaiden</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>스릴러,드라마</td>
+					<td>단역-하녀2역</td>
+					<td>35,211,229,991</td>
+					<td>4,287,839</td>
+					<td>35,219,128,991</td>
+					<td>4,288,750</td>
+				</tr>
+			
+				<tr>
+					<td>마이 스윗 레코드</td>
+					<td>My Sweet Record</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>수색역</td>
+					<td>Su saek</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마,액션,범죄</td>
+					<td>주연-선미역</td>
+					<td>14,192,700</td>
+					<td>1,851</td>
+					<td>14,224,700</td>
+					<td>1,859</td>
+				</tr>
+			
+				<tr>
+					<td>귀향</td>
+					<td>Spirits&#039; Homecoming</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-분숙역</td>
+					<td>27,248,705,990</td>
+					<td>3,586,929</td>
+					<td>27,249,801,990</td>
+					<td>3,587,182</td>
+				</tr>
+			
+				<tr>
+					<td>검사외전</td>
+					<td>A Violent Prosecutor</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>범죄,코미디</td>
+					<td>단역-5년전 뉴스 아나운서역</td>
+					<td>77,319,445,264</td>
+					<td>9,707,158</td>
+					<td>77,320,403,264</td>
+					<td>9,707,581</td>
+				</tr>
+			
+				<tr>
+					<td>서부전선</td>
+					<td>The Long Way Home</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>전쟁,드라마</td>
+					<td>단역-포병대대 간호장교1역</td>
+					<td>4,751,661,400</td>
+					<td>609,063</td>
+					<td>4,751,661,400</td>
+					<td>609,063</td>
+				</tr>
+			
+				<tr>
+					<td>뷰티 인사이드</td>
+					<td>The Beauty Inside</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>판타지,멜로/로맨스</td>
+					<td>조연-과거 우진 모역</td>
+					<td>16,155,795,131</td>
+					<td>2,054,297</td>
+					<td>16,184,831,031</td>
+					<td>2,057,896</td>
+				</tr>
+			
+				<tr>
+					<td>배우의 탄생</td>
+					<td>The Birth of Actresses</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연-경화역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>위로</td>
+					<td>Consolation</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>기타</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>허삼관</td>
+					<td>Chronicle of a Blood Merchant</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-대전 적십자병원 접수대 2 역</td>
+					<td>7,405,415,569</td>
+					<td>955,175</td>
+					<td>7,410,215,569</td>
+					<td>956,103</td>
+				</tr>
+			
+				<tr>
+					<td>군도: 민란의 시대</td>
+					<td>KUNDO : Age of the Rampant</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>사극,액션</td>
+					<td>단역-산채 아낙역</td>
+					<td>36,987,755,999</td>
+					<td>4,774,895</td>
+					<td>36,990,394,499</td>
+					<td>4,775,811</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

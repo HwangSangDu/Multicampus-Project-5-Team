@@ -1,0 +1,268 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '이종혁'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>여중생A</td>
+					<td>Student A</td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-담임역</td>
+					<td>724,166,600</td>
+					<td>86,843</td>
+					<td>811,692,000</td>
+					<td>97,850</td>
+				</tr>
+			
+				<tr>
+					<td>두번 할까요?(가제)</td>
+					<td></td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>엄마의 공책</td>
+					<td>Notebook from My Mother</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마,가족</td>
+					<td>주연-규현역</td>
+					<td>59,882,500</td>
+					<td>8,697</td>
+					<td>63,276,500</td>
+					<td>9,342</td>
+				</tr>
+			
+				<tr>
+					<td>파일 : 4022일의 사육</td>
+					<td>The File</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>미스터리,스릴러</td>
+					<td>주연</td>
+					<td>9,090,000</td>
+					<td>1,414</td>
+					<td>9,090,000</td>
+					<td>1,414</td>
+				</tr>
+			
+				<tr>
+					<td>돼지 같은 여자</td>
+					<td>My sister, the pig lady</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연-준섭역</td>
+					<td>52,852,400</td>
+					<td>7,238</td>
+					<td>52,852,400</td>
+					<td>7,238</td>
+				</tr>
+			
+				<tr>
+					<td>가디언즈</td>
+					<td>Rise of the Guardians</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>애니메이션,어드벤처</td>
+					<td>주연-피치역(목소리)</td>
+					<td>8,212,243,000</td>
+					<td>1,075,584</td>
+					<td>8,245,266,000</td>
+					<td>1,081,096</td>
+				</tr>
+			
+				<tr>
+					<td>푸른소금</td>
+					<td>Hindsight</td>
+					<td>2011</td>
+					<td>한국,필리핀</td>
+					<td>액션,드라마,멜로/로맨스</td>
+					<td>주연-백경민역</td>
+					<td>5,739,824,500</td>
+					<td>771,699</td>
+					<td>5,739,824,500</td>
+					<td>771,699</td>
+				</tr>
+			
+				<tr>
+					<td>평행이론</td>
+					<td>Parallel Life</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>스릴러,액션,드라마,미스터리</td>
+					<td>조연</td>
+					<td>6,905,140,883</td>
+					<td>937,029</td>
+					<td>6,793,066,000</td>
+					<td>921,111</td>
+				</tr>
+			
+				<tr>
+					<td>미쓰 홍당무</td>
+					<td>Crush And Blush</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>3,564,401,608</td>
+					<td>532,324</td>
+					<td>3,604,178,500</td>
+					<td>539,110</td>
+				</tr>
+			
+				<tr>
+					<td>라듸오 데이즈</td>
+					<td>Radio Days</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>1,405,676,000</td>
+					<td>214,946</td>
+					<td>1,394,050,500</td>
+					<td>210,525</td>
+				</tr>
+			
+				<tr>
+					<td>용의주도 미스신</td>
+					<td>Miss Gold Digger</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>95,329,500</td>
+					<td>595,872</td>
+					<td>3,743,082,000</td>
+					<td>579,973</td>
+				</tr>
+			
+				<tr>
+					<td>바람피기 좋은 날</td>
+					<td>A Day For An Affair</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스,코미디</td>
+					<td>주연-바람둥이 남자 - 여우 두 마리 역역</td>
+					<td>0</td>
+					<td>1,847,875</td>
+					<td>10,738,218,900</td>
+					<td>1,708,979</td>
+				</tr>
+			
+				<tr>
+					<td>죽음의 숲-어느날 갑자기 네번째 이야기</td>
+					<td>Dark Forest</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>3,241</td>
+					<td>21,760,000</td>
+					<td>3,241</td>
+				</tr>
+			
+				<tr>
+					<td>비열한 거리</td>
+					<td>A Dirty Carnival</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>액션,범죄,드라마</td>
+					<td>조연-영화 속 건달 주인공 역</td>
+					<td>0</td>
+					<td>2,047,808</td>
+					<td>11,664,597,600</td>
+					<td>1,829,887</td>
+				</tr>
+			
+				<tr>
+					<td>미스터 소크라테스</td>
+					<td>Mr. Socrates</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>주연-신 반장역</td>
+					<td>0</td>
+					<td>1,261,965</td>
+					<td>6,765,653,000</td>
+					<td>1,066,103</td>
+				</tr>
+			
+				<tr>
+					<td>신석기 블루스</td>
+					<td>Shin Suk-ki Blues </td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>383,674</td>
+					<td>1,797,632,500</td>
+					<td>282,552</td>
+				</tr>
+			
+				<tr>
+					<td>말죽거리 잔혹사</td>
+					<td>Spirit Of Jeet Keun Do - Once Upon A Time In High School</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>액션,멜로/로맨스</td>
+					<td>조연-차종훈역</td>
+					<td>0</td>
+					<td>3,115,767</td>
+					<td>3,837,152,000</td>
+					<td>604,969</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

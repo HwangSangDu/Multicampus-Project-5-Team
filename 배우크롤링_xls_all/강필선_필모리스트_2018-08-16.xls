@@ -1,0 +1,177 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '강필선'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>미처몰랐던건</td>
+					<td></td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연-철수역,시나리오(각본)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>밀실</td>
+					<td>Dead Time</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>공포(호러),판타지</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>나는 야한 여자가 좋다 3 무삭제감독판</td>
+					<td></td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>5,000</td>
+					<td>1</td>
+					<td>5,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>나는 야한 여자가 좋다 3</td>
+					<td></td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>6,289,000</td>
+					<td>1,031</td>
+					<td>6,289,000</td>
+					<td>1,031</td>
+				</tr>
+			
+				<tr>
+					<td>개: dog eat dog</td>
+					<td>Dog Eat Dog</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>범죄,드라마</td>
+					<td>조연-최종철역</td>
+					<td>11,970,000</td>
+					<td>1,505</td>
+					<td>11,970,000</td>
+					<td>1,505</td>
+				</tr>
+			
+				<tr>
+					<td>물보다 진한</td>
+					<td>Thicker than Water</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>판타지,드라마</td>
+					<td>조연-경매장 사회자역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>수상한 그녀</td>
+					<td>Miss Granny</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-씩스팩스1역</td>
+					<td>62,696,639,249</td>
+					<td>8,656,397</td>
+					<td>62,715,946,849</td>
+					<td>8,659,725</td>
+				</tr>
+			
+				<tr>
+					<td>서울 137</td>
+					<td>Seoul-137</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>판타지,드라마</td>
+					<td>주연-재현역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>꾼</td>
+					<td>The Professional Demonstrators</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마,기타</td>
+					<td>주연-남경호역</td>
+					<td></td>
+					<td></td>
+					<td>529,920</td>
+					<td>396</td>
+				</tr>
+			
+				<tr>
+					<td>포화속으로</td>
+					<td>71-Into The Fire</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>드라마,전쟁</td>
+					<td>단역-학도병역</td>
+					<td>24,217,600,897</td>
+					<td>3,385,706</td>
+					<td>23,831,968,600</td>
+					<td>3,330,326</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

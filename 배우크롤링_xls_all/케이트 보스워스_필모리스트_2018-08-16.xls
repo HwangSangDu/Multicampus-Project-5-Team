@@ -1,0 +1,203 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '케이트 보스워스'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>썸니아</td>
+					<td>Before I Wake</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>판타지,공포(호러)</td>
+					<td>주연</td>
+					<td>92,785,045</td>
+					<td>11,662</td>
+					<td>93,045,045</td>
+					<td>11,708</td>
+				</tr>
+			
+				<tr>
+					<td>버스 657</td>
+					<td>Heist </td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>143,676,000</td>
+					<td>18,042</td>
+					<td>143,676,000</td>
+					<td>18,042</td>
+				</tr>
+			
+				<tr>
+					<td>스틸 앨리스</td>
+					<td>Still Alice</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>869,953,546</td>
+					<td>112,711</td>
+					<td>871,674,546</td>
+					<td>112,977</td>
+				</tr>
+			
+				<tr>
+					<td>언컨셔스</td>
+					<td>Unconscious</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>우리 사랑하는 동안</td>
+					<td>While We Were Here</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>2,603,000</td>
+					<td>405</td>
+					<td>2,603,000</td>
+					<td>405</td>
+				</tr>
+			
+				<tr>
+					<td>워리어스 웨이</td>
+					<td>Warrior&#039;s Way</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>액션,판타지</td>
+					<td>주연-린역</td>
+					<td>3,134,328,730</td>
+					<td>437,101</td>
+					<td>3,097,461,500</td>
+					<td>432,072</td>
+				</tr>
+			
+				<tr>
+					<td>21</td>
+					<td>21</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td>730,776,100</td>
+					<td>108,648</td>
+					<td>731,977,600</td>
+					<td>108,825</td>
+				</tr>
+			
+				<tr>
+					<td>걸 인 더 파크</td>
+					<td>The Girl in the Park</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>비욘드 더 씨</td>
+					<td>Beyond The Sea</td>
+					<td>2004</td>
+					<td>미국,영국,독일</td>
+					<td>드라마,뮤지컬</td>
+					<td>주연-산드라 디역</td>
+					<td>0</td>
+					<td>2,040</td>
+					<td>13,164,700</td>
+					<td>2,299</td>
+				</tr>
+			
+				<tr>
+					<td>내 생애 최고의 데이트</td>
+					<td>Win A Date With Tad Hamilton</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>59,652</td>
+					<td>122,230,500</td>
+					<td>18,401</td>
+				</tr>
+			
+				<tr>
+					<td>원더랜드</td>
+					<td>Wonderland</td>
+					<td>2003</td>
+					<td>미국,캐나다</td>
+					<td>범죄,드라마,미스터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>블루 크러쉬</td>
+					<td>Blue Crush</td>
+					<td>2002</td>
+					<td>미국,독일</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

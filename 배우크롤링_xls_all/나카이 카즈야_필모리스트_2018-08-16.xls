@@ -1,0 +1,164 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '나카이 카즈야'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>원피스 필름 골드</td>
+					<td>ONE PIECE FILM GOLD</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>애니메이션,어드벤처,판타지,액션</td>
+					<td>주연</td>
+					<td>1,710,680,100</td>
+					<td>217,248</td>
+					<td>1,710,761,100</td>
+					<td>217,257</td>
+				</tr>
+			
+				<tr>
+					<td>원피스 : 에피소드 오브 루피 ~핸드 아일랜드의 모험~</td>
+					<td>ONE PIECE : Episode of Luffy</td>
+					<td>2012</td>
+					<td>일본</td>
+					<td>애니메이션,판타지,어드벤처</td>
+					<td>주연-조로 목소리 역(목소리)</td>
+					<td>11,342,500</td>
+					<td>1,581</td>
+					<td>11,342,500</td>
+					<td>1,581</td>
+				</tr>
+			
+				<tr>
+					<td>원피스 : 에피소드 오브 나미 ~항해사의 눈물과 동료의 인연~</td>
+					<td>ONE PIECE : Episode of Nami</td>
+					<td>2012</td>
+					<td>일본</td>
+					<td>애니메이션,판타지,어드벤처</td>
+					<td>주연-조로역(목소리)</td>
+					<td>12,319,500</td>
+					<td>1,639</td>
+					<td>12,319,500</td>
+					<td>1,639</td>
+				</tr>
+			
+				<tr>
+					<td>원피스 극장판 Z</td>
+					<td>One Piece Film Z</td>
+					<td>2012</td>
+					<td>일본</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td>626,891,000</td>
+					<td>93,239</td>
+					<td>626,891,000</td>
+					<td>93,239</td>
+				</tr>
+			
+				<tr>
+					<td>극장판 전국 바사라</td>
+					<td>Sengoku BASARA Samurai Kings the Movie</td>
+					<td>2011</td>
+					<td>일본</td>
+					<td>애니메이션,액션</td>
+					<td>주연-다테 마사무네 역(목소리)</td>
+					<td>58,000</td>
+					<td>10</td>
+					<td>1,768,000</td>
+					<td>352</td>
+				</tr>
+			
+				<tr>
+					<td>극장판 블리치 4 : 지옥편</td>
+					<td></td>
+					<td>2010</td>
+					<td>일본</td>
+					<td>애니메이션,어드벤처,액션</td>
+					<td>주연-코쿠토 역(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>XXX 홀릭 극장판 : 한 여름 밤의 꿈</td>
+					<td>xxxHOLiC the Movie: A Midsummer Night&#039;s Dream</td>
+					<td>2005</td>
+					<td>일본</td>
+					<td>애니메이션,코미디,드라마,판타지,미스터리,스릴러</td>
+					<td>주연(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>원피스 6기 극장판 : 오마츠리 남작과 비밀의 섬</td>
+					<td>One Piece: Baron Omatsuri and the Secret Island</td>
+					<td>2005</td>
+					<td>일본</td>
+					<td>애니메이션,액션,어드벤처</td>
+					<td>주연-롤로노아 조로 (목소리)역(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>원피스 극장판 5기: 저주받은 성검</td>
+					<td>One Piece: The Curse of the Sacred Sword</td>
+					<td>2004</td>
+					<td>일본</td>
+					<td>애니메이션,액션,어드벤처,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

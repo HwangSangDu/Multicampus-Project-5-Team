@@ -1,0 +1,372 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '커트 러셀'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>분노의 질주: 더 익스트림</td>
+					<td>Fast and Furious 8</td>
+					<td>2017</td>
+					<td>미국,일본,프랑스,캐나다</td>
+					<td>액션,범죄,스릴러</td>
+					<td>주연</td>
+					<td>29,981,156,348</td>
+					<td>3,653,238</td>
+					<td>29,981,156,348</td>
+					<td>3,653,238</td>
+				</tr>
+			
+				<tr>
+					<td>딥워터 호라이즌</td>
+					<td>Deepwater Horizon</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,드라마</td>
+					<td>주연</td>
+					<td>775,611,543</td>
+					<td>100,021</td>
+					<td>784,555,543</td>
+					<td>101,303</td>
+				</tr>
+			
+				<tr>
+					<td>헤이트풀8</td>
+					<td>The Hateful Eight</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션,스릴러,서부극(웨스턴)</td>
+					<td>주연</td>
+					<td>1,004,048,400</td>
+					<td>121,278</td>
+					<td>1,004,847,900</td>
+					<td>121,400</td>
+				</tr>
+			
+				<tr>
+					<td>본 토마호크</td>
+					<td>Bone Tomahawk</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>공포(호러),서부극(웨스턴)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아트 오브 더 스틸</td>
+					<td>The Art of the Steal</td>
+					<td>2013</td>
+					<td>캐나다</td>
+					<td>코미디</td>
+					<td>주연-크런치 칼훈 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>장고:분노의 추적자</td>
+					<td>Django Unchained</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>서부극(웨스턴),드라마</td>
+					<td>주연</td>
+					<td>1,883,634,000</td>
+					<td>260,144</td>
+					<td>1,885,583,000</td>
+					<td>260,405</td>
+				</tr>
+			
+				<tr>
+					<td>데쓰 프루프</td>
+					<td>Death Proof</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연-스턴트맨 마이크역</td>
+					<td>0</td>
+					<td>91,066</td>
+					<td>600,915,000</td>
+					<td>88,693</td>
+				</tr>
+			
+				<tr>
+					<td>그라인드 하우스</td>
+					<td>Package Screening</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>공포(호러),액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>160,000</td>
+					<td>40</td>
+				</tr>
+			
+				<tr>
+					<td>포세이돈</td>
+					<td>Poseidon</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>액션,드라마,스릴러</td>
+					<td>주연-로버트 램지역</td>
+					<td>0</td>
+					<td>2,214,600</td>
+					<td>14,588,094,300</td>
+					<td>2,316,695</td>
+				</tr>
+			
+				<tr>
+					<td>드리머</td>
+					<td>Dreamer: Inspired By A True Story</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-벤 크레인역</td>
+					<td>0</td>
+					<td>305,993</td>
+					<td>1,706,200,100</td>
+					<td>276,760</td>
+				</tr>
+			
+				<tr>
+					<td>스카이 하이</td>
+					<td>Sky High</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>액션,가족,코미디,어드벤처</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>미라클</td>
+					<td>Miracle</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>드라마,가족</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>다크 블루</td>
+					<td>Dark Blue</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>드라마,액션,스릴러,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>3000마일</td>
+					<td>3000miles to graceland</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>스릴러,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>76,168</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>솔져 </td>
+					<td>Soldier</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>SF,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>36,807</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>브레이크다운</td>
+					<td>Breakdown</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>49,928</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>L.A 2013</td>
+					<td>Escape From L.A.</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>SF,액션,범죄,미스터리</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>42,377</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>화이널 디씨전 </td>
+					<td>Executive Decision</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>액션,범죄,어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>132,074</td>
+					<td>196,000</td>
+					<td>98</td>
+				</tr>
+			
+				<tr>
+					<td>무단침입</td>
+					<td>Unlawful Entry</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>범죄,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>34,990</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>분노의 역류</td>
+					<td>BACKDRAFT</td>
+					<td>1991</td>
+					<td>미국</td>
+					<td>드라마,액션,미스터리,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>162,102</td>
+					<td>54,000</td>
+					<td>18</td>
+				</tr>
+			
+				<tr>
+					<td>윈터피플</td>
+					<td>Winter People</td>
+					<td>1988</td>
+					<td>미국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>3,750</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>불타는 태양</td>
+					<td>Tequila Sunrise</td>
+					<td>1988</td>
+					<td>미국</td>
+					<td>액션,멜로/로맨스,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>184,000</td>
+					<td>92</td>
+				</tr>
+			
+				<tr>
+					<td>괴물</td>
+					<td>The Thing</td>
+					<td>1982</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러,액션,SF</td>
+					<td>주연-R.J. 맥레디 역</td>
+					<td></td>
+					<td></td>
+					<td>1,441,000</td>
+					<td>256</td>
+				</tr>
+			
+				<tr>
+					<td>뉴욕 탈출</td>
+					<td>Escape from New York</td>
+					<td>1981</td>
+					<td>영국,미국</td>
+					<td>액션,어드벤처,SF,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,283,268</td>
+					<td>196</td>
+				</tr>
+			
+				<tr>
+					<td>고물차 소동</td>
+					<td>Used Cars</td>
+					<td>1980</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

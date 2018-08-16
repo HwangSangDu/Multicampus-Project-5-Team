@@ -1,0 +1,151 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '코리 세비어'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>라스트 워리어</td>
+					<td>The Last Warriors </td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>판타지,어드벤처</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>500,000</td>
+					<td>100</td>
+				</tr>
+			
+				<tr>
+					<td>오사마 좀비</td>
+					<td>Osombie</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션,공포(호러)</td>
+					<td>주연</td>
+					<td>7,000</td>
+					<td>1</td>
+					<td>7,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>어웨이큰</td>
+					<td>Awaken</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-알렉스 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>에이지 오브 더 드래곤</td>
+					<td>Age of the Dragons</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>액션,SF,스릴러,판타지</td>
+					<td>주연-이쉬마엘 역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>잃어버린 세계: 로스트 퓨쳐</td>
+					<td>The Lost Future</td>
+					<td>2010</td>
+					<td>독일,남아프리카공화국,미국</td>
+					<td>어드벤처,SF</td>
+					<td>주연-사반 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>디코이스: 에일리언의 유혹</td>
+					<td>Decoys 2: Alien Seduction</td>
+					<td>2007</td>
+					<td>캐나다</td>
+					<td>공포(호러),SF,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>브로큰 라이프</td>
+					<td>A BROKEN LIFE</td>
+					<td>2007</td>
+					<td>캐나다</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>디코이스</td>
+					<td>Decoys</td>
+					<td>2004</td>
+					<td>캐나다</td>
+					<td>SF,공포(호러),코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

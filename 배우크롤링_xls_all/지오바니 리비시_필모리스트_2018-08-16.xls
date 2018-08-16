@@ -1,0 +1,164 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '지오바니 리비시'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>헤밍웨이 인 하바나</td>
+					<td>Papa Hemingway in Cuba</td>
+					<td>2016</td>
+					<td>미국,캐나다</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>43,001,400</td>
+					<td>5,914</td>
+				</tr>
+			
+				<tr>
+					<td>미들 맨</td>
+					<td>Middle Men</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>코미디,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>10번째 &amp; 늑대</td>
+					<td>10th &amp; Wolf</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>러브스 브라더</td>
+					<td>Love&#039;s Brother</td>
+					<td>2004</td>
+					<td>호주,영국</td>
+					<td>코미디,드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사랑도 통역이 되나요?</td>
+					<td>Lost In Translation</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>멜로/로맨스,액션</td>
+					<td>조연</td>
+					<td>0</td>
+					<td>112,127</td>
+					<td>222,375,000</td>
+					<td>33,859</td>
+				</tr>
+			
+				<tr>
+					<td>헤븐</td>
+					<td>Heaven</td>
+					<td>2002</td>
+					<td>미국,영국,프랑스,이탈리아,독일</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>231,000</td>
+					<td>77</td>
+				</tr>
+			
+				<tr>
+					<td>보일러룸</td>
+					<td>Boiler Room</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>범죄,스릴러</td>
+					<td>주연-세스 데이비스역</td>
+					<td>0</td>
+					<td>259</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>비트 시티 </td>
+					<td>The Mod Squad</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>액션,스릴러,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>5,600</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사랑하고 싶은 그녀</td>
+					<td>The Other Sister</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>8,324</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

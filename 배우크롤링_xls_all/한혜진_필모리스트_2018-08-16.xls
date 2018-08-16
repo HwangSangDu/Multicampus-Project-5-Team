@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '한혜진'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>봄</td>
+					<td>Late Spring</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>단역-우정출연-여자전도사역</td>
+					<td>111,094,100</td>
+					<td>14,780</td>
+					<td>111,094,100</td>
+					<td>14,780</td>
+				</tr>
+			
+				<tr>
+					<td>남자가 사랑할 때</td>
+					<td>Man In Love</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>14,510,222,300</td>
+					<td>1,979,311</td>
+					<td>14,515,828,300</td>
+					<td>1,980,050</td>
+				</tr>
+			
+				<tr>
+					<td>26년</td>
+					<td>26 Years</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>액션,드라마</td>
+					<td>주연-심미진역</td>
+					<td>21,241,327,145</td>
+					<td>2,963,449</td>
+					<td>21,242,367,145</td>
+					<td>2,963,652</td>
+				</tr>
+			
+				<tr>
+					<td>가디언즈</td>
+					<td>Rise of the Guardians</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>애니메이션,어드벤처</td>
+					<td>주연-투스역(목소리)</td>
+					<td>8,212,243,000</td>
+					<td>1,075,584</td>
+					<td>8,245,266,000</td>
+					<td>1,081,096</td>
+				</tr>
+			
+				<tr>
+					<td>용서는 없다</td>
+					<td>No Mercy</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>범죄,스릴러</td>
+					<td>주연-민서영역</td>
+					<td>8,737,627,361</td>
+					<td>1,144,238</td>
+					<td>8,597,290,000</td>
+					<td>1,125,154</td>
+				</tr>
+			
+				<tr>
+					<td>두근두근쿵쿵</td>
+					<td>Magic Thumping</td>
+					<td>2001</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

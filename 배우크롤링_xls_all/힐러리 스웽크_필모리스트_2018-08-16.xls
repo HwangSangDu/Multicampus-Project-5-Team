@@ -1,0 +1,281 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '힐러리 스웽크'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>로건 럭키</td>
+					<td>Logan Lucky</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>코미디,범죄,드라마,액션</td>
+					<td>주연</td>
+					<td>180,242,600</td>
+					<td>23,339</td>
+					<td>180,226,600</td>
+					<td>23,336</td>
+				</tr>
+			
+				<tr>
+					<td>더 홈즈맨</td>
+					<td>The Homesman</td>
+					<td>2014</td>
+					<td>프랑스,미국</td>
+					<td>드라마,서부극(웨스턴)</td>
+					<td>주연</td>
+					<td>17,836,000</td>
+					<td>2,637</td>
+					<td>17,836,000</td>
+					<td>2,637</td>
+				</tr>
+			
+				<tr>
+					<td>유아 낫 유</td>
+					<td>You&#039;re Not You</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>138,505,400</td>
+					<td>17,372</td>
+					<td>138,505,400</td>
+					<td>17,372</td>
+				</tr>
+			
+				<tr>
+					<td>컨빅션</td>
+					<td>Conviction</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>42,549,500</td>
+					<td>5,997</td>
+					<td>42,549,500</td>
+					<td>5,997</td>
+				</tr>
+			
+				<tr>
+					<td>레지던트</td>
+					<td>The Resident</td>
+					<td>2010</td>
+					<td>영국,미국</td>
+					<td>스릴러,공포(호러)</td>
+					<td>주연-줄리엣 디브로 역</td>
+					<td>520,284,000</td>
+					<td>66,480</td>
+					<td>520,412,000</td>
+					<td>66,498</td>
+				</tr>
+			
+				<tr>
+					<td>아멜리에 : 하늘을 사랑한 여인</td>
+					<td>Amelia</td>
+					<td>2009</td>
+					<td>미국,캐나다</td>
+					<td>어드벤처,드라마</td>
+					<td>주연-아멜리아 에어하트 역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>P.S. 아이 러브 유</td>
+					<td>P.S. I Love You</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연-홀리 케네디역</td>
+					<td>2,119,345,000</td>
+					<td>315,863</td>
+					<td>2,129,584,500</td>
+					<td>315,558</td>
+				</tr>
+			
+				<tr>
+					<td>리핑 10개의 재앙</td>
+					<td>The Reaping</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>SF,공포(호러),스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>664,000</td>
+					<td>4,225,944,500</td>
+					<td>656,652</td>
+				</tr>
+			
+				<tr>
+					<td>프리 라이터스 다이어리</td>
+					<td>Freedom Writers</td>
+					<td>2007</td>
+					<td>독일,미국</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>밀리언 달러 베이비</td>
+					<td>Million Dollar Baby</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>806,891</td>
+					<td>4,723,883,374</td>
+					<td>731,077</td>
+				</tr>
+			
+				<tr>
+					<td>천사의 투쟁</td>
+					<td>Iron Jawed Angels</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>pm 11:14</td>
+					<td>11:14</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>드라마,스릴러,범죄,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>255,240</td>
+					<td>1,472,278,500</td>
+					<td>228,934</td>
+				</tr>
+			
+				<tr>
+					<td>더 코어</td>
+					<td>The Core</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>SF,드라마,스릴러,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>292,641</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>인썸니아</td>
+					<td>Insomnia</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>194,724</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>어페어 오브 더 넥클리스</td>
+					<td>The Affair Of The Necklace</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>0</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>소년은 울지 않는다</td>
+					<td>Boys Don`T Cry</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-티나 브랜든/브랜든 티나역</td>
+					<td>0</td>
+					<td>10,186</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>힐러리 스웽크의 로리타</td>
+					<td>Quiet Days in Hollywood</td>
+					<td>1995</td>
+					<td>독일</td>
+					<td>코미디,드라마</td>
+					<td>주연-로리타 역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>가라데 키드 </td>
+					<td>The Next Karate Kid</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>가족,드라마,액션,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,094</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

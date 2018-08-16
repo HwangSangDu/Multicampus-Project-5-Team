@@ -1,0 +1,229 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '카일 맥라클란'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>폰조</td>
+					<td>Fonzo</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>인사이드 아웃</td>
+					<td>Inside Out</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>애니메이션,코미디</td>
+					<td>주연(목소리)</td>
+					<td>38,024,694,936</td>
+					<td>4,969,735</td>
+					<td>38,024,694,936</td>
+					<td>4,969,735</td>
+				</tr>
+			
+				<tr>
+					<td>터치 오브 핑크</td>
+					<td>Touch Of Pink</td>
+					<td>2004</td>
+					<td>캐나다,영국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>햄릿 2000</td>
+					<td>Hamlet</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>조연</td>
+					<td></td>
+					<td></td>
+					<td>70,000</td>
+					<td>10</td>
+				</tr>
+			
+				<tr>
+					<td>루트 나인</td>
+					<td>Route 9</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>범죄,드라마</td>
+					<td>주연-부스 파커역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>원나잇 스탠드 </td>
+					<td>One Night Stand</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>99,274</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>쇼걸</td>
+					<td>Show Girls</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>329,697</td>
+					<td>300,000</td>
+					<td>150</td>
+				</tr>
+			
+				<tr>
+					<td>심판</td>
+					<td>The Trial</td>
+					<td>1993</td>
+					<td>영국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,140</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아티카 </td>
+					<td>Against The Wall</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>드라마,스릴러,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>3,832</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>트윈 픽스 </td>
+					<td>Twin Peaks</td>
+					<td>1992</td>
+					<td>미국</td>
+					<td>미스터리,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>25,079</td>
+					<td>13,180,682</td>
+					<td>1,525</td>
+				</tr>
+			
+				<tr>
+					<td>동반자</td>
+					<td>Rich In Love</td>
+					<td>1992</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>히든</td>
+					<td>The Hidden</td>
+					<td>1987</td>
+					<td>미국</td>
+					<td>SF</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>81,677</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>블루 벨벳</td>
+					<td>Blue Velvet</td>
+					<td>1986</td>
+					<td>미국</td>
+					<td>드라마,스릴러,미스터리,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>33,702</td>
+					<td>42,713,900</td>
+					<td>5,251</td>
+				</tr>
+			
+				<tr>
+					<td>사구</td>
+					<td>Dune</td>
+					<td>1984</td>
+					<td>미국</td>
+					<td>액션,어드벤처,SF,판타지</td>
+					<td>주연-폴 우술 무아드딥 아트레이즈 역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,359 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '하비에르 바르뎀'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>프랑켄슈타인의 신부(가제)</td>
+					<td>Bride of Frankenstein</td>
+					<td>2019</td>
+					<td>미국</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>마더!</td>
+					<td>Mother!</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>드라마,미스터리,스릴러</td>
+					<td>주연</td>
+					<td>368,306,382</td>
+					<td>46,677</td>
+					<td>368,306,382</td>
+					<td>46,677</td>
+				</tr>
+			
+				<tr>
+					<td>캐리비안의 해적: 죽은 자는 말이 없다</td>
+					<td>Pirates of the Caribbean: Dead Men Tell No</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지,코미디</td>
+					<td>주연</td>
+					<td>24,975,495,122</td>
+					<td>3,049,894</td>
+					<td>24,975,495,122</td>
+					<td>3,049,894</td>
+				</tr>
+			
+				<tr>
+					<td>라스트 페이스</td>
+					<td>THE LAST FACE</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>더 건맨 : 테이큰 감독 뉴프로젝트</td>
+					<td>The Gunman</td>
+					<td>2015</td>
+					<td>프랑스,스페인,영국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>92,000</td>
+					<td>34</td>
+					<td>92,000</td>
+					<td>34</td>
+				</tr>
+			
+				<tr>
+					<td>더 건맨</td>
+					<td>The Gunman</td>
+					<td>2015</td>
+					<td>프랑스,스페인,영국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>833,925,965</td>
+					<td>107,444</td>
+					<td>833,925,965</td>
+					<td>107,444</td>
+				</tr>
+			
+				<tr>
+					<td>카운슬러</td>
+					<td>The Counselor</td>
+					<td>2013</td>
+					<td>미국,영국</td>
+					<td>범죄,드라마,스릴러</td>
+					<td>주연</td>
+					<td>966,623,000</td>
+					<td>133,272</td>
+					<td>966,623,000</td>
+					<td>133,272</td>
+				</tr>
+			
+				<tr>
+					<td>007 스카이폴</td>
+					<td>SKYFALL</td>
+					<td>2011</td>
+					<td>미국,영국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>17,487,213,000</td>
+					<td>2,376,145</td>
+					<td>17,487,818,000</td>
+					<td>2,376,266</td>
+				</tr>
+			
+				<tr>
+					<td>비우티풀</td>
+					<td>Biutiful</td>
+					<td>2010</td>
+					<td>스페인</td>
+					<td>드라마</td>
+					<td>주연-욱스발 역</td>
+					<td>118,874,100</td>
+					<td>15,213</td>
+					<td>120,145,600</td>
+					<td>15,464</td>
+				</tr>
+			
+				<tr>
+					<td>내 남자의 아내도 좋아</td>
+					<td>Vicky Cristina Barcelona</td>
+					<td>2008</td>
+					<td>스페인,미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-후안 안토니오 곤잘로역</td>
+					<td>454,199,063</td>
+					<td>67,202</td>
+					<td>451,244,000</td>
+					<td>66,884</td>
+				</tr>
+			
+				<tr>
+					<td>노인을 위한 나라는 없다</td>
+					<td>No Country For Old Men</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>스릴러,드라마,범죄</td>
+					<td>주연-안톤 시거 역</td>
+					<td>435,417,500</td>
+					<td>64,078</td>
+					<td>598,962,400</td>
+					<td>82,402</td>
+				</tr>
+			
+				<tr>
+					<td>콜레라 시대의 사랑</td>
+					<td>Love in the Time of Cholera</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>고야의 유령</td>
+					<td>Goya&#039;s Ghosts</td>
+					<td>2006</td>
+					<td>스페인</td>
+					<td>드라마</td>
+					<td>주연-로렌조 신부역</td>
+					<td>30,117,500</td>
+					<td>4,511</td>
+					<td>30,755,000</td>
+					<td>4,591</td>
+				</tr>
+			
+				<tr>
+					<td>씨 인사이드</td>
+					<td>The Sea Inside</td>
+					<td>2004</td>
+					<td>스페인,프랑스,이탈리아</td>
+					<td>드라마</td>
+					<td>주연-라몬 삼페드로역</td>
+					<td>0</td>
+					<td>7,378</td>
+					<td>42,196,000</td>
+					<td>6,433</td>
+				</tr>
+			
+				<tr>
+					<td>댄서 업스테어즈</td>
+					<td>The Dancer Upstairs</td>
+					<td>2002</td>
+					<td>미국,스페인</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>햇빛 찬란한 월요일</td>
+					<td>Mondays In The Sun</td>
+					<td>2002</td>
+					<td>스페인,프랑스,이탈리아</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>비포 나잇 폴스</td>
+					<td>Before Night Falls</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>3,022</td>
+					<td>6,567,000</td>
+					<td>948</td>
+				</tr>
+			
+				<tr>
+					<td>당신의 다리 사이</td>
+					<td>Between Your Legs</td>
+					<td>1999</td>
+					<td>스페인</td>
+					<td>미스터리,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>10,280</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>라이브 플래쉬</td>
+					<td>Live Flesh</td>
+					<td>1998</td>
+					<td>스페인</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>16,402</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>프레디타</td>
+					<td>Dance With The Devil</td>
+					<td>1997</td>
+					<td>멕시코,스페인,미국</td>
+					<td>액션,드라마,범죄</td>
+					<td>주연-로미오역</td>
+					<td>0</td>
+					<td>0</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>보카보카</td>
+					<td>Boca A Boca</td>
+					<td>1996</td>
+					<td>스페인</td>
+					<td>성인물(에로),코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,526</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>나는 너의 침대를 사랑한다 </td>
+					<td>Amd Tu Cama Rich</td>
+					<td>1994</td>
+					<td>스페인</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>154</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>골든 볼</td>
+					<td>Golden Balls</td>
+					<td>1993</td>
+					<td>스페인</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>8,910</td>
+					<td>101,000</td>
+					<td>12</td>
+				</tr>
+			
+				<tr>
+					<td>하몽 하몽</td>
+					<td>Jamon Jamon</td>
+					<td>1992</td>
+					<td>스페인</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>129,122</td>
+					<td>62,000</td>
+					<td>7</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

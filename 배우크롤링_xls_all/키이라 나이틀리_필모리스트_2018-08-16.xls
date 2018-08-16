@@ -1,0 +1,359 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '키이라 나이틀리'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>호두까기 인형과 4개의 왕국</td>
+					<td>The Nutcracker and the Four Realms</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>어드벤처,가족,판타지</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>나는 사랑과 시간과 죽음을 만났다</td>
+					<td>Collateral Beauty</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>380,000</td>
+					<td>76</td>
+					<td>380,000</td>
+					<td>76</td>
+				</tr>
+			
+				<tr>
+					<td>에베레스트</td>
+					<td>Everest</td>
+					<td>2015</td>
+					<td>미국,영국</td>
+					<td>어드벤처,드라마,스릴러</td>
+					<td>주연</td>
+					<td>3,055,119,748</td>
+					<td>332,180</td>
+					<td>3,055,119,748</td>
+					<td>332,180</td>
+				</tr>
+			
+				<tr>
+					<td>이미테이션 게임</td>
+					<td>The Imitation Game</td>
+					<td>2014</td>
+					<td>영국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td>13,655,718,120</td>
+					<td>1,743,936</td>
+					<td>13,657,844,120</td>
+					<td>1,744,213</td>
+				</tr>
+			
+				<tr>
+					<td>잭 라이언 : 코드네임 쉐도우</td>
+					<td>Jack Ryan: Shadow Recruit</td>
+					<td>2014</td>
+					<td>미국,러시아</td>
+					<td>액션,드라마,스릴러</td>
+					<td>주연</td>
+					<td>2,395,409,500</td>
+					<td>327,591</td>
+					<td>2,395,391,500</td>
+					<td>327,589</td>
+				</tr>
+			
+				<tr>
+					<td>래기스</td>
+					<td>Laggies</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>비긴 어게인</td>
+					<td>Begin Again</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>27,104,244,061</td>
+					<td>3,428,309</td>
+					<td>27,144,068,361</td>
+					<td>3,434,375</td>
+				</tr>
+			
+				<tr>
+					<td>세상의 끝까지 21일</td>
+					<td>Seeking a Friend for the End of the World</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>드라마,코미디,멜로/로맨스</td>
+					<td>주연-페니역</td>
+					<td>147,141,500</td>
+					<td>19,897</td>
+					<td>147,134,500</td>
+					<td>19,896</td>
+				</tr>
+			
+				<tr>
+					<td>안나 카레니나</td>
+					<td>Anna Karenina</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-안나 카레니나역</td>
+					<td>991,240,500</td>
+					<td>144,499</td>
+					<td>993,721,500</td>
+					<td>145,295</td>
+				</tr>
+			
+				<tr>
+					<td>데인저러스 메소드</td>
+					<td>A Dangerous Method</td>
+					<td>2011</td>
+					<td>영국,독일,캐나다,스위스</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연-사비나 슈필라인역</td>
+					<td>209,863,509</td>
+					<td>27,703</td>
+					<td>210,823,009</td>
+					<td>27,835</td>
+				</tr>
+			
+				<tr>
+					<td>피터팬 : 전설의 시작 </td>
+					<td>Neverland</td>
+					<td>2011</td>
+					<td>영국</td>
+					<td>판타지,어드벤처</td>
+					<td>주연-팅커벨 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>런던 블러바드 무삭제 감독판</td>
+					<td></td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>액션,드라마</td>
+					<td>주연</td>
+					<td>1,190,000</td>
+					<td>175</td>
+					<td>1,190,000</td>
+					<td>175</td>
+				</tr>
+			
+				<tr>
+					<td>런던 블러바드</td>
+					<td>London Boulevard</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td>117,341,000</td>
+					<td>16,959</td>
+					<td>117,475,000</td>
+					<td>16,977</td>
+				</tr>
+			
+				<tr>
+					<td>라스트 나잇</td>
+					<td>Last Night</td>
+					<td>2010</td>
+					<td>미국,프랑스</td>
+					<td>멜로/로맨스</td>
+					<td>주연-조안나 리드역</td>
+					<td>910,843,000</td>
+					<td>119,963</td>
+					<td>910,843,000</td>
+					<td>119,963</td>
+				</tr>
+			
+				<tr>
+					<td>공작부인:세기의 스캔들</td>
+					<td>The Duchess</td>
+					<td>2008</td>
+					<td>미국,영국</td>
+					<td>사극,멜로/로맨스</td>
+					<td>주연</td>
+					<td>1,576,695,833</td>
+					<td>247,373</td>
+					<td>1,594,720,000</td>
+					<td>250,657</td>
+				</tr>
+			
+				<tr>
+					<td>사랑의 순간</td>
+					<td>The Edge of Love</td>
+					<td>2008</td>
+					<td>영국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>어톤먼트</td>
+					<td>Atonement</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>멜로/로맨스,드라마,전쟁</td>
+					<td>주연-세실리아 탤리스 역</td>
+					<td>1,361,527,833</td>
+					<td>209,673</td>
+					<td>1,395,869,700</td>
+					<td>208,984</td>
+				</tr>
+			
+				<tr>
+					<td>더 재킷</td>
+					<td>The Jacket</td>
+					<td>2007</td>
+					<td>미국,영국</td>
+					<td>스릴러,판타지</td>
+					<td>주연</td>
+					<td>606,000</td>
+					<td>94</td>
+					<td>582,377,500</td>
+					<td>87,837</td>
+				</tr>
+			
+				<tr>
+					<td>실크</td>
+					<td>Silk</td>
+					<td>2007</td>
+					<td>캐나다,프랑스,이탈리아,영국,일본</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>조연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>오만과 편견</td>
+					<td>Pride &amp; Prejudice, 2005</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연-엘리자베스 베넷역</td>
+					<td>0</td>
+					<td>938,874</td>
+					<td>5,532,362,200</td>
+					<td>885,247</td>
+				</tr>
+			
+				<tr>
+					<td>도미노</td>
+					<td>Domino</td>
+					<td>2005</td>
+					<td>프랑스,미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>러브액츄얼리: 크리스마스 에디션</td>
+					<td>Love Actually</td>
+					<td>2003</td>
+					<td>미국,영국</td>
+					<td>멜로/로맨스,드라마,코미디</td>
+					<td>주연</td>
+					<td>236,604,147</td>
+					<td>31,032</td>
+					<td>250,177,647</td>
+					<td>32,740</td>
+				</tr>
+			
+				<tr>
+					<td>러브 액츄얼리</td>
+					<td>Love Actually</td>
+					<td>2003</td>
+					<td>미국,영국</td>
+					<td>멜로/로맨스,드라마,코미디</td>
+					<td>주연-쥴리엣역</td>
+					<td>0</td>
+					<td>1,887,000</td>
+					<td>2,144,629,708</td>
+					<td>307,303</td>
+				</tr>
+			
+				<tr>
+					<td>슈팅 라이크 베컴</td>
+					<td>Bend It Like Beckham</td>
+					<td>2002</td>
+					<td>영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>23,700</td>
+					<td>12,000</td>
+					<td>2</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

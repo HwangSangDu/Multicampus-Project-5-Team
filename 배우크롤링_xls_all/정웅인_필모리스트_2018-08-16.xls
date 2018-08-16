@@ -1,0 +1,294 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '정웅인'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>프리즌</td>
+					<td>The Prison</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>범죄,액션</td>
+					<td>조연-강소장역</td>
+					<td>23,790,276,987</td>
+					<td>2,931,897</td>
+					<td>23,790,276,987</td>
+					<td>2,931,897</td>
+				</tr>
+			
+				<tr>
+					<td>슈팅걸스</td>
+					<td>Shooting Girls</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>드라마,가족</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>37,059,000</td>
+					<td>5,423</td>
+				</tr>
+			
+				<tr>
+					<td>컨트롤</td>
+					<td></td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>시간이탈자</td>
+					<td>Time Renegades</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>단역-형철역</td>
+					<td>9,731,838,195</td>
+					<td>1,202,384</td>
+					<td>9,731,838,195</td>
+					<td>1,202,384</td>
+				</tr>
+			
+				<tr>
+					<td>베테랑</td>
+					<td>Veteran</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>액션,드라마</td>
+					<td>조연-배 기사역</td>
+					<td>105,168,155,250</td>
+					<td>13,414,009</td>
+					<td>105,169,264,250</td>
+					<td>13,414,200</td>
+				</tr>
+			
+				<tr>
+					<td>전설의 주먹</td>
+					<td>Fists of Legend</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마,액션</td>
+					<td>주연</td>
+					<td>12,777,314,500</td>
+					<td>1,744,585</td>
+					<td>12,777,314,500</td>
+					<td>1,744,585</td>
+				</tr>
+			
+				<tr>
+					<td>가문의 영광4 - 가문의 수난</td>
+					<td>Unstoppable Family</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>조연</td>
+					<td>17,792,219,500</td>
+					<td>2,368,267</td>
+					<td>17,792,219,500</td>
+					<td>2,368,267</td>
+				</tr>
+			
+				<tr>
+					<td>위험한 상견례</td>
+					<td>Meet the In-Laws</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>조연</td>
+					<td>19,174,920,500</td>
+					<td>2,595,625</td>
+					<td>19,174,920,500</td>
+					<td>2,595,625</td>
+				</tr>
+			
+				<tr>
+					<td>유감스러운 도시</td>
+					<td>City Of Damnation</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>코미디,액션,범죄</td>
+					<td>주연</td>
+					<td>10,300,187,478</td>
+					<td>1,534,911</td>
+					<td>10,289,635,500</td>
+					<td>1,532,632</td>
+				</tr>
+			
+				<tr>
+					<td>잘못된 만남</td>
+					<td>Santamaria</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>308,898,000</td>
+					<td>47,557</td>
+					<td>308,882,000</td>
+					<td>47,555</td>
+				</tr>
+			
+				<tr>
+					<td>미친 거 아니야?! </td>
+					<td></td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>투사부일체</td>
+					<td>My Boss, My Teacher</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>6,105,431</td>
+					<td>31,959,686,000</td>
+					<td>5,074,314</td>
+				</tr>
+			
+				<tr>
+					<td>마법사들</td>
+					<td>The Magicians</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>6,300</td>
+					<td>42,782,900</td>
+					<td>7,254</td>
+				</tr>
+			
+				<tr>
+					<td>마법사(들)</td>
+					<td>Magician(s)</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>돈 텔 파파</td>
+					<td>Raising My Dad</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>880,744</td>
+					<td>3,481,025,000</td>
+					<td>558,745</td>
+				</tr>
+			
+				<tr>
+					<td>써클</td>
+					<td>The Circle</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>32,256</td>
+					<td>1,604,500</td>
+					<td>242</td>
+				</tr>
+			
+				<tr>
+					<td>2424</td>
+					<td></td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>코미디,액션</td>
+					<td>주연</td>
+					<td></td>
+					<td>59,906</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>두사부일체</td>
+					<td>My Boss, My Hero</td>
+					<td>2001</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,228,142</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>반칙왕</td>
+					<td>The Foul King</td>
+					<td>2000</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>조연-두식역</td>
+					<td>0</td>
+					<td>787,423</td>
+					<td>602,000</td>
+					<td>80</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

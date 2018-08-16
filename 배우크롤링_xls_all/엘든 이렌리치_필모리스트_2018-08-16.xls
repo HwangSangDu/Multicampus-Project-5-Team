@@ -1,0 +1,99 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '엘든 이렌리치'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>한 솔로: 스타워즈 스토리</td>
+					<td>Solo: A Star Wars Story</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>액션,SF</td>
+					<td>주연</td>
+					<td>1,964,309,778</td>
+					<td>213,986</td>
+					<td>1,964,276,778</td>
+					<td>213,980</td>
+				</tr>
+			
+				<tr>
+					<td>헤일, 시저!</td>
+					<td>Hail, Caesar!</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>271,122,300</td>
+					<td>34,295</td>
+					<td>271,444,300</td>
+					<td>34,331</td>
+				</tr>
+			
+				<tr>
+					<td>뷰티풀 크리처스</td>
+					<td>Beautiful Creatures</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>스릴러,액션,판타지,멜로/로맨스</td>
+					<td>주연</td>
+					<td>582,030,544</td>
+					<td>82,995</td>
+					<td>582,030,544</td>
+					<td>82,995</td>
+				</tr>
+			
+				<tr>
+					<td>테트로</td>
+					<td>Tetro</td>
+					<td>2009</td>
+					<td>미국,이탈리아,스페인,아르헨티나</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

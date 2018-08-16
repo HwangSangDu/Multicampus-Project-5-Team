@@ -1,0 +1,489 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '여명'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>주전 : 와인전쟁</td>
+					<td>WINE WAR</td>
+					<td>2017</td>
+					<td>홍콩</td>
+					<td>액션,코미디</td>
+					<td>감독,주연-윌리역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>실종 : 택시 납치 사건</td>
+					<td>The Guest</td>
+					<td>2016</td>
+					<td>중국</td>
+					<td>범죄,스릴러</td>
+					<td>주연</td>
+					<td>181,000</td>
+					<td>62</td>
+					<td>181,000</td>
+					<td>62</td>
+				</tr>
+			
+				<tr>
+					<td>야공작</td>
+					<td>NIGHT PEACOCK</td>
+					<td>2015</td>
+					<td>중국,프랑스</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>705,500</td>
+					<td>99</td>
+					<td>897,000</td>
+					<td>130</td>
+				</tr>
+			
+				<tr>
+					<td>더 시크릿</td>
+					<td>The Secret</td>
+					<td>2015</td>
+					<td>홍콩</td>
+					<td>판타지,멜로/로맨스</td>
+					<td>주연</td>
+					<td>5,160,000</td>
+					<td>782</td>
+					<td>5,258,000</td>
+					<td>798</td>
+				</tr>
+			
+				<tr>
+					<td>양귀비 : 왕조의 여인</td>
+					<td>Lady of the Dynasty</td>
+					<td>2015</td>
+					<td>중국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>960,000</td>
+					<td>186</td>
+					<td>3,013,000</td>
+					<td>786</td>
+				</tr>
+			
+				<tr>
+					<td>초한지 - 천하대전 감독판</td>
+					<td>White Vengeance</td>
+					<td>2011</td>
+					<td>중국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>215,000</td>
+					<td>43</td>
+					<td>215,000</td>
+					<td>43</td>
+				</tr>
+			
+				<tr>
+					<td>초한지 - 천하대전</td>
+					<td>White Vengeance</td>
+					<td>2011</td>
+					<td>중국,홍콩</td>
+					<td>액션</td>
+					<td>주연-유방역</td>
+					<td>710,375,000</td>
+					<td>94,652</td>
+					<td>710,375,000</td>
+					<td>94,652</td>
+				</tr>
+			
+				<tr>
+					<td>화룡대결</td>
+					<td>Fire Of Conscience</td>
+					<td>2010</td>
+					<td>홍콩</td>
+					<td>액션,스릴러,미스터리</td>
+					<td>주연</td>
+					<td>1,510,000</td>
+					<td>302</td>
+					<td>1,510,000</td>
+					<td>302</td>
+				</tr>
+			
+				<tr>
+					<td>8인: 최후의 결사단</td>
+					<td>Bodyguards And Assassins</td>
+					<td>2009</td>
+					<td>중국</td>
+					<td>액션,사극</td>
+					<td>주연</td>
+					<td>878,708,580</td>
+					<td>116,788</td>
+					<td>864,912,500</td>
+					<td>114,929</td>
+				</tr>
+			
+				<tr>
+					<td>매란방</td>
+					<td>Forever Enthralled</td>
+					<td>2008</td>
+					<td>중국</td>
+					<td>드라마,사극,멜로/로맨스</td>
+					<td>주연-매란방역</td>
+					<td>284,904,682</td>
+					<td>44,131</td>
+					<td>275,367,000</td>
+					<td>42,723</td>
+				</tr>
+			
+				<tr>
+					<td>연의 황후</td>
+					<td>An Empress And The Warriors</td>
+					<td>2008</td>
+					<td>홍콩</td>
+					<td>사극,드라마,액션,멜로/로맨스,판타지</td>
+					<td>주연-난천 역</td>
+					<td>1,283,731,833</td>
+					<td>199,200</td>
+					<td>1,282,975,500</td>
+					<td>197,011</td>
+				</tr>
+			
+				<tr>
+					<td>사랑에서 영혼으로</td>
+					<td>The Matrimony</td>
+					<td>2007</td>
+					<td>홍콩,중국</td>
+					<td>스릴러,드라마,공포(호러),멜로/로맨스</td>
+					<td>주연-준추역</td>
+					<td>67,001</td>
+					<td>9</td>
+					<td>66,000</td>
+					<td>9</td>
+				</tr>
+			
+				<tr>
+					<td>칠검</td>
+					<td>Seven Swords</td>
+					<td>2005</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>328,637</td>
+					<td>1,825,137,500</td>
+					<td>285,194</td>
+				</tr>
+			
+				<tr>
+					<td>정의아심지</td>
+					<td>Moonlight In Tokyo</td>
+					<td>2005</td>
+					<td>홍콩</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>대성소사</td>
+					<td>Leaving Me Loving You</td>
+					<td>2004</td>
+					<td>홍콩</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>무간도3 - 종극무간</td>
+					<td>Infernal Affairs III</td>
+					<td>2003</td>
+					<td>홍콩</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>44,000</td>
+					<td>363,509,000</td>
+					<td>54,369</td>
+				</tr>
+			
+				<tr>
+					<td>쌍웅</td>
+					<td>Heroic Duo</td>
+					<td>2003</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>15,400</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>쓰리</td>
+					<td>Three</td>
+					<td>2002</td>
+					<td>한국,홍콩,태국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td>69,778</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>천사몽</td>
+					<td>Dream Of Warrior</td>
+					<td>2001</td>
+					<td>한국</td>
+					<td>SF</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>12,612</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>발렌타인 데이</td>
+					<td>Everyday is Valentine</td>
+					<td>2001</td>
+					<td>홍콩</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>불사정미</td>
+					<td>Bullets Of Love</td>
+					<td>2001</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>소살리토</td>
+					<td>Sausalito</td>
+					<td>2000</td>
+					<td>홍콩</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>30,456</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>신투차세대</td>
+					<td>Skyline Cruisers</td>
+					<td>2000</td>
+					<td>홍콩</td>
+					<td>범죄,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,543</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>더 히어로 </td>
+					<td>A Hero Never Dies</td>
+					<td>1998</td>
+					<td>중국,홍콩</td>
+					<td>범죄,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>4,442</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>유리의 성</td>
+					<td>City Of Glass</td>
+					<td>1998</td>
+					<td>중국,홍콩</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>126,124</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>반생연</td>
+					<td>Eighteen Springs</td>
+					<td>1997</td>
+					<td>중국,홍콩</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>6,583</td>
+					<td>0</td>
+					<td>0</td>
+				</tr>
+			
+				<tr>
+					<td>도신불패 </td>
+					<td>God Of Gamblers 3: The Early Stage</td>
+					<td>1996</td>
+					<td>홍콩</td>
+					<td>액션,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,903</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>첨밀밀 </td>
+					<td>Comrades: Almost A Love Story</td>
+					<td>1996</td>
+					<td>홍콩</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>63,366</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>타락천사</td>
+					<td>Fallen Angels</td>
+					<td>1995</td>
+					<td>홍콩</td>
+					<td>드라마</td>
+					<td>주연-황지민역</td>
+					<td>0</td>
+					<td>151,163</td>
+					<td>8,913,000</td>
+					<td>1,251</td>
+				</tr>
+			
+				<tr>
+					<td>선인장 </td>
+					<td>Run</td>
+					<td>1994</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>311</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>불초자 열혈남아 </td>
+					<td>Love And The City</td>
+					<td>1994</td>
+					<td>홍콩</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>19,503</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>비호외전 </td>
+					<td>The Sword Of Many Loves</td>
+					<td>1993</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>6,620</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>요수도시</td>
+					<td>The Wicked City</td>
+					<td>1992</td>
+					<td>홍콩</td>
+					<td>공포(호러),액션,SF</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>12,973</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>폭열도시</td>
+					<td>Fire City</td>
+					<td>1991</td>
+					<td>홍콩</td>
+					<td>액션,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,543</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

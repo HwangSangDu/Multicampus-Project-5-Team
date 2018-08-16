@@ -1,0 +1,294 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '장동건'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>7년의 밤</td>
+					<td>Seven Years of Night</td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>스릴러,드라마</td>
+					<td>주연-오영제역</td>
+					<td>3,969,375,524</td>
+					<td>528,014</td>
+					<td>3,969,337,524</td>
+					<td>528,007</td>
+				</tr>
+			
+				<tr>
+					<td>창궐</td>
+					<td></td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>사극,액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>브이아이피</td>
+					<td>V.I.P.</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td>10,956,621,835</td>
+					<td>1,373,316</td>
+					<td>10,956,621,835</td>
+					<td>1,373,316</td>
+				</tr>
+			
+				<tr>
+					<td>우는 남자</td>
+					<td>No Tears for the Dead</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>액션,드라마</td>
+					<td>주연</td>
+					<td>4,923,607,800</td>
+					<td>603,409</td>
+					<td>4,924,852,800</td>
+					<td>603,495</td>
+				</tr>
+			
+				<tr>
+					<td>위험한 관계</td>
+					<td>Dangerous Liaisons</td>
+					<td>2012</td>
+					<td>중국</td>
+					<td>멜로/로맨스,전쟁,드라마</td>
+					<td>주연-셰이판역</td>
+					<td>2,122,666,230</td>
+					<td>298,086</td>
+					<td>2,122,666,230</td>
+					<td>298,086</td>
+				</tr>
+			
+				<tr>
+					<td>마이 웨이</td>
+					<td>My Way</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>전쟁,액션,드라마</td>
+					<td>주연</td>
+					<td>15,994,803,000</td>
+					<td>2,142,622</td>
+					<td>15,995,187,000</td>
+					<td>2,142,670</td>
+				</tr>
+			
+				<tr>
+					<td>워리어스 웨이</td>
+					<td>Warrior&#039;s Way</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>액션,판타지</td>
+					<td>주연-양역</td>
+					<td>3,134,328,730</td>
+					<td>437,101</td>
+					<td>3,097,461,500</td>
+					<td>432,072</td>
+				</tr>
+			
+				<tr>
+					<td>굿모닝 프레지던트</td>
+					<td>Good Morning President</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>주연-차지욱 역</td>
+					<td>18,770,889,320</td>
+					<td>2,583,294</td>
+					<td>18,567,863,300</td>
+					<td>2,554,960</td>
+				</tr>
+			
+				<tr>
+					<td>무극</td>
+					<td>The Promise</td>
+					<td>2005</td>
+					<td>중국</td>
+					<td>멜로/로맨스,액션,판타지</td>
+					<td>주연-쿤룬역</td>
+					<td>0</td>
+					<td>798,091</td>
+					<td>4,308,635,500</td>
+					<td>685,561</td>
+				</tr>
+			
+				<tr>
+					<td>태풍</td>
+					<td>Typhoon</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>드라마,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>4,094,395</td>
+					<td>22,209,675,300</td>
+					<td>3,471,150</td>
+				</tr>
+			
+				<tr>
+					<td>태극기 휘날리며</td>
+					<td>TaeGukGi: Brotherhood Of War</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>전쟁,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>11,746,135</td>
+					<td>15,688,614,500</td>
+					<td>2,545,566</td>
+				</tr>
+			
+				<tr>
+					<td>해안선</td>
+					<td>The Coast Guard</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td>123,633</td>
+					<td>0</td>
+					<td>0</td>
+				</tr>
+			
+				<tr>
+					<td>2009로스트메모리즈</td>
+					<td>2009 Lost Memories</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>SF,액션,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td>856,150</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>친구</td>
+					<td>Friend</td>
+					<td>2001</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-동수역</td>
+					<td>0</td>
+					<td>2,678,846</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아나키스트</td>
+					<td>The Anarchists</td>
+					<td>2000</td>
+					<td>한국</td>
+					<td>사극,액션</td>
+					<td>주연-세르게이역</td>
+					<td>0</td>
+					<td>236,990</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>인정사정 볼 것 없다</td>
+					<td>Nowhere To Hide</td>
+					<td>1999</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>주연-김형사역</td>
+					<td>0</td>
+					<td>664,861</td>
+					<td>1,943,500</td>
+					<td>270</td>
+				</tr>
+			
+				<tr>
+					<td>연풍연가</td>
+					<td>Love Wind, Love Song</td>
+					<td>1998</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연-태희역</td>
+					<td>0</td>
+					<td>92,574</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>홀리데이 인 서울</td>
+					<td>Holiday Inn Seoul</td>
+					<td>1997</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>36,474</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>패자부활전</td>
+					<td>Repechage</td>
+					<td>1997</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>98,544</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

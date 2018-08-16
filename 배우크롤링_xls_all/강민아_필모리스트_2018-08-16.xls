@@ -1,0 +1,112 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '강민아'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>박화영</td>
+					<td>Park Hwa-young</td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>23,188,500</td>
+					<td>2,909</td>
+				</tr>
+			
+				<tr>
+					<td>히야</td>
+					<td>HIYA</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연</td>
+					<td>173,844,100</td>
+					<td>21,687</td>
+					<td>173,844,100</td>
+					<td>21,687</td>
+				</tr>
+			
+				<tr>
+					<td>남자가 사랑할 때</td>
+					<td>Man In Love</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>조연-송지역</td>
+					<td>14,510,222,300</td>
+					<td>1,979,311</td>
+					<td>14,515,828,300</td>
+					<td>1,980,050</td>
+				</tr>
+			
+				<tr>
+					<td>청포도 사탕: 17년 전의 약속</td>
+					<td>Grape Candy</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마,미스터리</td>
+					<td>조연-어린 소라역</td>
+					<td>11,294,500</td>
+					<td>1,600</td>
+					<td>11,545,500</td>
+					<td>1,637</td>
+				</tr>
+			
+				<tr>
+					<td>통증</td>
+					<td>Pain</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>단역-남순 누나역</td>
+					<td>5,246,996,000</td>
+					<td>700,272</td>
+					<td>5,246,996,000</td>
+					<td>700,272</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

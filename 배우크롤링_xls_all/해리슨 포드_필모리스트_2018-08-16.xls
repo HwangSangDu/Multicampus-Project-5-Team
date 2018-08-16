@@ -1,0 +1,528 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '해리슨 포드'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>블레이드 러너 2049</td>
+					<td>Blade Runner 2049</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>SF,액션</td>
+					<td>주연-릭 데카드역</td>
+					<td>2,764,093,365</td>
+					<td>321,424</td>
+					<td>2,774,970,765</td>
+					<td>322,664</td>
+				</tr>
+			
+				<tr>
+					<td>스타워즈: 깨어난 포스</td>
+					<td>Star Wars : The Force Awakens</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지</td>
+					<td>주연</td>
+					<td>28,353,796,331</td>
+					<td>3,273,879</td>
+					<td>28,353,796,331</td>
+					<td>3,273,879</td>
+				</tr>
+			
+				<tr>
+					<td>익스펜더블 3</td>
+					<td>The Expendables 3</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>액션,어드벤처,스릴러</td>
+					<td>주연</td>
+					<td>1,158,358,800</td>
+					<td>152,025</td>
+					<td>1,158,398,800</td>
+					<td>152,033</td>
+				</tr>
+			
+				<tr>
+					<td>파라노이아</td>
+					<td>Paranoia</td>
+					<td>2013</td>
+					<td>미국,프랑스</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td>8,000</td>
+					<td>1</td>
+					<td>8,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>엔더스 게임</td>
+					<td>Ender&#039;s Game</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>SF,액션,어드벤처</td>
+					<td>주연</td>
+					<td>4,925,056,000</td>
+					<td>654,212</td>
+					<td>4,925,056,000</td>
+					<td>654,212</td>
+				</tr>
+			
+				<tr>
+					<td>42</td>
+					<td>42</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-브랜치 릭키 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>카우보이 &amp; 에이리언</td>
+					<td>Cowboys &amp; Aliens</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>액션,SF,스릴러</td>
+					<td>주연-달러하이드 대령역</td>
+					<td>1,930,249,000</td>
+					<td>256,346</td>
+					<td>1,930,249,000</td>
+					<td>256,346</td>
+				</tr>
+			
+				<tr>
+					<td>굿모닝 에브리원</td>
+					<td>Morning Glory</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>드라마,코미디,멜로/로맨스</td>
+					<td>주연-마이크 포메로이역</td>
+					<td>1,562,415,000</td>
+					<td>202,667</td>
+					<td>1,563,223,000</td>
+					<td>202,869</td>
+				</tr>
+			
+				<tr>
+					<td>크로싱 오버</td>
+					<td>Crossing Over</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>100,000</td>
+					<td>10</td>
+					<td>100,000</td>
+					<td>10</td>
+				</tr>
+			
+				<tr>
+					<td>해리슨포드의 특별조치</td>
+					<td>Extraordinary Measures </td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-닥터 로버트 스톤힐 역 역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>인디아나 존스 4 : 크리스탈 해골의 왕국</td>
+					<td>Indiana Jones And The Kingdom Of The Crystal Skull</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>액션,어드벤처</td>
+					<td>주연</td>
+					<td>26,693,951,667</td>
+					<td>4,136,101</td>
+					<td>26,689,440,000</td>
+					<td>4,111,753</td>
+				</tr>
+			
+				<tr>
+					<td>파이어월</td>
+					<td>Firewall</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>액션,스릴러,범죄</td>
+					<td>주연-잭 스탠필드역</td>
+					<td>0</td>
+					<td>148,600</td>
+					<td>890,321,000</td>
+					<td>139,423</td>
+				</tr>
+			
+				<tr>
+					<td>호미사이드</td>
+					<td>Hollywood Homicide</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>액션,범죄,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>14,000</td>
+					<td>13,968,000</td>
+					<td>2,067</td>
+				</tr>
+			
+				<tr>
+					<td>K-19</td>
+					<td>K-19 : The Widowmaker</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연-알렉세이 보스트리코브역</td>
+					<td>0</td>
+					<td>79,900</td>
+					<td>0</td>
+					<td>0</td>
+				</tr>
+			
+				<tr>
+					<td>왓 라이즈 비니스</td>
+					<td>What Lies Beneath</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>공포(호러),미스터리,스릴러</td>
+					<td>주연-닥터 노만 스펜서역</td>
+					<td>0</td>
+					<td>281,598</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>랜덤 하트</td>
+					<td>Random Hearts</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>드라마,미스터리,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>71,178</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>식스 데이 세븐 나잇 </td>
+					<td>Six Days Seven Nights</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>액션,코미디,멜로/로맨스,어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>251,925</td>
+					<td>222,000</td>
+					<td>74</td>
+				</tr>
+			
+				<tr>
+					<td>에어 포스 원</td>
+					<td>Air Force One</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>드라마,액션,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>663,415</td>
+					<td>75,000</td>
+					<td>23</td>
+				</tr>
+			
+				<tr>
+					<td>데블스 오운</td>
+					<td>The Devil&#039;s Own</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>미스터리,스릴러,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>183,922</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사브리나 </td>
+					<td>Sabrina</td>
+					<td>1995</td>
+					<td>미국,독일</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>43,711</td>
+					<td>2,169,000</td>
+					<td>1,061</td>
+				</tr>
+			
+				<tr>
+					<td>해리슨 포드의 긴급명령 </td>
+					<td>Clear And Present Danger</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>드라마,스릴러,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>218,486</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>해리슨 포드의 도망자</td>
+					<td>The Fugitive</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>드라마,스릴러,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>477,814</td>
+					<td>215,000</td>
+					<td>71</td>
+				</tr>
+			
+				<tr>
+					<td>패트리어트 게임</td>
+					<td>Patriot Games</td>
+					<td>1992</td>
+					<td>미국</td>
+					<td>스릴러,액션,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>140,908</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>헨리의 이야기</td>
+					<td>Regarding Henry</td>
+					<td>1991</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>50,963</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>의혹</td>
+					<td>Presumed Innocent</td>
+					<td>1990</td>
+					<td>미국</td>
+					<td>드라마,미스터리,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>109,895</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>인디아나 존스 : 최후의 성전</td>
+					<td>Indiana Jones And The Last Crusade</td>
+					<td>1989</td>
+					<td>미국</td>
+					<td>액션,어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>491,010</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>워킹걸</td>
+					<td>Working Girl</td>
+					<td>1988</td>
+					<td>미국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>89,169</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>모스키토 코스트</td>
+					<td>The Mosquito Coast</td>
+					<td>1986</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-앨리 폭스역</td>
+					<td>0</td>
+					<td>27,636</td>
+					<td>356,000</td>
+					<td>74</td>
+				</tr>
+			
+				<tr>
+					<td>위트니스 </td>
+					<td>Witness</td>
+					<td>1985</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>193,765</td>
+					<td>171,000</td>
+					<td>57</td>
+				</tr>
+			
+				<tr>
+					<td>인디아나 존스 - 마궁의 사원, 저주받은 사원 </td>
+					<td>Indiana Jones And The Temple Of Doom</td>
+					<td>1984</td>
+					<td>미국</td>
+					<td>액션,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>808,492</td>
+					<td>144,000</td>
+					<td>48</td>
+				</tr>
+			
+				<tr>
+					<td>제다이의 귀환</td>
+					<td>Return of the Jedi </td>
+					<td>1983</td>
+					<td>미국</td>
+					<td>SF,어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>181,883</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>블레이드 러너: 파이널 컷</td>
+					<td>Blade Runner : Final Cut</td>
+					<td>1982</td>
+					<td>미국</td>
+					<td>SF,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>7,222</td>
+					<td>75,822,633</td>
+					<td>8,500</td>
+				</tr>
+			
+				<tr>
+					<td>레이더스</td>
+					<td>Raiders Of The Lost Ark</td>
+					<td>1981</td>
+					<td>미국</td>
+					<td>액션,어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>348,489</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>제국의 역습</td>
+					<td>The Empire Strikes Back</td>
+					<td>1980</td>
+					<td>미국</td>
+					<td>SF,액션,어드벤처,판타지</td>
+					<td>주연-한 솔로역</td>
+					<td>0</td>
+					<td>78,004</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>하노버스트리트</td>
+					<td>Hanover Street</td>
+					<td>1979</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>257,985</td>
+					<td>50,000</td>
+					<td>25</td>
+				</tr>
+			
+				<tr>
+					<td>나바론 2</td>
+					<td>Force Ten From Navarone</td>
+					<td>1978</td>
+					<td>미국,영국</td>
+					<td>액션,전쟁</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>436,000</td>
+					<td>161</td>
+				</tr>
+			
+				<tr>
+					<td>스타워즈 에피소드 4 - 새로운 희망 </td>
+					<td>Star Wars Episode Iv : A New Hope</td>
+					<td>1977</td>
+					<td>미국</td>
+					<td>SF,가족,액션,어드벤처,전쟁</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>347,255</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

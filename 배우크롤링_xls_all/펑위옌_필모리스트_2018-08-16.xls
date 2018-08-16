@@ -1,0 +1,281 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '펑위옌'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>승풍파랑</td>
+					<td>Duckweed</td>
+					<td>2017</td>
+					<td>홍콩</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>1,973,000</td>
+					<td>394</td>
+					<td>2,258,000</td>
+					<td>448</td>
+				</tr>
+			
+				<tr>
+					<td>그날은 오리라</td>
+					<td>Our Time Will Come</td>
+					<td>2017</td>
+					<td>중국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>손오공</td>
+					<td>Wu Kong</td>
+					<td>2017</td>
+					<td>중국</td>
+					<td>액션,판타지,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>그레이트 월</td>
+					<td>The Great Wall</td>
+					<td>2016</td>
+					<td>미국,중국</td>
+					<td>판타지,액션</td>
+					<td>주연</td>
+					<td>4,355,441,358</td>
+					<td>501,486</td>
+					<td>4,355,441,358</td>
+					<td>501,486</td>
+				</tr>
+			
+				<tr>
+					<td>코드네임 : 콜드워</td>
+					<td>Cold War 2</td>
+					<td>2016</td>
+					<td>홍콩</td>
+					<td>범죄,액션</td>
+					<td>주연</td>
+					<td>11,813,500</td>
+					<td>1,570</td>
+					<td>11,813,500</td>
+					<td>1,570</td>
+				</tr>
+			
+				<tr>
+					<td>오퍼레이션 메콩</td>
+					<td>Operation Mekong</td>
+					<td>2016</td>
+					<td>중국</td>
+					<td>범죄,액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아현재상애: 나 이제 사랑하고 싶어</td>
+					<td>The Last Women Standing</td>
+					<td>2015</td>
+					<td>중국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>파풍: 스피드 매치</td>
+					<td>To The Fore</td>
+					<td>2015</td>
+					<td>홍콩</td>
+					<td>드라마,스릴러,액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>479,000</td>
+					<td>50</td>
+				</tr>
+			
+				<tr>
+					<td>라이즈 오브 더 레전드: 황비홍</td>
+					<td>Rise Of The Legend</td>
+					<td>2014</td>
+					<td>홍콩,중국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>41,368,000</td>
+					<td>5,228</td>
+					<td>41,368,000</td>
+					<td>5,228</td>
+				</tr>
+			
+				<tr>
+					<td>격전</td>
+					<td>Unbeatable</td>
+					<td>2013</td>
+					<td>홍콩,중국</td>
+					<td>액션,드라마</td>
+					<td>주연</td>
+					<td>100,000</td>
+					<td>10</td>
+					<td>100,000</td>
+					<td>10</td>
+				</tr>
+			
+				<tr>
+					<td>이별계약</td>
+					<td>A Wedding Invitation</td>
+					<td>2013</td>
+					<td>한국,중국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>127,495,500</td>
+					<td>17,797</td>
+					<td>131,408,000</td>
+					<td>18,343</td>
+				</tr>
+			
+				<tr>
+					<td>콜드 워</td>
+					<td>Cold War</td>
+					<td>2012</td>
+					<td>홍콩</td>
+					<td>범죄,액션</td>
+					<td>주연</td>
+					<td>18,621,500</td>
+					<td>3,010</td>
+					<td>18,621,500</td>
+					<td>3,010</td>
+				</tr>
+			
+				<tr>
+					<td>타이치0 3D</td>
+					<td>Taichi Zero</td>
+					<td>2012</td>
+					<td>홍콩</td>
+					<td>코미디,액션</td>
+					<td>주연</td>
+					<td>119,998,000</td>
+					<td>17,437</td>
+					<td>120,385,000</td>
+					<td>17,480</td>
+				</tr>
+			
+				<tr>
+					<td>러브</td>
+					<td>LOVE</td>
+					<td>2012</td>
+					<td>대만,중국</td>
+					<td>드라마,멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>5,205,500</td>
+					<td>676</td>
+					<td>9,321,000</td>
+					<td>1,337</td>
+				</tr>
+			
+				<tr>
+					<td>점프 아쉰</td>
+					<td>Jump Ashin</td>
+					<td>2011</td>
+					<td>대만</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>5,231,900</td>
+					<td>696</td>
+					<td>5,273,900</td>
+					<td>703</td>
+				</tr>
+			
+				<tr>
+					<td>실연33일</td>
+					<td>LOVE is not blind</td>
+					<td>2011</td>
+					<td>중국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,558,000</td>
+					<td>177</td>
+				</tr>
+			
+				<tr>
+					<td>청설</td>
+					<td>Hear Me</td>
+					<td>2009</td>
+					<td>대만</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>112,668,948</td>
+					<td>15,116</td>
+					<td>121,582,000</td>
+					<td>16,430</td>
+				</tr>
+			
+				<tr>
+					<td>6호 출구</td>
+					<td>Exit No.6</td>
+					<td>2006</td>
+					<td>대만</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

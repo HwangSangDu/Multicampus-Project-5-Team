@@ -1,0 +1,307 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '제프 골드블럼'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>호텔 아르테미스</td>
+					<td>Hotel Artemis </td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>액션,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>646,109,500</td>
+					<td>77,792</td>
+				</tr>
+			
+				<tr>
+					<td>쥬라기 월드: 폴른 킹덤</td>
+					<td>JURASSIC WORLD: FALLEN KINGDOM</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>액션,어드벤처,SF</td>
+					<td>주연</td>
+					<td>48,576,443,937</td>
+					<td>5,519,298</td>
+					<td>49,770,711,037</td>
+					<td>5,661,128</td>
+				</tr>
+			
+				<tr>
+					<td>토르: 라그나로크</td>
+					<td>THOR: RAGNAROK</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지,SF</td>
+					<td>주연</td>
+					<td>39,248,432,595</td>
+					<td>4,857,152</td>
+					<td>39,251,492,595</td>
+					<td>4,857,458</td>
+				</tr>
+			
+				<tr>
+					<td>인디펜던스 데이 : 리써전스</td>
+					<td>Independence Day: Resurgence</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,어드벤처,SF</td>
+					<td>주연</td>
+					<td>12,770,879,840</td>
+					<td>1,500,830</td>
+					<td>12,770,879,840</td>
+					<td>1,500,830</td>
+				</tr>
+			
+				<tr>
+					<td>잠베지아: 신비한 나무섬의 비밀</td>
+					<td>Zambezia</td>
+					<td>2012</td>
+					<td>남아프리카공화국,미국</td>
+					<td>애니메이션</td>
+					<td>주연-아약스역(목소리)</td>
+					<td>3,333,947,000</td>
+					<td>472,692</td>
+					<td>3,333,947,000</td>
+					<td>472,692</td>
+				</tr>
+			
+				<tr>
+					<td>애덤 레져렉티드</td>
+					<td>Adam Resurrected</td>
+					<td>2008</td>
+					<td>독일,미국,이스라엘</td>
+					<td>드라마,전쟁</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>페이 그림</td>
+					<td>Fay Grim</td>
+					<td>2006</td>
+					<td>미국,독일</td>
+					<td>액션,스릴러,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>달라스 362</td>
+					<td>Dallas 362</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>써스피션</td>
+					<td>Auggie Rose</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>미스터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>체인 오브 풀스</td>
+					<td>Chain Of Fools</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>코미디,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>홀리 맨</td>
+					<td>Holy Man</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>쥬라기 공원 2 - 잃어버린 세계 </td>
+					<td>The Lost World: Jurassic Park</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>어드벤처,액션,스릴러,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,001,279</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>트리거해피</td>
+					<td>Mad Dog Time</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>범죄,드라마,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,074</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>파우더</td>
+					<td>Powder</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>드라마,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>104</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>쥬라기 공원</td>
+					<td>Jurassic Park</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>SF,액션,어드벤처</td>
+					<td>주연-이안 말콤 박사역</td>
+					<td>0</td>
+					<td>1,063,352</td>
+					<td>524,340,000</td>
+					<td>43,187</td>
+				</tr>
+			
+				<tr>
+					<td>러쉬 라이프</td>
+					<td>Lush Life</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-알 고르키역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>딥 커버</td>
+					<td>Deep Cover</td>
+					<td>1992</td>
+					<td>미국</td>
+					<td>액션,범죄,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>이지 걸</td>
+					<td>Earth Girls Are Easy</td>
+					<td>1988</td>
+					<td>미국</td>
+					<td>코미디,뮤지컬,SF</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>8,485</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>플라이</td>
+					<td>The Fly</td>
+					<td>1986</td>
+					<td>미국</td>
+					<td>공포(호러),SF</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>새로운 탄생</td>
+					<td>The Big Chill</td>
+					<td>1983</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>538,000</td>
+					<td>114</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

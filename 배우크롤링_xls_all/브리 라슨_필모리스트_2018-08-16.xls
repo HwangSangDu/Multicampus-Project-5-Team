@@ -1,0 +1,138 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '브리 라슨'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>콩: 스컬 아일랜드</td>
+					<td>Kong: Skull Island</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지</td>
+					<td>주연</td>
+					<td>13,990,563,383</td>
+					<td>1,689,717</td>
+					<td>13,990,563,383</td>
+					<td>1,689,717</td>
+				</tr>
+			
+				<tr>
+					<td>프리 파이어</td>
+					<td>Free Fire</td>
+					<td>2016</td>
+					<td>프랑스,영국</td>
+					<td>액션,범죄,드라마</td>
+					<td>주연</td>
+					<td>6,497,500</td>
+					<td>842</td>
+					<td>6,497,500</td>
+					<td>842</td>
+				</tr>
+			
+				<tr>
+					<td>룸</td>
+					<td>Room</td>
+					<td>2015</td>
+					<td>아일랜드,캐나다</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>698,397,700</td>
+					<td>87,328</td>
+					<td>700,569,900</td>
+					<td>87,673</td>
+				</tr>
+			
+				<tr>
+					<td>숏텀 12</td>
+					<td>Short Term 12</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>2,758,000</td>
+					<td>398</td>
+					<td>2,758,000</td>
+					<td>398</td>
+				</tr>
+			
+				<tr>
+					<td>트러블 위드 블리스</td>
+					<td>The Trouble with Bliss</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>385,000</td>
+					<td>77</td>
+					<td>385,000</td>
+					<td>77</td>
+				</tr>
+			
+				<tr>
+					<td>기숙학교: 금지된 일탈</td>
+					<td>Tanner Hall</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>8,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>훗</td>
+					<td>Hoot</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>어드벤처,코미디,가족</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,398 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '엘리자베스 뱅크스'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>파워레인져스: 더 비기닝</td>
+					<td>Power Rangers</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지,SF</td>
+					<td>조연-리타 레풀사 역역</td>
+					<td>570,203,561</td>
+					<td>72,495</td>
+					<td>577,103,561</td>
+					<td>73,875</td>
+				</tr>
+			
+				<tr>
+					<td>헝거게임: 더 파이널</td>
+					<td>The Hunger Games: Mockingjay - Part 2</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션,어드벤처</td>
+					<td>주연</td>
+					<td>6,070,679,163</td>
+					<td>806,709</td>
+					<td>6,070,679,163</td>
+					<td>806,709</td>
+				</tr>
+			
+				<tr>
+					<td>러브 앤 머시</td>
+					<td>Love &amp; Mercy</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>211,780,800</td>
+					<td>26,812</td>
+					<td>213,567,000</td>
+					<td>27,291</td>
+				</tr>
+			
+				<tr>
+					<td>피치 퍼펙트: 언프리티 걸즈</td>
+					<td>Pitch Perfect 2</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>코미디,뮤지컬</td>
+					<td>감독</td>
+					<td>591,516,497</td>
+					<td>75,598</td>
+					<td>591,516,497</td>
+					<td>75,598</td>
+				</tr>
+			
+				<tr>
+					<td>모든 비밀스러운 것들</td>
+					<td>Every Secret Thing</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>44,937,000</td>
+					<td>6,507</td>
+					<td>44,937,000</td>
+					<td>6,507</td>
+				</tr>
+			
+				<tr>
+					<td>워크 오브 셰임</td>
+					<td>Walk of Shame</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>270,000</td>
+					<td>54</td>
+					<td>270,000</td>
+					<td>54</td>
+				</tr>
+			
+				<tr>
+					<td>헝거게임: 모킹제이</td>
+					<td>The Hunger Games: Mockingjay - Part 1</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>어드벤처,SF,스릴러</td>
+					<td>주연</td>
+					<td>6,400,058,044</td>
+					<td>854,377</td>
+					<td>6,400,058,044</td>
+					<td>854,377</td>
+				</tr>
+			
+				<tr>
+					<td>레고 무비</td>
+					<td>The Lego Movie</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>애니메이션,코미디,액션,가족</td>
+					<td>조연-루시역(목소리)</td>
+					<td>1,601,300,200</td>
+					<td>236,129</td>
+					<td>1,679,825,800</td>
+					<td>246,126</td>
+				</tr>
+			
+				<tr>
+					<td>리틀 액시던트</td>
+					<td>Little Accidents</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-다이앤 도일역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>무비 43</td>
+					<td>Movie 43</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>감독</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>헝거게임: 판엠의 불꽃</td>
+					<td>The Hunger Games</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션,드라마,SF</td>
+					<td>주연-에피 트링켓역</td>
+					<td>4,478,418,000</td>
+					<td>607,956</td>
+					<td>4,480,013,734</td>
+					<td>608,222</td>
+				</tr>
+			
+				<tr>
+					<td>맨 온 렛지</td>
+					<td>Man on a Ledge</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>범죄,스릴러</td>
+					<td>주연-리디아 앤더슨 역</td>
+					<td>4,393,531,500</td>
+					<td>591,841</td>
+					<td>4,393,531,500</td>
+					<td>591,841</td>
+				</tr>
+			
+				<tr>
+					<td>피플 라이크 어스 </td>
+					<td>People Like Us</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-프랭키 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>디테일스</td>
+					<td>The Details </td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연-닐리 랑역</td>
+					<td>22,158,500</td>
+					<td>2,909</td>
+					<td>22,158,500</td>
+					<td>2,909</td>
+				</tr>
+			
+				<tr>
+					<td>아워 이디엇 브라더 </td>
+					<td>Our Idiot Brother</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>드라마,가족,코미디</td>
+					<td>주연</td>
+					<td>197,192,477</td>
+					<td>27,010</td>
+					<td>197,482,977</td>
+					<td>27,045</td>
+				</tr>
+			
+				<tr>
+					<td>쓰리 데이즈</td>
+					<td>The Next Three Days</td>
+					<td>2010</td>
+					<td>미국,프랑스</td>
+					<td>범죄,스릴러,액션</td>
+					<td>주연-라라 브레넌역</td>
+					<td>1,882,542,699</td>
+					<td>257,106</td>
+					<td>1,996,084,500</td>
+					<td>272,496</td>
+				</tr>
+			
+				<tr>
+					<td>러블리, 스틸</td>
+					<td>Lovely, Still</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>116,034,067</td>
+					<td>14,790</td>
+					<td>123,046,000</td>
+					<td>15,683</td>
+				</tr>
+			
+				<tr>
+					<td>더블유</td>
+					<td>W.</td>
+					<td>2008</td>
+					<td>미국,호주,홍콩,스위스,중국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>데이브 속 데이브</td>
+					<td>Meet Dave</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>코미디,어드벤처</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>잭 앤 미리, 포르노 만들기</td>
+					<td>Zack and Miri Make a Porno</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>굿바이 초콜릿</td>
+					<td>Meet Bill</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연-제스역</td>
+					<td>2,462,796</td>
+					<td>311</td>
+					<td>2,426,000</td>
+					<td>306</td>
+				</tr>
+			
+				<tr>
+					<td>슬리더</td>
+					<td>Slither</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>미스터리</td>
+					<td>주연-스탈라 역</td>
+					<td></td>
+					<td></td>
+					<td>1,200,000</td>
+					<td>181</td>
+				</tr>
+			
+				<tr>
+					<td>인빈서블</td>
+					<td>Invincible</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>댈트리 캘혼</td>
+					<td>Daltry Calhoun</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>백스터</td>
+					<td>The Baxter</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>섹슈얼 라이프</td>
+					<td>Sexual Life</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연-사라 역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>하이츠</td>
+					<td>Heights</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

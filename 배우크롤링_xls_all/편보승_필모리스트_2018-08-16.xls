@@ -1,0 +1,138 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '편보승'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>지구인의 연애론</td>
+					<td>Love from Earth</td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>커터</td>
+					<td>Eclipse</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>범죄,드라마</td>
+					<td>단역-양복 중년역</td>
+					<td>151,165,500</td>
+					<td>19,405</td>
+					<td>151,165,500</td>
+					<td>19,405</td>
+				</tr>
+			
+				<tr>
+					<td>코인라커</td>
+					<td>Coin Locker</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-성인건호(곰인형) 역</td>
+					<td>7,043,500</td>
+					<td>1,008</td>
+					<td>7,043,500</td>
+					<td>1,008</td>
+				</tr>
+			
+				<tr>
+					<td>설해</td>
+					<td>Snow In Sea Breeze</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>조연-우호역</td>
+					<td>29,770,500</td>
+					<td>3,933</td>
+					<td>29,770,500</td>
+					<td>3,933</td>
+				</tr>
+			
+				<tr>
+					<td>타인의 멜로디</td>
+					<td></td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-광수역</td>
+					<td>30,000</td>
+					<td>10</td>
+					<td>30,000</td>
+					<td>10</td>
+				</tr>
+			
+				<tr>
+					<td>노리개</td>
+					<td>Norigae</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-법원사무관역</td>
+					<td>1,229,574,500</td>
+					<td>169,054</td>
+					<td>1,229,614,500</td>
+					<td>169,064</td>
+				</tr>
+			
+				<tr>
+					<td>청포도 사탕: 17년 전의 약속</td>
+					<td>Grape Candy</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마,미스터리</td>
+					<td>조연-젊은 의사 역</td>
+					<td>11,294,500</td>
+					<td>1,600</td>
+					<td>11,545,500</td>
+					<td>1,637</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

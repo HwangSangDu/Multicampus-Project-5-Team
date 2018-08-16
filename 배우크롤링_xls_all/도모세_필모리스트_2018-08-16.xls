@@ -1,0 +1,190 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '도모세'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>정사 : 처제의 사랑</td>
+					<td></td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>465,000</td>
+					<td>69</td>
+				</tr>
+			
+				<tr>
+					<td>사춘기 여동생</td>
+					<td></td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>예쁜누나</td>
+					<td></td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연-지완역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>정사 : 처제의 사랑 무삭제편</td>
+					<td></td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>공즉시색 2</td>
+					<td></td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>807,000</td>
+					<td>135</td>
+					<td>807,000</td>
+					<td>135</td>
+				</tr>
+			
+				<tr>
+					<td>신입사원</td>
+					<td></td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>704,000</td>
+					<td>120</td>
+					<td>704,000</td>
+					<td>120</td>
+				</tr>
+			
+				<tr>
+					<td>엄마의 직업 [무삭제판]</td>
+					<td></td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연-민석역</td>
+					<td>6,000</td>
+					<td>1</td>
+					<td>6,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>누나 친구 2</td>
+					<td></td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>655,000</td>
+					<td>125</td>
+					<td>655,000</td>
+					<td>125</td>
+				</tr>
+			
+				<tr>
+					<td>타부-새누나 무삭제</td>
+					<td>TABOO-NEW SISTER UNCUT</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>5,000</td>
+					<td>1</td>
+					<td>5,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>타부-새누나</td>
+					<td>TABOO-NEW SISTER</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>멜로/로맨스,스릴러</td>
+					<td>조연</td>
+					<td>1,267,000</td>
+					<td>243</td>
+					<td>1,267,000</td>
+					<td>243</td>
+				</tr>
+			
+				<tr>
+					<td>라면 먹고 갈래?</td>
+					<td></td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>8,000</td>
+					<td>1</td>
+					<td>8,000</td>
+					<td>1</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

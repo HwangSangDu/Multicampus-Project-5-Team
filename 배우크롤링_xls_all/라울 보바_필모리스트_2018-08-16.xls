@@ -1,0 +1,112 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '라울 보바'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>로드 투 로마</td>
+					<td>All Roads Lead to Rome</td>
+					<td>2015</td>
+					<td>미국,스페인,이탈리아</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>1,348,000</td>
+					<td>234</td>
+					<td>1,348,000</td>
+					<td>234</td>
+				</tr>
+			
+				<tr>
+					<td>트레져 가드</td>
+					<td>Treasure Guards</td>
+					<td>2011</td>
+					<td>독일</td>
+					<td>액션,어드벤처</td>
+					<td>주연-앙겔로 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>쏘리,알러뷰</td>
+					<td>Sorry, If I Love You</td>
+					<td>2008</td>
+					<td>이탈리아</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>247,500</td>
+					<td>41</td>
+					<td>247,500</td>
+					<td>41</td>
+				</tr>
+			
+				<tr>
+					<td>에이리언 VS 프레데터</td>
+					<td>Alien Vs. Predator</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>SF</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>304,360</td>
+					<td>1,151,500,000</td>
+					<td>180,626</td>
+				</tr>
+			
+				<tr>
+					<td>마피아 캅스 </td>
+					<td>Palermo Milano Sold Andante</td>
+					<td>1995</td>
+					<td>이탈리아</td>
+					<td>액션,범죄,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>198</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

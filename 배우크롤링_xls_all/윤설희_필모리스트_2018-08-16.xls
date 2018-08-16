@@ -1,0 +1,190 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '윤설희'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>새폴더2</td>
+					<td>New Folder 2</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>3,352,000</td>
+					<td>518</td>
+					<td>3,352,000</td>
+					<td>518</td>
+				</tr>
+			
+				<tr>
+					<td>나쁜 수업</td>
+					<td>Bad Class</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-조현아역</td>
+					<td>5,000</td>
+					<td>1</td>
+					<td>5,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>7공주 대리운전</td>
+					<td></td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>4,308,000</td>
+					<td>894</td>
+					<td>4,308,000</td>
+					<td>894</td>
+				</tr>
+			
+				<tr>
+					<td>두 번째 엄마 무삭제판</td>
+					<td></td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>28,000</td>
+					<td>4</td>
+					<td>28,000</td>
+					<td>4</td>
+				</tr>
+			
+				<tr>
+					<td>두 번째 엄마 </td>
+					<td></td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>1,010,000</td>
+					<td>239</td>
+					<td>1,010,000</td>
+					<td>239</td>
+				</tr>
+			
+				<tr>
+					<td>환상</td>
+					<td>Fantasy</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>4,693,000</td>
+					<td>987</td>
+					<td>4,693,000</td>
+					<td>987</td>
+				</tr>
+			
+				<tr>
+					<td>거짓말 2014</td>
+					<td></td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>4,751,000</td>
+					<td>1,058</td>
+					<td>4,751,000</td>
+					<td>1,058</td>
+				</tr>
+			
+				<tr>
+					<td>사토미를 찾아라</td>
+					<td>Where&#039;s Satomi?</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td>13,164,000</td>
+					<td>2,595</td>
+					<td>13,164,000</td>
+					<td>2,595</td>
+				</tr>
+			
+				<tr>
+					<td>먹이사슬</td>
+					<td>food chain</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>10,224,000</td>
+					<td>2,070</td>
+					<td>10,224,000</td>
+					<td>2,070</td>
+				</tr>
+			
+				<tr>
+					<td>거짓말2014 무삭제감독판</td>
+					<td></td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>환상-금지된 정사버전</td>
+					<td></td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>14,000</td>
+					<td>2</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

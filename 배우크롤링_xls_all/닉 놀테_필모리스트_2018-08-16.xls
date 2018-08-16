@@ -1,0 +1,385 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '닉 놀테'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>리턴 투 센더</td>
+					<td>Return to Sender</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>범죄,스릴러</td>
+					<td>주연</td>
+					<td>47,702,000</td>
+					<td>6,062</td>
+					<td>47,702,000</td>
+					<td>6,062</td>
+				</tr>
+			
+				<tr>
+					<td>케이트 맥콜</td>
+					<td>The Trials Of Cate McCall</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>스릴러,드라마</td>
+					<td>주연</td>
+					<td>23,062,500</td>
+					<td>3,014</td>
+					<td>23,062,500</td>
+					<td>3,014</td>
+				</tr>
+			
+				<tr>
+					<td>워리어</td>
+					<td>WARRIOR</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>드라마,액션</td>
+					<td>주연-패디 콘론역</td>
+					<td>179,008,500</td>
+					<td>24,802</td>
+					<td>179,008,500</td>
+					<td>24,802</td>
+				</tr>
+			
+				<tr>
+					<td>캣츠 앤 독스 2</td>
+					<td>Cats &amp; Dogs: The Revenge Of Kitty Galore</td>
+					<td>2010</td>
+					<td>미국,오스트리아 </td>
+					<td>가족,코미디,액션</td>
+					<td>주연(목소리)</td>
+					<td>810,563,678</td>
+					<td>109,667</td>
+					<td>797,837,500</td>
+					<td>107,921</td>
+				</tr>
+			
+				<tr>
+					<td>아르카디아 로스트</td>
+					<td>Arcadia Lost</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>평화로운 전사</td>
+					<td>Peaceful Warrior</td>
+					<td>2006</td>
+					<td>독일,미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>호텔 르완다</td>
+					<td>Hotel Rwanda</td>
+					<td>2004</td>
+					<td>영국,이탈리아,남아프리카공화국</td>
+					<td>드라마,전쟁</td>
+					<td>조연-올리버 중령역</td>
+					<td>0</td>
+					<td>12,353</td>
+					<td>69,353,900</td>
+					<td>10,826</td>
+				</tr>
+			
+				<tr>
+					<td>클린</td>
+					<td>Clean</td>
+					<td>2004</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>6,124</td>
+					<td>43,741,000</td>
+					<td>6,942</td>
+				</tr>
+			
+				<tr>
+					<td>아름다운 나라</td>
+					<td>The Beautiful Country</td>
+					<td>2004</td>
+					<td>노르웨이,미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>노스포크</td>
+					<td>Northfork</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>더블 다운</td>
+					<td>Double Down </td>
+					<td>2002</td>
+					<td>프랑스,영국,아일랜드,캐나다</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>러브 템테이션</td>
+					<td>The Golden Bowl</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>트릭시</td>
+					<td>Trixie</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>심파티코</td>
+					<td>Simpatico</td>
+					<td>1999</td>
+					<td>영국,프랑스,미국</td>
+					<td>코미디,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>나이트워치</td>
+					<td>Nightwatch</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>유턴</td>
+					<td>U Turn</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>범죄,스릴러,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>3,008</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>머홀랜드 폴스 </td>
+					<td>Mulholland Falls</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>범죄,드라마,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>9,268</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>대통령의 연인들</td>
+					<td>Jefferson in Paris</td>
+					<td>1995</td>
+					<td>영국,미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아이 러브 트러블 </td>
+					<td>I Love Trouble</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>126,130</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>로렌조 오일</td>
+					<td>Lorenzo&#039;s Oil</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>5,727</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사랑과 추억</td>
+					<td>The Prince Of Tides</td>
+					<td>1991</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>86,249</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>케이프 피어</td>
+					<td>Cape Fear</td>
+					<td>1991</td>
+					<td>미국</td>
+					<td>스릴러,드라마,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>13,712</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사랑과 슬픔의 맨하탄</td>
+					<td>Q And A</td>
+					<td>1990</td>
+					<td>미국</td>
+					<td>드라마,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>22,427</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>48시간 2</td>
+					<td>Another 48 Hours</td>
+					<td>1990</td>
+					<td>미국</td>
+					<td>액션,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>80,057</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>잡초</td>
+					<td>Weeds</td>
+					<td>1987</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>138,084</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>디프</td>
+					<td>The Deep</td>
+					<td>1977</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>245,157</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

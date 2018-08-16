@@ -1,0 +1,255 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '김영호'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>청춘빌라 살인사건</td>
+					<td>Dogs in the House</td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>코미디,가족,액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>고백</td>
+					<td></td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>미스터리,기타</td>
+					<td>주연-유상우역,각색</td>
+					<td>2,847,000</td>
+					<td>568</td>
+					<td>2,847,000</td>
+					<td>568</td>
+				</tr>
+			
+				<tr>
+					<td>완벽한 파트너-감독판</td>
+					<td></td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>6,788,000</td>
+					<td>844</td>
+					<td>6,788,000</td>
+					<td>844</td>
+				</tr>
+			
+				<tr>
+					<td>완벽한 파트너</td>
+					<td>My Secret Partner</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>676,141,000</td>
+					<td>89,526</td>
+					<td>676,141,000</td>
+					<td>89,526</td>
+				</tr>
+			
+				<tr>
+					<td>여덟 번의 감정</td>
+					<td>The Grass Is Greener</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-종훈역</td>
+					<td>6,605,714</td>
+					<td>948</td>
+					<td>6,502,000</td>
+					<td>933</td>
+				</tr>
+			
+				<tr>
+					<td>하하하</td>
+					<td>Hahaha</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>435,417,823</td>
+					<td>57,234</td>
+					<td>434,011,200</td>
+					<td>57,029</td>
+				</tr>
+			
+				<tr>
+					<td>집 나온 남자들</td>
+					<td>Looking For My Wife</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>조연</td>
+					<td>189,538,028</td>
+					<td>26,319</td>
+					<td>186,095,500</td>
+					<td>25,773</td>
+				</tr>
+			
+				<tr>
+					<td>부산</td>
+					<td>City Of Fathers</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>액션,드라마</td>
+					<td>주연-조태석역</td>
+					<td>1,185,994,280</td>
+					<td>160,741</td>
+					<td>1,172,970,000</td>
+					<td>158,943</td>
+				</tr>
+			
+				<tr>
+					<td>미인도</td>
+					<td>Portrait of a Beauty</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>사극,드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>15,531,621,371</td>
+					<td>2,325,715</td>
+					<td>15,655,329,500</td>
+					<td>2,342,579</td>
+				</tr>
+			
+				<tr>
+					<td>밤과 낮</td>
+					<td>Night And Day</td>
+					<td>2008</td>
+					<td>한국,프랑스</td>
+					<td>드라마</td>
+					<td>주연-40대 화가, 김성남역</td>
+					<td>94,755,757</td>
+					<td>13,940</td>
+					<td>84,312,000</td>
+					<td>12,346</td>
+				</tr>
+			
+				<tr>
+					<td>방울토마토</td>
+					<td>Cherry Tomatos</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>가족,드라마</td>
+					<td>주연</td>
+					<td>115,388,000</td>
+					<td>18,533</td>
+					<td>115,388,000</td>
+					<td>18,478</td>
+				</tr>
+			
+				<tr>
+					<td>돌려차기</td>
+					<td>Spin Kick</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>69,000</td>
+					<td>254,315,500</td>
+					<td>41,401</td>
+				</tr>
+			
+				<tr>
+					<td>조폭마누라2-돌아온 전설</td>
+					<td>My Wife Is A Gangster 2</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td>1,858,077</td>
+					<td>36,000</td>
+					<td>9</td>
+				</tr>
+			
+				<tr>
+					<td>블루</td>
+					<td>Blue</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>198,500</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>클럽 버터플라이</td>
+					<td>Club Butterfly</td>
+					<td>2001</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>27,205</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>유령</td>
+					<td>Phantom The Submarine</td>
+					<td>1999</td>
+					<td>한국</td>
+					<td>액션,드라마</td>
+					<td>주연-872역</td>
+					<td>0</td>
+					<td>347,965</td>
+					<td>1,556,000</td>
+					<td>518</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,138 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '다니엘 파나베이커'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>타임 랩스</td>
+					<td>Time Lapse</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>미스터리,스릴러</td>
+					<td>주연</td>
+					<td>70,000</td>
+					<td>10</td>
+					<td>70,000</td>
+					<td>10</td>
+				</tr>
+			
+				<tr>
+					<td>관능소녀 복수단</td>
+					<td>Girls Against Boys</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연-쉐역</td>
+					<td>50,000</td>
+					<td>10</td>
+					<td>50,000</td>
+					<td>10</td>
+				</tr>
+			
+				<tr>
+					<td>피라냐 3DD 확장판</td>
+					<td>Piranha 3DD</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>공포(호러),코미디,스릴러</td>
+					<td>주연-매디역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>피라냐 3DD</td>
+					<td>Piranha 3DD</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러,코미디</td>
+					<td>주연</td>
+					<td>646,211,500</td>
+					<td>74,576</td>
+					<td>646,251,500</td>
+					<td>74,586</td>
+				</tr>
+			
+				<tr>
+					<td>크레이지</td>
+					<td>The Crazies</td>
+					<td>2010</td>
+					<td>미국,아랍에미리트연합국정부</td>
+					<td>공포(호러),SF,스릴러</td>
+					<td>주연-베카 달링, 의료센터 간호사역</td>
+					<td>1,123,006,998</td>
+					<td>146,377</td>
+					<td>1,104,433,000</td>
+					<td>143,784</td>
+				</tr>
+			
+				<tr>
+					<td>13일의 금요일</td>
+					<td>Friday The 13th</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>공포(호러)</td>
+					<td>주연-제나역</td>
+					<td>1,489,929,119</td>
+					<td>211,290</td>
+					<td>1,467,520,500</td>
+					<td>208,118</td>
+				</tr>
+			
+				<tr>
+					<td>스카이 하이</td>
+					<td>Sky High</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>액션,가족,코미디,어드벤처</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

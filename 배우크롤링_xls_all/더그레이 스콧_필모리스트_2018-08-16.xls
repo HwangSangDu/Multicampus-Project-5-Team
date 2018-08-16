@@ -1,0 +1,203 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '더그레이 스콧'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>런던 타운</td>
+					<td>London Town</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>2,425,400</td>
+					<td>423</td>
+					<td>2,753,400</td>
+					<td>471</td>
+				</tr>
+			
+				<tr>
+					<td>라스트패신저</td>
+					<td>Last Passenger</td>
+					<td>2013</td>
+					<td>영국</td>
+					<td>액션,스릴러,미스터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>호세마리아 신부의 길</td>
+					<td>There Be Dragons</td>
+					<td>2011</td>
+					<td>미국,아르헨티나,스페인</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>13,931,000</td>
+					<td>2,274</td>
+					<td>14,169,000</td>
+					<td>2,347</td>
+				</tr>
+			
+				<tr>
+					<td>히트맨</td>
+					<td>Hitman</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>액션,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>170,240</td>
+					<td>1,096,259,000</td>
+					<td>164,014</td>
+				</tr>
+			
+				<tr>
+					<td>퍼펙트 크리쳐</td>
+					<td>Perfect Creature</td>
+					<td>2006</td>
+					<td>뉴질랜드,영국</td>
+					<td>공포(호러),액션,드라마,판타지</td>
+					<td>주연-사일러스 역 역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>다크 워터</td>
+					<td>Dark Water</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>어바웃 러브</td>
+					<td>The Truth About Love</td>
+					<td>2004</td>
+					<td>영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>356,638</td>
+					<td>2,072,004,000</td>
+					<td>318,358</td>
+				</tr>
+			
+				<tr>
+					<td>투 킬 어 킹</td>
+					<td>To Kill a King</td>
+					<td>2003</td>
+					<td>영국,독일</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>에니그마</td>
+					<td>Enigma</td>
+					<td>2001</td>
+					<td>미국,독일,영국</td>
+					<td>드라마,미스터리,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>미션 임파서블 2</td>
+					<td>Mission Impossible2</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>조연-숀 엠브로즈역</td>
+					<td>0</td>
+					<td>1,230,633</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>요정나라 대모험</td>
+					<td>Faeries</td>
+					<td>1999</td>
+					<td>영국</td>
+					<td>애니메이션,어드벤처</td>
+					<td>주연(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>트윈타운</td>
+					<td>Twin Town</td>
+					<td>1997</td>
+					<td>영국</td>
+					<td>드라마</td>
+					<td>조연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

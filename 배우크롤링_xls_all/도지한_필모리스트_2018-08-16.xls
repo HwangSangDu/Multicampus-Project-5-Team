@@ -1,0 +1,112 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '도지한'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>무수단</td>
+					<td>MUSUDAN</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>미스터리,스릴러</td>
+					<td>주연</td>
+					<td>126,155,400</td>
+					<td>15,882</td>
+					<td>126,155,400</td>
+					<td>15,882</td>
+				</tr>
+			
+				<tr>
+					<td>뷰티 인사이드</td>
+					<td>The Beauty Inside</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>판타지,멜로/로맨스</td>
+					<td>주연-우진18역</td>
+					<td>16,155,795,131</td>
+					<td>2,054,297</td>
+					<td>16,184,831,031</td>
+					<td>2,057,896</td>
+				</tr>
+			
+				<tr>
+					<td>타워</td>
+					<td>The Tower</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-이선우 역</td>
+					<td>37,654,858,000</td>
+					<td>5,181,014</td>
+					<td>37,654,858,000</td>
+					<td>5,181,014</td>
+				</tr>
+			
+				<tr>
+					<td>이웃사람</td>
+					<td>The Neighbors</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>18,087,442,369</td>
+					<td>2,434,099</td>
+					<td>18,089,332,369</td>
+					<td>2,434,435</td>
+				</tr>
+			
+				<tr>
+					<td>마이 웨이</td>
+					<td>My Way</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>전쟁,액션,드라마</td>
+					<td>조연</td>
+					<td>15,994,803,000</td>
+					<td>2,142,622</td>
+					<td>15,995,187,000</td>
+					<td>2,142,670</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

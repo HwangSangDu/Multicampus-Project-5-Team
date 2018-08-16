@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '이상현'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>대립군</td>
+					<td>WARRIORS OF THE DAWN</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마,사극</td>
+					<td>단역-여진족&amp;승병역</td>
+					<td>6,276,963,402</td>
+					<td>837,500</td>
+					<td>6,276,963,402</td>
+					<td>837,500</td>
+				</tr>
+			
+				<tr>
+					<td>서울야행</td>
+					<td>Midnight in seoul</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>코미디,멜로/로맨스,드라마</td>
+					<td>단역-배우역</td>
+					<td>355,000</td>
+					<td>53</td>
+					<td>355,000</td>
+					<td>53</td>
+				</tr>
+			
+				<tr>
+					<td>위험한 상견례 2</td>
+					<td>Enemies In-Law </td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>단역-일진2역</td>
+					<td>3,575,384,754</td>
+					<td>472,693</td>
+					<td>3,575,384,754</td>
+					<td>472,693</td>
+				</tr>
+			
+				<tr>
+					<td>성실한 나라의 앨리스</td>
+					<td>Alice In Earnestland</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-공장인부들역</td>
+					<td>349,482,500</td>
+					<td>43,964</td>
+					<td>350,231,500</td>
+					<td>44,074</td>
+				</tr>
+			
+				<tr>
+					<td>화끈한 써비스: 어느 잔인한 미용사의</td>
+					<td></td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>단역-도시락 학생들4역</td>
+					<td>868,000</td>
+					<td>148</td>
+					<td>868,000</td>
+					<td>148</td>
+				</tr>
+			
+				<tr>
+					<td>역린</td>
+					<td>The Fatal Encounter</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>사극</td>
+					<td>단역-금위영들역</td>
+					<td>29,893,297,890</td>
+					<td>3,849,433</td>
+					<td>29,895,031,890</td>
+					<td>3,849,700</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

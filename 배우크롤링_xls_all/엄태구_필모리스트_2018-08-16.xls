@@ -1,0 +1,307 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '엄태구'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>안시성</td>
+					<td>The Great Battle</td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>사극,액션</td>
+					<td>조연-파소역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>뎀프시롤(가제)</td>
+					<td></td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>어른도감</td>
+					<td>Adulthood</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>4,842,000</td>
+					<td>538</td>
+				</tr>
+			
+				<tr>
+					<td>가려진 시간</td>
+					<td>VANISHING TIME: A BOY WHO RETURNED</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>드라마,판타지</td>
+					<td>조연-태식역</td>
+					<td>3,946,462,400</td>
+					<td>510,878</td>
+					<td>3,948,158,400</td>
+					<td>511,369</td>
+				</tr>
+			
+				<tr>
+					<td>밀정</td>
+					<td>The Age of Shadows</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>조연</td>
+					<td>61,269,783,831</td>
+					<td>7,500,420</td>
+					<td>61,270,079,831</td>
+					<td>7,500,457</td>
+				</tr>
+			
+				<tr>
+					<td>차이나타운</td>
+					<td>Coin Locker Girl</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>범죄,드라마</td>
+					<td>조연-우곤 역</td>
+					<td>11,989,400,678</td>
+					<td>1,472,006</td>
+					<td>11,990,707,878</td>
+					<td>1,472,147</td>
+				</tr>
+			
+				<tr>
+					<td>살인캠프</td>
+					<td>Barracks</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>586,000</td>
+					<td>101</td>
+					<td>586,000</td>
+					<td>101</td>
+				</tr>
+			
+				<tr>
+					<td>잉투기</td>
+					<td>INGtoogi: The Battle of Internet Trolls</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>액션,드라마</td>
+					<td>주연-태식역</td>
+					<td>121,548,600</td>
+					<td>17,071</td>
+					<td>130,194,600</td>
+					<td>18,159</td>
+				</tr>
+			
+				<tr>
+					<td>공정사회</td>
+					<td>Azooma</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마,스릴러</td>
+					<td>조연</td>
+					<td>97,516,000</td>
+					<td>14,482</td>
+					<td>97,703,000</td>
+					<td>14,537</td>
+				</tr>
+			
+				<tr>
+					<td>숲</td>
+					<td>Forest</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마,스릴러</td>
+					<td>주연-태식역</td>
+					<td></td>
+					<td></td>
+					<td>617,481</td>
+					<td>578</td>
+				</tr>
+			
+				<tr>
+					<td>가시</td>
+					<td>Choked</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-윤호역</td>
+					<td>2,056,500</td>
+					<td>276</td>
+					<td>2,056,500</td>
+					<td>276</td>
+				</tr>
+			
+				<tr>
+					<td>촌철살인</td>
+					<td>Nice Shorts! 2011</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>1,499,400</td>
+					<td>214</td>
+					<td>1,792,400</td>
+					<td>256</td>
+				</tr>
+			
+				<tr>
+					<td>Keep Quiet</td>
+					<td>Keep Quiet</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>스릴러,드라마,범죄</td>
+					<td>주연-동우역</td>
+					<td></td>
+					<td></td>
+					<td>561,927</td>
+					<td>414</td>
+				</tr>
+			
+				<tr>
+					<td>하트바이브레이터</td>
+					<td>Heart Vibrator</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-태구역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>다시 태어나고 싶어요, 안양에</td>
+					<td>Anyang, Paradise City</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>다큐멘터리,드라마</td>
+					<td>주연-스탭3역</td>
+					<td></td>
+					<td></td>
+					<td>440,000</td>
+					<td>89</td>
+				</tr>
+			
+				<tr>
+					<td>밤을 위한 춤</td>
+					<td>Dance for Night</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>유숙자</td>
+					<td>Home Sweet Home</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-만식역</td>
+					<td></td>
+					<td></td>
+					<td>83,505</td>
+					<td>54</td>
+				</tr>
+			
+				<tr>
+					<td>무료항공권</td>
+					<td>No Charge Airline Ticket </td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-동환역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>유랑시대</td>
+					<td>The Strange Voyage</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>계절과 같은</td>
+					<td>Gyejeolgwa Gachin</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

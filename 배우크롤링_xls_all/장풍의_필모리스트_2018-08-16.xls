@@ -1,0 +1,164 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '장풍의'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>적벽대전 2 : 최후의 결전</td>
+					<td>Red Cliff 2</td>
+					<td>2008</td>
+					<td>중국</td>
+					<td>액션,전쟁,드라마,사극</td>
+					<td>주연</td>
+					<td>17,910,684,413</td>
+					<td>2,713,031</td>
+					<td>17,782,372,500</td>
+					<td>2,694,436</td>
+				</tr>
+			
+				<tr>
+					<td>적벽대전:거대한 전쟁의 시작</td>
+					<td>Red Cliff</td>
+					<td>2008</td>
+					<td>중국</td>
+					<td>액션,드라마,전쟁</td>
+					<td>조연-조조역</td>
+					<td>10,218,959,760</td>
+					<td>1,573,621</td>
+					<td>10,200,428,000</td>
+					<td>1,572,064</td>
+				</tr>
+			
+				<tr>
+					<td>시황제 암살</td>
+					<td>The Emperor And The Assassin</td>
+					<td>1998</td>
+					<td>중국,프랑스,일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>일광협곡</td>
+					<td>Sun Valley</td>
+					<td>1995</td>
+					<td>홍콩</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>서초패왕 </td>
+					<td>The Great Conaueror&#039;S</td>
+					<td>1994</td>
+					<td>홍콩</td>
+					<td>사극</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>15,824</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>패왕별희 디 오리지널</td>
+					<td>Farewell My Concubine</td>
+					<td>1993</td>
+					<td>홍콩</td>
+					<td>멜로/로맨스</td>
+					<td>주연-두안 샬루, 시투역</td>
+					<td>9,318,400</td>
+					<td>1,085</td>
+					<td>9,318,400</td>
+					<td>1,085</td>
+				</tr>
+			
+				<tr>
+					<td>자객신전</td>
+					<td>The Assassin </td>
+					<td>1993</td>
+					<td>홍콩</td>
+					<td>사극</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>14,179</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>추살자</td>
+					<td>REVANCHIST</td>
+					<td>1993</td>
+					<td>홍콩</td>
+					<td>드라마,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>162</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>패왕별희</td>
+					<td>Farewell My Concubine</td>
+					<td>1993</td>
+					<td>홍콩</td>
+					<td>멜로/로맨스</td>
+					<td>주연-두안 샬루, 시투역</td>
+					<td>0</td>
+					<td>247,454</td>
+					<td>0</td>
+					<td>0</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

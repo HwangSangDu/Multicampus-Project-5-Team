@@ -1,0 +1,190 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '조준형'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>오아시스 세탁소</td>
+					<td>Oasis Laundry</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-강태국 역</td>
+					<td>733,000</td>
+					<td>308</td>
+					<td>827,500</td>
+					<td>325</td>
+				</tr>
+			
+				<tr>
+					<td>순수</td>
+					<td>Innocence</td>
+					<td>2003</td>
+					<td></td>
+					<td></td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>이공</td>
+					<td>Twentidentity</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-순수역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>라이방</td>
+					<td>Ray Ban</td>
+					<td>2001</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-준형역</td>
+					<td>0</td>
+					<td>2,432</td>
+					<td>170,000</td>
+					<td>37</td>
+				</tr>
+			
+				<tr>
+					<td>남자의 향기</td>
+					<td>Scent of a Man</td>
+					<td>1998</td>
+					<td>한국</td>
+					<td>멜로/로맨스,액션</td>
+					<td>주연-윤상원역</td>
+					<td>0</td>
+					<td>148,781</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>본 투 킬</td>
+					<td>Born To Kill</td>
+					<td>1996</td>
+					<td>한국</td>
+					<td>액션,드라마</td>
+					<td>단역-야쿠자역</td>
+					<td>0</td>
+					<td>132,261</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>총잡이</td>
+					<td>Gun And Gun</td>
+					<td>1995</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연-저격수역</td>
+					<td>0</td>
+					<td>110,743</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>게임의 법칙</td>
+					<td>The Rules Of The Game</td>
+					<td>1994</td>
+					<td>한국</td>
+					<td>드라마,액션</td>
+					<td>주연-파마 머리역</td>
+					<td>0</td>
+					<td>133,872</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>걸어서 하늘까지</td>
+					<td>Walking All The Way To Heaven</td>
+					<td>1992</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>30,038</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>젊은 날의 초상</td>
+					<td>Portrait Of The Days Of Youth</td>
+					<td>1990</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>174,886</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>창수의 취업시대</td>
+					<td>Chang-soo Gets the Job</td>
+					<td>1984</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,307 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '헤더 그레이엄'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>섹슈얼 컴펄전</td>
+					<td>Compulsion</td>
+					<td>2013</td>
+					<td>캐나다</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td>10,994,000</td>
+					<td>1,563</td>
+					<td>10,994,000</td>
+					<td>1,563</td>
+				</tr>
+			
+				<tr>
+					<td>어바웃 체리</td>
+					<td>About Cherry</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>21,715,500</td>
+					<td>4,611</td>
+					<td>21,715,500</td>
+					<td>4,611</td>
+				</tr>
+			
+				<tr>
+					<td>플라잉 머신 3D</td>
+					<td>Flying Machine 3D</td>
+					<td>2011</td>
+					<td>영국,폴란드</td>
+					<td>애니메이션,어드벤처,가족</td>
+					<td>주연-조지역</td>
+					<td>12,967,000</td>
+					<td>1,377</td>
+					<td>12,967,000</td>
+					<td>1,377</td>
+				</tr>
+			
+				<tr>
+					<td>5 데이즈 오브 워</td>
+					<td>5 Days Of War</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>액션,드라마,전쟁</td>
+					<td>조연-미리암역</td>
+					<td>1,685,000</td>
+					<td>230</td>
+					<td>1,685,000</td>
+					<td>230</td>
+				</tr>
+			
+				<tr>
+					<td>쥬디 무디의 썸머 어드벤쳐</td>
+					<td>Judy Moody and the Not Bummer Summer</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>코미디,가족</td>
+					<td>주연-언트 오팰 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>미스 컨셉션</td>
+					<td>Miss Conception</td>
+					<td>2008</td>
+					<td>영국,미국,독일</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>베이비 온 보드</td>
+					<td>Baby on Board</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>애드리프트 인 맨하탄</td>
+					<td>Adrift in Manhattan</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>잘나가는 그녀에게 왜 애인이 없을까</td>
+					<td>Gray Matters</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연-그레이역</td>
+					<td>36,835,500</td>
+					<td>5,285</td>
+					<td>36,835,500</td>
+					<td>5,285</td>
+				</tr>
+			
+				<tr>
+					<td>까칠한 그녀의 달콤한 연애비법</td>
+					<td>Cake</td>
+					<td>2005</td>
+					<td>미국,캐나다</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연-피파 맥기 역</td>
+					<td>14,101,439</td>
+					<td>1,980</td>
+					<td>13,891,500</td>
+					<td>1,951</td>
+				</tr>
+			
+				<tr>
+					<td>사랑의 캔버스</td>
+					<td>Hope Springs</td>
+					<td>2003</td>
+					<td>영국,미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>구루</td>
+					<td>The Guru</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>프롬 헬</td>
+					<td>From Hell</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>19,800</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사랑은 언제나 어려워</td>
+					<td>Say It Isn&#039;t So</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>킬링 미 소프트리</td>
+					<td>Killing Me Softly</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>러브 인 텍사스</td>
+					<td>Committed</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>오스틴 파워: 나를 쫓아온 스파이</td>
+					<td>Austin Powers: The Spy Who Shagged Me</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>액션,코미디,어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>130,654</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>보우핑거</td>
+					<td>Bowfinger</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>부기나이트</td>
+					<td>Boogie Nights</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-롤러걸역</td>
+					<td>0</td>
+					<td>59,749</td>
+					<td>5,016,000</td>
+					<td>784</td>
+				</tr>
+			
+				<tr>
+					<td>길티</td>
+					<td>Guilty As Charged</td>
+					<td>1991</td>
+					<td>미국</td>
+					<td>드라마,코미디,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>3,662</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

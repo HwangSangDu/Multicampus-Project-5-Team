@@ -1,0 +1,320 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '제시 아이젠버그'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>카페 소사이어티</td>
+					<td>Cafe Society</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>1,047,223,666</td>
+					<td>126,439</td>
+					<td>1,048,530,166</td>
+					<td>126,621</td>
+				</tr>
+			
+				<tr>
+					<td>나우 유 씨 미 2</td>
+					<td>Now You See Me 2</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>범죄,액션</td>
+					<td>주연</td>
+					<td>25,116,690,113</td>
+					<td>3,100,113</td>
+					<td>25,116,690,113</td>
+					<td>3,100,113</td>
+				</tr>
+			
+				<tr>
+					<td>배트맨 대 슈퍼맨: 저스티스의 시작</td>
+					<td>Batman v Superman: Dawn of Justice</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지</td>
+					<td>주연</td>
+					<td>18,906,246,428</td>
+					<td>2,256,913</td>
+					<td>18,906,246,428</td>
+					<td>2,256,913</td>
+				</tr>
+			
+				<tr>
+					<td>라우더 댄 밤즈</td>
+					<td>Louder Than Bombs</td>
+					<td>2015</td>
+					<td>노르웨이,프랑스,덴마크</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>89,283,700</td>
+					<td>11,143</td>
+					<td>89,283,700</td>
+					<td>11,143</td>
+				</tr>
+			
+				<tr>
+					<td>아메리칸 울트라</td>
+					<td>American Ultra</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션,코미디</td>
+					<td>주연-마이크 하웰역</td>
+					<td>1,301,387,295</td>
+					<td>161,382</td>
+					<td>1,301,387,295</td>
+					<td>161,382</td>
+				</tr>
+			
+				<tr>
+					<td>리오 2</td>
+					<td>Rio 2</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>애니메이션,코미디,어드벤처</td>
+					<td>주연-블루역(목소리)</td>
+					<td>5,668,239,900</td>
+					<td>765,713</td>
+					<td>5,669,231,900</td>
+					<td>765,961</td>
+				</tr>
+			
+				<tr>
+					<td>더블: 달콤한 악몽</td>
+					<td>The Double</td>
+					<td>2013</td>
+					<td>영국</td>
+					<td>미스터리,멜로/로맨스</td>
+					<td>주연</td>
+					<td>66,138,718</td>
+					<td>8,504</td>
+					<td>66,602,718</td>
+					<td>8,558</td>
+				</tr>
+			
+				<tr>
+					<td>나우 유 씨 미 : 마술사기단</td>
+					<td>Now You See Me </td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>범죄,액션,스릴러</td>
+					<td>주연-마이클 아틀라스역</td>
+					<td>19,146,691,869</td>
+					<td>2,718,227</td>
+					<td>19,146,757,869</td>
+					<td>2,718,237</td>
+				</tr>
+			
+				<tr>
+					<td>어둠 속에서</td>
+					<td>Night Moves</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>184,000</td>
+					<td>36</td>
+				</tr>
+			
+				<tr>
+					<td>와이 스톱 나우</td>
+					<td>Why Stop Now</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>21,637,500</td>
+					<td>4,030</td>
+					<td>21,637,500</td>
+					<td>4,030</td>
+				</tr>
+			
+				<tr>
+					<td>로마 위드 러브</td>
+					<td>To Rome with Love</td>
+					<td>2012</td>
+					<td>미국,이탈리아,스페인</td>
+					<td>코미디</td>
+					<td>주연-잭역</td>
+					<td>1,324,309,801</td>
+					<td>180,743</td>
+					<td>1,337,976,677</td>
+					<td>182,633</td>
+				</tr>
+			
+				<tr>
+					<td>털기 아니면 죽기 : 제한시간 30분</td>
+					<td>30 Minutes Or Less</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>어드벤처,코미디,액션</td>
+					<td>주연-닉 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>소셜 네트워크</td>
+					<td>The Social Network</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-마크 주커버그역</td>
+					<td>3,803,054,495</td>
+					<td>517,286</td>
+					<td>3,744,688,000</td>
+					<td>509,295</td>
+				</tr>
+			
+				<tr>
+					<td>어드벤처랜드</td>
+					<td>Adventureland</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>좀비랜드</td>
+					<td>Zombieland</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>코미디,공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>찰리 뱅스의 교육</td>
+					<td>The Education of Charlie Banks</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>헌팅 파티</td>
+					<td>The Hunting Party</td>
+					<td>2007</td>
+					<td>미국,크로아티아,보스니아</td>
+					<td>어드벤처,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>284,000</td>
+					<td>51</td>
+				</tr>
+			
+				<tr>
+					<td>오징어와 고래</td>
+					<td>The Squid and the Whale</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>커스드</td>
+					<td>Cursed</td>
+					<td>2005</td>
+					<td>미국,독일</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>로저 닷저</td>
+					<td>Roger Dodger</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>라이트닝</td>
+					<td>Lightning</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>액션,드라마,SF</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

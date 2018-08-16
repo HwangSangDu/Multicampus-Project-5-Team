@@ -1,0 +1,437 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '김병춘'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>위드</td>
+					<td>With</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>8,000</td>
+					<td>1</td>
+					<td>8,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>란제리살인사건</td>
+					<td></td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>조연-이하연역</td>
+					<td>2,295,000</td>
+					<td>472</td>
+					<td>2,295,000</td>
+					<td>472</td>
+				</tr>
+			
+				<tr>
+					<td>미쓰 와이프</td>
+					<td>Wonderful Nightmare</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>단역-교장역</td>
+					<td>7,387,086,869</td>
+					<td>988,451</td>
+					<td>7,387,086,869</td>
+					<td>988,451</td>
+				</tr>
+			
+				<tr>
+					<td>철남</td>
+					<td>The Man on the Steel</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마,기타</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>화장</td>
+					<td>Revivre</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-조 부장역</td>
+					<td>1,073,964,100</td>
+					<td>142,519</td>
+					<td>1,074,486,100</td>
+					<td>142,609</td>
+				</tr>
+			
+				<tr>
+					<td>고양이 장례식</td>
+					<td>Cat Funeral</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>조연-동훈의 아버지역</td>
+					<td>23,200,900</td>
+					<td>2,865</td>
+					<td>23,200,900</td>
+					<td>2,865</td>
+				</tr>
+			
+				<tr>
+					<td>수상한 고객들</td>
+					<td>Suspicious Customers</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>단역-노숙자 박씨역</td>
+					<td>7,953,428,000</td>
+					<td>1,059,350</td>
+					<td>7,953,428,000</td>
+					<td>1,059,350</td>
+				</tr>
+			
+				<tr>
+					<td>킬링 타임</td>
+					<td>Killing Time</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>공포(호러)</td>
+					<td>조연</td>
+					<td>1,208,000</td>
+					<td>155</td>
+					<td>1,208,000</td>
+					<td>155</td>
+				</tr>
+			
+				<tr>
+					<td>달빛 길어올리기</td>
+					<td>Hanji</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-천장인역</td>
+					<td>362,535,000</td>
+					<td>57,186</td>
+					<td>362,910,000</td>
+					<td>57,261</td>
+				</tr>
+			
+				<tr>
+					<td>돌이킬 수 없는</td>
+					<td>No Doubt</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>미스터리,드라마</td>
+					<td>단역-버스 기사역</td>
+					<td>472,974,485</td>
+					<td>65,414</td>
+					<td>465,532,500</td>
+					<td>64,371</td>
+				</tr>
+			
+				<tr>
+					<td>죽이러 갑니다</td>
+					<td>Be My Guest</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>코미디,스릴러</td>
+					<td>조연-엄 사장역</td>
+					<td>1,355,500</td>
+					<td>215</td>
+					<td>1,394,500</td>
+					<td>222</td>
+				</tr>
+			
+				<tr>
+					<td>감자심포니</td>
+					<td>Potato Symphony</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>액션,드라마</td>
+					<td>주연-이노끼역</td>
+					<td>6,102,991</td>
+					<td>995</td>
+					<td>6,161,500</td>
+					<td>1,002</td>
+				</tr>
+			
+				<tr>
+					<td>핸드폰</td>
+					<td>Handphone</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>단역-사진작가역</td>
+					<td>4,271,780,582</td>
+					<td>630,049</td>
+					<td>4,221,938,000</td>
+					<td>622,486</td>
+				</tr>
+			
+				<tr>
+					<td>아내가 결혼했다</td>
+					<td>My Wife Got Married</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>조연-부장역</td>
+					<td>11,995,855,000</td>
+					<td>1,788,748</td>
+					<td>12,062,180,000</td>
+					<td>1,799,447</td>
+				</tr>
+			
+				<tr>
+					<td>방울토마토</td>
+					<td>Cherry Tomatos</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>가족,드라마</td>
+					<td>주연-갑수역</td>
+					<td>115,388,000</td>
+					<td>18,533</td>
+					<td>115,388,000</td>
+					<td>18,478</td>
+				</tr>
+			
+				<tr>
+					<td>마을금고 연쇄습격사건</td>
+					<td>Bank Attack</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>단역-이 반장역</td>
+					<td>0</td>
+					<td>123,770</td>
+					<td>728,085,000</td>
+					<td>115,637</td>
+				</tr>
+			
+				<tr>
+					<td>어깨 너머의 연인</td>
+					<td>Love Exposure</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>조연-김용호역</td>
+					<td>0</td>
+					<td>301,153</td>
+					<td>1,974,664,500</td>
+					<td>295,394</td>
+				</tr>
+			
+				<tr>
+					<td>죽어도 해피엔딩</td>
+					<td>Femme Fatale</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>코미디,멜로/로맨스,스릴러</td>
+					<td>단역-젊은 보스를 모시는 길용 역</td>
+					<td>0</td>
+					<td>192,686</td>
+					<td>1,190,809,000</td>
+					<td>181,186</td>
+				</tr>
+			
+				<tr>
+					<td>극락도 살인사건</td>
+					<td>Paradise Murdered</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>공포(호러),미스터리,스릴러</td>
+					<td>조연-용봉거사역</td>
+					<td>0</td>
+					<td>2,259,511</td>
+					<td>13,328,932,000</td>
+					<td>2,079,989</td>
+				</tr>
+			
+				<tr>
+					<td>조폭마누라3</td>
+					<td>My Wife is a Gangster 3 : HK Edition</td>
+					<td>2006</td>
+					<td>한국,홍콩</td>
+					<td>액션,코미디</td>
+					<td>단역-양 사장역</td>
+					<td>0</td>
+					<td>1,690,465</td>
+					<td>8,851,336,500</td>
+					<td>1,468,191</td>
+				</tr>
+			
+				<tr>
+					<td>비열한 거리</td>
+					<td>A Dirty Carnival</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>액션,범죄,드라마</td>
+					<td>단역-우 형사역</td>
+					<td>0</td>
+					<td>2,047,808</td>
+					<td>11,664,597,600</td>
+					<td>1,829,887</td>
+				</tr>
+			
+				<tr>
+					<td>삼거리 무스탕 소년의 최후</td>
+					<td>Never Belongs To Me</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>코미디,액션,SF</td>
+					<td>주연-기태역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>천군</td>
+					<td>Heaven’s Soldiers</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>조연-이희철역</td>
+					<td>0</td>
+					<td>1,232,992</td>
+					<td>5,852,391,000</td>
+					<td>933,147</td>
+				</tr>
+			
+				<tr>
+					<td>바람의 전설</td>
+					<td>Dance With The Wind</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-댄스 스승, 박 노인 역</td>
+					<td>0</td>
+					<td>266,000</td>
+					<td>636,285,500</td>
+					<td>97,925</td>
+				</tr>
+			
+				<tr>
+					<td>말죽거리 잔혹사</td>
+					<td>Spirit Of Jeet Keun Do - Once Upon A Time In High School</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>액션,멜로/로맨스</td>
+					<td>단역-교련 선생님 괴뢰군 역</td>
+					<td>0</td>
+					<td>3,115,767</td>
+					<td>3,837,152,000</td>
+					<td>604,969</td>
+				</tr>
+			
+				<tr>
+					<td>바람난 가족</td>
+					<td>A Good Lawyer&#039;s Wife</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-장운주역</td>
+					<td></td>
+					<td>1,748,258</td>
+					<td>222,000</td>
+					<td>31</td>
+				</tr>
+			
+				<tr>
+					<td>이중간첩</td>
+					<td>Double Agent</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>단역-중정 취조원 역</td>
+					<td>0</td>
+					<td>1,025,928</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>도둑맞곤 못살아</td>
+					<td>Can&#039;T Live Without Robbery</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>단역-개장수역</td>
+					<td></td>
+					<td>110,439</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>인디안 썸머</td>
+					<td>Indian Summer</td>
+					<td>2001</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-열쇠 수리공역</td>
+					<td>0</td>
+					<td>388,865</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>해피엔드</td>
+					<td>Happy End</td>
+					<td>1999</td>
+					<td>한국</td>
+					<td>멜로/로맨스,스릴러</td>
+					<td>단역-배불뚝 형사역</td>
+					<td>0</td>
+					<td>730,000</td>
+					<td>2,158,000</td>
+					<td>260</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,268 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '임정영'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>정령변</td>
+					<td>Banana Spirit</td>
+					<td>1993</td>
+					<td>홍콩</td>
+					<td>코미디,공포(호러)</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>968</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>황비홍의 일대종사</td>
+					<td>Martial Art Master</td>
+					<td>1993</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,114</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>93 강시선생</td>
+					<td>Mr. Vampire</td>
+					<td>1992</td>
+					<td>홍콩</td>
+					<td>공포(호러),코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>320</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>요괴도시</td>
+					<td>Wizard&#039;S Curse</td>
+					<td>1992</td>
+					<td>홍콩</td>
+					<td>액션,공포(호러),판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>4,579</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>구마도장</td>
+					<td>Excorcist Master</td>
+					<td>1992</td>
+					<td>홍콩</td>
+					<td>액션,공포(호러)</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,744</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>귀타귀 2</td>
+					<td>Mad Mad Ghost</td>
+					<td>1992</td>
+					<td>홍콩</td>
+					<td>코미디,공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>봉도필승</td>
+					<td>Money Maker</td>
+					<td>1991</td>
+					<td>홍콩</td>
+					<td>액션,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>465</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>영환지존</td>
+					<td>Spiritul Trinity</td>
+					<td>1991</td>
+					<td>홍콩</td>
+					<td>액션,공포(호러)</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>3,526</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>음악강시</td>
+					<td>The Musical Vampire</td>
+					<td>1990</td>
+					<td>홍콩</td>
+					<td>공포(호러),코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>397</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>천지현문</td>
+					<td>Enternal Combat</td>
+					<td>1990</td>
+					<td>홍콩</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>5,076</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>강시와부시맨</td>
+					<td>Crazy Safari</td>
+					<td>1990</td>
+					<td>홍콩</td>
+					<td>코미디,어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>82,181</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>강시지존</td>
+					<td>The Ultimate Vampire</td>
+					<td>1990</td>
+					<td>홍콩</td>
+					<td>공포(호러),액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>21,959</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>강시선생 3 - 영환도사</td>
+					<td>Mr. Vampire 3</td>
+					<td>1987</td>
+					<td>홍콩</td>
+					<td>공포(호러),코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>65,544</td>
+					<td>14,000</td>
+					<td>2</td>
+				</tr>
+			
+				<tr>
+					<td>강시선생 2</td>
+					<td>Mr. Vampire II</td>
+					<td>1986</td>
+					<td>홍콩</td>
+					<td>공포(호러),코미디</td>
+					<td>주연</td>
+					<td>160,000</td>
+					<td>40</td>
+					<td>469,000</td>
+					<td>87</td>
+				</tr>
+			
+				<tr>
+					<td>강시선생</td>
+					<td>Mr. Vampire</td>
+					<td>1985</td>
+					<td>홍콩</td>
+					<td>공포(호러),코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>47,824</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>패가자</td>
+					<td>The Prodigal Son</td>
+					<td>1983</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>21,320</td>
+					<td>1,410,000</td>
+					<td>872</td>
+				</tr>
+			
+				<tr>
+					<td>귀타귀 &#039;90</td>
+					<td>Encounter Of The Spoky Kind &#039;90</td>
+					<td>1980</td>
+					<td>홍콩</td>
+					<td>공포(호러),코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>68,789</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

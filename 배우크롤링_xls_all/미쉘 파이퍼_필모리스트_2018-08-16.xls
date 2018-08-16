@@ -1,0 +1,424 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '미쉘 파이퍼'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>앤트맨과 와스프</td>
+					<td>Ant-Man and the Wasp</td>
+					<td>2018</td>
+					<td>미국</td>
+					<td>액션,어드벤처,SF</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>47,461,815,885</td>
+					<td>5,447,375</td>
+				</tr>
+			
+				<tr>
+					<td>오리엔트 특급 살인</td>
+					<td>Murder on the Orient Express</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>드라마,미스터리,범죄</td>
+					<td>주연</td>
+					<td>6,645,385,163</td>
+					<td>864,757</td>
+					<td>6,645,385,163</td>
+					<td>864,757</td>
+				</tr>
+			
+				<tr>
+					<td>마더!</td>
+					<td>Mother!</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>드라마,미스터리,스릴러</td>
+					<td>주연</td>
+					<td>368,306,382</td>
+					<td>46,677</td>
+					<td>368,306,382</td>
+					<td>46,677</td>
+				</tr>
+			
+				<tr>
+					<td>위험한 패밀리</td>
+					<td>The Family</td>
+					<td>2013</td>
+					<td>미국,프랑스</td>
+					<td>코미디,범죄,스릴러</td>
+					<td>주연</td>
+					<td>98,410,500</td>
+					<td>17,539</td>
+					<td>98,410,500</td>
+					<td>17,539</td>
+				</tr>
+			
+				<tr>
+					<td>위험한 패밀리 패밀리 에디션</td>
+					<td>The Family</td>
+					<td>2013</td>
+					<td>미국,프랑스</td>
+					<td>코미디,범죄,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,545,000</td>
+					<td>1,920</td>
+				</tr>
+			
+				<tr>
+					<td>다크 섀도우</td>
+					<td>Dark Shadows</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>드라마,공포(호러),스릴러,미스터리</td>
+					<td>주연</td>
+					<td>4,326,459,000</td>
+					<td>582,126</td>
+					<td>4,326,459,000</td>
+					<td>582,126</td>
+				</tr>
+			
+				<tr>
+					<td>피플 라이크 어스 </td>
+					<td>People Like Us</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-릴리안 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>퍼스널 이펙츠</td>
+					<td>Personal Effects</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>20,879,000</td>
+					<td>2,816</td>
+					<td>20,879,000</td>
+					<td>2,816</td>
+				</tr>
+			
+				<tr>
+					<td>절대로 네 여자가 될 수 없을거야</td>
+					<td>I Could Never Be Your Woman</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>화이트 올랜더</td>
+					<td>White Oleander</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아이 엠 샘</td>
+					<td>I Am Sam</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>779,728</td>
+					<td>413,000</td>
+					<td>80</td>
+				</tr>
+			
+				<tr>
+					<td>왓 라이즈 비니스</td>
+					<td>What Lies Beneath</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>공포(호러),미스터리,스릴러</td>
+					<td>주연-클레어 스펜서역</td>
+					<td>0</td>
+					<td>281,598</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스토리 오브 어스</td>
+					<td>The Story Of Us</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>멜로/로맨스,드라마,코미디</td>
+					<td>주연-케이티 조단역</td>
+					<td>0</td>
+					<td>37,322</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>한 여름밤의 꿈</td>
+					<td>A Midsummer Night&#039;S Dream</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>코미디,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>39,783</td>
+					<td>716,000</td>
+					<td>362</td>
+				</tr>
+			
+				<tr>
+					<td>사랑이 지나간 자리 </td>
+					<td>The Deep End Of The Ocean</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>29,490</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>질리안의 서른일곱번째 생일에</td>
+					<td>To Gillian On Her 37Th Birthday</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>52</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>어느 멋진날</td>
+					<td>One Fine Day</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>멜로/로맨스,드라마,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>54,378</td>
+					<td>151,000</td>
+					<td>49</td>
+				</tr>
+			
+				<tr>
+					<td>위험한 아이들 </td>
+					<td>Dangerous Minds</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>42,636</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>울프 </td>
+					<td>Wolf</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>공포(호러),드라마,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>156,919</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>순수의 시대 </td>
+					<td>The Age Of Innocence</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>드라마,사극</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>42,931</td>
+					<td>1,033,000</td>
+					<td>258</td>
+				</tr>
+			
+				<tr>
+					<td>배트맨2</td>
+					<td>Batman Returns</td>
+					<td>1992</td>
+					<td>미국</td>
+					<td>SF,액션,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>168,943</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>프랭키와 쟈니</td>
+					<td>Frankie And Johny</td>
+					<td>1991</td>
+					<td>미국</td>
+					<td>드라마,코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>3,605</td>
+					<td>118,000</td>
+					<td>59</td>
+				</tr>
+			
+				<tr>
+					<td>러시아 하우스</td>
+					<td>The Russia House</td>
+					<td>1990</td>
+					<td>미국</td>
+					<td>스릴러,범죄,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>7,589</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사랑의 행로</td>
+					<td>The Fablulous Baker Boys</td>
+					<td>1989</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-수지 다이아몬드역</td>
+					<td>0</td>
+					<td>3,144</td>
+					<td>141,000</td>
+					<td>45</td>
+				</tr>
+			
+				<tr>
+					<td>불타는 태양</td>
+					<td>Tequila Sunrise</td>
+					<td>1988</td>
+					<td>미국</td>
+					<td>액션,멜로/로맨스,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>184,000</td>
+					<td>92</td>
+				</tr>
+			
+				<tr>
+					<td>위험한 관계 </td>
+					<td>Dangerous Liaisons</td>
+					<td>1988</td>
+					<td>영국,미국</td>
+					<td>드라마,사극</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>412,000</td>
+					<td>148</td>
+				</tr>
+			
+				<tr>
+					<td>레이디 호크 </td>
+					<td>Ladyhawke</td>
+					<td>1985</td>
+					<td>미국</td>
+					<td>SF,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>208,043</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스카페이스 </td>
+					<td>Scarface</td>
+					<td>1983</td>
+					<td>미국</td>
+					<td>드라마,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>250,746</td>
+					<td>3,189,000</td>
+					<td>578</td>
+				</tr>
+			
+				<tr>
+					<td>그리스 2</td>
+					<td>Grease 2</td>
+					<td>1982</td>
+					<td>미국</td>
+					<td>뮤지컬,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

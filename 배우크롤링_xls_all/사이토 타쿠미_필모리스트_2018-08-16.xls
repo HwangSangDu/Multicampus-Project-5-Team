@@ -1,0 +1,99 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '사이토 타쿠미'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>리:본</td>
+					<td>RE:BORN</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>하이앤로우 더 레드 레인</td>
+					<td>High&amp;Low The Red Rain</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>3,017,000</td>
+					<td>352</td>
+				</tr>
+			
+				<tr>
+					<td>카페 서울</td>
+					<td>Cafe Seoul</td>
+					<td>2009</td>
+					<td>일본,한국</td>
+					<td>드라마</td>
+					<td>주연-이사카 준역</td>
+					<td>2,359,647</td>
+					<td>359</td>
+					<td>2,322,600</td>
+					<td>353</td>
+				</tr>
+			
+				<tr>
+					<td>보이즈 러브</td>
+					<td>Boys love</td>
+					<td>2006</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연-노에루역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

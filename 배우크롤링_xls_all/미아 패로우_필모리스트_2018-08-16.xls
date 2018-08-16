@@ -1,0 +1,216 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '미아 패로우'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>아더와 미니모이 3: 두 세계의 전쟁</td>
+					<td>Arthur and the Two Worlds War</td>
+					<td>2010</td>
+					<td>프랑스</td>
+					<td>애니메이션</td>
+					<td>주연</td>
+					<td>434,914,800</td>
+					<td>61,550</td>
+					<td>434,914,800</td>
+					<td>61,550</td>
+				</tr>
+			
+				<tr>
+					<td>아더와 미니모이 2 : 셀레니아 공주 구출 작전</td>
+					<td>Arthur And The Revenge Of Maltazard</td>
+					<td>2009</td>
+					<td>프랑스</td>
+					<td>판타지,어드벤처,애니메이션</td>
+					<td>주연-할머니 역</td>
+					<td>292,857,989</td>
+					<td>44,961</td>
+					<td>288,260,000</td>
+					<td>44,245</td>
+				</tr>
+			
+				<tr>
+					<td>아더와 미니모이-제1탄비밀원정대의출정</td>
+					<td>Arthur And The Invisibles</td>
+					<td>2006</td>
+					<td>프랑스</td>
+					<td>어드벤처,판타지</td>
+					<td>주연</td>
+					<td>823,623,531</td>
+					<td>128,531</td>
+					<td>810,514,000</td>
+					<td>126,546</td>
+				</tr>
+			
+				<tr>
+					<td>씨크릿 오브 조이</td>
+					<td>The Secret Life Of Zoey</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아일랜드의 연풍</td>
+					<td>Widows&#039; Peak</td>
+					<td>1994</td>
+					<td>아일랜드</td>
+					<td>범죄,코미디</td>
+					<td>주연-캐서린 오해어역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>그림자와 안개</td>
+					<td>Shadows and Fog</td>
+					<td>1992</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연-어미 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>브로드웨이의 대니 로즈</td>
+					<td>Broadway Danny Rose</td>
+					<td>1984</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연-티나 비테일 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>허리케인</td>
+					<td>Hurricane</td>
+					<td>1979</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td>280,873</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>나일 살인사건</td>
+					<td>Death on the Nile</td>
+					<td>1978</td>
+					<td>영국</td>
+					<td>미스터리</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>203,454</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>위대한 켓스비</td>
+					<td>The Great Gatsby</td>
+					<td>1974</td>
+					<td>미국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td>144,947</td>
+					<td>82,000</td>
+					<td>41</td>
+				</tr>
+			
+				<tr>
+					<td>공포의 25시</td>
+					<td>Blind Terror</td>
+					<td>1971</td>
+					<td>영국</td>
+					<td>공포(호러),드라마,스릴러,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>69,656</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>영 러버</td>
+					<td>John and Mary</td>
+					<td>1969</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>109,098</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>물망초</td>
+					<td>Forget me never</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

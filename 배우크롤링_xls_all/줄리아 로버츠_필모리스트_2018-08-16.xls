@@ -1,0 +1,541 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '줄리아 로버츠'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>원더</td>
+					<td>Wonder</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>1,984,223,689</td>
+					<td>259,957</td>
+					<td>1,988,444,689</td>
+					<td>260,506</td>
+				</tr>
+			
+				<tr>
+					<td>머니 몬스터</td>
+					<td>Money Monster</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>스릴러,범죄,드라마</td>
+					<td>주연</td>
+					<td>367,961,600</td>
+					<td>47,226</td>
+					<td>367,961,600</td>
+					<td>47,226</td>
+				</tr>
+			
+				<tr>
+					<td>시크릿 인 데어 아이즈</td>
+					<td>Secret in Their Eyes</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>미스터리,스릴러</td>
+					<td>주연</td>
+					<td>162,031,200</td>
+					<td>21,692</td>
+					<td>162,031,200</td>
+					<td>21,692</td>
+				</tr>
+			
+				<tr>
+					<td>어거스트: 가족의 초상</td>
+					<td>August: Osage County</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>542,301,500</td>
+					<td>71,747</td>
+					<td>545,341,500</td>
+					<td>72,377</td>
+				</tr>
+			
+				<tr>
+					<td>백설공주</td>
+					<td>Mirror Mirror</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>판타지,어드벤처</td>
+					<td>주연-왕비역</td>
+					<td>4,097,396,000</td>
+					<td>585,473</td>
+					<td>4,098,844,000</td>
+					<td>585,698</td>
+				</tr>
+			
+				<tr>
+					<td>로맨틱 크라운</td>
+					<td>Larry Crowne</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연-메르세데스 테이노 역</td>
+					<td>860,040,500</td>
+					<td>114,887</td>
+					<td>860,047,500</td>
+					<td>114,888</td>
+				</tr>
+			
+				<tr>
+					<td>먹고 기도하고 사랑하라</td>
+					<td>Eat Pray Love</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>3,738,208,724</td>
+					<td>509,623</td>
+					<td>3,674,965,000</td>
+					<td>500,266</td>
+				</tr>
+			
+				<tr>
+					<td>발렌타인 데이</td>
+					<td>Valentine&#039;S Day</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>1,337,699,931</td>
+					<td>172,997</td>
+					<td>1,314,085,500</td>
+					<td>169,529</td>
+				</tr>
+			
+				<tr>
+					<td>더블 스파이</td>
+					<td>Duplicity</td>
+					<td>2009</td>
+					<td>미국,독일</td>
+					<td>범죄,멜로/로맨스,스릴러</td>
+					<td>주연-클레어 스텐윅역</td>
+					<td>339,420,521</td>
+					<td>51,270</td>
+					<td>332,882,000</td>
+					<td>50,346</td>
+				</tr>
+			
+				<tr>
+					<td>반딧불이 정원</td>
+					<td>Fireflies in the Garden</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>가족,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>찰리윌슨의 전쟁</td>
+					<td>Charlie Wilson&#039;S War</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연-조앤 헤링역</td>
+					<td>1,138,316,611</td>
+					<td>173,263</td>
+					<td>1,128,961,000</td>
+					<td>169,669</td>
+				</tr>
+			
+				<tr>
+					<td>샬롯의 거미줄</td>
+					<td>Charlotte`S Web</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>드라마,코미디,가족</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>334,460</td>
+					<td>1,708,833,500</td>
+					<td>308,740</td>
+				</tr>
+			
+				<tr>
+					<td>앤트 불리</td>
+					<td>Ant Bully</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>애니메이션,코미디</td>
+					<td>주연-개미 호바역</td>
+					<td>0</td>
+					<td>287,984</td>
+					<td>1,450,969,500</td>
+					<td>230,712</td>
+				</tr>
+			
+				<tr>
+					<td>클로저</td>
+					<td>Closer</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>235,466</td>
+					<td>1,629,844,032</td>
+					<td>244,701</td>
+				</tr>
+			
+				<tr>
+					<td>모나리자 스마일</td>
+					<td>Mona Lisa Smile</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>120,995</td>
+					<td>238,920,500</td>
+					<td>37,280</td>
+				</tr>
+			
+				<tr>
+					<td>컨페션</td>
+					<td>Confessions Of A Dangerous Mind</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>드라마,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>152,161</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>그랜드 챔피언</td>
+					<td>Grand Champion</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>코미디,가족</td>
+					<td>조연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>풀 프론탈</td>
+					<td>Full Frontal</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아메리칸 스윗하트</td>
+					<td>America&#039;s Sweethearts</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>147,935</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>멕시칸</td>
+					<td>He Mexian</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>액션,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>225,837</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>에린 브로코비치</td>
+					<td>Erin Brockovich</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-에린역</td>
+					<td>0</td>
+					<td>225,503</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>런어웨이 브라이드</td>
+					<td>Runaway Bride</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>224,668</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>노팅 힐 </td>
+					<td>Notting Hill</td>
+					<td>1999</td>
+					<td>미국,영국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연-안나 스코트역</td>
+					<td>0</td>
+					<td>341,691</td>
+					<td>285,000</td>
+					<td>103</td>
+				</tr>
+			
+				<tr>
+					<td>스텝맘</td>
+					<td>Stepmom</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>113,706</td>
+					<td>119,000</td>
+					<td>50</td>
+				</tr>
+			
+				<tr>
+					<td>내남자친구의결혼식 </td>
+					<td>My Best Friend&#039;S Wedding</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>멜로/로맨스,드라마,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>333,035</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>컨스피러시 </td>
+					<td>Conspiracy Theory</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>미스터리,드라마,스릴러</td>
+					<td>주연-앨리스 슈턴 역</td>
+					<td>0</td>
+					<td>192,005</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>에브리원 세즈 아이러브유 </td>
+					<td>Everyone Says I Love You</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>멜로/로맨스,뮤지컬,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>68,308</td>
+					<td>498,000</td>
+					<td>102</td>
+				</tr>
+			
+				<tr>
+					<td>마이클 콜린스 </td>
+					<td>Michael Collins</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>33,719</td>
+					<td>660,000</td>
+					<td>129</td>
+				</tr>
+			
+				<tr>
+					<td>메리 라일리 </td>
+					<td>Mary Reilly</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>8,872</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>줄리아 로버츠의 사랑게임</td>
+					<td>Something To Talk About</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>24,910</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아이 러브 트러블 </td>
+					<td>I Love Trouble</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>126,130</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>펠리칸 브리프 </td>
+					<td>The Pelican Brief</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>239,866</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>후크</td>
+					<td>Hook</td>
+					<td>1991</td>
+					<td>미국</td>
+					<td>가족,어드벤처,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>281,084</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사랑을 위하여</td>
+					<td>Dying Young</td>
+					<td>1991</td>
+					<td>미국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>195,490</td>
+					<td>153,000</td>
+					<td>51</td>
+				</tr>
+			
+				<tr>
+					<td>적과의 동침</td>
+					<td>Sleeping With The Enemy</td>
+					<td>1991</td>
+					<td>미국</td>
+					<td>드라마,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>186,752</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>줄리아 로버츠의 유혹의 선</td>
+					<td>Flatliners</td>
+					<td>1990</td>
+					<td>미국</td>
+					<td>미스터리,공포(호러)</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>6,446</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>귀여운 여인</td>
+					<td>Pretty Woman</td>
+					<td>1990</td>
+					<td>미국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>109,797</td>
+					<td>102,000</td>
+					<td>22</td>
+				</tr>
+			
+				<tr>
+					<td>미스틱 피자</td>
+					<td>Mystic Pizza</td>
+					<td>1988</td>
+					<td>미국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>14,279</td>
+					<td>70,000</td>
+					<td>10</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

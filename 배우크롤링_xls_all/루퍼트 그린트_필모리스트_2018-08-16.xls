@@ -1,0 +1,229 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '루퍼트 그린트'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>문워커스</td>
+					<td>Moonwalkers</td>
+					<td>2015</td>
+					<td>프랑스</td>
+					<td>코미디,액션,어드벤처</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,458,200</td>
+					<td>216</td>
+				</tr>
+			
+				<tr>
+					<td>장난감이 살아있다</td>
+					<td>Foosball</td>
+					<td>2013</td>
+					<td>아르헨티나,스페인</td>
+					<td>애니메이션,어드벤처,가족</td>
+					<td>주연(목소리)</td>
+					<td>1,112,430,600</td>
+					<td>142,977</td>
+					<td>1,112,931,600</td>
+					<td>143,100</td>
+				</tr>
+			
+				<tr>
+					<td>체리밤</td>
+					<td>Cherrybomb</td>
+					<td>2013</td>
+					<td>영국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td>1,025,000</td>
+					<td>500</td>
+					<td>1,025,000</td>
+					<td>500</td>
+				</tr>
+			
+				<tr>
+					<td>대공습</td>
+					<td>Into the White</td>
+					<td>2012</td>
+					<td>노르웨이</td>
+					<td>전쟁,액션,드라마</td>
+					<td>주연</td>
+					<td>7,498,000</td>
+					<td>2,572</td>
+					<td>7,498,000</td>
+					<td>2,572</td>
+				</tr>
+			
+				<tr>
+					<td>해리포터와 죽음의 성물2</td>
+					<td>Harry Potter and the Deathly Hallows: Part 2</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>판타지,미스터리</td>
+					<td>주연-론 웨슬리역</td>
+					<td>34,507,819,000</td>
+					<td>4,400,298</td>
+					<td>34,668,545,500</td>
+					<td>4,421,210</td>
+				</tr>
+			
+				<tr>
+					<td>해리 포터와 죽음의 성물1</td>
+					<td>Harry Potter and the Deathly Hallows: Part I</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>미스터리,판타지</td>
+					<td>주연-론 웨슬리역</td>
+					<td>19,906,900,266</td>
+					<td>2,809,053</td>
+					<td>20,219,758,000</td>
+					<td>2,853,500</td>
+				</tr>
+			
+				<tr>
+					<td>해리 포터와 혼혈 왕자</td>
+					<td>Harry Potter And The Half-Blood Prince</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>어드벤처,액션,가족</td>
+					<td>주연-론 위즐리역</td>
+					<td>20,580,402,431</td>
+					<td>3,002,669</td>
+					<td>20,267,484,000</td>
+					<td>2,957,736</td>
+				</tr>
+			
+				<tr>
+					<td>해리 포터와 불사조 기사단</td>
+					<td>Harry Potter And The Order Of The Phoenix</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>판타지,액션,어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>3,475,000</td>
+					<td>22,899,775,300</td>
+					<td>3,691,060</td>
+				</tr>
+			
+				<tr>
+					<td>드라이빙 레슨</td>
+					<td>Driving Lessons</td>
+					<td>2006</td>
+					<td>영국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>해리포터와 불의 잔</td>
+					<td>Harry Potter And The Goblet Of Fire</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>3,615,000</td>
+					<td>21,464,160,900</td>
+					<td>3,430,975</td>
+				</tr>
+			
+				<tr>
+					<td>해리포터와 아즈카반의 죄수</td>
+					<td>Harry Potter And The Prisoner Of Azkaban</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,532,000</td>
+					<td>10,926,141,000</td>
+					<td>1,775,033</td>
+				</tr>
+			
+				<tr>
+					<td>해리포터와 비밀의 방</td>
+					<td>Harry Potter And The Chamber Of Secrets</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>4,000,000</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>썬더팬츠</td>
+					<td>Thunderpants</td>
+					<td>2002</td>
+					<td>영국,독일</td>
+					<td>코미디,가족,SF</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>해리포터와 마법사의 돌</td>
+					<td>Harry Potter And The Socrerers Stone</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>가족,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,585,389</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

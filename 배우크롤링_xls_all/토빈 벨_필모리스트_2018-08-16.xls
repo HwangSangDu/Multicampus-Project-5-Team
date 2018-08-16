@@ -1,0 +1,177 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '토빈 벨'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>직쏘</td>
+					<td>Jigsaw</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러,범죄</td>
+					<td>주연-직쏘역</td>
+					<td>972,332,500</td>
+					<td>111,506</td>
+					<td>977,950,500</td>
+					<td>112,237</td>
+				</tr>
+			
+				<tr>
+					<td>쏘우 3D</td>
+					<td>Saw 3D</td>
+					<td>2010</td>
+					<td>미국,캐나다</td>
+					<td>공포(호러)</td>
+					<td>주연-직쏘 / 존역</td>
+					<td>1,470,144,870</td>
+					<td>115,878</td>
+					<td>1,447,063,000</td>
+					<td>114,034</td>
+				</tr>
+			
+				<tr>
+					<td>쏘우-여섯번의 기회</td>
+					<td>Saw Ⅵ</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>공포(호러),미스터리,범죄</td>
+					<td>주연</td>
+					<td>161,215,143</td>
+					<td>20,116</td>
+					<td>158,684,000</td>
+					<td>19,796</td>
+				</tr>
+			
+				<tr>
+					<td>쏘우 V</td>
+					<td>Saw V</td>
+					<td>2008</td>
+					<td>미국,캐나다</td>
+					<td>범죄,공포(호러),스릴러</td>
+					<td>주연-직쏘/ 존 크레이머역</td>
+					<td>1,044,040,000</td>
+					<td>150,835</td>
+					<td>1,044,027,000</td>
+					<td>150,832</td>
+				</tr>
+			
+				<tr>
+					<td>쏘우 4</td>
+					<td>Saw Ⅳ</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>273,959</td>
+					<td>1,832,431,500</td>
+					<td>271,393</td>
+				</tr>
+			
+				<tr>
+					<td>부기맨 2</td>
+					<td>Boogeyman 2</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>쏘우 3</td>
+					<td>Saw Ⅲ</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연-직쏘/존역</td>
+					<td>0</td>
+					<td>432,876</td>
+					<td>2,406,433,500</td>
+					<td>386,547</td>
+				</tr>
+			
+				<tr>
+					<td>쏘우 2</td>
+					<td>Saw Ⅱ</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연-직쏘 / 존역</td>
+					<td>0</td>
+					<td>426,650</td>
+					<td>2,476,201,400</td>
+					<td>388,105</td>
+				</tr>
+			
+				<tr>
+					<td>흑협 2</td>
+					<td>Black Mask 2 : City Of Masks</td>
+					<td>2002</td>
+					<td>홍콩</td>
+					<td>액션,드라마,SF</td>
+					<td>주연</td>
+					<td>1,610,000</td>
+					<td>650</td>
+					<td>1,610,000</td>
+					<td>650</td>
+				</tr>
+			
+				<tr>
+					<td>베스트 오브 더 베스트 4 : 파이널 러쉬</td>
+					<td>Best of the Best : Without Warning</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

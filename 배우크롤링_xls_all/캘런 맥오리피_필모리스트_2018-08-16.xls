@@ -1,0 +1,99 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '캘런 맥오리피'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>해커</td>
+					<td>Hacker</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>스릴러,범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>로봇 오버로드</td>
+					<td>Robot Overlords</td>
+					<td>2014</td>
+					<td>영국</td>
+					<td>SF,액션</td>
+					<td>주연-숀 플린역</td>
+					<td>988,000</td>
+					<td>189</td>
+					<td>988,000</td>
+					<td>189</td>
+				</tr>
+			
+				<tr>
+					<td>카이트</td>
+					<td>Kite</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>범죄,액션</td>
+					<td>주연</td>
+					<td>66,844,000</td>
+					<td>11,287</td>
+					<td>66,844,000</td>
+					<td>11,287</td>
+				</tr>
+			
+				<tr>
+					<td>플립</td>
+					<td>Flipped</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-브라이스역</td>
+					<td>2,818,791,900</td>
+					<td>354,601</td>
+					<td>2,829,830,900</td>
+					<td>355,767</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

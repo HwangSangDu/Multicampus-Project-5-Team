@@ -1,0 +1,203 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '주드 넬슨'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>배드 키즈 고우 투 헬</td>
+					<td>Bad Kids Go To Hell </td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>스릴러,공포(호러)</td>
+					<td>주연</td>
+					<td>100,000</td>
+					<td>10</td>
+					<td>100,000</td>
+					<td>10</td>
+				</tr>
+			
+				<tr>
+					<td>지구가 멈추는 날 2012</td>
+					<td>The Day The Earth Stopped</td>
+					<td>2009</td>
+					<td>호주</td>
+					<td>SF,액션</td>
+					<td>주연-찰리 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>블랙 홀</td>
+					<td>The Black Hole</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>드라마,SF,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>데드 마스터</td>
+					<td>Dark Asylum</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>스릴러,공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>로스트 보이지</td>
+					<td>Lost Voyage</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>공포(호러),미스터리,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>팔콘 다운</td>
+					<td>Falcon Down</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>스릴러,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>300</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>살인 정원</td>
+					<td>Cabin By The Lake</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>코미디,공포(호러),스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>블랙워터트레일 </td>
+					<td>Blackwater Trail</td>
+					<td>1996</td>
+					<td>호주</td>
+					<td>스릴러,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,056</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>모델, 작가 그리고 애인 </td>
+					<td>Entangled</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>드라마,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>6,731</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>이면의 정사 </td>
+					<td>Every Breath</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,006</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>로 앤 크라임</td>
+					<td>Law And Crime</td>
+					<td>1992</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>4,417</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>여정</td>
+					<td>Fandango</td>
+					<td>1985</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

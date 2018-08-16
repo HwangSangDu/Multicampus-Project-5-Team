@@ -1,0 +1,138 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '댄 스티븐스'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>찰스 디킨스의 비밀 서재</td>
+					<td>The Man Who Invented Christmas</td>
+					<td>2017</td>
+					<td>아일랜드,캐나다</td>
+					<td>드라마,판타지</td>
+					<td>주연</td>
+					<td>60,577,600</td>
+					<td>7,909</td>
+					<td>60,577,600</td>
+					<td>7,909</td>
+				</tr>
+			
+				<tr>
+					<td>콜로설</td>
+					<td>Colossal</td>
+					<td>2017</td>
+					<td>캐나다,스페인</td>
+					<td>액션,코미디,SF</td>
+					<td>주연</td>
+					<td>114,967,100</td>
+					<td>14,687</td>
+					<td>114,967,100</td>
+					<td>14,687</td>
+				</tr>
+			
+				<tr>
+					<td>미녀와 야수</td>
+					<td>Beauty and the Beast</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>멜로/로맨스,판타지,뮤지컬</td>
+					<td>주연</td>
+					<td>42,132,589,579</td>
+					<td>5,138,193</td>
+					<td>42,133,751,579</td>
+					<td>5,138,328</td>
+				</tr>
+			
+				<tr>
+					<td>퍼미션</td>
+					<td>Permission</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>코미디,드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>더 게스트</td>
+					<td>The Guest</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연-데이비드역</td>
+					<td>10,000</td>
+					<td>2</td>
+					<td>10,000</td>
+					<td>2</td>
+				</tr>
+			
+				<tr>
+					<td>박물관이 살아있다 : 비밀의 무덤</td>
+					<td>Night at the Museum: Secret of the Tomb</td>
+					<td>2014</td>
+					<td>미국,영국</td>
+					<td>어드벤처,코미디,가족</td>
+					<td>주연</td>
+					<td>8,170,784,606</td>
+					<td>1,101,678</td>
+					<td>8,170,784,606</td>
+					<td>1,101,678</td>
+				</tr>
+			
+				<tr>
+					<td>섬머 인 페브러리</td>
+					<td>Summer in February</td>
+					<td>2013</td>
+					<td>영국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-길버트 에반스역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

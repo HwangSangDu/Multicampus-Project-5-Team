@@ -1,0 +1,138 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '이시다 유리코'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>나의 아내</td>
+					<td>My Wife</td>
+					<td>2011</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>5,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>사요나라 이츠카</td>
+					<td>Sayonara Itsuka</td>
+					<td>2010</td>
+					<td>한국,태국,일본</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-다즈스에 미츠코역</td>
+					<td>181,970,548</td>
+					<td>23,605</td>
+					<td>179,113,500</td>
+					<td>23,229</td>
+				</tr>
+			
+				<tr>
+					<td>진구세주전설 북두의권 3부 라오우전 격투의 장</td>
+					<td></td>
+					<td>2007</td>
+					<td>일본</td>
+					<td>애니메이션</td>
+					<td>주연</td>
+					<td>9,000</td>
+					<td>1</td>
+					<td>9,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>진구세주전설 북두의 권 - 유리아전</td>
+					<td>Fist Of The North Star: The Legend Of Yuria</td>
+					<td>2007</td>
+					<td>일본</td>
+					<td>애니메이션,액션,어드벤처</td>
+					<td>주연(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>진구세주전설 북두의권 1부 라오우전 순애의 장 </td>
+					<td></td>
+					<td>2006</td>
+					<td>일본</td>
+					<td>애니메이션</td>
+					<td>주연</td>
+					<td>9,000</td>
+					<td>1</td>
+					<td>9,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>게게</td>
+					<td></td>
+					<td>2003</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>폼포코 너구리 대작전</td>
+					<td>The Raccoon War</td>
+					<td>1994</td>
+					<td>일본</td>
+					<td>애니메이션,코미디,가족</td>
+					<td>주연(목소리)</td>
+					<td>0</td>
+					<td>21,061</td>
+					<td>150,250,500</td>
+					<td>23,587</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

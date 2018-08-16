@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '김재욱'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>나비잠</td>
+					<td>Butterfly Sleep</td>
+					<td>2017</td>
+					<td>한국,일본</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>덕혜옹주</td>
+					<td>The Last Princess</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>사극,드라마</td>
+					<td>조연-다케유키역</td>
+					<td>44,393,828,109</td>
+					<td>5,599,229</td>
+					<td>44,395,967,609</td>
+					<td>5,599,665</td>
+				</tr>
+			
+				<tr>
+					<td>다른 길이 있다</td>
+					<td>Another Way</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-수완역</td>
+					<td>22,681,700</td>
+					<td>2,845</td>
+					<td>23,394,700</td>
+					<td>2,966</td>
+				</tr>
+			
+				<tr>
+					<td>두 개의 연애</td>
+					<td>Two Rooms, Two Nights</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연-인성역</td>
+					<td>13,282,500</td>
+					<td>1,466</td>
+					<td>13,282,500</td>
+					<td>1,466</td>
+				</tr>
+			
+				<tr>
+					<td>플랑크 상수</td>
+					<td>Planck Constant</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마,판타지,코미디</td>
+					<td>주연</td>
+					<td>4,861,500</td>
+					<td>592</td>
+					<td>4,953,500</td>
+					<td>604</td>
+				</tr>
+			
+				<tr>
+					<td>서양 골동 양과자점 앤티크</td>
+					<td>Antique</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-민선우 역</td>
+					<td>7,367,880,833</td>
+					<td>1,173,310</td>
+					<td>7,420,479,500</td>
+					<td>1,181,332</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

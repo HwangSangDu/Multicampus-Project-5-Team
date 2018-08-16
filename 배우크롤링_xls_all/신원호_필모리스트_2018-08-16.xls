@@ -1,0 +1,99 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '신원호'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>스타박&#039;스 다방</td>
+					<td>Bittersweet Brew</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>조연-박차두역</td>
+					<td>13,220,000</td>
+					<td>1,886</td>
+					<td>13,220,000</td>
+					<td>1,886</td>
+				</tr>
+			
+				<tr>
+					<td>어느 여름날 밤에</td>
+					<td>One Summer Night</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>1,477,000</td>
+					<td>189</td>
+					<td>1,477,000</td>
+					<td>189</td>
+				</tr>
+			
+				<tr>
+					<td>사랑받지 못한 여자</td>
+					<td>ANGEL IS DEAD</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>2,097,000</td>
+					<td>327</td>
+					<td>2,097,000</td>
+					<td>327</td>
+				</tr>
+			
+				<tr>
+					<td>친애하는 지도자동지께</td>
+					<td>Dear Dictator </td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>2,140,000</td>
+					<td>339</td>
+					<td>2,140,000</td>
+					<td>339</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

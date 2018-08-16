@@ -1,0 +1,255 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '브루스 그린우드'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>더 포스트</td>
+					<td>The Post</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>조연</td>
+					<td>1,090,246,148</td>
+					<td>137,841</td>
+					<td>1,090,246,148</td>
+					<td>137,841</td>
+				</tr>
+			
+				<tr>
+					<td>트루스</td>
+					<td>Truth</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>조연</td>
+					<td>151,967,000</td>
+					<td>19,315</td>
+					<td>152,153,000</td>
+					<td>19,340</td>
+				</tr>
+			
+				<tr>
+					<td>와일드라이크</td>
+					<td>WildLike</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>드라마,어드벤처</td>
+					<td>주연-바트역</td>
+					<td>8,000</td>
+					<td>1</td>
+					<td>8,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>엘리펀트 송</td>
+					<td>Elephant Song</td>
+					<td>2014</td>
+					<td>캐나다</td>
+					<td>미스터리,드라마</td>
+					<td>주연</td>
+					<td>116,756,400</td>
+					<td>14,883</td>
+					<td>116,806,400</td>
+					<td>14,893</td>
+				</tr>
+			
+				<tr>
+					<td>엔들리스 러브</td>
+					<td>Endless Love</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-휴역</td>
+					<td>165,237,000</td>
+					<td>22,091</td>
+					<td>165,237,000</td>
+					<td>22,091</td>
+				</tr>
+			
+				<tr>
+					<td>도노반스 에코</td>
+					<td>Donovan&#039;s Echo</td>
+					<td>2011</td>
+					<td>캐나다</td>
+					<td>드라마,판타지,미스터리</td>
+					<td>주연</td>
+					<td>7,988,000</td>
+					<td>1,544</td>
+					<td>7,988,000</td>
+					<td>1,544</td>
+				</tr>
+			
+				<tr>
+					<td>믹의 지름길</td>
+					<td>Meek&#039;s Cutoff</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>서부극(웨스턴)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>928,000</td>
+					<td>187</td>
+				</tr>
+			
+				<tr>
+					<td>소방서를 부탁해</td>
+					<td>Firehouse Dog</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>액션,코미디,가족</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>에이트 빌로우</td>
+					<td>Eight Below</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>어드벤처,드라마</td>
+					<td>조연-데이비스역</td>
+					<td>0</td>
+					<td>19,922</td>
+					<td>106,692,500</td>
+					<td>17,232</td>
+				</tr>
+			
+				<tr>
+					<td>레이싱 스트라이프스</td>
+					<td>Racing Stripes</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>가족,어드벤처,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>세이빙 밀리</td>
+					<td>Saving Milly</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스웹트 어웨이</td>
+					<td>Swept Away</td>
+					<td>2002</td>
+					<td>영국,이탈리아</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>442</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>빌로우</td>
+					<td>Below</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>미스터리,스릴러,공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>D-13</td>
+					<td>Thirteen Days</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>52,856</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>코드</td>
+					<td>Cord</td>
+					<td>2000</td>
+					<td>캐나다</td>
+					<td>스릴러,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>엑조티카 </td>
+					<td>Exotica</td>
+					<td>1994</td>
+					<td>캐나다</td>
+					<td>드라마,성인물(에로)</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>13,387</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

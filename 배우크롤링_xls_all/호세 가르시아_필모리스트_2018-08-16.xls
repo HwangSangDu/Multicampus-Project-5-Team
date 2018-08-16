@@ -1,0 +1,177 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '호세 가르시아'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>미세스 하이드</td>
+					<td>Mrs Hyde</td>
+					<td>2017</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>24,599,400</td>
+					<td>2,995</td>
+					<td>24,865,400</td>
+					<td>3,025</td>
+				</tr>
+			
+				<tr>
+					<td>풀 스피드</td>
+					<td>Full Speed</td>
+					<td>2016</td>
+					<td>프랑스</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>4,302,100</td>
+					<td>570</td>
+					<td>4,302,100</td>
+					<td>570</td>
+				</tr>
+			
+				<tr>
+					<td>바스티유 데이</td>
+					<td>Bastille Day</td>
+					<td>2016</td>
+					<td>미국,프랑스</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>766,892,600</td>
+					<td>96,579</td>
+					<td>766,892,600</td>
+					<td>96,579</td>
+				</tr>
+			
+				<tr>
+					<td>비바 프랑스</td>
+					<td>Vive la France</td>
+					<td>2013</td>
+					<td>프랑스</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>14,325,000</td>
+					<td>2,050</td>
+					<td>14,325,000</td>
+					<td>2,050</td>
+				</tr>
+			
+				<tr>
+					<td>드림팀</td>
+					<td>Les Seigneurs</td>
+					<td>2012</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>68,051,500</td>
+					<td>9,483</td>
+					<td>68,051,500</td>
+					<td>9,483</td>
+				</tr>
+			
+				<tr>
+					<td>죽음의 씨앗</td>
+					<td>Seeds of Death</td>
+					<td>2007</td>
+					<td>프랑스</td>
+					<td>범죄,드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>액스 취업에 관한 위험한 안내서</td>
+					<td>The Ax</td>
+					<td>2005</td>
+					<td>벨기에,프랑스,스페인</td>
+					<td>코미디,드라마,범죄</td>
+					<td>주연-브뤼노 다베르역</td>
+					<td>0</td>
+					<td>804</td>
+					<td>5,425,000</td>
+					<td>804</td>
+				</tr>
+			
+				<tr>
+					<td>검은상자</td>
+					<td>The Black Box</td>
+					<td>2005</td>
+					<td>프랑스</td>
+					<td>스릴러,미스터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>당신 먼저</td>
+					<td>After You</td>
+					<td>2003</td>
+					<td>프랑스</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>5분간의 휴식</td>
+					<td>Cinq Minutes De Detente</td>
+					<td>1999</td>
+					<td>프랑스</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,190 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '아미르 칸'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>당갈</td>
+					<td>Dangal</td>
+					<td>2016</td>
+					<td>인도</td>
+					<td>액션,드라마</td>
+					<td>주연</td>
+					<td>903,257,500</td>
+					<td>108,959</td>
+					<td>906,416,500</td>
+					<td>109,441</td>
+				</tr>
+			
+				<tr>
+					<td>피케이: 별에서 온 얼간이</td>
+					<td>PK</td>
+					<td>2014</td>
+					<td>인도</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>352,152,800</td>
+					<td>45,301</td>
+					<td>352,436,800</td>
+					<td>45,349</td>
+				</tr>
+			
+				<tr>
+					<td>피케이: 별에서 온 얼간이 감독판</td>
+					<td>PK</td>
+					<td>2014</td>
+					<td>인도</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>9,391,000</td>
+					<td>1,227</td>
+					<td>9,391,000</td>
+					<td>1,227</td>
+				</tr>
+			
+				<tr>
+					<td>더 그레이트 서커스</td>
+					<td>Dhoom 3</td>
+					<td>2013</td>
+					<td>인도</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>54,000</td>
+					<td>9</td>
+					<td>54,000</td>
+					<td>9</td>
+				</tr>
+			
+				<tr>
+					<td>세 얼간이</td>
+					<td>3 Idiots</td>
+					<td>2009</td>
+					<td>인도</td>
+					<td>코미디</td>
+					<td>주연-란초 역</td>
+					<td>3,355,257,500</td>
+					<td>459,307</td>
+					<td>3,357,755,000</td>
+					<td>459,686</td>
+				</tr>
+			
+				<tr>
+					<td>세 얼간이 감독판</td>
+					<td>3 Idiots</td>
+					<td>2009</td>
+					<td>인도</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>6,054,000</td>
+					<td>742</td>
+					<td>61,158,400</td>
+					<td>7,484</td>
+				</tr>
+			
+				<tr>
+					<td>가지니</td>
+					<td>Ghajini</td>
+					<td>2008</td>
+					<td>인도</td>
+					<td>액션,드라마,미스터리,멜로/로맨스,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>지상의 별처럼</td>
+					<td>Like Stars on Earth</td>
+					<td>2007</td>
+					<td>인도</td>
+					<td>드라마</td>
+					<td>감독,주연</td>
+					<td>150,262,500</td>
+					<td>23,406</td>
+					<td>159,026,500</td>
+					<td>24,965</td>
+				</tr>
+			
+				<tr>
+					<td>라이징: 발라드 오브 맹갈 팬디</td>
+					<td>The Rising: Ballad Of Mangal Pandey</td>
+					<td>2005</td>
+					<td>인도</td>
+					<td>드라마,전쟁</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>라간</td>
+					<td>Lagaan: Once Upon A Time In India</td>
+					<td>2001</td>
+					<td>인도</td>
+					<td>멜로/로맨스,뮤지컬</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>랑길라</td>
+					<td>Rangeela</td>
+					<td>1995</td>
+					<td>이란</td>
+					<td>코미디,드라마,뮤지컬</td>
+					<td>주연-문나역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

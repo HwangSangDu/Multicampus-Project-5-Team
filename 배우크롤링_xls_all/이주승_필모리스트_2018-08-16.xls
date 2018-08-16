@@ -1,0 +1,268 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '이주승'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>대결</td>
+					<td>Duel:The Final Round</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>251,176,500</td>
+					<td>32,278</td>
+					<td>251,176,500</td>
+					<td>32,278</td>
+				</tr>
+			
+				<tr>
+					<td>졸업반</td>
+					<td>The Senior Class</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>애니메이션</td>
+					<td>주연-정우 (목소리)역(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>소셜포비아</td>
+					<td>Socialphobia</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>스릴러,드라마</td>
+					<td>주연</td>
+					<td>1,960,891,963</td>
+					<td>249,372</td>
+					<td>1,979,007,063</td>
+					<td>251,551</td>
+				</tr>
+			
+				<tr>
+					<td>사브라 </td>
+					<td>Sabra</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>썸남썸녀</td>
+					<td></td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디,드라마</td>
+					<td>주연-남자4호 역역</td>
+					<td></td>
+					<td></td>
+					<td>566,000</td>
+					<td>81</td>
+				</tr>
+			
+				<tr>
+					<td>출중한 여자</td>
+					<td></td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>98,000</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>셔틀콕</td>
+					<td>Shuttlecock</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>미스터리,멜로/로맨스,드라마</td>
+					<td>주연-민재역</td>
+					<td>34,401,355</td>
+					<td>4,518</td>
+					<td>35,332,355</td>
+					<td>4,654</td>
+				</tr>
+			
+				<tr>
+					<td>방황하는 칼날</td>
+					<td>Broken</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>범죄,스릴러</td>
+					<td>조연-조두식역</td>
+					<td>7,828,526,800</td>
+					<td>989,881</td>
+					<td>7,828,891,800</td>
+					<td>989,906</td>
+				</tr>
+			
+				<tr>
+					<td>누나</td>
+					<td>A Boy&#039;s Sister</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-진호역</td>
+					<td>14,039,700</td>
+					<td>1,869</td>
+					<td>14,465,700</td>
+					<td>1,940</td>
+				</tr>
+			
+				<tr>
+					<td>U.F.O.</td>
+					<td>U.F.O.</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마,미스터리</td>
+					<td>주연-정순규역</td>
+					<td>7,129,000</td>
+					<td>987</td>
+					<td>8,518,000</td>
+					<td>1,240</td>
+				</tr>
+			
+				<tr>
+					<td>작별들</td>
+					<td>Farewell</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-용규역</td>
+					<td></td>
+					<td></td>
+					<td>537,000</td>
+					<td>137</td>
+				</tr>
+			
+				<tr>
+					<td>평범한 날들</td>
+					<td>Ordinary Days</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>10,111,400</td>
+					<td>1,327</td>
+					<td>10,687,400</td>
+					<td>1,423</td>
+				</tr>
+			
+				<tr>
+					<td>간증</td>
+					<td>A Confession</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>주연-윤경호역</td>
+					<td>957,000</td>
+					<td>120</td>
+					<td>957,000</td>
+					<td>120</td>
+				</tr>
+			
+				<tr>
+					<td>DISTANCE</td>
+					<td>DISTANCE</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>열병</td>
+					<td>A Fever</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>58,500</td>
+					<td>39</td>
+				</tr>
+			
+				<tr>
+					<td>원 나잇 스탠드</td>
+					<td>One Night Stand</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>11,379,871</td>
+					<td>1,689</td>
+					<td>14,586,800</td>
+					<td>2,124</td>
+				</tr>
+			
+				<tr>
+					<td>장례식의 멤버</td>
+					<td>Members of the Funeral</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>2,625,836</td>
+					<td>395</td>
+					<td>3,522,000</td>
+					<td>541</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

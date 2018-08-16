@@ -1,0 +1,203 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '마크 스트롱'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>킹스맨: 골든 서클</td>
+					<td>Kingsman: The Golden Circle</td>
+					<td>2017</td>
+					<td>미국,영국</td>
+					<td>액션,어드벤처,코미디</td>
+					<td>주연</td>
+					<td>40,987,484,736</td>
+					<td>4,945,484</td>
+					<td>40,987,484,736</td>
+					<td>4,945,484</td>
+				</tr>
+			
+				<tr>
+					<td>대테러 님로드 작전</td>
+					<td>6 Days</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>액션,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>미스 슬로운</td>
+					<td>Miss Sloane</td>
+					<td>2016</td>
+					<td>미국,프랑스</td>
+					<td>드라마,스릴러</td>
+					<td>조연</td>
+					<td>381,394,300</td>
+					<td>48,051</td>
+					<td>381,394,300</td>
+					<td>48,051</td>
+				</tr>
+			
+				<tr>
+					<td>내가 잠들기 전에</td>
+					<td>Before I go to sleep</td>
+					<td>2014</td>
+					<td>영국</td>
+					<td>미스터리,스릴러</td>
+					<td>주연</td>
+					<td>390,872,600</td>
+					<td>50,098</td>
+					<td>390,872,600</td>
+					<td>50,098</td>
+				</tr>
+			
+				<tr>
+					<td>마인드스케이프</td>
+					<td>Mindscape</td>
+					<td>2013</td>
+					<td>스페인</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>220,476,900</td>
+					<td>30,257</td>
+					<td>220,476,900</td>
+					<td>30,257</td>
+				</tr>
+			
+				<tr>
+					<td>블러드 워</td>
+					<td>Blood</td>
+					<td>2013</td>
+					<td>영국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>300,000</td>
+					<td>60</td>
+					<td>300,000</td>
+					<td>60</td>
+				</tr>
+			
+				<tr>
+					<td>테이크다운</td>
+					<td>Welcome to the Punch</td>
+					<td>2012</td>
+					<td>영국,미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>135,780,500</td>
+					<td>19,415</td>
+					<td>135,780,500</td>
+					<td>19,415</td>
+				</tr>
+			
+				<tr>
+					<td>팅커 테일러 솔저 스파이</td>
+					<td>Tinker, Tailor, Soldier, Spy</td>
+					<td>2011</td>
+					<td>영국,프랑스,독일</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>648,304,500</td>
+					<td>87,155</td>
+					<td>663,163,200</td>
+					<td>88,986</td>
+				</tr>
+			
+				<tr>
+					<td>킥 애스: 영웅의 탄생</td>
+					<td>Kick-Ass</td>
+					<td>2010</td>
+					<td>영국,미국</td>
+					<td>액션,어드벤처,코미디</td>
+					<td>주연-프랭크 역</td>
+					<td>1,167,536,970</td>
+					<td>153,849</td>
+					<td>1,148,869,500</td>
+					<td>151,159</td>
+				</tr>
+			
+				<tr>
+					<td>바디 오브 라이즈</td>
+					<td>Body Of Lies</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>스릴러,액션</td>
+					<td>주연</td>
+					<td>3,811,488,333</td>
+					<td>584,861</td>
+					<td>3,839,806,000</td>
+					<td>589,899</td>
+				</tr>
+			
+				<tr>
+					<td>슈퍼스티션</td>
+					<td>Superstition</td>
+					<td>2001</td>
+					<td>영국,네덜란드</td>
+					<td>드라마,공포(호러),스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>투 엔드 올 워즈</td>
+					<td>To End All Wars</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>드라마,전쟁,액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

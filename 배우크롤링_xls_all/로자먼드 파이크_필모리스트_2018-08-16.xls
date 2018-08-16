@@ -1,0 +1,216 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '로자먼드 파이크'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>엔테베 작전</td>
+					<td>7 Days in Entebbe</td>
+					<td>2018</td>
+					<td>미국,영국</td>
+					<td>범죄,드라마,스릴러</td>
+					<td>주연</td>
+					<td>48,130,200</td>
+					<td>6,000</td>
+					<td>48,130,200</td>
+					<td>6,000</td>
+				</tr>
+			
+				<tr>
+					<td>몬태나</td>
+					<td>Hostiles</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>231,968,300</td>
+					<td>29,354</td>
+					<td>231,968,300</td>
+					<td>29,354</td>
+				</tr>
+			
+				<tr>
+					<td>철의 심장을 가진 남자</td>
+					<td>The Man with the Iron Heart</td>
+					<td>2017</td>
+					<td>프랑스,영국,벨기에,미국</td>
+					<td>액션,스릴러,전쟁</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,710,000</td>
+					<td>201</td>
+				</tr>
+			
+				<tr>
+					<td>오직 사랑뿐</td>
+					<td>A United Kingdom</td>
+					<td>2016</td>
+					<td>영국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>111,948,718</td>
+					<td>14,299</td>
+					<td>111,948,718</td>
+					<td>14,299</td>
+				</tr>
+			
+				<tr>
+					<td>리턴 투 센더</td>
+					<td>Return to Sender</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>범죄,스릴러</td>
+					<td>주연</td>
+					<td>47,702,000</td>
+					<td>6,062</td>
+					<td>47,702,000</td>
+					<td>6,062</td>
+				</tr>
+			
+				<tr>
+					<td>해피 홀리데이</td>
+					<td>What We Did on Our Holiday</td>
+					<td>2014</td>
+					<td>영국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>105,913,800</td>
+					<td>13,939</td>
+					<td>105,913,800</td>
+					<td>13,939</td>
+				</tr>
+			
+				<tr>
+					<td>꾸뻬씨의 행복여행</td>
+					<td>Hector and the Search for Happiness</td>
+					<td>2014</td>
+					<td>영국,독일,캐나다,남아프리카공화국</td>
+					<td>어드벤처,드라마</td>
+					<td>주연</td>
+					<td>919,851,783</td>
+					<td>125,179</td>
+					<td>925,554,283</td>
+					<td>125,949</td>
+				</tr>
+			
+				<tr>
+					<td>나를 찾아줘</td>
+					<td>Gone Girl</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>14,017,716,731</td>
+					<td>1,764,233</td>
+					<td>14,017,716,731</td>
+					<td>1,764,233</td>
+				</tr>
+			
+				<tr>
+					<td>더 월드스 엔드</td>
+					<td>The World`s End</td>
+					<td>2013</td>
+					<td>영국</td>
+					<td>코미디,액션,SF</td>
+					<td>주연-샘 체인벌린 역 역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>잭 리처</td>
+					<td>Jack Reacher</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>5,758,577,000</td>
+					<td>784,031</td>
+					<td>5,758,577,000</td>
+					<td>784,031</td>
+				</tr>
+			
+				<tr>
+					<td>타이탄의 분노</td>
+					<td>Wrath Of The Titans</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션,판타지</td>
+					<td>주연-안드로메다 역</td>
+					<td>7,591,124,500</td>
+					<td>893,027</td>
+					<td>7,591,124,500</td>
+					<td>893,027</td>
+				</tr>
+			
+				<tr>
+					<td>세 번째 사랑</td>
+					<td>Barney’s Version</td>
+					<td>2010</td>
+					<td>캐나다,이탈리아</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>82,559,000</td>
+					<td>10,456</td>
+					<td>84,274,000</td>
+					<td>11,025</td>
+				</tr>
+			
+				<tr>
+					<td>언 애듀케이션</td>
+					<td>An Education</td>
+					<td>2009</td>
+					<td>영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>21,358,842</td>
+					<td>2,794</td>
+					<td>21,023,500</td>
+					<td>2,750</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,99 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '지나 로드리게즈'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>페르디난드</td>
+					<td>FERDINAND</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>애니메이션,어드벤처,코미디</td>
+					<td>주연(목소리)</td>
+					<td>3,866,542,500</td>
+					<td>535,448</td>
+					<td>3,866,542,500</td>
+					<td>535,448</td>
+				</tr>
+			
+				<tr>
+					<td>더 크리스마스</td>
+					<td>The Star</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>애니메이션,어드벤처</td>
+					<td>주연(목소리)</td>
+					<td>486,356,000</td>
+					<td>65,460</td>
+					<td>486,356,000</td>
+					<td>65,460</td>
+				</tr>
+			
+				<tr>
+					<td>딥워터 호라이즌</td>
+					<td>Deepwater Horizon</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,드라마</td>
+					<td>조연</td>
+					<td>775,611,543</td>
+					<td>100,021</td>
+					<td>784,555,543</td>
+					<td>101,303</td>
+				</tr>
+			
+				<tr>
+					<td>EDM : 악마의 소리</td>
+					<td>Enter the Dangerous Mind</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>공포(호러),미스터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

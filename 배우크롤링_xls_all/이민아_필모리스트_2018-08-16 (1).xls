@@ -1,0 +1,346 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '이민아'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>워킹걸</td>
+					<td>Casa Amor; Exclusive for Ladies</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>단역-주부역</td>
+					<td>1,201,963,479</td>
+					<td>151,550</td>
+					<td>1,201,963,479</td>
+					<td>151,550</td>
+				</tr>
+			
+				<tr>
+					<td>거인</td>
+					<td>Set Me Free</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-원장 모역</td>
+					<td>177,770,400</td>
+					<td>23,505</td>
+					<td>180,557,300</td>
+					<td>24,020</td>
+				</tr>
+			
+				<tr>
+					<td>코인룸</td>
+					<td>Coinroom</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>기타</td>
+					<td>주연-여자역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>춘하추동 로맨스</td>
+					<td>Men and Women</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>코미디,멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>8,140,800</td>
+					<td>1,203</td>
+					<td>8,154,800</td>
+					<td>1,217</td>
+				</tr>
+			
+				<tr>
+					<td>뜨거운 안녕</td>
+					<td>Rockin&#039; on Heaven&#039;s Door</td>
+					<td>2013</td>
+					<td>한국,일본</td>
+					<td>드라마</td>
+					<td>조연-하은 모역</td>
+					<td>315,291,000</td>
+					<td>47,105</td>
+					<td>315,291,000</td>
+					<td>47,105</td>
+				</tr>
+			
+				<tr>
+					<td>사랑의 가위바위보</td>
+					<td>One Perfect Day</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>조연-김 여사역</td>
+					<td></td>
+					<td></td>
+					<td>15,056,000</td>
+					<td>1,882</td>
+				</tr>
+			
+				<tr>
+					<td>베드(감독판)</td>
+					<td>B·E·D</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>270,000</td>
+					<td>54</td>
+					<td>270,000</td>
+					<td>54</td>
+				</tr>
+			
+				<tr>
+					<td>사랑해! 진영아</td>
+					<td>My Dear Girl, Jin-young</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-젊은 박철순역</td>
+					<td>34,675,000</td>
+					<td>4,936</td>
+					<td>34,720,000</td>
+					<td>4,941</td>
+				</tr>
+			
+				<tr>
+					<td>베드</td>
+					<td>B·E·D</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-E역</td>
+					<td>4,186,000</td>
+					<td>606</td>
+					<td>4,186,000</td>
+					<td>606</td>
+				</tr>
+			
+				<tr>
+					<td>마이 리틀 히어로</td>
+					<td>A Wonderful Moment</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>1,302,907,128</td>
+					<td>185,978</td>
+					<td>1,303,507,128</td>
+					<td>186,078</td>
+				</tr>
+			
+				<tr>
+					<td>핫썸머 바캉스 </td>
+					<td>Hot summer vacance</td>
+					<td>2012</td>
+					<td></td>
+					<td>기타</td>
+					<td>조연-최훈 모역</td>
+					<td></td>
+					<td></td>
+					<td>405,777</td>
+					<td>273</td>
+				</tr>
+			
+				<tr>
+					<td>하울링</td>
+					<td>HOWLING</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>범죄,드라마</td>
+					<td>조연-송민정역</td>
+					<td>11,765,293,500</td>
+					<td>1,612,554</td>
+					<td>11,765,293,500</td>
+					<td>1,612,554</td>
+				</tr>
+			
+				<tr>
+					<td>짐승의 끝</td>
+					<td>End of Animal</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>판타지,드라마</td>
+					<td>단역-승용차 여역</td>
+					<td>7,898,000</td>
+					<td>1,030</td>
+					<td>9,321,500</td>
+					<td>1,250</td>
+				</tr>
+			
+				<tr>
+					<td>숙명</td>
+					<td>Fate</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>드라마,액션</td>
+					<td>단역-카페 마담역</td>
+					<td>5,680,873,500</td>
+					<td>858,215</td>
+					<td>5,680,873,500</td>
+					<td>846,903</td>
+				</tr>
+			
+				<tr>
+					<td>누군가의 첫사랑</td>
+					<td>Someone&#039;s First Love</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>흡혈형사 나도열</td>
+					<td>Vampire Cop, Ricky</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>단역-경마장 여종업원역</td>
+					<td>0</td>
+					<td>1,824,822</td>
+					<td>9,693,558,300</td>
+					<td>1,563,579</td>
+				</tr>
+			
+				<tr>
+					<td>진영이</td>
+					<td>I&#039;m Jin-young</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-엄마역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>파산의 기술</td>
+					<td>The Description of Bankruptcy</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>다큐멘터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>263,000</td>
+					<td>45</td>
+				</tr>
+			
+				<tr>
+					<td>너는 내 운명</td>
+					<td>You Are My Sunshine</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>조연-윤락가 아가씨 1역</td>
+					<td>0</td>
+					<td>3,051,134</td>
+					<td>17,655,244,500</td>
+					<td>2,701,851</td>
+				</tr>
+			
+				<tr>
+					<td>제니, 주노</td>
+					<td>Jenny, Juno</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-미시족1역</td>
+					<td>0</td>
+					<td>289,829</td>
+					<td>1,283,847,500</td>
+					<td>216,516</td>
+				</tr>
+			
+				<tr>
+					<td>신석기 블루스</td>
+					<td>Shin Suk-ki Blues </td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연-간호사2역</td>
+					<td>0</td>
+					<td>383,674</td>
+					<td>1,797,632,500</td>
+					<td>282,552</td>
+				</tr>
+			
+				<tr>
+					<td>꽃피는 봄이 오면</td>
+					<td>Springtime</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-앞차 여역-역</td>
+					<td>0</td>
+					<td>717,618</td>
+					<td>3,201,626,000</td>
+					<td>497,689</td>
+				</tr>
+			
+				<tr>
+					<td>생산적 활동</td>
+					<td>A Vital Activity</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>조연-주라역</td>
+					<td></td>
+					<td></td>
+					<td>26,400</td>
+					<td>22</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

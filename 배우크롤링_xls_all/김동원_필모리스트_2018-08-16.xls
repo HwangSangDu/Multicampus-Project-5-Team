@@ -1,0 +1,138 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '김동원'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>밀녀</td>
+					<td>Diary Of A Debauchee</td>
+					<td>1972</td>
+					<td>한국</td>
+					<td>미스터리</td>
+					<td>주연</td>
+					<td></td>
+					<td>38,202</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>청춘무정</td>
+					<td>Mi-ae</td>
+					<td>1970</td>
+					<td>한국</td>
+					<td></td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>8,920,000</td>
+					<td>4,451</td>
+				</tr>
+			
+				<tr>
+					<td>명동 나그네</td>
+					<td>A Wonderer in Myeong-dong</td>
+					<td>1969</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>조연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>장한몽</td>
+					<td>Day Dream</td>
+					<td>1969</td>
+					<td>한국</td>
+					<td></td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>4,218,000</td>
+					<td>2,109</td>
+				</tr>
+			
+				<tr>
+					<td>여자의 일생</td>
+					<td>Life of Woman</td>
+					<td>1968</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연</td>
+					<td></td>
+					<td></td>
+					<td>15,403,500</td>
+					<td>8,338</td>
+				</tr>
+			
+				<tr>
+					<td>연산군</td>
+					<td>Prince Yeonsan</td>
+					<td>1961</td>
+					<td>한국</td>
+					<td>사극,드라마</td>
+					<td>주연-성종역</td>
+					<td></td>
+					<td></td>
+					<td>12,541,000</td>
+					<td>6,099</td>
+				</tr>
+			
+				<tr>
+					<td>한말풍운과 민충정공</td>
+					<td>A Blood Bamboo</td>
+					<td>1959</td>
+					<td>한국</td>
+					<td>사극,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>3,280,000</td>
+					<td>1,646</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

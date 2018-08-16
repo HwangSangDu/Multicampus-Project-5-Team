@@ -1,0 +1,99 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '채정안'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>두 개의 연애</td>
+					<td>Two Rooms, Two Nights</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연-윤주역</td>
+					<td>13,282,500</td>
+					<td>1,466</td>
+					<td>13,282,500</td>
+					<td>1,466</td>
+				</tr>
+			
+				<tr>
+					<td>아빠를 빌려드립니다</td>
+					<td>Dad for Rent</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>코미디,가족,드라마</td>
+					<td>주연</td>
+					<td>1,190,329,500</td>
+					<td>172,652</td>
+					<td>1,190,329,500</td>
+					<td>172,652</td>
+				</tr>
+			
+				<tr>
+					<td>순정만화</td>
+					<td>Crush On You</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>4,674,779,333</td>
+					<td>730,343</td>
+					<td>4,682,641,000</td>
+					<td>731,706</td>
+				</tr>
+			
+				<tr>
+					<td>런투유(RUN 2 U)</td>
+					<td>Run 2 U</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>드라마,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

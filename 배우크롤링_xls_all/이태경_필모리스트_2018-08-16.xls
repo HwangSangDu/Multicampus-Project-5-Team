@@ -1,0 +1,203 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '이태경'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>졸업</td>
+					<td>Graduation</td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-해랑역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>죄 많은 소녀</td>
+					<td>After My Death</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마,미스터리</td>
+					<td>조연</td>
+					<td></td>
+					<td></td>
+					<td>3,948,000</td>
+					<td>570</td>
+				</tr>
+			
+				<tr>
+					<td>너와 극장에서</td>
+					<td>Cinema with You</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-해랑역</td>
+					<td>6,271,500</td>
+					<td>913</td>
+					<td>14,180,600</td>
+					<td>2,032</td>
+				</tr>
+			
+				<tr>
+					<td>누렁이들</td>
+					<td>Mongrels</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-나운역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>무슨 말을 할 수 있을까</td>
+					<td>They Are, Like Us.</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마,판타지,가족</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>백천</td>
+					<td>Hatred</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>범죄,드라마</td>
+					<td>조연-피해자 지연역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>오늘의 자리</td>
+					<td>Replaceable</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-지원역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>그 누구의 딸 </td>
+					<td></td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>기타</td>
+					<td>주연-오은혜역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사랑하는 사람의 아이를 낳는다</td>
+					<td>Family Plan</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>안나</td>
+					<td>Anna</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>몽골리안 프린세스</td>
+					<td>Mongolian Princess</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>단역-영화 관객역</td>
+					<td>3,254,000</td>
+					<td>424</td>
+					<td>3,254,000</td>
+					<td>424</td>
+				</tr>
+			
+				<tr>
+					<td>제 팬티를 드릴게요</td>
+					<td>I&#039;ll Give You My Panties</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

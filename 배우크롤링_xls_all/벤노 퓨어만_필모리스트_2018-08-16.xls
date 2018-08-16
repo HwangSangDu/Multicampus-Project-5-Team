@@ -1,0 +1,203 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '벤노 퓨어만'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>우리친구 피들스틱스</td>
+					<td>Fiddlesticks</td>
+					<td>2014</td>
+					<td>독일</td>
+					<td>가족,코미디</td>
+					<td>주연</td>
+					<td>8,756,500</td>
+					<td>1,196</td>
+					<td>9,246,500</td>
+					<td>1,294</td>
+				</tr>
+			
+				<tr>
+					<td>어둠 속의 빛 </td>
+					<td>In darkness</td>
+					<td>2011</td>
+					<td>폴란드,독일</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>5,186,000</td>
+					<td>800</td>
+					<td>5,186,000</td>
+					<td>800</td>
+				</tr>
+			
+				<tr>
+					<td>에리어 49</td>
+					<td>The Frontier</td>
+					<td>2010</td>
+					<td>독일</td>
+					<td>스릴러</td>
+					<td>주연-롤프 역 역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>노스페이스</td>
+					<td>North Face</td>
+					<td>2008</td>
+					<td>독일</td>
+					<td>드라마,어드벤처</td>
+					<td>주연</td>
+					<td>67,666,898</td>
+					<td>8,995</td>
+					<td>66,604,500</td>
+					<td>8,852</td>
+				</tr>
+			
+				<tr>
+					<td>열망</td>
+					<td>Jerichow</td>
+					<td>2008</td>
+					<td>독일</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>206,000</td>
+					<td>43</td>
+				</tr>
+			
+				<tr>
+					<td>메리 크리스마스</td>
+					<td>Merry Christmas</td>
+					<td>2005</td>
+					<td>프랑스,독일,영국,벨기에,루마니아,노르웨이</td>
+					<td>드라마,전쟁</td>
+					<td>주연-니콜라스 슈프링크역</td>
+					<td></td>
+					<td>4,652</td>
+					<td>45,380,500</td>
+					<td>7,195</td>
+				</tr>
+			
+				<tr>
+					<td>니벨룽겐의 반지</td>
+					<td>Ring Of The Nibelungs</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>판타지,액션,어드벤처,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>-131,000</td>
+					<td>-21</td>
+				</tr>
+			
+				<tr>
+					<td>씬</td>
+					<td>The Order / The Sin Eater</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>공포(호러)</td>
+					<td>조연</td>
+					<td>0</td>
+					<td>590</td>
+					<td>3,679,000</td>
+					<td>560</td>
+				</tr>
+			
+				<tr>
+					<td>볼프스부르크</td>
+					<td>Wolfsburg</td>
+					<td>2003</td>
+					<td>독일</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아나토미</td>
+					<td>Anatomie</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>15,320</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>공주와전사</td>
+					<td>The Princess And The Warrior</td>
+					<td>2000</td>
+					<td>독일</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>심플리 러브 </td>
+					<td>Simply Love</td>
+					<td>1994</td>
+					<td>독일</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>405</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

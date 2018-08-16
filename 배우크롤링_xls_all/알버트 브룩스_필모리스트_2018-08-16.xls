@@ -1,0 +1,151 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '알버트 브룩스'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>도리를 찾아서</td>
+					<td>Finding Dory</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>애니메이션,어드벤처,코미디</td>
+					<td>주연(목소리)</td>
+					<td>20,703,899,933</td>
+					<td>2,601,734</td>
+					<td>20,704,149,933</td>
+					<td>2,601,761</td>
+				</tr>
+			
+				<tr>
+					<td>어린왕자</td>
+					<td>The Little Prince</td>
+					<td>2015</td>
+					<td>프랑스</td>
+					<td>애니메이션,판타지,어드벤처</td>
+					<td>주연(목소리)</td>
+					<td>4,336,252,627</td>
+					<td>579,130</td>
+					<td>4,337,674,627</td>
+					<td>579,367</td>
+				</tr>
+			
+				<tr>
+					<td>위험한 사돈</td>
+					<td>The In-Laws</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>코미디,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>102,440</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>니모를 찾아서</td>
+					<td>Finding Nemo</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>애니메이션,코미디,어드벤처,가족</td>
+					<td>주연(목소리)</td>
+					<td>0</td>
+					<td>1,286,412</td>
+					<td>759,287,000</td>
+					<td>73,483</td>
+				</tr>
+			
+				<tr>
+					<td>뮤즈</td>
+					<td>The Muse</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>감독,주연</td>
+					<td>0</td>
+					<td>5,717</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>영혼의 사랑</td>
+					<td>Defending Your Life</td>
+					<td>1991</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스,판타지</td>
+					<td>감독,주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>환상특급</td>
+					<td>Twilight Zone: The Movie </td>
+					<td>1983</td>
+					<td>미국</td>
+					<td>판타지,공포(호러),SF</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>448,000</td>
+					<td>89</td>
+				</tr>
+			
+				<tr>
+					<td>결혼과 이혼 사이</td>
+					<td>Modern Romance</td>
+					<td>1981</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>감독,주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

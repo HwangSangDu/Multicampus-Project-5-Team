@@ -1,0 +1,177 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '해일리 베넷'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>땡큐 포 유어 서비스</td>
+					<td>Thank You for Your Service</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>드라마,전쟁</td>
+					<td>주연</td>
+					<td>14,249,000</td>
+					<td>1,965</td>
+					<td>14,249,000</td>
+					<td>1,965</td>
+				</tr>
+			
+				<tr>
+					<td>카인드 오브 머더</td>
+					<td>A Kind of Murder</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>스릴러,드라마</td>
+					<td>주연</td>
+					<td>285,000</td>
+					<td>50</td>
+					<td>285,000</td>
+					<td>50</td>
+				</tr>
+			
+				<tr>
+					<td>걸 온 더 트레인</td>
+					<td>The Girl on the Train</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>드라마,스릴러,미스터리</td>
+					<td>주연-메간 역역</td>
+					<td>222,516,500</td>
+					<td>29,190</td>
+					<td>222,516,500</td>
+					<td>29,190</td>
+				</tr>
+			
+				<tr>
+					<td>매그니피센트 7</td>
+					<td>The Magnificent Seven</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,서부극(웨스턴)</td>
+					<td>주연</td>
+					<td>7,633,490,421</td>
+					<td>921,317</td>
+					<td>7,633,490,421</td>
+					<td>921,317</td>
+				</tr>
+			
+				<tr>
+					<td>하드코어 헨리</td>
+					<td>Hardcore Henry</td>
+					<td>2016</td>
+					<td>미국,러시아</td>
+					<td>액션,어드벤처,SF</td>
+					<td>주연</td>
+					<td>399,211,211</td>
+					<td>46,373</td>
+					<td>399,211,211</td>
+					<td>46,373</td>
+				</tr>
+			
+				<tr>
+					<td>캠퍼스 어택 크리스티 처결단</td>
+					<td>Kristy</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>스릴러,공포(호러)</td>
+					<td>주연</td>
+					<td>5,000</td>
+					<td>1</td>
+					<td>5,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>아웃로 컨트리</td>
+					<td>Outlaw country</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아르카디아 로스트</td>
+					<td>Arcadia Lost</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>더 홀</td>
+					<td>The Hole</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연-줄리 캠벨 역 역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>소녀괴담 : 17살 여고생의 악몽</td>
+					<td>The Haunting of Molly Hartley</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td>20,000</td>
+					<td>4</td>
+					<td>20,000</td>
+					<td>4</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

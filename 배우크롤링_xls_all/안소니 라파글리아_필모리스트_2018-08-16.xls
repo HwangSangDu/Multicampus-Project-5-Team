@@ -1,0 +1,242 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '안소니 라파글리아'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>톰보이 리벤저</td>
+					<td>The Assignment </td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,스릴러,범죄</td>
+					<td>주연</td>
+					<td>640,000</td>
+					<td>82</td>
+					<td>640,000</td>
+					<td>82</td>
+				</tr>
+			
+				<tr>
+					<td>아이히만 쇼</td>
+					<td>The Eichmann Show</td>
+					<td>2015</td>
+					<td>영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>17,028,000</td>
+					<td>2,240</td>
+					<td>17,028,000</td>
+					<td>2,240</td>
+				</tr>
+			
+				<tr>
+					<td>멘탈</td>
+					<td>Mental</td>
+					<td>2012</td>
+					<td>호주,미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>윈터 살스티스</td>
+					<td>Winter Solstice</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>해피 아워</td>
+					<td>Happy Hour</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>가이</td>
+					<td>The Guys</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>데드 히트</td>
+					<td>Dead Heat</td>
+					<td>2002</td>
+					<td>캐나다,독일</td>
+					<td>액션,코미디,범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>란타나</td>
+					<td>Lantana</td>
+					<td>2001</td>
+					<td>호주,독일</td>
+					<td>드라마,미스터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>뱅크</td>
+					<td>The Bank</td>
+					<td>2001</td>
+					<td>호주,이탈리아</td>
+					<td>스릴러,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>알리브란디를 찾아서</td>
+					<td>Looking For Alibrandi</td>
+					<td>2000</td>
+					<td>호주</td>
+					<td>코미디,드라마,멜로/로맨스</td>
+					<td>조연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스윗 앤 로다운</td>
+					<td>Sweet And Lowdown</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>962,000</td>
+					<td>187</td>
+				</tr>
+			
+				<tr>
+					<td>리페어 숍</td>
+					<td>The Repair Shop</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>피닉스</td>
+					<td>Phoenix</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>5,623</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>엠파이어레코드 </td>
+					<td>Empire Records</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,844</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>럭키브레이크 </td>
+					<td>Lucky Break</td>
+					<td>1995</td>
+					<td>호주</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>126</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

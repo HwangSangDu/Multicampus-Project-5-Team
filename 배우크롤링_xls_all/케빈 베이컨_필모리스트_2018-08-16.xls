@@ -1,0 +1,437 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '케빈 베이컨'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>패트리어트 데이</td>
+					<td>Patriots Day</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td>593,983,618</td>
+					<td>74,827</td>
+					<td>593,983,618</td>
+					<td>74,827</td>
+				</tr>
+			
+				<tr>
+					<td>캅카</td>
+					<td>Cop Car</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>8,838,000</td>
+					<td>1,581</td>
+					<td>8,838,000</td>
+					<td>1,581</td>
+				</tr>
+			
+				<tr>
+					<td>R.I.P.D. : 알.아이.피.디.</td>
+					<td>R.I.P.D</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>액션,코미디,범죄</td>
+					<td>주연-바비 헤이즈역</td>
+					<td>725,451,071</td>
+					<td>101,460</td>
+					<td>725,451,071</td>
+					<td>101,460</td>
+				</tr>
+			
+				<tr>
+					<td>내 아내의 행복한 장례식</td>
+					<td>Jayne Mansfield&#039;s Car</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>엘리펀트 화이트</td>
+					<td>ELEPHANT WHITE</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>300,000</td>
+					<td>20</td>
+					<td>900,000</td>
+					<td>60</td>
+				</tr>
+			
+				<tr>
+					<td>엑스맨: 퍼스트 클래스</td>
+					<td>X-Men: First Class</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연-세바스찬 쇼우 역</td>
+					<td>19,075,363,000</td>
+					<td>2,533,852</td>
+					<td>19,081,006,000</td>
+					<td>2,534,979</td>
+				</tr>
+			
+				<tr>
+					<td>마이 원 앤 온리</td>
+					<td>My One and Only</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연-댄 데베로 역</td>
+					<td>48,993,000</td>
+					<td>6,734</td>
+					<td>48,993,000</td>
+					<td>6,734</td>
+				</tr>
+			
+				<tr>
+					<td>내가 숨쉬는 공기</td>
+					<td>The Air I Breathe</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>범죄,드라마,스릴러</td>
+					<td>주연-사랑 역</td>
+					<td>772,348,500</td>
+					<td>117,058</td>
+					<td>772,332,500</td>
+					<td>115,924</td>
+				</tr>
+			
+				<tr>
+					<td>데스 센텐스 </td>
+					<td>Death Sentence</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>액션,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>90,373</td>
+					<td>529,387,000</td>
+					<td>77,980</td>
+				</tr>
+			
+				<tr>
+					<td>레일즈 앤드 타이즈</td>
+					<td>Rails &amp; Ties</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스위트 룸</td>
+					<td>Where The Truth Lies</td>
+					<td>2005</td>
+					<td>캐나다,영국,미국</td>
+					<td>스릴러</td>
+					<td>주연-래니 모리스 역</td>
+					<td>0</td>
+					<td>43,550</td>
+					<td>184,151,500</td>
+					<td>28,822</td>
+				</tr>
+			
+				<tr>
+					<td>러버보이</td>
+					<td>Loverboy</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>감독,주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>더 우드맨</td>
+					<td>The Woodsman</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>미스틱 리버</td>
+					<td>Mystic River</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>미스터리,드라마,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>29,400</td>
+					<td>14,897,000</td>
+					<td>2,379</td>
+				</tr>
+			
+				<tr>
+					<td>할로우 맨</td>
+					<td>Hallow Man</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>SF,공포(호러),스릴러</td>
+					<td>주연-세바스찬 케인역</td>
+					<td>0</td>
+					<td>364,201</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>마이 독 스킵</td>
+					<td>My Dog Skip</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>드라마,가족</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스터 오브 에코</td>
+					<td>Stir Of Echoes</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>공포(호러),미스터리,스릴러</td>
+					<td>주연-톰 위츠키역</td>
+					<td>0</td>
+					<td>8,845</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>마이 러브 리키</td>
+					<td>Digging To China</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-리키역</td>
+					<td>0</td>
+					<td>6,232</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>와일드씽</td>
+					<td>Wild Things</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>미스터리,범죄,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>33,891</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>슬리퍼스 </td>
+					<td>Sleepers</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>드라마,범죄,스릴러</td>
+					<td>주연-숀 노크스역</td>
+					<td>0</td>
+					<td>181,907</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아폴로 13 </td>
+					<td>Apolo 13</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>198,185</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>일급살인 </td>
+					<td>Murder In The First</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>77,531</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>리버 와일드 </td>
+					<td>The River Wild</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>25,277</td>
+					<td>48,000</td>
+					<td>16</td>
+				</tr>
+			
+				<tr>
+					<td>에어 </td>
+					<td>The Air Up There</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>가족,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>10,568</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>불타는 사랑</td>
+					<td>Pyrates</td>
+					<td>1991</td>
+					<td>영국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>724</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>JFK</td>
+					<td>Jfk</td>
+					<td>1991</td>
+					<td>미국</td>
+					<td>미스터리,범죄,스릴러</td>
+					<td>주연-윌리 오케페역</td>
+					<td>0</td>
+					<td>213,727</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>불가사리</td>
+					<td>Tremors</td>
+					<td>1990</td>
+					<td>미국</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>16,483</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>크리미날로</td>
+					<td>Criminal Law</td>
+					<td>1989</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>71,257</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>퀵실버 </td>
+					<td>Quick Silver</td>
+					<td>1986</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스,범죄,스릴러</td>
+					<td>주연-잭 케이시역</td>
+					<td>0</td>
+					<td>46,539</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>풋루즈</td>
+					<td>Footloose</td>
+					<td>1984</td>
+					<td>미국</td>
+					<td>뮤지컬,멜로/로맨스</td>
+					<td>주연-렌 맥코맥 역역</td>
+					<td></td>
+					<td></td>
+					<td>2,110,500</td>
+					<td>369</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

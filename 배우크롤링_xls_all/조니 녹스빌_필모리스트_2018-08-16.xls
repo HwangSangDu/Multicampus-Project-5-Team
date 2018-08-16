@@ -1,0 +1,255 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '조니 녹스빌'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>스킵트레이스: 합동수사</td>
+					<td>Skiptrace</td>
+					<td>2016</td>
+					<td>홍콩,미국,중국</td>
+					<td>액션,코미디</td>
+					<td>주연</td>
+					<td>163,700,300</td>
+					<td>22,350</td>
+					<td>163,801,300</td>
+					<td>22,366</td>
+				</tr>
+			
+				<tr>
+					<td>잭애스 프레젠트 : 배드 그랜파 0.5</td>
+					<td>BAD GRANDPA 0.5</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>에픽 : 숲속의 전설 </td>
+					<td>Epic</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>애니메이션,어드벤처</td>
+					<td>주연-맨드레이크 역(목소리)</td>
+					<td>6,748,089,000</td>
+					<td>978,788</td>
+					<td>6,748,072,000</td>
+					<td>978,785</td>
+				</tr>
+			
+				<tr>
+					<td>라스트 스탠드</td>
+					<td>The Last Stand</td>
+					<td>2013</td>
+					<td>미국,영국</td>
+					<td>액션</td>
+					<td>조연-루이스 딩컴역</td>
+					<td>492,135,000</td>
+					<td>66,698</td>
+					<td>492,763,000</td>
+					<td>66,790</td>
+				</tr>
+			
+				<tr>
+					<td>잭애스 프레젠트 : 배드 그랜파 </td>
+					<td>Jackass Presents: Bad Grandpa</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>다큐멘터리,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>펀 사이즈</td>
+					<td>Fun Size</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>잭애스 3D</td>
+					<td>Jackass 3D</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>코미디,액션</td>
+					<td>주연</td>
+					<td>3,019,000</td>
+					<td>241</td>
+					<td>3,019,000</td>
+					<td>241</td>
+				</tr>
+			
+				<tr>
+					<td>잭애스 2</td>
+					<td>Jackass: Number Two</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>댈트리 캘혼</td>
+					<td>Daltry Calhoun</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>듀크 오브 해저드</td>
+					<td>The Dukes of Hazzard</td>
+					<td>2005</td>
+					<td>미국,호주</td>
+					<td>액션,어드벤처,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>무모한 도전</td>
+					<td>The Ringer</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>워킹 톨</td>
+					<td>Walking Tall</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,570</td>
+					<td>6,799,000</td>
+					<td>1,069</td>
+				</tr>
+			
+				<tr>
+					<td>더티 쉐임</td>
+					<td>A Dirty Shame</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>그랜드 세이트 패슨스</td>
+					<td>Grand Theft Parsons</td>
+					<td>2003</td>
+					<td>미국,영국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>잭애스</td>
+					<td>Jackass</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>351</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>애인 없는 세상</td>
+					<td>Life Without Dick</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,177 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '마이클 안가라노'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>와일드 카드</td>
+					<td>Wild Card</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>범죄,액션</td>
+					<td>주연</td>
+					<td>23,712,000</td>
+					<td>3,109</td>
+					<td>23,712,000</td>
+					<td>3,109</td>
+				</tr>
+			
+				<tr>
+					<td>매직 티팟</td>
+					<td>The Brass Teapot</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>코미디,판타지,스릴러</td>
+					<td>주연</td>
+					<td>250,000</td>
+					<td>50</td>
+					<td>250,000</td>
+					<td>50</td>
+				</tr>
+			
+				<tr>
+					<td>잉글리쉬 티처</td>
+					<td>The English Teacher </td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>거친 녀석들 : 거침없이 쏴라</td>
+					<td>Red State</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연-트래비스역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아트 오브 겟팅 바이</td>
+					<td>The Art of Getting By</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연-더스틴 역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>세레모니</td>
+					<td>Ceremony</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>젠틀맨 브론코스</td>
+					<td>Gentlemen Broncos</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연-벤자민 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>포비든 킹덤: 전설의 마스터를 찾아서</td>
+					<td>The Forbidden Kingdom</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지</td>
+					<td>주연-제이슨 역</td>
+					<td>7,876,101,835</td>
+					<td>1,221,352</td>
+					<td>7,872,763,500</td>
+					<td>1,211,890</td>
+				</tr>
+			
+				<tr>
+					<td>스카이 하이</td>
+					<td>Sky High</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>액션,가족,코미디,어드벤처</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>리틀 시크릿</td>
+					<td>Little Secrets</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>드라마,가족</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

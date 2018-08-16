@@ -1,0 +1,177 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '켈리 라일리'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>바스티유 데이</td>
+					<td>Bastille Day</td>
+					<td>2016</td>
+					<td>미국,프랑스</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>766,892,600</td>
+					<td>96,579</td>
+					<td>766,892,600</td>
+					<td>96,579</td>
+				</tr>
+			
+				<tr>
+					<td>천국에 다녀온 소년</td>
+					<td>Heaven Is for Real </td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>300,249,500</td>
+					<td>41,957</td>
+					<td>300,249,500</td>
+					<td>41,957</td>
+				</tr>
+			
+				<tr>
+					<td>캘버리</td>
+					<td>Calvary</td>
+					<td>2014</td>
+					<td>아일랜드,영국</td>
+					<td>코미디,드라마</td>
+					<td>주연-피오나 라벨르 역 역</td>
+					<td></td>
+					<td></td>
+					<td>634,000</td>
+					<td>124</td>
+				</tr>
+			
+				<tr>
+					<td>플라이트</td>
+					<td>Flight</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>150,391,500</td>
+					<td>20,491</td>
+					<td>150,770,500</td>
+					<td>20,553</td>
+				</tr>
+			
+				<tr>
+					<td>싱글 샷 </td>
+					<td>A Single Shot</td>
+					<td>2012</td>
+					<td>미국,캐나다,영국</td>
+					<td>범죄,스릴러</td>
+					<td>주연-모리아 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>보이드 갱</td>
+					<td>Edwin Boyd: Citizen Gangster</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td>100,000</td>
+					<td>10</td>
+					<td>100,000</td>
+					<td>10</td>
+				</tr>
+			
+				<tr>
+					<td>멘 투 비</td>
+					<td>Meant to Be</td>
+					<td>2010</td>
+					<td>벨기에</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>0</td>
+					<td>0</td>
+				</tr>
+			
+				<tr>
+					<td>이든 레이크</td>
+					<td>Eden Lake</td>
+					<td>2008</td>
+					<td>영국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연-제니역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사랑은 타이밍</td>
+					<td>The Russian Dolls</td>
+					<td>2005</td>
+					<td>프랑스</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,532</td>
+					<td>9,012,000</td>
+					<td>1,488</td>
+				</tr>
+			
+				<tr>
+					<td>미세스 헨더슨 프리젠츠</td>
+					<td>Mrs. Henderson Presents</td>
+					<td>2005</td>
+					<td>영국,미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

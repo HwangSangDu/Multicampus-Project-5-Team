@@ -1,0 +1,359 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '마이클 패스벤더'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>스노우맨</td>
+					<td>The Snowman</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>범죄,드라마,미스터리</td>
+					<td>주연</td>
+					<td>12,746,200</td>
+					<td>1,668</td>
+					<td>12,746,200</td>
+					<td>1,668</td>
+				</tr>
+			
+				<tr>
+					<td>에이리언: 커버넌트</td>
+					<td>Alien: Covenant</td>
+					<td>2017</td>
+					<td>미국,호주,뉴질랜드</td>
+					<td>SF,스릴러</td>
+					<td>주연</td>
+					<td>10,745,826,264</td>
+					<td>1,307,226</td>
+					<td>10,745,826,264</td>
+					<td>1,307,226</td>
+				</tr>
+			
+				<tr>
+					<td>우리를 침범하는 것들</td>
+					<td>Trespass Against Us</td>
+					<td>2016</td>
+					<td>영국</td>
+					<td>액션,범죄,드라마</td>
+					<td>주연</td>
+					<td>38,538,100</td>
+					<td>5,153</td>
+					<td>38,553,100</td>
+					<td>5,156</td>
+				</tr>
+			
+				<tr>
+					<td>파도가 지나간 자리</td>
+					<td>The Light Between Oceans</td>
+					<td>2016</td>
+					<td>미국,뉴질랜드,영국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-톰역</td>
+					<td>638,371,200</td>
+					<td>82,717</td>
+					<td>638,463,700</td>
+					<td>82,736</td>
+				</tr>
+			
+				<tr>
+					<td>어쌔신 크리드</td>
+					<td>Assassin&#039;s Creed</td>
+					<td>2016</td>
+					<td>미국,영국,프랑스</td>
+					<td>액션,어드벤처,판타지,SF</td>
+					<td>주연</td>
+					<td>2,899,784,921</td>
+					<td>355,913</td>
+					<td>2,899,784,921</td>
+					<td>355,913</td>
+				</tr>
+			
+				<tr>
+					<td>엑스맨: 아포칼립스</td>
+					<td>X-Men: Apocalypse</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지,SF</td>
+					<td>주연</td>
+					<td>24,467,887,950</td>
+					<td>2,938,818</td>
+					<td>24,467,887,950</td>
+					<td>2,938,818</td>
+				</tr>
+			
+				<tr>
+					<td>스티브 잡스</td>
+					<td>Steve Jobs</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>535,351,276</td>
+					<td>68,815</td>
+					<td>535,351,276</td>
+					<td>68,815</td>
+				</tr>
+			
+				<tr>
+					<td>맥베스</td>
+					<td>Macbeth</td>
+					<td>2015</td>
+					<td>영국,프랑스,미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>745,585,853</td>
+					<td>98,237</td>
+					<td>747,493,853</td>
+					<td>98,516</td>
+				</tr>
+			
+				<tr>
+					<td>슬로우 웨스트</td>
+					<td>Slow West</td>
+					<td>2015</td>
+					<td>영국,뉴질랜드</td>
+					<td>액션,스릴러,서부극(웨스턴)</td>
+					<td>주연</td>
+					<td>72,521,700</td>
+					<td>9,491</td>
+					<td>72,668,700</td>
+					<td>9,509</td>
+				</tr>
+			
+				<tr>
+					<td>프랭크</td>
+					<td>Frank</td>
+					<td>2014</td>
+					<td>영국,아일랜드</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>410,015,145</td>
+					<td>52,488</td>
+					<td>415,046,145</td>
+					<td>53,149</td>
+				</tr>
+			
+				<tr>
+					<td>엑스맨: 데이즈 오브 퓨처 패스트</td>
+					<td>X-Men: Days of Future Past</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>액션,판타지,SF,어드벤처</td>
+					<td>주연</td>
+					<td>34,654,558,766</td>
+					<td>4,313,871</td>
+					<td>34,654,558,766</td>
+					<td>4,313,871</td>
+				</tr>
+			
+				<tr>
+					<td>노예 12년</td>
+					<td>12 Years a Slave</td>
+					<td>2013</td>
+					<td>미국,영국</td>
+					<td>드라마</td>
+					<td>주연-에드윈 엡스역</td>
+					<td>3,644,201,200</td>
+					<td>498,004</td>
+					<td>3,647,631,400</td>
+					<td>498,976</td>
+				</tr>
+			
+				<tr>
+					<td>카운슬러</td>
+					<td>The Counselor</td>
+					<td>2013</td>
+					<td>미국,영국</td>
+					<td>범죄,드라마,스릴러</td>
+					<td>주연</td>
+					<td>966,623,000</td>
+					<td>133,272</td>
+					<td>966,623,000</td>
+					<td>133,272</td>
+				</tr>
+			
+				<tr>
+					<td>프로메테우스</td>
+					<td>Prometheus</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>SF,스릴러</td>
+					<td>주연</td>
+					<td>8,600,146,099</td>
+					<td>971,482</td>
+					<td>8,600,146,099</td>
+					<td>971,482</td>
+				</tr>
+			
+				<tr>
+					<td>셰임</td>
+					<td>Shame</td>
+					<td>2011</td>
+					<td>영국</td>
+					<td>드라마</td>
+					<td>주연-브랜든 설리반역</td>
+					<td>136,553,000</td>
+					<td>18,065</td>
+					<td>148,208,400</td>
+					<td>19,565</td>
+				</tr>
+			
+				<tr>
+					<td>헤이와이어</td>
+					<td>Haywire</td>
+					<td>2011</td>
+					<td>미국,아일랜드</td>
+					<td>액션,스릴러,미스터리,어드벤처,드라마</td>
+					<td>주연-폴역</td>
+					<td>385,998,324</td>
+					<td>54,797</td>
+					<td>386,495,324</td>
+					<td>54,874</td>
+				</tr>
+			
+				<tr>
+					<td>데인저러스 메소드</td>
+					<td>A Dangerous Method</td>
+					<td>2011</td>
+					<td>영국,독일,캐나다,스위스</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연-칼 융역</td>
+					<td>209,863,509</td>
+					<td>27,703</td>
+					<td>210,823,009</td>
+					<td>27,835</td>
+				</tr>
+			
+				<tr>
+					<td>제인 에어</td>
+					<td>Jane Eyre</td>
+					<td>2011</td>
+					<td>영국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-로체스터역</td>
+					<td>981,132,000</td>
+					<td>135,797</td>
+					<td>988,340,000</td>
+					<td>136,810</td>
+				</tr>
+			
+				<tr>
+					<td>엑스맨: 퍼스트 클래스</td>
+					<td>X-Men: First Class</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연-에릭 렌셔 / 매그네토 역</td>
+					<td>19,075,363,000</td>
+					<td>2,533,852</td>
+					<td>19,081,006,000</td>
+					<td>2,534,979</td>
+				</tr>
+			
+				<tr>
+					<td>센츄리온</td>
+					<td>Centurion</td>
+					<td>2010</td>
+					<td>영국</td>
+					<td>액션,드라마,스릴러</td>
+					<td>주연-퀸터스 디아스역</td>
+					<td>553,415,176</td>
+					<td>74,131</td>
+					<td>543,635,000</td>
+					<td>72,669</td>
+				</tr>
+			
+				<tr>
+					<td>바스터즈: 거친 녀석들</td>
+					<td>Inglourious Basterds</td>
+					<td>2009</td>
+					<td>미국,독일</td>
+					<td>액션,드라마,전쟁</td>
+					<td>주연-Lt. 아치 히콕스역</td>
+					<td>2,547,650,425</td>
+					<td>336,312</td>
+					<td>2,513,029,000</td>
+					<td>331,827</td>
+				</tr>
+			
+				<tr>
+					<td>피쉬 탱크</td>
+					<td>Fish Tank</td>
+					<td>2009</td>
+					<td>영국,네덜란드</td>
+					<td>드라마</td>
+					<td>주연-코너역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>헝거</td>
+					<td>Hunger</td>
+					<td>2008</td>
+					<td>영국,아일랜드</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>51,600,100</td>
+					<td>6,927</td>
+					<td>52,659,100</td>
+					<td>7,129</td>
+				</tr>
+			
+				<tr>
+					<td>이든 레이크</td>
+					<td>Eden Lake</td>
+					<td>2008</td>
+					<td>영국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연-스티브역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

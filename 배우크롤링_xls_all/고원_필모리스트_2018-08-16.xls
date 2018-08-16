@@ -1,0 +1,138 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '고원'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>휴가</td>
+					<td>A WAY BACK TO MOTHER</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>가족,드라마</td>
+					<td>주연</td>
+					<td>4,587,700</td>
+					<td>663</td>
+					<td>4,587,700</td>
+					<td>663</td>
+				</tr>
+			
+				<tr>
+					<td>수상한 언니들</td>
+					<td>Summer of Director Oh</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연-오수진역</td>
+					<td>3,333,000</td>
+					<td>616</td>
+					<td>3,333,000</td>
+					<td>616</td>
+				</tr>
+			
+				<tr>
+					<td>위험한 중독 무삭제판</td>
+					<td></td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>5,000</td>
+					<td>1</td>
+					<td>5,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>짓2: 붉은 낙타 무삭제판</td>
+					<td>Death in Desert </td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>4,000</td>
+					<td>1</td>
+					<td>4,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>위험한 중독</td>
+					<td></td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>2,117,000</td>
+					<td>388</td>
+					<td>2,117,000</td>
+					<td>388</td>
+				</tr>
+			
+				<tr>
+					<td>젊은 처제</td>
+					<td></td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연-수연역</td>
+					<td>4,913,000</td>
+					<td>770</td>
+					<td>4,913,000</td>
+					<td>770</td>
+				</tr>
+			
+				<tr>
+					<td>짓2: 붉은 낙타</td>
+					<td>Death in Desert</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>4,292,000</td>
+					<td>807</td>
+					<td>4,292,000</td>
+					<td>807</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

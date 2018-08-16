@@ -1,0 +1,476 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '페넬로페 크루즈'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>오리엔트 특급 살인</td>
+					<td>Murder on the Orient Express</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>드라마,미스터리,범죄</td>
+					<td>주연</td>
+					<td>6,645,385,163</td>
+					<td>864,757</td>
+					<td>6,645,385,163</td>
+					<td>864,757</td>
+				</tr>
+			
+				<tr>
+					<td>쥬랜더 리턴즈</td>
+					<td>Zoolander 2</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>58,151,000</td>
+					<td>7,853</td>
+					<td>58,151,000</td>
+					<td>7,853</td>
+				</tr>
+			
+				<tr>
+					<td>내일의 안녕</td>
+					<td>Ma ma</td>
+					<td>2015</td>
+					<td>스페인,프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>60,703,900</td>
+					<td>8,481</td>
+					<td>61,190,900</td>
+					<td>8,544</td>
+				</tr>
+			
+				<tr>
+					<td>카운슬러</td>
+					<td>The Counselor</td>
+					<td>2013</td>
+					<td>미국,영국</td>
+					<td>범죄,드라마,스릴러</td>
+					<td>주연</td>
+					<td>966,623,000</td>
+					<td>133,272</td>
+					<td>966,623,000</td>
+					<td>133,272</td>
+				</tr>
+			
+				<tr>
+					<td>투와이스 본</td>
+					<td>Twice Born</td>
+					<td>2012</td>
+					<td>이탈리아</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>28,249,700</td>
+					<td>3,753</td>
+					<td>28,249,700</td>
+					<td>3,753</td>
+				</tr>
+			
+				<tr>
+					<td>로마 위드 러브</td>
+					<td>To Rome with Love</td>
+					<td>2012</td>
+					<td>미국,이탈리아,스페인</td>
+					<td>코미디</td>
+					<td>주연-애나역</td>
+					<td>1,324,309,801</td>
+					<td>180,743</td>
+					<td>1,337,976,677</td>
+					<td>182,633</td>
+				</tr>
+			
+				<tr>
+					<td>캐리비안의 해적: 낯선 조류</td>
+					<td>Pirates Of The Caribbean: On Stranger Tides</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>액션,판타지</td>
+					<td>주연</td>
+					<td>27,279,967,500</td>
+					<td>3,130,046</td>
+					<td>27,279,967,500</td>
+					<td>3,130,046</td>
+				</tr>
+			
+				<tr>
+					<td>나인</td>
+					<td>Nine</td>
+					<td>2009</td>
+					<td>미국,이탈리아</td>
+					<td>멜로/로맨스,뮤지컬</td>
+					<td>주연</td>
+					<td>3,790,050,942</td>
+					<td>499,838</td>
+					<td>3,729,452,500</td>
+					<td>491,162</td>
+				</tr>
+			
+				<tr>
+					<td>브로큰 임브레이스</td>
+					<td>Broken Hugs</td>
+					<td>2009</td>
+					<td>스페인</td>
+					<td>드라마,스릴러,멜로/로맨스</td>
+					<td>주연</td>
+					<td>113,091,983</td>
+					<td>14,880</td>
+					<td>112,573,000</td>
+					<td>14,806</td>
+				</tr>
+			
+				<tr>
+					<td>G-포스: 기니피그 특공대</td>
+					<td>G-Force</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>가족,어드벤처,액션</td>
+					<td>주연-주아레즈 목소리역(목소리)</td>
+					<td>412,084,900</td>
+					<td>40,161</td>
+					<td>405,615,000</td>
+					<td>39,522</td>
+				</tr>
+			
+				<tr>
+					<td>내 남자의 아내도 좋아</td>
+					<td>Vicky Cristina Barcelona</td>
+					<td>2008</td>
+					<td>스페인,미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-마리아 엘레나역</td>
+					<td>454,199,063</td>
+					<td>67,202</td>
+					<td>451,244,000</td>
+					<td>66,884</td>
+				</tr>
+			
+				<tr>
+					<td>엘레지</td>
+					<td>Elegy</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-콘수엘라 카스틸로역</td>
+					<td>59,863,403</td>
+					<td>8,737</td>
+					<td>60,721,000</td>
+					<td>8,915</td>
+				</tr>
+			
+				<tr>
+					<td>굿나잇</td>
+					<td>The Good Night</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>코미디,판타지,멜로/로맨스</td>
+					<td>주연</td>
+					<td>37,319,570</td>
+					<td>5,263</td>
+					<td>36,315,500</td>
+					<td>5,263</td>
+				</tr>
+			
+				<tr>
+					<td>귀향</td>
+					<td>Volver</td>
+					<td>2006</td>
+					<td>스페인</td>
+					<td>드라마,판타지</td>
+					<td>주연-라이문다역</td>
+					<td>0</td>
+					<td>26,830</td>
+					<td>178,815,500</td>
+					<td>26,242</td>
+				</tr>
+			
+				<tr>
+					<td>밴디다스</td>
+					<td>Bandidas</td>
+					<td>2006</td>
+					<td>프랑스</td>
+					<td>액션,코미디</td>
+					<td>주연-마리아역</td>
+					<td>0</td>
+					<td>54,555</td>
+					<td>282,118,100</td>
+					<td>45,790</td>
+				</tr>
+			
+				<tr>
+					<td>사하라</td>
+					<td>Sahara</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>액션,어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>465,599</td>
+					<td>2,615,859,500</td>
+					<td>411,424</td>
+				</tr>
+			
+				<tr>
+					<td>크로모포비아</td>
+					<td>Chromophobia</td>
+					<td>2005</td>
+					<td>영국,프랑스,미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>러브 인 클라우즈</td>
+					<td>Head In The Clouds</td>
+					<td>2004</td>
+					<td>호주</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>199,109,613</td>
+					<td>29,033</td>
+					<td>213,743,500</td>
+					<td>31,338</td>
+				</tr>
+			
+				<tr>
+					<td>스위트 크리스마스</td>
+					<td>Noel</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-니나역</td>
+					<td>0</td>
+					<td>4,128</td>
+					<td>22,231,500</td>
+					<td>3,348</td>
+				</tr>
+			
+				<tr>
+					<td>빨간 구두</td>
+					<td>Don&#039;t Move</td>
+					<td>2004</td>
+					<td>이탈리아</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>6,237</td>
+					<td>25,639,000</td>
+					<td>3,775</td>
+				</tr>
+			
+				<tr>
+					<td>고티카</td>
+					<td>Gothika</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>공포(호러)</td>
+					<td>조연</td>
+					<td>0</td>
+					<td>90,062</td>
+					<td>152,738,500</td>
+					<td>23,473</td>
+				</tr>
+			
+				<tr>
+					<td>팡팡 튤립</td>
+					<td>Fanfan la tulipe</td>
+					<td>2003</td>
+					<td>프랑스</td>
+					<td>어드벤처</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>디오스</td>
+					<td>(No News From God)</td>
+					<td>2001</td>
+					<td>스페인</td>
+					<td>코미디,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>470</td>
+					<td>157,000</td>
+					<td>37</td>
+				</tr>
+			
+				<tr>
+					<td>바닐라 스카이</td>
+					<td>Vanilla Sky</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>스릴러,미스터리,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>270,595</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>코렐리의 만돌린</td>
+					<td>Captain Corelli&#039;s Mandolin</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>드라마,전쟁</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>25,523</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>블로우</td>
+					<td>Blow</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>범죄,드라마</td>
+					<td>주연-밀타 정역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>맛을 보여드립니다</td>
+					<td>Woman On Top</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>코미디,판타지,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>올 더 프리티 호스</td>
+					<td>All The Pretty Horses</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스,서부극(웨스턴)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>내 어머니의 모든 것</td>
+					<td>All About My Mother</td>
+					<td>1999</td>
+					<td>스페인</td>
+					<td>코미디,드라마</td>
+					<td>주연-마리아역</td>
+					<td>0</td>
+					<td>21,487</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>네이키드 마야</td>
+					<td>Volaverunt</td>
+					<td>1999</td>
+					<td>스페인,프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>꿈속의 여인</td>
+					<td>The Girl of Your Dreams</td>
+					<td>1998</td>
+					<td>스페인</td>
+					<td>코미디,드라마</td>
+					<td>주연-마까레나역</td>
+					<td>0</td>
+					<td>9,265</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>맨 위드 레인</td>
+					<td>The Man With Rain In His Shoes</td>
+					<td>1998</td>
+					<td>스페인,프랑스,영국,독일,미국</td>
+					<td>코미디,드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>오픈유어아이즈</td>
+					<td>Open Your Eyes</td>
+					<td>1997</td>
+					<td>스페인</td>
+					<td>SF,멜로/로맨스,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>20,413</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

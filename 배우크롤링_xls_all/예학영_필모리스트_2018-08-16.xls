@@ -1,0 +1,112 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '예학영'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>바리새인</td>
+					<td>A Pharisee</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>8,908,000</td>
+					<td>1,565</td>
+					<td>9,008,000</td>
+					<td>1,575</td>
+				</tr>
+			
+				<tr>
+					<td>배꼽</td>
+					<td>Horny Family</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>가족,코미디</td>
+					<td>조연-대학생 아들역</td>
+					<td>300,000</td>
+					<td>50</td>
+					<td>300,000</td>
+					<td>50</td>
+				</tr>
+			
+				<tr>
+					<td>아버지와 마리와 나</td>
+					<td>Like Father, Like Son</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-명호역</td>
+					<td>28,278,000</td>
+					<td>4,162</td>
+					<td>28,278,000</td>
+					<td>4,162</td>
+				</tr>
+			
+				<tr>
+					<td>해부학 교실</td>
+					<td>Cadaver</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>공포(호러),스릴러</td>
+					<td>조연-찬용역</td>
+					<td>0</td>
+					<td>622,400</td>
+					<td>3,627,352,500</td>
+					<td>574,302</td>
+				</tr>
+			
+				<tr>
+					<td>백만장자의 첫사랑</td>
+					<td>A Millionaire’s First Love</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>단역-한수역</td>
+					<td>0</td>
+					<td>639,596</td>
+					<td>3,375,971,500</td>
+					<td>563,023</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

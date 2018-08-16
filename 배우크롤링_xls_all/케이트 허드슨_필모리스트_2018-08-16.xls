@@ -1,0 +1,307 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '케이트 허드슨'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>카스바</td>
+					<td>Rock the Kasbah</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>딥워터 호라이즌</td>
+					<td>Deepwater Horizon</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션,드라마</td>
+					<td>주연</td>
+					<td>775,611,543</td>
+					<td>100,021</td>
+					<td>784,555,543</td>
+					<td>101,303</td>
+				</tr>
+			
+				<tr>
+					<td>위시 아이 워즈 히어</td>
+					<td>Wish I Was Here</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>코미디,가족,드라마</td>
+					<td>주연-사라 블룸역</td>
+					<td>14,391,500</td>
+					<td>1,868</td>
+					<td>14,391,500</td>
+					<td>1,868</td>
+				</tr>
+			
+				<tr>
+					<td>언셀러</td>
+					<td>GOOD PEOPLE</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>범죄,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>리틀 빗 오브 헤븐</td>
+					<td>A Little Bit Of Heaven</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>러브 앤 프렌즈</td>
+					<td>Something Borrowed</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-다시역</td>
+					<td>795,721,500</td>
+					<td>110,795</td>
+					<td>795,721,500</td>
+					<td>110,795</td>
+				</tr>
+			
+				<tr>
+					<td>킬러 인사이드 미</td>
+					<td>The Killer Inside Me</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>범죄,드라마,스릴러</td>
+					<td>주연-에이미 역</td>
+					<td>391,822,268</td>
+					<td>51,555</td>
+					<td>385,670,500</td>
+					<td>50,734</td>
+				</tr>
+			
+				<tr>
+					<td>신부들의 전쟁</td>
+					<td>Bride Wars</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연-리브역</td>
+					<td>686,671,367</td>
+					<td>105,202</td>
+					<td>675,067,500</td>
+					<td>103,501</td>
+				</tr>
+			
+				<tr>
+					<td>사랑보다 황금</td>
+					<td>Fool&#039;S Gold</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>멜로/로맨스,어드벤처,코미디</td>
+					<td>주연-테스 피네건역</td>
+					<td>403,351,000</td>
+					<td>64,310</td>
+					<td>406,970,500</td>
+					<td>61,326</td>
+				</tr>
+			
+				<tr>
+					<td>마이 베프 걸</td>
+					<td>My Best Friend&#039;S Girl</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>허니문크래셔</td>
+					<td>You, Me and Dupree</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>조연-몰리 피터슨역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스켈리톤 키</td>
+					<td>The Skeleton Key</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>공포(호러),드라마,스릴러,미스터리</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>60,000</td>
+					<td>305,067,000</td>
+					<td>46,971</td>
+				</tr>
+			
+				<tr>
+					<td>레이징 헬렌</td>
+					<td>Raising Helen</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>10</td>
+					<td>67,000</td>
+					<td>10</td>
+				</tr>
+			
+				<tr>
+					<td>알렉스와 엠마</td>
+					<td>Alex And Emma</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2</td>
+					<td>13,000</td>
+					<td>2</td>
+				</tr>
+			
+				<tr>
+					<td>프렌치 아메리칸</td>
+					<td>Le Divorce</td>
+					<td>2003</td>
+					<td>미국,프랑스</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>8,000</td>
+					<td>5,542,500</td>
+					<td>895</td>
+				</tr>
+			
+				<tr>
+					<td>10일 안에 남자 친구에게 차이는 법</td>
+					<td>How to Lose a Guy in 10 Days </td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>547,845</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>포 페더스</td>
+					<td>The Four Feathers</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>전쟁,어드벤처,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>어바웃 아담</td>
+					<td>About Adam</td>
+					<td>2000</td>
+					<td>영국,아일랜드,미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>올모스트 페이머스</td>
+					<td>Almost Famous</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-페니 레인역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>데저트 블루</td>
+					<td>Desert Blue</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,320 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '윌 스미스'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>나는 사랑과 시간과 죽음을 만났다</td>
+					<td>Collateral Beauty</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>380,000</td>
+					<td>76</td>
+					<td>380,000</td>
+					<td>76</td>
+				</tr>
+			
+				<tr>
+					<td>수어사이드 스쿼드</td>
+					<td>Suicide Squad</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>15,873,106,188</td>
+					<td>1,898,121</td>
+					<td>15,874,111,188</td>
+					<td>1,898,220</td>
+				</tr>
+			
+				<tr>
+					<td>포커스</td>
+					<td>Focus</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>코미디,범죄,멜로/로맨스</td>
+					<td>주연</td>
+					<td>702,878,700</td>
+					<td>91,164</td>
+					<td>702,878,700</td>
+					<td>91,164</td>
+				</tr>
+			
+				<tr>
+					<td>애프터 어스</td>
+					<td>After Earth</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>SF,액션,어드벤처</td>
+					<td>주연</td>
+					<td>3,831,856,167</td>
+					<td>537,920</td>
+					<td>3,831,856,167</td>
+					<td>537,920</td>
+				</tr>
+			
+				<tr>
+					<td>맨 인 블랙 3</td>
+					<td>Men In Black III</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션,코미디,SF</td>
+					<td>주연-제이역</td>
+					<td>27,301,520,070</td>
+					<td>3,379,762</td>
+					<td>27,301,520,070</td>
+					<td>3,379,762</td>
+				</tr>
+			
+				<tr>
+					<td>세븐 파운즈</td>
+					<td>Seven Pounds</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>1,528,213,109</td>
+					<td>232,972</td>
+					<td>1,506,896,000</td>
+					<td>229,799</td>
+				</tr>
+			
+				<tr>
+					<td>핸콕</td>
+					<td>Hancock</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>액션,드라마,코미디</td>
+					<td>주연</td>
+					<td>17,854,932,333</td>
+					<td>2,723,518</td>
+					<td>17,844,690,500</td>
+					<td>2,722,574</td>
+				</tr>
+			
+				<tr>
+					<td>나는 전설이다</td>
+					<td>I Am Legend</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>SF,드라마,액션</td>
+					<td>주연</td>
+					<td></td>
+					<td>2,215,883</td>
+					<td>16,084,527,000</td>
+					<td>2,460,225</td>
+				</tr>
+			
+				<tr>
+					<td>행복을 찾아서</td>
+					<td>The Pursuit Of Happyness</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>드라마,가족</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>615,374</td>
+					<td>3,698,701,000</td>
+					<td>599,324</td>
+				</tr>
+			
+				<tr>
+					<td>Mr.히치: 당신을 위한 데이트 코치</td>
+					<td>Hitch</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>675,444</td>
+					<td>3,966,502,500</td>
+					<td>607,754</td>
+				</tr>
+			
+				<tr>
+					<td>샤크</td>
+					<td>Shark Tale</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>애니메이션,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>925,154</td>
+					<td>5,582,895,000</td>
+					<td>898,316</td>
+				</tr>
+			
+				<tr>
+					<td>아이, 로봇</td>
+					<td>I, Robot</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>SF</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,777,470</td>
+					<td>7,097,789,000</td>
+					<td>1,108,063</td>
+				</tr>
+			
+				<tr>
+					<td>나쁜 녀석들 II</td>
+					<td>Bad Boys 2</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,446,741</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>맨 인 블랙 2</td>
+					<td>Man In Black 2</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>SF</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>851,190</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>알리</td>
+					<td>Ali</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>62,348</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>베가번스의 전설</td>
+					<td>The Legend Of Bagger Vance</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>12,317</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>와일드 와일드 웨스트</td>
+					<td>Wild Wild West</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>액션,어드벤처,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>407,309</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>에너미 오브 스테이트</td>
+					<td>Enemy Of The State</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>드라마,액션,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>287,714</td>
+					<td>57,000</td>
+					<td>19</td>
+				</tr>
+			
+				<tr>
+					<td>맨인블랙 </td>
+					<td>Men In Black</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>SF,액션,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>662,106</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>인디펜던스 데이 </td>
+					<td>Independence Day</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>SF,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>923,223</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>나쁜 녀석들 </td>
+					<td>Bad Boys</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>150,913</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

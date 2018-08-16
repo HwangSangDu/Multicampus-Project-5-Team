@@ -1,0 +1,112 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '노엘 클락'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>브라더후드</td>
+					<td>Brotherhood</td>
+					<td>2016</td>
+					<td>영국</td>
+					<td>범죄,스릴러</td>
+					<td>감독</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아노말리: 타임 게이트</td>
+					<td>The Anomaly</td>
+					<td>2014</td>
+					<td>영국</td>
+					<td>액션,SF,스릴러</td>
+					<td>감독,주연</td>
+					<td>14,000</td>
+					<td>2</td>
+					<td>14,000</td>
+					<td>2</td>
+				</tr>
+			
+				<tr>
+					<td>아이 엠 솔져</td>
+					<td>I Am Soldier</td>
+					<td>2014</td>
+					<td>영국</td>
+					<td>전쟁,액션,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>에일리언 인베이젼</td>
+					<td>Storage 24</td>
+					<td>2013</td>
+					<td>영국</td>
+					<td>SF,공포(호러),스릴러</td>
+					<td>주연</td>
+					<td>350,000</td>
+					<td>70</td>
+					<td>350,000</td>
+					<td>70</td>
+				</tr>
+			
+				<tr>
+					<td>결혼 특급 대작전</td>
+					<td>The Knot</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연-피터 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

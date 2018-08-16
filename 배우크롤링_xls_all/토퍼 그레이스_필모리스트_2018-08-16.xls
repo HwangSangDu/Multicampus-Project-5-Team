@@ -1,0 +1,164 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '토퍼 그레이스'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>트루스</td>
+					<td>Truth</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>151,967,000</td>
+					<td>19,315</td>
+					<td>152,153,000</td>
+					<td>19,340</td>
+				</tr>
+			
+				<tr>
+					<td>아메리칸 울트라</td>
+					<td>American Ultra</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션,코미디</td>
+					<td>주연-예이츠역</td>
+					<td>1,301,387,295</td>
+					<td>161,382</td>
+					<td>1,301,387,295</td>
+					<td>161,382</td>
+				</tr>
+			
+				<tr>
+					<td>빅 웨딩</td>
+					<td>The Big Wedding </td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연-제러드역</td>
+					<td>231,885,500</td>
+					<td>33,993</td>
+					<td>233,303,500</td>
+					<td>34,466</td>
+				</tr>
+			
+				<tr>
+					<td>더블</td>
+					<td>The Double</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>범죄,드라마,미스터리,스릴러,액션</td>
+					<td>주연</td>
+					<td>28,004,500</td>
+					<td>4,068</td>
+					<td>28,004,500</td>
+					<td>4,068</td>
+				</tr>
+			
+				<tr>
+					<td>테이크 미 홈 투나잇</td>
+					<td>Take Me Home Tonight</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연-맷 프랭클린 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>프레데터스</td>
+					<td>Predators</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>액션,스릴러,SF,어드벤처</td>
+					<td>주연</td>
+					<td>2,025,850,507</td>
+					<td>281,642</td>
+					<td>1,991,492,500</td>
+					<td>276,536</td>
+				</tr>
+			
+				<tr>
+					<td>P.S 온리 유</td>
+					<td>P.S.</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>코미디,드라마,판타지,멜로/로맨스</td>
+					<td>주연-F. 스코트 페인스타트역</td>
+					<td>577,060</td>
+					<td>99</td>
+					<td>568,000</td>
+					<td>97</td>
+				</tr>
+			
+				<tr>
+					<td>인 굿 컴퍼니</td>
+					<td>In Good Company</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>200,393</td>
+					<td>1,212,450,000</td>
+					<td>185,406</td>
+				</tr>
+			
+				<tr>
+					<td>내 생애 최고의 데이트</td>
+					<td>Win A Date With Tad Hamilton</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>59,652</td>
+					<td>122,230,500</td>
+					<td>18,401</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

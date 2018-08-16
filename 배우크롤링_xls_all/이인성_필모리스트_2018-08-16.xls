@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '이인성'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>딥</td>
+					<td>Deep</td>
+					<td>2017</td>
+					<td>스페인</td>
+					<td>애니메이션,뮤지컬,어드벤처</td>
+					<td>주연-이보 목소리역(목소리)</td>
+					<td>1,772,272,000</td>
+					<td>230,068</td>
+					<td>1,772,272,000</td>
+					<td>230,068</td>
+				</tr>
+			
+				<tr>
+					<td>극장판 파워레인저: 닌자포스 VS 트레인포스 닌자 인 원더랜드</td>
+					<td>Shuriken Sentai Ninninja tai Ressha Sentai Tokkyuja Za Mubi Ninja In Wandarando</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>액션</td>
+					<td>조연-티켓역(목소리)</td>
+					<td>504,023,800</td>
+					<td>64,642</td>
+					<td>504,023,800</td>
+					<td>64,642</td>
+				</tr>
+			
+				<tr>
+					<td>스폰지밥 3D</td>
+					<td>The SpongeBob Movie: Sponge Out of Water</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>애니메이션,어드벤처,코미디</td>
+					<td>주연-뚱이 (한국어 목소리)역(목소리)</td>
+					<td>2,458,946,200</td>
+					<td>325,016</td>
+					<td>2,458,946,200</td>
+					<td>325,016</td>
+				</tr>
+			
+				<tr>
+					<td>슈렉 포에버</td>
+					<td>Shrek Forever After</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>애니메이션,코미디,가족</td>
+					<td>주연-동키 (한국어 목소리)역(목소리)</td>
+					<td>23,178,925,617</td>
+					<td>2,261,356</td>
+					<td>22,810,989,100</td>
+					<td>2,224,118</td>
+				</tr>
+			
+				<tr>
+					<td>아이스 에이지 2</td>
+					<td>Ice Age 2: The Meltdown</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>애니메이션,코미디,어드벤처</td>
+					<td>주연-시드 더빙 목소리역(목소리)</td>
+					<td>0</td>
+					<td>924,050</td>
+					<td>1,564,015,900</td>
+					<td>250,536</td>
+				</tr>
+			
+				<tr>
+					<td>벅스 라이프</td>
+					<td>A Bug&#039;s Life</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>애니메이션,가족</td>
+					<td>주연-애벌레 하임릭 더빙 목소리역(목소리)</td>
+					<td>0</td>
+					<td>369,032</td>
+					<td>3,058,000</td>
+					<td>417</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,190 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '채민서'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>캠핑</td>
+					<td>Camping</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>주연-선영역</td>
+					<td>5,000</td>
+					<td>1</td>
+					<td>5,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>젊은엄마 : 내 나이가 어때서</td>
+					<td></td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-이진희역</td>
+					<td>4,515,000</td>
+					<td>916</td>
+					<td>4,515,000</td>
+					<td>916</td>
+				</tr>
+			
+				<tr>
+					<td>숙희</td>
+					<td>Sookhee</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-숙희역</td>
+					<td>6,246,000</td>
+					<td>1,001</td>
+					<td>6,246,000</td>
+					<td>1,001</td>
+				</tr>
+			
+				<tr>
+					<td>슈퍼맨 강보상</td>
+					<td>Superman KangBoSang</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연-백홍주역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>채식주의자</td>
+					<td>Vegetarian</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-영혜역</td>
+					<td>25,547,105</td>
+					<td>3,434</td>
+					<td>26,459,000</td>
+					<td>3,536</td>
+				</tr>
+			
+				<tr>
+					<td>달콤한 거짓말</td>
+					<td>Lost &amp; Found</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>단역-어린 지호 목소리 역(목소리)</td>
+					<td>3,116,983,744</td>
+					<td>470,256</td>
+					<td>3,122,965,500</td>
+					<td>471,310</td>
+				</tr>
+			
+				<tr>
+					<td>외톨이</td>
+					<td>The Loner</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연-최윤미역</td>
+					<td>474,493,500</td>
+					<td>74,282</td>
+					<td>476,386,500</td>
+					<td>74,615</td>
+				</tr>
+			
+				<tr>
+					<td>망국의 이지스</td>
+					<td>Aegis</td>
+					<td>2005</td>
+					<td>일본</td>
+					<td>액션,스릴러</td>
+					<td>조연-준희역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>가발</td>
+					<td>The wig</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>공포(호러)</td>
+					<td>주연-수현/희주역</td>
+					<td>0</td>
+					<td>545,591</td>
+					<td>2,816,190,000</td>
+					<td>448,161</td>
+				</tr>
+			
+				<tr>
+					<td>돈 텔 파파</td>
+					<td>Raising My Dad</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연-이애란역</td>
+					<td>0</td>
+					<td>880,744</td>
+					<td>3,481,025,000</td>
+					<td>558,745</td>
+				</tr>
+			
+				<tr>
+					<td>챔피언</td>
+					<td>Champion</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-이경미역</td>
+					<td></td>
+					<td>557,546</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

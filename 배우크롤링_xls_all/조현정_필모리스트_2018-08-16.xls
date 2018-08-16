@@ -1,0 +1,151 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '조현정'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>극장판 도라에몽: 진구의 보물섬</td>
+					<td></td>
+					<td>2018</td>
+					<td>일본</td>
+					<td>애니메이션,SF,어드벤처</td>
+					<td>주연-이슬이 (한국어 목소리)역(목소리)</td>
+					<td></td>
+					<td></td>
+					<td>508,135,400</td>
+					<td>65,990</td>
+				</tr>
+			
+				<tr>
+					<td>신비아파트: 금빛 도깨비와 비밀의 동굴</td>
+					<td>The Haunted House: The Secret of the Cave</td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>애니메이션,판타지,어드벤처</td>
+					<td>주연-신비 목소리역(목소리)</td>
+					<td></td>
+					<td></td>
+					<td>4,966,239,500</td>
+					<td>673,457</td>
+				</tr>
+			
+				<tr>
+					<td>극장판 에그엔젤 코코밍: 푸르밍과 두근두근 코코밍 세계</td>
+					<td>Cocotama The Movie 2017</td>
+					<td>2017</td>
+					<td>일본</td>
+					<td>애니메이션</td>
+					<td>주연-키키밍 목소리역(목소리)</td>
+					<td>1,055,895,200</td>
+					<td>137,052</td>
+					<td>1,055,895,200</td>
+					<td>137,052</td>
+				</tr>
+			
+				<tr>
+					<td>극장판 도라에몽: 신 진구의 버스 오브 재팬</td>
+					<td>Doraemon The Movie : Nobita and The Birth of Japan</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>애니메이션</td>
+					<td>주연-이슬이 목소리 역(목소리)</td>
+					<td>525,099,600</td>
+					<td>70,350</td>
+					<td>525,099,600</td>
+					<td>70,350</td>
+				</tr>
+			
+				<tr>
+					<td>빌리와 용감한 녀석들 3</td>
+					<td>Ribbit </td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>애니메이션,어드벤처</td>
+					<td>주연-샌디역(목소리)</td>
+					<td>699,788,600</td>
+					<td>98,495</td>
+					<td>699,788,600</td>
+					<td>98,495</td>
+				</tr>
+			
+				<tr>
+					<td>뽀로로 극장판 슈퍼썰매 대모험</td>
+					<td>Pororo: The Racing Adventure</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>애니메이션</td>
+					<td>조연-해리역(목소리)</td>
+					<td>6,819,979,500</td>
+					<td>929,985</td>
+					<td>6,830,036,000</td>
+					<td>931,953</td>
+				</tr>
+			
+				<tr>
+					<td>춤추는 꿈틀이 밴드</td>
+					<td>Sunshine Barry &amp; The Disco Worms</td>
+					<td>2008</td>
+					<td>덴마크,독일</td>
+					<td>애니메이션,가족,코미디</td>
+					<td>주연-도나역</td>
+					<td>74,013,035</td>
+					<td>11,061</td>
+					<td>72,851,000</td>
+					<td>10,885</td>
+				</tr>
+			
+				<tr>
+					<td>제불찰씨 이야기</td>
+					<td>The Story Of Mr. Sorry</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>애니메이션,드라마,스릴러,미스터리</td>
+					<td>조연-팽선녀 역(목소리)</td>
+					<td>1,170,353</td>
+					<td>192</td>
+					<td>2,259,500</td>
+					<td>351</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

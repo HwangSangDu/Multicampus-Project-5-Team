@@ -1,0 +1,151 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '장혁진'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>진범</td>
+					<td></td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>대부업자: 소울 앤 캐시</td>
+					<td>Soul &amp; Cash</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>73,000</td>
+					<td>30</td>
+					<td>73,000</td>
+					<td>30</td>
+				</tr>
+			
+				<tr>
+					<td>커튼콜</td>
+					<td>Curtain Call</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>조연</td>
+					<td>40,638,100</td>
+					<td>5,526</td>
+					<td>40,638,100</td>
+					<td>5,526</td>
+				</tr>
+			
+				<tr>
+					<td>졸업반</td>
+					<td>The Senior Class</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>애니메이션</td>
+					<td>주연-점백이 교수 (목소리)역(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>베드(감독판)</td>
+					<td>B·E·D</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>270,000</td>
+					<td>54</td>
+					<td>270,000</td>
+					<td>54</td>
+				</tr>
+			
+				<tr>
+					<td>베드</td>
+					<td>B·E·D</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-B역</td>
+					<td>4,186,000</td>
+					<td>606</td>
+					<td>4,186,000</td>
+					<td>606</td>
+				</tr>
+			
+				<tr>
+					<td>중천</td>
+					<td>The Restless</td>
+					<td>2006</td>
+					<td>한국,중국</td>
+					<td>액션,드라마,판타지</td>
+					<td>조연</td>
+					<td>0</td>
+					<td>1,531,220</td>
+					<td>8,581,442,100</td>
+					<td>1,421,412</td>
+				</tr>
+			
+				<tr>
+					<td>태양의 이면</td>
+					<td>The Other Side Of The Sun</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

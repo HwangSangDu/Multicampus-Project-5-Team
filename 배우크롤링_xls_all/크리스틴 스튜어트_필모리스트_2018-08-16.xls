@@ -1,0 +1,372 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '크리스틴 스튜어트'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>퍼스널 쇼퍼</td>
+					<td>Personal Shopper</td>
+					<td>2016</td>
+					<td>프랑스</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td>114,418,100</td>
+					<td>14,182</td>
+					<td>117,925,100</td>
+					<td>14,617</td>
+				</tr>
+			
+				<tr>
+					<td>카페 소사이어티</td>
+					<td>Cafe Society</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>1,047,223,666</td>
+					<td>126,439</td>
+					<td>1,048,530,166</td>
+					<td>126,621</td>
+				</tr>
+			
+				<tr>
+					<td>이퀄스</td>
+					<td>Equals</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>드라마,SF</td>
+					<td>주연</td>
+					<td>519,932,300</td>
+					<td>68,897</td>
+					<td>519,972,300</td>
+					<td>68,902</td>
+				</tr>
+			
+				<tr>
+					<td>월터 교수의 마지막 강의</td>
+					<td>Anesthesia</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>19,747,000</td>
+					<td>2,791</td>
+					<td>19,763,000</td>
+					<td>2,793</td>
+				</tr>
+			
+				<tr>
+					<td>아메리칸 울트라</td>
+					<td>American Ultra</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션,코미디</td>
+					<td>주연-피비역</td>
+					<td>1,301,387,295</td>
+					<td>161,382</td>
+					<td>1,301,387,295</td>
+					<td>161,382</td>
+				</tr>
+			
+				<tr>
+					<td>스틸 앨리스</td>
+					<td>Still Alice</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>869,953,546</td>
+					<td>112,711</td>
+					<td>871,674,546</td>
+					<td>112,977</td>
+				</tr>
+			
+				<tr>
+					<td>클라우즈 오브 실스마리아</td>
+					<td>Clouds of Sils Maria</td>
+					<td>2014</td>
+					<td>프랑스,스위스,독일</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>263,302,599</td>
+					<td>33,009</td>
+					<td>264,488,599</td>
+					<td>33,168</td>
+				</tr>
+			
+				<tr>
+					<td>캠프 엑스레이</td>
+					<td>Camp X-Ray</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>온 더 로드</td>
+					<td>On the Road</td>
+					<td>2012</td>
+					<td>미국,프랑스,영국</td>
+					<td>어드벤처,드라마</td>
+					<td>주연</td>
+					<td>20,155,500</td>
+					<td>2,622</td>
+					<td>20,155,500</td>
+					<td>2,622</td>
+				</tr>
+			
+				<tr>
+					<td>브레이킹 던 part2</td>
+					<td>The Twilight Saga: Breaking Dawn Part 2</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>드라마,판타지,멜로/로맨스</td>
+					<td>주연</td>
+					<td>18,909,583,065</td>
+					<td>2,654,817</td>
+					<td>18,909,583,065</td>
+					<td>2,654,817</td>
+				</tr>
+			
+				<tr>
+					<td>스노우 화이트 앤 더 헌츠맨</td>
+					<td>Snow White And The Huntsman</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지</td>
+					<td>주연-스노우 화이트 역</td>
+					<td>4,646,250,000</td>
+					<td>636,631</td>
+					<td>4,646,250,000</td>
+					<td>636,631</td>
+				</tr>
+			
+				<tr>
+					<td>브레이킹 던 part1</td>
+					<td>The Twilight Saga: Breaking Dawn - Part 1</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>드라마,판타지,멜로/로맨스</td>
+					<td>주연</td>
+					<td>10,713,863,000</td>
+					<td>1,462,280</td>
+					<td>10,715,439,000</td>
+					<td>1,462,561</td>
+				</tr>
+			
+				<tr>
+					<td>웰컴 투 마이 하트</td>
+					<td>Welcome To The Rileys</td>
+					<td>2010</td>
+					<td>영국,미국</td>
+					<td>드라마</td>
+					<td>주연-맬로리 역</td>
+					<td>47,841,500</td>
+					<td>6,258</td>
+					<td>49,507,500</td>
+					<td>6,589</td>
+				</tr>
+			
+				<tr>
+					<td>이클립스</td>
+					<td>The Twilight Saga: Eclipse</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>판타지,멜로/로맨스,스릴러</td>
+					<td>주연-벨라 스완역</td>
+					<td>15,192,541,723</td>
+					<td>2,105,050</td>
+					<td>14,947,417,000</td>
+					<td>2,069,546</td>
+				</tr>
+			
+				<tr>
+					<td>런어웨이즈</td>
+					<td>The Runaways</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>111,779,483</td>
+					<td>15,088</td>
+					<td>110,139,500</td>
+					<td>14,863</td>
+				</tr>
+			
+				<tr>
+					<td>뉴 문</td>
+					<td>The Twilight Saga: New Moon</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>판타지,드라마,멜로/로맨스</td>
+					<td>주연-벨라 스완역</td>
+					<td>13,988,362,067</td>
+					<td>1,949,027</td>
+					<td>13,868,814,000</td>
+					<td>1,933,467</td>
+				</tr>
+			
+				<tr>
+					<td>어드벤처랜드</td>
+					<td>Adventureland</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사랑을 위한 여행</td>
+					<td>The Yellow Handkerchief</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>4,050,000</td>
+					<td>810</td>
+					<td>4,050,000</td>
+					<td>810</td>
+				</tr>
+			
+				<tr>
+					<td>트와일라잇</td>
+					<td>Twilight</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>액션,멜로/로맨스,판타지,공포(호러)</td>
+					<td>주연</td>
+					<td>8,796,916,521</td>
+					<td>1,356,180</td>
+					<td>8,826,674,000</td>
+					<td>1,361,273</td>
+				</tr>
+			
+				<tr>
+					<td>참을 수 없는 사랑</td>
+					<td>The Cake Eaters</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>804,000</td>
+					<td>159</td>
+					<td>804,000</td>
+					<td>159</td>
+				</tr>
+			
+				<tr>
+					<td>메신져 - 죽은자들의 경고</td>
+					<td>The Messengers</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>266,487</td>
+					<td>1,576,803,000</td>
+					<td>245,955</td>
+				</tr>
+			
+				<tr>
+					<td>인 더 랜드 오브 우먼</td>
+					<td>In the Land of Women</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>코미디,드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>피어스 피플</td>
+					<td>Fierce People</td>
+					<td>2005</td>
+					<td>미국,캐나다</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>캐치 댓 머니</td>
+					<td>Catch That Kid</td>
+					<td>2004</td>
+					<td>미국,독일</td>
+					<td>코미디,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>언더토우</td>
+					<td>Undertow</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,138 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '클라라 라고'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>오비터 9</td>
+					<td>Orbita 9</td>
+					<td>2017</td>
+					<td>스페인</td>
+					<td>SF,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>터널</td>
+					<td>At The End Of The Tunnel</td>
+					<td>2016</td>
+					<td>아르헨티나</td>
+					<td>스릴러,미스터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>최후의 인류</td>
+					<td>Extinction</td>
+					<td>2015</td>
+					<td>스페인,헝가리</td>
+					<td>드라마,공포(호러),SF</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스페니쉬 어페어</td>
+					<td>Spanish Affair</td>
+					<td>2014</td>
+					<td>스페인</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td>6,000</td>
+					<td>1</td>
+					<td>6,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>디 엔드: 인류 최후의 날</td>
+					<td>Fin </td>
+					<td>2012</td>
+					<td>스페인</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>10,605,000</td>
+					<td>1,515</td>
+					<td>10,605,000</td>
+					<td>1,515</td>
+				</tr>
+			
+				<tr>
+					<td>거침없이 사랑하라</td>
+					<td>The Hanged Man</td>
+					<td>2009</td>
+					<td>스페인,아일랜드</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>8,000</td>
+					<td>4</td>
+				</tr>
+			
+				<tr>
+					<td>마이 러브</td>
+					<td>Carol&#039;S Journey</td>
+					<td>2002</td>
+					<td>스페인</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>30</td>
+					<td>174,000</td>
+					<td>28</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

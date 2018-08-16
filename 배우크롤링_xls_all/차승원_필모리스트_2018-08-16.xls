@@ -1,0 +1,411 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '차승원'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>힘을 내요, 미스터 리(가제)</td>
+					<td></td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>독전: 익스텐디드 컷</td>
+					<td></td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>범죄,액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>844,556,600</td>
+					<td>137,753</td>
+				</tr>
+			
+				<tr>
+					<td>독전</td>
+					<td>Believer</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>범죄,액션</td>
+					<td>주연-브라이언역</td>
+					<td>43,314,359,313</td>
+					<td>5,043,827</td>
+					<td>43,483,401,913</td>
+					<td>5,063,433</td>
+				</tr>
+			
+				<tr>
+					<td>고산자, 대동여지도</td>
+					<td>The Map Against the World</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>사극</td>
+					<td>주연-김정호역</td>
+					<td>7,801,007,258</td>
+					<td>974,262</td>
+					<td>7,801,007,258</td>
+					<td>974,262</td>
+				</tr>
+			
+				<tr>
+					<td>하이힐</td>
+					<td>Man on High Heels</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>범죄,액션</td>
+					<td>주연</td>
+					<td>2,749,906,500</td>
+					<td>341,606</td>
+					<td>2,750,311,500</td>
+					<td>341,634</td>
+				</tr>
+			
+				<tr>
+					<td>하이힐(디렉터스컷)</td>
+					<td>Man on high heels</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>19,004,500</td>
+					<td>2,161</td>
+				</tr>
+			
+				<tr>
+					<td>아테나: 전쟁의 여신</td>
+					<td>Athena : The Movie</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>포화속으로</td>
+					<td>71-Into The Fire</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>드라마,전쟁</td>
+					<td>주연-북한군 대장, 박무량역</td>
+					<td>24,217,600,897</td>
+					<td>3,385,706</td>
+					<td>23,831,968,600</td>
+					<td>3,330,326</td>
+				</tr>
+			
+				<tr>
+					<td>구르믈 버서난 달처럼</td>
+					<td>Blades of Blood</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>사극,액션</td>
+					<td>주연-이몽학역</td>
+					<td>10,408,565,262</td>
+					<td>1,407,681</td>
+					<td>10,241,716,500</td>
+					<td>1,383,867</td>
+				</tr>
+			
+				<tr>
+					<td>시크릿</td>
+					<td>Secret</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>스릴러,드라마,미스터리</td>
+					<td>주연-성열역</td>
+					<td>7,979,591,607</td>
+					<td>1,046,787</td>
+					<td>7,957,651,500</td>
+					<td>1,043,602</td>
+				</tr>
+			
+				<tr>
+					<td>눈에는 눈 이에는 이</td>
+					<td>Eye For An Eye</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>범죄,스릴러,액션</td>
+					<td>주연</td>
+					<td>13,414,023,500</td>
+					<td>2,058,764</td>
+					<td>13,410,811,500</td>
+					<td>2,058,616</td>
+				</tr>
+			
+				<tr>
+					<td>아들</td>
+					<td>My Son</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마,가족</td>
+					<td>주연-강식역</td>
+					<td>0</td>
+					<td>488,221</td>
+					<td>2,886,902,500</td>
+					<td>452,209</td>
+				</tr>
+			
+				<tr>
+					<td>이장과 군수</td>
+					<td>Small Town Rivals</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,269,142</td>
+					<td>7,594,186,000</td>
+					<td>1,179,661</td>
+				</tr>
+			
+				<tr>
+					<td>국경의 남쪽</td>
+					<td>Over the Border</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>252,457</td>
+					<td>1,431,751,800</td>
+					<td>227,304</td>
+				</tr>
+			
+				<tr>
+					<td>박수칠 때 떠나라</td>
+					<td>Murder, Take One</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>드라마,코미디,미스터리</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,475,291</td>
+					<td>13,181,626,500</td>
+					<td>2,073,641</td>
+				</tr>
+			
+				<tr>
+					<td>혈의 누</td>
+					<td>Blood Rain</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>주연-이원규역</td>
+					<td>0</td>
+					<td>2,274,995</td>
+					<td>12,367,924,506</td>
+					<td>1,926,681</td>
+				</tr>
+			
+				<tr>
+					<td>귀신이 산다</td>
+					<td>Ghost House</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>코미디,공포(호러),판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,890,000</td>
+					<td>11,898,748,500</td>
+					<td>1,875,936</td>
+				</tr>
+			
+				<tr>
+					<td>선생 김봉두</td>
+					<td>My Teacher, Mr. Kim</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연-김봉두역</td>
+					<td>0</td>
+					<td>2,472,135</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>광복절 특사</td>
+					<td>Jail Breakers</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>3,101,900</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>라이터를 켜라</td>
+					<td>Break Out</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연-건달 보스 양철곤역</td>
+					<td></td>
+					<td>470,557</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>신라의 달밤</td>
+					<td>Kick The Moon</td>
+					<td>2001</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,608,211</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>리베라메</td>
+					<td>Libera Me</td>
+					<td>2000</td>
+					<td>한국</td>
+					<td>드라마,미스터리,범죄,액션</td>
+					<td>주연-여희수역</td>
+					<td>0</td>
+					<td>533,560</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>신혼여행(身魂旅行)</td>
+					<td>Black Honeymoon</td>
+					<td>2000</td>
+					<td>한국</td>
+					<td>미스터리,스릴러,코미디</td>
+					<td>주연-김준호역</td>
+					<td>0</td>
+					<td>36,218</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>세기말</td>
+					<td>Fin De Siecle</td>
+					<td>1999</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연-상우역</td>
+					<td>0</td>
+					<td>39,636</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>주유소 습격사건</td>
+					<td>Attack The Gas Station!</td>
+					<td>1999</td>
+					<td>한국</td>
+					<td>코미디,액션</td>
+					<td>단역-폭주 청년역</td>
+					<td>0</td>
+					<td>2,310,000</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>자귀모(자살한 귀신들의 모임)</td>
+					<td>Ghost In Love</td>
+					<td>1999</td>
+					<td>한국</td>
+					<td>SF,공포(호러)</td>
+					<td>조연</td>
+					<td>0</td>
+					<td>362,935</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>해가 서쪽에서 뜬다면</td>
+					<td>If the sun rises in the West</td>
+					<td>1998</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>145,752</td>
+					<td>0</td>
+					<td>0</td>
+				</tr>
+			
+				<tr>
+					<td>홀리데이 인 서울</td>
+					<td>Holiday Inn Seoul</td>
+					<td>1997</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>36,474</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

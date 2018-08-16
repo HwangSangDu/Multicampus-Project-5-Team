@@ -1,0 +1,242 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '김인우'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>박열</td>
+					<td>Anarchist from Colony</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>18,093,543,795</td>
+					<td>2,359,174</td>
+					<td>18,094,175,795</td>
+					<td>2,359,273</td>
+				</tr>
+			
+				<tr>
+					<td>덕혜옹주</td>
+					<td>The Last Princess</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>사극,드라마</td>
+					<td>조연</td>
+					<td>44,393,828,109</td>
+					<td>5,599,229</td>
+					<td>44,395,967,609</td>
+					<td>5,599,665</td>
+				</tr>
+			
+				<tr>
+					<td>아가씨</td>
+					<td>The Handmaiden</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>스릴러,드라마</td>
+					<td>조연-손님3역</td>
+					<td>35,211,229,991</td>
+					<td>4,287,839</td>
+					<td>35,219,128,991</td>
+					<td>4,288,750</td>
+				</tr>
+			
+				<tr>
+					<td>아가씨(확장판)</td>
+					<td>The Handmaiden</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>스릴러,드라마</td>
+					<td>조연-손님3역</td>
+					<td></td>
+					<td></td>
+					<td>106,018,200</td>
+					<td>13,828</td>
+				</tr>
+			
+				<tr>
+					<td>동주</td>
+					<td>DONGJU; The Portrait of A Poet</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-고등형사역</td>
+					<td>8,870,143,589</td>
+					<td>1,169,335</td>
+					<td>8,909,265,963</td>
+					<td>1,175,737</td>
+				</tr>
+			
+				<tr>
+					<td>암살</td>
+					<td>Assassination</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>액션,드라마</td>
+					<td>조연-기무라역</td>
+					<td>98,463,132,781</td>
+					<td>12,705,700</td>
+					<td>98,467,187,781</td>
+					<td>12,706,663</td>
+				</tr>
+			
+				<tr>
+					<td>과대망상자들</td>
+					<td>The Delusionist</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-치과역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>명량</td>
+					<td>Roaring Currents</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>사극,액션</td>
+					<td>대사-일본어 교육</td>
+					<td>135,748,398,910</td>
+					<td>17,613,682</td>
+					<td>135,754,920,310</td>
+					<td>17,615,314</td>
+				</tr>
+			
+				<tr>
+					<td>깡철이</td>
+					<td>Tough As Iron</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>드라마,액션,가족</td>
+					<td>조연-야키토역</td>
+					<td>8,572,344,462</td>
+					<td>1,209,363</td>
+					<td>8,572,344,462</td>
+					<td>1,209,363</td>
+				</tr>
+			
+				<tr>
+					<td>미스터 고</td>
+					<td>Mr. Go </td>
+					<td>2013</td>
+					<td>한국,중국</td>
+					<td>코미디,드라마</td>
+					<td>조연-요미우리 단장 역</td>
+					<td>9,337,990,000</td>
+					<td>1,328,890</td>
+					<td>9,339,014,000</td>
+					<td>1,329,061</td>
+				</tr>
+			
+				<tr>
+					<td>강철대오:구국의 철가방</td>
+					<td>Almost Che</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>단역-일본 앵커역</td>
+					<td>1,614,867,156</td>
+					<td>233,211</td>
+					<td>1,614,867,156</td>
+					<td>233,211</td>
+				</tr>
+			
+				<tr>
+					<td>코리아</td>
+					<td>As One</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-일본 해설자역</td>
+					<td>13,448,848,500</td>
+					<td>1,872,681</td>
+					<td>13,448,857,500</td>
+					<td>1,872,682</td>
+				</tr>
+			
+				<tr>
+					<td>마이 웨이</td>
+					<td>My Way</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>전쟁,액션,드라마</td>
+					<td>조연-야마다역</td>
+					<td>15,994,803,000</td>
+					<td>2,142,622</td>
+					<td>15,995,187,000</td>
+					<td>2,142,670</td>
+				</tr>
+			
+				<tr>
+					<td>식객2 : 김치전쟁</td>
+					<td>Le Grand Chef 2: Kimchi Battle</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-일본 수상역</td>
+					<td>3,298,814,209</td>
+					<td>471,103</td>
+					<td>3,243,969,500</td>
+					<td>462,714</td>
+				</tr>
+			
+				<tr>
+					<td>굿모닝 프레지던트</td>
+					<td>Good Morning President</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>단역-〔차지욱 대통령〕일본 대사역</td>
+					<td>18,770,889,320</td>
+					<td>2,583,294</td>
+					<td>18,567,863,300</td>
+					<td>2,554,960</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

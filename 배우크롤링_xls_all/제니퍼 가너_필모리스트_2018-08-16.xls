@@ -1,0 +1,307 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '제니퍼 가너'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>원더랜드</td>
+					<td>Wonder Park</td>
+					<td>2019</td>
+					<td>스페인,미국</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>미스터 캣</td>
+					<td>Nine Lives</td>
+					<td>2016</td>
+					<td>프랑스,중국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>181,383,750</td>
+					<td>23,350</td>
+					<td>181,383,750</td>
+					<td>23,350</td>
+				</tr>
+			
+				<tr>
+					<td>미라클 프롬 헤븐</td>
+					<td>Miracles from Heaven</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>119,875,500</td>
+					<td>17,625</td>
+					<td>120,155,500</td>
+					<td>17,665</td>
+				</tr>
+			
+				<tr>
+					<td>웨이크필드</td>
+					<td>Wakefield</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>대니 콜린스</td>
+					<td>Danny Collins</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>427,040,305</td>
+					<td>56,632</td>
+					<td>427,040,305</td>
+					<td>56,632</td>
+				</tr>
+			
+				<tr>
+					<td>드래프트 데이</td>
+					<td>Draft Day</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>74,216,200</td>
+					<td>10,119</td>
+					<td>74,216,200</td>
+					<td>10,119</td>
+				</tr>
+			
+				<tr>
+					<td>난 지구 반대편 나라로 가버릴테야</td>
+					<td>Alexander and the Terrible, Horrible, No Good, Very Bad Day</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>코미디,가족</td>
+					<td>주연-켈리역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>달라스 바이어스 클럽</td>
+					<td>Dallas Buyers Club</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>531,581,543</td>
+					<td>70,529</td>
+					<td>533,709,462</td>
+					<td>70,801</td>
+				</tr>
+			
+				<tr>
+					<td>디 오드 라이프 오브 티모시 그린</td>
+					<td>The Odd Life of Timothy Green</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>판타지</td>
+					<td>주연-신디 그린 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>버터 러버</td>
+					<td>Butter</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>12,097,000</td>
+					<td>5,545</td>
+					<td>12,097,000</td>
+					<td>5,545</td>
+				</tr>
+			
+				<tr>
+					<td>아서</td>
+					<td>Arthur</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연-수잔 존슨역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>고스트 오브 걸프렌즈 패스트</td>
+					<td>Ghosts Of Girlfriends Past</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>그곳에선 아무도 거짓말을 하지 않는다 </td>
+					<td>The Invention of Lying</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연-제니퍼 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>킹덤</td>
+					<td>The Kingdom</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>258,419</td>
+					<td>1,638,510,000</td>
+					<td>244,615</td>
+				</tr>
+			
+				<tr>
+					<td>캐치 앤 릴리즈</td>
+					<td>Catch and Release</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>엘렉트라</td>
+					<td>Elektra</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>202,020</td>
+					<td>1,126,857,500</td>
+					<td>173,048</td>
+				</tr>
+			
+				<tr>
+					<td>완벽한 그녀에게 딱 한가지 없는 것</td>
+					<td>13 Going On 30</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>59,929</td>
+					<td>283,599,500</td>
+					<td>44,359</td>
+				</tr>
+			
+				<tr>
+					<td>데어데블</td>
+					<td>Daredevil</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>액션,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>553,000</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>내 차 봤냐?</td>
+					<td>Dude, Where&#039;s My Car?</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>타임 오브 유어 라이프</td>
+					<td>Time Of Your Life</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,151 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '이이경'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>더 펜션</td>
+					<td>The Pension</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>29,854,400</td>
+					<td>3,243</td>
+					<td>30,492,000</td>
+					<td>3,340</td>
+				</tr>
+			
+				<tr>
+					<td>괴물들</td>
+					<td>WRETCHES</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-양훈역</td>
+					<td>28,104,500</td>
+					<td>3,277</td>
+					<td>28,104,500</td>
+					<td>3,277</td>
+				</tr>
+			
+				<tr>
+					<td>아기와 나</td>
+					<td>Baby Beside Me</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>17,949,800</td>
+					<td>2,356</td>
+					<td>18,540,900</td>
+					<td>2,455</td>
+				</tr>
+			
+				<tr>
+					<td>커튼콜</td>
+					<td>Curtain Call</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>조연</td>
+					<td>40,638,100</td>
+					<td>5,526</td>
+					<td>40,638,100</td>
+					<td>5,526</td>
+				</tr>
+			
+				<tr>
+					<td>해적: 바다로 간 산적</td>
+					<td>The Pirates </td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>어드벤처</td>
+					<td>조연</td>
+					<td>66,370,682,706</td>
+					<td>8,666,046</td>
+					<td>66,372,140,706</td>
+					<td>8,666,208</td>
+				</tr>
+			
+				<tr>
+					<td>일대일</td>
+					<td>One on One</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>78,745,100</td>
+					<td>10,141</td>
+					<td>78,747,100</td>
+					<td>10,142</td>
+				</tr>
+			
+				<tr>
+					<td>남쪽으로 간다</td>
+					<td>Going South </td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>제작팀</td>
+					<td>10,532,250</td>
+					<td>2,877</td>
+					<td>10,675,750</td>
+					<td>2,919</td>
+				</tr>
+			
+				<tr>
+					<td>백야</td>
+					<td>White Night</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연-태준역</td>
+					<td>44,275,000</td>
+					<td>6,075</td>
+					<td>45,622,000</td>
+					<td>6,403</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

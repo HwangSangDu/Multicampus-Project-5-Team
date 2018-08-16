@@ -1,0 +1,372 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '류덕환'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>혼숨</td>
+					<td>HIDE-AND-NEVER SEEK</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td>2,258,422,445</td>
+					<td>288,016</td>
+					<td>2,258,422,445</td>
+					<td>288,016</td>
+				</tr>
+			
+				<tr>
+					<td>위대한 소원</td>
+					<td>THE LAST RIDE</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>주연-고환역</td>
+					<td>2,440,004,213</td>
+					<td>308,398</td>
+					<td>2,440,004,213</td>
+					<td>308,398</td>
+				</tr>
+			
+				<tr>
+					<td>열정같은소리하고있네</td>
+					<td>YOU CALL IT PASSION</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연</td>
+					<td>4,761,399,902</td>
+					<td>654,407</td>
+					<td>4,761,399,902</td>
+					<td>654,407</td>
+				</tr>
+			
+				<tr>
+					<td>FALLing in JEONJU - 코리아시네마스케이프 단편</td>
+					<td></td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>기타</td>
+					<td>감독</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>비공식 개강총회</td>
+					<td>Informality</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>감독</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>서울독립영화제 2015 특별단편 1</td>
+					<td></td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>기타</td>
+					<td>감독</td>
+					<td></td>
+					<td></td>
+					<td>611,800</td>
+					<td>102</td>
+				</tr>
+			
+				<tr>
+					<td>제14회 미쟝센 단편영화제 비정성시2</td>
+					<td>A City of Sadness 2</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>감독</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>흑산도</td>
+					<td>Black Mountain Island</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>누구의 딸도 아닌 해원</td>
+					<td>Nobody’s Daughter Haewon</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-동주역</td>
+					<td>268,878,400</td>
+					<td>34,876</td>
+					<td>275,129,900</td>
+					<td>35,719</td>
+				</tr>
+			
+				<tr>
+					<td>뒷담화: 감독이 미쳤어요</td>
+					<td>Behind the Camera</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>38,535,100</td>
+					<td>5,284</td>
+					<td>38,795,100</td>
+					<td>5,317</td>
+				</tr>
+			
+				<tr>
+					<td>복숭아나무</td>
+					<td>The Peachtree</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>주연-동현역</td>
+					<td>240,103,112</td>
+					<td>33,884</td>
+					<td>240,262,112</td>
+					<td>33,902</td>
+				</tr>
+			
+				<tr>
+					<td>링크</td>
+					<td>Link</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>6,099,500</td>
+					<td>829</td>
+					<td>6,099,500</td>
+					<td>829</td>
+				</tr>
+			
+				<tr>
+					<td>헤드</td>
+					<td>Head</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>462,025,000</td>
+					<td>61,414</td>
+					<td>462,025,000</td>
+					<td>61,414</td>
+				</tr>
+			
+				<tr>
+					<td>검지손가락</td>
+					<td></td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>181,200</td>
+					<td>104</td>
+				</tr>
+			
+				<tr>
+					<td>지구대표 롤링스타즈</td>
+					<td>Rolling Stars: The Greatest Space Baseball Competition</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>애니메이션</td>
+					<td>주연-럭키역(목소리),럭키 목소리역</td>
+					<td>230,047,000</td>
+					<td>35,578</td>
+					<td>230,047,000</td>
+					<td>35,578</td>
+				</tr>
+			
+				<tr>
+					<td>퀴즈왕</td>
+					<td>The Quiz Show Scandal</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연-오칠주역</td>
+					<td>4,258,992,759</td>
+					<td>583,183</td>
+					<td>4,188,846,000</td>
+					<td>573,001</td>
+				</tr>
+			
+				<tr>
+					<td>그림자 살인</td>
+					<td>Private eye</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>미스터리,스릴러,사극,범죄</td>
+					<td>주연-광수역</td>
+					<td>12,805,808,556</td>
+					<td>1,914,779</td>
+					<td>12,659,065,000</td>
+					<td>1,892,467</td>
+				</tr>
+			
+				<tr>
+					<td>우리 동네</td>
+					<td>Our Town</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>스릴러,범죄</td>
+					<td>주연-효이역</td>
+					<td></td>
+					<td>377,591</td>
+					<td>2,463,752,000</td>
+					<td>364,912</td>
+				</tr>
+			
+				<tr>
+					<td>아들</td>
+					<td>My Son</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마,가족</td>
+					<td>주연-준석역</td>
+					<td>0</td>
+					<td>488,221</td>
+					<td>2,886,902,500</td>
+					<td>452,209</td>
+				</tr>
+			
+				<tr>
+					<td>천년여우 여우비</td>
+					<td>Yobi, The Five-Tailed Fox</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>애니메이션,가족,판타지</td>
+					<td>주연-황금이 목소리역(목소리)</td>
+					<td>0</td>
+					<td>482,988</td>
+					<td>2,496,355,500</td>
+					<td>460,925</td>
+				</tr>
+			
+				<tr>
+					<td>천하장사 마돈나</td>
+					<td>Like A Virgin</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>주연-뚱보 소년 오동구역</td>
+					<td>0</td>
+					<td>678,930</td>
+					<td>3,552,450,700</td>
+					<td>575,373</td>
+				</tr>
+			
+				<tr>
+					<td>웰컴 투 동막골</td>
+					<td>Welcome To Dongmakgol</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>전쟁,드라마</td>
+					<td>조연-인민군 소년병 택기역</td>
+					<td>0</td>
+					<td>8,008,622</td>
+					<td>40,329,355,500</td>
+					<td>6,436,900</td>
+				</tr>
+			
+				<tr>
+					<td>어린 신부</td>
+					<td>My Little Bride</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>조연-동구역</td>
+					<td>0</td>
+					<td>3,149,500</td>
+					<td>6,240,174,500</td>
+					<td>991,674</td>
+				</tr>
+			
+				<tr>
+					<td>마리이야기</td>
+					<td>My Beautiful Girl, Mari</td>
+					<td>2001</td>
+					<td>한국</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td></td>
+					<td>54,404</td>
+					<td>102,000</td>
+					<td>22</td>
+				</tr>
+			
+				<tr>
+					<td>내 나이키</td>
+					<td></td>
+					<td></td>
+					<td>한국</td>
+					<td></td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,177 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '엘리어스 코티스'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>플래닛 바이러스</td>
+					<td>The Last Days on Mars</td>
+					<td>2013</td>
+					<td>영국,아일랜드</td>
+					<td>공포(호러),SF,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>다이</td>
+					<td>Die</td>
+					<td>2010</td>
+					<td>캐나다</td>
+					<td>스릴러</td>
+					<td>주연-마크 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>디펜더</td>
+					<td>Defendor</td>
+					<td>2009</td>
+					<td>캐나다,미국,영국</td>
+					<td>범죄,액션</td>
+					<td>주연-척 두니 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스킨워커스</td>
+					<td>Skinwalkers</td>
+					<td>2006</td>
+					<td>캐나다,미국,독일</td>
+					<td>액션,판타지,공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>해리슨의 꽃</td>
+					<td>Harrison&#039;s Flowers</td>
+					<td>2000</td>
+					<td>프랑스</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>크래쉬</td>
+					<td>Crash</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>110,551</td>
+					<td>0</td>
+					<td>0</td>
+				</tr>
+			
+				<tr>
+					<td>신의 전사</td>
+					<td>God&#039;S Army</td>
+					<td>1994</td>
+					<td>미국</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,177</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>어메이징 뮤턴트</td>
+					<td>Teenage Mutant Ninja Turtles 3</td>
+					<td>1993</td>
+					<td>홍콩</td>
+					<td>액션,어드벤처</td>
+					<td>주연</td>
+					<td>4,771,000</td>
+					<td>1,011</td>
+					<td>4,771,000</td>
+					<td>1,011</td>
+				</tr>
+			
+				<tr>
+					<td>싸이보그 2 </td>
+					<td>Syborg 2-Glass Shadow</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>SF,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,865</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>닌자 거북이</td>
+					<td>Teenage Mutant Ninja Turtles</td>
+					<td>1990</td>
+					<td>미국</td>
+					<td>액션,SF,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>133,728</td>
+					<td>14,000</td>
+					<td>2</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,359 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '양지웅'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>운동회</td>
+					<td>A Field Day</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>가족,코미디</td>
+					<td>주연</td>
+					<td>34,017,900</td>
+					<td>5,087</td>
+					<td>34,017,900</td>
+					<td>5,087</td>
+				</tr>
+			
+				<tr>
+					<td>퇴마: 무녀굴</td>
+					<td>The Chosen: Forbidden Cave</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>공포(호러),스릴러</td>
+					<td>단역-사무직1역</td>
+					<td>951,843,500</td>
+					<td>120,802</td>
+					<td>951,843,500</td>
+					<td>120,802</td>
+				</tr>
+			
+				<tr>
+					<td>영도</td>
+					<td>Shadow Island</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마,범죄,미스터리</td>
+					<td>단역-투신여고생 부역</td>
+					<td>24,304,000</td>
+					<td>3,089</td>
+					<td>24,339,000</td>
+					<td>3,094</td>
+				</tr>
+			
+				<tr>
+					<td>못</td>
+					<td>Mot</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-담임선생님역</td>
+					<td>17,022,100</td>
+					<td>2,386</td>
+					<td>17,022,100</td>
+					<td>2,386</td>
+				</tr>
+			
+				<tr>
+					<td>도다리 - 리덕스</td>
+					<td>Busan Flounder - Redux</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-사채업자1역</td>
+					<td>1,213,000</td>
+					<td>222</td>
+					<td>1,430,000</td>
+					<td>253</td>
+				</tr>
+			
+				<tr>
+					<td>아이들...</td>
+					<td>Children...</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>범죄,스릴러</td>
+					<td>단역-강위원(고라니)역</td>
+					<td>13,579,712,500</td>
+					<td>1,867,849</td>
+					<td>13,579,712,500</td>
+					<td>1,867,849</td>
+				</tr>
+			
+				<tr>
+					<td>바람</td>
+					<td>Wish</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마,액션</td>
+					<td>단역-짱구 형님역</td>
+					<td>726,321,610</td>
+					<td>101,197</td>
+					<td>746,323,500</td>
+					<td>103,628</td>
+				</tr>
+			
+				<tr>
+					<td>오디션</td>
+					<td>A.U.D.I.T.I.O.N</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-욱역</td>
+					<td></td>
+					<td></td>
+					<td>500,000</td>
+					<td>100</td>
+				</tr>
+			
+				<tr>
+					<td>채워질 수 없는 것들</td>
+					<td>The Empty room</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>기타</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>바보</td>
+					<td>Ba:Bo</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>프로듀서</td>
+					<td>6,301,818,833</td>
+					<td>974,554</td>
+					<td>6,306,816,500</td>
+					<td>967,654</td>
+				</tr>
+			
+				<tr>
+					<td>내 마음에 불꽃이 있어</td>
+					<td>My Dear Diary</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>국경의 남쪽</td>
+					<td>Over the Border</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-운전수역</td>
+					<td>0</td>
+					<td>252,457</td>
+					<td>1,431,751,800</td>
+					<td>227,304</td>
+				</tr>
+			
+				<tr>
+					<td>마이 캡틴 김대출</td>
+					<td>My Captain, Mr. Underground</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>단역-형사1역</td>
+					<td>0</td>
+					<td>122,098</td>
+					<td>663,174,000</td>
+					<td>107,913</td>
+				</tr>
+			
+				<tr>
+					<td>잠수왕 무하마드</td>
+					<td></td>
+					<td>2006</td>
+					<td>한국</td>
+					<td></td>
+					<td>프로듀서</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>얼굴 없는 미녀</td>
+					<td>Hypnotized</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>라인프로듀서</td>
+					<td>0</td>
+					<td>520,753</td>
+					<td>2,228,765,000</td>
+					<td>346,015</td>
+				</tr>
+			
+				<tr>
+					<td>보리울의 여름</td>
+					<td>Season In The Sun</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>라인프로듀서</td>
+					<td>0</td>
+					<td>86,000</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>선정적인 감</td>
+					<td>Red Ripe Persimmons</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>초롱이의일기</td>
+					<td></td>
+					<td>2002</td>
+					<td></td>
+					<td></td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>친구</td>
+					<td>Friend</td>
+					<td>2001</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-웨이터역</td>
+					<td>0</td>
+					<td>2,678,846</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>산복도로에서산복도로를읽다</td>
+					<td></td>
+					<td>2001</td>
+					<td></td>
+					<td></td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아름다운 세상</td>
+					<td>What a Wonderful World </td>
+					<td>1999</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>운하</td>
+					<td>The Channel</td>
+					<td>1999</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>3인조</td>
+					<td>Trio</td>
+					<td>1997</td>
+					<td>한국</td>
+					<td>액션,코미디</td>
+					<td>매니지먼트</td>
+					<td>0</td>
+					<td>36,594</td>
+					<td>120,000</td>
+					<td>20</td>
+				</tr>
+			
+				<tr>
+					<td>경찰+칠득이와 너털도사</td>
+					<td>The Police, Chil-Duk, And Buddhist Monk Neo-Teol</td>
+					<td>1989</td>
+					<td>한국</td>
+					<td>액션,코미디</td>
+					<td>단역</td>
+					<td>0</td>
+					<td>9,742</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

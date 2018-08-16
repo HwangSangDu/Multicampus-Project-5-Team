@@ -1,0 +1,190 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '안나 파킨'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>사랑과 영혼 2016</td>
+					<td>Straight A&#039;s</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>5,000</td>
+					<td>1</td>
+					<td>5,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>마가렛</td>
+					<td>Margaret</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-리사 코헨역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>더 로맨틱</td>
+					<td>The Romantics</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연-라일라역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>트릭 오어 트릿</td>
+					<td>Trick &#039;r Treat </td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>코미디,공포(호러),스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>블루 스테이트</td>
+					<td>Blue State</td>
+					<td>2007</td>
+					<td>캐나다,미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>다크니스</td>
+					<td>Darkness</td>
+					<td>2002</td>
+					<td>스페인</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>240,972</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>버팔로 솔저</td>
+					<td>Buffalo Soldiers</td>
+					<td>2001</td>
+					<td>미국,영국,독일</td>
+					<td>코미디,드라마,범죄,전쟁</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>워크 온 더 문</td>
+					<td>A Walk On The Moon</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아름다운 비행 </td>
+					<td>Fly Away Home</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>가족,드라마,어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>35,509</td>
+					<td>349,000</td>
+					<td>127</td>
+				</tr>
+			
+				<tr>
+					<td>피아노</td>
+					<td>The Piano</td>
+					<td>1993</td>
+					<td>호주,프랑스,뉴질랜드</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>475,870</td>
+					<td>23,583,500</td>
+					<td>4,744</td>
+				</tr>
+			
+				<tr>
+					<td>천공의 성 라퓨타</td>
+					<td>Laputa : Castle In The Sky</td>
+					<td>1986</td>
+					<td>일본</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td>0</td>
+					<td>49,052</td>
+					<td>132,440,500</td>
+					<td>21,592</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,99 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '얀 요셉 리퍼스'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>뱅크 어택: 은행습격사건</td>
+					<td>Four Against The Bank</td>
+					<td>2016</td>
+					<td>독일</td>
+					<td>코미디,범죄,액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>라이프 오브 시몬</td>
+					<td>Simon and the Oaks </td>
+					<td>2011</td>
+					<td>독일,스웨덴,덴마크</td>
+					<td>드라마,전쟁</td>
+					<td>주연</td>
+					<td>1,000,000</td>
+					<td>200</td>
+					<td>1,000,000</td>
+					<td>200</td>
+				</tr>
+			
+				<tr>
+					<td>나이트 타임</td>
+					<td>Sieben Monde</td>
+					<td>1998</td>
+					<td>독일</td>
+					<td>공포(호러),미스터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>노킹 온 헤븐스 도어</td>
+					<td>Knockin&#039; On Heaven&#039;s Door</td>
+					<td>1997</td>
+					<td>독일,네덜란드</td>
+					<td>드라마,범죄,액션,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>18,090</td>
+					<td>68,605,000</td>
+					<td>9,081</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

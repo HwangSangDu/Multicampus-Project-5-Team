@@ -1,0 +1,242 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '장항선'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>변산</td>
+					<td>Sunset in My Hometown</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연</td>
+					<td>128,019,800</td>
+					<td>15,896</td>
+					<td>4,013,832,273</td>
+					<td>489,993</td>
+				</tr>
+			
+				<tr>
+					<td>차우</td>
+					<td>Chaw</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>액션,어드벤처,코미디</td>
+					<td>주연-포수, 천일만역</td>
+					<td>12,676,951,144</td>
+					<td>1,799,356</td>
+					<td>12,531,840,500</td>
+					<td>1,778,843</td>
+				</tr>
+			
+				<tr>
+					<td>세븐 데이즈</td>
+					<td>7 Days</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>스릴러,범죄</td>
+					<td>조연-사무장역</td>
+					<td>38,146,000</td>
+					<td>2,120,741</td>
+					<td>13,720,377,000</td>
+					<td>2,048,339</td>
+				</tr>
+			
+				<tr>
+					<td>사랑을 놓치다</td>
+					<td>Lost In Love</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>조연-아저씨역</td>
+					<td>0</td>
+					<td>529,138</td>
+					<td>2,961,686,000</td>
+					<td>468,225</td>
+				</tr>
+			
+				<tr>
+					<td>왕의 남자</td>
+					<td>King And The Clown</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-신하 처선역</td>
+					<td>0</td>
+					<td>12,302,831</td>
+					<td>66,016,030,400</td>
+					<td>10,513,781</td>
+				</tr>
+			
+				<tr>
+					<td>강력 3반</td>
+					<td>Never to Lose</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>조연-강력3반 육 반장역</td>
+					<td>0</td>
+					<td>989,573</td>
+					<td>5,053,205,500</td>
+					<td>828,112</td>
+				</tr>
+			
+				<tr>
+					<td>귀신이 산다</td>
+					<td>Ghost House</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>코미디,공포(호러),판타지</td>
+					<td>조연-장 반장역</td>
+					<td>0</td>
+					<td>2,890,000</td>
+					<td>11,898,748,500</td>
+					<td>1,875,936</td>
+				</tr>
+			
+				<tr>
+					<td>슈퍼스타 감사용</td>
+					<td>Mr. Gam’s Victory</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-박 감독역</td>
+					<td>0</td>
+					<td>834,706</td>
+					<td>4,073,017,000</td>
+					<td>627,199</td>
+				</tr>
+			
+				<tr>
+					<td>마지막 늑대</td>
+					<td>The Wolf Returns</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>조연</td>
+					<td>0</td>
+					<td>158,727</td>
+					<td>303,851,500</td>
+					<td>47,731</td>
+				</tr>
+			
+				<tr>
+					<td>오! 해피데이</td>
+					<td>Oh! Happy Day</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>조연-미스 공 아버지, 장근역</td>
+					<td>0</td>
+					<td>1,073,230</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>마리이야기</td>
+					<td>My Beautiful Girl, Mari</td>
+					<td>2001</td>
+					<td>한국</td>
+					<td>애니메이션</td>
+					<td>주연-준호 아빠 목소리역(목소리)</td>
+					<td></td>
+					<td>54,404</td>
+					<td>102,000</td>
+					<td>22</td>
+				</tr>
+			
+				<tr>
+					<td>반칙왕</td>
+					<td>The Foul King</td>
+					<td>2000</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>조연-장 관장역</td>
+					<td>0</td>
+					<td>787,423</td>
+					<td>602,000</td>
+					<td>80</td>
+				</tr>
+			
+				<tr>
+					<td>텔미썸딩</td>
+					<td>Tell Me Something</td>
+					<td>1999</td>
+					<td>한국</td>
+					<td>스릴러,미스터리</td>
+					<td>조연-오 형사역</td>
+					<td>0</td>
+					<td>1,230,000</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>표절</td>
+					<td>Piracy</td>
+					<td>1999</td>
+					<td>한국</td>
+					<td>드라마,미스터리</td>
+					<td>조연</td>
+					<td>0</td>
+					<td>483</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>살어리랏다</td>
+					<td>I Will Survive</td>
+					<td>1993</td>
+					<td>한국</td>
+					<td>사극</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>40,229</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

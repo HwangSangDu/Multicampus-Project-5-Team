@@ -1,0 +1,437 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '신하균'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>나의 특급 형제</td>
+					<td></td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>바람 바람 바람</td>
+					<td>What a Man Wants</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>9,784,445,375</td>
+					<td>1,194,239</td>
+					<td>9,784,385,375</td>
+					<td>1,194,229</td>
+				</tr>
+			
+				<tr>
+					<td>7호실</td>
+					<td>Room No.7</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>2,677,284,639</td>
+					<td>347,790</td>
+					<td>2,677,284,639</td>
+					<td>347,790</td>
+				</tr>
+			
+				<tr>
+					<td>악녀</td>
+					<td>The Villainess</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>주연-중상역</td>
+					<td>9,739,662,144</td>
+					<td>1,208,081</td>
+					<td>9,739,662,144</td>
+					<td>1,208,081</td>
+				</tr>
+			
+				<tr>
+					<td>올레</td>
+					<td>DETOUR</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>522,938,900</td>
+					<td>66,883</td>
+					<td>522,938,900</td>
+					<td>66,883</td>
+				</tr>
+			
+				<tr>
+					<td>순수의 시대</td>
+					<td>Empire of Lust</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>사극,드라마</td>
+					<td>주연</td>
+					<td>3,740,948,828</td>
+					<td>469,891</td>
+					<td>3,743,046,828</td>
+					<td>470,308</td>
+				</tr>
+			
+				<tr>
+					<td>순수의 시대 무삭제편</td>
+					<td></td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>사극,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>빅매치</td>
+					<td>Big Match</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>주연-에이스역</td>
+					<td>8,952,096,578</td>
+					<td>1,177,438</td>
+					<td>8,952,096,578</td>
+					<td>1,177,438</td>
+				</tr>
+			
+				<tr>
+					<td>런닝맨</td>
+					<td>Running Man</td>
+					<td>2012</td>
+					<td>한국,미국</td>
+					<td>액션,코미디</td>
+					<td>주연-종우역</td>
+					<td>10,060,239,500</td>
+					<td>1,422,844</td>
+					<td>10,060,239,500</td>
+					<td>1,422,844</td>
+				</tr>
+			
+				<tr>
+					<td>퍼스트 포지션</td>
+					<td>First Position</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>다큐멘터리,코미디,드라마</td>
+					<td>주연(목소리)</td>
+					<td>59,970,500</td>
+					<td>7,978</td>
+					<td>59,970,500</td>
+					<td>7,978</td>
+				</tr>
+			
+				<tr>
+					<td>고지전</td>
+					<td>The Front Line</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마,전쟁</td>
+					<td>주연-강은표역</td>
+					<td>21,968,557,600</td>
+					<td>2,945,137</td>
+					<td>21,968,680,600</td>
+					<td>2,945,151</td>
+				</tr>
+			
+				<tr>
+					<td>페스티발</td>
+					<td>Foxy Festival</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연-경찰관, 장배역</td>
+					<td>1,541,834,737</td>
+					<td>200,123</td>
+					<td>1,517,889,500</td>
+					<td>196,995</td>
+				</tr>
+			
+				<tr>
+					<td>카페 느와르</td>
+					<td>Cafe Noir</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-영수역</td>
+					<td>54,925,506</td>
+					<td>7,070</td>
+					<td>58,367,900</td>
+					<td>7,516</td>
+				</tr>
+			
+				<tr>
+					<td>박쥐</td>
+					<td>Thirst</td>
+					<td>2008</td>
+					<td>한국,미국,호주</td>
+					<td>공포(호러),드라마</td>
+					<td>주연-강우역</td>
+					<td>15,051,788,827</td>
+					<td>2,237,271</td>
+					<td>14,846,847,500</td>
+					<td>2,206,948</td>
+				</tr>
+			
+				<tr>
+					<td>더 게임</td>
+					<td>The Devil’s Game</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>9,869,346,557</td>
+					<td>1,496,214</td>
+					<td>9,807,963,501</td>
+					<td>1,479,859</td>
+				</tr>
+			
+				<tr>
+					<td>예의없는 것들</td>
+					<td>No Mercy For The Rude</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>액션,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>904,802</td>
+					<td>4,886,772,800</td>
+					<td>782,907</td>
+				</tr>
+			
+				<tr>
+					<td>박수칠 때 떠나라</td>
+					<td>Murder, Take One</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>드라마,코미디,미스터리</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,475,291</td>
+					<td>13,181,626,500</td>
+					<td>2,073,641</td>
+				</tr>
+			
+				<tr>
+					<td>웰컴 투 동막골</td>
+					<td>Welcome To Dongmakgol</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>전쟁,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>8,008,622</td>
+					<td>40,329,355,500</td>
+					<td>6,436,900</td>
+				</tr>
+			
+				<tr>
+					<td>우리 형</td>
+					<td>My Brother</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,479,585</td>
+					<td>11,090,682,500</td>
+					<td>1,778,607</td>
+				</tr>
+			
+				<tr>
+					<td>나와 통하는 다음검색 : 털</td>
+					<td>Hair</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>판타지</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>화성으로 간 사나이</td>
+					<td>A Letter From Mars</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>53,838</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>지구를 지켜라</td>
+					<td>Save the Green Planet</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연-병구역</td>
+					<td></td>
+					<td>73,132</td>
+					<td>859,500</td>
+					<td>145</td>
+				</tr>
+			
+				<tr>
+					<td>서프라이즈</td>
+					<td>Surprise Party</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td>110,642</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>묻지마 패밀리</td>
+					<td>Nocomment</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>액션,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td>208,360</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>복수는 나의 것</td>
+					<td>Sympathy for Mr. Vengeance</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>범죄,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td>162,517</td>
+					<td>10,456,500</td>
+					<td>1,421</td>
+				</tr>
+			
+				<tr>
+					<td>킬러들의 수다</td>
+					<td>Guns And Talks</td>
+					<td>2001</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>871,125</td>
+					<td>35,000</td>
+					<td>7</td>
+				</tr>
+			
+				<tr>
+					<td>공동경비구역 JSA</td>
+					<td>Joint Security Area /JSA</td>
+					<td>2000</td>
+					<td>한국</td>
+					<td>드라마,미스터리</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,513,540</td>
+					<td>8,924,700</td>
+					<td>1,179</td>
+				</tr>
+			
+				<tr>
+					<td>커밍 아웃</td>
+					<td>Coming Out</td>
+					<td>2000</td>
+					<td>한국</td>
+					<td>기타</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>간첩 리철진</td>
+					<td>The Spy</td>
+					<td>1999</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>조연-우열역</td>
+					<td>0</td>
+					<td>172,474</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>기막힌 사내들</td>
+					<td>The Happenings</td>
+					<td>1998</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>14,389</td>
+					<td>0</td>
+					<td>0</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

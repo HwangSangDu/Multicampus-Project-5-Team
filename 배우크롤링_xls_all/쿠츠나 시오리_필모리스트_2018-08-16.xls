@@ -1,0 +1,138 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '쿠츠나 시오리'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>기적: 그 날의 소비토</td>
+					<td>Kiseki: Sobito Of That Day</td>
+					<td>2017</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>4,136,500</td>
+					<td>654</td>
+					<td>4,136,500</td>
+					<td>654</td>
+				</tr>
+			
+				<tr>
+					<td>네코아츠메의 집</td>
+					<td>NEKO ATSUME HOUSE</td>
+					<td>2017</td>
+					<td>일본</td>
+					<td>드라마,가족</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>여자가 잠들 때</td>
+					<td>While the Women Are Sleeping</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>미스터리,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>부도리의 꿈 </td>
+					<td>The Life of Guskou Budori</td>
+					<td>2012</td>
+					<td>일본</td>
+					<td>애니메이션</td>
+					<td>주연-네리역(목소리)</td>
+					<td>123,787,500</td>
+					<td>18,981</td>
+					<td>123,787,500</td>
+					<td>18,981</td>
+				</tr>
+			
+				<tr>
+					<td>부도리의 꿈(감독판)</td>
+					<td>THE LIFE OF BUDORI GUSUKO</td>
+					<td>2012</td>
+					<td>일본</td>
+					<td>애니메이션,판타지,드라마</td>
+					<td>주연-네리역(목소리)</td>
+					<td>7,551,000</td>
+					<td>1,033</td>
+					<td>7,551,000</td>
+					<td>1,033</td>
+				</tr>
+			
+				<tr>
+					<td>명탐정 코난 : 교토 신선조 살인사건</td>
+					<td>Detective Conan, Kyoto shinsengumi murder case</td>
+					<td>2012</td>
+					<td>일본</td>
+					<td>드라마,미스터리</td>
+					<td>주연-모리 란역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>명탐정 코난 : 괴조 전설의 수수께끼</td>
+					<td>Detective Conan, The mystery of the legendary mons</td>
+					<td>2011</td>
+					<td>일본</td>
+					<td>미스터리,드라마</td>
+					<td>주연-모리 란역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

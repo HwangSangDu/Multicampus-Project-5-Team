@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '지용석'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>행복의 나라</td>
+					<td>Land of Happiness</td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>드라마,가족</td>
+					<td>주연-민수역</td>
+					<td></td>
+					<td></td>
+					<td>6,559,800</td>
+					<td>998</td>
+				</tr>
+			
+				<tr>
+					<td>레디액션 청춘</td>
+					<td>The Youth </td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-한선생역</td>
+					<td>22,317,300</td>
+					<td>2,855</td>
+					<td>22,317,300</td>
+					<td>2,855</td>
+				</tr>
+			
+				<tr>
+					<td>신이 보낸 사람</td>
+					<td>Apostle </td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-용석역</td>
+					<td>3,068,195,600</td>
+					<td>424,258</td>
+					<td>3,069,268,600</td>
+					<td>424,778</td>
+				</tr>
+			
+				<tr>
+					<td>휴일</td>
+					<td>The Holiday</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,024,000</td>
+					<td>171</td>
+				</tr>
+			
+				<tr>
+					<td>가업</td>
+					<td>Family Business</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>주연-용석역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>우리들의 행복한 시간</td>
+					<td>Maundy Thursday</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-변호사2 역</td>
+					<td>0</td>
+					<td>3,132,320</td>
+					<td>14,938,924,000</td>
+					<td>2,472,160</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

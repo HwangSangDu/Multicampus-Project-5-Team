@@ -1,0 +1,138 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '콤 미니'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>펠레: 버스 오브 어 레전드</td>
+					<td>Pele: Birth of a Legend</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>원 챈스</td>
+					<td>One Chance</td>
+					<td>2013</td>
+					<td>영국,미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>593,414,100</td>
+					<td>81,025</td>
+					<td>593,414,100</td>
+					<td>81,025</td>
+				</tr>
+			
+				<tr>
+					<td>완벽한 이방인</td>
+					<td>The Perfect Stranger</td>
+					<td>2011</td>
+					<td>스페인</td>
+					<td>코미디,드라마</td>
+					<td>주연-마크 오렐리 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>킹스</td>
+					<td>Kings</td>
+					<td>2007</td>
+					<td>아일랜드,영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>케이브 인</td>
+					<td>Caved In</td>
+					<td>2006</td>
+					<td>미국,캐나다</td>
+					<td>공포(호러),SF</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>하우 해리 비컴 어 트리</td>
+					<td>How Harry Became a Tree</td>
+					<td>2001</td>
+					<td>이탈리아,프랑스,영국,아일랜드</td>
+					<td>드라마,서부극(웨스턴)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>레전드</td>
+					<td>The Magical Legend Of The Leprechauns</td>
+					<td>1999</td>
+					<td>영국,미국,독일</td>
+					<td>어드벤처,코미디,판타지</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

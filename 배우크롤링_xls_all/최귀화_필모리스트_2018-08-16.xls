@@ -1,0 +1,112 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '최귀화'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>범죄도시</td>
+					<td>THE OUTLAWS</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>범죄,액션</td>
+					<td>주연</td>
+					<td>56,318,014,149</td>
+					<td>6,879,841</td>
+					<td>56,322,098,349</td>
+					<td>6,880,535</td>
+				</tr>
+			
+				<tr>
+					<td>택시운전사</td>
+					<td>A Taxi Driver</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-사복조장역</td>
+					<td>95,855,737,149</td>
+					<td>12,186,684</td>
+					<td>95,868,830,649</td>
+					<td>12,189,195</td>
+				</tr>
+			
+				<tr>
+					<td>1급기밀</td>
+					<td>The Discloser</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>1,728,722,300</td>
+					<td>218,808</td>
+					<td>1,728,722,300</td>
+					<td>218,808</td>
+				</tr>
+			
+				<tr>
+					<td>그물</td>
+					<td>THE NET</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연</td>
+					<td>426,185,300</td>
+					<td>56,541</td>
+					<td>426,257,300</td>
+					<td>56,553</td>
+				</tr>
+			
+				<tr>
+					<td>군도: 민란의 시대</td>
+					<td>KUNDO : Age of the Rampant</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>사극,액션</td>
+					<td>단역-7인 무관2역</td>
+					<td>36,987,755,999</td>
+					<td>4,774,895</td>
+					<td>36,990,394,499</td>
+					<td>4,775,811</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

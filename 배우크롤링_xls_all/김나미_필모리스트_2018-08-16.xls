@@ -1,0 +1,99 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '김나미'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>중독노래방</td>
+					<td>Karaoke Crazies</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>미스터리,판타지</td>
+					<td>주연-나주역</td>
+					<td>69,566,300</td>
+					<td>8,916</td>
+					<td>69,566,300</td>
+					<td>8,916</td>
+				</tr>
+			
+				<tr>
+					<td>베드(감독판)</td>
+					<td>B·E·D</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>270,000</td>
+					<td>54</td>
+					<td>270,000</td>
+					<td>54</td>
+				</tr>
+			
+				<tr>
+					<td>베드</td>
+					<td>B·E·D</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-D역</td>
+					<td>4,186,000</td>
+					<td>606</td>
+					<td>4,186,000</td>
+					<td>606</td>
+				</tr>
+			
+				<tr>
+					<td>파송송 계란탁</td>
+					<td>Cracked Eggs And Noodles</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>조연</td>
+					<td>0</td>
+					<td>1,193,150</td>
+					<td>6,292,855,500</td>
+					<td>1,003,026</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

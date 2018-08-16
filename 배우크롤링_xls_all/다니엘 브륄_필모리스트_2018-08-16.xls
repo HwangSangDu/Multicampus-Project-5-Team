@@ -1,0 +1,268 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '다니엘 브륄'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>엔테베 작전</td>
+					<td>7 Days in Entebbe</td>
+					<td>2018</td>
+					<td>미국,영국</td>
+					<td>범죄,드라마,스릴러</td>
+					<td>주연</td>
+					<td>48,130,200</td>
+					<td>6,000</td>
+					<td>48,130,200</td>
+					<td>6,000</td>
+				</tr>
+			
+				<tr>
+					<td>주키퍼스 와이프</td>
+					<td>The Zookeeper&#039;s wife</td>
+					<td>2017</td>
+					<td>미국,영국</td>
+					<td>드라마,전쟁</td>
+					<td>주연-헥역</td>
+					<td>90,190,446</td>
+					<td>11,795</td>
+					<td>90,748,446</td>
+					<td>11,888</td>
+				</tr>
+			
+				<tr>
+					<td>더 셰프</td>
+					<td>Burnt</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>1,487,172,148</td>
+					<td>187,122</td>
+					<td>1,487,412,148</td>
+					<td>187,152</td>
+				</tr>
+			
+				<tr>
+					<td>우먼 인 골드</td>
+					<td>Woman in Gold</td>
+					<td>2015</td>
+					<td>미국,영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>1,109,776,800</td>
+					<td>144,154</td>
+					<td>1,111,546,800</td>
+					<td>144,744</td>
+				</tr>
+			
+				<tr>
+					<td>콜로니아</td>
+					<td>Colonia Dignidad</td>
+					<td>2015</td>
+					<td>독일,룩셈부르크,프랑스</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>룸메이트 살인사건: 둘만의 방</td>
+					<td>The Face Of An Angel</td>
+					<td>2014</td>
+					<td>영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>308,000</td>
+					<td>31</td>
+				</tr>
+			
+				<tr>
+					<td>러시 : 더 라이벌</td>
+					<td>Rush</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>액션,드라마</td>
+					<td>주연</td>
+					<td>931,998,000</td>
+					<td>126,994</td>
+					<td>932,342,000</td>
+					<td>127,037</td>
+				</tr>
+			
+				<tr>
+					<td>제5계급</td>
+					<td>The Fifth Estate</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>카지노를 털어라</td>
+					<td>Winning Streak</td>
+					<td>2012</td>
+					<td>스페인</td>
+					<td>드라마,어드벤처,범죄</td>
+					<td>주연-이반역</td>
+					<td>221,000</td>
+					<td>44</td>
+					<td>221,000</td>
+					<td>44</td>
+				</tr>
+			
+				<tr>
+					<td>세븐 데이즈 인 하바나</td>
+					<td>7 Days in Havana</td>
+					<td>2012</td>
+					<td>프랑스,스페인</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>에바 : 위험한 관계 </td>
+					<td>Eva</td>
+					<td>2011</td>
+					<td>스페인</td>
+					<td>판타지,드라마</td>
+					<td>주연-알렉스 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>인트루더스</td>
+					<td>Intruders</td>
+					<td>2011</td>
+					<td>미국,스페인,영국</td>
+					<td>공포(호러),스릴러</td>
+					<td>조연-안토니오 역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>존 라베 : 난징 대학살</td>
+					<td>John Rabe</td>
+					<td>2009</td>
+					<td>독일</td>
+					<td>전쟁,드라마</td>
+					<td>주연</td>
+					<td>7,203,500</td>
+					<td>1,184</td>
+					<td>7,203,500</td>
+					<td>1,184</td>
+				</tr>
+			
+				<tr>
+					<td>릴라 릴라</td>
+					<td>Lila Lila</td>
+					<td>2009</td>
+					<td>독일</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연-다비드 역</td>
+					<td>26,583,400</td>
+					<td>3,331</td>
+					<td>27,317,400</td>
+					<td>3,485</td>
+				</tr>
+			
+				<tr>
+					<td>라벤더의 연인들</td>
+					<td>Ladies In Lavender</td>
+					<td>2004</td>
+					<td>영국</td>
+					<td>드라마,미스터리,멜로/로맨스</td>
+					<td>주연-안드레아 역</td>
+					<td>49,912,500</td>
+					<td>7,414</td>
+					<td>52,670,500</td>
+					<td>7,850</td>
+				</tr>
+			
+				<tr>
+					<td>에쥬케이터</td>
+					<td>The Edukators</td>
+					<td>2004</td>
+					<td>독일</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,609</td>
+					<td>14,741,000</td>
+					<td>2,232</td>
+				</tr>
+			
+				<tr>
+					<td>굿바이 레닌</td>
+					<td>Good Bye Lenin!</td>
+					<td>2003</td>
+					<td>독일</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>14,595</td>
+					<td>1,041,000</td>
+					<td>195</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

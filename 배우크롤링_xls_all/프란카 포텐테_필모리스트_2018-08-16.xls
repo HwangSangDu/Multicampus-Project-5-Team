@@ -1,0 +1,203 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '프란카 포텐테'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>뮤즈</td>
+					<td>Muse</td>
+					<td>2017</td>
+					<td>스페인</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>420,000</td>
+					<td>110</td>
+				</tr>
+			
+				<tr>
+					<td>컨저링 2</td>
+					<td>The Conjuring 2</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td>15,759,374,229</td>
+					<td>1,928,605</td>
+					<td>15,759,374,229</td>
+					<td>1,928,605</td>
+				</tr>
+			
+				<tr>
+					<td>지상에서 영원으로 2</td>
+					<td>The Bridge</td>
+					<td>2008</td>
+					<td>독일</td>
+					<td>전쟁</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>로멀러스, 마이 파더</td>
+					<td>Romulus, My Father</td>
+					<td>2007</td>
+					<td>호주</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>크립</td>
+					<td>Creep</td>
+					<td>2004</td>
+					<td>영국,독일</td>
+					<td>스릴러</td>
+					<td>주연-케이트역</td>
+					<td>0</td>
+					<td>42,387</td>
+					<td>247,362,800</td>
+					<td>38,899</td>
+				</tr>
+			
+				<tr>
+					<td>본 슈프리머시</td>
+					<td>The Bourne Supremacy</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>620,000</td>
+					<td>2,439,904,500</td>
+					<td>370,894</td>
+				</tr>
+			
+				<tr>
+					<td>블루프린트</td>
+					<td>Blueprint</td>
+					<td>2003</td>
+					<td>독일</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>289</td>
+					<td>1,537,500</td>
+					<td>289</td>
+				</tr>
+			
+				<tr>
+					<td>본 아이덴티티</td>
+					<td>The Bourne Identity</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>226,364</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>트라이 세븐틴</td>
+					<td>Try Seventeen</td>
+					<td>2002</td>
+					<td>캐나다,미국</td>
+					<td>멜로/로맨스,코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아나토미</td>
+					<td>Anatomie</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>15,320</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>공주와전사</td>
+					<td>The Princess And The Warrior</td>
+					<td>2000</td>
+					<td>독일</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>롤라 런</td>
+					<td>Run Lola Run</td>
+					<td>1998</td>
+					<td>독일</td>
+					<td>액션,드라마,스릴러,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>11,778</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

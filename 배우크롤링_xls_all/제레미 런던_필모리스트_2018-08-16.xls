@@ -1,0 +1,138 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '제레미 런던'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>에이리언 지구대침공</td>
+					<td>Alien Opponent</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>SF,액션</td>
+					<td>주연</td>
+					<td>1,000</td>
+					<td>1</td>
+					<td>1,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>익스트림 터미네이터 TR</td>
+					<td>The Terminators</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>액션,SF</td>
+					<td>주연-커트 역역</td>
+					<td>5,000</td>
+					<td>1</td>
+					<td>5,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>드래곤 마스터</td>
+					<td>Dragon Master</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>액션,판타지,공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>키스 미 어게인</td>
+					<td>Kiss Me Again</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연-줄리안 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>지하 세계의 인디아나 존스</td>
+					<td>Journey To The Center Of The Earth</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>어드벤처,SF</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>킬러 페이스</td>
+					<td>Bad To The Bone</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>몰래츠</td>
+					<td>Mallrats</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연-T.S. 퀸트역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

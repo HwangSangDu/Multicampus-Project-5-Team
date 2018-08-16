@@ -1,0 +1,190 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '린다 해밀턴'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>에이리언: 버뮤다 삼각지대</td>
+					<td>Bermuda Tentacles</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>액션,공포(호러),SF</td>
+					<td>주연</td>
+					<td>5,000</td>
+					<td>1</td>
+					<td>5,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>미싱 인 아메리카</td>
+					<td>Missing In America</td>
+					<td>2005</td>
+					<td>미국,캐나다</td>
+					<td>드라마,전쟁</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스켈리튼</td>
+					<td>Skeletons In The Closet</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>범죄,드라마,미스터리,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>온더라인 </td>
+					<td>On The Line</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>드라마,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,168</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>단테스피크 </td>
+					<td>Dante&#039;S Peak</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>액션,드라마,어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>251,596</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>섀도우 프로그램</td>
+					<td>Shadow Conspiracy</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>155,551</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>린다 해밀턴의 이중생활 </td>
+					<td>Separate Lives</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,223</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>터미네이터 2 : 심판의 날 감독판</td>
+					<td>Terminator II : Judgment Day Extended Special Edition</td>
+					<td>1991</td>
+					<td>미국</td>
+					<td>액션,SF,스릴러</td>
+					<td>주연-사라 코너 역</td>
+					<td>98,683,000</td>
+					<td>13,664</td>
+					<td>98,683,000</td>
+					<td>13,664</td>
+				</tr>
+			
+				<tr>
+					<td>터미네이터 2</td>
+					<td>Terminator II</td>
+					<td>1991</td>
+					<td>미국</td>
+					<td>액션,SF,스릴러</td>
+					<td>주연-사라 코너역</td>
+					<td>0</td>
+					<td>919,444</td>
+					<td>1,368,500</td>
+					<td>154</td>
+				</tr>
+			
+				<tr>
+					<td>블랙 문 라이징</td>
+					<td>Black Moon Rising</td>
+					<td>1986</td>
+					<td>미국</td>
+					<td>액션,SF,스릴러</td>
+					<td>주연-니나역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>터미네이터 </td>
+					<td>Terminator</td>
+					<td>1984</td>
+					<td>미국</td>
+					<td>SF,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>318,828</td>
+					<td>108,000</td>
+					<td>24</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

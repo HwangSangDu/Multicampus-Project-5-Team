@@ -1,0 +1,177 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '조나단 프라이스'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>찰스 디킨스의 비밀 서재</td>
+					<td>The Man Who Invented Christmas</td>
+					<td>2017</td>
+					<td>아일랜드,캐나다</td>
+					<td>드라마,판타지</td>
+					<td>주연</td>
+					<td>60,577,600</td>
+					<td>7,909</td>
+					<td>60,577,600</td>
+					<td>7,909</td>
+				</tr>
+			
+				<tr>
+					<td>미래경찰</td>
+					<td>Narcopolis</td>
+					<td>2014</td>
+					<td>영국</td>
+					<td>미스터리,SF,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>히스테리아</td>
+					<td>Hysteria</td>
+					<td>2011</td>
+					<td>영국,프랑스,독일,룩셈부르크</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td>37,059,500</td>
+					<td>4,947</td>
+					<td>37,059,500</td>
+					<td>4,947</td>
+				</tr>
+			
+				<tr>
+					<td>르네상스</td>
+					<td>Renaissance</td>
+					<td>2006</td>
+					<td>프랑스,영국,룩셈부르크</td>
+					<td>애니메이션,액션,SF</td>
+					<td>주연(목소리)</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>007 제18편 : 네버 다이</td>
+					<td>Tomorrow Never Dies</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>액션,스릴러,어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>479,621</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>더 바이블 - 다윗</td>
+					<td>The Bible - David</td>
+					<td>1997</td>
+					<td>이탈리아,미국,독일</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>에비타 </td>
+					<td>Evita</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>드라마,뮤지컬</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>287,858</td>
+					<td>1,642,500</td>
+					<td>493</td>
+				</tr>
+			
+				<tr>
+					<td>캐링턴 </td>
+					<td>Carrington</td>
+					<td>1995</td>
+					<td>영국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>3,202</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>비즈니스 어페어 </td>
+					<td>A Business Affair</td>
+					<td>1993</td>
+					<td>프랑스,영국,독일,스페인</td>
+					<td>드라마</td>
+					<td>조연</td>
+					<td>0</td>
+					<td>890</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>순수의 시대 </td>
+					<td>The Age Of Innocence</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>드라마,사극</td>
+					<td>조연</td>
+					<td>0</td>
+					<td>42,931</td>
+					<td>1,033,000</td>
+					<td>258</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

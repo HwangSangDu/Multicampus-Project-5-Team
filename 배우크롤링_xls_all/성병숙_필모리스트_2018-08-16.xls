@@ -1,0 +1,99 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '성병숙'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>비밥바룰라</td>
+					<td>Be-Bop-A-Lula</td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>조연</td>
+					<td>318,997,200</td>
+					<td>46,819</td>
+					<td>322,062,200</td>
+					<td>47,432</td>
+				</tr>
+			
+				<tr>
+					<td>덕구</td>
+					<td>Stand by Me</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연</td>
+					<td>2,375,330,700</td>
+					<td>313,344</td>
+					<td>2,378,021,700</td>
+					<td>313,883</td>
+				</tr>
+			
+				<tr>
+					<td>여배우는 오늘도</td>
+					<td>The Running Actress</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>138,754,300</td>
+					<td>16,864</td>
+					<td>139,182,300</td>
+					<td>16,929</td>
+				</tr>
+			
+				<tr>
+					<td>엄마</td>
+					<td>Mom</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>7,000</td>
+					<td>14</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

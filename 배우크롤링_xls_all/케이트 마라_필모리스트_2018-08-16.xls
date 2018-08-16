@@ -1,0 +1,164 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '케이트 마라'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>메건 리비</td>
+					<td>Megan Leavey</td>
+					<td>2017</td>
+					<td>미국</td>
+					<td>드라마,전쟁</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>마션</td>
+					<td>The Martian </td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션,어드벤처,SF</td>
+					<td>주연</td>
+					<td>39,663,145,295</td>
+					<td>4,880,800</td>
+					<td>39,672,140,595</td>
+					<td>4,881,865</td>
+				</tr>
+			
+				<tr>
+					<td>판타스틱 4</td>
+					<td>Fantastic 4</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션,판타지,SF</td>
+					<td>주연</td>
+					<td>3,029,310,600</td>
+					<td>399,667</td>
+					<td>3,029,310,600</td>
+					<td>399,667</td>
+				</tr>
+			
+				<tr>
+					<td>캡티브</td>
+					<td>Captive</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>범죄,드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>32,000</td>
+					<td>6</td>
+				</tr>
+			
+				<tr>
+					<td>아이온크래드</td>
+					<td>Ironclad</td>
+					<td>2011</td>
+					<td>영국,미국</td>
+					<td>액션,어드벤처</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스톤 오브 데스티니</td>
+					<td>Stone of Destiny</td>
+					<td>2008</td>
+					<td>캐나다,영국</td>
+					<td>어드벤처,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>트랜스 시베리아</td>
+					<td>Transsiberian</td>
+					<td>2007</td>
+					<td>스페인,독일,영국</td>
+					<td>범죄,드라마,미스터리,스릴러</td>
+					<td>조연-애비역</td>
+					<td></td>
+					<td></td>
+					<td>0</td>
+					<td>0</td>
+				</tr>
+			
+				<tr>
+					<td>풀 오브 잇</td>
+					<td>Full of It</td>
+					<td>2007</td>
+					<td>미국,남아프리카공화국,이탈리아</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>캠퍼스 레전드 3</td>
+					<td>Urban Legends: Bloody Mary</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

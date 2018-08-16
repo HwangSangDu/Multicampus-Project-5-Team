@@ -1,0 +1,177 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '이승희'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>청년경찰</td>
+					<td>Midnight Runners</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>단역-가출 여고생 브로커 건영역</td>
+					<td>44,381,150,516</td>
+					<td>5,653,270</td>
+					<td>44,382,020,516</td>
+					<td>5,653,444</td>
+				</tr>
+			
+				<tr>
+					<td>분장</td>
+					<td>LOST TO SHAME</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-리딩장 사람들역,오디션 배우들역</td>
+					<td>21,236,800</td>
+					<td>2,914</td>
+					<td>24,102,900</td>
+					<td>3,318</td>
+				</tr>
+			
+				<tr>
+					<td>퇴마: 무녀굴</td>
+					<td>The Chosen: Forbidden Cave</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>공포(호러),스릴러</td>
+					<td>단역-조문객 여자4역</td>
+					<td>951,843,500</td>
+					<td>120,802</td>
+					<td>951,843,500</td>
+					<td>120,802</td>
+				</tr>
+			
+				<tr>
+					<td>화끈한 써비스: 어느 잔인한 미용사의</td>
+					<td></td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>스릴러</td>
+					<td>단역-여자2역</td>
+					<td>868,000</td>
+					<td>148</td>
+					<td>868,000</td>
+					<td>148</td>
+				</tr>
+			
+				<tr>
+					<td>시선</td>
+					<td>God&#039;s Eye View</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-허영란역</td>
+					<td>92,023,000</td>
+					<td>12,950</td>
+					<td>92,023,000</td>
+					<td>12,950</td>
+				</tr>
+			
+				<tr>
+					<td>사랑방 선수와 어머니</td>
+					<td>Swindler In My Mom&#039;S House</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>단역-핸드폰 점원역</td>
+					<td>0</td>
+					<td>541,236</td>
+					<td>3,286,151,000</td>
+					<td>509,235</td>
+				</tr>
+			
+				<tr>
+					<td>해바라기</td>
+					<td>Sunflower</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>액션,드라마,가족,범죄</td>
+					<td>단역-비서역</td>
+					<td>0</td>
+					<td>1,543,429</td>
+					<td>7,835,485,400</td>
+					<td>1,305,024</td>
+				</tr>
+			
+				<tr>
+					<td>잔혹한 출근</td>
+					<td>Educating Kidnappers</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>코미디,범죄</td>
+					<td>단역-간호사역</td>
+					<td>0</td>
+					<td>429,546</td>
+					<td>2,076,522,300</td>
+					<td>348,508</td>
+				</tr>
+			
+				<tr>
+					<td>파산의 기술</td>
+					<td>The Description of Bankruptcy</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>다큐멘터리</td>
+					<td>단역</td>
+					<td></td>
+					<td></td>
+					<td>263,000</td>
+					<td>45</td>
+				</tr>
+			
+				<tr>
+					<td>1학년 1학기</td>
+					<td>First Grade</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

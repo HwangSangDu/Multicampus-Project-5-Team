@@ -1,0 +1,229 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '시이나 깃페이'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>암살교실: 졸업편</td>
+					<td>Assassination Classroom: Graduation</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>액션,코미디</td>
+					<td>주연</td>
+					<td>6,699,500</td>
+					<td>874</td>
+					<td>34,784,500</td>
+					<td>6,491</td>
+				</tr>
+			
+				<tr>
+					<td>64 파트 1</td>
+					<td>Six Four: part 1</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>미스터리,범죄,드라마</td>
+					<td>조연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>암살교실</td>
+					<td>Assassination Classroom</td>
+					<td>2015</td>
+					<td>일본</td>
+					<td>액션,코미디</td>
+					<td>주연</td>
+					<td>40,197,700</td>
+					<td>5,097</td>
+					<td>40,197,700</td>
+					<td>5,097</td>
+				</tr>
+			
+				<tr>
+					<td>와일드 세븐</td>
+					<td>Wild 7</td>
+					<td>2011</td>
+					<td>일본</td>
+					<td>액션,범죄</td>
+					<td>주연-세카이역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>연애희곡</td>
+					<td>LOVE SCENARIO</td>
+					<td>2010</td>
+					<td>일본</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>816,000</td>
+					<td>136</td>
+				</tr>
+			
+				<tr>
+					<td>레인 폴</td>
+					<td>Rain Fall</td>
+					<td>2009</td>
+					<td>일본</td>
+					<td>스릴러,액션</td>
+					<td>주연-존 레인역</td>
+					<td>150,000</td>
+					<td>30</td>
+					<td>150,000</td>
+					<td>30</td>
+				</tr>
+			
+				<tr>
+					<td>언페어 : 극장판</td>
+					<td>Unfair : The Movie</td>
+					<td>2007</td>
+					<td>일본</td>
+					<td>액션,범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>환생</td>
+					<td>Rinne</td>
+					<td>2005</td>
+					<td>일본</td>
+					<td>공포(호러)</td>
+					<td>주연-마츠무라역</td>
+					<td>0</td>
+					<td>358,591</td>
+					<td>1,957,831,400</td>
+					<td>321,769</td>
+				</tr>
+			
+				<tr>
+					<td>퀼</td>
+					<td>Quill</td>
+					<td>2004</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>52,551,581</td>
+					<td>6,860</td>
+					<td>51,216,500</td>
+					<td>6,722</td>
+				</tr>
+			
+				<tr>
+					<td>약 서른 개의 거짓말</td>
+					<td>Thirty Lies Or So</td>
+					<td>2004</td>
+					<td>일본</td>
+					<td>코미디</td>
+					<td>주연-시카타 역</td>
+					<td></td>
+					<td></td>
+					<td>52,000</td>
+					<td>8</td>
+				</tr>
+			
+				<tr>
+					<td>스파이 조르게</td>
+					<td>Spy Sorge</td>
+					<td>2003</td>
+					<td>일본,독일</td>
+					<td>액션,스릴러,전쟁</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>물에 빠진 물고기</td>
+					<td>Oboreru Sakana</td>
+					<td>2001</td>
+					<td>일본</td>
+					<td>코미디,액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>화장사</td>
+					<td>Kewaishi</td>
+					<td>2001</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>쥬바쿠</td>
+					<td>Jubaku</td>
+					<td>1999</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>11,669</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

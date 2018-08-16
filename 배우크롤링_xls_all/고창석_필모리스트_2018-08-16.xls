@@ -1,0 +1,372 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '고창석'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>광대들(가제)</td>
+					<td></td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>사극</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>지금 만나러 갑니다</td>
+					<td>Be With You</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>멜로/로맨스</td>
+					<td>조연-홍구역</td>
+					<td>20,796,161,128</td>
+					<td>2,601,572</td>
+					<td>20,800,916,128</td>
+					<td>2,602,273</td>
+				</tr>
+			
+				<tr>
+					<td>니 부모 얼굴이 보고 싶다</td>
+					<td></td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>봉이 김선달</td>
+					<td>Seondal: The Man who Sells the River </td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>사극</td>
+					<td>주연-보원역</td>
+					<td>16,227,052,642</td>
+					<td>2,051,277</td>
+					<td>16,227,052,642</td>
+					<td>2,051,277</td>
+				</tr>
+			
+				<tr>
+					<td>기술자들</td>
+					<td>The Con Artists</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>범죄,액션</td>
+					<td>주연</td>
+					<td>19,894,297,783</td>
+					<td>2,564,340</td>
+					<td>19,894,297,783</td>
+					<td>2,564,340</td>
+				</tr>
+			
+				<tr>
+					<td>슬로우 비디오</td>
+					<td>Slow Video</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>조연-석의사역</td>
+					<td>8,913,092,219</td>
+					<td>1,169,562</td>
+					<td>8,913,092,219</td>
+					<td>1,169,562</td>
+				</tr>
+			
+				<tr>
+					<td>찌라시: 위험한 소문</td>
+					<td>Tabloid Truth</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td>9,111,648,087</td>
+					<td>1,221,420</td>
+					<td>9,111,748,087</td>
+					<td>1,221,427</td>
+				</tr>
+			
+				<tr>
+					<td>조선미녀삼총사</td>
+					<td>The Huntresses</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>코미디,액션,사극</td>
+					<td>주연-무명역</td>
+					<td>3,471,341,321</td>
+					<td>480,361</td>
+					<td>3,471,341,321</td>
+					<td>480,361</td>
+				</tr>
+			
+				<tr>
+					<td>은밀하게 위대하게</td>
+					<td>Secretly Greatly</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>액션,코미디,드라마</td>
+					<td>조연-서상구 역</td>
+					<td>48,700,887,413</td>
+					<td>6,959,083</td>
+					<td>48,700,887,413</td>
+					<td>6,959,083</td>
+				</tr>
+			
+				<tr>
+					<td>스파이</td>
+					<td>The Spy: Undercover Operation</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>24,509,269,305</td>
+					<td>3,435,801</td>
+					<td>24,513,098,305</td>
+					<td>3,436,092</td>
+				</tr>
+			
+				<tr>
+					<td>바람과 함께 사라지다</td>
+					<td>The Grand Heist</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>코미디,사극</td>
+					<td>주연-홍석창역</td>
+					<td>34,614,661,161</td>
+					<td>4,909,937</td>
+					<td>34,614,720,161</td>
+					<td>4,909,950</td>
+				</tr>
+			
+				<tr>
+					<td>미쓰GO</td>
+					<td>Miss Conspirator</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>액션,코미디,범죄</td>
+					<td>주연-소형사역</td>
+					<td>4,441,859,000</td>
+					<td>611,685</td>
+					<td>4,441,859,000</td>
+					<td>611,685</td>
+				</tr>
+			
+				<tr>
+					<td>아부의 왕</td>
+					<td>Mr. Xxx-Kisser</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연-성철역</td>
+					<td>3,511,102,500</td>
+					<td>497,880</td>
+					<td>3,511,102,500</td>
+					<td>497,880</td>
+				</tr>
+			
+				<tr>
+					<td>시체가 돌아왔다</td>
+					<td>Over My Dead Body </td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>범죄,드라마</td>
+					<td>조연-성구역</td>
+					<td>7,360,631,000</td>
+					<td>986,923</td>
+					<td>7,360,631,000</td>
+					<td>986,923</td>
+				</tr>
+			
+				<tr>
+					<td>고지전</td>
+					<td>The Front Line</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마,전쟁</td>
+					<td>주연-양효삼역</td>
+					<td>21,968,557,600</td>
+					<td>2,945,137</td>
+					<td>21,968,680,600</td>
+					<td>2,945,151</td>
+				</tr>
+			
+				<tr>
+					<td>퀵</td>
+					<td>Quick</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>코미디,액션</td>
+					<td>주연</td>
+					<td>22,960,890,000</td>
+					<td>3,125,069</td>
+					<td>22,960,890,000</td>
+					<td>3,125,069</td>
+				</tr>
+			
+				<tr>
+					<td>혈투</td>
+					<td>The Showdown</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>액션,사극</td>
+					<td>주연</td>
+					<td>329,280,000</td>
+					<td>43,947</td>
+					<td>329,280,000</td>
+					<td>43,947</td>
+				</tr>
+			
+				<tr>
+					<td>헬로우 고스트</td>
+					<td>Hello Ghost</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>주연-꼴초 귀신역</td>
+					<td>21,154,651,779</td>
+					<td>2,897,477</td>
+					<td>22,057,866,500</td>
+					<td>3,019,960</td>
+				</tr>
+			
+				<tr>
+					<td>맨발의 꿈</td>
+					<td>A Barefoot Dream</td>
+					<td>2010</td>
+					<td>한국,인도네시아,일본</td>
+					<td>드라마</td>
+					<td>주연-박인기역</td>
+					<td>2,413,427,097</td>
+					<td>338,080</td>
+					<td>2,372,787,500</td>
+					<td>331,945</td>
+				</tr>
+			
+				<tr>
+					<td>의형제</td>
+					<td>Secret Reunion</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마,액션</td>
+					<td>단역-베트남 보스역</td>
+					<td>40,800,867,602</td>
+					<td>5,507,106</td>
+					<td>40,153,817,000</td>
+					<td>5,416,829</td>
+				</tr>
+			
+				<tr>
+					<td>부산</td>
+					<td>City Of Fathers</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>액션,드라마</td>
+					<td>주연-김강수 역</td>
+					<td>1,185,994,280</td>
+					<td>160,741</td>
+					<td>1,172,970,000</td>
+					<td>158,943</td>
+				</tr>
+			
+				<tr>
+					<td>이태원 살인사건</td>
+					<td>Where the Truth Lies</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>범죄,미스터리,스릴러</td>
+					<td>주연-알렉스 부 역</td>
+					<td>4,023,152,210</td>
+					<td>537,075</td>
+					<td>3,978,107,000</td>
+					<td>531,023</td>
+				</tr>
+			
+				<tr>
+					<td>영화는 영화다</td>
+					<td>Rough Cut</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>액션,드라마,범죄</td>
+					<td>조연</td>
+					<td>8,943,849,000</td>
+					<td>1,307,688</td>
+					<td>8,967,441,000</td>
+					<td>1,311,118</td>
+				</tr>
+			
+				<tr>
+					<td>괴물</td>
+					<td>The Host</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>SF,가족,드라마</td>
+					<td>단역-격리공간 조무사 1역</td>
+					<td>0</td>
+					<td>13,019,740</td>
+					<td>66,716,119,300</td>
+					<td>10,917,224</td>
+				</tr>
+			
+				<tr>
+					<td>이른 여름 슈퍼맨</td>
+					<td>Superman in Early Summer</td>
+					<td>2001</td>
+					<td>한국</td>
+					<td>드라마,판타지</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

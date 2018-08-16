@@ -1,0 +1,242 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '호시노 아카리'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>귀여운 아내 화끈한 애인</td>
+					<td>Pretty wife</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>성인물(에로)</td>
+					<td>주연</td>
+					<td>8,000</td>
+					<td>1</td>
+					<td>8,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>같이 목욕하는 가정교사</td>
+					<td>I was peeped but I pretended not to notice. Mio Kitagawa</td>
+					<td>2015</td>
+					<td>일본</td>
+					<td>성인물(에로)</td>
+					<td>주연</td>
+					<td>8,000</td>
+					<td>1</td>
+					<td>8,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>욕망의 젊은 도우미</td>
+					<td>Desire &amp; A Knife</td>
+					<td>2014</td>
+					<td>일본</td>
+					<td>성인물(에로)</td>
+					<td>주연</td>
+					<td>5,000</td>
+					<td>1</td>
+					<td>5,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>프린세스 사쿠라</td>
+					<td>Princess Sakura : Forbidden Pleasure(桜姫)</td>
+					<td>2013</td>
+					<td>일본</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>8,025,000</td>
+					<td>1,601</td>
+					<td>8,025,000</td>
+					<td>1,601</td>
+				</tr>
+			
+				<tr>
+					<td>유부녀의 꽃</td>
+					<td>Housewife Unforgivable love</td>
+					<td>2013</td>
+					<td>일본</td>
+					<td>성인물(에로)</td>
+					<td>주연</td>
+					<td>150,000</td>
+					<td>10</td>
+					<td>150,000</td>
+					<td>10</td>
+				</tr>
+			
+				<tr>
+					<td>유부녀 감금일기</td>
+					<td>close to happy future</td>
+					<td>2012</td>
+					<td>일본</td>
+					<td>성인물(에로)</td>
+					<td>주연</td>
+					<td>30,000</td>
+					<td>10</td>
+					<td>30,000</td>
+					<td>10</td>
+				</tr>
+			
+				<tr>
+					<td>여비서 : 흥분되는 사무실 섹스</td>
+					<td>Vague Anxiety</td>
+					<td>2011</td>
+					<td>일본</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>9,000</td>
+					<td>1</td>
+					<td>9,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>간호사, 오후의 정사</td>
+					<td>Married Nurse - Soft Skin Dedication</td>
+					<td>2010</td>
+					<td>일본</td>
+					<td>멜로/로맨스,성인물(에로)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>타락하는 아내</td>
+					<td>Licentious Wife: Akiko</td>
+					<td>2010</td>
+					<td>일본</td>
+					<td>성인물(에로),드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>6,000</td>
+					<td>3</td>
+				</tr>
+			
+				<tr>
+					<td>하라 사오리의 시크릿닌자</td>
+					<td>The Secret Female Ninja</td>
+					<td>2010</td>
+					<td>일본</td>
+					<td>성인물(에로)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>가정교사: 앞집 아줌마의 수업</td>
+					<td>A YOUNG TUTOR</td>
+					<td>2008</td>
+					<td>일본</td>
+					<td>멜로/로맨스</td>
+					<td>주연-나츠미역</td>
+					<td>9,000</td>
+					<td>1</td>
+					<td>17,000</td>
+					<td>2</td>
+				</tr>
+			
+				<tr>
+					<td>그와 그녀의 관계 2</td>
+					<td>Assatte Dance 2</td>
+					<td>2006</td>
+					<td>일본</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>그와 그녀의 관계 3</td>
+					<td>Assatte Dance 3</td>
+					<td>2006</td>
+					<td>일본</td>
+					<td>성인물(에로),멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>그와 그녀의 관계 4</td>
+					<td>Assatte Dance 4</td>
+					<td>2006</td>
+					<td>일본</td>
+					<td>성인물(에로),멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>노천탕 오후의 정사</td>
+					<td>IN THE HOT SPRING-STEP SISTER</td>
+					<td>2005</td>
+					<td>일본</td>
+					<td>드라마,성인물(에로)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

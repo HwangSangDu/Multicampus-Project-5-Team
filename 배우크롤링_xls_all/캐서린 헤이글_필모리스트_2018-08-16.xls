@@ -1,0 +1,307 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '캐서린 헤이글'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>넛잡 2</td>
+					<td>The Nut Job 2: Nutty by Nature</td>
+					<td>2017</td>
+					<td>한국,캐나다,중국</td>
+					<td>애니메이션,어드벤처,코미디,가족</td>
+					<td>주연-앤디 목소리역(목소리)</td>
+					<td>3,069,388,100</td>
+					<td>411,787</td>
+					<td>3,069,388,100</td>
+					<td>411,787</td>
+				</tr>
+			
+				<tr>
+					<td>재키 앤 라이언</td>
+					<td>Jackie &amp; Ryan</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>23,288,000</td>
+					<td>3,011</td>
+					<td>23,288,000</td>
+					<td>3,011</td>
+				</tr>
+			
+				<tr>
+					<td>불륜녀 죽이기</td>
+					<td>Home Sweet Hell</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>제니스 웨딩</td>
+					<td>Jenny&#039;s Wedding</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>넛잡: 땅콩 도둑들</td>
+					<td>The Nut Job</td>
+					<td>2013</td>
+					<td>한국,캐나다,미국</td>
+					<td>애니메이션,어드벤처,코미디,가족</td>
+					<td>주연-앤디역(목소리)</td>
+					<td>3,280,608,100</td>
+					<td>478,392</td>
+					<td>3,284,959,800</td>
+					<td>479,280</td>
+				</tr>
+			
+				<tr>
+					<td>빅 웨딩</td>
+					<td>The Big Wedding </td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연-라일라역</td>
+					<td>231,885,500</td>
+					<td>33,993</td>
+					<td>233,303,500</td>
+					<td>34,466</td>
+				</tr>
+			
+				<tr>
+					<td>원 포 더 머니</td>
+					<td>One For The Money</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디,범죄</td>
+					<td>주연-스테파니 플럼 역</td>
+					<td>195,806,000</td>
+					<td>26,387</td>
+					<td>195,806,000</td>
+					<td>26,387</td>
+				</tr>
+			
+				<tr>
+					<td>킬러스</td>
+					<td>Killers</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>액션,코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td>2,428,979,292</td>
+					<td>329,086</td>
+					<td>2,386,700,000</td>
+					<td>322,888</td>
+				</tr>
+			
+				<tr>
+					<td>커플로 살아남기</td>
+					<td>Life as We Know It </td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>드라마,코미디</td>
+					<td>주연-홀리 베렌슨 역역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>어글리 트루스</td>
+					<td>The Ugly Truth</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연-애비 역</td>
+					<td>2,471,953,101</td>
+					<td>320,997</td>
+					<td>2,433,433,000</td>
+					<td>316,076</td>
+				</tr>
+			
+				<tr>
+					<td>27번의 결혼리허설</td>
+					<td>27 Dresses</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td>1,592,159,556</td>
+					<td>239,674</td>
+					<td>1,602,927,500</td>
+					<td>239,739</td>
+				</tr>
+			
+				<tr>
+					<td>사고친 후에</td>
+					<td>Knocked Up</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>98,000</td>
+					<td>14</td>
+				</tr>
+			
+				<tr>
+					<td>무모한 도전</td>
+					<td>The Ringer</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사이드 이펙츠</td>
+					<td>Side Effects</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>100 걸스</td>
+					<td>100 Girls</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>로스웰</td>
+					<td>Roswell</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>드라마,미스터리,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>처키의 신부 </td>
+					<td>Bride Of Chucky</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>43,698</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>프린스 벨리언트 </td>
+					<td>Prince Valiant</td>
+					<td>1997</td>
+					<td>독일,영국,아일랜드</td>
+					<td>사극,액션,어드벤처,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>3,888</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>언더 씨즈 2 </td>
+					<td>Under Siege 2</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>180,584</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아빠는 나의 영웅 </td>
+					<td>My Father The Hero</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>10,661</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,294 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '마티유 아말릭'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>은판 위의 여인</td>
+					<td>The Woman In The Silver Plate</td>
+					<td>2016</td>
+					<td>프랑스</td>
+					<td>미스터리,멜로/로맨스,공포(호러)</td>
+					<td>주연</td>
+					<td>2,670,500</td>
+					<td>396</td>
+					<td>4,172,500</td>
+					<td>591</td>
+				</tr>
+			
+				<tr>
+					<td>마이 골든 데이즈</td>
+					<td>My Golden Days</td>
+					<td>2015</td>
+					<td>프랑스</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>3,908,000</td>
+					<td>494</td>
+				</tr>
+			
+				<tr>
+					<td>블루 룸</td>
+					<td>The Blue Room</td>
+					<td>2014</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>감독,주연</td>
+					<td>14,628,400</td>
+					<td>1,890</td>
+					<td>14,628,400</td>
+					<td>1,890</td>
+				</tr>
+			
+				<tr>
+					<td>러브 이즈 크라임</td>
+					<td>Love is the Perfect Crime</td>
+					<td>2013</td>
+					<td>프랑스,스위스</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td>1,522,000</td>
+					<td>226</td>
+					<td>2,121,000</td>
+					<td>314</td>
+				</tr>
+			
+				<tr>
+					<td>모피를 입은 비너스</td>
+					<td>Venus In Fur</td>
+					<td>2013</td>
+					<td>프랑스,폴란드</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>당신은 아직 아무것도 보지 못했다</td>
+					<td>You Ain&#039;t Seen Nothing Yet</td>
+					<td>2012</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>41,480,000</td>
+					<td>5,287</td>
+					<td>43,618,000</td>
+					<td>5,577</td>
+				</tr>
+			
+				<tr>
+					<td>어느 예술가의 마지막 일주일</td>
+					<td>Chicken with Plums</td>
+					<td>2011</td>
+					<td>프랑스,독일,벨기에</td>
+					<td>드라마</td>
+					<td>주연-나세르-알리역</td>
+					<td>93,907,000</td>
+					<td>13,368</td>
+					<td>96,785,000</td>
+					<td>13,800</td>
+				</tr>
+			
+				<tr>
+					<td>블랑섹의 기이한모험</td>
+					<td>The Extraordinary Adventures of Adele Blanc-Sec</td>
+					<td>2010</td>
+					<td>영국</td>
+					<td>판타지,액션,미스터리</td>
+					<td>주연-디욀르뵈역</td>
+					<td>4,352,000</td>
+					<td>2,021</td>
+					<td>4,364,000</td>
+					<td>2,023</td>
+				</tr>
+			
+				<tr>
+					<td>온 투어</td>
+					<td>On Tour</td>
+					<td>2010</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>감독,주연</td>
+					<td>14,421,000</td>
+					<td>1,896</td>
+					<td>14,930,500</td>
+					<td>1,980</td>
+				</tr>
+			
+				<tr>
+					<td>잠수종과 나비</td>
+					<td>The Diving Bell And The Butterfly</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>174,328,500</td>
+					<td>25,538</td>
+					<td>178,387,500</td>
+					<td>26,085</td>
+				</tr>
+			
+				<tr>
+					<td>리차드 O.의 이야기</td>
+					<td>L&#039;Histoire de Richard O.</td>
+					<td>2007</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>289,000</td>
+					<td>45</td>
+				</tr>
+			
+				<tr>
+					<td>휴먼 퀘스천</td>
+					<td>The Human Question</td>
+					<td>2007</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>214,000</td>
+					<td>32</td>
+				</tr>
+			
+				<tr>
+					<td>커튼 레이저</td>
+					<td>A Curtain Raiser</td>
+					<td>2006</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연-피에르역</td>
+					<td>10,762,500</td>
+					<td>1,933</td>
+					<td>10,762,500</td>
+					<td>1,861</td>
+				</tr>
+			
+				<tr>
+					<td>콧수염</td>
+					<td>La Moustache</td>
+					<td>2005</td>
+					<td>프랑스</td>
+					<td>드라마,미스터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>킹스 앤 퀸</td>
+					<td>Rois Et Reine</td>
+					<td>2004</td>
+					<td>프랑스</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,219</td>
+					<td>8,576,000</td>
+					<td>1,284</td>
+				</tr>
+			
+				<tr>
+					<td>윔블던 스타디움</td>
+					<td>Wimbledon Stage</td>
+					<td>2001</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>감독</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>또다른 거짓</td>
+					<td>La Fausse Suivante</td>
+					<td>2000</td>
+					<td>프랑스</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>8월말, 9월초</td>
+					<td>Late August, Early September</td>
+					<td>1998</td>
+					<td>프랑스</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>앨리스와 마틴</td>
+					<td>Alice Et Martin</td>
+					<td>1998</td>
+					<td>프랑스,스페인</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

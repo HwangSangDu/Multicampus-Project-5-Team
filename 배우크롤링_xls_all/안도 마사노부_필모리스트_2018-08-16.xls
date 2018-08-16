@@ -1,0 +1,255 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '안도 마사노부'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>세일러복과 기관총 – 졸업</td>
+					<td>Sailor Suit and Machine gun -Graduation-</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>드라마,액션</td>
+					<td>주연</td>
+					<td>30,000</td>
+					<td>4</td>
+					<td>30,000</td>
+					<td>4</td>
+				</tr>
+			
+				<tr>
+					<td>화심: 욕망의 꽃</td>
+					<td>A Flower Aflame</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>시체 전문 처리반 - 스머글러</td>
+					<td>Smuggler</td>
+					<td>2011</td>
+					<td>일본</td>
+					<td>스릴러,액션</td>
+					<td>조연-세보네역</td>
+					<td>11,507,000</td>
+					<td>1,641</td>
+					<td>11,507,000</td>
+					<td>1,641</td>
+				</tr>
+			
+				<tr>
+					<td>신검전설</td>
+					<td>The Butcher, The Chef and The Swordman</td>
+					<td>2010</td>
+					<td>중국,홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>7,000,000</td>
+					<td>1,400</td>
+					<td>7,000,000</td>
+					<td>1,400</td>
+				</tr>
+			
+				<tr>
+					<td>사쿠란</td>
+					<td>Sakuran</td>
+					<td>2007</td>
+					<td>일본,미국</td>
+					<td>드라마</td>
+					<td>주연-세이지 역</td>
+					<td>0</td>
+					<td>7,634</td>
+					<td>51,643,500</td>
+					<td>7,494</td>
+				</tr>
+			
+				<tr>
+					<td>스키야키 웨스턴 장고</td>
+					<td>Sukiyaki Western Django</td>
+					<td>2007</td>
+					<td>일본</td>
+					<td>서부극(웨스턴),액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>46억년의 사랑</td>
+					<td>4.6 Billion Years Of Love</td>
+					<td>2006</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>블랙 키스</td>
+					<td>Black Kiss</td>
+					<td>2004</td>
+					<td>일본</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>1,400,000</td>
+					<td>140</td>
+					<td>1,400,000</td>
+					<td>140</td>
+				</tr>
+			
+				<tr>
+					<td>69 식스티 나인</td>
+					<td>69 Sixty Nine</td>
+					<td>2004</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>14,711</td>
+					<td>97,535,500</td>
+					<td>14,778</td>
+				</tr>
+			
+				<tr>
+					<td>쇼와 가요 대전집</td>
+					<td>Big Showa Song Collection</td>
+					<td>2003</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사무라이픽션 - 적영</td>
+					<td>SAMURAI FICTION : RED SHADOW</td>
+					<td>2001</td>
+					<td>일본</td>
+					<td>액션,어드벤처,코미디</td>
+					<td>주연-아카카게(적영)/가미오카 산시로역</td>
+					<td>0</td>
+					<td>93</td>
+					<td>633,000</td>
+					<td>93</td>
+				</tr>
+			
+				<tr>
+					<td>사토라레</td>
+					<td>Tribute To A Sad Genius</td>
+					<td>2001</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>201,550</td>
+					<td>198,034,500</td>
+					<td>30,598</td>
+				</tr>
+			
+				<tr>
+					<td>먼데이</td>
+					<td>Monday</td>
+					<td>2000</td>
+					<td>일본</td>
+					<td>드라마,범죄,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스페이스 트래블러</td>
+					<td>Space Travelers</td>
+					<td>2000</td>
+					<td>일본</td>
+					<td>코미디,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>아드레날린 드라이브</td>
+					<td>Adrenaline Drive</td>
+					<td>1999</td>
+					<td>일본</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>키즈 리턴</td>
+					<td>Kids Return</td>
+					<td>1997</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연-신지역</td>
+					<td>0</td>
+					<td>5,261</td>
+					<td>4,434,000</td>
+					<td>524</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

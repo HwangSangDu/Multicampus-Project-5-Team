@@ -1,0 +1,255 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '히스 레저'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>아이 앰 히스 레저</td>
+					<td>I Am Heath Ledger</td>
+					<td>2017</td>
+					<td>캐나다</td>
+					<td>다큐멘터리</td>
+					<td>주연</td>
+					<td>158,340,439</td>
+					<td>19,771</td>
+					<td>159,435,439</td>
+					<td>19,917</td>
+				</tr>
+			
+				<tr>
+					<td>파르나서스 박사의 상상극장</td>
+					<td>The Imaginarium Of Doctor Parnassus</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>판타지,어드벤처,미스터리</td>
+					<td>주연</td>
+					<td>3,364,788,919</td>
+					<td>462,999</td>
+					<td>3,330,119,500</td>
+					<td>458,243</td>
+				</tr>
+			
+				<tr>
+					<td>다크 나이트</td>
+					<td>The Dark Knight</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>범죄,드라마,액션,미스터리</td>
+					<td>주연-조커역</td>
+					<td>27,059,471,306</td>
+					<td>4,087,355</td>
+					<td>27,789,718,400</td>
+					<td>4,175,526</td>
+				</tr>
+			
+				<tr>
+					<td>아임 낫 데어</td>
+					<td>I`M Not There</td>
+					<td>2007</td>
+					<td>미국,독일</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>175,924,500</td>
+					<td>26,117</td>
+					<td>183,029,300</td>
+					<td>26,615</td>
+				</tr>
+			
+				<tr>
+					<td>캔디</td>
+					<td>Candy</td>
+					<td>2006</td>
+					<td>호주</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연-댄역</td>
+					<td>30,236,188</td>
+					<td>4,474</td>
+					<td>32,029,500</td>
+					<td>4,760</td>
+				</tr>
+			
+				<tr>
+					<td>카사노바</td>
+					<td>Casanova</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연-카사노바역</td>
+					<td>0</td>
+					<td>32,904</td>
+					<td>197,101,800</td>
+					<td>29,905</td>
+				</tr>
+			
+				<tr>
+					<td>브로크백 마운틴</td>
+					<td>Brokeback Mountain</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-에니스 델마역</td>
+					<td>0</td>
+					<td>341,242</td>
+					<td>1,367,154,800</td>
+					<td>209,558</td>
+				</tr>
+			
+				<tr>
+					<td>그림형제 : 마르바덴 숲의 전설</td>
+					<td>The Brothers Grimm</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>판타지,가족,어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>744,045</td>
+					<td>4,587,244,000</td>
+					<td>723,385</td>
+				</tr>
+			
+				<tr>
+					<td>네드 켈리</td>
+					<td>Ned Kelly</td>
+					<td>2003</td>
+					<td>호주</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>3,000</td>
+					<td>8,074,500</td>
+					<td>1,270</td>
+				</tr>
+			
+				<tr>
+					<td>씬</td>
+					<td>The Order / The Sin Eater</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>590</td>
+					<td>3,679,000</td>
+					<td>560</td>
+				</tr>
+			
+				<tr>
+					<td>포 페더스</td>
+					<td>The Four Feathers</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>전쟁,어드벤처,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>몬스터 볼</td>
+					<td>Monsters Ball</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>드라마,멜로/로맨스,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>36,529</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>기사 윌리엄</td>
+					<td>A Knight&#039;s Tale</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>액션,어드벤처,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>200,330</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>패트리어트-늪속의 여우</td>
+					<td>The Patriot</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>사극,액션,전쟁</td>
+					<td>조연-가브리엘 마틴역</td>
+					<td>0</td>
+					<td>221,982</td>
+					<td>60,000</td>
+					<td>20</td>
+				</tr>
+			
+				<tr>
+					<td>내가 널 사랑할 수 없는 10가지 이유</td>
+					<td>10 Things I Hate About You</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>투 핸즈</td>
+					<td>Two Hands</td>
+					<td>1999</td>
+					<td>호주</td>
+					<td>범죄,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,203 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '이케마츠 소스케'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>어느 가족</td>
+					<td>SHOPLIFTERS</td>
+					<td>2018</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>조연</td>
+					<td></td>
+					<td></td>
+					<td>1,127,665,500</td>
+					<td>133,860</td>
+				</tr>
+			
+				<tr>
+					<td>데스노트: 더 뉴 월드</td>
+					<td>DEATH NOTE Light up the NEW world</td>
+					<td>2017</td>
+					<td>일본</td>
+					<td>범죄,드라마,스릴러</td>
+					<td>주연</td>
+					<td>220,886,363</td>
+					<td>28,723</td>
+					<td>220,886,363</td>
+					<td>28,723</td>
+				</tr>
+			
+				<tr>
+					<td>아주 긴 변명</td>
+					<td>The Long Excuse</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>67,454,200</td>
+					<td>8,974</td>
+					<td>67,454,200</td>
+					<td>8,974</td>
+				</tr>
+			
+				<tr>
+					<td>디스트럭션 베이비</td>
+					<td>Distraction Babies</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>조연</td>
+					<td></td>
+					<td></td>
+					<td>528,000</td>
+					<td>89</td>
+				</tr>
+			
+				<tr>
+					<td>종이 달</td>
+					<td>Pale Moon</td>
+					<td>2014</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>197,236,200</td>
+					<td>24,381</td>
+					<td>197,445,216</td>
+					<td>24,418</td>
+				</tr>
+			
+				<tr>
+					<td>사랑의 소용돌이</td>
+					<td>Love&#039;s Whirlpool</td>
+					<td>2014</td>
+					<td>일본</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>270,000</td>
+					<td>54</td>
+					<td>270,000</td>
+					<td>54</td>
+				</tr>
+			
+				<tr>
+					<td>이별까지 7일</td>
+					<td>Our Family</td>
+					<td>2014</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>52,490,406</td>
+					<td>7,097</td>
+					<td>52,490,406</td>
+					<td>7,097</td>
+				</tr>
+			
+				<tr>
+					<td>사랑, 육체를 느낄 때</td>
+					<td>Undulant Fever</td>
+					<td>2014</td>
+					<td>일본</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>요노스케 이야기</td>
+					<td>A Story of Yonosuke</td>
+					<td>2013</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>2,115,000</td>
+					<td>260</td>
+					<td>2,229,000</td>
+					<td>279</td>
+				</tr>
+			
+				<tr>
+					<td>고,보이즈!:마지막 잎새 사수 프로젝트</td>
+					<td>Go! Boys&#039; School Drama Club </td>
+					<td>2011</td>
+					<td>일본</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>5,092,000</td>
+					<td>722</td>
+					<td>5,109,000</td>
+					<td>725</td>
+				</tr>
+			
+				<tr>
+					<td>다이브</td>
+					<td>DIVE</td>
+					<td>2008</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연-후지타니 요이치역</td>
+					<td></td>
+					<td></td>
+					<td>1,883,000</td>
+					<td>325</td>
+				</tr>
+			
+				<tr>
+					<td>철인 28호</td>
+					<td>Tetsujin 28</td>
+					<td>2005</td>
+					<td>일본</td>
+					<td>SF,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

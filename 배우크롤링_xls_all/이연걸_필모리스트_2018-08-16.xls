@@ -1,0 +1,658 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '이연걸'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>봉신연의: 영웅의 귀환</td>
+					<td>League of Gods</td>
+					<td>2015</td>
+					<td>홍콩</td>
+					<td>판타지,액션</td>
+					<td>주연</td>
+					<td>48,190,000</td>
+					<td>6,343</td>
+					<td>48,422,500</td>
+					<td>6,380</td>
+				</tr>
+			
+				<tr>
+					<td>익스펜더블 3</td>
+					<td>The Expendables 3</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>액션,어드벤처,스릴러</td>
+					<td>주연</td>
+					<td>1,158,358,800</td>
+					<td>152,025</td>
+					<td>1,158,398,800</td>
+					<td>152,033</td>
+				</tr>
+			
+				<tr>
+					<td>불이신탐</td>
+					<td>Badges of Fury </td>
+					<td>2013</td>
+					<td>홍콩,중국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>익스펜더블 2</td>
+					<td>The Expendables II</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>액션,어드벤처</td>
+					<td>주연</td>
+					<td>3,208,867,228</td>
+					<td>444,434</td>
+					<td>3,209,043,228</td>
+					<td>444,456</td>
+				</tr>
+			
+				<tr>
+					<td>용문비갑</td>
+					<td>The Flying Swords Of Dragon Gate Originally</td>
+					<td>2012</td>
+					<td>중국,홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>9,450,000</td>
+					<td>1,890</td>
+					<td>9,628,000</td>
+					<td>1,920</td>
+				</tr>
+			
+				<tr>
+					<td>백사대전</td>
+					<td>白蛇傳說, White Snake</td>
+					<td>2011</td>
+					<td>중국</td>
+					<td>액션</td>
+					<td>주연-법해 역</td>
+					<td>9,612,000</td>
+					<td>1,908</td>
+					<td>9,612,000</td>
+					<td>1,908</td>
+				</tr>
+			
+				<tr>
+					<td>익스펜더블</td>
+					<td>The Expendables</td>
+					<td>2010</td>
+					<td>미국</td>
+					<td>스릴러,액션</td>
+					<td>주연</td>
+					<td>3,025,538,174</td>
+					<td>398,097</td>
+					<td>2,973,383,000</td>
+					<td>390,458</td>
+				</tr>
+			
+				<tr>
+					<td>해양천국</td>
+					<td>Ocean Paradise</td>
+					<td>2010</td>
+					<td>중국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,208,000</td>
+					<td>140</td>
+				</tr>
+			
+				<tr>
+					<td>미이라 3:황제의 무덤</td>
+					<td>The Mummy 3:Tomb Of The Dragon Emperor</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지</td>
+					<td>주연</td>
+					<td>26,222,207,084</td>
+					<td>4,090,795</td>
+					<td>26,217,311,000</td>
+					<td>4,090,885</td>
+				</tr>
+			
+				<tr>
+					<td>포비든 킹덤: 전설의 마스터를 찾아서</td>
+					<td>The Forbidden Kingdom</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지</td>
+					<td>주연-묵승 역</td>
+					<td>7,876,101,835</td>
+					<td>1,221,352</td>
+					<td>7,872,763,500</td>
+					<td>1,211,890</td>
+				</tr>
+			
+				<tr>
+					<td>워</td>
+					<td>War</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>스릴러,액션</td>
+					<td>주연-로그역</td>
+					<td>342,294,500</td>
+					<td>52,787</td>
+					<td>341,594,500</td>
+					<td>52,268</td>
+				</tr>
+			
+				<tr>
+					<td>명장</td>
+					<td>The Warlords</td>
+					<td>2007</td>
+					<td>중국</td>
+					<td>액션,전쟁</td>
+					<td>주연-방청운역</td>
+					<td>2,559,950,500</td>
+					<td>385,841</td>
+					<td>2,543,247,500</td>
+					<td>380,515</td>
+				</tr>
+			
+				<tr>
+					<td>무인 곽원갑</td>
+					<td>Fearless</td>
+					<td>2006</td>
+					<td>중국</td>
+					<td>액션</td>
+					<td>주연-곽원갑역</td>
+					<td>0</td>
+					<td>360,630</td>
+					<td>1,926,775,700</td>
+					<td>308,428</td>
+				</tr>
+			
+				<tr>
+					<td>더 독</td>
+					<td>Unleashed</td>
+					<td>2004</td>
+					<td>프랑스</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>395,000</td>
+					<td>2,024,849,500</td>
+					<td>321,205</td>
+				</tr>
+			
+				<tr>
+					<td>크레이들 2 그레이브</td>
+					<td>Cradle 2 The Grave</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>액션,범죄,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>320,000</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>영웅: 천하의 시작</td>
+					<td>Hero</td>
+					<td>2002</td>
+					<td>중국</td>
+					<td>액션,드라마,전쟁</td>
+					<td>주연</td>
+					<td>44,066,600</td>
+					<td>9,575</td>
+					<td>44,066,600</td>
+					<td>9,575</td>
+				</tr>
+			
+				<tr>
+					<td>영웅</td>
+					<td>Hero</td>
+					<td>2002</td>
+					<td>중국</td>
+					<td>사극,드라마,액션,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,910,000</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>더 원</td>
+					<td>The One</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>157,681</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>키스 오브 드래곤</td>
+					<td>Kiss Of The Dragon</td>
+					<td>2001</td>
+					<td>프랑스</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>110,505</td>
+					<td>50,000</td>
+					<td>10</td>
+				</tr>
+			
+				<tr>
+					<td>로미오 머스트 다이</td>
+					<td>Romeo Must Die</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>액션,범죄</td>
+					<td>주연-한 싱역</td>
+					<td>0</td>
+					<td>121,192</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>이연걸의 히트맨</td>
+					<td>Hitman / The Contract Killer</td>
+					<td>1998</td>
+					<td>중국,홍콩</td>
+					<td>액션,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>18,426</td>
+					<td>7,100,000</td>
+					<td>5,970</td>
+				</tr>
+			
+				<tr>
+					<td>황비홍의서역웅사</td>
+					<td>Once Upon A Time In China And America</td>
+					<td>1997</td>
+					<td>홍콩</td>
+					<td>액션,사극</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>32,000</td>
+					<td>8</td>
+				</tr>
+			
+				<tr>
+					<td>흑협</td>
+					<td>Black Mask</td>
+					<td>1996</td>
+					<td>홍콩</td>
+					<td>액션,스릴러,어드벤처,범죄,SF</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>30,548</td>
+					<td>12,270,000</td>
+					<td>5,600</td>
+				</tr>
+			
+				<tr>
+					<td>모험왕 </td>
+					<td>Dr. Wai In The Scripture With No Word</td>
+					<td>1995</td>
+					<td>홍콩</td>
+					<td>어드벤처,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>188,926</td>
+					<td>3,930,000</td>
+					<td>5,130</td>
+				</tr>
+			
+				<tr>
+					<td>이연걸의 탈출</td>
+					<td>High Risk</td>
+					<td>1995</td>
+					<td>홍콩</td>
+					<td>범죄,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>119,897</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>탈출</td>
+					<td>High Risk</td>
+					<td>1995</td>
+					<td>홍콩</td>
+					<td>액션,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>119,897</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>영웅 </td>
+					<td>My Father Is A Hero</td>
+					<td>1995</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>161,568</td>
+					<td>4,270,000</td>
+					<td>5,250</td>
+				</tr>
+			
+				<tr>
+					<td>동방대협 </td>
+					<td>Oriental Hero</td>
+					<td>1995</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>833</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>이연걸의 정무문 </td>
+					<td>First Of Legend</td>
+					<td>1994</td>
+					<td>홍콩</td>
+					<td>드라마,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>181,760</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>이연걸의 보디가드 </td>
+					<td>The Bodygaurd From Beijing</td>
+					<td>1994</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>155,692</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>소림오조 </td>
+					<td>Five Master Of Shaolin</td>
+					<td>1994</td>
+					<td>홍콩</td>
+					<td>사극,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>72,009</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>정무문</td>
+					<td>First of Legend</td>
+					<td>1994</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>황비홍-철계투오공 </td>
+					<td>The Last Hero In China</td>
+					<td>1993</td>
+					<td>홍콩</td>
+					<td>액션,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>43,309</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>의천도룡기 </td>
+					<td>The Kung Fu Cult Master</td>
+					<td>1993</td>
+					<td>홍콩</td>
+					<td>사극,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>105,052</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>태극권</td>
+					<td>The Tak Chi Master</td>
+					<td>1993</td>
+					<td>홍콩</td>
+					<td>액션,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>176,806</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>대도무문</td>
+					<td>Fong Sai Yuk Ⅱ</td>
+					<td>1993</td>
+					<td>홍콩</td>
+					<td>멜로/로맨스,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>140,729</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>방세옥</td>
+					<td>Fong Sai Yuk</td>
+					<td>1993</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>91,448</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>황비홍 2</td>
+					<td>Once Upon A Time In China 2</td>
+					<td>1992</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>189,460</td>
+					<td>24,000</td>
+					<td>6</td>
+				</tr>
+			
+				<tr>
+					<td>동방불패</td>
+					<td>Swordsman2</td>
+					<td>1992</td>
+					<td>홍콩</td>
+					<td>액션,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>359,463</td>
+					<td>2,828,500</td>
+					<td>512</td>
+				</tr>
+			
+				<tr>
+					<td>황비홍3-사왕쟁패</td>
+					<td>Once Upon A Time In China 3</td>
+					<td>1991</td>
+					<td>홍콩</td>
+					<td>사극,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>255,556</td>
+					<td>16,000</td>
+					<td>4</td>
+				</tr>
+			
+				<tr>
+					<td>황비홍</td>
+					<td>Once Upon A Time In China</td>
+					<td>1991</td>
+					<td>홍콩</td>
+					<td>액션,어드벤처,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>434,739</td>
+					<td>248,200</td>
+					<td>44</td>
+				</tr>
+			
+				<tr>
+					<td>용행천하</td>
+					<td>The Masters</td>
+					<td>1989</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>115,641</td>
+					<td>7,715,000</td>
+					<td>5,935</td>
+				</tr>
+			
+				<tr>
+					<td>풍운인물</td>
+					<td>Dragon Fight</td>
+					<td>1989</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>12,721</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>중화영웅</td>
+					<td>Born To Defence</td>
+					<td>1986</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>감독,주연</td>
+					<td>0</td>
+					<td>782</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>소림사 3탄 남북소림 </td>
+					<td>南北少林</td>
+					<td>1986</td>
+					<td>홍콩,중국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>164,230</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>소림사 2 : 소림소자</td>
+					<td>Shaolin Temple Part Ⅱ/Kids From Shaolin</td>
+					<td>1983</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>185,078</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>소림사</td>
+					<td>Shaolin Temple</td>
+					<td>1979</td>
+					<td>홍콩</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>294,065</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

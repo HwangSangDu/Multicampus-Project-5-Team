@@ -1,0 +1,177 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '황우슬혜'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>레슬러</td>
+					<td>LOVE+SLING</td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>조연</td>
+					<td>6,481,483,657</td>
+					<td>771,159</td>
+					<td>6,481,379,657</td>
+					<td>771,141</td>
+				</tr>
+			
+				<tr>
+					<td>썬키스트 패밀리</td>
+					<td></td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>가족,코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>장수상회</td>
+					<td>Salut d’Amour </td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>조연</td>
+					<td>8,729,412,643</td>
+					<td>1,163,575</td>
+					<td>8,739,586,643</td>
+					<td>1,166,151</td>
+				</tr>
+			
+				<tr>
+					<td>한 번도 안 해본 여자</td>
+					<td>Virgin Theory</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연-권말희역</td>
+					<td>72,481,500</td>
+					<td>9,732</td>
+					<td>72,481,500</td>
+					<td>9,732</td>
+				</tr>
+			
+				<tr>
+					<td>화이트: 저주의 멜로디</td>
+					<td>White</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td>5,587,166,000</td>
+					<td>790,954</td>
+					<td>5,587,204,000</td>
+					<td>790,959</td>
+				</tr>
+			
+				<tr>
+					<td>폭풍전야</td>
+					<td>Lovers Vanished</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>393,501,207</td>
+					<td>52,597</td>
+					<td>387,323,000</td>
+					<td>51,760</td>
+				</tr>
+			
+				<tr>
+					<td>펜트하우스 코끼리</td>
+					<td>Searching For The Elephant</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>조연</td>
+					<td>1,087,284,273</td>
+					<td>144,070</td>
+					<td>1,077,451,000</td>
+					<td>142,792</td>
+				</tr>
+			
+				<tr>
+					<td>박쥐</td>
+					<td>Thirst</td>
+					<td>2008</td>
+					<td>한국,미국,호주</td>
+					<td>공포(호러),드라마</td>
+					<td>단역-호각처녀역</td>
+					<td>15,051,788,827</td>
+					<td>2,237,271</td>
+					<td>14,846,847,500</td>
+					<td>2,206,948</td>
+				</tr>
+			
+				<tr>
+					<td>과속스캔들</td>
+					<td>Scandal Makers</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>조연</td>
+					<td>53,940,101,534</td>
+					<td>8,245,523</td>
+					<td>53,801,341,400</td>
+					<td>8,223,342</td>
+				</tr>
+			
+				<tr>
+					<td>미쓰 홍당무</td>
+					<td>Crush And Blush</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>조연</td>
+					<td>3,564,401,608</td>
+					<td>532,324</td>
+					<td>3,604,178,500</td>
+					<td>539,110</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

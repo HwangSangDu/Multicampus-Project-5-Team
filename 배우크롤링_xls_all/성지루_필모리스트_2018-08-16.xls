@@ -1,0 +1,320 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '성지루'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>힘을 내요, 미스터 리(가제)</td>
+					<td></td>
+					<td>2018</td>
+					<td>한국</td>
+					<td>코미디,드라마</td>
+					<td>조연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>내게 남은 사랑을</td>
+					<td>My Last Love</td>
+					<td>2017</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-김봉용역</td>
+					<td>182,833,600</td>
+					<td>27,666</td>
+					<td>185,301,600</td>
+					<td>27,986</td>
+				</tr>
+			
+				<tr>
+					<td>전설의 주먹</td>
+					<td>Fists of Legend</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마,액션</td>
+					<td>조연</td>
+					<td>12,777,314,500</td>
+					<td>1,744,585</td>
+					<td>12,777,314,500</td>
+					<td>1,744,585</td>
+				</tr>
+			
+				<tr>
+					<td>써니</td>
+					<td>Sunny</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>단역-우정출연-변호사역</td>
+					<td>54,034,235,100</td>
+					<td>7,362,467</td>
+					<td>54,038,534,700</td>
+					<td>7,363,139</td>
+				</tr>
+			
+				<tr>
+					<td>아이들...</td>
+					<td>Children...</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>범죄,스릴러</td>
+					<td>주연-종호 부역</td>
+					<td>13,579,712,500</td>
+					<td>1,867,849</td>
+					<td>13,579,712,500</td>
+					<td>1,867,849</td>
+				</tr>
+			
+				<tr>
+					<td>용서는 없다</td>
+					<td>No Mercy</td>
+					<td>2009</td>
+					<td>한국</td>
+					<td>범죄,스릴러</td>
+					<td>조연</td>
+					<td>8,737,627,361</td>
+					<td>1,144,238</td>
+					<td>8,597,290,000</td>
+					<td>1,125,154</td>
+				</tr>
+			
+				<tr>
+					<td>과속스캔들</td>
+					<td>Scandal Makers</td>
+					<td>2008</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>단역-동물병원의, 이창훈역</td>
+					<td>53,940,101,534</td>
+					<td>8,245,523</td>
+					<td>53,801,341,400</td>
+					<td>8,223,342</td>
+				</tr>
+			
+				<tr>
+					<td>잘못된 만남</td>
+					<td>Santamaria</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td>308,898,000</td>
+					<td>47,557</td>
+					<td>308,882,000</td>
+					<td>47,555</td>
+				</tr>
+			
+				<tr>
+					<td>우리 생애 최고의 순간</td>
+					<td>Forever The Moment</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>단역-정란의 남편, 진국역</td>
+					<td>26,151,780,425</td>
+					<td>4,044,582</td>
+					<td>26,119,898,000</td>
+					<td>4,018,872</td>
+				</tr>
+			
+				<tr>
+					<td>극락도 살인사건</td>
+					<td>Paradise Murdered</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>공포(호러),미스터리,스릴러</td>
+					<td>주연-학교소사, 한춘배역</td>
+					<td>0</td>
+					<td>2,259,511</td>
+					<td>13,328,932,000</td>
+					<td>2,079,989</td>
+				</tr>
+			
+				<tr>
+					<td>손님은 왕이다</td>
+					<td>The Customer Is Always Right</td>
+					<td>2006</td>
+					<td>한국</td>
+					<td>드라마,범죄,미스터리</td>
+					<td>주연-이발사 안창진역</td>
+					<td>0</td>
+					<td>172,693</td>
+					<td>975,730,600</td>
+					<td>152,791</td>
+				</tr>
+			
+				<tr>
+					<td>간 큰 가족</td>
+					<td>A Bold Family</td>
+					<td>2005</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연-박 상무역</td>
+					<td>0</td>
+					<td>1,593,038</td>
+					<td>8,212,961,893</td>
+					<td>1,305,518</td>
+				</tr>
+			
+				<tr>
+					<td>불어라 봄바람</td>
+					<td>Spring Breeze</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>924,190</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>바람난 가족</td>
+					<td>A Good Lawyer&#039;s Wife</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>조연-성지루, 우편배달부 역</td>
+					<td></td>
+					<td>1,748,258</td>
+					<td>222,000</td>
+					<td>31</td>
+				</tr>
+			
+				<tr>
+					<td>첫사랑 사수 궐기 대회</td>
+					<td>Crazy First Love (Working Title)</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>조연-강철역</td>
+					<td>0</td>
+					<td>2,339,410</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>선생 김봉두</td>
+					<td>My Teacher, Mr. Kim</td>
+					<td>2003</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>2,472,135</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>휘파람공주</td>
+					<td>The Hidden Princess</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td>9,042</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>가문의 영광</td>
+					<td>Marrying the Mafia</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>주연-장석태역</td>
+					<td></td>
+					<td>1,605,775</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>라이터를 켜라</td>
+					<td>Break Out</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>단역-만수역</td>
+					<td></td>
+					<td>470,557</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>공공의 적</td>
+					<td>Public Enemy</td>
+					<td>2002</td>
+					<td>한국</td>
+					<td>범죄,액션</td>
+					<td>조연-대길역</td>
+					<td></td>
+					<td>1,161,500</td>
+					<td>1,145,500</td>
+					<td>138</td>
+				</tr>
+			
+				<tr>
+					<td>신라의 달밤</td>
+					<td>Kick The Moon</td>
+					<td>2001</td>
+					<td>한국</td>
+					<td>코미디</td>
+					<td>조연-덕섭역</td>
+					<td>0</td>
+					<td>1,608,211</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

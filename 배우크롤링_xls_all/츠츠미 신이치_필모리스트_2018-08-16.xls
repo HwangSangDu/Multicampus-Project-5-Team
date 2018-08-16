@@ -1,0 +1,255 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '츠츠미 신이치'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>일본패망하루전</td>
+					<td>The Emperor in August</td>
+					<td>2015</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>11,980,000</td>
+					<td>1,640</td>
+					<td>12,055,000</td>
+					<td>1,655</td>
+				</tr>
+			
+				<tr>
+					<td>신은 발리에 있다</td>
+					<td>Bali Big Brothers</td>
+					<td>2014</td>
+					<td>일본</td>
+					<td>드라마,코미디</td>
+					<td>주연-아니키역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>지옥이 뭐가 나빠</td>
+					<td>Why Don&#039;t You Play in Hell?</td>
+					<td>2013</td>
+					<td>일본</td>
+					<td>액션,코미디</td>
+					<td>주연</td>
+					<td>11,861,969</td>
+					<td>1,816</td>
+					<td>12,678,969</td>
+					<td>1,922</td>
+				</tr>
+			
+				<tr>
+					<td>올웨이즈 3번가의 석양 64</td>
+					<td> Always: Sunset on Third Street 3</td>
+					<td>2012</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>0</td>
+					<td>0</td>
+				</tr>
+			
+				<tr>
+					<td>용의자 X의 헌신</td>
+					<td>Suspect X</td>
+					<td>2008</td>
+					<td>일본</td>
+					<td>미스터리,스릴러,범죄</td>
+					<td>주연</td>
+					<td>636,382,007</td>
+					<td>94,790</td>
+					<td>624,766,000</td>
+					<td>93,080</td>
+				</tr>
+			
+				<tr>
+					<td>클라이머즈 하이</td>
+					<td>The Climbers High</td>
+					<td>2008</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>마이코 한!!!</td>
+					<td>Haaaan!!!: Maiko Haaaan!!!</td>
+					<td>2007</td>
+					<td>일본</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>938,000</td>
+					<td>125</td>
+					<td>938,000</td>
+					<td>125</td>
+				</tr>
+			
+				<tr>
+					<td>지하철을 타고</td>
+					<td>Metro ni notte </td>
+					<td>2006</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>올웨이즈 - 3번가의 석양</td>
+					<td>Always - Sunset On Third Street</td>
+					<td>2005</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>플라이, 대디, 플라이</td>
+					<td>Fly, Daddy, Fly</td>
+					<td>2005</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>착신아리</td>
+					<td>You&#039;Ve Got A Call</td>
+					<td>2003</td>
+					<td>일본</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>502,036</td>
+					<td>1,464,598,500</td>
+					<td>235,142</td>
+				</tr>
+			
+				<tr>
+					<td>비기너</td>
+					<td>Beginner</td>
+					<td>2003</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>드라이브</td>
+					<td>Drive</td>
+					<td>2002</td>
+					<td>일본</td>
+					<td>판타지,코미디</td>
+					<td>주연-아사쿠라 켄이치역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>먼데이</td>
+					<td>Monday</td>
+					<td>2000</td>
+					<td>일본</td>
+					<td>드라마,범죄,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>39 형법제39조</td>
+					<td>39 keiho dai sanjukyu jo</td>
+					<td>1999</td>
+					<td>일본</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>포스트맨 블루스</td>
+					<td>Postman Blues</td>
+					<td>1997</td>
+					<td>일본</td>
+					<td>범죄,액션,코미디</td>
+					<td>주연-사와키 류이치역</td>
+					<td>0</td>
+					<td>21,885</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

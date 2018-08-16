@@ -1,0 +1,229 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '강수진'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>극장판 유희왕 더 다크 사이드 오브 디멘션즈</td>
+					<td>Yu-Gi-Oh! : THE DARK SIDE OF DIMENSIONS</td>
+					<td>2016</td>
+					<td>일본</td>
+					<td>애니메이션</td>
+					<td>조연-조이역(목소리)</td>
+					<td>253,214,200</td>
+					<td>31,805</td>
+					<td>256,266,200</td>
+					<td>32,117</td>
+				</tr>
+			
+				<tr>
+					<td>극장판 루팡 3세 VS 명탐정 코난</td>
+					<td>Lupin The 3rd VS Detective Conan The Movie</td>
+					<td>2013</td>
+					<td>일본</td>
+					<td>애니메이션</td>
+					<td>주연-루팡 3세 목소리 역(목소리)</td>
+					<td>1,585,872,205</td>
+					<td>225,842</td>
+					<td>1,585,872,205</td>
+					<td>225,842</td>
+				</tr>
+			
+				<tr>
+					<td>명탐정 코난: 11번째 스트라이커</td>
+					<td>Detective Conan Movie 16 - The Eleventh Striker</td>
+					<td>2012</td>
+					<td>일본</td>
+					<td>애니메이션</td>
+					<td>주연-남도일 (한국어 목소리)역(목소리)</td>
+					<td>3,363,777,000</td>
+					<td>524,914</td>
+					<td>3,365,337,000</td>
+					<td>525,169</td>
+				</tr>
+			
+				<tr>
+					<td>원피스 3D : 밀짚모자 체이스</td>
+					<td>One Piece 3D: Mugiwara Chase</td>
+					<td>2011</td>
+					<td>일본</td>
+					<td>애니메이션,어드벤처,액션</td>
+					<td>주연(목소리)</td>
+					<td>91,648,500</td>
+					<td>13,475</td>
+					<td>91,648,500</td>
+					<td>13,475</td>
+				</tr>
+			
+				<tr>
+					<td>명탐정 코난 : 침묵의 15분</td>
+					<td>Detective Conan: Quarter Of Silence</td>
+					<td>2011</td>
+					<td>일본</td>
+					<td>애니메이션</td>
+					<td>주연-남도일 (한국어목소리)역(목소리)</td>
+					<td>4,212,918,000</td>
+					<td>644,634</td>
+					<td>4,212,992,000</td>
+					<td>644,652</td>
+				</tr>
+			
+				<tr>
+					<td>명탐정 코난: 천공의 난파선</td>
+					<td>Detective Conan: The Lost Ship In The Sky</td>
+					<td>2010</td>
+					<td>일본</td>
+					<td>애니메이션,가족</td>
+					<td>주연-남도일역(목소리)</td>
+					<td>4,065,925,171</td>
+					<td>628,423</td>
+					<td>4,002,088,500</td>
+					<td>618,420</td>
+				</tr>
+			
+				<tr>
+					<td>다트</td>
+					<td>Dart</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>애니메이션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>3,734</td>
+					<td>16</td>
+				</tr>
+			
+				<tr>
+					<td>명탐정 코난:감벽의 관</td>
+					<td>Detective Conan: Jolly Roger in the Deep Azure</td>
+					<td>2007</td>
+					<td>일본</td>
+					<td>애니메이션</td>
+					<td>주연-남도일 한국어 더빙역(목소리)</td>
+					<td>1,800,327,000</td>
+					<td>242,166</td>
+					<td>1,800,316,000</td>
+					<td>242,164</td>
+				</tr>
+			
+				<tr>
+					<td>불휘</td>
+					<td>The Root</td>
+					<td>2007</td>
+					<td>한국</td>
+					<td>애니메이션</td>
+					<td>투자</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>명탐정 코난:은빛 날개의 마술사</td>
+					<td>Detective Conan : Magician of the Silver Key</td>
+					<td>2004</td>
+					<td>일본</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td>1,158,686,500</td>
+					<td>176,483</td>
+					<td>1,158,761,500</td>
+					<td>176,495</td>
+				</tr>
+			
+				<tr>
+					<td>날으는 돼지 - 해적 마테오</td>
+					<td>MATEO</td>
+					<td>2004</td>
+					<td>한국</td>
+					<td>애니메이션</td>
+					<td>주연(목소리),투자</td>
+					<td>0</td>
+					<td>125,000</td>
+					<td>39,599,000</td>
+					<td>6,495</td>
+				</tr>
+			
+				<tr>
+					<td>명탐정 코난:베이커가의 망령</td>
+					<td>Detective Conan: The Phantom Of Baker Street</td>
+					<td>2002</td>
+					<td>일본</td>
+					<td>애니메이션</td>
+					<td>투자</td>
+					<td>711,270,500</td>
+					<td>124,139</td>
+					<td>717,454,500</td>
+					<td>123,323</td>
+				</tr>
+			
+				<tr>
+					<td>철인 사천왕</td>
+					<td>The Steel Force</td>
+					<td>1998</td>
+					<td>한국</td>
+					<td>애니메이션,액션,SF</td>
+					<td>주연-건역(목소리)</td>
+					<td>0</td>
+					<td>9,315</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>벅스 라이프</td>
+					<td>A Bug&#039;s Life</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>애니메이션,가족</td>
+					<td>주연-플릭 더빙 목소리역(목소리)</td>
+					<td>0</td>
+					<td>369,032</td>
+					<td>3,058,000</td>
+					<td>417</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

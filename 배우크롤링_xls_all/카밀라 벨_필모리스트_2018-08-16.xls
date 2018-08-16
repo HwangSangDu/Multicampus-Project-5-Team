@@ -1,0 +1,177 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '카밀라 벨'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>친구와 애인사이</td>
+					<td>Cavemen</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td>100,000</td>
+					<td>10</td>
+					<td>100,000</td>
+					<td>10</td>
+				</tr>
+			
+				<tr>
+					<td>프롬 프라다 투 나다</td>
+					<td>From Prada to Nada</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>멜로/로맨스,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>푸시</td>
+					<td>Push</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>SF,스릴러,드라마</td>
+					<td>주연-키라 허드슨역</td>
+					<td>4,817,364,578</td>
+					<td>726,998</td>
+					<td>4,742,733,000</td>
+					<td>715,887</td>
+				</tr>
+			
+				<tr>
+					<td>10,000 BC</td>
+					<td>10,000 BC</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>어드벤처,드라마</td>
+					<td>주연-에볼렛 역</td>
+					<td>7,430,607,499</td>
+					<td>1,140,118</td>
+					<td>7,443,923,500</td>
+					<td>1,134,364</td>
+				</tr>
+			
+				<tr>
+					<td>낯선 사람에게서 전화가 올 때</td>
+					<td>When A Stranger Calls</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연-질 존슨 역</td>
+					<td>0</td>
+					<td>350</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>발라드 오브 잭 앤 로즈</td>
+					<td>The Ballad Of Jack And Rose</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>춤스크러버</td>
+					<td>The Chumscrubber</td>
+					<td>2005</td>
+					<td>미국,독일</td>
+					<td>드라마,코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>콰이어트</td>
+					<td>The Quiet</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>패트리어트</td>
+					<td>The Patriot</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>스릴러,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>8,238</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>야성녀 아이비 2 </td>
+					<td>Poison Ivy Ⅱ</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>538</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

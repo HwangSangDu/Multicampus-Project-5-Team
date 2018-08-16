@@ -1,0 +1,112 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '보아'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>가을 우체국</td>
+					<td>Autumn Sonata</td>
+					<td>2015</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연-임수련역</td>
+					<td>23,270,700</td>
+					<td>3,099</td>
+					<td>23,270,700</td>
+					<td>3,099</td>
+				</tr>
+			
+				<tr>
+					<td>빅매치</td>
+					<td>Big Match</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>액션</td>
+					<td>주연-수경역</td>
+					<td>8,952,096,578</td>
+					<td>1,177,438</td>
+					<td>8,952,096,578</td>
+					<td>1,177,438</td>
+				</tr>
+			
+				<tr>
+					<td>에스엠타운 라이브인도쿄스페셜에디션3D</td>
+					<td>SMTOWN LIVE in TOKYO Special Edition 3D</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>공연</td>
+					<td>주연</td>
+					<td>18,130,000</td>
+					<td>1,652</td>
+					<td>18,130,000</td>
+					<td>1,652</td>
+				</tr>
+			
+				<tr>
+					<td>메이크 유어 무브 </td>
+					<td>Make Your Move </td>
+					<td>2011</td>
+					<td>한국,미국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연-아야역</td>
+					<td>73,741,600</td>
+					<td>9,368</td>
+					<td>73,741,600</td>
+					<td>9,368</td>
+				</tr>
+			
+				<tr>
+					<td>헷지</td>
+					<td>Over The Hedge</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>애니메이션,코미디</td>
+					<td>주연(목소리)</td>
+					<td>0</td>
+					<td>905,983</td>
+					<td>5,043,700,100</td>
+					<td>837,588</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

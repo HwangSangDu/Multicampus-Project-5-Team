@@ -1,0 +1,502 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '알 파치노'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>미스컨덕트</td>
+					<td>Misconduct</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>범죄,스릴러</td>
+					<td>주연</td>
+					<td>1,133,511,038</td>
+					<td>148,512</td>
+					<td>1,138,175,038</td>
+					<td>149,095</td>
+				</tr>
+			
+				<tr>
+					<td>맹글혼</td>
+					<td>Manglehorn</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>18,253,500</td>
+					<td>2,653</td>
+					<td>18,253,500</td>
+					<td>2,653</td>
+				</tr>
+			
+				<tr>
+					<td>대니 콜린스</td>
+					<td>Danny Collins</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>427,040,305</td>
+					<td>56,632</td>
+					<td>427,040,305</td>
+					<td>56,632</td>
+				</tr>
+			
+				<tr>
+					<td>알파치노의 은밀한 관계</td>
+					<td>The Humbling</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>143,000</td>
+					<td>64</td>
+					<td>143,000</td>
+					<td>64</td>
+				</tr>
+			
+				<tr>
+					<td>슈퍼배드 2</td>
+					<td>Despicable Me 2</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>애니메이션</td>
+					<td>주연(목소리)</td>
+					<td>6,605,668,500</td>
+					<td>962,865</td>
+					<td>6,611,503,500</td>
+					<td>963,763</td>
+				</tr>
+			
+				<tr>
+					<td>멋진 녀석들</td>
+					<td>Stand Up Guys</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>범죄,액션,코미디</td>
+					<td>주연</td>
+					<td>5,639,000</td>
+					<td>1,134</td>
+					<td>6,439,000</td>
+					<td>1,534</td>
+				</tr>
+			
+				<tr>
+					<td>잭 앤 질 </td>
+					<td>Jack and Jill </td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연-본인역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>화이트 밀크</td>
+					<td>The Son of No One</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>액션,스릴러,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>의로운 살인</td>
+					<td>Righteous Kill</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>범죄,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>88분</td>
+					<td>88 Minutes</td>
+					<td>2007</td>
+					<td>미국,독일,캐나다</td>
+					<td>드라마,미스터리,스릴러</td>
+					<td>주연-잭 그램역</td>
+					<td>1,863,411,167</td>
+					<td>284,619</td>
+					<td>1,862,630,500</td>
+					<td>281,781</td>
+				</tr>
+			
+				<tr>
+					<td>투 포 더 머니</td>
+					<td>Two For The Money</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>베니스의 상인</td>
+					<td>The Merchant Of Venice</td>
+					<td>2004</td>
+					<td>이탈리아</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>169,852</td>
+					<td>800,461,000</td>
+					<td>132,228</td>
+				</tr>
+			
+				<tr>
+					<td>엔젤스 인 아메리카</td>
+					<td>Angels In America</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>목격자</td>
+					<td>People I Know</td>
+					<td>2002</td>
+					<td>미국,독일</td>
+					<td>미스터리,범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>8,400</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>리크루트</td>
+					<td>The Recruit</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>범죄,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>303,458</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>시몬</td>
+					<td>Simone</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>SF,드라마,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>90,485</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>인썸니아</td>
+					<td>Insomnia</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>194,724</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>차이니스 커피</td>
+					<td>Chinese Coffee</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>감독,주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>애니 기븐 선데이</td>
+					<td>Any Given Sunday</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연-토니 다마토역</td>
+					<td>0</td>
+					<td>66,220</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>인사이더</td>
+					<td>The Insider</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>스릴러,드라마</td>
+					<td>주연-로웰 버그만역</td>
+					<td>0</td>
+					<td>22,959</td>
+					<td>290,000</td>
+					<td>62</td>
+				</tr>
+			
+				<tr>
+					<td>데블스에드버킷</td>
+					<td>The Devil&#039;S Advocate</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>스릴러,드라마,공포(호러)</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>245,164</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>도니 브래스코 </td>
+					<td>Donnie Brasco</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>드라마,범죄,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>33,473</td>
+					<td>348,000</td>
+					<td>80</td>
+				</tr>
+			
+				<tr>
+					<td>씨티 홀 </td>
+					<td>City Hall</td>
+					<td>1996</td>
+					<td>미국</td>
+					<td>드라마,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>19,253</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>히트</td>
+					<td>Heat</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>액션,범죄,드라마,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>412,819</td>
+					<td>42,646,500</td>
+					<td>5,555</td>
+				</tr>
+			
+				<tr>
+					<td>칼리토 </td>
+					<td>Carlito&#039;S Way</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>드라마,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>53,717</td>
+					<td>82,000</td>
+					<td>41</td>
+				</tr>
+			
+				<tr>
+					<td>여인의 향기</td>
+					<td>Scent Of A Woman</td>
+					<td>1993</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>54,951</td>
+					<td>1,070,000</td>
+					<td>199</td>
+				</tr>
+			
+				<tr>
+					<td>글렌게리 글렌로스</td>
+					<td>Glengarry Glen Ross</td>
+					<td>1992</td>
+					<td>미국</td>
+					<td>드라마,미스터리,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,771</td>
+					<td>0</td>
+					<td>0</td>
+				</tr>
+			
+				<tr>
+					<td>프랭키와 쟈니</td>
+					<td>Frankie And Johny</td>
+					<td>1991</td>
+					<td>미국</td>
+					<td>드라마,코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>3,605</td>
+					<td>118,000</td>
+					<td>59</td>
+				</tr>
+			
+				<tr>
+					<td>대부3</td>
+					<td>The Godfather Part Iii</td>
+					<td>1990</td>
+					<td>미국</td>
+					<td>범죄</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>273,406</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사랑의 파도</td>
+					<td>Sea Of Love</td>
+					<td>1989</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>29,756</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스카페이스 </td>
+					<td>Scarface</td>
+					<td>1983</td>
+					<td>미국</td>
+					<td>드라마,액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>250,746</td>
+					<td>3,189,000</td>
+					<td>578</td>
+				</tr>
+			
+				<tr>
+					<td>뜨거운 오후</td>
+					<td>Dog Day Afternoon</td>
+					<td>1975</td>
+					<td>미국</td>
+					<td>드라마,스릴러,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>338,000</td>
+					<td>66</td>
+				</tr>
+			
+				<tr>
+					<td>속 대부</td>
+					<td>Mario Puzo&#039;S The Godfather Part Ⅱ</td>
+					<td>1974</td>
+					<td>미국</td>
+					<td>드라마,범죄</td>
+					<td>주연-돈 마이클 코르레오네역</td>
+					<td>0</td>
+					<td>263,722</td>
+					<td>118,803,600</td>
+					<td>19,179</td>
+				</tr>
+			
+				<tr>
+					<td>알파치노의 허수아비</td>
+					<td>Scarecrow</td>
+					<td>1973</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>2,204,000</td>
+					<td>390</td>
+				</tr>
+			
+				<tr>
+					<td>대부</td>
+					<td>Mario Puzo&#039;s The Godfather</td>
+					<td>1972</td>
+					<td>미국</td>
+					<td>드라마,범죄,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>631,242</td>
+					<td>183,641,100</td>
+					<td>28,569</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

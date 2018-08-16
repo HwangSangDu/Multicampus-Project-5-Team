@@ -1,0 +1,216 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '에바 그린'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>실화</td>
+					<td>Based on a True Story</td>
+					<td>2017</td>
+					<td>프랑스,벨기에,폴란드</td>
+					<td>스릴러,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>4,123,000</td>
+					<td>493</td>
+				</tr>
+			
+				<tr>
+					<td>미스 페레그린과 이상한 아이들의 집</td>
+					<td>Miss Peregrine&#039;s Home For Peculiar Children</td>
+					<td>2016</td>
+					<td>미국,벨기에,영국</td>
+					<td>미스터리,판타지</td>
+					<td>주연</td>
+					<td>21,841,214,586</td>
+					<td>2,718,158</td>
+					<td>21,841,214,586</td>
+					<td>2,718,158</td>
+				</tr>
+			
+				<tr>
+					<td>버진 스노우</td>
+					<td>White Bird in a Blizzard</td>
+					<td>2014</td>
+					<td>프랑스,미국</td>
+					<td>미스터리,드라마</td>
+					<td>주연</td>
+					<td>113,076,354</td>
+					<td>14,964</td>
+					<td>113,076,354</td>
+					<td>14,964</td>
+				</tr>
+			
+				<tr>
+					<td>웨스턴 리벤지</td>
+					<td>The Salvation</td>
+					<td>2014</td>
+					<td>덴마크,영국,남아프리카공화국</td>
+					<td>액션,서부극(웨스턴)</td>
+					<td>주연</td>
+					<td>119,414,000</td>
+					<td>15,671</td>
+					<td>119,414,000</td>
+					<td>15,671</td>
+				</tr>
+			
+				<tr>
+					<td>300: 제국의 부활</td>
+					<td>300: Rise of an Empire</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>액션,드라마,전쟁</td>
+					<td>주연</td>
+					<td>13,395,159,700</td>
+					<td>1,593,116</td>
+					<td>13,395,159,700</td>
+					<td>1,593,116</td>
+				</tr>
+			
+				<tr>
+					<td>씬 시티: 다크히어로의 부활</td>
+					<td>Sin City: A dame to kill for</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>액션,범죄,스릴러</td>
+					<td>주연</td>
+					<td>656,718,748</td>
+					<td>83,182</td>
+					<td>656,718,748</td>
+					<td>83,182</td>
+				</tr>
+			
+				<tr>
+					<td>다크 섀도우</td>
+					<td>Dark Shadows</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>드라마,공포(호러),스릴러,미스터리</td>
+					<td>주연</td>
+					<td>4,326,459,000</td>
+					<td>582,126</td>
+					<td>4,326,459,000</td>
+					<td>582,126</td>
+				</tr>
+			
+				<tr>
+					<td>움</td>
+					<td>Womb</td>
+					<td>2011</td>
+					<td>독일,헝가리,프랑스</td>
+					<td>드라마</td>
+					<td>주연-레베카 역</td>
+					<td>11,966,500</td>
+					<td>1,693</td>
+					<td>11,966,500</td>
+					<td>1,693</td>
+				</tr>
+			
+				<tr>
+					<td>퍼펙트 센스</td>
+					<td>Perfect Sense</td>
+					<td>2011</td>
+					<td>영국</td>
+					<td>멜로/로맨스</td>
+					<td>주연-수잔역</td>
+					<td>343,990,100</td>
+					<td>45,865</td>
+					<td>343,990,100</td>
+					<td>45,865</td>
+				</tr>
+			
+				<tr>
+					<td>크랙</td>
+					<td>Cracks</td>
+					<td>2009</td>
+					<td>영국,아일랜드,스페인,프랑스,스위스</td>
+					<td>드라마,멜로/로맨스,스릴러</td>
+					<td>주연-미스 G역</td>
+					<td>47,813,694</td>
+					<td>6,309</td>
+					<td>47,266,000</td>
+					<td>6,241</td>
+				</tr>
+			
+				<tr>
+					<td>킹덤 오브 헤븐</td>
+					<td>Kingdom Of Heaven</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,484,000</td>
+					<td>7,815,893,000</td>
+					<td>1,237,269</td>
+				</tr>
+			
+				<tr>
+					<td>아르센 루팡 </td>
+					<td>Arsene Lupin</td>
+					<td>2004</td>
+					<td>스페인,프랑스,영국,이탈리아</td>
+					<td>액션,어드벤처,범죄</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>몽상가들</td>
+					<td>The Dreamers</td>
+					<td>2003</td>
+					<td>프랑스</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>31,211</td>
+					<td>284,317,204</td>
+					<td>41,034</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

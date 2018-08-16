@@ -1,0 +1,450 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '캐스퍼 반 디엔'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>쇼다운 인 마닐라</td>
+					<td>Showdown in Manila</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td>100,000</td>
+					<td>20</td>
+					<td>100,000</td>
+					<td>20</td>
+				</tr>
+			
+				<tr>
+					<td>ISRA 88</td>
+					<td>ISRA 88</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>SF,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>슈퍼히어로 어벤져</td>
+					<td>Avengers Grimm</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지</td>
+					<td>주연</td>
+					<td>4,000</td>
+					<td>1</td>
+					<td>4,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>잠자는 숲속의 미녀와 야수</td>
+					<td>Sleeping Beauty</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>판타지,어드벤처</td>
+					<td>감독</td>
+					<td>8,769,000</td>
+					<td>1,811</td>
+					<td>8,769,000</td>
+					<td>1,811</td>
+				</tr>
+			
+				<tr>
+					<td>준</td>
+					<td>June</td>
+					<td>2014</td>
+					<td>미국</td>
+					<td>공포(호러),드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스톰 둠스데이</td>
+					<td>500MPH Storm</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>액션,SF</td>
+					<td>주연</td>
+					<td>5,374,000</td>
+					<td>1,237</td>
+					<td>5,374,000</td>
+					<td>1,237</td>
+				</tr>
+			
+				<tr>
+					<td>바디 컬렉션</td>
+					<td>Shiver</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td>1,000</td>
+					<td>1</td>
+					<td>1,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>더 팩트</td>
+					<td>The Pact</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>공포(호러),미스터리</td>
+					<td>주연</td>
+					<td>11,390,000</td>
+					<td>5,070</td>
+					<td>11,390,000</td>
+					<td>5,070</td>
+				</tr>
+			
+				<tr>
+					<td>스타쉽 트루퍼스 3</td>
+					<td>Starship Troopers 3: Marauder</td>
+					<td>2008</td>
+					<td>미국,남아프리카공화국,독일</td>
+					<td>액션,어드벤처,SF</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>미이라 비기닝</td>
+					<td>The Curse Of King Tut&#039;s Tomb</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>어드벤처,판타지,공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>타락한자들</td>
+					<td>The Fallen Ones</td>
+					<td>2005</td>
+					<td>미국</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>드라큐라 3000</td>
+					<td>Dracula 3000</td>
+					<td>2004</td>
+					<td>독일,남아프리카공화국</td>
+					<td>공포(호러),SF</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>프리모니션</td>
+					<td>Premonition</td>
+					<td>2004</td>
+					<td>캐나다</td>
+					<td>SF</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>고잉 백</td>
+					<td>Going Back</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>액션,전쟁</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>데인저 씨</td>
+					<td>Danger Beneath The Sea</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>윈드폴</td>
+					<td>Windfall</td>
+					<td>2001</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>레저렉션 2</td>
+					<td>Sanctimony</td>
+					<td>2000</td>
+					<td>미국,독일</td>
+					<td>공포(호러),스릴러,범죄</td>
+					<td>주연-톰 메릭역</td>
+					<td>0</td>
+					<td>87</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>로드 레이지</td>
+					<td>A Friday Night Date </td>
+					<td>2000</td>
+					<td>캐나다,미국</td>
+					<td>액션,스릴러,드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>19</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>분닥 세인트 2</td>
+					<td>The Boondock Saints 2</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>체이싱 데스티니</td>
+					<td>Chasing Destiny</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>파이톤</td>
+					<td>Python</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>코미디,공포(호러),SF</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>파트너</td>
+					<td>Partners</td>
+					<td>2000</td>
+					<td>미국,독일</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>콜렉터</td>
+					<td>The Collectors</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>액션,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>1,798</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>샤크 어택</td>
+					<td>Shark Attack</td>
+					<td>1999</td>
+					<td>미국,이스라엘,남아프리카공화국</td>
+					<td>공포(호러),액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스릴 씨커</td>
+					<td>The Time Shifters</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>오메가 코드</td>
+					<td>The Omega Code</td>
+					<td>1999</td>
+					<td>미국</td>
+					<td>액션,어드벤처,판타지</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>로스트 시티</td>
+					<td>Tarzan And The Lost City</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>가족,액션,어드벤처,판타지</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>716</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>온 더 보더</td>
+					<td>On The Border</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>범죄,드라마,스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>캐스퍼 반 디엔의 뱀파이어</td>
+					<td>Modern Vampires</td>
+					<td>1998</td>
+					<td>미국</td>
+					<td>공포(호러),스릴러</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>스타쉽 트루퍼스 </td>
+					<td>Starship Troopers</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>SF,액션,어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>359,472</td>
+					<td>491,000</td>
+					<td>74</td>
+				</tr>
+			
+				<tr>
+					<td>나이트 보디가드 4 </td>
+					<td>Night Eyes 4</td>
+					<td>1995</td>
+					<td>미국</td>
+					<td>성인물(에로),드라마,스릴러</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>500</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

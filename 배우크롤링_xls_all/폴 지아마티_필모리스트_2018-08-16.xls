@@ -1,0 +1,385 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '폴 지아마티'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>갤럭시 히어로즈: 라쳇 앤 클랭크</td>
+					<td>Ratchet and Clank</td>
+					<td>2016</td>
+					<td>미국</td>
+					<td>애니메이션,액션,어드벤처</td>
+					<td>주연</td>
+					<td>336,281,100</td>
+					<td>46,638</td>
+					<td>337,056,100</td>
+					<td>46,793</td>
+				</tr>
+			
+				<tr>
+					<td>어린왕자</td>
+					<td>The Little Prince</td>
+					<td>2015</td>
+					<td>프랑스</td>
+					<td>애니메이션,판타지,어드벤처</td>
+					<td>주연(목소리)</td>
+					<td>4,336,252,627</td>
+					<td>579,130</td>
+					<td>4,337,674,627</td>
+					<td>579,367</td>
+				</tr>
+			
+				<tr>
+					<td>마담 보바리</td>
+					<td>Madame Bovary</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>56,360,900</td>
+					<td>7,221</td>
+					<td>56,360,900</td>
+					<td>7,221</td>
+				</tr>
+			
+				<tr>
+					<td>스트레이트 아웃 오브 컴턴</td>
+					<td>Straight Outta Compton</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>412,749,800</td>
+					<td>48,844</td>
+					<td>412,749,800</td>
+					<td>48,844</td>
+				</tr>
+			
+				<tr>
+					<td>러브 앤 머시</td>
+					<td>Love &amp; Mercy</td>
+					<td>2015</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>211,780,800</td>
+					<td>26,812</td>
+					<td>213,567,000</td>
+					<td>27,291</td>
+				</tr>
+			
+				<tr>
+					<td>더 콩그레스</td>
+					<td>The Congress</td>
+					<td>2013</td>
+					<td>이스라엘,독일,폴란드,룩셈부르크,프랑스,벨기에</td>
+					<td>애니메이션,SF,판타지</td>
+					<td>주연</td>
+					<td>9,105,000</td>
+					<td>1,301</td>
+					<td>9,203,000</td>
+					<td>1,315</td>
+				</tr>
+			
+				<tr>
+					<td>더 파크랜드</td>
+					<td>Parkland</td>
+					<td>2013</td>
+					<td>미국</td>
+					<td>미스터리</td>
+					<td>주연</td>
+					<td>45,970,500</td>
+					<td>6,354</td>
+					<td>45,970,500</td>
+					<td>6,354</td>
+				</tr>
+			
+				<tr>
+					<td>존은 끝에 가서 죽는다</td>
+					<td>John Dies at the End</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>코미디,공포(호러)</td>
+					<td>주연</td>
+					<td>2,405,000</td>
+					<td>415</td>
+					<td>2,405,000</td>
+					<td>415</td>
+				</tr>
+			
+				<tr>
+					<td>터보</td>
+					<td>Turbo</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>애니메이션</td>
+					<td>주연-체트역(목소리)</td>
+					<td>13,113,579,000</td>
+					<td>1,923,748</td>
+					<td>13,121,226,000</td>
+					<td>1,925,154</td>
+				</tr>
+			
+				<tr>
+					<td>코스모폴리스</td>
+					<td>Cosmopolis</td>
+					<td>2012</td>
+					<td>캐나다,프랑스,포르투갈,이탈리아</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>94,707,700</td>
+					<td>12,545</td>
+					<td>96,450,200</td>
+					<td>12,769</td>
+				</tr>
+			
+				<tr>
+					<td>락 오브 에이지</td>
+					<td>Rock of Ages</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>뮤지컬,드라마</td>
+					<td>주연</td>
+					<td>659,124,496</td>
+					<td>90,926</td>
+					<td>659,124,496</td>
+					<td>90,926</td>
+				</tr>
+			
+				<tr>
+					<td>러브, 마릴린 </td>
+					<td>Love, Marilyn</td>
+					<td>2012</td>
+					<td>미국</td>
+					<td>다큐멘터리</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>킹메이커</td>
+					<td>The Ides of March</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>342,178,000</td>
+					<td>44,903</td>
+					<td>342,666,000</td>
+					<td>44,965</td>
+				</tr>
+			
+				<tr>
+					<td>윈 윈</td>
+					<td>Win Win</td>
+					<td>2011</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연-마이크 플레어티역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>세 번째 사랑</td>
+					<td>Barney’s Version</td>
+					<td>2010</td>
+					<td>캐나다,이탈리아</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>주연</td>
+					<td>82,559,000</td>
+					<td>10,456</td>
+					<td>84,274,000</td>
+					<td>11,025</td>
+				</tr>
+			
+				<tr>
+					<td>톨스토이의 마지막 인생</td>
+					<td>The Last Station</td>
+					<td>2009</td>
+					<td>영국,미국,러시아,독일</td>
+					<td>드라마,멜로/로맨스</td>
+					<td>주연</td>
+					<td>448,097,918</td>
+					<td>61,480</td>
+					<td>450,607,000</td>
+					<td>61,902</td>
+				</tr>
+			
+				<tr>
+					<td>영혼을 빌려드립니다</td>
+					<td>Cold Souls</td>
+					<td>2009</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>프리티 버드</td>
+					<td>Pretty Bird</td>
+					<td>2008</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>산타는 괴로워</td>
+					<td>Fred Claus</td>
+					<td>2007</td>
+					<td>미국</td>
+					<td>코미디,판타지</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>레이디 인 더 워터</td>
+					<td>Lady In The Water</td>
+					<td>2006</td>
+					<td>미국</td>
+					<td>판타지</td>
+					<td>주연-클리브랜드 힙역</td>
+					<td>0</td>
+					<td>138,462</td>
+					<td>675,177,000</td>
+					<td>110,267</td>
+				</tr>
+			
+				<tr>
+					<td>사이드웨이</td>
+					<td>Sideways</td>
+					<td>2004</td>
+					<td>미국</td>
+					<td>드라마,어드벤처,코미디</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>23,900</td>
+					<td>145,910,500</td>
+					<td>22,604</td>
+				</tr>
+			
+				<tr>
+					<td>아메리칸 스플렌더</td>
+					<td>American Splendor</td>
+					<td>2003</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>152,000</td>
+					<td>35</td>
+				</tr>
+			
+				<tr>
+					<td>빅 팻 라이어</td>
+					<td>Big Fat Liar</td>
+					<td>2002</td>
+					<td>미국</td>
+					<td>코미디,어드벤처</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>100</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>듀엣</td>
+					<td>Duets</td>
+					<td>2000</td>
+					<td>미국</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>짐 캐리의 맨 온 더 문</td>
+					<td>Man On The Moon</td>
+					<td>1999</td>
+					<td>영국,독일,일본,미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>1,128,000</td>
+					<td>223</td>
+				</tr>
+			
+				<tr>
+					<td>언터처블 가이</td>
+					<td>Private Parts</td>
+					<td>1997</td>
+					<td>미국</td>
+					<td>코미디,드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

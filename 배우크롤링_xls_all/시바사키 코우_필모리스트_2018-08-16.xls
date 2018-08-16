@@ -1,0 +1,281 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '시바사키 코우'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>결혼하지 않아도 괜찮을까</td>
+					<td>Sue, Mai &amp; Sawa: Righting the Girl Ship</td>
+					<td>2012</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>98,104,500</td>
+					<td>12,003</td>
+					<td>98,104,500</td>
+					<td>12,003</td>
+				</tr>
+			
+				<tr>
+					<td>달팽이 식당</td>
+					<td>Rinco&#039;s Restaurant</td>
+					<td>2010</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>192,000</td>
+					<td>24</td>
+				</tr>
+			
+				<tr>
+					<td>용의자 X의 헌신</td>
+					<td>Suspect X</td>
+					<td>2008</td>
+					<td>일본</td>
+					<td>미스터리,스릴러,범죄</td>
+					<td>주연</td>
+					<td>636,382,007</td>
+					<td>94,790</td>
+					<td>624,766,000</td>
+					<td>93,080</td>
+				</tr>
+			
+				<tr>
+					<td>소림소녀</td>
+					<td>Shaolin Girl</td>
+					<td>2008</td>
+					<td>일본</td>
+					<td>액션,코미디</td>
+					<td>주연</td>
+					<td>169,120,500</td>
+					<td>26,434</td>
+					<td>169,120,500</td>
+					<td>26,434</td>
+				</tr>
+			
+				<tr>
+					<td>진구세주전설 북두의권 3부 라오우전 격투의 장</td>
+					<td></td>
+					<td>2007</td>
+					<td>일본</td>
+					<td>애니메이션</td>
+					<td>주연</td>
+					<td>9,000</td>
+					<td>1</td>
+					<td>9,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>마이코 한!!!</td>
+					<td>Haaaan!!!: Maiko Haaaan!!!</td>
+					<td>2007</td>
+					<td>일본</td>
+					<td>코미디</td>
+					<td>주연</td>
+					<td>938,000</td>
+					<td>125</td>
+					<td>938,000</td>
+					<td>125</td>
+				</tr>
+			
+				<tr>
+					<td>도로로</td>
+					<td>Dororo</td>
+					<td>2007</td>
+					<td>일본</td>
+					<td>액션,어드벤처,판타지</td>
+					<td>주연-도로로역</td>
+					<td>0</td>
+					<td>8,030</td>
+					<td>49,297,500</td>
+					<td>7,725</td>
+				</tr>
+			
+				<tr>
+					<td>진구세주전설 북두의권 1부 라오우전 순애의 장 </td>
+					<td></td>
+					<td>2006</td>
+					<td>일본</td>
+					<td>애니메이션</td>
+					<td>주연</td>
+					<td>9,000</td>
+					<td>1</td>
+					<td>9,000</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>일본침몰</td>
+					<td>Sinking Of Japan</td>
+					<td>2006</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연-아베 레이코역</td>
+					<td>0</td>
+					<td>940,560</td>
+					<td>4,672,989,200</td>
+					<td>773,025</td>
+				</tr>
+			
+				<tr>
+					<td>메종 드 히미코</td>
+					<td>Mezon Do Himiko</td>
+					<td>2005</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연-사오리역</td>
+					<td>0</td>
+					<td>91,960</td>
+					<td>586,278,000</td>
+					<td>89,123</td>
+				</tr>
+			
+				<tr>
+					<td>현청의 별</td>
+					<td>Star Reformer</td>
+					<td>2005</td>
+					<td>일본</td>
+					<td>코미디,멜로/로맨스</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>세상의 중심에서 사랑을 외치다</td>
+					<td>Crying Out Love In The Center Of The World</td>
+					<td>2004</td>
+					<td>일본</td>
+					<td>멜로/로맨스</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>428,202</td>
+					<td>2,010,989,500</td>
+					<td>315,274</td>
+				</tr>
+			
+				<tr>
+					<td>착신아리</td>
+					<td>You&#039;Ve Got A Call</td>
+					<td>2003</td>
+					<td>일본</td>
+					<td>공포(호러)</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>502,036</td>
+					<td>1,464,598,500</td>
+					<td>235,142</td>
+				</tr>
+			
+				<tr>
+					<td>드라이브</td>
+					<td>Drive</td>
+					<td>2002</td>
+					<td>일본</td>
+					<td>판타지,코미디</td>
+					<td>주연-사카이 스미레역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>GO(고)</td>
+					<td>Go</td>
+					<td>2001</td>
+					<td>한국,일본,미국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td>0</td>
+					<td>49,458</td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>사운드트랙</td>
+					<td>Soundtrack</td>
+					<td>2001</td>
+					<td>일본</td>
+					<td>드라마,판타지</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>허수아비</td>
+					<td>Scarecrow</td>
+					<td>2001</td>
+					<td>일본</td>
+					<td>공포(호러),판타지</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>동경 쓰레기 여자</td>
+					<td>Tokyo Trash Baby</td>
+					<td>2000</td>
+					<td>일본</td>
+					<td>드라마</td>
+					<td>주연-쿄코역</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>

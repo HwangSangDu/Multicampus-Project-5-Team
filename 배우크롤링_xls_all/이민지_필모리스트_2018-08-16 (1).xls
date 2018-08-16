@@ -1,0 +1,268 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KOFIC 영화관 입장권 통합전산망 :: 영화인 필모정보</title>
+</head>
+
+<body>
+
+<div id="wrap">
+    	<section id="content">
+		<table border="1" class="boardList02">
+			<caption>영화인 '이민지'의 필모 리스트</caption>
+
+			<thead>
+				<tr>
+					<th scope="col" class="row"><span>영화명</span></th>
+					<th scope="col" class="row"><span>영화명(영문)</span></th>
+					<th scope="col" class="row"><span>제작연도</span></th>
+					<th scope="col" class="row"><span>제작국가</span></th>
+					<th scope="col" class="row"><span>장르</span></th>
+					<th scope="col" class="row"><span>역할</span></th>
+					<th scope="col" class="row"><span>공식통계 매출액</span></th>
+					<th scope="col" class="row"><span>공식통계 관객수</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 매출액</span></th>
+					<th scope="col" class="row"><span>KOBIS통계 관객수</span></th>
+				</tr>
+			</thead>
+			<tbody>
+			
+				<tr>
+					<td>꿈의 제인</td>
+					<td>Jane</td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-소현역</td>
+					<td>203,379,700</td>
+					<td>24,874</td>
+					<td>205,039,700</td>
+					<td>25,060</td>
+				</tr>
+			
+				<tr>
+					<td>게임회사 여직원들</td>
+					<td></td>
+					<td>2016</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>735,000</td>
+					<td>105</td>
+				</tr>
+			
+				<tr>
+					<td>손님</td>
+					<td>The Piper</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>판타지,공포(호러)</td>
+					<td>조연-민영역</td>
+					<td>6,385,937,880</td>
+					<td>828,025</td>
+					<td>6,385,937,880</td>
+					<td>828,025</td>
+				</tr>
+			
+				<tr>
+					<td>차이나타운</td>
+					<td>Coin Locker Girl</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>범죄,드라마</td>
+					<td>단역-엄마 밀항자역</td>
+					<td>11,989,400,678</td>
+					<td>1,472,006</td>
+					<td>11,990,707,878</td>
+					<td>1,472,147</td>
+				</tr>
+			
+				<tr>
+					<td>비치하트애솔</td>
+					<td>Bitch Heart Asshole</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>멜로/로맨스,드라마</td>
+					<td>조연-단발머리여자역</td>
+					<td>1,827,700</td>
+					<td>279</td>
+					<td>1,827,700</td>
+					<td>279</td>
+				</tr>
+			
+				<tr>
+					<td>현기증</td>
+					<td>Entangled</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>가족,드라마</td>
+					<td>조연-정혜역</td>
+					<td>79,449,300</td>
+					<td>11,785</td>
+					<td>79,449,300</td>
+					<td>11,785</td>
+				</tr>
+			
+				<tr>
+					<td>발광하는 현대사</td>
+					<td>Balkwang</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>애니메이션</td>
+					<td>조연-미정 목소리역(목소리)</td>
+					<td></td>
+					<td></td>
+					<td>783,000</td>
+					<td>108</td>
+				</tr>
+			
+				<tr>
+					<td>슈우웅</td>
+					<td>Shoooo</td>
+					<td>2014</td>
+					<td>한국</td>
+					<td>기타</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			
+				<tr>
+					<td>서울연애</td>
+					<td>Romance In Seoul</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-민지역</td>
+					<td>7,106,100</td>
+					<td>978</td>
+					<td>10,320,600</td>
+					<td>1,547</td>
+				</tr>
+			
+				<tr>
+					<td>사이비</td>
+					<td>The Fake</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>애니메이션,스릴러</td>
+					<td>주연-영선친구1/ 폭주족4역(목소리)</td>
+					<td>164,274,900</td>
+					<td>22,070</td>
+					<td>167,123,900</td>
+					<td>22,526</td>
+				</tr>
+			
+				<tr>
+					<td>달이 기울면</td>
+					<td>When the Moon is on the Wane</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>공포(호러),판타지</td>
+					<td>주연-재아역</td>
+					<td></td>
+					<td></td>
+					<td>266,822</td>
+					<td>266</td>
+				</tr>
+			
+				<tr>
+					<td>세이프</td>
+					<td>SAFE</td>
+					<td>2013</td>
+					<td>한국</td>
+					<td>스릴러,드라마,공포(호러)</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>256,718</td>
+					<td>154</td>
+				</tr>
+			
+				<tr>
+					<td>물고기는 말이 없다</td>
+					<td>The Fish Is Mute</td>
+					<td>2012</td>
+					<td>한국</td>
+					<td>드라마,판타지</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>86,350</td>
+					<td>52</td>
+				</tr>
+			
+				<tr>
+					<td>애드벌룬</td>
+					<td>See You Tomorrow</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-효정역</td>
+					<td></td>
+					<td></td>
+					<td>989,675</td>
+					<td>694</td>
+				</tr>
+			
+				<tr>
+					<td>초대</td>
+					<td>Invitation</td>
+					<td>2011</td>
+					<td>한국</td>
+					<td>드라마</td>
+					<td>주연-수정역</td>
+					<td></td>
+					<td></td>
+					<td>396,225</td>
+					<td>245</td>
+				</tr>
+			
+				<tr>
+					<td>짐승의 끝</td>
+					<td>End of Animal</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>판타지,드라마</td>
+					<td>주연-순영역</td>
+					<td>7,898,000</td>
+					<td>1,030</td>
+					<td>9,321,500</td>
+					<td>1,250</td>
+				</tr>
+			
+				<tr>
+					<td>부서진 밤</td>
+					<td>Broken Night</td>
+					<td>2010</td>
+					<td>한국</td>
+					<td>범죄,스릴러,액션</td>
+					<td>주연</td>
+					<td></td>
+					<td></td>
+					<td>115,000</td>
+					<td>92</td>
+				</tr>
+			
+			</tbody>
+		</table>
+    </section>
+</div>
+</body>
+</html>
